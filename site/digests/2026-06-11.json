@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "generated_at": "2026-06-11T17:35:12+00:00",
+  "generated_at": "2026-06-11T18:53:51+00:00",
   "hot_topics": [
     {
       "topic": "Middle East Tensions Escalate Between US and Iran",
@@ -132,6 +132,15 @@
         "3f79dca0915938a5",
         "deec3980245bea99",
         "0bba2f19e0961aee"
+      ]
+    },
+    {
+      "topic": "AI Model Disclosures and Development Assistance",
+      "synthesis": "Anthropic apologized for undisclosed \"invisible guardrails\" in its Claude Fable AI model, raising transparency concerns in AI development. Concurrently, Claude Fable 5 was utilized as an AI assistant in software development, notably identifying and fixing bugs in a utility library. It also contributed to building an API explorer alongside GPT-5.5 xhigh, showcasing its practical application in coding tasks.",
+      "item_ids": [
+        "e7bff6d243a83d88",
+        "daf44865fe85b7c4",
+        "11ff90ef58c97742"
       ]
     }
   ],
@@ -917,6 +926,20 @@
       "priority": false
     },
     {
+      "id": "ac6dce9b39bba538",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "F1 teams spend millions on their simulators—what makes them different?",
+      "url": "https://arstechnica.com/cars/2026/06/whats-so-special-about-a-formula-1-driver-in-the-loop-simulator/",
+      "summary": "Formula 1 teams invest millions in driver-in-the-loop simulators, which differ from high-end consumer models primarily due to their extremely low latency. This enables a dynamic, closed-loop interaction between the driver's inputs and the car's immediate response.",
+      "tags": [
+        "f1",
+        "simulation",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
       "id": "c1643838cef77bac",
       "source": "Ars Technica",
       "source_type": "rss",
@@ -1518,6 +1541,20 @@
       "priority": false
     },
     {
+      "id": "e7bff6d243a83d88",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "summary": "Anthropic has issued an apology regarding \"invisible guardrails\" implemented in its Claude Fable AI model. This suggests concerns about undisclosed limitations or controls within the AI's functionality.",
+      "tags": [
+        "anthropic",
+        "ai",
+        "claude fable"
+      ],
+      "priority": false
+    },
+    {
       "id": "fb52a923a7fd9f3c",
       "source": "Hacker News: Front Page",
       "source_type": "rss",
@@ -1560,6 +1597,20 @@
       "priority": false
     },
     {
+      "id": "700bf2affe59fd71",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "MapComplete: Maps about various topics which you can contribute to",
+      "url": "https://mapcomplete.org/",
+      "summary": "MapComplete is a platform offering maps on various topics, allowing users to contribute and enrich the map data. It enables community-driven mapping efforts across diverse subjects.",
+      "tags": [
+        "mapping",
+        "open data",
+        "community"
+      ],
+      "priority": false
+    },
+    {
       "id": "929210df84ea1fde",
       "source": "Hacker News: Front Page",
       "source_type": "rss",
@@ -1584,6 +1635,20 @@
         "open source",
         "ui kit",
         "documents"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c14914baa25f52fb",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Solar generates more energy in US than coal for first time",
+      "url": "https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal",
+      "summary": "For the first time, solar power has generated more energy in the United States than coal. This marks a significant milestone in the country's energy production landscape.",
+      "tags": [
+        "energy",
+        "solar",
+        "us"
       ],
       "priority": false
     },
@@ -1636,6 +1701,20 @@
         "israel",
         "palestine",
         "human rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "21317989efc711e6",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Ebola testing has improved in DRC, but still isn't nearly enough",
+      "url": "https://www.npr.org/2026/06/11/nx-s1-5853489/ebola-testing-has-improved-in-drc-but-still-isnt-nearly-enough",
+      "summary": "The Democratic Republic of Congo has enhanced its Ebola testing capacity with two operational facilities, yet these improvements are still insufficient to manage the rapidly spreading disease effectively. The current testing infrastructure falls short of the demands posed by the expanding epidemic.",
+      "tags": [
+        "ebola",
+        "drc",
+        "public health"
       ],
       "priority": false
     },
@@ -1734,6 +1813,20 @@
       "priority": false
     },
     {
+      "id": "f9dba5f795d5dd4a",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Socioeconomic factors are becoming 'biologically embedded' in children's brains",
+      "url": "https://www.npr.org/2026/06/11/nx-s1-5849937/child-brain-development-stress-sleep-neighborhood-economics",
+      "summary": "A study involving over 2,300 children aged 9 to 10 years old revealed that socioeconomic factors account for the majority of observed differences in their brain development. This suggests that socioeconomic conditions are becoming \"biologically embedded\" in children's brains.",
+      "tags": [
+        "child development",
+        "socioeconomic factors",
+        "brain science"
+      ],
+      "priority": false
+    },
+    {
       "id": "ced47f56f6f0b1a6",
       "source": "NPR Topics: News",
       "source_type": "rss",
@@ -1814,6 +1907,20 @@
         "trump",
         "monument",
         "veterans"
+      ],
+      "priority": false
+    },
+    {
+      "id": "56b41120d8be6ac8",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "White House response to hantavirus and Ebola contrasts with COVID criticisms",
+      "url": "https://www.npr.org/2026/06/11/nx-s1-5854492/hantavirus-ebola-health-freedom",
+      "summary": "The current administration has implemented mandatory quarantine orders for hantavirus exposure and is preventing Americans infected with Ebola from returning home for treatment. This approach contrasts with criticisms faced regarding its response to previous health crises like COVID.",
+      "tags": [
+        "public health",
+        "government response",
+        "infectious disease"
       ],
       "priority": false
     },
@@ -1916,6 +2023,34 @@
       "priority": false
     },
     {
+      "id": "11ff90ef58c97742",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "asyncinject 0.7",
+      "url": "https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything",
+      "summary": "Asyncinject 0.7, an asyncio dependency injection utility library, has been released. Notably, Claude Fable 5 identified and fixed bugs within the dependency during its development.",
+      "tags": [
+        "python",
+        "asyncio",
+        "dependency injection"
+      ],
+      "priority": false
+    },
+    {
+      "id": "daf44865fe85b7c4",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "datasette 1.0a33",
+      "url": "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything",
+      "summary": "Datasette 1.0a33 has been released, significantly extending the `?_extra=` pattern to cover queries and rows in addition to tables, and is now documented. The release includes an API explorer built with the assistance of Claude Fable 5 and GPT-5.5 xhigh.",
+      "tags": [
+        "datasette",
+        "software release",
+        "api"
+      ],
+      "priority": false
+    },
+    {
       "id": "ed395cac6de61960",
       "source": "Simon Willison's Weblog",
       "source_type": "rss",
@@ -1982,6 +2117,20 @@
         "public health",
         "us policy",
         "government capacity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ac13b82f77d80e70",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Coinbase’s new tool can help agents trade and pay for premium research",
+      "url": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/",
+      "summary": "Coinbase has introduced a new tool that allows agents to trade and access premium research. This functionality is enabled through the x402 protocol, which provides access to data and APIs.",
+      "tags": [
+        "coinbase",
+        "crypto",
+        "finance"
       ],
       "priority": false
     },
@@ -2318,6 +2467,34 @@
       "priority": false
     },
     {
+      "id": "4feba199be7a39e1",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Death of the Summer Job",
+      "url": "https://www.thefp.com/p/the-death-of-the-summer-job",
+      "summary": "The author reflects on a challenging 1986 summer job in a Nantucket restaurant kitchen, highlighting the demanding environment and personal growth. The piece contrasts the author's experience of contributing to tuition with a privileged peer whose father mandated summer jobs for character building.",
+      "tags": [
+        "personal essay",
+        "labor",
+        "youth employment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f3c293daa0813d19",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Amazon&#8217;s data centers used 2.5 billion gallons of water last year",
+      "url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
+      "summary": "Amazon reported its global data centers consumed 2.5 billion gallons of water in 2025, a 2% decrease from the previous year, even with expanded operations. This disclosure follows a Seattle data center moratorium and broader concerns about water and energy use by AI data centers.",
+      "tags": [
+        "amazon",
+        "data centers",
+        "water usage"
+      ],
+      "priority": false
+    },
+    {
       "id": "19a610d80409c953",
       "source": "The Verge",
       "source_type": "rss",
@@ -2430,6 +2607,20 @@
       "priority": false
     },
     {
+      "id": "3c81fdbbd6d10243",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Roborock&#8217;s Q10 S5 Plus robovac is over half off, matching its best price to date",
+      "url": "https://www.theverge.com/gadgets/948529/roborock-q10-s5-plus-robot-vacuum-mop-deal-sale",
+      "summary": "The Roborock Q10 S5 Plus robot vacuum, now available for under $300, offers advanced features like AI-powered obstacle detection, automatic carpet lifting, and a self-emptying dock at a budget-friendly price. While making some compromises compared to pricier models, its performance and value make it a top pick for its segment.",
+      "tags": [
+        "smart home",
+        "robot vacuum",
+        "deal"
+      ],
+      "priority": false
+    },
+    {
       "id": "6fbd5393851ebf76",
       "source": "The Verge",
       "source_type": "rss",
@@ -2459,11 +2650,11 @@
     }
   ],
   "counts": {
-    "new_items": 188,
+    "new_items": 204,
     "skipped_promos": 20,
-    "filtered_by_rules": 1,
+    "filtered_by_rules": 4,
     "email_items_omitted": 0,
-    "summarized": 167,
+    "summarized": 180,
     "sources": 14
   }
 }
