@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "generated_at": "2026-06-11T08:12:16+00:00",
+  "generated_at": "2026-06-11T17:35:12+00:00",
   "hot_topics": [
     {
       "topic": "Middle East Tensions Escalate Between US and Iran",
@@ -74,9 +74,652 @@
         "740139c8794ee864",
         "1bd0c8972ca3c0d9"
       ]
+    },
+    {
+      "topic": "SpaceX IPO and Elon Musk's Controversies",
+      "synthesis": "SpaceX is preparing for a potentially record-breaking Initial Public Offering (IPO) aiming to raise $75 billion, a move anticipated to profoundly impact Elon Musk's wealth and the broader market. This financial event is attracting other space companies, such as Quantum Space, to pursue their own investment deals. However, the pre-IPO period is also marked by controversy, with Musk facing accusations of fueling anti-immigration tensions on social media amid riots in Belfast.",
+      "item_ids": [
+        "8b5ad0c1cc6116a1",
+        "8f5b01fa3a0b2617",
+        "374524dd0b6a8021",
+        "630c6cb487453333",
+        "ec7cb641e669ac86",
+        "deec3980245bea99"
+      ]
+    },
+    {
+      "topic": "AI Agent Safety and Enterprise Deployment",
+      "synthesis": "Leading AI firms are intensely focusing on the safety and ethical deployment of AI agents that can interact autonomously. Google DeepMind is investing $10 million in research to address potential risks like scams and cyberattacks from large-scale agent interactions online, aiming to proactively establish a multi-agent safety research field. Concurrently, Anthropic is partnering with TCS to scale its enterprise AI model deployments, highlighting the rapid real-world expansion of agent-based systems.",
+      "item_ids": [
+        "e1ead1900442100f",
+        "6dbc9abbc9af6a90"
+      ]
+    },
+    {
+      "topic": "Global Nuclear Energy Strategies and Challenges",
+      "synthesis": "The global pursuit of nuclear power is characterized by diverse strategies and persistent challenges. China is rapidly expanding its nuclear fleet by constructing large, standardized reactors, aiming to surpass the US and EU in capacity by 2030, a stark contrast to the US focus on smaller modular reactors. Meanwhile, Japan's recent reactor restarts are exacerbating concerns over the country's critical shortage of space for spent nuclear fuel and its lack of plans for radioactive waste disposal.",
+      "item_ids": [
+        "374524dd0b6a8021",
+        "249f8f2a290e6c0f",
+        "035e8ffd608cd9a6"
+      ]
+    },
+    {
+      "topic": "Waymo's New Premium Loyalty Program",
+      "synthesis": "Waymo has introduced \"Waymo Premier,\" an invite-only monthly membership program priced at $29.99, targeting frequent users of its robotaxi service. This new premium tier offers a range of exclusive benefits, including priority pickups, a 10% cash-back incentive on every trip, early access to services in new cities, and up to five free cancellations per month. The program aims to enhance the autonomous ride-hailing experience for its most dedicated customers.",
+      "item_ids": [
+        "556247e9d092544c",
+        "9e8541f80d56e071"
+      ]
+    },
+    {
+      "topic": "World Cup 2026 Preparations and Social Media Void",
+      "synthesis": "As the 2026 FIFA World Cup approaches, host cities like Mexico City are undergoing significant preparations, including renovations to iconic venues like Azteca Stadium. Concurrently, there's a recognized void in social media, as no clear platform has emerged to replace the real-time commentary and community engagement once central to sports events on Twitter. Beyond the official venues, the tournament is expected to ignite vibrant cultural celebrations, particularly among immigrant communities in host regions like Queens, New York.",
+      "item_ids": [
+        "6fbd5393851ebf76",
+        "32f403f7cc643bee",
+        "3f79dca0915938a5",
+        "1a009989badbdcf5",
+        "0ebcff4538366889"
+      ]
+    },
+    {
+      "topic": "US-Iran Tensions and Wiretapping Authority Debate",
+      "synthesis": "The U.S. has conducted a second consecutive day of air strikes against Iran, indicating escalating tensions, with Iran promising \"heavy responses.\" Amidst this backdrop, efforts to renew Section 702 of FISA, a controversial warrantless wiretapping authority, are complicated by its recent lapse after Congress failed to pass an extension. Further complicating matters is President Trump's pick for intelligence chief, Bill Pulte, whose lack of national security experience raises concerns among lawmakers regarding the spy tool's future.",
+      "item_ids": [
+        "e0090052f8d1bb33",
+        "e475b874b8ca627b",
+        "3f79dca0915938a5",
+        "deec3980245bea99",
+        "0bba2f19e0961aee"
+      ]
     }
   ],
   "items": [
+    {
+      "id": "b9c0fbaa8bbfd8a6",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Don’t touch the art",
+      "url": "https://aeon.co/videos/when-artworks-dare-audiences-to-break-a-cardinal-museum-rule",
+      "summary": "Yoko Ono's artwork challenges the traditional museum rule of \"don't touch the art\" by inviting audience interaction. This piece explores why touch is considered transgressive in the context of art galleries and audience engagement.",
+      "tags": [
+        "art",
+        "culture",
+        "museums"
+      ],
+      "priority": true
+    },
+    {
+      "id": "77bab7bb81c3ca6d",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "\"This cannot continue\": Xbox leaders lay out \"hard truths\" behind sagging brand",
+      "url": "https://arstechnica.com/gaming/2026/06/this-cannot-continue-xbox-leaders-lay-out-hard-truths-behind-sagging-brand/",
+      "summary": "Xbox executives, including new CEO Asha Sharma, revealed a \"brutal self-assessment\" of the brand, citing a mere 3% profit margin, significantly below industry averages and Microsoft's targets. This underperformance is attributed to being \"overextended\" by major acquisitions like the $69 billion Activision deal, yet overall gaming revenues have decreased.",
+      "tags": [
+        "gaming",
+        "business",
+        "finance"
+      ],
+      "priority": true
+    },
+    {
+      "id": "bda6d94bf820dcf8",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Did Iron Age Britons remove brains of the dead?",
+      "url": "https://arstechnica.com/science/2026/06/did-iron-age-britons-remove-brains-of-the-dead/",
+      "summary": "New research in Antiquity suggests Iron Age Britons may have practiced postmortem brain removal and bone modification, based on remains found in a Scottish burial cairn. The study's osteoarcheological and DNA analysis of two individuals dating 50 BCE to 70 CE revealed unusual cranium fractures and sharpened limb bones.",
+      "tags": [
+        "archaeology",
+        "history",
+        "science"
+      ],
+      "priority": true
+    },
+    {
+      "id": "9fcaf9c4f928c4d0",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Several things I like about macOS 27 Golden Gate that have nothing to do with AI",
+      "url": "https://arstechnica.com/gadgets/2026/06/five-things-i-like-and-one-thing-i-still-want-in-the-macos-27-golden-gate-beta/",
+      "summary": "Beyond the focus on Apple Intelligence and Siri AI, macOS 27 Golden Gate introduces significant \"platform improvements\" and new parental controls. These updates aim to boost responsiveness and address user complaints, enhancing the overall user experience on supported M1 MacBook Air and newer hardware.",
+      "tags": [
+        "apple",
+        "software",
+        "technology"
+      ],
+      "priority": true
+    },
+    {
+      "id": "5092775e40fe2fd4",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "The first complex cells had genes from a complex mix of species",
+      "url": "https://arstechnica.com/science/2026/06/the-first-complex-cells-had-genes-from-a-complex-mix-of-species/",
+      "summary": "We tend to view ourselves and the complex cells that build us as a distinct branch of the tree of life from the compact, seemingly featureless cells of bacteria and archaea. But we've found that our genome is actually a hybrid, a mish-mash of genes from bacteria and archaea, alon…",
+      "tags": [],
+      "priority": true
+    },
+    {
+      "id": "af9c638e841babe0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Artan to referee Uefa Super Cup after losing World Cup spot",
+      "url": "https://www.bbc.com/sport/football/articles/c2kyx0l0499o?at_medium=RSS&at_campaign=rss",
+      "summary": "Somali referee Omar Artan has been appointed to officiate the Uefa Super Cup match between Paris St-Germain and Aston Villa, despite previously being denied a spot at the World Cup. This assignment marks a significant role for the referee after a prior setback.",
+      "tags": [
+        "football",
+        "sports",
+        "referee"
+      ],
+      "priority": true
+    },
+    {
+      "id": "a097b702260aaf11",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "El Niño under way and threatens weather extremes, scientists say",
+      "url": "https://www.bbc.com/news/articles/c75ylx7g00xo?at_medium=RSS&at_campaign=rss",
+      "summary": "US scientists have confirmed the official start of an El Niño event, raising concerns about potential extreme weather patterns and higher global temperatures. This natural climate phenomenon typically brings significant shifts in weather conditions worldwide.",
+      "tags": [
+        "climate",
+        "weather",
+        "science"
+      ],
+      "priority": true
+    },
+    {
+      "id": "c3b5e635d7b6a90d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Four days of extreme rain killed 7% of world's rarest orangutans, study says",
+      "url": "https://www.bbc.com/news/articles/ce8jde20v83o?at_medium=RSS&at_campaign=rss",
+      "summary": "A recent study indicates that a four-day period of extreme rain, intensified by climate change, led to the death of 7% of the world's rarest orangutans. This event highlights how climate change-induced weather is pushing orangutan populations towards extinction.",
+      "tags": [
+        "climate change",
+        "wildlife",
+        "environment"
+      ],
+      "priority": true
+    },
+    {
+      "id": "630c6cb487453333",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "SpaceX's stock market blast-off could be Musk's biggest gamble yet",
+      "url": "https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&at_campaign=rss",
+      "summary": "SpaceX is preparing for a stock market debut that analysts suggest could be Elon Musk's biggest gamble, potentially transforming the company and the wider market. This IPO is expected to have a significant impact on Musk's fortune.",
+      "tags": [
+        "spacex",
+        "finance",
+        "elon musk"
+      ],
+      "priority": true
+    },
+    {
+      "id": "92abd925c8555276",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Thai court sentences two men to death over Bangkok shrine bombing",
+      "url": "https://www.bbc.com/news/articles/ckg8v51g9lno?at_medium=RSS&at_campaign=rss",
+      "summary": "A Thai court has sentenced two men to death for their involvement in the Bangkok shrine bombing 11 years ago, an explosion that killed twenty people and injured 120 others at the Erawan shrine. The ruling concludes a long-standing legal case.",
+      "tags": [
+        "thailand",
+        "crime",
+        "justice"
+      ],
+      "priority": true
+    },
+    {
+      "id": "fad5e4f9e71aa5e4",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+      "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+      "summary": "Pokémon Go scans, collected by Niantic, were reportedly used to train navigation technology for military drones developed by Vantor. This reveals an unexpected application of consumer data for defense purposes.",
+      "tags": [
+        "drones",
+        "military",
+        "data privacy"
+      ],
+      "priority": true
+    },
+    {
+      "id": "e1ead1900442100f",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "summary": "Google DeepMind is funding a $10 million research initiative with partners to study the potential dangers of millions of interacting AI agents online, citing risks like scams and cyberattacks. The goal is to establish a multi-agent safety research field outside industry labs, anticipating a tipping point as agents become widespread.",
+      "tags": [
+        "ai safety",
+        "research",
+        "cybersecurity"
+      ],
+      "priority": true
+    },
+    {
+      "id": "8ecc0b3eeaf3f491",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "Inside soccer’s data renaissance",
+      "url": "https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/",
+      "summary": "Jesse Davis's Sports Analytics Lab at KU Leuven is leading a \"data awakening\" in soccer, using machine learning to uncover tactical patterns and challenge traditional strategies. Their research, often open-source, has influenced professional clubs by providing insights on plays like intentionally kicking the ball out of bounds to gain an advantageous recovery position.",
+      "tags": [
+        "sports",
+        "data analytics",
+        "ai"
+      ],
+      "priority": true
+    },
+    {
+      "id": "824976f651faca51",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "Job titles of the future: Nature’s drug designer",
+      "url": "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/",
+      "summary": "Chemist Tim Cernak is pioneering \"conservation chemistry,\" using AI tools like Google DeepMind's AlphaFold and robotics to design precision drugs for animals and ecosystems, inspired by his frustration with outdated methods. His work aims to create targeted therapies for creatures ranging from frogs to bald eagles and even trees, bridging Big Pharma expertise with environmental health.",
+      "tags": [
+        "science",
+        "ai",
+        "environment"
+      ],
+      "priority": true
+    },
+    {
+      "id": "374524dd0b6a8021",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
+      "url": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
+      "summary": "This newsletter highlights two key stories: the \"data renaissance\" in soccer, where AI and analytics are transforming game strategies, and China's rapid expansion of large nuclear reactors. China is quickly increasing its nuclear capacity and is on track to surpass the US and EU by 2030, while the US focuses on smaller reactors.",
+      "tags": [
+        "ai",
+        "sports",
+        "nuclear energy"
+      ],
+      "priority": true
+    },
+    {
+      "id": "249f8f2a290e6c0f",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "Why China is betting on big nuclear reactors",
+      "url": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/",
+      "summary": "China is rapidly expanding its nuclear energy capacity by building gigawatt-scale pressurized-water reactors at a stunning pace, nearly doubling its fleet since 2016 and on track to surpass the US and EU by 2030. This strategy contrasts with the US focus on smaller modular reactors and is driven by standardization, massive government investment, and the lower cost per unit of electricity for large reactors.",
+      "tags": [
+        "nuclear energy",
+        "china",
+        "policy"
+      ],
+      "priority": true
+    },
+    {
+      "id": "035e8ffd608cd9a6",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Japan reactor restart sparks fresh fears over nuclear waste storage",
+      "url": "https://www.npr.org/2026/06/11/g-s1-127439/japan-reactor-restart-sparks-fresh-fears-over-nuclear-waste-storage",
+      "summary": "Japan's decision to restart a reactor reignites concerns over the country's severe lack of space for spent nuclear fuel and its absence of plans for radioactive waste disposal. This highlights a critical problem for Japan's nuclear program and its long-term viability.",
+      "tags": [
+        "nuclear energy",
+        "japan",
+        "environment"
+      ],
+      "priority": true
+    },
+    {
+      "id": "0ebcff4538366889",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "N.Y. and N.J. are hosting the World Cup. The real party is along the 7 train",
+      "url": "https://www.npr.org/2026/06/11/nx-s1-5850750/world-cup-new-york-queens-7-train",
+      "summary": "While New York and New Jersey are hosting the World Cup, the true celebration of soccer, especially among immigrants, is found along the 7 train in Queens, New York. For this community, soccer represents more than just a sport; it's a vital part of their way of life.",
+      "tags": [
+        "world cup",
+        "culture",
+        "new york"
+      ],
+      "priority": true
+    },
+    {
+      "id": "ec7cb641e669ac86",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "SpaceX is poised for blastoff with an IPO likely to break records",
+      "url": "https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk",
+      "summary": "SpaceX, having recently merged with xAI, is preparing for an initial public offering (IPO) aiming to raise $75 billion, which is expected to set new records. This IPO is among a trio of mega-IPOs anticipated from AI companies this year.",
+      "tags": [
+        "spacex",
+        "finance",
+        "startups"
+      ],
+      "priority": true
+    },
+    {
+      "id": "f055b382688e2d01",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Taiwan opposition leader says Xi meeting avoided 'reunification' talk",
+      "url": "https://www.npr.org/2026/06/11/g-s1-127478/taiwan-opposition-leader-says-xi-meeting-avoided-reunification-talk",
+      "summary": "Taiwan's opposition leader reported that discussions with Xi Jinping avoided \"reunification\" talk, as Taiwan awaits US approval on a $14 billion arms package amidst lingering uncertainty about Washington's defense commitment. This indicates careful diplomatic navigation in a sensitive geopolitical context.",
+      "tags": [
+        "taiwan",
+        "china",
+        "international relations"
+      ],
+      "priority": true
+    },
+    {
+      "id": "3f79dca0915938a5",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "U.S. launches second day of Iran strikes. And, World Cup facts to know before kickoff",
+      "url": "https://www.npr.org/2026/06/11/g-s1-127423/up-first-newsletter-us-iran-war-inflation-rates-world-cup",
+      "summary": "The U.S. has launched a second consecutive day of air strikes on Iran, as tensions threaten to disrupt the World Cup kickoff in Mexico City. This newsletter also provides facts about the upcoming football tournament.",
+      "tags": [
+        "us foreign policy",
+        "iran",
+        "world cup"
+      ],
+      "priority": true
+    },
+    {
+      "id": "ef4ff7fb0e99d437",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Biden’s Mexico ambassador was so frustrated, he almost ran for president himself",
+      "url": "https://www.politico.com/news/2026/06/11/ken-salazar-biden-border-security-2028-00958607",
+      "summary": "Ken Salazar, Biden's former ambassador to Mexico, became so frustrated with the White House's border plan and its lack of a \"border czar\" that he considered running for president himself in 2024, criticizing the administration's handling of the crisis. His forthcoming book details these frustrations and advocates for a \"new North American alliance\" to address border issues.",
+      "tags": [
+        "us politics",
+        "border security",
+        "foreign policy"
+      ],
+      "priority": true
+    },
+    {
+      "id": "e4a5ba714cf33ebb",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "New poll results show the UK political drama is a warning sign for Trump",
+      "url": "https://www.politico.com/news/2026/06/11/poll-voter-cynicism-uk-us-starmer-trump-00956725",
+      "summary": "Recent poll results indicate deep voter cynicism and a persistent anti-incumbent sentiment across the UK and US, posing a warning for Donald Trump's political future. British Prime Minister Keir Starmer faces potential ousting amid public dissatisfaction, mirroring a broader trend of voters punishing ruling parties globally.",
+      "tags": [
+        "uk politics",
+        "us politics",
+        "public opinion"
+      ],
+      "priority": true
+    },
+    {
+      "id": "225683c1f14091e6",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "What’s the Future of Gene Editing?",
+      "url": "https://www.quantamagazine.org/whats-the-future-of-gene-editing-20260611/",
+      "summary": "CRISPR, a revolutionary gene-editing technology derived from bacterial immune systems, allows precise manipulation of DNA to defend against viral threats. Researchers are continuously exploring its potential to modify genes for various applications.",
+      "tags": [
+        "gene editing",
+        "science",
+        "crispr"
+      ],
+      "priority": true
+    },
+    {
+      "id": "1906106a3433bf61",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Can we retire “public safety”?",
+      "url": "https://www.slowboring.com/p/can-we-retire-public-safety",
+      "summary": "The author suggests replacing the term \"public safety\" with \"crime\" in political discourse to moderate image and connect with public opinion, especially for left-leaning candidates in cities like Los Angeles. This advice aims to appeal to voters frustrated by urban issues without alienating their base.",
+      "tags": [
+        "us politics",
+        "terminology",
+        "crime"
+      ],
+      "priority": true
+    },
+    {
+      "id": "fac8a46212f19885",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Matt and Jerusalem read “Silent Spring”",
+      "url": "https://www.slowboring.com/p/matt-and-jerusalem-read-silent-spring",
+      "summary": "The article reviews Rachel Carson's \"Silent Spring,\" acknowledging its convincing arguments against pesticide overuse and its eco-modernist elements, despite the author's general skepticism toward major environmental institutions. It discusses the book's strengths in marshaling evidence but also its perceived flaws in romantic nostalgia and skepticism of normal political processes.",
+      "tags": [
+        "environment",
+        "books",
+        "policy"
+      ],
+      "priority": true
+    },
+    {
+      "id": "6dbc9abbc9af6a90",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic taps TCS to scale its enterprise AI deployments",
+      "url": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
+      "summary": "Anthropic has partnered with TCS, which will create a new business unit dedicated to deploying Anthropic's AI models for its enterprise customers. This collaboration aims to scale AI solutions across various businesses.",
+      "tags": [
+        "ai",
+        "business",
+        "partnerships"
+      ],
+      "priority": true
+    },
+    {
+      "id": "6b5e2e0b1d5dc5ce",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Coinbase debuts AI agent that can trade and pay for premium research",
+      "url": "https://techcrunch.com/2026/06/11/coinbase-debuts-ai-agent-that-can-trade-and-pay-for-premium-research/",
+      "summary": "Coinbase has launched an AI agent capable of trading and accessing premium research using the x402 protocol. This new tool offers advanced functionalities for users in the cryptocurrency market.",
+      "tags": [
+        "ai",
+        "finance",
+        "crypto"
+      ],
+      "priority": true
+    },
+    {
+      "id": "6e1ef95b275f5d1b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
+      "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+      "summary": "Deezer has launched a new tool designed to scan playlists across various streaming platforms, including Spotify and Apple Music, to identify AI-generated music. This innovation addresses the growing presence of AI in the music industry.",
+      "tags": [
+        "ai",
+        "music",
+        "streaming"
+      ],
+      "priority": true
+    },
+    {
+      "id": "ea7b05ef48161a7d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
+      "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+      "summary": "DoorDash has launched \"Ask DoorDash,\" a new AI chatbot that enables users to order food and goods using natural language prompts and photos, eliminating the need to scroll through menus. This feature aims to streamline the ordering process and enhance user experience.",
+      "tags": [
+        "ai",
+        "food delivery",
+        "app"
+      ],
+      "priority": true
+    },
+    {
+      "id": "5bf26d37adc670af",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Endurance Energy raises $54M to harness a massive untapped energy source",
+      "url": "https://techcrunch.com/2026/06/11/endurance-energy-raises-54m-to-harness-a-massive-untapped-energy-source/",
+      "summary": "Endurance Energy, founded by SpaceX alumni Andrew Redd, has raised $54 million to develop technology for harnessing vast amounts of untapped geothermal energy from the ocean. This investment aims to advance new renewable energy solutions.",
+      "tags": [
+        "energy",
+        "startups",
+        "climate"
+      ],
+      "priority": true
+    },
+    {
+      "id": "eb871f551180d134",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Meta’s Edits app is getting an AI assistant and a desktop version",
+      "url": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/",
+      "summary": "Meta is integrating an AI assistant and developing a desktop version for its Edits app to keep creators engaged on Instagram, competing with TikTok and YouTube. This move aims to enhance creator tools and workflow within the platform.",
+      "tags": [
+        "ai",
+        "social media",
+        "startups"
+      ],
+      "priority": true
+    },
+    {
+      "id": "bc5016eaa2a3771a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Microsoft taps Alt Carbon in sign of India’s growing role in carbon removal",
+      "url": "https://techcrunch.com/2026/06/11/microsoft-taps-alt-carbon-in-sign-of-indias-growing-rile-in-carbon-removal/",
+      "summary": "Microsoft has partnered with Alt Carbon, signaling India's increasing importance in the carbon removal sector, following over a year of scientific review and strict data-sharing requirements. This agreement underscores Microsoft's commitment to verified carbon removal initiatives.",
+      "tags": [
+        "climate",
+        "environment",
+        "business"
+      ],
+      "priority": true
+    },
+    {
+      "id": "8f5b01fa3a0b2617",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Quantum Space’s military SPAC is trying to catch SpaceX’s IPO wave",
+      "url": "https://techcrunch.com/2026/06/11/quantum-spaces-military-spac-is-trying-to-catch-spacexs-ipo-wave/",
+      "summary": "Quantum Space, a company focused on building military spacecraft, is pursuing a $1.2 billion SPAC deal to capitalize on the anticipated IPO wave of SpaceX, asserting that SPACs remain a viable investment vehicle. The company aims to leverage current market interest in space technology.",
+      "tags": [
+        "startups",
+        "finance",
+        "space"
+      ],
+      "priority": true
+    },
+    {
+      "id": "08d181fa6bf1fbb0",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "South Korea hits Coupang with $400M+ fine for data breach that affected millions",
+      "url": "https://techcrunch.com/2026/06/11/south-korea-hits-coupang-with-400m-fine-for-data-breach-that-affected-millions/",
+      "summary": "South Korean authorities have imposed a record-breaking fine exceeding $400 million on Coupang following a data breach that compromised the information of over 30 million customers. This significant penalty highlights the severe consequences of data security failures.",
+      "tags": [
+        "cybersecurity",
+        "data breach",
+        "business"
+      ],
+      "priority": true
+    },
+    {
+      "id": "fd35c86503577c27",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "These are the countries moving to ban social media for children",
+      "url": "https://techcrunch.com/2026/06/11/social-media-ban-children-countries-list/",
+      "summary": "Australia became the first country in late 2025 to ban social media for children, with other countries now considering similar measures to mitigate risks like cyberbullying, addiction, and exposure to predators. These bans aim to protect young users from the negative pressures associated with social media platforms.",
+      "tags": [
+        "social media",
+        "policy",
+        "children"
+      ],
+      "priority": true
+    },
+    {
+      "id": "9e8541f80d56e071",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Waymo launches a loyalty program with 10% cash back and free cancellations",
+      "url": "https://techcrunch.com/2026/06/11/waymo-launches-a-loyalty-program-with-10-cash-back-and-free-cancellations/",
+      "summary": "Waymo has introduced \"Waymo Premier,\" a $29.99 per month loyalty program, offering members priority pickups, 10% cash back on trips, early access to new cities, and five free cancellations. This program targets frequent users of the autonomous ride-hailing service.",
+      "tags": [
+        "autonomous vehicles",
+        "ride-sharing",
+        "business"
+      ],
+      "priority": true
+    },
+    {
+      "id": "0bba2f19e0961aee",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "EXCLUSIVE: Will the U.S. Deport Trita Parsi?",
+      "url": "https://www.thefp.com/p/iran-war-critic-deportation-trita-parsi",
+      "summary": "Trita Parsi, a vocal critic of the US-Israel war against Iran, faces a State Department investigation that could lead to his deportation, despite holding a US green card for over 25 years. Parsi, who has reported on Iranian threats and called for diplomatic solutions, denies claims of advancing the Islamic regime's agenda.",
+      "tags": [
+        "us politics",
+        "iran",
+        "foreign policy"
+      ],
+      "priority": true
+    },
+    {
+      "id": "deec3980245bea99",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Iran War Critic Under Investigation by the Trump Administration. Plus. . .",
+      "url": "https://www.thefp.com/p/iran-war-critic-under-investigation-trita-parsi",
+      "summary": "Trita Parsi, a prominent critic of the Iran war, is reportedly under investigation by the Trump administration's State Department, which is considering deporting the Iran-born, Sweden-raised green-card holder. Parsi, co-founder of the Quincy Institute, denies allegations that he acts as an agent of the Iranian regime, while his allies in Washington may rally to his defense.",
+      "tags": [
+        "us politics",
+        "iran",
+        "foreign policy"
+      ],
+      "priority": true
+    },
+    {
+      "id": "fe0300a4b3cb1d51",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Tough Love: Should My Son Hit a Bully?",
+      "url": "https://www.thefp.com/p/tough-love-tell-my-son-to-hit-back-bully",
+      "summary": "A mother seeks advice on how to respond to her 5-year-old son being bullied, questioning the notion that \"all kids are good inside\" when faced with another child's unprovoked aggression. The piece explores parenting challenges around bullying, the role of discipline, and the complexities of human nature in children.",
+      "tags": [
+        "parenting",
+        "education",
+        "social issues"
+      ],
+      "priority": true
+    },
+    {
+      "id": "6b13100528e20ca1",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Walter Isaacson on the Sentence That Created America",
+      "url": "https://www.thefp.com/p/walter-isaacson-on-the-sentence-that",
+      "summary": "Walter Isaacson discusses the profound significance of the sentence \"We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty, and the pursuit of Happiness\" as America's mission statement. He explores its role in defining the nation's foundational principles.",
+      "tags": [
+        "history",
+        "us politics",
+        "philosophy"
+      ],
+      "priority": true
+    },
+    {
+      "id": "e0090052f8d1bb33",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "A warrantless wiretap law is about to expire — but surveillance networks aren’t actually ‘going dark’",
+      "url": "https://www.theverge.com/tech/948451/fisa-702-reauthorization-vote-fails-congress-wiretapping-lapse",
+      "summary": "Congress failed to reauthorize Section 702 of FISA, a controversial warrantless wiretapping authority, leading to its lapse for at least a week, despite warnings from proponents about hindering intelligence efforts. The lapse does not, however, mean the complete loss of US surveillance capabilities.",
+      "tags": [
+        "policy",
+        "surveillance",
+        "national security"
+      ],
+      "priority": true
+    },
     {
       "id": "9a144a59b5074160",
       "source": "The Verge",
@@ -92,6 +735,118 @@
       "priority": true
     },
     {
+      "id": "8b5ad0c1cc6116a1",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Elon Musk is encouraging race riots on the eve of SpaceX’s IPO",
+      "url": "https://www.theverge.com/policy/948426/elon-musk-belfast-riots-anti-immigration",
+      "summary": "Elon Musk is accused of encouraging anti-immigration tensions amidst Belfast riots by supporting a hard-right party advocating large-scale migrant deportation and reposting statements calling for the prosecution of officials. This occurs as SpaceX prepares for an IPO that could make Musk the world's first trillionaire.",
+      "tags": [
+        "politics",
+        "social media",
+        "elon musk"
+      ],
+      "priority": true
+    },
+    {
+      "id": "c81106337dd63036",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Here are the price-matching policies for Best Buy, GameStop, and others",
+      "url": "https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft",
+      "summary": "Many major retailers like Best Buy and Target offer price-matching policies to retain customers, though rules and exclusions vary widely, especially during sales events like Amazon Prime Day. While Amazon generally doesn't price match, it offers a liberal return policy, and it's always worth asking customer service for exceptions.",
+      "tags": [
+        "retail",
+        "consumer",
+        "shopping"
+      ],
+      "priority": true
+    },
+    {
+      "id": "42f76b8f346445eb",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "I&#8217;ve found the Goldilocks of portable MIDI controllers",
+      "url": "https://www.theverge.com/tech/948024/arturia-minilab-37-midi-controller-review",
+      "summary": "The Arturia MiniLab 37, a new $149 portable MIDI controller, is praised for its ideal 37-key size, offering more playable space than 25-key alternatives for bass, lead, and expansive chords. It retains the solid keybed, pads, encoders, faders, and connectivity of its smaller sibling.",
+      "tags": [
+        "music",
+        "hardware",
+        "review"
+      ],
+      "priority": true
+    },
+    {
+      "id": "8bfbc40d4f748e5a",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Is Apple TV the new HBO?",
+      "url": "https://www.theverge.com/column/948295/apple-tv-new-hbo",
+      "summary": "Apple TV+ has garnered critical and audience hits like \"Severance\" and \"Ted Lasso,\" but despite its acclaimed shows, it continues to lag behind other major streaming services in audience size, failing to make Nielsen's top 10 list. The service's focus on quality original content hasn't yet translated into widespread subscriber growth compared to rivals.",
+      "tags": [
+        "streaming",
+        "entertainment",
+        "media"
+      ],
+      "priority": true
+    },
+    {
+      "id": "f9320b86c231804a",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The bill that would let Jimmy Kimmel sue Brendan Carr is here",
+      "url": "https://www.theverge.com/policy/948525/cruz-wyden-jawbone-act-censorship",
+      "summary": "A new bipartisan bill, the JAWBONE Act, introduced by Senators Ted Cruz and Ron Wyden, would allow individuals to sue government officials for attempting to coerce social media, AI, or broadcasting companies into removing posts. The bill also establishes new transparency requirements for government communications with these platforms.",
+      "tags": [
+        "policy",
+        "law",
+        "social media"
+      ],
+      "priority": true
+    },
+    {
+      "id": "2bec97750e87bf99",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The Nintendo Switch 2 is $15 off at Woot",
+      "url": "https://www.theverge.com/gadgets/948292/nintendo-switch-2-deal-sale-woot",
+      "summary": "Woot is offering a small $15 discount on the Nintendo Switch 2, priced at $449.99, which is notable as the console's price is set to increase to $499.99 in September. The Switch 2 features a 7.9-inch LCD display, new Joy-Con 2 controllers, and boasts backwards compatibility, with a bright future of new games and remasters.",
+      "tags": [
+        "gaming",
+        "deals",
+        "hardware"
+      ],
+      "priority": true
+    },
+    {
+      "id": "60e2aa802ab6ade2",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The Weather Channel app now predicts bad allergy days",
+      "url": "https://www.theverge.com/tech/948363/weather-channel-mobile-app-ios-android-pollen-forecast",
+      "summary": "The Weather Channel app has introduced an \"enhanced allergy experience\" in its \"Health & Wellness\" section, offering predictions for bad allergy days by considering factors beyond just pollen counts, such as changing weather conditions. This new feature aims to help users better understand and anticipate their allergy symptoms.",
+      "tags": [
+        "health",
+        "app",
+        "weather"
+      ],
+      "priority": true
+    },
+    {
+      "id": "556247e9d092544c",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Waymo introduces $30-a-month premium tier for riders who want faster pickups",
+      "url": "https://www.theverge.com/transportation/947974/waymo-premier-monthly-membership-perks-priority-cash-back",
+      "summary": "Waymo is launching \"Waymo Premier,\" a $29.99-a-month invite-only premium membership tier offering perks like priority pickups, 10% cash back, and early access in new cities. This service, initially available in San Francisco, Los Angeles, and Phoenix, targets frequent robotaxi users.",
+      "tags": [
+        "autonomous vehicles",
+        "ride-sharing",
+        "business"
+      ],
+      "priority": true
+    },
+    {
       "id": "2133af51a99122b2",
       "source": "Aeon | a world of ideas",
       "source_type": "rss",
@@ -102,6 +857,34 @@
         "history",
         "environment",
         "california"
+      ],
+      "priority": false
+    },
+    {
+      "id": "50ed131a3b123e4b",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "The no-human future",
+      "url": "https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really",
+      "summary": "This essay delves into accelerationism, a philosophy viewed by some as a revolutionary weapon but characterized by Nick Land as foreseeing a much darker, \"no-human future.\" The article explores the concept's appeal to both terrorists and tech enthusiasts.",
+      "tags": [
+        "philosophy",
+        "technology",
+        "future"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e2aa70bd09e24d72",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Alaskans will be flying blind after NSF decommissions ocean monitoring network",
+      "url": "https://arstechnica.com/science/2026/06/alaskans-will-be-flying-blind-after-nsf-decommissions-ocean-monitoring-network/",
+      "summary": "Alaska faces deep anxiety over the National Science Foundation's decision to decommission the $368 million Ocean Observatories Initiative, a network crucial for tracking ocean data in the rapidly warming region. This loss of real-time information will hinder scientists, fishery managers, and coastal planners in the top fish-producing state.",
+      "tags": [
+        "environment",
+        "science",
+        "policy"
       ],
       "priority": false
     },
@@ -288,6 +1071,20 @@
       "priority": false
     },
     {
+      "id": "32f403f7cc643bee",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "A sneak peek inside Mexico’s iconic Azteca Stadium before World Cup kickoff",
+      "url": "https://www.bbc.com/news/videos/cvgekz5q06po?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC provided a sneak peek inside Mexico's iconic Azteca Stadium, which has undergone renovations in preparation for the upcoming World Cup kickoff. This highlights the venue's readiness to host the tournament's first game.",
+      "tags": [
+        "world cup",
+        "sports",
+        "mexico"
+      ],
+      "priority": false
+    },
+    {
       "id": "53540bce11f8a77d",
       "source": "BBC News",
       "source_type": "rss",
@@ -326,6 +1123,34 @@
         "bill gates",
         "epstein",
         "scandal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "801c2c6763ee4513",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Deadly Sudan drone strike targets funeral procession",
+      "url": "https://www.bbc.com/news/articles/c70yeee2jvqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Rights groups are accusing the RSF paramilitary group of conducting a deadly drone strike on a funeral procession in el-Obeid, a city on Sudan's civil war front line, resulting in civilian casualties. This incident highlights the ongoing violence and risks to civilians in the conflict zone.",
+      "tags": [
+        "sudon",
+        "conflict",
+        "drones"
+      ],
+      "priority": false
+    },
+    {
+      "id": "355cd0f6349b0ad9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Family of British toddler criticises police as Australian inquiry into cold case murders begins",
+      "url": "https://www.bbc.com/news/articles/c0rygl7y1l0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The family of a British toddler has criticized the police as an Australian inquiry into cold case murders begins, which will also investigate potential links to notorious serial killer Ivan Milat. The inquiry aims to shed light on unsolved cases and police conduct.",
+      "tags": [
+        "crime",
+        "australia",
+        "justice"
       ],
       "priority": false
     },
@@ -372,6 +1197,20 @@
       "priority": false
     },
     {
+      "id": "f5f705b876e28971",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "French singer Patrick Bruel under formal investigation for rape",
+      "url": "https://www.bbc.com/news/articles/c3ey8d3jwglo?at_medium=RSS&at_campaign=rss",
+      "summary": "French singer Patrick Bruel is under formal investigation for rape and has been released under judicial supervision while a magistrate delves deeper into the case. This development follows allegations against the prominent artist.",
+      "tags": [
+        "crime",
+        "france",
+        "celebrity"
+      ],
+      "priority": false
+    },
+    {
       "id": "46e7d5bd14cd846a",
       "source": "BBC News",
       "source_type": "rss",
@@ -400,6 +1239,20 @@
       "priority": false
     },
     {
+      "id": "279db0b903460c30",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
+      "url": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Knicks fans celebrated wildly as the New York team achieved the biggest comeback in NBA Finals history, putting them one win away from a championship. This historic victory has energized the team's supporters.",
+      "tags": [
+        "basketball",
+        "sports",
+        "nba"
+      ],
+      "priority": false
+    },
+    {
       "id": "3f2cce21ce5c7819",
       "source": "BBC News",
       "source_type": "rss",
@@ -424,6 +1277,20 @@
         "celebrities",
         "crime",
         "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bb41f26cca908917",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Nigeria evacuates citizens from South Africa as anti-migrant sentiment rises",
+      "url": "https://www.bbc.com/news/articles/cq512vgyzl9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nigeria is evacuating its citizens from South Africa due to rising anti-migrant sentiment and reports of xenophobic attacks. This action follows similar repatriations by other African states amidst increasing tensions.",
+      "tags": [
+        "migration",
+        "international relations",
+        "south africa"
       ],
       "priority": false
     },
@@ -466,6 +1333,34 @@
         "pakistan",
         "afghanistan",
         "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2e13396f7445360c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Pope Leo visits Canary Islands to highlight perilous journeys of migrants",
+      "url": "https://www.bbc.com/news/articles/cn59w6p3vd0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pope Leo is visiting the Canary Islands to draw attention to the dangerous journeys undertaken by migrants and to advocate for a humane approach and respectful welcome for those seeking a better life. His visit underscores the humanitarian crisis facing migrants.",
+      "tags": [
+        "migration",
+        "humanitarian",
+        "pope"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a0b98c11477e82f6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Social media on trial: Four important cases to watch",
+      "url": "https://www.bbc.com/news/articles/c9q39l447l4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Social media firms are facing thousands of lawsuits globally, with the BBC highlighting four significant cases that could have major implications. These trials underscore growing legal challenges and scrutiny for technology companies regarding content and user impact.",
+      "tags": [
+        "social media",
+        "law",
+        "technology"
       ],
       "priority": false
     },
@@ -553,6 +1448,20 @@
       "priority": false
     },
     {
+      "id": "ecf1251b06afa8ea",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Vance says Israeli PM Netanyahu 'has got some things wrong'",
+      "url": "https://www.bbc.com/news/articles/c9q2lq3vv7zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Vice-President stated that Israeli Prime Minister Netanyahu \"has got some things wrong,\" asserting that Netanyahu \"aggressively asserts\" Israel's interests which do not always align with those of the United States. This comment suggests a diplomatic disagreement between the two nations.",
+      "tags": [
+        "us politics",
+        "israel",
+        "foreign policy"
+      ],
+      "priority": false
+    },
+    {
       "id": "1ada91797a1f7863",
       "source": "BBC News",
       "source_type": "rss",
@@ -577,6 +1486,20 @@
         "science",
         "archaeology",
         "discovery"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c43c5a9dc2723522",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What we know about US sea drone used in helicopter crew rescue mission",
+      "url": "https://www.bbc.com/news/articles/cx2xvnd5eqwo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Verify is examining details about a US sea drone that was used in a helicopter crew rescue mission, providing insights into the capabilities of the drone boat and how the mission was executed. This highlights the evolving role of unmanned maritime vehicles in rescue operations.",
+      "tags": [
+        "drones",
+        "military",
+        "rescue"
       ],
       "priority": false
     },
@@ -619,6 +1542,34 @@
         "business",
         "startups",
         "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3aa22c13de7175f8",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Lines of code got a better publicist",
+      "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
+      "summary": "This article suggests that the concept of \"lines of code\" has gained more attention due to improved public relations. It points to a discussion on Hacker News indicating community interest.",
+      "tags": [
+        "software development",
+        "programming",
+        "trends"
+      ],
+      "priority": false
+    },
+    {
+      "id": "929210df84ea1fde",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "MiMo Code is now released and open-source",
+      "url": "https://mimo.xiaomi.com/mimocode",
+      "summary": "MiMo Code has been released and is now open-source, as announced on its official website. This development makes the code publicly available for review and use.",
+      "tags": [
+        "open source",
+        "software",
+        "programming"
       ],
       "priority": false
     },
@@ -699,6 +1650,44 @@
         "fbi",
         "incident",
         "chemical"
+      ],
+      "priority": false
+    },
+    {
+      "id": "978fb254a0b69ca8",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "From neon mosquitoes to winged migrations, top images captured by scientists",
+      "url": "https://www.npr.org/2026/06/11/nx-s1-5853165/scientists-at-work-nature-photography",
+      "summary": "Five winning images from a photo contest show scientists at work and capture the wonder of research and discovery.\n(Image credit: Shayanta Chowdhury)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "d9c68eed18ab29f0",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Greetings from a Seoul museum, where Buddhist masterpieces offer calm away from city bustle",
+      "url": "https://www.npr.org/2026/06/11/g-s1-126207/korea-seoul-national-museum-room-of-quiet-contemplation-bodhisattavas",
+      "summary": "The National Museum of Korea in Seoul houses the Room of Quiet Contemplation, featuring treasured gilt-bronze bodhisattva statues from the sixth and seventh centuries. This exhibit provides a serene escape from the urban environment.",
+      "tags": [
+        "culture",
+        "art",
+        "korea"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fab5e8856d93a0ac",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "How 'algorithm' got its name from a 9th-century Persian mathematician",
+      "url": "https://www.npr.org/2026/06/11/nx-s1-5848013/algorithm-word-week-etymology",
+      "summary": "The term \"algorithm\" originates from Muhammad ibn Musa al-Kharizmi, a 9th-century Persian mathematician who significantly contributed to solidifying the concept in mathematics and popularizing algebra and the use of zero. His work laid foundational principles for modern computing.",
+      "tags": [
+        "history",
+        "mathematics",
+        "etymology"
       ],
       "priority": false
     },
@@ -787,6 +1776,20 @@
       "priority": false
     },
     {
+      "id": "e475b874b8ca627b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump's pick for intel chief could imperil a key U.S. spy tool. Who is Bill Pulte?",
+      "url": "https://www.npr.org/2026/06/11/nx-s1-5851895/bill-pulti-director-of-national-intelligence-fisa-702",
+      "summary": "Donald Trump's selection of Bill Pulte for intelligence chief has complicated efforts to renew FISA 702, a crucial US spy tool, due to concerns from lawmakers across both parties regarding Pulte's lack of national security experience. His role as a Trump loyalist has sparked debate and uncertainty over the surveillance authority.",
+      "tags": [
+        "us politics",
+        "national security",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
       "id": "e65b25a6eac8077f",
       "source": "NPR Topics: News",
       "source_type": "rss",
@@ -811,6 +1814,20 @@
         "trump",
         "monument",
         "veterans"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1a009989badbdcf5",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "World Cup facts and figures to get you sounding like an expert",
+      "url": "https://www.npr.org/2026/06/11/nx-s1-5851670/world-cup-2026-guide-players",
+      "summary": "With a record 48 teams and 1,248 players, the 2026 FIFA World Cup offers numerous statistics for fans. This article provides key facts and figures to help readers sound knowledgeable about the tournament.",
+      "tags": [
+        "world cup",
+        "sports",
+        "statistics"
       ],
       "priority": false
     },
@@ -1101,6 +2118,20 @@
         "social media",
         "ecommerce",
         "creators"
+      ],
+      "priority": false
+    },
+    {
+      "id": "267fb6ae1a149d58",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Pool’s new app turns your screenshots into something useful",
+      "url": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
+      "summary": "Pool's new app transforms screenshots into a searchable memory bank by automatically sorting them into personalized collections and tracking down original links. This tool helps users rediscover saved content like products, recipes, and travel ideas.",
+      "tags": [
+        "app",
+        "productivity",
+        "software"
       ],
       "priority": false
     },
@@ -1399,6 +2430,20 @@
       "priority": false
     },
     {
+      "id": "6fbd5393851ebf76",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "With the World Cup looming, there’s still no clear replacement for sports Twitter",
+      "url": "https://www.theverge.com/entertainment/947956/world-cup-2026-social-media",
+      "summary": "With the upcoming World Cup, there's still no clear social media platform filling the void left by Twitter's transformation into X for real-time sports commentary and jokes. Despite the platform's past issues, its unique live experience for major events remains largely unmatched by newcomers like Threads or Bluesky.",
+      "tags": [
+        "social media",
+        "sports",
+        "world cup"
+      ],
+      "priority": false
+    },
+    {
       "id": "52131f782bb238fc",
       "source": "The Verge",
       "source_type": "rss",
@@ -1414,11 +2459,11 @@
     }
   ],
   "counts": {
-    "new_items": 116,
-    "skipped_promos": 19,
+    "new_items": 188,
+    "skipped_promos": 20,
     "filtered_by_rules": 1,
     "email_items_omitted": 0,
-    "summarized": 96,
+    "summarized": 167,
     "sources": 14
   }
 }
