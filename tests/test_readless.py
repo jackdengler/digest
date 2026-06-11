@@ -234,3 +234,21 @@ def test_parse_llm_json_tolerates_surrounding_prose() -> None:
     raw = ('Sure! Here is the JSON:\n'
            '{"hot_topics": [], "summaries": [], "skipped_ids": ["x"]}\nHope that helps.')
     assert readless.parse_llm_json(raw)["skipped_ids"] == ["x"]
+
+
+# --------------------------------------------------------------------------
+# The shipped config.yaml stays loadable (the settings page rewrites it)
+# --------------------------------------------------------------------------
+
+def test_shipped_config_yaml_is_valid() -> None:
+    import yaml
+
+    cfg = yaml.safe_load(
+        (Path(__file__).resolve().parents[1] / "config.yaml").read_text(encoding="utf-8"))
+    assert isinstance(cfg["rss_feeds"], list) and cfg["rss_feeds"]
+    assert isinstance(cfg["substacks"], list) and cfg["substacks"]
+    for ref in cfg["substacks"]:
+        assert readless.substack_feed_url(str(ref)).endswith("/feed")
+    assert cfg["provider"] in ("gemini", "anthropic", "ollama")
+    assert isinstance(cfg["email"], dict) and isinstance(cfg["smtp"], dict)
+    assert isinstance(cfg["topic_filters"]["exclude"], list)

@@ -1,0 +1,663 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Your Digest — Settings</title>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<style>
+  :root {
+    --ink: #1f1d1a; --faint: #8a857d; --line: #e6e1d8;
+    --accent: #9a4b1f; --bg: #faf8f4; --card: #ffffff;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--ink);
+    font-family: Charter, Georgia, 'Times New Roman', serif;
+    font-size: 17px; line-height: 1.55;
+  }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 30px 18px 80px; }
+  header {
+    display: flex; align-items: baseline; justify-content: space-between;
+    gap: 12px; flex-wrap: wrap; border-bottom: 3px double var(--line);
+    padding-bottom: 14px; margin-bottom: 8px;
+  }
+  h1 { font-size: 30px; margin: 0; letter-spacing: -0.5px; }
+  .back { color: var(--faint); font-size: 14px; text-decoration: none; }
+  .back:hover { color: var(--accent); }
+  .panel {
+    background: var(--card); border: 1px solid var(--line); border-radius: 10px;
+    padding: 6px 20px 18px; margin-top: 22px;
+  }
+  .panel h2 {
+    font-size: 13px; letter-spacing: 1.5px; text-transform: uppercase;
+    color: var(--accent); margin: 14px 0 8px;
+  }
+  label { display: block; font-size: 14px; color: var(--faint); margin: 14px 0 4px; }
+  input[type="text"], input[type="password"], input[type="number"], select, textarea {
+    width: 100%; font: inherit; font-size: 15px; color: var(--ink);
+    background: var(--bg); border: 1px solid var(--line); border-radius: 6px;
+    padding: 7px 10px;
+  }
+  textarea { min-height: 110px; resize: vertical; line-height: 1.4; }
+  textarea.short { min-height: 64px; }
+  .check { display: flex; align-items: center; gap: 8px; margin: 14px 0 0; font-size: 15px; }
+  .check input { width: auto; }
+  .row { display: flex; gap: 8px; align-items: center; margin-top: 8px; flex-wrap: wrap; }
+  .row input { flex: 1; min-width: 200px; }
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0 18px; }
+  @media (max-width: 540px) { .grid { grid-template-columns: 1fr; } }
+  button {
+    font: inherit; font-size: 15px; cursor: pointer; border-radius: 8px;
+    border: 1px solid var(--accent); background: var(--accent); color: #fff;
+    padding: 8px 18px;
+  }
+  button.secondary { background: var(--card); color: var(--accent); }
+  button:hover { filter: brightness(1.08); }
+  .actions { display: flex; gap: 10px; margin-top: 26px; flex-wrap: wrap; }
+  .hint { font-size: 13.5px; color: var(--faint); margin: 6px 0 0; }
+  .hint code { font-family: ui-monospace, Menlo, Consolas, monospace; font-size: 12.5px; }
+  details { font-size: 14px; color: var(--faint); margin: 10px 0 0; }
+  details summary { cursor: pointer; color: var(--accent); }
+  details ol { margin: 8px 0 0; padding-left: 22px; }
+  details li { margin: 4px 0; }
+  #status { margin-top: 18px; font-size: 15px; min-height: 1.4em; }
+  #status.ok { color: #3c6e47; }
+  #status.warn { color: #a04425; }
+  a { color: var(--accent); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Settings</h1>
+    <a class="back" href="./">← Back to your digest</a>
+  </header>
+
+  <section class="panel">
+    <h2>Connection</h2>
+    <p class="hint">Settings are saved into <code>config.yaml</code> in the
+      <strong id="repo-label">…</strong> repository via the GitHub API, and take effect
+      on the next digest run. Saving needs a fine-grained personal access token —
+      it is stored <em>only in this browser</em>, never in the repository.</p>
+    <details>
+      <summary>How to create the token (once, about a minute)</summary>
+      <ol>
+        <li>Open <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">github.com/settings/personal-access-tokens/new</a>.</li>
+        <li>Under <em>Repository access</em> choose <em>Only select repositories</em> and pick this repository.</li>
+        <li>Under <em>Permissions → Repository permissions</em> set <em>Contents: Read and write</em>,
+            <em>Actions: Read and write</em> (powers the “Run digest now” button), and
+            <em>Workflows: Read and write</em> (lets you change the daily schedule).</li>
+        <li>Generate the token, copy it, and paste it below.</li>
+      </ol>
+    </details>
+    <div class="row">
+      <input type="password" id="token" placeholder="github_pat_…" autocomplete="off">
+      <button id="save-token" type="button">Use this token</button>
+      <button id="forget-token" type="button" class="secondary">Forget</button>
+    </div>
+    <p class="hint" id="token-state"></p>
+  </section>
+
+  <form id="settings-form" onsubmit="return false">
+    <section class="panel">
+      <h2>Email</h2>
+      <label for="gmail-user">Gmail account (reads your newsletter label and sends the digest)</label>
+      <input type="text" id="gmail-user" placeholder="you@gmail.com" autocomplete="off">
+      <label for="send-to">Send the digest to (comma-separate for multiple recipients)</label>
+      <input type="text" id="send-to" placeholder="blank = send to the Gmail account above">
+      <div class="grid">
+        <div>
+          <label for="label">Gmail label to read newsletters from</label>
+          <input type="text" id="label" placeholder="Newsletters">
+        </div>
+        <div>
+          <label class="check" style="margin-top:38px"><input type="checkbox" id="mark-read"> Mark digested emails as read</label>
+        </div>
+      </div>
+      <p class="hint">Which newsletters land under the label is controlled by your Gmail
+        filter (see the README), not here.</p>
+    </section>
+
+    <section class="panel">
+      <h2>Sources</h2>
+      <label for="rss">RSS feeds — one URL per line</label>
+      <textarea id="rss" spellcheck="false"></textarea>
+      <label for="substacks">Substacks — one per line: @handle, substack.com/@handle, or a publication URL</label>
+      <textarea id="substacks" spellcheck="false"></textarea>
+    </section>
+
+    <section class="panel">
+      <h2>Topic filters</h2>
+      <div class="grid">
+        <div>
+          <label for="exclude">Exclude — items mentioning these are dropped</label>
+          <textarea id="exclude" class="short" placeholder="one keyword per line" spellcheck="false"></textarea>
+        </div>
+        <div>
+          <label for="prioritize">Prioritize — items get a ★ and sort first</label>
+          <textarea id="prioritize" class="short" placeholder="one keyword per line" spellcheck="false"></textarea>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2>Digest options</h2>
+      <div class="grid">
+        <div>
+          <label for="lookback">Lookback window (hours)</label>
+          <input type="number" id="lookback" min="1" max="168">
+        </div>
+        <div>
+          <label for="style">Summary style</label>
+          <select id="style">
+            <option value="concise">Concise (1–2 sentences)</option>
+            <option value="detailed">Detailed (3–5 with key facts)</option>
+          </select>
+        </div>
+        <div>
+          <label for="provider">LLM provider</label>
+          <select id="provider">
+            <option value="gemini">Gemini (free tier)</option>
+            <option value="anthropic">Anthropic</option>
+            <option value="ollama">Ollama (local only)</option>
+          </select>
+        </div>
+        <div>
+          <label for="model">Model override</label>
+          <input type="text" id="model" placeholder="blank = provider default">
+        </div>
+      </div>
+      <label for="site-url">Site URL (linked from the email)</label>
+      <input type="text" id="site-url" placeholder="https://you.github.io/digest/">
+      <label class="check"><input type="checkbox" id="publish-email">
+        Publish email-newsletter items on this (public) site too</label>
+    </section>
+
+    <section class="panel">
+      <h2>Schedule</h2>
+      <label for="run-time">Run the digest (and email it) daily at — your local time</label>
+      <div class="row">
+        <input type="time" id="run-time" style="max-width:150px">
+        <span class="hint" id="utc-hint" style="margin:0"></span>
+      </div>
+      <p class="hint">The email arrives a couple of minutes after the run starts. GitHub
+        schedules in UTC, so the local time can drift by an hour when daylight saving
+        changes. Saving a schedule change requires the token permission
+        <em>Workflows: Read and write</em>.</p>
+    </section>
+
+    <div class="actions">
+      <button id="save" type="button">Save settings</button>
+      <button id="run-now" type="button" class="secondary">Run digest now</button>
+    </div>
+    <p id="status"></p>
+  </form>
+</div>
+<script>
+"use strict";
+
+const FALLBACK_REPO = "jackdengler/digest";
+const CONFIG_PATH = "config.yaml";
+const WORKFLOW_FILE = "digest.yml";
+const WORKFLOW_PATH = ".github/workflows/digest.yml";
+
+const DEFAULTS = {
+  lookback_hours: 26,
+  provider: "gemini",
+  model: "",
+  ollama_url: "http://localhost:11434",
+  summary_style: "concise",
+  site_url: "",
+  publish_email_items: false,
+  topic_filters: { exclude: [], prioritize: [] },
+  rss_feeds: [
+    "https://arstechnica.com/feed/",
+    "https://www.theverge.com/rss/index.xml",
+    "https://techcrunch.com/feed/",
+    "https://hnrss.org/frontpage?points=150",
+    "https://simonwillison.net/atom/everything/",
+    "https://www.technologyreview.com/feed/",
+    "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "https://feeds.npr.org/1001/rss.xml",
+    "https://rss.politico.com/politics-news.xml",
+    "https://www.quantamagazine.org/feed/",
+    "https://aeon.co/feed.rss",
+    "https://www.themarginalian.org/feed/",
+  ],
+  substacks: [
+    "@jackclark", "@oneusefulthing", "@garymarcus", "@astralcodexten", "@thefp",
+    "https://www.noahpinion.blog/", "https://www.thediff.co/", "https://www.slowboring.com/",
+  ],
+  email: { imap_host: "imap.gmail.com", username: "", label: "Newsletters", mark_as_read: false },
+  smtp: { host: "smtp.gmail.com", port: 465, username: "", to: "" },
+};
+
+const FIELDS = [
+  { id: "gmail-user",    path: ["email", "username"],           kind: "text" },
+  { id: "send-to",       path: ["smtp", "to"],                  kind: "text" },
+  { id: "label",         path: ["email", "label"],              kind: "text" },
+  { id: "mark-read",     path: ["email", "mark_as_read"],       kind: "bool" },
+  { id: "rss",           path: ["rss_feeds"],                   kind: "lines" },
+  { id: "substacks",     path: ["substacks"],                   kind: "lines" },
+  { id: "exclude",       path: ["topic_filters", "exclude"],    kind: "lines" },
+  { id: "prioritize",    path: ["topic_filters", "prioritize"], kind: "lines" },
+  { id: "lookback",      path: ["lookback_hours"],              kind: "int" },
+  { id: "style",         path: ["summary_style"],               kind: "text" },
+  { id: "provider",      path: ["provider"],                    kind: "text" },
+  { id: "model",         path: ["model"],                       kind: "text" },
+  { id: "publish-email", path: ["publish_email_items"],         kind: "bool" },
+  { id: "site-url",      path: ["site_url"],                    kind: "text" },
+];
+
+let current = JSON.parse(JSON.stringify(DEFAULTS));
+let fileSha = null;
+let workflowSha = null;
+let workflowText = null;
+let originalCron = null;
+
+// ---------- tiny YAML subset: enough for the config this app writes ----------
+
+function stripComment(line) {
+  let out = "", quote = null;
+  for (let i = 0; i < line.length; i++) {
+    const ch = line[i];
+    if (quote) { out += ch; if (ch === quote) quote = null; continue; }
+    if (ch === '"' || ch === "'") { quote = ch; out += ch; continue; }
+    if (ch === "#" && (i === 0 || line[i - 1] === " " || line[i - 1] === "\t")) return out;
+    out += ch;
+  }
+  return out;
+}
+
+function parseScalar(raw) {
+  const s = raw.trim();
+  if (s === "") return "";
+  if (s === "[]") return [];
+  if (s === "{}") return {};
+  if (s === "true") return true;
+  if (s === "false") return false;
+  if (s === "null" || s === "~") return null;
+  if (/^-?\d+$/.test(s)) return parseInt(s, 10);
+  if (/^-?\d*\.\d+$/.test(s)) return parseFloat(s);
+  if (s.startsWith('"') && s.endsWith('"') && s.length >= 2) {
+    try { return JSON.parse(s); } catch (e) { return s.slice(1, -1); }
+  }
+  if (s.startsWith("'") && s.endsWith("'") && s.length >= 2) {
+    return s.slice(1, -1).replace(/''/g, "'");
+  }
+  if (s.startsWith("[") && s.endsWith("]")) {
+    return s.slice(1, -1).split(",").map((x) => parseScalar(x)).filter((x) => x !== "");
+  }
+  return s;
+}
+
+function parseYaml(text) {
+  const root = {};
+  const stack = [{ indent: -1, container: root, parent: null, key: null }];
+  for (const rawLine of text.split("\n")) {
+    const line = stripComment(rawLine).replace(/\s+$/, "");
+    if (!line.trim()) continue;
+    const indent = line.length - line.trimStart().length;
+    const body = line.trim();
+    while (stack.length > 1 && indent <= stack[stack.length - 1].indent) stack.pop();
+    const top = stack[stack.length - 1];
+    if (body === "-" || body.startsWith("- ")) {
+      if (!Array.isArray(top.container)) {
+        // "key:" opened an empty object; first "- item" turns it into a list
+        if (top.parent && top.key && Object.keys(top.container).length === 0) {
+          const arr = [];
+          top.parent[top.key] = arr;
+          top.container = arr;
+        } else continue;
+      }
+      top.container.push(parseScalar(body === "-" ? "" : body.slice(2)));
+      continue;
+    }
+    const m = body.match(/^([\w.-]+):(.*)$/);
+    if (!m || Array.isArray(top.container)) continue;
+    const key = m[1], rest = m[2].trim();
+    if (rest === "") {
+      const child = {};
+      top.container[key] = child;
+      stack.push({ indent, container: child, parent: top.container, key });
+    } else {
+      top.container[key] = parseScalar(rest);
+    }
+  }
+  return root;
+}
+
+function generateYaml(cfg) {
+  const q = (v) => JSON.stringify(String(v == null ? "" : v));
+  const flag = (v) => (v ? "true" : "false");
+  const list = (key, items, indent) => {
+    const pad = " ".repeat(indent);
+    const values = (items || []).map(String).filter(Boolean);
+    if (!values.length) return [pad + key + ": []"];
+    return [pad + key + ":", ...values.map((v) => pad + "  - " + q(v))];
+  };
+  const email = cfg.email || {}, smtp = cfg.smtp || {}, filters = cfg.topic_filters || {};
+  return [
+    "# Readless configuration",
+    "# Saved from the settings page on your digest site (settings.html).",
+    "# Hand edits are fine too -- saving from the web UI rewrites this file.",
+    "# Secrets never go in this file; they live in GitHub Actions secrets.",
+    "",
+    "lookback_hours: " + (parseInt(cfg.lookback_hours, 10) || 26),
+    "provider: " + q(cfg.provider || "gemini") + "  # gemini (free tier) | anthropic | ollama",
+    "model: " + q(cfg.model) + "  # blank = provider default",
+    "ollama_url: " + q(cfg.ollama_url || "http://localhost:11434"),
+    "summary_style: " + q(cfg.summary_style || "concise") + "  # concise | detailed",
+    "site_url: " + q(cfg.site_url),
+    "publish_email_items: " + flag(cfg.publish_email_items),
+    "",
+    "topic_filters:",
+    ...list("exclude", filters.exclude, 2),
+    ...list("prioritize", filters.prioritize, 2),
+    "",
+    ...list("rss_feeds", cfg.rss_feeds, 0),
+    "",
+    ...list("substacks", cfg.substacks, 0),
+    "",
+    "email:",
+    "  imap_host: " + q(email.imap_host || "imap.gmail.com"),
+    "  username: " + q(email.username),
+    "  label: " + q(email.label || "Newsletters"),
+    "  mark_as_read: " + flag(email.mark_as_read),
+    "",
+    "smtp:",
+    "  host: " + q(smtp.host || "smtp.gmail.com"),
+    "  port: " + (parseInt(smtp.port, 10) || 465),
+    "  username: " + q(smtp.username) + "  # blank = reuse email.username",
+    "  to: " + q(smtp.to) + "  # blank = send to yourself; commas for multiple",
+    "",
+  ].join("\n");
+}
+
+// ---------- config object helpers ----------
+
+function deepMerge(base, extra) {
+  const out = JSON.parse(JSON.stringify(base));
+  for (const [k, v] of Object.entries(extra || {})) {
+    if (v && typeof v === "object" && !Array.isArray(v)
+        && out[k] && typeof out[k] === "object" && !Array.isArray(out[k])) {
+      out[k] = deepMerge(out[k], v);
+    } else if (v !== undefined) {
+      out[k] = v;
+    }
+  }
+  return out;
+}
+
+function getPath(obj, path) {
+  return path.reduce((o, k) => (o && typeof o === "object" ? o[k] : undefined), obj);
+}
+
+function setPath(obj, path, value) {
+  let node = obj;
+  for (const k of path.slice(0, -1)) {
+    if (typeof node[k] !== "object" || node[k] === null || Array.isArray(node[k])) node[k] = {};
+    node = node[k];
+  }
+  node[path[path.length - 1]] = value;
+}
+
+function populate(cfg) {
+  for (const f of FIELDS) {
+    const node = document.getElementById(f.id);
+    const value = getPath(cfg, f.path);
+    if (f.kind === "bool") node.checked = !!value;
+    else if (f.kind === "lines") node.value = (Array.isArray(value) ? value : []).join("\n");
+    else node.value = value == null ? "" : String(value);
+  }
+}
+
+function collect(base) {
+  const cfg = JSON.parse(JSON.stringify(base)); // keeps non-UI keys (hosts, ports, ollama_url)
+  for (const f of FIELDS) {
+    const node = document.getElementById(f.id);
+    let value;
+    if (f.kind === "bool") value = node.checked;
+    else if (f.kind === "lines") value = node.value.split("\n").map((s) => s.trim()).filter(Boolean);
+    else if (f.kind === "int") {
+      value = parseInt(node.value, 10);
+      if (!Number.isFinite(value) || value < 1) value = 26;
+    } else value = node.value.trim();
+    setPath(cfg, f.path, value);
+  }
+  return cfg;
+}
+
+// ---------- GitHub API ----------
+
+function getToken() { return localStorage.getItem("readless.token") || ""; }
+
+function getRepo() {
+  const host = location.hostname;
+  if (host.endsWith(".github.io")) {
+    const owner = host.split(".")[0];
+    const seg = location.pathname.split("/").filter(Boolean)[0];
+    if (owner && seg && !seg.endsWith(".html")) return owner + "/" + seg;
+  }
+  return FALLBACK_REPO;
+}
+
+async function gh(path, options = {}) {
+  const headers = {
+    Accept: "application/vnd.github+json",
+    "X-GitHub-Api-Version": "2022-11-28",
+    ...(options.headers || {}),
+  };
+  const token = getToken();
+  if (token) headers.Authorization = "Bearer " + token;
+  const res = await fetch("https://api.github.com" + path, { ...options, headers });
+  if (!res.ok) {
+    let detail = "";
+    try { detail = (await res.json()).message || ""; } catch (e) { /* ignore */ }
+    throw new Error("GitHub API " + res.status + (detail ? ": " + detail : ""));
+  }
+  return res.status === 204 ? null : res.json();
+}
+
+function b64encode(str) {
+  const bytes = new TextEncoder().encode(str);
+  let bin = "";
+  for (const b of bytes) bin += String.fromCharCode(b);
+  return btoa(bin);
+}
+
+function b64decode(b64) {
+  const bin = atob(b64.replace(/\s/g, ""));
+  return new TextDecoder().decode(Uint8Array.from(bin, (c) => c.charCodeAt(0)));
+}
+
+// ---------- schedule (the workflow's daily cron) ----------
+
+const pad2 = (n) => String(n).padStart(2, "0");
+
+function cronToLocalTime(cron) {
+  const m = String(cron || "").trim().match(/^(\d{1,2})\s+(\d{1,2})\s+\*\s+\*\s+\*$/);
+  if (!m) return null;
+  const minute = parseInt(m[1], 10), hour = parseInt(m[2], 10);
+  const d = new Date();
+  d.setUTCHours(hour, minute, 0, 0);
+  return { local: pad2(d.getHours()) + ":" + pad2(d.getMinutes()),
+           utc: pad2(hour) + ":" + pad2(minute) };
+}
+
+function localTimeToCron(value) {
+  const m = String(value || "").match(/^(\d{1,2}):(\d{2})$/);
+  if (!m) return null;
+  const d = new Date();
+  d.setHours(parseInt(m[1], 10), parseInt(m[2], 10), 0, 0);
+  return d.getUTCMinutes() + " " + d.getUTCHours() + " * * *";
+}
+
+function updateUtcHint() {
+  const node = document.getElementById("utc-hint");
+  const cron = localTimeToCron(document.getElementById("run-time").value);
+  if (!cron) { node.textContent = ""; return; }
+  const parts = cron.split(" ");
+  node.textContent = "= " + pad2(parts[1]) + ":" + pad2(parts[0]) + " UTC (cron: " + cron + ")";
+}
+
+async function loadSchedule() {
+  try {
+    const data = await gh("/repos/" + getRepo() + "/contents/" + WORKFLOW_PATH);
+    workflowSha = data.sha;
+    workflowText = b64decode(data.content);
+    const m = workflowText.match(/-\s*cron:\s*"([^"]+)"/);
+    originalCron = m ? m[1] : null;
+    const t = cronToLocalTime(originalCron);
+    if (t) {
+      document.getElementById("run-time").value = t.local;
+      updateUtcHint();
+    } else if (originalCron) {
+      document.getElementById("utc-hint").textContent =
+        "current schedule is a custom cron (" + originalCron + ") — pick a time to replace it";
+    }
+  } catch (err) {
+    workflowSha = null; workflowText = null; originalCron = null;
+  }
+}
+
+async function saveSchedule() {
+  const value = document.getElementById("run-time").value;
+  if (!value || !workflowText || !originalCron) return false;
+  const cron = localTimeToCron(value);
+  if (!cron || cron === originalCron) return false;
+  const updated = workflowText.replace(/(-\s*cron:\s*")[^"]+(")/, "$1" + cron + "$2");
+  const parts = cron.split(" ");
+  const res = await gh("/repos/" + getRepo() + "/contents/" + WORKFLOW_PATH, {
+    method: "PUT",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      message: "settings: run daily at " + pad2(parts[1]) + ":" + pad2(parts[0]) + " UTC",
+      content: b64encode(updated),
+      sha: workflowSha,
+    }),
+  });
+  workflowSha = res.content.sha;
+  workflowText = updated;
+  originalCron = cron;
+  return true;
+}
+
+// ---------- page behavior ----------
+
+function setStatus(text, kind) {
+  const node = document.getElementById("status");
+  node.textContent = text;
+  node.className = kind || "";
+}
+
+function updateConnectionUI() {
+  document.getElementById("repo-label").textContent = getRepo();
+  document.getElementById("token-state").textContent = getToken()
+    ? "A token is saved in this browser — you can save settings and start runs."
+    : "No token yet — the form is read-only until you add one.";
+}
+
+async function loadConfig() {
+  const data = await gh("/repos/" + getRepo() + "/contents/" + CONFIG_PATH);
+  fileSha = data.sha;
+  return parseYaml(b64decode(data.content));
+}
+
+async function init() {
+  updateConnectionUI();
+  let loaded = {};
+  try {
+    loaded = await loadConfig();
+    setStatus("Loaded current settings from " + getRepo() + ".", "ok");
+  } catch (err) {
+    fileSha = null;
+    setStatus("Could not load config.yaml (" + err.message + "). Showing defaults — saving will create it.", "warn");
+  }
+  current = deepMerge(DEFAULTS, loaded);
+  if (!current.site_url && location.protocol.startsWith("http")) {
+    current.site_url = location.href.replace(/settings\.html.*$/, "");
+  }
+  populate(current);
+  await loadSchedule();
+}
+
+async function save() {
+  if (!getToken()) { setStatus("Add a personal access token first (Connection section above).", "warn"); return; }
+  const cfg = collect(current);
+  try {
+    const body = {
+      message: "settings: update from the digest settings page",
+      content: b64encode(generateYaml(cfg)),
+    };
+    if (fileSha) body.sha = fileSha;
+    const res = await gh("/repos/" + getRepo() + "/contents/" + CONFIG_PATH, {
+      method: "PUT",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(body),
+    });
+    fileSha = res.content.sha;
+    current = cfg;
+  } catch (err) {
+    if (/409|conflict|does not match/i.test(err.message)) {
+      setStatus("config.yaml changed elsewhere — reloading it; please re-apply your edits and save again.", "warn");
+      init();
+    } else {
+      setStatus("Save failed: " + err.message, "warn");
+    }
+    return;
+  }
+  const messages = ["Settings saved ✓ — the next digest run will use them."];
+  let kind = "ok";
+  try {
+    if (await saveSchedule()) messages.push("Schedule updated ✓.");
+  } catch (err) {
+    kind = "warn";
+    messages.push("Schedule update failed: " + err.message +
+      " — the token needs “Workflows: Read and write” for that.");
+  }
+  setStatus(messages.join(" "), kind);
+}
+
+async function runNow() {
+  if (!getToken()) { setStatus("Add a personal access token first (Connection section above).", "warn"); return; }
+  try {
+    const info = await gh("/repos/" + getRepo());
+    await gh("/repos/" + getRepo() + "/actions/workflows/" + WORKFLOW_FILE + "/dispatches", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ ref: info.default_branch }),
+    });
+    setStatus("Digest run started ✓ — it shows up under the repository's Actions tab and " +
+              "finishes in a few minutes.", "ok");
+  } catch (err) {
+    setStatus("Could not start the run: " + err.message, "warn");
+  }
+}
+
+function boot() {
+  document.getElementById("save-token").addEventListener("click", () => {
+    const value = document.getElementById("token").value.trim();
+    if (!value) { setStatus("Paste a token first.", "warn"); return; }
+    localStorage.setItem("readless.token", value);
+    document.getElementById("token").value = "";
+    updateConnectionUI();
+    setStatus("Token saved in this browser.", "ok");
+  });
+  document.getElementById("forget-token").addEventListener("click", () => {
+    localStorage.removeItem("readless.token");
+    updateConnectionUI();
+    setStatus("Token forgotten.", "ok");
+  });
+  document.getElementById("save").addEventListener("click", save);
+  document.getElementById("run-now").addEventListener("click", runNow);
+  document.getElementById("run-time").addEventListener("input", updateUtcHint);
+  init();
+}
+
+if (typeof document !== "undefined" && document.getElementById("settings-form")) boot();
+</script>
+</body>
+</html>

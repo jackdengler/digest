@@ -794,21 +794,22 @@ def send_email(digest: dict[str, Any], html_body: str, cfg: dict[str, Any]) -> b
         log.warning("smtp: no smtp.username (or email.username) configured, "
                     "skipping email delivery")
         return False
-    recipient = str(smtp_cfg.get("to") or "").strip() or username
+    raw_to = str(smtp_cfg.get("to") or "").replace(";", ",")
+    recipients = [addr.strip() for addr in raw_to.split(",") if addr.strip()] or [username]
     host = str(smtp_cfg.get("host") or "smtp.gmail.com")
     port = int(smtp_cfg.get("port") or 465)
 
     message = MIMEMultipart("alternative")
     message["Subject"] = f"Your Digest — {digest['date']}"
     message["From"] = username
-    message["To"] = recipient
+    message["To"] = ", ".join(recipients)
     message.attach(MIMEText(render_email_text(digest, cfg), "plain", "utf-8"))
     message.attach(MIMEText(html_body, "html", "utf-8"))
     try:
         with smtplib.SMTP_SSL(host, port, timeout=60) as smtp:
             smtp.login(username, password)
-            smtp.sendmail(username, [recipient], message.as_string())
-        log.info("smtp: digest emailed to %s", recipient)
+            smtp.sendmail(username, recipients, message.as_string())
+        log.info("smtp: digest emailed to %s", ", ".join(recipients))
         return True
     except Exception as exc:  # noqa: BLE001 - a mail hiccup must not lose the site update
         log.warning("smtp: sending failed (%s) -- the site was still updated", exc)

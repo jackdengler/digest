@@ -28,6 +28,9 @@
     font: inherit; font-size: 14px; padding: 4px 10px; color: var(--ink);
     border: 1px solid var(--line); border-radius: 6px; background: var(--card);
   }
+  .header-tools { display: flex; align-items: center; gap: 12px; }
+  .settings-link { color: var(--faint); font-size: 14px; text-decoration: none; white-space: nowrap; }
+  .settings-link:hover { color: var(--accent); }
   .status { color: var(--faint); font-style: italic; margin-top: 28px; }
   #filter-bar {
     position: sticky; top: 0; z-index: 5; background: var(--bg);
@@ -88,7 +91,10 @@
 <div class="wrap">
   <header>
     <h1>Your Digest</h1>
-    <select id="date-picker" aria-label="Choose a digest date"></select>
+    <nav class="header-tools">
+      <select id="date-picker" aria-label="Choose a digest date"></select>
+      <a class="settings-link" href="settings.html" title="Edit sources, email and filters">⚙ Settings</a>
+    </nav>
   </header>
   <div id="filter-bar" hidden></div>
   <main id="content"><p class="status">Loading the latest digest…</p></main>

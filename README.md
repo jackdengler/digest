@@ -64,9 +64,14 @@ In this repo: **Settings → Secrets and variables → Actions → New repositor
 
 (Optional: `ANTHROPIC_API_KEY` if you switch `provider: anthropic` later.)
 
-### 4. Edit `config.yaml`
+### 4. Configure your email & sources
 
-Set at minimum:
+**Easiest: use the settings page on your digest site** (see
+[The settings page](#the-settings-page-configure-everything-from-the-site)
+below) once Pages is enabled — it has a form for your Gmail address,
+recipients, feeds, Substacks, filters, and the daily run time.
+
+Or edit `config.yaml` by hand; set at minimum:
 
 ```yaml
 email:
@@ -86,8 +91,37 @@ That's the whole step — the workflow deploys the `site/` folder for you.
 
 Go to the **Actions** tab → **Daily digest** → **Run workflow**. After a couple
 of minutes you should have an email in your inbox and a fresh digest at your
-Pages URL. From then on it runs automatically every day at **14:00 UTC**
-(change the cron in `.github/workflows/digest.yml` if you prefer another time).
+Pages URL. From then on it runs automatically every day at **14:00 UTC** —
+change the time from the site's settings page (Schedule section) or by editing
+the cron in `.github/workflows/digest.yml`.
+
+---
+
+## The settings page (configure everything from the site)
+
+Your Pages site has a **⚙ Settings** link (`…/settings.html`) where you can
+change the Gmail account, who the digest is emailed to (comma-separate for
+multiple recipients), the RSS feeds and Substacks, topic filters, summary
+style, and the daily run time — no file editing needed. There's also a
+**Run digest now** button.
+
+Because GitHub Pages is a static site, saving works by committing `config.yaml`
+(and, for schedule changes, the workflow file) back to this repository through
+the GitHub API. That needs a **fine-grained personal access token**, created
+once:
+
+1. Open [github.com/settings/personal-access-tokens/new](https://github.com/settings/personal-access-tokens/new).
+2. *Repository access* → **Only select repositories** → pick this repo.
+3. *Permissions → Repository permissions* → **Contents: Read and write**,
+   **Actions: Read and write** (for the Run-now button), and
+   **Workflows: Read and write** (for schedule changes).
+4. Generate it, copy it, and paste it into the settings page.
+
+The token is stored **only in your browser** (localStorage) — never in the
+repository — so don't set it up on a shared computer, and use the page's
+*Forget* button if you ever need to clear it. Anyone can *view* your public
+site, but saving requires your token. Each save shows up as a normal commit
+made by you.
 
 ---
 
@@ -135,7 +169,7 @@ items were email-only.
 | `topic_filters.prioritize` | `[]`        | keyword list; matching items get a ★ and sort first           |
 | `email.label`         | `Newsletters`    | Gmail label to read                                           |
 | `email.mark_as_read`  | `false`          | mark digested emails as read                                  |
-| `smtp.to`             | yourself         | where the digest is delivered                                 |
+| `smtp.to`             | yourself         | recipient(s), comma-separated for multiple                    |
 
 ## LLM providers & cost
 
