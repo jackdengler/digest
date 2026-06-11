@@ -236,6 +236,22 @@ def test_parse_llm_json_tolerates_surrounding_prose() -> None:
     assert readless.parse_llm_json(raw)["skipped_ids"] == ["x"]
 
 
+def test_summarize_retries_on_transient_llm_error(monkeypatch) -> None:
+    calls = {"n": 0}
+
+    def flaky_llm(prompt: str, cfg: dict) -> str:
+        calls["n"] += 1
+        if calls["n"] == 1:
+            raise OSError("503 service unavailable")
+        return '{"hot_topics": [], "summaries": [], "skipped_ids": []}'
+
+    monkeypatch.setattr(readless, "call_llm", flaky_llm)
+    monkeypatch.setattr(readless.time, "sleep", lambda seconds: None)
+    result = readless.summarize_items(_sample_items(), {"provider": "ollama"})
+    assert calls["n"] == 2
+    assert result["summaries"] == []
+
+
 # --------------------------------------------------------------------------
 # The shipped config.yaml stays loadable (the settings page rewrites it)
 # --------------------------------------------------------------------------

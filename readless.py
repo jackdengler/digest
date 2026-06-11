@@ -22,6 +22,7 @@ import os
 import re
 import smtplib
 import sys
+import time
 import urllib.request
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
@@ -44,7 +45,17 @@ MAX_ITEM_CHARS = 6000        # cap on cleaned text per item (keeps the LLM call 
 MAX_STATE_HASHES = 5000      # how many seen-item hashes state.json remembers
 MAX_ARCHIVE_DIGESTS = 60     # daily JSON files kept on the Pages site
 FETCH_TIMEOUT = 30
-USER_AGENT = "Mozilla/5.0 (compatible; Readless/1.0; +https://github.com/jackdengler/digest)"
+LLM_MAX_ATTEMPTS = 4         # total tries when the LLM API itself errors (503s etc.)
+
+# Browser-like headers: several feed hosts (notably *.substack.com) return 403
+# to anything that announces itself as a bot when fetched from cloud IPs.
+FETCH_HEADERS = {
+    "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                   "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"),
+    "Accept": ("application/rss+xml, application/atom+xml, application/xml;q=0.9, "
+               "text/html;q=0.8, */*;q=0.7"),
+    "Accept-Language": "en-US,en;q=0.9",
+}
 
 DEFAULT_MODELS: dict[str, str] = {
     "gemini": "gemini-2.5-flash",
@@ -175,7 +186,7 @@ def substack_feed_url(ref: str) -> str:
 
 
 def fetch_bytes(url: str) -> bytes:
-    request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+    request = urllib.request.Request(url, headers=dict(FETCH_HEADERS))
     with urllib.request.urlopen(request, timeout=FETCH_TIMEOUT) as response:
         return response.read()
 
@@ -526,13 +537,29 @@ def _call_ollama(prompt: str, model: str, base_url: str) -> str:
 
 
 def summarize_items(items: list[Item], cfg: dict[str, Any]) -> dict[str, Any]:
-    """One LLM call per run, plus one retry if the reply isn't valid JSON."""
+    """One LLM call per run -- with backoff retries for transient API errors
+    (503s, rate limits) and one extra attempt if the reply isn't valid JSON."""
+    if not llm_credentials_present(cfg):
+        raise RuntimeError(f"no credentials for provider "
+                           f"{str(cfg.get('provider') or 'gemini')!r} (check the secret)")
     prompt = build_prompt(items, cfg)
     retry_suffix = ("\n\nREMINDER: your previous reply was not valid JSON. "
                     "Respond with VALID JSON only, exactly matching the schema.")
     last_error: Exception | None = None
-    for attempt in (1, 2):
-        raw = call_llm(prompt if attempt == 1 else prompt + retry_suffix, cfg)
+    json_failures = 0
+    for attempt in range(1, LLM_MAX_ATTEMPTS + 1):
+        try:
+            raw = call_llm(prompt + (retry_suffix if json_failures else ""), cfg)
+        except (ValueError, RuntimeError):
+            raise  # configuration problems (unknown provider, missing key): not retryable
+        except Exception as exc:  # noqa: BLE001 - transient API/network errors
+            last_error = exc
+            if attempt < LLM_MAX_ATTEMPTS:
+                delay = 15 * 2 ** (attempt - 1)
+                log.warning("LLM call failed (attempt %d/%d): %s -- retrying in %ds",
+                            attempt, LLM_MAX_ATTEMPTS, exc, delay)
+                time.sleep(delay)
+            continue
         try:
             result = parse_llm_json(raw)
             result.setdefault("hot_topics", [])
@@ -541,8 +568,12 @@ def summarize_items(items: list[Item], cfg: dict[str, Any]) -> dict[str, Any]:
             return result
         except (json.JSONDecodeError, ValueError) as exc:
             last_error = exc
-            log.warning("LLM returned invalid JSON (attempt %d/2): %s", attempt, exc)
-    raise RuntimeError(f"LLM did not return valid JSON after 2 attempts: {last_error}")
+            json_failures += 1
+            log.warning("LLM returned invalid JSON (attempt %d/%d): %s",
+                        attempt, LLM_MAX_ATTEMPTS, exc)
+            if json_failures >= 2:
+                break
+    raise RuntimeError(f"LLM did not produce a valid digest: {last_error}")
 
 
 # --------------------------------------------------------------------------

@@ -42,12 +42,14 @@ rss_feeds:
   - https://www.themarginalian.org/feed/
 
 # Accepts "@handle", https://substack.com/@handle, or a publication URL.
+# Prefer a publication's custom domain when it has one: *.substack.com
+# addresses sometimes refuse requests from cloud IPs like GitHub Actions.
 substacks:
-  - "@jackclark"
-  - "@oneusefulthing"
+  - https://importai.substack.com/      # Jack Clark's Import AI
+  - https://www.oneusefulthing.org/     # Ethan Mollick
   - "@garymarcus"
-  - "@astralcodexten"
-  - "@thefp"
+  - https://www.astralcodexten.com/
+  - https://www.thefp.com/
   - https://www.noahpinion.blog/
   - https://www.thediff.co/
   - https://www.slowboring.com/

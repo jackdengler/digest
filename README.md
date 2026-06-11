@@ -226,5 +226,8 @@ items from flooding back in — at worst you might see yesterday's items once.
   `email.username` must be the full Gmail address.
 - **A feed keeps failing** — one bad source never blocks the digest; it logs a
   warning and the rest ship. Remove or replace the URL in `config.yaml`.
+- **A Substack returns 403** — `*.substack.com` addresses sometimes refuse
+  requests from cloud IPs. If the publication has a custom domain (e.g.
+  `astralcodexten.com`), use that instead of the `@handle`.
 - **Empty digest** — "Nothing new since the last digest" is normal when no
   source published within the lookback window; nothing is sent that day.
