@@ -12,19 +12,7 @@ site_url: "https://jackdengler.github.io/digest/"
 publish_email_items: false
 
 topic_filters:
-  exclude:
-    - "Climate"
-    - "Crypto"
-    - "Culture"
-    - "Entertainment"
-    - "Gaming"
-    - "Health"
-    - "Politics"
-    - "Science"
-    - "Security"
-    - "Space"
-    - "Sports"
-    - "World news"
+  exclude: []
   prioritize:
     - "AI"
     - "Economy"
