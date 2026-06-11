@@ -18,9 +18,6 @@ jobs:
   digest:
     runs-on: ubuntu-latest
     timeout-minutes: 20
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Check out the repository
         uses: actions/checkout@v4
@@ -87,6 +84,18 @@ jobs:
         with:
           path: site
 
+  # Pages deploys are gated by the "github-pages" environment's protection
+  # rules (Settings -> Environments). Keeping the deploy in its own job means
+  # a rule problem can only ever block the deploy itself -- the digest build,
+  # the email, and the site commit above still run.
+  deploy:
+    needs: digest
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
