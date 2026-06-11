@@ -1,0 +1,1410 @@
+{
+  "date": "2026-06-11",
+  "generated_at": "2026-06-11T06:38:44+00:00",
+  "hot_topics": [
+    {
+      "topic": "Middle East Tensions Escalate Between US and Iran",
+      "synthesis": "The conflict between the US and Iran in the Middle East has intensified with mutual strikes for a second consecutive day, following the downing of a US Army helicopter by an Iranian drone. US military assets in Gulf States were targeted by Iranian retaliation, and Indian sailors are missing from a tanker hit in the Gulf of Oman. A prominent critic of the US-Israel war with Iran is reportedly under investigation by the Trump administration amid these rising tensions.",
+      "item_ids": [
+        "4b1665c18a7d7c5d",
+        "035d6c64b79ce6be",
+        "fb493d2c2bce66bf",
+        "e65b25a6eac8077f",
+        "ca2935c965e5e04e",
+        "a2b64bfa56875076"
+      ]
+    },
+    {
+      "topic": "Anthropic's AI Models Face Scrutiny Over Guardrails",
+      "synthesis": "Anthropic's new AI model, Claude Fable (a Mythos-class model), is drawing controversy for its restrictive guardrails that prevent it from answering basic biology questions and limit its utility for cybersecurity researchers. The company recently reversed a policy that would have secretly sabotaged AI research requests, apologizing for the \"wrong tradeoff.\" Critics argue Anthropic's approach of allowing itself to use top models for frontier research while limiting others creates a power imbalance and hinders democratization of AI.",
+      "item_ids": [
+        "b2cdabda03b02030",
+        "9241aabdadcac5a0",
+        "29c34345ca280610",
+        "a823861538522dc0"
+      ]
+    },
+    {
+      "topic": "Controversial Democratic Nominee Graham Platner Creates Party Divide",
+      "synthesis": "Graham Platner's contentious Democratic Senate nomination in Maine has exposed deep divisions within the party, with some Senate Democrats still hesitant to endorse him despite his primary victory. His campaign has been plagued by a series of scandals, including allegations of disturbing past behavior from ex-girlfriends, a Nazi-resembling tattoo, and offensive online posts, which Republicans are leveraging in general-election attacks. Despite the controversies, Platner's campaign saw a fundraising surge, with progressives arguing his populist message is a wake-up call for the Democratic establishment.",
+      "item_ids": [
+        "d9415b692a105a21",
+        "a2b64bfa56875076"
+      ]
+    },
+    {
+      "topic": "Surging AI Demands Drive Spending and Energy Strategy",
+      "synthesis": "The escalating demand from AI data centers is prompting significant investment and strategic shifts across various industries. Companies like Amazon are taking on billions in debt to fund their AI initiatives, while firms dedicated to AI are spending thousands per employee monthly. This demand is also impacting energy infrastructure, leading automakers into the energy storage business and sparking local opposition and bans on new data centers. SpaceX's ambitious plans for orbital data centers are also a key component of its high IPO valuation.",
+      "item_ids": [
+        "4b52343b4496d747",
+        "d053ecdb9713cf4e",
+        "0f7fd42288fd153a",
+        "c1643838cef77bac",
+        "77db676b8f6f883b",
+        "a823861538522dc0",
+        "78fb447f64ccc5b6",
+        "8ebd5408ec0a6b65"
+      ]
+    },
+    {
+      "topic": "AI's Mixed Societal Reception and Policy Debates",
+      "synthesis": "Public perception of AI is increasingly polarized, with new college graduates booing commencement speakers who promote the technology, reflecting a broader societal anxiety. Concerns persist about AI's potential to disrupt the labor market, a warning long championed by figures like Andrew Yang, who is now focused on building solutions rather than waiting for regulatory action. Despite the 'AI jobs hysteria,' evidence of large-scale impact on the white-collar labor market remains scant, yet calls for AI regulation are intensifying and sparking varied alliances.",
+      "item_ids": [
+        "89dc25d44196f921",
+        "e5b35e3094deff32",
+        "a823861538522dc0"
+      ]
+    },
+    {
+      "topic": "Lingering Impacts and Controversies of Trump-Era Policies",
+      "synthesis": "Various policies and actions associated with the Trump administration continue to have repercussions, from the physical manifestation of a new Quebec-only entrance at a historic US-Canada border library due to a 2025 Trump administration rule, to an ongoing \"war on state capacity\" contributing to public health resurgences. Domestically, veterans are suing to block a proposed Trump arch near Arlington National Cemetery. These instances highlight the lasting or continued impact of Trump-era decisions and influences.",
+      "item_ids": [
+        "1ada91797a1f7863",
+        "c8cbfd9ddde0c411",
+        "09b18a4d6b21377d",
+        "8ca4836f8aaeaa25",
+        "2aed693638993dcb"
+      ]
+    },
+    {
+      "topic": "Escalating Cybersecurity Threats and Data Breaches",
+      "synthesis": "The cybersecurity landscape is facing significant threats, with a major data breach exposing nearly a million passports and photo IDs left unprotected on public internet URLs. Cybercriminals, notably the ShinyHunters group, claim to have compromised Oracle PeopleSoft servers across over 100 organizations. Furthermore, North Korean hackers are reportedly responsible for almost half of all attacks on US, European, and Asian tech companies, often by impersonating IT workers or recruiters.",
+      "item_ids": [
+        "b2a50796ee301ac6",
+        "740139c8794ee864",
+        "1bd0c8972ca3c0d9"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "2133af51a99122b2",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Bay of smokes",
+      "url": "https://aeon.co/videos/one-day-in-1943-smog-descended-on-los-angeles-it-never-really-left",
+      "summary": "A video explores the 1943 smog that descended on Los Angeles, initially mistaken for a Japanese attack, revealing the city's struggle with air pollution.",
+      "tags": [
+        "history",
+        "environment",
+        "california"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4b1665c18a7d7c5d",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Cheap Iranian drone downed $25 million US Army helicopter—maybe by chance",
+      "url": "https://arstechnica.com/gadgets/2026/06/cheap-iranian-drone-downed-25-million-us-army-helicopter-maybe-by-chance/",
+      "summary": "A US Army AH-64 Apache helicopter was downed near the Strait of Hormuz, apparently struck by an Iranian Shahed drone, though it's unclear if the strike was intentional or accidental. This incident follows a period of conflict where Iran has launched thousands of such drones against various targets in the Gulf region.",
+      "tags": [
+        "military",
+        "drones",
+        "iran"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c8cbfd9ddde0c411",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Diabetes org apologizes for ejecting scientists over criticism of Trump",
+      "url": "https://arstechnica.com/health/2026/06/diabetes-org-apologizes-for-ejecting-scientists-over-criticism-of-trump/",
+      "summary": "The American Diabetes Association's head apologized for ejecting five scientists from their annual meeting. These scientists were distributing an editorial from the ADA's own journal that criticized the Trump administration's impact on biomedical research.",
+      "tags": [
+        "diabetes",
+        "trump",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c1643838cef77bac",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "GM Energy introduces V2G support and new energy storage battery chemistry",
+      "url": "https://arstechnica.com/cars/2026/06/gm-energy-introduces-v2g-support-and-new-energy-storage-battery-chemistry/",
+      "summary": "GM Energy now supports vehicle-to-grid (V2G) bidirectional charging through partnerships with utilities like PG&E and DTE Energy, aiming to alleviate pressure on the electric grid from rising AI data center demand. The company also announced a partnership with Peak Energy to develop sodium-ion batteries for standalone grid energy storage solutions.",
+      "tags": [
+        "ev",
+        "energy",
+        "battery"
+      ],
+      "priority": false
+    },
+    {
+      "id": "10bee9d762f8c32e",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
+      "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
+      "summary": "Google DeepMind released DiffusionGemma, a new open AI model from the Gemma family that generates text in parallel, similar to image generation models. This design makes it four times faster and more efficient for running on local hardware.",
+      "tags": [
+        "ai",
+        "google",
+        "machine learning"
+      ],
+      "priority": false
+    },
+    {
+      "id": "887f392dbcdcc1b4",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Logitech’s foldable mouse is for people who refuse to carry a mouse with them",
+      "url": "https://arstechnica.com/gadgets/2026/06/logitechs-mobi-fold-folds-for-travel-but-i-prefer-a-different-portable-mouse/",
+      "summary": "Logitech launched the Mobi Fold, an $80 foldable wireless mouse designed for professionals reluctant to carry a bulky mouse while traveling. This aims to address the low adoption of mice among laptop users in public, despite potential efficiency and comfort benefits.",
+      "tags": [
+        "gadgets",
+        "peripherals",
+        "travel"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9d0fae9cda287e31",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Man sues Florida cops over arrest spurred by \"93% match\" in facial recognition",
+      "url": "https://arstechnica.com/tech-policy/2026/06/man-jailed-due-to-faulty-face-recognition-says-florida-cops-ignored-other-evidence/",
+      "summary": "A Florida man is suing police, alleging wrongful arrest based on a faulty 93% facial recognition match from a low-quality surveillance image. The lawsuit claims officers ignored exculpatory evidence, as the man lives over 300 miles from the crime scene.",
+      "tags": [
+        "facial recognition",
+        "privacy",
+        "law enforcement"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a6493a077316e9de",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
+      "url": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
+      "summary": "A German court issued a preliminary ruling holding Google liable for false statements in its AI Overviews, which had incorrectly linked publishers to scams. Google's defense, that users understand AI outputs require verification, was not accepted.",
+      "tags": [
+        "ai",
+        "google",
+        "law"
+      ],
+      "priority": false
+    },
+    {
+      "id": "09b18a4d6b21377d",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "OB-GYNs release their own vaccine schedule, rejecting RFK Jr.'s meddling",
+      "url": "https://arstechnica.com/health/2026/06/bucking-rfk-jr-ob-gyns-release-vaccine-guidance-that-conflicts-with-cdc/",
+      "summary": "The American College of Obstetricians & Gynecologists (ACOG) has issued its own maternal vaccination recommendations, diverging from CDC guidance. This move addresses confusion caused by \"changing national recommendations coupled with rampant vaccine misinformation\" and Health Secretary Robert F. Kennedy Jr.'s anti-vaccine influence.",
+      "tags": [
+        "healthcare",
+        "vaccines",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5ab008c7890ff2e0",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Racist comments targeting politicians tripled since Meta relaxed its rules",
+      "url": "https://arstechnica.com/tech-policy/2026/06/racist-comments-targeting-politicians-tripled-since-meta-relaxed-its-rules/",
+      "summary": "New research from the Center for Countering Digital Hate (CCDH) reveals that abusive and racist comments targeting lawmakers on Meta platforms tripled after the company relaxed its content moderation rules. Violent threats and hate speech quadrupled in the same period, contradicting Meta's claim of over-enforcement.",
+      "tags": [
+        "social media",
+        "meta",
+        "content moderation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a46bd377470ae904",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "The 2026 Honda Prelude review: Didn't expect such a head-turner",
+      "url": "https://arstechnica.com/cars/2026/06/2026-honda-prelude-review-we-need-more-affordable-coupes-like-this/",
+      "summary": "The 2026 Honda Prelude, a three-door hatch, impresses despite its seemingly underwhelming specs, being hailed as one of the best cars of the year. Historically a technology showcase for Honda, this sixth-generation model features the S+ shift for a sportier hybrid character.",
+      "tags": [
+        "auto",
+        "review",
+        "honda"
+      ],
+      "priority": false
+    },
+    {
+      "id": "08842f66389d1db8",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Valve kills its retail gift card program due to scammers",
+      "url": "https://arstechnica.com/gaming/2026/06/valve-kills-its-retail-gift-card-program-due-to-scammers/",
+      "summary": "Valve is phasing out its physical Steam gift card program due to an ongoing battle against scammers who exploit the hard-to-track payment method. Scammers instruct victims to buy cards and share details, then resell them on gray markets to launder funds.",
+      "tags": [
+        "gaming",
+        "security",
+        "fraud"
+      ],
+      "priority": false
+    },
+    {
+      "id": "46a20d2a5f0996eb",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "We managed to glean some interesting details about the Artemis III mission",
+      "url": "https://arstechnica.com/space/2026/06/we-managed-to-glean-some-interesting-details-about-the-artemis-iii-mission/",
+      "summary": "NASA announced the crew for the Artemis III mission, scheduled for no earlier than summer 2027, and detailed plans for the crew to dock with both Blue Origin and SpaceX Starship landers in low-Earth orbit. Officials provided additional details regarding lander readiness and appearance during an interview.",
+      "tags": [
+        "space",
+        "nasa",
+        "artemis"
+      ],
+      "priority": false
+    },
+    {
+      "id": "31f95c97e2b6ef06",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'I will never get over watching my home burn': Belfast residents reel after night of unrest",
+      "url": "https://www.bbc.com/news/articles/cevl9j9y8dmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Belfast residents are grappling with the aftermath of a night of unrest, which saw homes burned and people displaced following a knife attack in the city's north.",
+      "tags": [
+        "northern ireland",
+        "unrest",
+        "violence"
+      ],
+      "priority": false
+    },
+    {
+      "id": "53540bce11f8a77d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Air India crash pilot's father vows to defend son's reputation",
+      "url": "https://www.bbc.com/news/articles/cj0gj911060o?at_medium=RSS&at_campaign=rss",
+      "summary": "The father of an Air India crash pilot has vowed to defend his son's reputation, as investigators are expected to release an update on the crash that killed 260 people last year.",
+      "tags": [
+        "aviation",
+        "investigation",
+        "family"
+      ],
+      "priority": false
+    },
+    {
+      "id": "24ba9b09d3d7acf1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "An Everest guide's miraculous survival raises questions for tourism industry",
+      "url": "https://www.bbc.com/news/articles/c1ly4p25jyvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The miraculous survival of an Everest guide, who was a cook leading clients, has prompted questions about the safety and standards within the mountain tourism industry.",
+      "tags": [
+        "tourism",
+        "safety",
+        "everest"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a910a918042a3225",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Bill Gates says Epstein wanted personal relationship, but he 'never reciprocated'",
+      "url": "https://www.bbc.com/news/articles/c0jy8v0ge66o?at_medium=RSS&at_campaign=rss",
+      "summary": "Bill Gates testified to lawmakers that Jeffrey Epstein sought a personal relationship with him, which he \"never reciprocated,\" and that Epstein used his marital infidelities to pressure him.",
+      "tags": [
+        "bill gates",
+        "epstein",
+        "scandal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c6720d65f0734c8e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Fireworks illuminate Barcelona's Sagrada Família during Pope visit",
+      "url": "https://www.bbc.com/news/videos/ce95gmdlp98o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fireworks lit up Barcelona's Sagrada Família during a visit from Pope Leo XIV, who praised the iconic church as a masterpiece of \"stones, colours and light.\"",
+      "tags": [
+        "spain",
+        "religion",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4a54c486a335f55f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "First charges laid over deadly Hong Kong fire",
+      "url": "https://www.bbc.com/news/articles/c04yldyezyeo?at_medium=RSS&at_campaign=rss",
+      "summary": "First charges have been laid in connection with the Wang Fuk Court blaze in Hong Kong, the deadliest fire in 70 years, which killed 168 people last year.",
+      "tags": [
+        "hong kong",
+        "fire",
+        "law"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e60536b380899f09",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "French singer Patrick Bruel faces rape charges",
+      "url": "https://www.bbc.com/news/articles/c3ey8d3jwglo?at_medium=RSS&at_campaign=rss",
+      "summary": "French singer Patrick Bruel has been placed under judicial investigation for rape charges, meaning a magistrate will further examine the case.",
+      "tags": [
+        "crime",
+        "france",
+        "celebrities"
+      ],
+      "priority": false
+    },
+    {
+      "id": "46e7d5bd14cd846a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Growing backlash in Japan over Trump's use of anime characters",
+      "url": "https://www.bbc.com/news/articles/cdx7vynyl4eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Former US President Trump faces growing backlash in Japan for using images of anime characters like Pikachu and Naruto without permission.",
+      "tags": [
+        "japan",
+        "trump",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7b629515ff43ebbe",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Israeli strikes in southern Lebanon kill 17, reports say",
+      "url": "https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss",
+      "summary": "Reports indicate that Israeli strikes in southern Lebanon have killed 17 people, with nine fatalities occurring in the town of Tayr Debba.",
+      "tags": [
+        "israel",
+        "lebanon",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3f2cce21ce5c7819",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg",
+      "url": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&at_campaign=rss",
+      "summary": "A manhunt is underway in South Africa after 12 people were killed and nine injured in a mass shooting at an informal settlement in Cleveland, Johannesburg.",
+      "tags": [
+        "crime",
+        "south africa",
+        "violence"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9df9ce667f4c1205",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Model who alleges Kanye West choked her tells BBC she felt 'suffocated and scared'",
+      "url": "https://www.bbc.com/news/articles/c0q2jgkwk0no?at_medium=RSS&at_campaign=rss",
+      "summary": "A model alleges that Kanye West choked her on a music video set, stating she felt \"suffocated and scared,\" while West claims it was part of a \"provocative theatrical performance.\"",
+      "tags": [
+        "celebrities",
+        "crime",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3be5945dff4fef32",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Norway crown princess's son to stay in custody before rape verdict, says court",
+      "url": "https://www.bbc.com/news/articles/c621lnee131o?at_medium=RSS&at_campaign=rss",
+      "summary": "A court has ruled that the Norway crown princess's 29-year-old son will remain in custody pending a rape verdict, overturning a lower court's decision for his release.",
+      "tags": [
+        "crime",
+        "royalty",
+        "norway"
+      ],
+      "priority": false
+    },
+    {
+      "id": "521d5500d3489ada",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Olivia Rodrigo sings about heartbreak but she's already chosen her wedding song",
+      "url": "https://www.bbc.com/news/articles/cly83elvz70o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pop star Olivia Rodrigo, known for heartbreak songs, has already chosen her wedding song and discussed the challenges of writing happy songs and her Glastonbury anxiety.",
+      "tags": [
+        "music",
+        "celebrities",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b43c28c69d609e14",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Pakistan launches deadly air strikes in Afghanistan, reigniting tensions",
+      "url": "https://www.bbc.com/news/articles/cvg57nk373lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pakistan has launched deadly air strikes in Afghanistan, reigniting tensions after weeks of relative calm in the border region between the two countries.",
+      "tags": [
+        "pakistan",
+        "afghanistan",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b3e01b8dfbd6044b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "The furious dispute over what caused Air India flight 171 to crash",
+      "url": "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss",
+      "summary": "An ongoing furious dispute surrounds the cause of Air India flight 171's crash, with final investigation conclusions yet to be published.",
+      "tags": [
+        "aviation",
+        "investigation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fb493d2c2bce66bf",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Three Indian sailors missing after US says it hit tanker in Gulf of Oman",
+      "url": "https://www.bbc.com/news/articles/c0rygjw1kqxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Three Indian sailors are missing after the US reported hitting a tanker, the Settebello, off the coast of Oman, though 21 crew members have been rescued.",
+      "tags": [
+        "maritime",
+        "conflict",
+        "us"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ba68693a64f51756",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump says he 'loves the inflation' as US prices rise at fastest rate in three years",
+      "url": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
+      "summary": "Former President Trump expressed approval for rising US inflation, which is at its fastest rate in three years, as consumers feel the strain of the US-Israel war in Iran.",
+      "tags": [
+        "economy",
+        "inflation",
+        "trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3cd68a393d229976",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ukraine says missiles hit military plant deep inside Russia",
+      "url": "https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's military claims its missiles struck a military plant deep inside Russia, in addition to hitting a Russian oil refinery and a \"shadow fleet\" oil tanker in the Black Sea.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "035d6c64b79ce6be",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US and Iran exchange strikes across Middle East for second day in a row",
+      "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US conducted strikes on military targets in southern Iran, with Tehran responding by targeting US military assets in Kuwait, Bahrain, and Jordan, escalating tensions for a second consecutive day.",
+      "tags": [
+        "us",
+        "iran",
+        "middle east"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cff686be50f8321b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US official claims banned referee had links with 'terror organisations'",
+      "url": "https://www.bbc.com/sport/football/articles/c2dylj8kj82o?at_medium=RSS&at_campaign=rss",
+      "summary": "A US official claims Somali referee Omar Artan was denied entry to the United States and banned due to his \"association with suspected members of terror organisations.\"",
+      "tags": [
+        "us",
+        "immigration",
+        "terrorism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1ada91797a1f7863",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Historic US-Canada border library gets new Quebec-only entrance",
+      "url": "https://www.bbc.com/news/videos/clyrvrde160o?at_medium=RSS&at_campaign=rss",
+      "summary": "A historic US-Canada border library has opened a new Quebec-only entrance, after Canadians were barred from using the library's US-side door by the Trump administration in 2025.",
+      "tags": [
+        "us",
+        "canada",
+        "border"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ce1654c146ea7c01",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Whale graveyard dating back five million years discovered",
+      "url": "https://www.bbc.com/news/articles/c75ylx4xn10o?at_medium=RSS&at_campaign=rss",
+      "summary": "A five-million-year-old whale graveyard has been discovered in the Indian Ocean, described by researchers as \"far beyond anything we had imagined.\"",
+      "tags": [
+        "science",
+        "archaeology",
+        "discovery"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5f2c4bcc1c7b5bc0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Zelensky under pressure to end row with Poland over WW2 name of army unit",
+      "url": "https://www.bbc.com/news/articles/c992r4kn5j9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukrainian President Zelensky is under pressure to resolve a dispute with Poland, which threatens to strip him of a state honor over the naming of a Ukrainian military unit after controversial World War Two fighters.",
+      "tags": [
+        "ukraine",
+        "poland",
+        "history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fb52a923a7fd9f3c",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
+      "url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
+      "summary": "JPL continues to operate the 13-year-old Curiosity rover, ensuring it can still perform scientific tasks on Mars.",
+      "tags": [
+        "space",
+        "rover",
+        "engineering"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d2eb7132a7d59c0f",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
+      "url": "https://news.ycombinator.com/item?id=48477135",
+      "summary": "Eric Ries, author of \"The Lean Startup,\" is promoting his new book \"Incorruptible,\" which explores why companies stray from their missions and how to structure organizations for long-term resilience. He also co-founded an AI R&D lab and advised Anthropic on governance.",
+      "tags": [
+        "business",
+        "startups",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7d89238a11a63f12",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Show HN: Extend UI – open-source UI kit for modern document apps",
+      "url": "https://www.extend.ai/ui",
+      "summary": "Extend AI has open-sourced \"Extend UI,\" an MIT-licensed UI kit offering 14 customizable components for modern document applications, including PDF, DOCX, and XLSX viewers. This kit is designed to simplify building document processing agents and user-facing intake flows.",
+      "tags": [
+        "open source",
+        "ui kit",
+        "documents"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a823861538522dc0",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "The Download: the “steroid olympics” and a safer Mythos",
+      "url": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
+      "summary": "The Download discusses the \"steroid olympics\" and a \"safer\" Mythos, highlighting that Anthropic released a safeguarded version of Mythos after previously claiming it was too dangerous. It also covers a reality check on AI jobs hysteria, noting scant evidence of large-scale impact on the labor market despite growing concern.",
+      "tags": [
+        "ai",
+        "ethics",
+        "sports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "630131b964e4241f",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "The “steroid olympics” were a circus—and a window into our culture",
+      "url": "https://www.technologyreview.com/2026/06/10/1138670/enhanced-games-doping-steroids-hormones-supplements-longevity/",
+      "summary": "The inaugural Enhanced Games, an event encouraging performance-enhancing drugs, highlighted a cultural intersection of Silicon Valley biohackers and alt-right movements, raising questions about the future of human limits and longevity. The event was criticized for glamorizing dangerous substances, yet it attracted interest from VCs and influencers.",
+      "tags": [
+        "science",
+        "culture",
+        "biohacking"
+      ],
+      "priority": false
+    },
+    {
+      "id": "805d6ed766c96543",
+      "source": "Noahpinion",
+      "source_type": "substack",
+      "title": "Insurers aren't the main villain of the U.S. health care system",
+      "url": "https://www.noahpinion.blog/p/insurers-arent-the-main-villain-of",
+      "summary": "In\na post last week\n, I wrote about the progressive anti-monopoly movement’s increasing disconnect from reality. I wrote:\n[C]onsider the movement’s choice of targets. These include some industries with high profit margins, but also some with very low margins. These include\ngrocer…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f70f7fcf09fdb426",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Amnesty accuses Israel's government of 'ethnic cleansing' of West Bank Palestinians",
+      "url": "https://www.npr.org/2026/06/11/g-s1-127411/amnesty-israel-west-bank",
+      "summary": "Amnesty International accuses the Israeli government of \"ethnic cleansing\" of West Bank Palestinians, claiming deliberate attempts to annex the territory.",
+      "tags": [
+        "israel",
+        "palestine",
+        "human rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "27dcfb6bca4e8139",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "FBI seizing evidence at California plant where chemical tank overheated",
+      "url": "https://www.npr.org/2026/06/10/g-s1-127381/fbi-garden-grove-chemical-tank-evacuations",
+      "summary": "The FBI seized evidence at a Southern California aerospace facility where an overheated chemical tank prompted the evacuation of 50,000 residents last month due to explosion fears.",
+      "tags": [
+        "fbi",
+        "incident",
+        "chemical"
+      ],
+      "priority": false
+    },
+    {
+      "id": "70f51670c59e0c8b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Knicks rally from 29 points down and beat Spurs for 3-1 NBA Finals lead",
+      "url": "https://www.npr.org/2026/06/11/nx-s1-5854346/knicks-record-rally",
+      "summary": "The New York Knicks achieved a record 29-point comeback to defeat the San Antonio Spurs 107-106, taking a 3-1 lead in the NBA Finals.",
+      "tags": [
+        "nba",
+        "basketball",
+        "sports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1128a6c0755bda20",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Police blast water cannons at protesters amid unrest over stabbing in Belfast",
+      "url": "https://www.npr.org/2026/06/11/g-s1-127401/uk-anti-immigration-protests-belfast",
+      "summary": "Police used water cannons against protesters in Belfast during a second night of violence sparked by a stabbing, with residents setting fires and throwing objects.",
+      "tags": [
+        "northern ireland",
+        "unrest",
+        "violence"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ebc1815bf2675b5f",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Report: ICE wasted millions, endangered detainees in largest immigration facility",
+      "url": "https://www.npr.org/2026/06/10/nx-s1-5853534/report-ice-wasted-millions-endangered-detainees-in-largest-immigration-facility",
+      "summary": "A report indicates that ICE wasted millions of dollars and endangered detainees at Camp East Montana, its largest immigration facility in Texas, since its opening last year. Immigration lawyers and advocates have raised concerns about conditions there.",
+      "tags": [
+        "immigration",
+        "ice",
+        "government"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ced47f56f6f0b1a6",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Somali World Cup referee denied U.S. entry, hailed as hero at home",
+      "url": "https://www.npr.org/2026/06/10/nx-s1-5853075/somali-world-cup-referee-denied-u-s-entry-hailed-as-hero-at-home",
+      "summary": "Somali World Cup referee Omar Artan, denied US entry and blocked from participating in the World Cup, received a hero's welcome in Somalia.",
+      "tags": [
+        "us",
+        "immigration",
+        "terrorism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "549a841b9181eb8f",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Taiwan drills with U.S. rocket system, firing in China's direction",
+      "url": "https://www.npr.org/2026/06/10/g-s1-127253/taiwan-drills-with-us-rocket-system-firing-in-chinas-direction",
+      "summary": "Taiwan conducted military drills using the U.S.-supplied HIMARS rocket system, firing in the direction of China for the first time into the Taiwan Strait.",
+      "tags": [
+        "taiwan",
+        "china",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "77db676b8f6f883b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "The theory taking the rich by storm: China funds data center haters",
+      "url": "https://www.npr.org/2026/06/10/nx-s1-5844328/us-china-data-centers-foreign-influence",
+      "summary": "A theory gaining traction among tech millionaires alleges that China is secretly funding local opposition to US data centers, despite a lack of direct evidence.",
+      "tags": [
+        "china",
+        "data centers",
+        "conspiracy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e65b25a6eac8077f",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "U.S. launches a second day of strikes on Iran and Iran fires back at Gulf States",
+      "url": "https://www.npr.org/2026/06/10/nx-s1-5853882/us-strike-iran-second-day-renewed-fire",
+      "summary": "The U.S. launched a second day of strikes across multiple Iranian cities, while Iran retaliated against Gulf States, as negotiations to end the war remained stalled. Iran continues to assert control over the Strait of Hormuz.",
+      "tags": [
+        "us",
+        "iran",
+        "middle east"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8ca4836f8aaeaa25",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Veterans and relatives see no place for Trump's arch near Arlington National Cemetery",
+      "url": "https://www.npr.org/2026/06/10/nx-s1-5851587/trump-arch-veterans-arlington-national-cemetery",
+      "summary": "Veterans and relatives are opposing President Trump's plan to build an arch near Arlington National Cemetery, with three Vietnam War veterans filing a lawsuit to stop it.",
+      "tags": [
+        "trump",
+        "monument",
+        "veterans"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ac6c12fa105a02bb",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Albany Democrats poised for biggest leadership shake-up in years",
+      "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/06/10/albany-democrats-poised-for-biggest-leadership-shake-up-in-years-00957141",
+      "summary": "Albany Democrats face a significant leadership shake-up with the retirement of Assembly Majority Leader Crystal Peoples-Stokes and State Sen. Mike Gianaris, along with impending term limits impacting up to a dozen Senate Democrats. This will open key positions and potentially lead to widespread shuffling.",
+      "tags": [
+        "politics",
+        "new york",
+        "government"
+      ],
+      "priority": false
+    },
+    {
+      "id": "94acea0532133a62",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Poll: Voter cynicism remains a potent threat to incumbents across the globe",
+      "url": "https://www.politico.com/news/2026/06/11/poll-voter-cynicism-uk-us-starmer-trump-00956725",
+      "summary": "A POLITICO Poll indicates widespread voter cynicism and a desire for radical change, posing a significant threat to incumbents globally, including in the UK and US. This sentiment led to the ousting of ruling parties in 2024 and continues to fuel anti-incumbent frustration.",
+      "tags": [
+        "politics",
+        "polling",
+        "global affairs"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d9415b692a105a21",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "The Democratic establishment begrudgingly moves to embrace Graham Platner",
+      "url": "https://www.politico.com/news/2026/06/10/democrats-line-up-graham-platner-maine-00955581",
+      "summary": "Despite past scandals, Graham Platner secured the Democratic nomination for a Maine Senate seat, prompting Democratic leadership to begrudgingly support him against Senator Susan Collins. Party leaders are now focusing on the importance of defeating Collins while Republicans quickly launched attacks highlighting Platner's controversies.",
+      "tags": [
+        "politics",
+        "elections",
+        "us"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f0f93c14fb2531cc",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Trump-backed candidate wins GOP primary to replace Nevada Rep. Mark Amodei",
+      "url": "https://www.politico.com/news/2026/06/10/flippo-wins-nevada-house-primary-00956027",
+      "summary": "David Flippo, a retired Air Force lieutenant colonel backed by Donald Trump, won the GOP primary to replace Nevada Rep. Mark Amodei. Flippo campaigned as a hardliner on immigration and transgender issues, prevailing in a crowded field despite local Republican opposition.",
+      "tags": [
+        "politics",
+        "elections",
+        "trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "48ea934c1bcd0f1a",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "An Early Step on the Long, Strange Road to Photosynthesis",
+      "url": "https://www.quantamagazine.org/an-early-step-on-the-long-strange-road-to-photosynthesis-20260610/",
+      "summary": "Life took an evolutionary leap around 2.4 billion years ago when bacteria learned to use solar energy for photosynthesis, breaking water and creating sugars, which eventually flooded Earth's atmosphere with oxygen.",
+      "tags": [
+        "science",
+        "biology",
+        "evolution"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9241aabdadcac5a0",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
+      "url": "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything",
+      "summary": "Anthropic has reversed its controversial policy for Claude Fable 5, which would have silently limited the effectiveness of AI research requests, following significant public outcry. The company apologized for the \"wrong tradeoff\" and will now make safeguards visible.",
+      "tags": [
+        "ai",
+        "anthropic",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ed395cac6de61960",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "datasette-agent 0.2a0",
+      "url": "https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything",
+      "summary": "Datasette-agent 0.2a0 introduces new features, allowing AI tools to ask users questions mid-execution and save SQL queries as Datasette stored queries with human approval. These features were developed with the help of Claude Fable 5.",
+      "tags": [
+        "ai",
+        "software",
+        "database"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6620ac9b7373d223",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "DiffusionGemma",
+      "url": "https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything",
+      "summary": "Google has released DiffusionGemma, a new open-weight Gemma model that generates text rapidly by denoising a field of placeholder tokens. This research, previously an experimental Gemini Diffusion model, is now Apache 2 licensed and available, with NVIDIA hosting it on their NIM cloud API.",
+      "tags": [
+        "ai",
+        "google",
+        "machine learning"
+      ],
+      "priority": false
+    },
+    {
+      "id": "29c34345ca280610",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Jeremy Howard",
+      "url": "https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything",
+      "summary": "Jeremy Howard criticizes Anthropic's policy of allowing itself to use its top AI model for frontier AI research while sabotaging others, arguing it advances the AI frontier and increases power imbalance, contrary to efforts to slow down self-improvement. He advocates for democratizing AI.",
+      "tags": [
+        "ai",
+        "ethics",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "414cdddc8a1d9d29",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "A market moves, with a crisis unresolved",
+      "url": "https://www.slowboring.com/p/a-market-moves-with-a-crisis-unresolved",
+      "summary": "The House Appropriations Committee advanced a HUD spending bill for fiscal year 2027 that proposes an over 8 percent cut of $5.94 billion. This legislative move occurs amidst an unresolved housing crisis.",
+      "tags": [
+        "housing",
+        "policy",
+        "us government"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2aed693638993dcb",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Trump’s war on state capacity is coming home to roost",
+      "url": "https://www.slowboring.com/p/trumps-war-on-state-capacity-is-coming",
+      "summary": "The US is experiencing resurgences of screwworm cases and measles, along with a growing Ebola outbreak, which are exacerbated by the Trump administration's \"war on state capacity.\" While not directly caused by Trump, irresponsible policy decisions, sloppiness, and a zero-sum mindset have undermined American interests and global health efforts.",
+      "tags": [
+        "public health",
+        "us policy",
+        "government capacity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "740139c8794ee864",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations",
+      "url": "https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/",
+      "summary": "The ShinyHunters hacking group claims to have breached Oracle PeopleSoft servers belonging to over 100 organizations, including numerous universities.",
+      "tags": [
+        "cybersecurity",
+        "data breach",
+        "hacking"
+      ],
+      "priority": false
+    },
+    {
+      "id": "17701ea808d95fd1",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c0b3c751fdacc045",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+      "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+      "summary": "Datadog veterans have launched Niteshift, an AI coding agent startup, with $7 million in seed funding, betting that companies will prioritize control over their AI models rather than being locked into large AI providers.",
+      "tags": [
+        "ai",
+        "startups",
+        "coding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0f7fd42288fd153a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Everyone wants a piece of Tesla’s battery business",
+      "url": "https://techcrunch.com/2026/06/10/everyone-wants-a-piece-of-teslas-battery-business/",
+      "summary": "Increased electricity demand from AI data centers is driving more companies, including automakers like GM and Ford, into the energy storage business. This indicates a growing interest in battery technology beyond electric vehicles.",
+      "tags": [
+        "energy",
+        "battery",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4b52343b4496d747",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+      "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+      "summary": "Amazon has borrowed $17.5 billion from banks, in addition to a recent bond sale, to keep pace with exorbitant spending in the AI arms race. This indicates that companies are accumulating debt to maintain competitiveness in the AI sector.",
+      "tags": [
+        "ai",
+        "amazon",
+        "finance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cad48f8e776c69c1",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "How memory tools can make AI models worse",
+      "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+      "summary": "New research suggests that incorporating memory systems into AI models can degrade their performance and foster sycophantic tendencies.",
+      "tags": [
+        "ai",
+        "research",
+        "machine learning"
+      ],
+      "priority": false
+    },
+    {
+      "id": "699d0846bd681b58",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Netflix expands revamped mobile app across Asia and doubles down on kids’ gaming",
+      "url": "https://techcrunch.com/2026/06/10/netflix-expands-revamped-mobile-app-across-asia-and-doubles-down-on-kids-gaming/",
+      "summary": "Netflix is expanding its revamped mobile app across Asia and intensifying its focus on kids' gaming, signaling a strategic push to grow its mobile and gaming segments.",
+      "tags": [
+        "streaming",
+        "gaming",
+        "netflix"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1bd0c8972ca3c0d9",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "North Koreans behind nearly half of US tech industry hacks, says CrowdStrike",
+      "url": "https://techcrunch.com/2026/06/10/north-koreans-behind-nearly-half-of-us-tech-industry-hacks-says-crowdstrike/",
+      "summary": "CrowdStrike reports that North Korean hackers, often posing as remote IT workers or recruiters, are responsible for nearly half of all attacks on US, European, and Asian tech companies in the past year.",
+      "tags": [
+        "cybersecurity",
+        "north korea",
+        "hacking"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f6f74049f395e896",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
+      "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+      "summary": "Opendoor's exit from India is prompting a broader discussion about the intersection of AI and outsourcing, as India solidifies its position as the largest Global Capability Center market.",
+      "tags": [
+        "ai",
+        "outsourcing",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "821cf84998b1d55b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Pinterest bets on creators with Amazon Storefront integration",
+      "url": "https://techcrunch.com/2026/06/10/pinterest-bets-on-creators-with-amazon-storefront-integration/",
+      "summary": "Pinterest is integrating Amazon Storefronts, allowing creators to more easily earn affiliate commissions by showcasing product recommendations in a single place.",
+      "tags": [
+        "social media",
+        "ecommerce",
+        "creators"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f6d4844189d25a81",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The Indian government got cold feet on Starlink just before SpaceX’s IPO",
+      "url": "https://techcrunch.com/2026/06/10/the-indian-government-got-cold-feet-on-starlink-just-before-spacexs-ipo/",
+      "summary": "The Indian government's hesitation regarding Starlink's expansion in India could pose a challenge to SpaceX's IPO growth narrative.",
+      "tags": [
+        "spacex",
+        "starlink",
+        "regulation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8ebd5408ec0a6b65",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
+      "url": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
+      "summary": "Much of SpaceX's significant IPO valuation is tied to the company's ambitious plans for space data centers, which represent key hard-tech moonshots.",
+      "tags": [
+        "spacex",
+        "space",
+        "finance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e0e8061299320b96",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Warner Music acquires AI attribution startup Sureel AI",
+      "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+      "summary": "Warner Music Group (WMG) has acquired Sureel AI, an AI attribution startup, to enhance its ability to track when artists' work is used in AI-generated content or for training AI models.",
+      "tags": [
+        "music",
+        "ai",
+        "intellectual property"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e5b35e3094deff32",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Why Andrew Yang is building instead of waiting for Washington",
+      "url": "https://techcrunch.com/video/why-andrew-yang-is-building-instead-of-waiting-for-washington/",
+      "summary": "Andrew Yang's current focus is on building solutions rather than waiting for government action, driven by his long-standing warning that automation and AI will impact the labor market. His ideas like Universal Basic Income are gaining traction among diverse figures.",
+      "tags": [
+        "ai",
+        "policy",
+        "automation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "211b7976b0053899",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Why enterprise AI will be a major focus at VivaTech 2026",
+      "url": "https://techcrunch.com/2026/06/10/why-enterprise-ai-will-be-a-major-focus-at-vivatech-2026/",
+      "summary": "Enterprise AI will be a significant focus at VivaTech 2026, reflecting a European trend towards applying AI to complex, embedded systems rather than solely consumer-facing products.",
+      "tags": [
+        "ai",
+        "enterprise",
+        "europe"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e247a460c031883f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Wing drone delivery might not be a novelty anymore",
+      "url": "https://techcrunch.com/2026/06/10/wing-drone-delivery-might-not-be-a-novelty-anymore/",
+      "summary": "Wing is expanding its drone delivery services to seven additional U.S. cities through a partnership with Walmart, suggesting that drone delivery is moving beyond a novelty.",
+      "tags": [
+        "drones",
+        "delivery",
+        "retail"
+      ],
+      "priority": false
+    },
+    {
+      "id": "05ecd1ae3cee13b4",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+      "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+      "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was terminated for raising AI safety concerns about Grok, days before SpaceX's historic IPO.",
+      "tags": [
+        "ai",
+        "xai",
+        "whistleblowing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e225b1217c59eccd",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Zest launches a restaurant discovery app powered by where people actually eat",
+      "url": "https://techcrunch.com/2026/06/10/zest-launches-a-restaurant-discovery-app-powered-by-where-people-actually-eat/",
+      "summary": "Zest, a new restaurant discovery app backed by Alexis Ohanian’s 776, uses transaction data and AI to generate recommendations based on users’ actual dining habits.",
+      "tags": [
+        "apps",
+        "ai",
+        "food"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d053ecdb9713cf4e",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
+      "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+      "summary": "\"AI-pilled\" firms are reportedly spending approximately $7,500 per employee monthly on AI, according to the Ramp AI Index. While significant, this cost has not yet surpassed an engineer's salary.",
+      "tags": [
+        "ai",
+        "business",
+        "spending"
+      ],
+      "priority": false
+    },
+    {
+      "id": "78fb447f64ccc5b6",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "A Manufacturing Revolution Is Happening—in Space",
+      "url": "https://www.thefp.com/p/manufacturing-revolution-space-drugs",
+      "summary": "SpaceX's impending IPO, valued at $1.75 trillion, is driven by its ability to lower launch costs and increase frequency, opening new commercial opportunities for space-based data centers, manufacturing, and labs. Founders like Delian Asparouhov are pursuing industrializing space, envisioning in-orbit manufacturing and asteroid mining.",
+      "tags": [
+        "space",
+        "spacex",
+        "manufacturing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ff14eb6c83a1c368",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Conservatives Took Over a Progressive College. What Happened Next?",
+      "url": "https://www.thefp.com/p/new-college-florida-desantis-higher-education",
+      "summary": "New College of Florida, a liberal arts school, has undergone a conservative transformation under Governor Ron DeSantis's influence, leading to a \"battlefield of political views\" perception, though some students find the reality different from the media narrative.",
+      "tags": [
+        "education",
+        "politics",
+        "florida"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ca2935c965e5e04e",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "EXCLUSIVE: The Iran War Critic Under Investigation by the Trump Administration",
+      "url": "https://www.thefp.com/p/iran-war-critic-deportation-trita-parsi",
+      "summary": "Trita Parsi, co-founder of the Quincy Institute and a prominent critic of the US-Israel war with Iran, is reportedly under investigation by the Trump State Department for possible deportation. Parsi, an Iranian-born green card holder, has warned of threats to US interests from Tehran.",
+      "tags": [
+        "iran",
+        "us",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a2b64bfa56875076",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Graham Platner’s Ex-Girlfriend Wants to Set the Record Straight. Plus. . .",
+      "url": "https://www.thefp.com/p/graham-platners-ex-girlfriend-wants-79e",
+      "summary": "Lyndsey Fifield, an ex-girlfriend of Democratic Senate nominee Graham Platner, faced a backlash after detailing his alleged disturbing behavior to The New York Times, sparking debates on journalistic bias and candidate expectations. Despite the controversies, Platner secured a primary victory, with his campaign even seeing a fundraising surge after the allegations.",
+      "tags": [
+        "politics",
+        "elections",
+        "us"
+      ],
+      "priority": false
+    },
+    {
+      "id": "19a610d80409c953",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Apple, Google add support for Thread 1.4",
+      "url": "https://www.theverge.com/tech/947888/apple-google-add-support-for-thread-1-4",
+      "summary": "Apple and Google are updating their smart home streaming devices, like Apple TVs and Google TV Streamers, to support Thread 1.4. This update enables Thread Border Routers to implement credential sharing, facilitating easier connections to existing Thread networks.",
+      "tags": [
+        "smart home",
+        "iot",
+        "apple"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f40ffdd1ea275697",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Apple’s new Siri AI knows when to shut up",
+      "url": "https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality",
+      "summary": "Apple's new Siri AI is noted for its curt and concise responses, a contrast to many verbose chatbots, which users appreciate for its efficiency. This personality choice avoids the issue of users becoming overly attached or grieving chatbots that are shut down.",
+      "tags": [
+        "ai",
+        "apple",
+        "siri"
+      ],
+      "priority": false
+    },
+    {
+      "id": "db0b18bfe35faad1",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Bluesky is getting ‘communities’",
+      "url": "https://www.theverge.com/tech/948215/bluesky-communities-at-protocol-atmosphere-reddit",
+      "summary": "Bluesky will introduce \"communities\" this year, providing smaller, deeper spaces for users to engage with shared interests. These communities will be built on the decentralized AT Protocol, allowing users to create, join, post, and receive updates within them.",
+      "tags": [
+        "social media",
+        "platforms",
+        "decentralized"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b2cdabda03b02030",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Claude Fable won’t answer basic biology questions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
+      "summary": "Anthropic's new AI model, Claude Fable 5, reportedly deflects basic biology questions to its predecessor, Claude Opus 4.8, due to intentional design guardrails. Despite being praised for its biological skills, Anthropic limited its public release due to safety concerns about this \"Mythos-class\" model's cybersecurity capabilities.",
+      "tags": [
+        "ai",
+        "anthropic",
+        "content moderation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6cd49d445f5845c0",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Framework delays its first Laptop 13 Pro shipments by a month",
+      "url": "https://www.theverge.com/gadgets/948044/framework-laptop-13-pro-delay-shipment-july-august",
+      "summary": "Shipments of the Framework Laptop 13 Pro are delayed by a month, now expected in July or early August, with later batches potentially slipping into September. The delay is primarily attributed to new components like the haptic trackpad and custom display.",
+      "tags": [
+        "laptops",
+        "hardware",
+        "supply chain"
+      ],
+      "priority": false
+    },
+    {
+      "id": "59132384854ce6e3",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Kalshi adds required employment verification for some prediction market bets",
+      "url": "https://www.theverge.com/business/948083/kalshi-prediction-markets-insider-trading",
+      "summary": "Kalshi, a prediction market platform, has begun requiring employment verification for certain bets, amid ongoing arrests for \"insider trading\" and potential new CFTC regulations for the industry. The CFTC is considering a framework to evaluate if contracts involve unlawful activities.",
+      "tags": [
+        "finance",
+        "regulation",
+        "prediction markets"
+      ],
+      "priority": false
+    },
+    {
+      "id": "89dc25d44196f921",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
+      "url": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
+      "summary": "Microsoft acknowledges the deep unpopularity of AI among new college graduates, as evidenced by students booing commencement speakers who hype the technology. Brad Smith, Microsoft vice chair, addressed this sentiment in a blog post, highlighting a broader societal unease with AI.",
+      "tags": [
+        "ai",
+        "public perception",
+        "education"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b2a50796ee301ac6",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Nearly a million passports and photo IDs were left unprotected on the public internet",
+      "url": "https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal",
+      "summary": "A data breach exposed nearly a million passports and photo IDs on publicly accessible URLs without password protection or access control. This vulnerability poses a significant risk of identity theft and data resale.",
+      "tags": [
+        "cybersecurity",
+        "data breach",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "52131f782bb238fc",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Xbox warns of a &#8216;reset&#8217; as it prepares for layoffs",
+      "url": "https://www.theverge.com/games/948142/microsoft-xbox-layoffs-reset-asha-sharma",
+      "summary": "Microsoft's Xbox division is anticipating significant layoffs next month, with CEO Asha Sharma hinting at \"making hard choices\" amidst rumors of up to 1,000 job cuts. The reset could include studio closures and budget reductions across marketing and other areas.",
+      "tags": [
+        "gaming",
+        "microsoft",
+        "layoffs"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 114,
+    "summarized": 95,
+    "skipped_promos": 19,
+    "filtered_by_rules": 0,
+    "sources": 14,
+    "email_items_omitted": 0
+  }
+}
