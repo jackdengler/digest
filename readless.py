@@ -654,6 +654,42 @@ def build_digest(date_str: str, items: list[Item], llm_result: dict[str, Any],
 # Output 1: GitHub Pages site files
 # --------------------------------------------------------------------------
 
+def _merge_same_day(previous: dict[str, Any], fresh: dict[str, Any]) -> dict[str, Any]:
+    """Combine an earlier digest for the same date with a re-run's digest.
+
+    Items are deduped by id (the fresh run wins), so a mid-day re-run adds the
+    new stories instead of wiping out what was published that morning.
+    """
+    fresh_ids = {e.get("id") for e in fresh.get("items") or []}
+    items = list(fresh.get("items") or [])
+    items += [e for e in previous.get("items") or [] if e.get("id") not in fresh_ids]
+    items.sort(key=lambda e: (not e.get("priority"), str(e.get("source") or "").lower(),
+                              str(e.get("title") or "").lower()))
+    valid_ids = {e.get("id") for e in items}
+
+    hot_topics: list[dict[str, Any]] = []
+    seen_topics: set[str] = set()
+    for topic in (previous.get("hot_topics") or []) + (fresh.get("hot_topics") or []):
+        name = str(topic.get("topic") or "").strip().lower()
+        if not name or name in seen_topics:
+            continue
+        seen_topics.add(name)
+        hot_topics.append({**topic,
+                           "item_ids": [i for i in topic.get("item_ids") or []
+                                        if i in valid_ids]})
+
+    prev_counts = previous.get("counts") or {}
+    fresh_counts = fresh.get("counts") or {}
+    counts = {key: int(prev_counts.get(key) or 0) + int(fresh_counts.get(key) or 0)
+              for key in ("new_items", "skipped_promos", "filtered_by_rules")}
+    if "email_items_omitted" in prev_counts or "email_items_omitted" in fresh_counts:
+        counts["email_items_omitted"] = (int(prev_counts.get("email_items_omitted") or 0)
+                                         + int(fresh_counts.get("email_items_omitted") or 0))
+    counts["summarized"] = len(items)
+    counts["sources"] = len({e.get("source") for e in items})
+    return {**fresh, "items": items, "hot_topics": hot_topics, "counts": counts}
+
+
 def write_site_files(digest: dict[str, Any], site_dir: Path,
                      publish_email_items: bool) -> Path:
     """Write site/digests/<date>.json, refresh index.json and prune the archive."""
@@ -675,6 +711,17 @@ def write_site_files(digest: dict[str, Any], site_dir: Path,
         published["counts"] = {**digest["counts"], "email_items_omitted": omitted}
 
     digest_path = digests_dir / f"{digest['date']}.json"
+    if digest_path.exists():
+        try:
+            previous = json.loads(digest_path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError) as exc:
+            log.warning("site: could not read the existing %s digest (%s), replacing it",
+                        digest["date"], exc)
+            previous = None
+        if isinstance(previous, dict) and previous.get("date") == digest["date"]:
+            published = _merge_same_day(previous, published)
+            log.info("site: merged with the earlier %s digest (%d items total)",
+                     digest["date"], len(published["items"]))
     digest_path.write_text(json.dumps(published, ensure_ascii=False, indent=2) + "\n",
                            encoding="utf-8")
 

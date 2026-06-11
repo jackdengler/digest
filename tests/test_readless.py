@@ -179,6 +179,35 @@ def test_site_writer_includes_email_items_when_enabled(tmp_path: Path) -> None:
     assert "email_items_omitted" not in data["counts"]
 
 
+def test_site_writer_merges_same_day_rerun(tmp_path: Path) -> None:
+    first = readless.write_site_files(_sample_digest(), tmp_path / "site",
+                                      publish_email_items=False)
+    earlier = json.loads(first.read_text(encoding="utf-8"))
+
+    rerun = _sample_digest()
+    rerun["items"] = [{
+        "id": "ddd444", "source": "Late Wire", "source_type": "rss",
+        "title": "Afternoon scoop", "url": "https://example.com/scoop",
+        "summary": "A story that broke after the morning digest.",
+        "tags": ["news"], "priority": False,
+    }]
+    rerun["hot_topics"] = []
+    rerun["counts"] = {"new_items": 1, "summarized": 1, "skipped_promos": 0,
+                       "filtered_by_rules": 1, "sources": 1}
+    path = readless.write_site_files(rerun, tmp_path / "site",
+                                     publish_email_items=False)
+
+    data = json.loads(path.read_text(encoding="utf-8"))
+    ids = [e["id"] for e in data["items"]]
+    assert "ddd444" in ids  # the new story arrived...
+    assert set(e["id"] for e in earlier["items"]) <= set(ids)  # ...and nothing was lost
+    assert len(ids) == len(set(ids))
+    assert data["counts"]["new_items"] == earlier["counts"]["new_items"] + 1
+    assert data["counts"]["filtered_by_rules"] == earlier["counts"]["filtered_by_rules"] + 1
+    assert data["counts"]["summarized"] == len(ids)
+    assert [t["topic"] for t in data["hot_topics"]] == [t["topic"] for t in earlier["hot_topics"]]
+
+
 # --------------------------------------------------------------------------
 # Email HTML renderer: trending, stars, filtered counts, no scripts
 # --------------------------------------------------------------------------
