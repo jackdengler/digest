@@ -1,0 +1,155 @@
+{
+  "date": "2026-06-10",
+  "generated_at": "2026-06-10T14:02:41+00:00",
+  "hot_topics": [
+    {
+      "topic": "Open-weight models close the coding gap",
+      "synthesis": "Ars Technica, The Verge and Simon Willison all covered this week's wave of open-weight model releases. The through-line: freely downloadable models now match closed frontier systems on independent coding benchmarks, and local-inference tooling has matured enough that running them on a laptop is genuinely practical. Expect pressure on API pricing as a result.",
+      "item_ids": [
+        "a1c2e3f405b6d798",
+        "4b0cc33eaf56b798",
+        "29eaa11c8d34f576"
+      ]
+    },
+    {
+      "topic": "AI's power appetite is becoming a grid problem",
+      "synthesis": "Four sources converged on the same theme from different angles: datacenter demand is outrunning the electric grid. Ars Technica looked at utility planning, a Hacker News thread surfaced practitioner war stories about interconnection queues, the BBC covered heatwave strain on European grids, and Noahpinion argued the real bottleneck is transmission, not generation.",
+      "item_ids": [
+        "b2d3f4a516c7e809",
+        "f6b7d8e95a01c243",
+        "d4f5b6c738e9a021",
+        "07c8e9fa6b12d354"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "3e7a91c4d2f08b56",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "Mathematicians narrow a decades-old gap in the primes",
+      "url": "https://www.quantamagazine.org/mathematicians-narrow-the-gap-between-primes-20260610/",
+      "summary": "A pair of number theorists tightened the best known bounds on gaps between consecutive primes, settling a question that had resisted attack since the 1980s. The proof adapts sieve methods developed during the 2013 bounded-gaps breakthrough.",
+      "tags": ["math", "research"],
+      "priority": true
+    },
+    {
+      "id": "a1c2e3f405b6d798",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Open-weight model matches frontier coding performance in independent tests",
+      "url": "https://arstechnica.com/ai/2026/06/open-weight-model-coding-benchmarks/",
+      "summary": "Independent benchmark runs show the latest open-weight release matching closed frontier models on real-world coding tasks, a first for freely downloadable weights.",
+      "tags": ["ai", "open-source"],
+      "priority": false
+    },
+    {
+      "id": "b2d3f4a516c7e809",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Why your utility can't keep up with AI datacenters",
+      "url": "https://arstechnica.com/tech-policy/2026/06/utilities-ai-datacenter-demand/",
+      "summary": "Utilities are fielding datacenter interconnection requests that exceed their entire existing load, forcing multi-year waits and emergency planning reviews.",
+      "tags": ["energy", "datacenters"],
+      "priority": false
+    },
+    {
+      "id": "c3e4a5b627d8f910",
+      "source": "Astral Codex Ten",
+      "source_type": "substack",
+      "title": "Your Book Review: The Man From the Future",
+      "url": "https://www.astralcodexten.com/p/your-book-review-the-man-from-the",
+      "summary": "A reader review of Ananyo Bhattacharya's John von Neumann biography, arguing that von Neumann's real superpower was picking problems exactly one step before they became fields.",
+      "tags": ["books", "history"],
+      "priority": false
+    },
+    {
+      "id": "d4f5b6c738e9a021",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Heatwave pushes power grids to the limit across southern Europe",
+      "url": "https://www.bbc.com/news/world-europe-68211001",
+      "summary": "Record June temperatures drove electricity demand to seasonal highs in Spain, Italy and Greece, with grid operators urging conservation during evening peaks.",
+      "tags": ["climate", "energy"],
+      "priority": false
+    },
+    {
+      "id": "e5a6c7d849f0b132",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Markets steady as central banks signal patience on rate cuts",
+      "url": "https://www.bbc.com/news/business-68211002",
+      "summary": "Global markets held flat after central bankers in the US and Europe indicated they would wait for clearer inflation data before adjusting rates.",
+      "tags": ["economy"],
+      "priority": false
+    },
+    {
+      "id": "f6b7d8e95a01c243",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Utilities say datacenter interconnection queues now stretch past 2030",
+      "url": "https://news.ycombinator.com/item?id=44218765",
+      "summary": "A widely discussed thread on grid interconnection delays, with practitioners reporting four-to-six-year waits and creative workarounds like on-site generation.",
+      "tags": ["energy", "infrastructure"],
+      "priority": false
+    },
+    {
+      "id": "07c8e9fa6b12d354",
+      "source": "Noahpinion",
+      "source_type": "substack",
+      "title": "The case for building transmission lines like we mean it",
+      "url": "https://www.noahpinion.blog/p/the-case-for-building-transmission",
+      "summary": "Argues that America's electricity bottleneck is transmission rather than generation, and that permitting reform for long-distance lines would unlock already-approved renewable capacity.",
+      "tags": ["energy", "policy"],
+      "priority": false
+    },
+    {
+      "id": "18d9f00b7c23e465",
+      "source": "NPR News",
+      "source_type": "rss",
+      "title": "Schools tried phone-free days for a year. Here's what changed",
+      "url": "https://www.npr.org/2026/06/10/phone-free-schools-year-later",
+      "summary": "A year into phone-free pilot programs, participating schools report calmer hallways and better lunchtime conversation, while enforcement remains the hardest part.",
+      "tags": ["education"],
+      "priority": false
+    },
+    {
+      "id": "29eaa11c8d34f576",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Notes on running this week's open-weight models locally",
+      "url": "https://simonwillison.net/2026/Jun/10/open-weight-models-locally/",
+      "summary": "Hands-on notes covering quantization choices, tokens-per-second on consumer hardware, and which of the new open-weight releases are actually worth the download.",
+      "tags": ["ai", "tools"],
+      "priority": false
+    },
+    {
+      "id": "3afbb22d9e45a687",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Hands-on: the thinnest folding phone yet still can't fix battery life",
+      "url": "https://www.theverge.com/2026/6/10/folding-phone-hands-on",
+      "summary": "The new flagship foldable is impressively thin and finally creaseless, but the slimmer body means a smaller battery that struggles to last a full day.",
+      "tags": ["gadgets"],
+      "priority": false
+    },
+    {
+      "id": "4b0cc33eaf56b798",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Open-weight AI is suddenly very good — and very political",
+      "url": "https://www.theverge.com/2026/6/10/open-weight-ai-politics",
+      "summary": "As open-weight models reach frontier-level capability, the policy fight over whether and how to regulate freely distributed weights is heating up in Washington and Brussels.",
+      "tags": ["ai", "policy"],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 17,
+    "summarized": 14,
+    "skipped_promos": 2,
+    "filtered_by_rules": 1,
+    "sources": 10,
+    "email_items_omitted": 2
+  }
+}

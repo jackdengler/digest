@@ -1,0 +1,11 @@
+# Readless runtime artifacts
+state.json
+digest_*.html
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env

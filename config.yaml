@@ -1,0 +1,68 @@
+# Readless configuration
+# ----------------------
+# Everything here has a sensible default; the only things you MUST set before
+# the first real run are email.username (your Gmail address) and, ideally,
+# site_url (your GitHub Pages URL). Secrets never go in this file -- they live
+# in environment variables / GitHub Actions secrets (see README.md).
+
+lookback_hours: 26          # only items newer than this many hours are digested
+provider: gemini            # gemini (free tier) | anthropic | ollama
+model: ""                   # blank = provider default:
+                            #   gemini    -> gemini-2.5-flash
+                            #   anthropic -> claude-sonnet-4-5
+                            #   ollama    -> llama3.2
+ollama_url: http://localhost:11434   # only used when provider: ollama
+summary_style: concise      # concise (1-2 sentences) | detailed (3-5 with key facts)
+
+# Public URL of your GitHub Pages site (linked from the email digest).
+site_url: https://jackdengler.github.io/digest/
+
+# The Pages site is PUBLIC. When false (default), items that came in via email
+# are kept out of the published JSON and appear only in the emailed digest.
+publish_email_items: false
+
+topic_filters:
+  exclude: []               # e.g. ["crypto", "horoscope"] -- matching items are skipped
+  prioritize: []            # e.g. ["artificial intelligence"] -- starred + sorted first
+
+rss_feeds:
+  - https://arstechnica.com/feed/
+  - https://www.theverge.com/rss/index.xml
+  - https://techcrunch.com/feed/
+  - https://hnrss.org/frontpage?points=150
+  - https://simonwillison.net/atom/everything/
+  - https://www.technologyreview.com/feed/
+  - https://feeds.bbci.co.uk/news/world/rss.xml
+  - https://feeds.npr.org/1001/rss.xml
+  - https://rss.politico.com/politics-news.xml
+  - https://www.quantamagazine.org/feed/
+  - https://aeon.co/feed.rss
+  - https://www.themarginalian.org/feed/
+
+# Accepts "@handle", https://substack.com/@handle, or a publication URL.
+substacks:
+  - "@jackclark"
+  - "@oneusefulthing"
+  - "@garymarcus"
+  - "@astralcodexten"
+  - "@thefp"
+  - https://www.noahpinion.blog/
+  - https://www.thediff.co/
+  - https://www.slowboring.com/
+
+# Email-newsletter ingestion over IMAP. Password comes from the IMAP_PASSWORD
+# environment variable (a Gmail App Password -- see README.md). If the
+# password or username is missing this section is skipped with a warning.
+email:
+  imap_host: imap.gmail.com
+  username: ""              # your Gmail address, e.g. you@gmail.com
+  label: Newsletters        # Gmail label to read newsletters from
+  mark_as_read: false       # set true to mark digested emails as read
+
+# Outgoing email. Password comes from the SMTP_PASSWORD environment variable
+# (the same Gmail App Password works). If missing, sending is skipped.
+smtp:
+  host: smtp.gmail.com
+  port: 465                 # SSL
+  username: ""              # blank = reuse email.username
+  to: ""                    # blank = send the digest to yourself (smtp username)

@@ -1,0 +1,265 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Your Digest</title>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<style>
+  :root {
+    --ink: #1f1d1a; --faint: #8a857d; --line: #e6e1d8;
+    --accent: #9a4b1f; --bg: #faf8f4; --card: #ffffff;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--ink);
+    font-family: Charter, Georgia, 'Times New Roman', serif;
+    font-size: 17px; line-height: 1.55;
+  }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 30px 18px 80px; }
+  header {
+    display: flex; align-items: baseline; justify-content: space-between;
+    gap: 12px; flex-wrap: wrap; border-bottom: 3px double var(--line);
+    padding-bottom: 14px;
+  }
+  h1 { font-size: 30px; margin: 0; letter-spacing: -0.5px; }
+  select {
+    font: inherit; font-size: 14px; padding: 4px 10px; color: var(--ink);
+    border: 1px solid var(--line); border-radius: 6px; background: var(--card);
+  }
+  .status { color: var(--faint); font-style: italic; margin-top: 28px; }
+  #filter-bar {
+    position: sticky; top: 0; z-index: 5; background: var(--bg);
+    padding: 10px 0; border-bottom: 1px solid var(--line);
+    font-size: 14px; color: var(--faint);
+  }
+  #filter-bar button {
+    font: inherit; font-size: 13px; border: 1px solid var(--accent);
+    background: var(--card); color: var(--accent); border-radius: 999px;
+    padding: 2px 12px; margin-left: 8px; cursor: pointer;
+  }
+  .trending {
+    background: var(--card); border: 1px solid var(--line); border-radius: 10px;
+    padding: 6px 20px 16px; margin-top: 22px;
+  }
+  .trending h2 {
+    font-size: 13px; letter-spacing: 1.5px; text-transform: uppercase;
+    color: var(--accent); margin: 14px 0 4px;
+  }
+  .topic { border-left: 3px solid var(--accent); padding-left: 14px; margin: 16px 0; }
+  .topic h3 { margin: 0 0 4px; font-size: 17px; }
+  .topic p { margin: 0; font-size: 15.5px; }
+  .topic .topic-sources { color: var(--faint); font-size: 12.5px; margin-top: 5px; }
+  .source-group { margin-top: 30px; }
+  .source-name {
+    font-size: 13px; letter-spacing: 1.5px; text-transform: uppercase;
+    color: var(--accent); border-bottom: 1px solid var(--line);
+    padding-bottom: 4px; margin: 0;
+  }
+  .source-name button { all: unset; cursor: pointer; letter-spacing: inherit; }
+  .source-name button:hover { text-decoration: underline; }
+  .item { margin: 20px 0; }
+  .item-title { font-size: 19px; line-height: 1.3; margin: 0 0 4px; font-weight: bold; }
+  .item-title a { color: var(--ink); text-decoration: none; }
+  .item-title a:hover { text-decoration: underline; color: var(--accent); }
+  .star { color: var(--accent); }
+  .item-summary { margin: 0; color: #3a3833; font-size: 16px; }
+  .tags { margin: 6px 0 0; }
+  .tag {
+    font: inherit; font-size: 12.5px; border: 1px solid var(--line);
+    background: var(--card); border-radius: 999px; padding: 2px 10px;
+    margin: 0 6px 4px 0; color: var(--faint); cursor: pointer;
+  }
+  .tag:hover { border-color: var(--accent); color: var(--accent); }
+  footer {
+    margin-top: 48px; border-top: 3px double var(--line); padding-top: 12px;
+    color: var(--faint); font-size: 13.5px;
+  }
+  footer p { margin: 4px 0; }
+  @media (max-width: 480px) {
+    body { font-size: 16px; }
+    .wrap { padding: 20px 14px 60px; }
+    h1 { font-size: 24px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Your Digest</h1>
+    <select id="date-picker" aria-label="Choose a digest date"></select>
+  </header>
+  <div id="filter-bar" hidden></div>
+  <main id="content"><p class="status">Loading the latest digest…</p></main>
+  <footer id="footer"></footer>
+</div>
+<script>
+"use strict";
+
+const state = { digest: null, filter: null };
+const $ = (sel) => document.querySelector(sel);
+
+// All digest content is rendered through createElement/textContent (never
+// innerHTML), so nothing the LLM produces can inject markup into the page.
+function el(tag, attrs = {}, ...children) {
+  const node = document.createElement(tag);
+  for (const [key, value] of Object.entries(attrs)) {
+    if (key === "class") node.className = value;
+    else if (key.startsWith("on")) node.addEventListener(key.slice(2), value);
+    else node.setAttribute(key, value);
+  }
+  for (const child of children.flat()) {
+    if (child === null || child === undefined) continue;
+    node.append(child.nodeType ? child : document.createTextNode(String(child)));
+  }
+  return node;
+}
+
+function prettyDate(iso) {
+  const [y, m, d] = iso.split("-").map(Number);
+  return new Date(Date.UTC(y, m - 1, d)).toLocaleDateString("en-US",
+    { weekday: "short", month: "short", day: "numeric", year: "numeric", timeZone: "UTC" });
+}
+
+async function fetchJSON(url) {
+  const res = await fetch(url, { cache: "no-store" });
+  if (!res.ok) throw new Error(url + ": HTTP " + res.status);
+  return res.json();
+}
+
+function showStatus(text) {
+  $("#content").replaceChildren(el("p", { class: "status" }, text));
+  $("#footer").replaceChildren();
+}
+
+async function init() {
+  let dates;
+  try {
+    dates = (await fetchJSON("digests/index.json")).digests || [];
+  } catch (err) {
+    showStatus('No digests are published yet. Trigger the "Daily digest" workflow ' +
+               "from the repository's Actions tab, then refresh this page.");
+    return;
+  }
+  if (!dates.length) { showStatus("No digests are published yet."); return; }
+  const picker = $("#date-picker");
+  picker.replaceChildren(...dates.map((d) => el("option", { value: d }, prettyDate(d))));
+  picker.addEventListener("change", () => loadDigest(picker.value));
+  await loadDigest(dates[0]);
+}
+
+async function loadDigest(date) {
+  try {
+    state.digest = await fetchJSON("digests/" + date + ".json");
+    state.filter = null;
+    render();
+  } catch (err) {
+    showStatus("Could not load the digest for " + date + ".");
+  }
+}
+
+function setFilter(filter) { state.filter = filter; render(); }
+
+function matchesFilter(item) {
+  if (!state.filter) return true;
+  if (state.filter.type === "tag") return (item.tags || []).includes(state.filter.value);
+  return item.source === state.filter.value;
+}
+
+function render() {
+  const digest = state.digest;
+  const content = $("#content");
+  content.replaceChildren();
+  renderFilterBar();
+  if (!digest) return;
+
+  const items = digest.items || [];
+  const byId = new Map(items.map((i) => [i.id, i]));
+
+  if (!state.filter && (digest.hot_topics || []).length) {
+    content.append(el("section", { class: "trending" },
+      el("h2", {}, "Trending"),
+      digest.hot_topics.map((topic) => {
+        const sources = [...new Set((topic.item_ids || [])
+          .map((id) => (byId.get(id) || {}).source).filter(Boolean))];
+        return el("article", { class: "topic" },
+          el("h3", {}, topic.topic),
+          el("p", {}, topic.synthesis),
+          sources.length ? el("p", { class: "topic-sources" }, sources.join(" · ")) : null);
+      })));
+  }
+
+  const visible = items.filter(matchesFilter);
+  const groups = new Map();
+  for (const item of visible) {
+    if (!groups.has(item.source)) groups.set(item.source, []);
+    groups.get(item.source).push(item);
+  }
+  const ordered = [...groups.entries()].sort((a, b) => {
+    const ap = a[1].some((i) => i.priority), bp = b[1].some((i) => i.priority);
+    if (ap !== bp) return ap ? -1 : 1;
+    return a[0].localeCompare(b[0]);
+  });
+
+  if (!ordered.length) {
+    content.append(el("p", { class: "status" },
+      state.filter ? "Nothing matches this filter." : "No items in this digest."));
+  }
+  for (const [source, group] of ordered) {
+    content.append(el("section", { class: "source-group" },
+      el("h2", { class: "source-name" },
+        el("button", { title: "Show only this source",
+                       onclick: () => setFilter({ type: "source", value: source }) }, source)),
+      group.map(renderItem)));
+  }
+  renderFooter();
+}
+
+function renderItem(item) {
+  const title = item.url
+    ? el("a", { href: item.url, target: "_blank", rel: "noopener" }, item.title)
+    : el("span", {}, item.title);
+  return el("article", { class: "item" },
+    el("h3", { class: "item-title" },
+      item.priority ? el("span", { class: "star", title: "Priority topic" }, "★ ") : null,
+      title),
+    el("p", { class: "item-summary" }, item.summary),
+    (item.tags || []).length
+      ? el("p", { class: "tags" }, item.tags.map((tag) =>
+          el("button", { class: "tag", onclick: () => setFilter({ type: "tag", value: tag }) }, tag)))
+      : null);
+}
+
+function renderFilterBar() {
+  const bar = $("#filter-bar");
+  if (!state.filter) { bar.hidden = true; bar.replaceChildren(); return; }
+  bar.hidden = false;
+  const label = state.filter.type === "tag"
+    ? "Showing items tagged “" + state.filter.value + "”"
+    : "Showing items from " + state.filter.value;
+  bar.replaceChildren(label, el("button", { onclick: () => setFilter(null) }, "Clear ×"));
+}
+
+function renderFooter() {
+  const counts = (state.digest && state.digest.counts) || {};
+  const bits = [];
+  if (counts.new_items != null) bits.push(counts.new_items + " new items");
+  if (counts.summarized != null) bits.push(counts.summarized + " summarized");
+  if (counts.skipped_promos != null) bits.push(counts.skipped_promos + " skipped as promos");
+  if (counts.filtered_by_rules != null) bits.push(counts.filtered_by_rules + " filtered by your rules");
+  const lines = [el("p", {}, bits.join(" · "))];
+  if (counts.email_items_omitted) {
+    lines.push(el("p", {}, counts.email_items_omitted +
+      " email-newsletter item(s) appear only in the emailed digest."));
+  }
+  if (state.digest && state.digest.generated_at) {
+    lines.push(el("p", {}, "Generated " + state.digest.generated_at + " · Readless"));
+  }
+  $("#footer").replaceChildren(...lines);
+}
+
+init();
+</script>
+</body>
+</html>

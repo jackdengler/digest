@@ -1,0 +1,10 @@
+# Core
+feedparser>=6.0.11
+beautifulsoup4>=4.12
+PyYAML>=6.0
+
+# LLM providers -- only the one selected as "provider" in config.yaml is used
+# at runtime (imports are lazy), but both install cleanly so the workflow can
+# switch providers without edits. Ollama needs no package (plain HTTP).
+google-genai>=1.0
+anthropic>=0.45

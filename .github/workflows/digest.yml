@@ -1,0 +1,92 @@
+name: Daily digest
+
+on:
+  schedule:
+    - cron: "0 14 * * *" # every day at 14:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write # commit the updated site/ files
+  pages: write # deploy to GitHub Pages
+  id-token: write # OIDC token used by deploy-pages
+
+concurrency:
+  group: daily-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # state.json (the seen-item hashes) is persisted between runs via the
+      # Actions cache. Saving always uses a fresh key (cache entries are
+      # immutable); restoring falls back to the most recent one by prefix.
+      - name: Restore dedupe state
+        uses: actions/cache/restore@v4
+        with:
+          path: state.json
+          key: digest-state-${{ github.run_id }}
+          restore-keys: |
+            digest-state-
+
+      - name: Build and send the digest
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          IMAP_PASSWORD: ${{ secrets.IMAP_PASSWORD }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+        run: python readless.py
+
+      - name: Make sure the state file exists for the cache step
+        if: always()
+        run: |
+          test -f state.json || echo '{"seen": []}' > state.json
+
+      - name: Save dedupe state
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: state.json
+          key: digest-state-${{ github.run_id }}
+
+      - name: Commit updated site files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/
+          if git diff --cached --quiet; then
+            echo "No site changes to commit."
+          else
+            git commit -m "digest: publish $(date -u +%Y-%m-%d)"
+            git push origin "HEAD:${GITHUB_REF_NAME}" ||
+              (git pull --rebase origin "${GITHUB_REF_NAME}" &&
+               git push origin "HEAD:${GITHUB_REF_NAME}")
+          fi
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
