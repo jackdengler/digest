@@ -14,6 +14,11 @@ concurrency:
   group: daily-digest
   cancel-in-progress: false
 
+env:
+  # Run JS-based actions on Node 24 ahead of GitHub's June 16, 2026 default
+  # switch; silences the Node 20 deprecation warnings.
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
 jobs:
   digest:
     runs-on: ubuntu-latest
