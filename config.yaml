@@ -13,9 +13,23 @@ publish_email_items: false
 
 topic_filters:
   exclude:
-    - "politics"
+    - "Climate"
+    - "Crypto"
+    - "Culture"
+    - "Entertainment"
+    - "Gaming"
+    - "Health"
+    - "Politics"
+    - "Science"
+    - "Security"
+    - "Space"
+    - "Sports"
+    - "World news"
   prioritize:
-    - "AI, Technology"
+    - "AI"
+    - "Economy"
+    - "Finance"
+    - "Startups"
 
 rss_feeds:
   - "https://arstechnica.com/feed/"
@@ -40,6 +54,10 @@ substacks:
   - "https://www.noahpinion.blog/"
   - "https://www.thediff.co/"
   - "https://www.slowboring.com/"
+
+# Sources unchecked on the settings page -- kept here so they can be re-enabled.
+disabled_rss_feeds: []
+disabled_substacks: []
 
 email:
   imap_host: "imap.gmail.com"
