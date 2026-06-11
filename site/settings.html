@@ -56,6 +56,33 @@
   button.secondary { background: var(--card); color: var(--accent); }
   button:hover { filter: brightness(1.08); }
   .actions { display: flex; gap: 10px; margin-top: 26px; flex-wrap: wrap; }
+  .chips { list-style: none; display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0 0; padding: 0; }
+  .chips:empty { display: none; }
+  .chips li {
+    display: flex; align-items: center; gap: 4px; font-size: 14px;
+    background: var(--bg); border: 1px solid var(--line); border-radius: 999px;
+    padding: 2px 4px 2px 12px;
+  }
+  .chips button:hover { color: var(--accent); filter: none; }
+  .checklist { list-style: none; margin: 6px 0 0; padding: 0; }
+  .checklist li { display: flex; align-items: center; gap: 8px; padding: 2px 0; font-size: 14.5px; }
+  .checklist li span { flex: 1; word-break: break-all; }
+  .checklist li.off span { color: var(--faint); }
+  .checklist .remove, .chips button {
+    background: none; border: none; color: var(--faint); padding: 0 6px;
+    font-size: 16px; line-height: 1; border-radius: 999px;
+  }
+  .checklist .remove:hover { color: var(--accent); filter: none; }
+  .topic-grid {
+    display: grid; grid-template-columns: 1fr auto auto; align-items: center;
+    margin-top: 10px; font-size: 15px; row-gap: 3px;
+  }
+  .topic-grid .topic-head {
+    font-size: 12px; letter-spacing: 1px; text-transform: uppercase;
+    color: var(--faint); text-align: center; padding: 0 14px 4px;
+  }
+  .topic-grid .topic-head:first-child { text-align: left; padding-left: 0; }
+  .topic-grid .topic-check { text-align: center; padding: 0 14px; }
   .hint { font-size: 13.5px; color: var(--faint); margin: 6px 0 0; }
   .hint code { font-family: ui-monospace, Menlo, Consolas, monospace; font-size: 12.5px; }
   details { font-size: 14px; color: var(--faint); margin: 10px 0 0; }
@@ -105,8 +132,13 @@
       <h2>Email</h2>
       <label for="gmail-user">Gmail account (reads your newsletter label and sends the digest)</label>
       <input type="text" id="gmail-user" placeholder="you@gmail.com" autocomplete="off">
-      <label for="send-to">Send the digest to (comma-separate for multiple recipients)</label>
-      <input type="text" id="send-to" placeholder="blank = send to the Gmail account above">
+      <label for="send-to">Send the digest to</label>
+      <div class="row">
+        <input type="text" id="send-to" placeholder="someone@example.com">
+        <button id="add-recipient" type="button" class="secondary">Add recipient</button>
+      </div>
+      <ul id="recipient-list" class="chips"></ul>
+      <p class="hint">No recipients = the digest is sent to the Gmail account above.</p>
       <div class="grid">
         <div>
           <label for="label">Gmail label to read newsletters from</label>
@@ -122,22 +154,39 @@
 
     <section class="panel">
       <h2>Sources</h2>
-      <label for="rss">RSS feeds — one URL per line</label>
-      <textarea id="rss" spellcheck="false"></textarea>
-      <label for="substacks">Substacks — one per line: @handle, substack.com/@handle, or a publication URL</label>
-      <textarea id="substacks" spellcheck="false"></textarea>
+      <p class="hint">Uncheck a source to leave it out of the digest without losing it;
+        × removes it for good.</p>
+      <label for="rss-add">RSS feeds</label>
+      <ul id="rss-list" class="checklist"></ul>
+      <div class="row">
+        <input type="text" id="rss-add" placeholder="https://example.com/feed.xml" spellcheck="false">
+        <button id="rss-add-btn" type="button" class="secondary">Add feed</button>
+      </div>
+      <label for="substack-add">Substacks — @handle, substack.com/@handle, or a publication URL</label>
+      <ul id="substack-list" class="checklist"></ul>
+      <div class="row">
+        <input type="text" id="substack-add" placeholder="@handle or URL" spellcheck="false">
+        <button id="substack-add-btn" type="button" class="secondary">Add Substack</button>
+      </div>
     </section>
 
     <section class="panel">
       <h2>Topic filters</h2>
+      <p class="hint">Check <strong>★ Prioritize</strong> to give a topic a star and sort it
+        first, or <strong>Exclude</strong> to drop its items before summarizing.</p>
+      <div class="topic-grid" id="topic-grid">
+        <span class="topic-head"></span>
+        <span class="topic-head">★ Prioritize</span>
+        <span class="topic-head">Exclude</span>
+      </div>
       <div class="grid">
         <div>
-          <label for="exclude">Exclude — items mentioning these are dropped</label>
-          <textarea id="exclude" class="short" placeholder="one keyword per line" spellcheck="false"></textarea>
+          <label for="prioritize">More prioritized keywords — one per line</label>
+          <textarea id="prioritize" class="short" spellcheck="false"></textarea>
         </div>
         <div>
-          <label for="prioritize">Prioritize — items get a ★ and sort first</label>
-          <textarea id="prioritize" class="short" placeholder="one keyword per line" spellcheck="false"></textarea>
+          <label for="exclude">More excluded keywords — one per line</label>
+          <textarea id="exclude" class="short" spellcheck="false"></textarea>
         </div>
       </div>
     </section>
@@ -231,19 +280,25 @@ const DEFAULTS = {
     "https://www.astralcodexten.com/", "https://www.thefp.com/",
     "https://www.noahpinion.blog/", "https://www.thediff.co/", "https://www.slowboring.com/",
   ],
+  disabled_rss_feeds: [],
+  disabled_substacks: [],
   email: { imap_host: "imap.gmail.com", username: "", label: "Newsletters", mark_as_read: false },
   smtp: { host: "smtp.gmail.com", port: 465, username: "", to: "" },
 };
 
+// The standard topic categories shown as checkboxes; anything else goes in the
+// free-text keyword boxes. Category names double as filter keywords.
+const TOPIC_CATEGORIES = [
+  "AI", "Business", "Climate", "Crypto", "Culture", "Economy", "Entertainment",
+  "Finance", "Gaming", "Health", "Politics", "Science", "Security", "Space",
+  "Sports", "Startups", "World news",
+];
+
 const FIELDS = [
   { id: "gmail-user",    path: ["email", "username"],           kind: "text" },
-  { id: "send-to",       path: ["smtp", "to"],                  kind: "text" },
+  { id: "send-to",       path: ["smtp", "to"],                  kind: "emails" },
   { id: "label",         path: ["email", "label"],              kind: "text" },
   { id: "mark-read",     path: ["email", "mark_as_read"],       kind: "bool" },
-  { id: "rss",           path: ["rss_feeds"],                   kind: "lines" },
-  { id: "substacks",     path: ["substacks"],                   kind: "lines" },
-  { id: "exclude",       path: ["topic_filters", "exclude"],    kind: "lines" },
-  { id: "prioritize",    path: ["topic_filters", "prioritize"], kind: "lines" },
   { id: "lookback",      path: ["lookback_hours"],              kind: "int" },
   { id: "style",         path: ["summary_style"],               kind: "text" },
   { id: "provider",      path: ["provider"],                    kind: "text" },
@@ -362,6 +417,10 @@ function generateYaml(cfg) {
     "",
     ...list("substacks", cfg.substacks, 0),
     "",
+    "# Sources unchecked on the settings page -- kept here so they can be re-enabled.",
+    ...list("disabled_rss_feeds", cfg.disabled_rss_feeds, 0),
+    ...list("disabled_substacks", cfg.disabled_substacks, 0),
+    "",
     "email:",
     "  imap_host: " + q(email.imap_host || "imap.gmail.com"),
     "  username: " + q(email.username),
@@ -405,14 +464,194 @@ function setPath(obj, path, value) {
   node[path[path.length - 1]] = value;
 }
 
+// ---------- email recipients (stored as a comma-separated string in smtp.to) ----------
+
+let recipients = [];
+
+function renderRecipients() {
+  const list = document.getElementById("recipient-list");
+  list.textContent = "";
+  recipients.forEach((addr, i) => {
+    const item = document.createElement("li");
+    item.appendChild(document.createTextNode(addr));
+    const remove = document.createElement("button");
+    remove.type = "button";
+    remove.textContent = "×";
+    remove.setAttribute("aria-label", "Remove " + addr);
+    remove.addEventListener("click", () => {
+      recipients.splice(i, 1);
+      renderRecipients();
+    });
+    item.appendChild(remove);
+    list.appendChild(item);
+  });
+}
+
+function splitEmails(text) {
+  return String(text || "").split(/[,;\s]+/).map((s) => s.trim()).filter(Boolean);
+}
+
+function addRecipients(text) {
+  const entries = splitEmails(text);
+  if (!entries.length) return false;
+  const invalid = entries.filter((e) => !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(e));
+  if (invalid.length) {
+    setStatus("That doesn't look like an email address: " + invalid.join(", "), "warn");
+    return false;
+  }
+  for (const e of entries) if (!recipients.includes(e)) recipients.push(e);
+  renderRecipients();
+  return true;
+}
+
+function addRecipientFromInput() {
+  const input = document.getElementById("send-to");
+  if (addRecipients(input.value)) {
+    input.value = "";
+    setStatus("Recipient added — remember to save settings.", "ok");
+  }
+}
+
+// ---------- topic categories (checkboxes over topic_filters.prioritize/exclude) ----------
+
+function topicBox(topic, role) {
+  return document.querySelector(
+    '#topic-grid input[data-topic="' + topic + '"][data-role="' + role + '"]');
+}
+
+function buildTopicGrid() {
+  const grid = document.getElementById("topic-grid");
+  for (const topic of TOPIC_CATEGORIES) {
+    const name = document.createElement("span");
+    name.textContent = topic;
+    grid.appendChild(name);
+    for (const role of ["pri", "exc"]) {
+      const cell = document.createElement("span");
+      cell.className = "topic-check";
+      const box = document.createElement("input");
+      box.type = "checkbox";
+      box.dataset.topic = topic;
+      box.dataset.role = role;
+      box.setAttribute("aria-label", (role === "pri" ? "Prioritize " : "Exclude ") + topic);
+      box.addEventListener("change", () => {
+        if (box.checked) topicBox(topic, role === "pri" ? "exc" : "pri").checked = false;
+      });
+      cell.appendChild(box);
+      grid.appendChild(cell);
+    }
+  }
+}
+
+function populateTopics(cfg) {
+  document.querySelectorAll("#topic-grid input").forEach((b) => { b.checked = false; });
+  const filters = cfg.topic_filters || {};
+  const distribute = (keywords, role, textareaId) => {
+    const rest = [];
+    for (const kw of (Array.isArray(keywords) ? keywords : [])) {
+      const match = TOPIC_CATEGORIES.find((t) => t.toLowerCase() === String(kw).toLowerCase());
+      if (match) topicBox(match, role).checked = true;
+      else rest.push(String(kw));
+    }
+    document.getElementById(textareaId).value = rest.join("\n");
+  };
+  distribute(filters.prioritize, "pri", "prioritize");
+  distribute(filters.exclude, "exc", "exclude");
+}
+
+function collectTopics(cfg) {
+  const gather = (role, textareaId) => {
+    const out = TOPIC_CATEGORIES.filter((t) => topicBox(t, role).checked);
+    for (const line of document.getElementById(textareaId).value.split("\n")) {
+      const kw = line.trim();
+      if (kw && !out.some((x) => x.toLowerCase() === kw.toLowerCase())) out.push(kw);
+    }
+    return out;
+  };
+  if (typeof cfg.topic_filters !== "object" || cfg.topic_filters === null) cfg.topic_filters = {};
+  cfg.topic_filters.prioritize = gather("pri", "prioritize");
+  cfg.topic_filters.exclude = gather("exc", "exclude");
+}
+
+// ---------- source checklists (rss_feeds / substacks + their disabled_* lists) ----------
+
+function makeSourceList(opts) {
+  let entries = []; // { value, enabled }
+  function render() {
+    const list = document.getElementById(opts.listId);
+    list.textContent = "";
+    entries.forEach((entry, i) => {
+      const item = document.createElement("li");
+      if (!entry.enabled) item.className = "off";
+      const box = document.createElement("input");
+      box.type = "checkbox";
+      box.checked = entry.enabled;
+      box.setAttribute("aria-label", "Include " + entry.value);
+      box.addEventListener("change", () => { entry.enabled = box.checked; render(); });
+      const text = document.createElement("span");
+      text.textContent = entry.value;
+      const remove = document.createElement("button");
+      remove.type = "button";
+      remove.className = "remove";
+      remove.textContent = "×";
+      remove.setAttribute("aria-label", "Remove " + entry.value);
+      remove.addEventListener("click", () => { entries.splice(i, 1); render(); });
+      item.append(box, text, remove);
+      list.appendChild(item);
+    });
+  }
+  function add() {
+    const input = document.getElementById(opts.inputId);
+    const value = input.value.trim();
+    if (!value) return;
+    if (!entries.some((e) => e.value === value)) entries.push({ value, enabled: true });
+    input.value = "";
+    render();
+    setStatus(opts.label + " added — remember to save settings.", "ok");
+  }
+  return {
+    set(active, disabled) {
+      entries = (Array.isArray(active) ? active : []).map((v) => ({ value: String(v), enabled: true }));
+      for (const v of (Array.isArray(disabled) ? disabled : [])) {
+        if (!entries.some((e) => e.value === String(v))) entries.push({ value: String(v), enabled: false });
+      }
+      render();
+    },
+    get() {
+      return {
+        active: entries.filter((e) => e.enabled).map((e) => e.value),
+        disabled: entries.filter((e) => !e.enabled).map((e) => e.value),
+      };
+    },
+    wire() {
+      document.getElementById(opts.buttonId).addEventListener("click", add);
+      document.getElementById(opts.inputId).addEventListener("keydown", (e) => {
+        if (e.key === "Enter") { e.preventDefault(); add(); }
+      });
+    },
+  };
+}
+
+const rssList = makeSourceList({
+  listId: "rss-list", inputId: "rss-add", buttonId: "rss-add-btn", label: "Feed" });
+const substackList = makeSourceList({
+  listId: "substack-list", inputId: "substack-add", buttonId: "substack-add-btn", label: "Substack" });
+
 function populate(cfg) {
   for (const f of FIELDS) {
     const node = document.getElementById(f.id);
     const value = getPath(cfg, f.path);
     if (f.kind === "bool") node.checked = !!value;
     else if (f.kind === "lines") node.value = (Array.isArray(value) ? value : []).join("\n");
+    else if (f.kind === "emails") {
+      recipients = splitEmails(value);
+      renderRecipients();
+      node.value = "";
+    }
     else node.value = value == null ? "" : String(value);
   }
+  populateTopics(cfg);
+  rssList.set(cfg.rss_feeds, cfg.disabled_rss_feeds);
+  substackList.set(cfg.substacks, cfg.disabled_substacks);
 }
 
 function collect(base) {
@@ -422,12 +661,23 @@ function collect(base) {
     let value;
     if (f.kind === "bool") value = node.checked;
     else if (f.kind === "lines") value = node.value.split("\n").map((s) => s.trim()).filter(Boolean);
+    else if (f.kind === "emails") {
+      // include anything typed but not yet added via the button
+      const pending = splitEmails(node.value).filter((e) => !recipients.includes(e));
+      value = recipients.concat(pending).join(", ");
+    }
     else if (f.kind === "int") {
       value = parseInt(node.value, 10);
       if (!Number.isFinite(value) || value < 1) value = 26;
     } else value = node.value.trim();
     setPath(cfg, f.path, value);
   }
+  collectTopics(cfg);
+  const rss = rssList.get(), subs = substackList.get();
+  cfg.rss_feeds = rss.active;
+  cfg.disabled_rss_feeds = rss.disabled;
+  cfg.substacks = subs.active;
+  cfg.disabled_substacks = subs.disabled;
   return cfg;
 }
 
@@ -654,6 +904,13 @@ function boot() {
   });
   document.getElementById("save").addEventListener("click", save);
   document.getElementById("run-now").addEventListener("click", runNow);
+  document.getElementById("add-recipient").addEventListener("click", addRecipientFromInput);
+  document.getElementById("send-to").addEventListener("keydown", (e) => {
+    if (e.key === "Enter") { e.preventDefault(); addRecipientFromInput(); }
+  });
+  buildTopicGrid();
+  rssList.wire();
+  substackList.wire();
   document.getElementById("run-time").addEventListener("input", updateUtcHint);
   init();
 }
