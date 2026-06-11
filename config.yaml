@@ -12,8 +12,10 @@ site_url: "https://jackdengler.github.io/digest/"
 publish_email_items: false
 
 topic_filters:
-  exclude: []
-  prioritize: []
+  exclude:
+    - "politics"
+  prioritize:
+    - "AI, Technology"
 
 rss_feeds:
   - "https://arstechnica.com/feed/"
