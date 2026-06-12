@@ -1,0 +1,785 @@
+{
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T16:41:40+00:00",
+  "hot_topics": [
+    {
+      "topic": "US Surveillance Law Section 702 Faces Expiration",
+      "synthesis": "The critical US surveillance law known as Section 702, which permits warrantless intelligence collection by the NSA and FBI, is set to expire this Friday. This unprecedented lapse impacts over 60% of the president's daily intelligence briefings. Congress has been unable to agree on its renewal, creating uncertainty for national security operations.",
+      "item_ids": [
+        "e3e758d0a2852e76",
+        "96293ead97316e4d"
+      ]
+    },
+    {
+      "topic": "Shifting Dynamics in US-Iran Relations",
+      "synthesis": "Amid reports of over 50 Iranian military bases damaged by US strikes, President Trump announced a halt to further attacks and suggested a peace deal to end the conflict was imminent. However, Tehran denies any deal has been finalized, describing reports as speculative. This situation raises questions about the consistency of the Trump administration's strategy and the future of US-Iran relations.",
+      "item_ids": [
+        "52be5db91a83d133",
+        "b595cd0099d64001",
+        "94ac403556d1a0c4",
+        "c3daffffb23742fc"
+      ]
+    },
+    {
+      "topic": "The 2026 World Cup: Economics, Rules, and Fan Stories",
+      "synthesis": "The 2026 World Cup is described as unprecedented due to economic factors like trade wars and soaring ticket prices. On the field, FIFA has introduced new rules for referees to combat time-wasting and ensure fair play. Meanwhile, fan stories like a 93-year-old Scot cheering her national team highlight the human element of the tournament, as the US men's team also begins its campaign.",
+      "item_ids": [
+        "af19c20b1d611031",
+        "f7a880921da05828",
+        "c3daffffb23742fc",
+        "52e9a3c21b1432fe",
+        "1938d676c51f7e66",
+        "20fead7d0488c074"
+      ]
+    },
+    {
+      "topic": "Diverse Developments and Challenges in AI and Robotics",
+      "synthesis": "The field of AI is seeing rapid advancements, including the development of efficient open-source coding models like Kimi K2.7-Code and proactive AI systems such as Claude Fable. Investment in the sector is substantial, with Jeff Bezos-backed Prometheus raising $12 billion for an 'artificial general engineer.' However, this progress is met with challenges like Google's lawsuit against a cybercrime network using Gemini for scams, and ethical concerns over data collection from human activities to train robots for everyday tasks.",
+      "item_ids": [
+        "223fef4a028334a6",
+        "526e121e901f32a4",
+        "0a6e32ddf9393213",
+        "7e0f3eb891e192f0",
+        "83211ac7c8aa0f96"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "fe9fcb30dd66b46e",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "A philosophy of home",
+      "url": "https://aeon.co/essays/what-ancient-philosophy-really-thought-about-domestic-life",
+      "summary": "This essay explores the philosophical concept of \"home,\" arguing that ancient philosophy had more to say about domestic life than typically assumed. It suggests the household is a community as significant as the state.",
+      "tags": [
+        "philosophy",
+        "home",
+        "community"
+      ],
+      "priority": false
+    },
+    {
+      "id": "223fef4a028334a6",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
+      "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
+      "summary": "Google has filed a lawsuit against Outsider Enterprise, a Chinese cybercrime group, for allegedly using its Gemini AI to automate widespread phishing scams. The group reportedly offered nearly 300 scam templates via Telegram, resulting in over 2.5 million text messages sent to Android users.",
+      "tags": [
+        "google",
+        "cybercrime",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cf6bc4a6c2b5a532",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Ted Cruz and Ron Wyden try to fight censorship with bipartisan JAWBONE Act",
+      "url": "https://arstechnica.com/tech-policy/2026/06/ted-cruz-and-ron-wyden-try-to-fight-censorship-with-bipartisan-jawbone-act/",
+      "summary": "Senators Ted Cruz and Ron Wyden introduced the JAWBONE Act, a bipartisan bill aiming to prevent federal officials from coercing broadcasters or tech platforms to restrict speech. The proposed law would allow individuals to sue government officials for compensatory damages if their speech is stifled.",
+      "tags": [
+        "policy",
+        "censorship",
+        "free speech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e63240b9f2c63a46",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Verizon sent man a refurbished phone with MDM, then deleted his data remotely",
+      "url": "https://arstechnica.com/tech-policy/2026/06/verizon-sent-man-a-refurbished-phone-with-mdm-then-deleted-his-data-remotely/",
+      "summary": "Verizon mistakenly sent a customer a refurbished Samsung Galaxy Z Flip7 equipped with Mobile Device Management (MDM) software, which allowed the company to remotely control and eventually erase the customer's data. This incident raises concerns about Verizon's refurbishment process, as the device was reportedly a store demo unit not properly wiped.",
+      "tags": [
+        "verizon",
+        "privacy",
+        "refurbished"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ef7248ad368a72a1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'I will come home safely': Indian sailor's last words to wife before a US strike killed him",
+      "url": "https://www.bbc.com/news/articles/cx24vlj2nvyo?at_medium=RSS&at_campaign=rss",
+      "summary": "An Indian sailor, Patnala Suresh, was killed in a US strike, having told his wife he would return safely before his death. The couple had been looking forward to celebrating their 15th wedding anniversary.",
+      "tags": [
+        "india",
+        "us",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d661acb8bb800ddc",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem",
+      "url": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Palestinian residents express anger over a surge in Israeli demolitions of homes in occupied East Jerusalem, which are being carried out to make way for a park. This action is perceived as destroying their future.",
+      "tags": [
+        "israel",
+        "palestine",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "397d41b1d9dbcf92",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "David Hockney: Art's great innovator whose vivid paintings made him a household name",
+      "url": "https://www.bbc.com/news/articles/ck77rg88gd9o?at_medium=RSS&at_campaign=rss",
+      "summary": "David Hockney, described as Britain's greatest artist, was a proud Yorkshireman and an innovator whose vivid paintings brought him international recognition. He created iconic works depicting both British and American scenes.",
+      "tags": [
+        "art",
+        "obituary",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "865e0fc592f07879",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Discovery of €1.2m jewellery prompts fresh probe into former Spanish PM",
+      "url": "https://www.bbc.com/news/articles/cjeg9p1xqdwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The discovery of €1.2 million in jewelry has led to a fresh investigation into former Spanish Prime Minister José Luis Rodriguez Zapatero. He is suspected of failing to provide proof of payment for import duties on the items.",
+      "tags": [
+        "spain",
+        "politics",
+        "corruption"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b1d2898d29ecd10a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Do not use my music, Ariana Grande tells White House",
+      "url": "https://www.bbc.com/news/articles/c9328k7j2n4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ariana Grande has publicly demanded that the White House cease using her music, specifically calling a video featuring her song \"Bye\" \"heinous nonsense.\" She joins several artists who have asked the Trump team not to use their songs.",
+      "tags": [
+        "music",
+        "politics",
+        "copyright"
+      ],
+      "priority": false
+    },
+    {
+      "id": "94ac403556d1a0c4",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Flip flop or deliberate? - Unpacking Trump’s strategy on Iran",
+      "url": "https://www.bbc.com/news/videos/cz9lg5ywzvpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Gary O'Donoghue analyzes President Trump's mixed messaging and strategy regarding the Iran war, raising questions about whether his actions are inconsistent or deliberate. This unpacks the complexities of the administration's approach.",
+      "tags": [
+        "us",
+        "iran",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c7997e321923dccc",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Indonesian students protest against state spending, fuel price hike",
+      "url": "https://www.bbc.com/news/articles/cqx18d47pzjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Indonesian students are protesting against excessive state spending and a recent fuel price hike, warning that wasteful government spending risks national bankruptcy. The demonstrations reflect growing public discontent.",
+      "tags": [
+        "indonesia",
+        "protest",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b595cd0099d64001",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "More than 50 Iranian military bases damaged in US strikes since start of war, satellite images show",
+      "url": "https://www.bbc.com/news/articles/cd6p6z7pq9wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Satellite images reveal that over 50 Iranian military bases have been damaged by US strikes since the conflict began, with experts identifying damage to jets and warships. This indicates significant military engagement and impact.",
+      "tags": [
+        "iran",
+        "us",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "443b69c914b9d62c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "More time needed for deadly Air India crash inquiry, officials say",
+      "url": "https://www.bbc.com/news/articles/cnv93899vzqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials state that more time is required for the inquiry into the deadly Air India crash that killed 260 people a year ago, despite significant progress. The ongoing investigation seeks to determine the cause of the disaster.",
+      "tags": [
+        "aviation",
+        "investigation",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "af19c20b1d611031",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "South Africa trolled by African fans in wake of World Cup loss",
+      "url": "https://www.bbc.com/news/articles/cm2jewrxvmjo?at_medium=RSS&at_campaign=rss",
+      "summary": "South Africa faced online trolling from other African fans following its World Cup loss, reflecting anger over reported xenophobia in the country. The reactions highlight underlying tensions.",
+      "tags": [
+        "sports",
+        "world cup",
+        "south africa"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5d6806a153a8d0bf",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Taylor Swift makes tearful 21-minute speech as she joins Songwriters Hall of Fame",
+      "url": "https://www.bbc.com/news/articles/c5yzxd0g833o?at_medium=RSS&at_campaign=rss",
+      "summary": "Taylor Swift was inducted into the Songwriters Hall of Fame, becoming the youngest woman to receive the honor. She delivered a tearful 21-minute speech, expressing gratitude to her family.",
+      "tags": [
+        "music",
+        "awards",
+        "celebrity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "52be5db91a83d133",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near",
+      "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tehran has stated that \"nothing\" has been finalized regarding a deal to end the Iran war, despite President Trump's claims of a \"great settlement\" being near. Iran described such reports as \"speculative.\"",
+      "tags": [
+        "iran",
+        "us",
+        "diplomacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "65ad0ce52d4798e8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Thai Princess Bajrakitiyabha dies after more than three years in coma",
+      "url": "https://www.bbc.com/news/articles/cvgzzndx780o?at_medium=RSS&at_campaign=rss",
+      "summary": "Thai Princess Bajrakitiyabha, the king's eldest daughter, has died after spending over three years in a coma. She had collapsed in December 2022 while exercising her dogs.",
+      "tags": [
+        "thailand",
+        "royalty",
+        "obituary"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e740b332fa9c4eca",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Tributes paid to David Hockney, a 'giant' and 'true icon' of British art",
+      "url": "https://www.bbc.com/news/articles/cvgjxdr27z4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tributes are being paid to David Hockney, one of Britain's most important and influential artists, who has died at 88. He was widely regarded as a giant and true icon of British art.",
+      "tags": [
+        "art",
+        "obituary",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a2006d2c35d98914",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US Supreme Court denies Alabama's request to carry out nitrogen gas execution",
+      "url": "https://www.bbc.com/news/articles/cn4dx72lwn7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Supreme Court denied Alabama's request to execute Jeffery Lee, 49, using nitrogen gas. While the execution was scheduled for Thursday, the state may still seek to use another method.",
+      "tags": [
+        "legal",
+        "supreme court",
+        "capital punishment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2038e2bfdf04ca75",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Four UFO videos newly declassified by US government",
+      "url": "https://www.bbc.com/news/videos/c8e2w83kxryo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US government has declassified four UFO videos, showing eyewitness footage of bright orbs in the sky over an undisclosed location in the northeastern US. This release provides new material for public scrutiny.",
+      "tags": [
+        "ufo",
+        "government",
+        "declassified"
+      ],
+      "priority": false
+    },
+    {
+      "id": "61546aed3ac185d6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What do Puerto Ricans think of the viral song about their homeland?",
+      "url": "https://www.bbc.com/news/articles/cwy0v85ldyjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Puerto Ricans are reflecting on a viral song about their homeland and its impact on drawing attention to the island. The catchy tune has sparked discussions about how their home is portrayed.",
+      "tags": [
+        "puerto rico",
+        "culture",
+        "music"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f7a880921da05828",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why the economics make this the craziest World Cup ever",
+      "url": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Faisal Islam examines the economic factors, such as trade wars and soaring ticket prices, that make the 2026 World Cup an unprecedented tournament. This event provides insights into the evolving global economy.",
+      "tags": [
+        "world cup",
+        "economy",
+        "sports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9735c07eab74c488",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "A Call to Action: Stop the FCC's KYC Regime",
+      "url": "https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/",
+      "summary": "This article calls for action against the FCC's proposed Know Your Customer (KYC) regime. It discusses the potential implications of the regime for users and privacy.",
+      "tags": [
+        "privacy",
+        "policy",
+        "fcc"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1b60d1837ffb83aa",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "AI agent bankrupted their operator while trying to scan DN42",
+      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "summary": "An AI agent reportedly bankrupted its operator while attempting to scan DN42, an experimental decentralized network. This incident highlights the potential for unintended financial consequences and risks associated with autonomous AI operations.",
+      "tags": [
+        "ai",
+        "finance",
+        "security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0e5b7256a8239572",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "AUR Packages Compromised with Infostealer and Rootkit",
+      "url": "https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577",
+      "summary": "A significant number of Arch User Repository (AUR) packages have been compromised with infostealer and rootkit malware. This security incident affects users who rely on these community-maintained software packages.",
+      "tags": [
+        "cybersecurity",
+        "malware",
+        "linux"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7e0f3eb891e192f0",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Claude Fable is relentlessly proactive",
+      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+      "summary": "The article describes Claude Fable as a relentlessly proactive AI system, emphasizing its advanced capabilities in anticipating needs and taking initiative. This demonstrates an evolving frontier in AI agent behavior.",
+      "tags": [
+        "ai",
+        "generative ai",
+        "claude"
+      ],
+      "priority": false
+    },
+    {
+      "id": "502c5367b498f377",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "If you are asking for human attention, demonstrate human effort",
+      "url": "https://tombedor.dev/human-attention-and-human-effort/",
+      "summary": "The article argues that to capture human attention, one must demonstrate genuine human effort in their work or communication. It suggests that authenticity and visible investment are key to engaging an audience.",
+      "tags": [
+        "communication",
+        "effort",
+        "attention"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0a6e32ddf9393213",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+      "summary": "Kimi K2.7-Code is an open-source coding model that offers improved token efficiency compared to existing solutions. This development is significant for the open-source AI community, providing a new tool for developers.",
+      "tags": [
+        "ai",
+        "open-source",
+        "coding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "37cc5e0e08452aef",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+      "summary": "This 2001 article discusses the challenge that people rarely receive recognition for preventing problems, focusing on the lack of credit for proactive problem-solving. It delves into organizational dynamics and the perception of success.",
+      "tags": [
+        "management",
+        "problem-solving",
+        "psychology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e08ee0affa3dcd66",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Ryanair dark UX patterns summer 2026 refresher",
+      "url": "https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/",
+      "summary": "The article discusses the continued use of \"dark UX patterns\" by Ryanair, highlighting design choices that may mislead or trick users. It serves as a refresher on these deceptive practices.",
+      "tags": [
+        "ux",
+        "design",
+        "e-commerce"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3d24e20519a02aa4",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
+      "url": "https://fablepool.com",
+      "summary": "FablePool is a new platform where users can pool money behind a prompt, and Fable then publicly develops the requested project. This innovative approach leverages collective funding for public development.",
+      "tags": [
+        "crowdfunding",
+        "development",
+        "community"
+      ],
+      "priority": false
+    },
+    {
+      "id": "99f33c7167e7056d",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The Future of Email",
+      "url": "https://www.fastmail.com/blog/the-future-of-email/",
+      "summary": "The article explores the future of email, discussing potential evolutions and changes in how email services will operate. It offers insights into upcoming trends and challenges for this communication staple.",
+      "tags": [
+        "email",
+        "technology",
+        "communication"
+      ],
+      "priority": false
+    },
+    {
+      "id": "96293ead97316e4d",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "A key U.S. spy tool is set to lapse on Friday — now what?",
+      "url": "https://www.npr.org/2026/06/12/nx-s1-5856291/fisa-702-surveillance-expiration-bill-pulte",
+      "summary": "A critical U.S. intelligence tool, FISA Section 702, is scheduled to lapse on Friday, impacting over 60% of the president's daily intelligence briefing. Congress has struggled to agree on its renewal.",
+      "tags": [
+        "surveillance",
+        "national security",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b061003dae08f0dd",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Door shuts on some immigrant entrepreneurs as U.S. restricts small-business loans",
+      "url": "https://www.npr.org/2026/06/12/nx-s1-5853375/changes-loans-trump-small-business-immigrants-entrepreneurs-green-card",
+      "summary": "Immigrant entrepreneurs who are legal permanent residents in the U.S. are now restricted from accessing Small Business Administration loans, a core pillar of lending for decades. This policy change impacts a significant group of small business owners.",
+      "tags": [
+        "immigration",
+        "policy",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5afc17ca6aa20ec7",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Pope Leo defends migrants at 'dock of shame' in Spain",
+      "url": "https://www.npr.org/2026/06/12/nx-s1-5855009/pope-leo-defends-migrants-at-dock-of-shame",
+      "summary": "Pope Leo XIV visited the Canary Islands, where he delivered a strong defense of migrants, calling the location a \"dock of shame.\" His visit highlights the ongoing humanitarian crisis and calls for greater compassion.",
+      "tags": [
+        "pope",
+        "migrants",
+        "spain"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1938d676c51f7e66",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Referees at the World Cup have new rules to whistle during games",
+      "url": "https://www.npr.org/2026/06/12/nx-s1-5855234/2026-world-cup-fifa-soccer-referees-officials-laws-ifab",
+      "summary": "FIFA has introduced several new rules for referees at the World Cup to combat time-wasting and ensure game-changing officiating mistakes are corrected. These changes aim to improve the flow and fairness of matches.",
+      "tags": [
+        "world cup",
+        "soccer",
+        "rules"
+      ],
+      "priority": false
+    },
+    {
+      "id": "52e9a3c21b1432fe",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "She waited decades for Scotland to make the World Cup. At 93, she'll cheer in person",
+      "url": "https://www.npr.org/2026/06/12/nx-s1-5842854/scotland-world-cup-tartan-army-fans",
+      "summary": "Moira Brown, a 93-year-old Scottish soccer fan, will attend the World Cup to cheer for her national team, which has qualified for the first time in decades. She expresses immense joy for this long-awaited opportunity.",
+      "tags": [
+        "world cup",
+        "scotland",
+        "sports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c3daffffb23742fc",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump cancels further Iran strikes. And, U.S. men's soccer takes on Paraguay",
+      "url": "https://www.npr.org/2026/06/12/g-s1-127711/up-first-newsletter-iran-peace-national-intelligence-director-world-cup",
+      "summary": "President Trump canceled further Iran strikes and indicated a potential peace deal, though Iran denies finalization. Separately, the U.S. men's soccer team is set to play its first 2026 World Cup match against Paraguay.",
+      "tags": [
+        "us",
+        "iran",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "20fead7d0488c074",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Your cheat sheet to the 26 players on the U.S. World Cup team",
+      "url": "https://www.npr.org/2026/06/12/nx-s1-5855763/2026-world-cup-usmnt-players-roster",
+      "summary": "A cheat sheet provides details on the 26 players of the U.S. World Cup team, who will compete in their opening match against Paraguay. The match represents the culmination of years of hard work for the players.",
+      "tags": [
+        "world cup",
+        "soccer",
+        "usmnt"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8667001067a678b7",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Lee Zeldin on rising gas prices, energy dominance and AI data centers",
+      "url": "https://www.politico.com/video/2026/06/11/lee-zeldin-on-rising-gas-prices-energy-dominance-and-ai-data-centers-2096933",
+      "summary": "Lee Zeldin discusses rising gas prices, the concept of energy dominance, and the role of AI data centers in the current economic and technological landscape. He provides insights on these interconnected issues.",
+      "tags": [
+        "politics",
+        "energy",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "135fd3aad0a1f9a5",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Bluesky launches group chats, as company shifts focus to community features",
+      "url": "https://techcrunch.com/2026/06/11/bluesky-launches-group-chats-as-company-shifts-focus-to-community-features/",
+      "summary": "Bluesky has introduced group chats, signaling a strategic shift to focus more on community-building features for smaller groups. This new functionality aims to enhance user interaction on the platform.",
+      "tags": [
+        "social media",
+        "bluesky",
+        "community"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ac5e62a8b19a3aee",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+      "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+      "summary": "Avataar AI's video model is designed for India's large scale, offering cheaper, faster, and culturally aware video generation. The service is priced at $0.005 per second of generation.",
+      "tags": [
+        "ai",
+        "video",
+        "india"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3cc35c7dcd8b2472",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Equal AI raises $30M to screen calls so Indians don’t have to",
+      "url": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
+      "summary": "Equal AI has raised $30 million for its AI-powered call assistant, which screens calls and now boasts over a million monthly active users. The service aims to alleviate the burden of unwanted calls for Indian users.",
+      "tags": [
+        "ai",
+        "startup",
+        "india"
+      ],
+      "priority": false
+    },
+    {
+      "id": "526e121e901f32a4",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "summary": "Jeff Bezos-backed Prometheus has raised $12 billion, valuing the physical AI startup at $41 billion, with the goal of building an \"artificial general engineer.\" This technology aims to automate heavy engineering and drug design.",
+      "tags": [
+        "ai",
+        "startup",
+        "investment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "301f1fd06747976c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+      "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+      "summary": "Theker has secured $85 million to develop factory robots designed for reconfigurability, unlike humanoid robots with fixed forms. These versatile machines aim to overcome the specialization limitations of existing robotic solutions.",
+      "tags": [
+        "robotics",
+        "manufacturing",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e3e758d0a2852e76",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "US surveillance law to expire for first time after lawmakers reject Trump’s controversial pick to lead spy agencies",
+      "url": "https://techcrunch.com/2026/06/12/us-spy-law-to-expire-for-first-time-after-lawmakers-reject-trumps-controversial-pick-to-lead-spy-agencies/",
+      "summary": "Section 702, a U.S. spy law authorizing warrantless surveillance by the NSA and FBI, is set to expire on Friday for the first time. This expiration follows lawmakers' rejection of Trump's controversial nominee to lead intelligence agencies.",
+      "tags": [
+        "surveillance",
+        "policy",
+        "national security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4e11e0dd2b1e436c",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Knocking on Doors for Mamdani’s Rent-Freeze Brigade",
+      "url": "https://www.thefp.com/p/nyc-rent-stabilization-canvassing",
+      "summary": "The article describes a canvassing effort for New York City Mayor Zohran Mamdani's rent-freeze campaign, where taxpayer-funded volunteers encourage tenants and landlords to testify at hearings. The author, who participated, notes issues like unpaid compensation from a previous city initiative.",
+      "tags": [
+        "nyc",
+        "politics",
+        "housing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0c2948bdf664de44",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The World Wants You to Believe That Jews Are Divided. We’re Not.",
+      "url": "https://www.thefp.com/p/the-world-wants-you-to-believe-that-jews-are-divided-were-not",
+      "summary": "Rabbi Joanna Samuels challenges the narrative that the Jewish community is divided amid rising antisemitism, asserting a unified front despite media portrayals of fracture. She offers practical solutions for a fractious world, focusing on communal strength.",
+      "tags": [
+        "antisemitism",
+        "community",
+        "identity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "83211ac7c8aa0f96",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Training Robots In My Apartment",
+      "url": "https://www.thefp.com/p/ai-company-robot-cleaning-apartment",
+      "summary": "A journalist describes how their Brooklyn apartment was cleaned and a meal cooked by humans wearing cameras, recording \"egocentric human data\" to train robots for household tasks. Companies like MicroAGI, Shift, Luel, Kled, and Waffle Video are paying people to record daily activities for AI development.",
+      "tags": [
+        "ai",
+        "robotics",
+        "data collection"
+      ],
+      "priority": false
+    },
+    {
+      "id": "801b7650e501bd49",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "Poet and Philosopher David Whyte on Anger, Forgiveness, and What Maturity Really Means",
+      "url": "https://www.themarginalian.org/2026/06/11/david-whyte-consolations-anger-forgiveness-maturity/",
+      "summary": "Poet and philosopher David Whyte offers profound insights on anger and forgiveness, redefining anger as a deep form of compassion for what we care about. He suggests forgiveness requires reimagining our relationship to the original wound.",
+      "tags": [
+        "philosophy",
+        "psychology",
+        "emotions"
+      ],
+      "priority": false
+    },
+    {
+      "id": "10d033110fb27ade",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "A trillion dollars is a stupid amount of money",
+      "url": "https://www.theverge.com/tech/948917/elon-musk-trillionaire-how-much-visualization",
+      "summary": "Elon Musk has reportedly become the world's first trillionaire, highlighting the colossal and often unfathomable scale of such wealth. To illustrate, a trillion seconds equates to 31,700 years, making a billion seconds (31.7 years) seem small in comparison.",
+      "tags": [
+        "wealth",
+        "economy",
+        "elon musk"
+      ],
+      "priority": false
+    },
+    {
+      "id": "682f62594737307b",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "I held the Trump phone",
+      "url": "https://www.theverge.com/tech/948464/trump-phone-t1-hands-on",
+      "summary": "A journalist from The Verge had an unexpected encounter with the elusive \"Trump phone\" (T1), which was announced almost a year ago but has reportedly shipped to very few people. The experience highlighted the contrast between elaborately designed luxury phones and the underwhelming reality of the Trump phone.",
+      "tags": [
+        "technology",
+        "politics",
+        "phone"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 105,
+    "summarized": 52,
+    "skipped_promos": 8,
+    "filtered_by_rules": 45,
+    "sources": 10,
+    "email_items_omitted": 0
+  }
+}
