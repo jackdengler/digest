@@ -1,0 +1,913 @@
+{
+  "date": "2026-06-13",
+  "generated_at": "2026-06-13T15:29:08+00:00",
+  "hot_topics": [
+    {
+      "topic": "US Government Halts Access to Anthropic's AI Models Amid Safety Concerns",
+      "synthesis": "The US government has suspended access to Anthropic's powerful AI models, Fable 5 and Mythos 5, citing a potential 'jailbreak' despite the company's prior safety warnings. Anthropic disagrees with this decision, arguing it's an excessive response for widely deployed commercial models. This situation highlights growing tensions and debates around AI safety, regulation, and the deployment of advanced models.",
+      "item_ids": [
+        "433b68da33b5d895",
+        "642f0f517ce5ea1c",
+        "58502b0066964485"
+      ]
+    },
+    {
+      "topic": "World Cup 2026 Faces Logistics, Political, and Fan Experience Challenges",
+      "synthesis": "The 2026 World Cup is encountering significant logistical challenges, including fan travel disruptions, high costs, and environmental impacts, alongside concerns about ticket pricing and stadium attendance. Political figures, including former President Trump, are engaging with the event, while hosts perform land acknowledgments and states investigate FIFA's practices. The tournament highlights a cultural divide in football's appeal, with international fans expressing both enthusiasm and astonishment at the American experience.",
+      "item_ids": [
+        "372e7c13f38d3133",
+        "082c5ac5a0917853",
+        "04d3f65f0dbaeb87",
+        "217f7d295044d520",
+        "baec2b76f8390395",
+        "7fe3bb5911b7729a",
+        "dbdf63469328f6ae",
+        "21b23ebe69cd7527",
+        "a2fa47854f04c08c",
+        "517156e1d9840e27",
+        "1884f1660e49362d",
+        "acbe89530d49d1d4",
+        "ea125e84b07e1c45"
+      ]
+    },
+    {
+      "topic": "Justice Department Approves Major Paramount-Warner Bros. Discovery Merger",
+      "synthesis": "The US Justice Department has approved the substantial $110-111 billion merger of Paramount and Warner Bros. Discovery. This decision, following an investigation that found no threats to competition, will combine major media entities including CBS, HBO, and CNN, fundamentally reshaping the media industry.",
+      "item_ids": [
+        "f9e8db1c19d47499",
+        "2477569c0273e699",
+        "4380cce07a13d507"
+      ]
+    },
+    {
+      "topic": "US Airstrike Kills Venezuelan Tren de Aragua Gang Leader",
+      "synthesis": "President Trump announced that a US military airstrike successfully killed Niño Guerrero, identified as the infamous leader of Venezuela's Tren de Aragua gang. This 'swift and lethal kinetic strike' marks a significant US action against the Venezuelan criminal organization.",
+      "item_ids": [
+        "251d8655378c16d7",
+        "a4af119a449e705e"
+      ]
+    },
+    {
+      "topic": "Republicans Pressure Trump on Iran War Resolution Ahead of Midterms",
+      "synthesis": "Republican allies of President Trump are expressing growing concern over the ongoing Iran war, setting a Labor Day deadline for its resolution due to rising US casualties and economic impacts on gas and fertilizer prices ahead of midterm elections. This comes as Iran claims a deal to end fighting with the US is near, adding a diplomatic dimension to the complex situation.",
+      "item_ids": [
+        "e69010613d6e0085",
+        "94c0807550615e73"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "4f6d6caed6c14304",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "$130 billion in data center projects blocked by protests so far this year",
+      "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
+      "summary": "Community protests have blocked or delayed a record $130 billion worth of data center projects in the first quarter of 2026. This indicates a 'structural shift' as more communities adopt opposition tactics, leading to increased regulatory uncertainty.",
+      "tags": [
+        "data centers",
+        "protests",
+        "infrastructure"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3e6370a495e7e8e1",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Controversial FISA spying law expires tonight. The spying will continue.",
+      "url": "https://arstechnica.com/tech-policy/2026/06/controversial-fisa-spying-law-expires-tonight-the-spying-will-continue/",
+      "summary": "The controversial FISA Title VII spying law is set to expire, but surveillance under Section 702 will continue until March 2027 due to existing certifications. Critics warn against using fear-mongering tactics to reauthorize the law without implementing meaningful reforms.",
+      "tags": [
+        "fisa",
+        "surveillance",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "68bf992c83cabe48",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Here's what Jeff Bezos' new startup Prometheus will do",
+      "url": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
+      "summary": "Jeff Bezos' new startup, Prometheus, is focusing on 'physical AI' for robotics and manufacturing, having secured $12 billion in new funding. Much of this investment will be used to purchase substantial computing power for its data-intensive operations.",
+      "tags": [
+        "ai",
+        "startups",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cb52cac00f0d42c7",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Ukraine's one-time test used fully autonomous drones to kill Russian soldiers",
+      "url": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/",
+      "summary": "A Ukrainian drone manufacturer reported that fully autonomous drones successfully killed Russian soldiers in a battlefield test two years ago. These drones operated in 'Terminator mode,' seeking and attacking targets without human control.",
+      "tags": [
+        "drones",
+        "ai",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a8a443f9c214d003",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "When it comes to total water use, AI data centers are a drop in the bucket",
+      "url": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
+      "summary": "A report from Amazon indicates that AI data centers' total water use, while substantial individually, is a small percentage compared to other large-scale water consumption in the US. Amazon's data centers withdrew 2.5 billion gallons globally in 2025, significantly less than agriculture or landscaping.",
+      "tags": [
+        "data centers",
+        "environment",
+        "water"
+      ],
+      "priority": false
+    },
+    {
+      "id": "753cf45d8eb2ea26",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "David Hockney depicted a 'peaceful, gay paradise' when homosexuality was a crime",
+      "url": "https://www.bbc.com/news/articles/cpq393dz535o?at_medium=RSS&at_campaign=rss",
+      "summary": "Artist David Hockney is celebrated for depicting a 'peaceful, gay paradise' in his art, breaking social taboos by openly celebrating same-sex relationships during a period when homosexuality was criminalized. His work offered a unique cultural commentary.",
+      "tags": [
+        "art",
+        "lgbtq+",
+        "history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "372e7c13f38d3133",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Fans on concourses instead of in seats, claims Fifa",
+      "url": "https://www.bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Fifa says numerous empty seats were visible in the near-sell-out Group A match between South Korea and the Czech Republic because of fans remaining on concourses.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "312453669a11dfeb",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "French town buries murdered child as questions mount over police failings",
+      "url": "https://www.bbc.com/news/articles/cy9rq21dqego?at_medium=RSS&at_campaign=rss",
+      "summary": "A French town is mourning the burial of an 11-year-old murdered child, Lyhanna, amid growing questions about police failures. The prime suspect had been reported to authorities nine months earlier but was never interrogated.",
+      "tags": [
+        "france",
+        "crime",
+        "police"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e69010613d6e0085",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
+      "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The strikes come as Iran's foreign minister says a deal to end fighting with the US is close.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "1c952341ddc1b399",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "King leads tributes to 'giant of the art world' David Hockney",
+      "url": "https://www.bbc.com/news/articles/cvgjxdr27z4o?at_medium=RSS&at_campaign=rss",
+      "summary": "King Charles has led tributes to renowned artist David Hockney, who passed away at 88, remembering him as 'one of life's true originals.' The art world mourns the loss of a significant figure.",
+      "tags": [
+        "art",
+        "obituary",
+        "david hockney"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dc445ec7cfd1da2e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Married at First Sight Australia stars not told partners had drug and violence convictions",
+      "url": "https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Participants of 'Married at First Sight Australia' allege they were not informed that their on-screen partners had previous drug and violence convictions. This raises questions about participant vetting on the reality television show.",
+      "tags": [
+        "reality tv",
+        "australia",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b6ed07ef9805d749",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Mother finds body of missing son two days after Kenya's Ebola quarantine centre protests",
+      "url": "https://www.bbc.com/news/articles/crlw3w84w30o?at_medium=RSS&at_campaign=rss",
+      "summary": "A mother in Kenya discovered the body of her missing son two days after protests occurred at an Ebola quarantine center, where he was last seen. The incident follows unrest regarding the center in Nanyuki.",
+      "tags": [
+        "kenya",
+        "ebola",
+        "protests"
+      ],
+      "priority": false
+    },
+    {
+      "id": "04d3f65f0dbaeb87",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Niagara Falls: Is there a better spot to watch a World Cup game?",
+      "url": "https://www.bbc.com/news/videos/c62132n53exo?at_medium=RSS&at_campaign=rss",
+      "summary": "Football fans gathered at a FIFA World Cup watch party at Niagara Falls for the Canadian and USA teams' opening matches.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "e9185c7dd307df4d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Switzerland to vote on plan to cap population at 10 million",
+      "url": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
+      "summary": "Switzerland is scheduled to vote on a proposal to cap its population at 10 million, put forth by the right-wing Swiss People's Party as a 'sustainability initiative.' Opponents, however, contend that this plan would lead to societal chaos.",
+      "tags": [
+        "switzerland",
+        "population",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9f7cef044437a02e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "The college scam that promised students fleeing war a new life in Finland",
+      "url": "https://www.bbc.com/news/articles/cgrprx55zpvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Students from war-torn Myanmar claim they were defrauded in a college scam that promised them a new life and study opportunities in Finland. They reported paying significant sums only to be cheated.",
+      "tags": [
+        "education",
+        "scams",
+        "finland"
+      ],
+      "priority": false
+    },
+    {
+      "id": "082c5ac5a0917853",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "The costs and challenges facing the 2026 World Cup",
+      "url": "https://www.bbc.com/news/videos/c24ynjvm43qo?at_medium=RSS&at_campaign=rss",
+      "summary": "The World Cup officially kicked off this week - but alongside the football, there are questions around heat, cost, the environmental impact and travel restrictions.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "251d8655378c16d7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
+      "url": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
+      "summary": "Niño Guerrero was killed in a \"swift and lethal kinetic strike,\" the US President wrote in a social media post.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f9e8db1c19d47499",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Warner Bros $111bn sale to Paramount approved by US justice department",
+      "url": "https://www.bbc.com/news/articles/cjwgled9jxwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The approval marks a key development in the merger that will reshape media, allowing the continue of the takeover of the Hollywood studio, which owns CNN and HBO.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "217f7d295044d520",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Why is Trump not at the World Cup?",
+      "url": "https://www.bbc.com/news/videos/ced48dv99lvo?at_medium=RSS&at_campaign=rss",
+      "summary": "All three leaders of the North America host nations have missed the tournament opening matches.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "627361c5da8f6cab",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Woman seriously injured in shark attack at Sydney beach",
+      "url": "https://www.bbc.com/news/articles/c3ryw807133o?at_medium=RSS&at_campaign=rss",
+      "summary": "A 35-year-old woman sustained serious injuries in a shark attack at a Sydney beach and was rescued by members of the public before being airlifted to a hospital. This incident highlights concerns about marine safety.",
+      "tags": [
+        "australia",
+        "accident",
+        "wildlife"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0ca19bede40bf56f",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+      "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+      "summary": "This Hacker News post highlights a new CRISPR technology capable of selectively destroying cancer cells, including those traditionally resistant to treatment. This development offers a promising approach for 'undruggable' cancers.",
+      "tags": [
+        "crispr",
+        "cancer",
+        "biotechnology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "488e803ad295cdd1",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Electric motors with no rare earths",
+      "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
+      "summary": "This Hacker News post discusses the development of electric motors that do not require rare earth materials, which are often essential components. This innovation could address supply chain and environmental concerns associated with rare earth mining.",
+      "tags": [
+        "engineering",
+        "sustainability",
+        "electric vehicles"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fd82af08012b8c1f",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "How to setup a local coding agent on macOS",
+      "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+      "summary": "This Hacker News post provides instructions on how to set up a local coding agent specifically for macOS. It offers a guide for developers looking to configure an automated coding environment on their Apple systems.",
+      "tags": [
+        "macos",
+        "development",
+        "tools"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5456928968f7d67f",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Open source AI must win",
+      "url": "https://opensourceaimustwin.com/?share=v2",
+      "summary": "This Hacker News post is a declaration advocating for the success and prevalence of open-source AI. It suggests a strong sentiment or movement supporting open-source development in the AI field.",
+      "tags": [
+        "ai",
+        "open source",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bf63f310c503112a",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
+      "url": "https://piwodlaiwo.github.io/pirates/",
+      "summary": "This Hacker News post introduces 'Pirates,' a new naval warfare game drawing inspiration from 'Sid Meier's Pirates.' The 'Show HN' designation indicates it's a project shared by a developer.",
+      "tags": [
+        "gaming",
+        "indie game"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d7f0f15e1b76e90c",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Show HN: Putt.day a daily mini golf game",
+      "url": "https://putt.day/",
+      "summary": "This Hacker News post introduces 'Putt.day,' a new daily mini-golf game developed by a community member. It's presented as a 'Show HN' item, typically for showcasing personal projects.",
+      "tags": [
+        "gaming",
+        "development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "58502b0066964485",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
+      "url": "https://www.anthropic.com/news/fable-mythos-access",
+      "summary": "https://x.com/ClaudeDevs/status/2065597942602531163\nComments URL:\nhttps://news.ycombinator.com/item?id=48511072\nPoints: 2798\n# Comments: 2050",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "e0336d2c8aab48ac",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
+      "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
+      "summary": "This Hacker News post points to an Apple blog detailing the migration of its TrueType hinting interpreter to Swift. The article likely discusses the technical process and benefits of using Swift for this component.",
+      "tags": [
+        "apple",
+        "swift",
+        "programming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "642f0f517ce5ea1c",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "There is a shadow hanging over this Fable thing",
+      "url": "https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow",
+      "summary": "Article URL:\nhttps://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow\nComments URL:\nhttps://news.ycombinator.com/item?id=48513536\nPoints: 389\n# Comments: 372",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "0a4f96fd4c0a3ee5",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Twenty One Zero-Days in FFmpeg",
+      "url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
+      "summary": "This Hacker News post highlights the discovery of twenty-one zero-day vulnerabilities within FFmpeg, a widely used multimedia framework. The title suggests significant security concerns for users of the software.",
+      "tags": [
+        "cybersecurity",
+        "ffmpeg",
+        "vulnerabilities"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c84c88dd95c0237c",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "'Cool Ladies Club' is directed by 10 working-class women. They live up to the title",
+      "url": "https://www.npr.org/2026/06/13/g-s1-125467/cool-ladies-club-movies-working-class-women-documentary-india",
+      "summary": "'Cool Ladies Club,' a documentary showcasing the unseen lives of working-class Indian women, was uniquely directed by ten women from that community using smartphones. The project aims to highlight their unheralded experiences.",
+      "tags": [
+        "documentary",
+        "india",
+        "social issues"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3f248d9883b7a5b4",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "4 things to know about the new sunscreen ingredient the FDA approved",
+      "url": "https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol",
+      "summary": "The FDA has approved a new sunscreen ingredient, bemotrizinol, marking the first such approval in two decades for the US, despite its widespread use in Europe and Asia for many years. This development offers consumers a new option for skin protection.",
+      "tags": [
+        "fda",
+        "health",
+        "sunscreen"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9389589617c784d6",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Gene Shalit, longtime 'Today' show movie critic, dies at 100",
+      "url": "https://www.npr.org/2026/06/12/g-s1-128022/gene-shalit-movie-critic-dies",
+      "summary": "Gene Shalit, the iconic 'Today' show movie critic and arts editor known for his distinctive appearance and witty puns, has passed away at the age of 100. He served as a prominent cultural commentator for decades.",
+      "tags": [
+        "obituary",
+        "media",
+        "film critic"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4380cce07a13d507",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Justice Dept. approves Paramount's acquisition of Warner Bros. Discovery",
+      "url": "https://www.npr.org/2026/06/12/nx-s1-5856567/paramount-acquisition-warner-bros-discovery-merger",
+      "summary": "The decision paves the way for a proposed $111 billion merger uniting two rival studio giants — Paramount, owner of CBS, and the much larger Warner, which includes HBO and CNN.\n(Image credit: Nick Ut)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "2477569c0273e699",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Paramount-Warner Brothers merger gets Justice Department approval",
+      "url": "https://www.npr.org/2026/06/12/nx-s1-5856563/justice-dept-approves-paramounts-acquisition-of-warner-bros-discovery",
+      "summary": "The Justice Department closed its investigation into the proposed $110 billion merger of Paramount and Warner Brothers Discovery, saying it found no threat to competition or consumers.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "0d7482744391a9d6",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Pope Leo XIV's flight home from Spain was grounded so the king came to his aid",
+      "url": "https://www.npr.org/2026/06/13/nx-s1-5856981/pope-leo-flight-grounded",
+      "summary": "Pope Leo XIV's flight back to Rome from Spain was grounded by a technical issue, prompting Spain's king to offer his private jet for the Pope's journey. This gesture facilitated the Pope's return after a week-long visit.",
+      "tags": [
+        "pope",
+        "spain",
+        "travel"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a4af119a449e705e",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump says U.S. military strike killed leader of Tren de Aragua gang",
+      "url": "https://www.npr.org/2026/06/12/nx-s1-5856611/u-s-military-kill-leader-tren-de-aragua",
+      "summary": "President Trump said Friday that a U.S. strike has killed Hector Rusthenford Guerrero Flores, whom he called \"the infamous leader\" of the Tren de Aragua gang in Venezuela.\n(Image credit: Jacquelyn Martin)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "5ba28eab541c6af2",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Workers begin removing Trump's name from the Kennedy Center",
+      "url": "https://www.npr.org/2026/06/12/g-s1-128017/trump-name-kennedy-center",
+      "summary": "Workers have begun the process of removing President Trump's name from the facade of the Kennedy Center, following a court-ordered deadline. This action signifies a change in the building's public references to the former president.",
+      "tags": [
+        "politics",
+        "trump",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "baec2b76f8390395",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Alternative World Cup rankings",
+      "url": "https://www.politico.com/live-updates/2026/06/13/world-cup-2026/gdp-europe-fifa-rankings-00961298",
+      "summary": "Congratulations to Sweden on winning this year’s World Cup … and also to France, Qatar, Uruguay, Norway, New Zealand and Switzerland for the same thing.\nNo, POLITICO hasn’t been engaging in match fixing, but we have been crunching the numbers to see how all 48 of this year’s Worl…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "7fe3bb5911b7729a",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "FIFA does pregame land acknowledgment",
+      "url": "https://www.politico.com/live-updates/2026/06/12/world-cup-2026/fifa-does-native-american-land-acknowledgment-california-00961212",
+      "summary": "INGLEWOOD, California — FIFA paid tribute to California’s Native American tribes as part of the pregame festivities ahead of Friday’s match at SoFi Stadium, the tournament’s first in the United States.\nSo-called native land acknowledgments have become common in North America, esp…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "3f8699939ddd021a",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Freedom 250’s fair on National Mall highlights conservative groups",
+      "url": "https://www.politico.com/news/2026/06/12/freedom-250-national-mall-fair-conservative-groups-00960904",
+      "summary": "Freedom 250, a nonprofit associated with President Trump, is organizing the 'Great American State Fair' on the National Mall for the country's 250th anniversary, featuring prominent conservative groups. Democrats have criticized this event as an attempt to 'hijack' the bipartisan anniversary celebration.",
+      "tags": [
+        "trump",
+        "politics",
+        "national mall"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a2fa47854f04c08c",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "How I failed to make it to my first World Cup match",
+      "url": "https://www.politico.com/live-updates/2026/06/12/world-cup-2026/world-cup-travel-delays-weather-00960722",
+      "summary": "I’ve been reporting on the obstacles ticketholders will have navigating America’s balkanized public transit system. But on the way to my first ever FIFA World Cup match in Toronto, extreme weather tripped me up as I tried to leave New York City on Thursday night.\nNow I’m missing…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "dbdf63469328f6ae",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Missouri NOT probing FIFA ticket prices — yet",
+      "url": "https://www.politico.com/live-updates/2026/06/12/world-cup-2026/missouri-fifa-world-cup-ticket-prices-00960905",
+      "summary": "Missouri is not launching a probe into pricing strategies employed by FIFA, a spokesperson from the state attorney general’s office told POLITICO, as several states playing host to World Cup matches take the organization to task for allegedly misleading fans.\nColbey Stosberg, pub…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "3bf6c047a663b906",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "PR fail: Mamdani’s Boricua bungle",
+      "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/06/12/pr-fail-mamdanis-boricua-bungle-00960641",
+      "summary": "New York City Mayor Zohran Mamdani's office faced a PR failure over its mishandling of an annual Puerto Rican heritage event, which saw reduced attendance and drew criticism. The incident highlighted growing tensions between his administration and the established Latino political figures.",
+      "tags": [
+        "new york",
+        "politics",
+        "community relations"
+      ],
+      "priority": false
+    },
+    {
+      "id": "517156e1d9840e27",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "The Epic Story of How Trump Seized the World Cup",
+      "url": "https://www.politico.com/live-updates/2026/06/12/world-cup-2026/donald-trump-world-cup-fifa-00960640",
+      "summary": "“I was undecided with whether I never wanted to see these people ever again, because we had a pretty good idea of what had happened,” said former U.S. Soccer President Sunil Gulati about a stunning FIFA vote that handed the World Cup to Qatar over a favored American bid. “Or if I…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "21b23ebe69cd7527",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Trump believes that we will win",
+      "url": "https://www.politico.com/live-updates/2026/06/12/world-cup-2026/donald-trump-usmnt-message-support-00960757",
+      "summary": "President\nDonald Trump called the U.S. men's soccer team\non Friday ahead of its opening matchup at the World Cup in Los Angeles, predicting big things for them and head coach Mauricio Pochettino.\n“I just called to say you’re a fantastic guy, a fantastic coach,” Trump said. “I kno…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "94c0807550615e73",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Trump's GOP allies draw a line in the sand on Iran",
+      "url": "https://www.politico.com/news/2026/06/12/iran-war-trump-midterms-labor-day-00960925",
+      "summary": "Republicans keep lengthening President Donald Trump’s leash on Iran.\nFirst, they hoped he would stick to his initial\nfour- to six-week timeline\nfor the war. Then, they gave him 60 days; then,\nuntil summer\n.\nNow, battleground GOP party chairs, campaign officials and strategists ar…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "4919ef1677cca295",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "OpenAI WebRTC Audio Session, now with document context",
+      "url": "https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything",
+      "summary": "Simon Willison has updated his OpenAI WebRTC Audio Session tool to incorporate the GPT-Realtime-2 model and allow users to provide document context. This enhancement enables more informed audio conversations within the browser using OpenAI's real-time audio models.",
+      "tags": [
+        "openai",
+        "ai",
+        "tools"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8113b496b159e6fd",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Andrew Singleton",
+      "url": "https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything",
+      "summary": "This post features a satirical quote from Andrew Singleton's 'AI Economics for Dummies,' illustrating a complex and opaque financial narrative involving large AI investments. The quote humorously critiques the often inflated and abstract nature of AI-driven economic reporting.",
+      "tags": [
+        "ai",
+        "economics",
+        "satire"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ea125e84b07e1c45",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "A German soccer fan walks into a Buc-ee’s and discovers abundance",
+      "url": "https://www.slowboring.com/p/a-german-soccer-fan-walks-into-a",
+      "summary": "When Freddy — a German soccer fan road tripping across the southern United States for the World Cup — arrived in Fairhope, Ala., this week, he\nwrote\n“I’m in a place right now that’s so beautiful I’m probably about to make 50 posts about it.”\nPassing through Gainesville, Fla., he…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "06154cda27631c75",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+      "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+      "summary": "Andrew Yang identifies lowering the cost of living in areas such as housing, food, and wireless services as the next significant opportunity for startup innovation. He suggests entrepreneurs should aim to return money to consumers by addressing these expenses.",
+      "tags": [
+        "startups",
+        "economics",
+        "cost of living"
+      ],
+      "priority": false
+    },
+    {
+      "id": "433b68da33b5d895",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "043df980234435c1",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+      "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+      "summary": "Google is suing 'Outsider Enterprise,' a Chinese cybercrime operation, for using AI to defraud hundreds of thousands of victims. The group sent 2.5 million scam text messages over a two-week period.",
+      "tags": [
+        "cybercrime",
+        "ai",
+        "google"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2ff0fee81bbfebe2",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+      "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+      "summary": "A report indicates significant internal dissatisfaction within Meta's months-old AI unit, employing 6,500 people, with engineers describing it as a 'soul-crushing gulag' on the verge of revolt. This suggests a challenging workplace culture within the division.",
+      "tags": [
+        "meta",
+        "ai",
+        "workplace culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "75770b1f05c21316",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Mistral is rumored to be raising €3B at €20B valuation",
+      "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+      "summary": "AI company Mistral is rumored to be seeking a €3 billion funding round, which would elevate its valuation to approximately €20 billion. This would nearly double its Series C valuation of €11.7 billion.",
+      "tags": [
+        "ai",
+        "funding",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9a729722ae7ce58f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The FBI built its own replica small town to simulate real-world cyberattacks",
+      "url": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/",
+      "summary": "The FBI has established a replica small town inside an Alabama building, specifically designed as a cyber training ground. This facility allows for the simulation of real-world cyberattacks to enhance cybersecurity preparedness.",
+      "tags": [
+        "cybersecurity",
+        "fbi",
+        "training"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cd3bc8222cb740c6",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Bench-Press and Be Baptized",
+      "url": "https://www.thefp.com/p/bench-press-and-be-baptized",
+      "summary": "'252 The Weekend' is a Christian men's retreat run by Transform Church that blends spiritual worship with physical challenges like cup-stacking and bench press competitions. The retreat aims to guide 'boys to become young men, and for young men to become great men' based on Luke 2:52.",
+      "tags": [
+        "religion",
+        "retreat",
+        "christianity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "acbe89530d49d1d4",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Niall Ferguson: The World Cup Looks Like a Fiesta of Nationalism. Don’t Be Fooled.",
+      "url": "https://www.thefp.com/p/niall-ferguson-world-cup-nationalism-football",
+      "summary": "Welcome to Things Worth Remembering, our weekly column in which writers share a literary treasure that all of us should commit to heart. This week the World Cup has just begun, and Niall Ferguson takes on the age-old American question: Why does the rest of the world care so much…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "a8aaa5410d8f32d9",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Olivia Rodrigo Murdered Her Love Songs",
+      "url": "https://www.thefp.com/p/olivia-rodrigo-new-album-breakup",
+      "summary": "This review praises Olivia Rodrigo's new album, hailing her as 'Gen Z's greatest documentarian' for authentically capturing the experience of youth in contemporary America. The reviewer appreciates her music's propulsive pop-punk sound, despite not being her target demographic.",
+      "tags": [
+        "music",
+        "pop culture",
+        "review"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b59ff6642cebda3b",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Steven Spielberg’s ‘Disclosure Day’ Is a Dud",
+      "url": "https://www.thefp.com/p/steven-spielberg-disclosure-day-review",
+      "summary": "Steven Spielberg's new UFO-themed film, 'Disclosure Day,' is criticized for its intellectual pretensions and weak storyline, despite showcasing the director's renowned technical filmmaking skills. The review suggests the movie is a disappointment compared to his earlier work.",
+      "tags": [
+        "film",
+        "review",
+        "steven spielberg"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1884f1660e49362d",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Two Drinks with. . . Trump’s Tourism Czar",
+      "url": "https://www.thefp.com/p/two-drinks-with-trumps-tourism-czar",
+      "summary": "Nick Adams should be drinking Jungle Birds at a sky-high bar in Kuala Lumpur right now.\nLast July\n, President Donald Trump nominated the shitposting Australian-American to be the United States’ ambassador to Malaysia. Yet here he is with me instead, drinking Negronis at a bar in…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "7b011b6f71f0bdc6",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
+      "url": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
+      "summary": "iOS 27 is introducing native AI photo editing features to iPhones, marking a significant shift in the Photos app's capabilities. These tools, currently in developer beta, are less advanced than Google Pixel's but represent a major update for Apple users.",
+      "tags": [
+        "apple",
+        "ai",
+        "photo editing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0eea590b4a11578c",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Echo Isle is a pint-sized adventure inspired by classic Zelda",
+      "url": "https://www.theverge.com/games/947136/echo-isle-review-pc",
+      "summary": "'Echo Isle' is a new adventure game heavily inspired by classic 'The Legend of Zelda' titles, featuring retro graphics and core gameplay elements. The game distills the essence of a Zelda adventure into a compact experience, completable in about an hour.",
+      "tags": [
+        "gaming",
+        "zelda",
+        "indie game"
+      ],
+      "priority": false
+    },
+    {
+      "id": "41c97f92d7d74ecc",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "My first 24 hours with Siri AI on the Mac",
+      "url": "https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence",
+      "summary": "The author is testing an early preview of the new Siri AI for macOS 27 Golden Gate, which has prompted them to reconsider their prior disengagement with Apple Intelligence features. The new Siri AI shows potential for improvement before its public release.",
+      "tags": [
+        "apple",
+        "ai",
+        "siri"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4bf40880d4595fb6",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "My yard is dying, so I made an app for that",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+      "summary": "The author used Gemini to create a functional app for yard management from a single prompt, observing the AI's ability to quickly generate and even suggest fixes for bugs. This experience showcased the thrill of AI-powered app development despite technical complexities.",
+      "tags": [
+        "ai",
+        "app development",
+        "gemini"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fdd0b5bc05e9b807",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Never Post’s Mike Rugnetta on the creative process and the value of reliable power",
+      "url": "https://www.theverge.com/report/949073/mike-rugnetta-youtube-never-post-podcast-questionnaire",
+      "summary": "Mike Rugnetta, co-creator and host of 'Never Post' and other media projects, discusses his creative process and the indispensable tools that help him manage his diverse professional roles. He is a writer, podcast host, producer, and more.",
+      "tags": [
+        "media",
+        "creativity",
+        "podcast"
+      ],
+      "priority": false
+    },
+    {
+      "id": "431309847cbb8bcb",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Nothing CEO says phone prices are going to keep going up",
+      "url": "https://www.theverge.com/gadgets/949403/nothing-carl-pei-ram-phone-prices",
+      "summary": "Nothing CEO Carl Pei warns that smartphone prices, particularly for mid-range devices, are set to increase due to a significant RAM shortage. He noted that RAM costs for their Phone 4A have doubled twice, now accounting for over half of the phone's total cost.",
+      "tags": [
+        "smartphones",
+        "manufacturing",
+        "economics"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 95,
+    "summarized": 67,
+    "skipped_promos": 0,
+    "filtered_by_rules": 28,
+    "sources": 10,
+    "email_items_omitted": 0
+  }
+}
