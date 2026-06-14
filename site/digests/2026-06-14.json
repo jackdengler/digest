@@ -1,0 +1,691 @@
+{
+  "date": "2026-06-14",
+  "generated_at": "2026-06-14T15:46:01+00:00",
+  "hot_topics": [
+    {
+      "topic": "AI Reliability and Trust Concerns Mount",
+      "synthesis": "Recent events highlight growing concerns about the reliability and trustworthiness of artificial intelligence, with Anthropic suspending access to its new models and KPMG retracting an AI-generated report due to apparent hallucinations. These incidents emphasize the need for careful scrutiny of large language models, prompting discussions among tech leaders in India about their AI future and warnings against blindly trusting expanded AI context windows.",
+      "item_ids": [
+        "f12938bd7f83fadd",
+        "9fead842fc99151d",
+        "00236eb661733923"
+      ]
+    },
+    {
+      "topic": "US-Iran Peace Deal Encounters Mixed Signals Amid Regional Tensions",
+      "synthesis": "The timing of a potential US-Iran peace deal remains contentious, with President Trump announcing a Sunday signing while Tehran disputes the schedule. Escalating regional tensions, including an Israeli strike in Lebanon targeting Hezbollah, led Iran to warn that such actions could jeopardize the sensitive negotiations. Despite these challenges, an Iranian ambassador used the World Cup as a platform to signal Tehran's willingness for peace.",
+      "item_ids": [
+        "37a83c0bea0f4df8",
+        "39c9e656122bf57c",
+        "0bf5b0fbd03da438",
+        "e35332312c232caf"
+      ]
+    },
+    {
+      "topic": "World Cup 2026 Preparations and On-Field/Off-Field Dramas",
+      "synthesis": "Preparations for the World Cup 2026 are marked by a blend of political jockeying and various controversies, including a dispute between New York and New Jersey over host city branding. Incidents like the theft of England's equipment and concerns over empty stadium seats highlight logistical and fan engagement challenges. Meanwhile, political figures like French President Macron and top US Democrats are engaging with the event, while FIFA ensures a Somali referee denied US entry still receives his full tournament fee.",
+      "item_ids": [
+        "44656de17ded475f",
+        "81e7d7b073e271dd",
+        "df18527590409341",
+        "679ff60c8e3dbc22",
+        "2c148692b905ef34",
+        "1e11e2c0ff260657"
+      ]
+    },
+    {
+      "topic": "Trump's Public Image and Legacy Face Scrutiny",
+      "synthesis": "President Donald Trump's public actions and legacy continue to draw attention, from his administration hosting unprecedented UFC cage fights at the White House to the legal battle over his attempt to rename the Kennedy Center. A federal judge ruled against the rebranding, leading to the removal of Trump's name from the iconic cultural institution, underscoring ongoing debates about his influence and public image.",
+      "item_ids": [
+        "34380e75e5ec223d",
+        "cc5129b6aa4657a3"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "1666c3e502ec820f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'Boyfriend duties call,' Trudeau says after skipping Canada match to watch Perry",
+      "url": "https://www.bbc.com/news/articles/cly9eljexnno?at_medium=RSS&at_campaign=rss",
+      "summary": "Canadian Prime Minister Justin Trudeau skipped a Canada match, stating \"boyfriend duties call,\" to watch Katy Perry perform. Cameras captured Perry greeting Trudeau with a kiss backstage.",
+      "tags": [
+        "politics",
+        "canada",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "82cf610359fa18e6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'The greatest day of my life' - Knicks fans celebrate in San Antonio",
+      "url": "https://www.bbc.com/news/videos/c0ey470le3no?at_medium=RSS&at_campaign=rss",
+      "summary": "New York Knicks fans celebrated \"the greatest day of my life\" in San Antonio after their team won the NBA championship for the first time in over 50 years. The victory against the Spurs sparked widespread excitement.",
+      "tags": [
+        "sports",
+        "basketball",
+        "fan culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dc2bae60f0ecb221",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "As Trump turns 80, what's it really like to work as an octogenarian?",
+      "url": "https://www.bbc.com/news/articles/cm20vyxppneo?at_medium=RSS&at_campaign=rss",
+      "summary": "As President Donald Trump celebrates his 80th birthday, this article explores the experiences of individuals who have worked into their octogenarian years. It examines what is required to maintain a career at that age.",
+      "tags": [
+        "politics",
+        "aging",
+        "work"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e1355607c9f34f6f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Author Chimamanda Adichie accuses hospital of stalling review into son's death",
+      "url": "https://www.bbc.com/news/articles/cgk6jzkr0xvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Author Chimamanda Adichie has accused a Lagos hospital of obstructing a review into the death of her 21-month-old son. She alleges the hospital is trying to prevent an inquest into the circumstances.",
+      "tags": [
+        "nigeria",
+        "healthcare",
+        "justice"
+      ],
+      "priority": false
+    },
+    {
+      "id": "44656de17ded475f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Fifa to pay Somali referee Artan full World Cup fee",
+      "url": "https://www.bbc.com/sport/football/articles/c79y10r2plzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Somali referee Omar Artan, who was denied entry to the United States to officiate at the World Cup, will still receive his tournament fee from Fifa in full.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "39c9e656122bf57c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Lebanon says three killed in Israeli strike on Beirut suburb",
+      "url": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel says it targeted the Iran-backed Hezbollah, as Tehran warns this could derail a US-Iran deal to end the fighting.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "6a217598fd66f15d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Norway braces for verdict in rape trial of crown princess's son Høiby",
+      "url": "https://www.bbc.com/news/articles/cd95xvk4vn2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Norway is awaiting the verdict in the rape trial of Crown Princess Mette-Marit's son, Marius Borg Høiby, who faces 40 charges including four counts of rape. He will appear via video link for the verdict.",
+      "tags": [
+        "norway",
+        "royalty",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b5bd8f4897d8457f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Russian families use AI to 'resurrect' loved ones killed in Ukraine",
+      "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
+      "summary": "Russian families are controversially using new AI technologies to \"resurrect\" loved ones killed in Ukraine, creating digital representations. This trend explores the intersection of grief, war, and emerging AI capabilities.",
+      "tags": [
+        "ai",
+        "ethics",
+        "russia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a43b5c4bfda55da5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Swiss voters reject 10 million population cap, early projections say",
+      "url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Early projections indicate that Swiss voters have rejected a proposal to cap the country's population at 10 million, with approximately 55% voting against the measure. Not all votes have been counted, but the trend is clear.",
+      "tags": [
+        "switzerland",
+        "immigration",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f211a023474324d8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Teen shot and buses torched in Manhattan after historic NBA win for Knicks",
+      "url": "https://www.bbc.com/news/articles/c8623n5pq2vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Following a historic NBA win for the Knicks, disorder erupted in Manhattan, leading to a teenager being shot and buses torched. At least 63 people were arrested amidst the celebrations.",
+      "tags": [
+        "sports",
+        "crime",
+        "new york"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bb9999232f82ae50",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Tourist train overturns and injures 17 during Cártama tapas festival",
+      "url": "https://www.bbc.com/news/articles/c14yn10jzyeo?at_medium=RSS&at_campaign=rss",
+      "summary": "A tourist train overturned during a tapas festival in Cártama, Spain, resulting in injuries to 17 people, though no serious harm was reported. Local authorities confirm the accident occurred in the Spanish town.",
+      "tags": [
+        "spain",
+        "accident",
+        "tourism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "37a83c0bea0f4df8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+      "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president's comments come as Iran says an exact date has not been decided.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "de0291f4fe3caa9f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "UK and Japan agree £18bn investment deal",
+      "url": "https://www.bbc.com/news/articles/cx2kjwgwxwlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK and Japan have agreed on an £18 billion investment deal, with Japanese firms committing billions to UK infrastructure and offshore wind projects. Downing Street announced this significant economic partnership.",
+      "tags": [
+        "uk",
+        "japan",
+        "investment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "46cf60f054a24a18",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US kills leader of Venezuela's Tren de Aragua gang in air strike, Trump says",
+      "url": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
+      "summary": "President Trump announced that the US killed Niño Guerrero, leader of Venezuela's Tren de Aragua gang, in an air strike. He described the action as a \"swift and lethal kinetic strike.\"",
+      "tags": [
+        "venezuela",
+        "crime",
+        "us policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6d47cab40668b635",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online",
+      "url": "https://www.bbc.com/news/articles/cpq3dnr5vlzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Young people are increasingly turning to \"virtual parents\" – middle-aged content creators online – because their biological parents are perceived as never being satisfied. This niche trend offers a source of online validation and support.",
+      "tags": [
+        "social media",
+        "psychology",
+        "youth culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f4ac2291fd717c8d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why the US economy keeps defying the odds",
+      "url": "https://www.bbc.com/news/articles/cwy031el03po?at_medium=RSS&at_campaign=rss",
+      "summary": "The American economy continues to outperform many global peers despite facing similar international shocks. This resilience prompts questions about the underlying factors contributing to its sustained strength.",
+      "tags": [
+        "economy",
+        "us",
+        "finance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "00236eb661733923",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Don't trust large context windows",
+      "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
+      "summary": "Article URL:\nhttps://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows\nComments URL:\nhttps://news.ycombinator.com/item?id=48524620\nPoints: 195\n# Comments: 144",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "6dc2a9f9b108b4b1",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
+      "url": "https://sqltoerdiagram.com/",
+      "summary": "A free web-based tool for converting SQL to ER diagrams is available, designed to run entirely in the browser without uploading user data. This ensures privacy while generating entity-relationship diagrams from SQL schemas.",
+      "tags": [
+        "sql",
+        "databases",
+        "development tools"
+      ],
+      "priority": false
+    },
+    {
+      "id": "612f22fd1efa329d",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Honda Civics and the Evil Valet",
+      "url": "https://juniperspring.org/posts/honda-evil-valet/",
+      "summary": "This Hacker News post discusses \"Honda Civics and the Evil Valet,\" likely referencing a previous topic about reverse-engineering Honda Civic infotainment systems. The discussion garnered 352 points and 81 comments.",
+      "tags": [
+        "automotive",
+        "security",
+        "hacking"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7ce85fdbcf59da1e",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "How to Earn a Billion Dollars",
+      "url": "https://paulgraham.com/earn.html",
+      "summary": "This Hacker News post links to an article by Paul Graham titled \"How to Earn a Billion Dollars.\" The discussion surrounding it has generated 176 points and 452 comments.",
+      "tags": [
+        "entrepreneurship",
+        "finance",
+        "wealth"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f5e9f33052cc2a01",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Pac-Man, but you're the ghost",
+      "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
+      "summary": "A Hacker News post introduces a game concept where players experience Pac-Man from the perspective of a ghost. The post links to an article describing this alternative gameplay.",
+      "tags": [
+        "gaming",
+        "retro gaming",
+        "software development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c77d275793efdf52",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "A Lebanon town's grief in the aftermath of a deadly Israeli airstrike",
+      "url": "https://www.npr.org/2026/06/13/nx-s1-5848614/a-lebanon-towns-grief-in-the-aftermath-of-a-deadly-israeli-airstrike",
+      "summary": "A Lebanese village is grieving after a deadly Israeli airstrike last month killed 14 people, including 10 women and children. Over 3,700 people in Lebanon have died in the ongoing war between Israel and Hezbollah.",
+      "tags": [
+        "lebanon",
+        "israel",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "df18527590409341",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "As Bay Area hosts World Cup, empty red seats are everywhere at Levi's Stadium",
+      "url": "https://www.npr.org/2026/06/13/g-s1-128068/bay-area-world-cup-empty-red-seats-levis-stadium",
+      "summary": "On Friday, FIFA blamed the empty seats during the World Cup match between South Korea and the Czech Republic in Guadalajara on fans who watched from the concourses. Levi's Stadium staged the Super Bowl only four months ago.\n(Image credit: Eakin Howard)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "ed5a7e5672c820b3",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Britain detains sanctioned oil tanker believed to be linked to Russia's shadow fleet",
+      "url": "https://www.npr.org/2026/06/14/nx-s1-5857587/britain-detains-sanctioned-oil-tanker-believed-linked-to-russias-shadow-fleet",
+      "summary": "Britain has detained a sanctioned oil tanker suspected of belonging to Russia's \"shadow fleet,\" which is believed to be shipping oil in violation of international sanctions. An investigation is underway into the vessel's activities related to Moscow's war on Ukraine.",
+      "tags": [
+        "sanctions",
+        "russia",
+        "shipping"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7541e74f19f6432a",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Here's who's missing at the World Cup: Soccer-playing grannies!",
+      "url": "https://www.npr.org/2026/06/14/g-s1-127865/world-cup-soccer-grannies",
+      "summary": "Beyond the main World Cup, the Grannies International Football Tournament showcases soccer-playing grandmothers globally. This event highlights diverse forms of international soccer beyond the official tournament.",
+      "tags": [
+        "soccer",
+        "sports",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "81e7d7b073e271dd",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Police investigate theft of England equipment at World Cup, 2 people in custody",
+      "url": "https://www.npr.org/2026/06/13/g-s1-128070/police-investigate-england-equipment-world-cup-kansas-city-florida",
+      "summary": "Two people have been detained in connection with the theft of equipment from the England national team's vehicles during their move from a pre-training base in Florida to Kansas City, where they have their permanent World Cup base camp.\n(Image credit: Rebecca Blackwell)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "0bf5b0fbd03da438",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump says deal to end Iran war will be signed Sunday, as Iran disagrees on timing",
+      "url": "https://www.npr.org/2026/06/13/nx-s1-5857149/trump-iran-war-peace-deal",
+      "summary": "Pakistan's prime minister, a key mediator in U.S.-Iran talks to end the war, said Saturday that a peace deal was closer \"than ever before,\" and could be finalized \"in the next 24 hours.\"\n(Image credit: Razieh Poudat)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "34380e75e5ec223d",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump's UFC fights bring historic spectacle to White House",
+      "url": "https://www.npr.org/2026/06/14/nx-s1-5854962/trump-ufc-white-house-fights",
+      "summary": "Seven cage fights will be held on the White House grounds in honor of the nation's upcoming 250th anniversary.\n(Image credit: ANNE LEBRETON)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "e35332312c232caf",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Iranian ambassador at World Cup: ‘Iran and the U.S. can be very good friends’",
+      "url": "https://www.politico.com/live-updates/2026/06/13/world-cup-2026/iran-ambassador-mexico-abolfazl-pasandideh-00961408",
+      "summary": "MEXICO CITY, Mexico — The first booth World Cup fans encounter at the global fan expo in Mexico City’s Chapultepec Park belongs to Iran.\nInside, women in colorful headscarves serve sambuseh, a traditional Persian pastry, alongside stuffed dates. Persian rugs hang beside vases. Th…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "1e11e2c0ff260657",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Macron dreams of burnishing his legacy via French World Cup glory",
+      "url": "https://www.politico.com/live-updates/2026/06/13/world-cup-2026/emmanuel-macron-kylian-mbappe-french-team-00961476",
+      "summary": "Kylian Mbappé and the French national soccer team are dreaming of winning the World Cup for the third time.\nFor France’s lame-duck president, Emmanuel Macron, it’ll be one final chance to draft off soccer success in a way he’s so far failed to achieve.\n“When it comes to football,…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "6d4e47ced2a6cc53",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Secretive super PAC funding is skyrocketing in primaries",
+      "url": "https://www.politico.com/news/2026/06/14/super-pacs-campaign-finance-2026-primaries-00960808",
+      "summary": "Secretive super PAC funding has surged in this year's primary elections, with over $48 million spent without disclosing donors until after the races. These groups exploit campaign finance law gaps to influence elections by spending large, undisclosed sums in crucial final days.",
+      "tags": [
+        "campaign finance",
+        "us politics",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "679ff60c8e3dbc22",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Top Democrats watch Brazil-Morocco match – together",
+      "url": "https://www.politico.com/live-updates/2026/06/13/world-cup-2026/top-dems-watch-match-together-00961531",
+      "summary": "After months of planning, some griping and a few tit-for-tats, the three top Democrats from New York and New Jersey showed up to watch the World Cup — together.\nNew Jersey Gov. Mikie Sherrill, New York Gov. Kathy Hochul and New York City Mayor Zohran Mamdani are all attending thi…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "cc5129b6aa4657a3",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Trump’s name purged from Kennedy Center",
+      "url": "https://www.politico.com/news/2026/06/13/trumps-name-kennedy-center-00961458",
+      "summary": "President Donald Trump’s name was removed from the facade of the Kennedy Center on Saturday, capping off the president’s longtime effort to assert control over the institution, one of Washington’s most iconic cultural landmarks.\nIn a Saturday\ncourt filing to the U.S. District Cou…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "2c148692b905ef34",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "What FIFA calls 'New York New Jersey'",
+      "url": "https://www.politico.com/live-updates/2026/06/13/world-cup-2026/new-york-new-jersey-hochul-sherrill-00961495",
+      "summary": "Where is the World Cup being played again?\nIn the northeastern United States, eight World Cup games, including the final, will be played in what FIFA calls \"New York New Jersey.\" But elected leaders from this portmanteau place are jostling over where exactly it is.\nThe state of N…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "e1ef5c3668d0da77",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "luau-wasm 0.1a0",
+      "url": "https://simonwillison.net/2026/Jun/13/luau-wasm/#atom-everything",
+      "summary": "This post announces the release of luau-wasm 0.1a0, referring to a separate detailed article for more information. The project involves Lua and WebAssembly, likely for Python use via Pyodide.",
+      "tags": [
+        "lua",
+        "webassembly",
+        "pyodide"
+      ],
+      "priority": false
+    },
+    {
+      "id": "495f575554dcf78f",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Mapping SQLite result columns back to their source `table.column`",
+      "url": "https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything",
+      "summary": "Research:\nMapping SQLite result columns back to their source `table.column`\nIt would be neat if arbitrary SQL queries in\nDatasette\ncould be rendered with additional information based on which columns from which tables were included in the results.\nTo build that, we would need to…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "0fc97f2c3aae1ef3",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Publishing WASM wheels to PyPI for use with Pyodide",
+      "url": "https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything",
+      "summary": "PyPI now supports publishing Python packages built for Pyodide (WASM wheels) directly, simplifying distribution for Pyodide-compatible runtimes. This development significantly reduces the maintenance burden on Pyodide maintainers and enables easier deployment of C or Rust extensions compiled to WebAssembly.",
+      "tags": [
+        "python",
+        "webassembly",
+        "pypi"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b32157fa6b91a7db",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Saturday discussion post",
+      "url": "https://www.slowboring.com/p/saturday-discussion-post-50b",
+      "summary": "This is a Saturday discussion post on Slow Boring, accompanied by a photo from Washington. The content encourages reader interaction and provides a general update.",
+      "tags": [
+        "commentary",
+        "blog",
+        "discussion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f12938bd7f83fadd",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "As Anthropic suspends access to new models, India debates its AI future",
+      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "9fead842fc99151d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "summary": "Once again, AI proves to be an unreliable source of information about AI.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "054bdf2c6b71ebbe",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+      "summary": "Meta is reportedly unwinding its $2 billion Manus acquisition after Beijing demanded the deal be reversed. The company has begun dismantling the acquisition following the Chinese government's order.",
+      "tags": [
+        "mergers",
+        "china",
+        "tech policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7e69237a386f3b75",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The new Sonos Play has become my go-to desk and kitchen speaker",
+      "url": "https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/",
+      "summary": "The new Sonos Play speaker has become a popular choice for both desk and kitchen use due to its versatility. It can function as a portable speaker for both indoor and outdoor environments.",
+      "tags": [
+        "audio",
+        "speakers",
+        "home tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "efdc16fe7b14d5eb",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "This thin under-pillow speaker helped me fall asleep without earbuds",
+      "url": "https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/",
+      "summary": "An under-pillow speaker has helped alleviate insomnia by providing audio for sleep without the discomfort of earbuds. This device allows users to occupy their minds with sounds like podcasts or rain without disturbing others.",
+      "tags": [
+        "sleep tech",
+        "audio",
+        "wellness"
+      ],
+      "priority": false
+    },
+    {
+      "id": "226ac01674c6e2e5",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "Nick Cave on the Two Pillars of a Meaningful Life",
+      "url": "https://www.themarginalian.org/2026/06/13/nick-cave-humility-curiosity/",
+      "summary": "Nick Cave identifies humility and curiosity as the two essential pillars for a meaningful life in a \"bizarre and temporary world.\" He posits that humility fosters tolerance and acceptance, while curiosity enriches our relationship with others and the world by transforming the threatening into the interesting.",
+      "tags": [
+        "philosophy",
+        "wisdom",
+        "personal growth"
+      ],
+      "priority": false
+    },
+    {
+      "id": "afc533b7b05be0c9",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Bose’s latest QuietComfort Ultra are $70 off, marking a new low price",
+      "url": "https://www.theverge.com/gadgets/949190/bose-quietcomfort-ultra-headphones-deal-sale",
+      "summary": "Bose's second-generation QuietComfort Ultra headphones are now $70 off, reaching a new low price of $379 at multiple retailers. These headphones offer improved noise cancellation, lossless audio support, better battery life, and enhanced features for travel and immersive audio experiences.",
+      "tags": [
+        "headphones",
+        "audio",
+        "deals"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c74865a54dbbe202",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Microsoft hasn’t ruled out spinning off Xbox",
+      "url": "https://www.theverge.com/games/949584/microsoft-spinning-off-xbox",
+      "summary": "Microsoft is considering drastic measures to make its Xbox unit more sustainable, including spinning it off into a separate company, a wholly owned subsidiary, or a joint venture. This comes amidst significant layoffs within the Xbox division and a reevaluation of future console plans.",
+      "tags": [
+        "gaming",
+        "business",
+        "microsoft"
+      ],
+      "priority": false
+    },
+    {
+      "id": "deee38a0264f6441",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Sealed Super Mario Bros. sells for a record $3 million",
+      "url": "https://www.theverge.com/games/949593/super-mario-bros-3-million-auction",
+      "summary": "A sealed 1985 copy of Super Mario Bros., featuring a rare glossy sticker seal, was auctioned for a record $3 million, surpassing previous records. Its unique sealing method and status as the earliest known sealed copy contributed significantly to its high price.",
+      "tags": [
+        "gaming",
+        "auction",
+        "collectibles"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bfb3f3cebf8bf4dd",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Solid-state batteries still aren’t ready, but gels are",
+      "url": "https://www.theverge.com/column/948594/solid-state-batteries-semi-solid-state",
+      "summary": "Traditional lithium-ion batteries pose public safety hazards due to volatile liquid electrolytes, leading to incidents like exploding e-bikes and combusting power banks. While solid-state batteries are not yet ready, semi-solid gel electrolytes offer a safer alternative that is gaining traction.",
+      "tags": [
+        "batteries",
+        "energy",
+        "safety"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a84eec01175bf6f1",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The impossible dream of the universal remote",
+      "url": "https://www.theverge.com/podcast/949620/harmony-universal-remote-version-history",
+      "summary": "The Harmony universal remote, once a market leader, ultimately failed to achieve the enduring ideal of a single device controlling all electronics. This highlights the inherent difficulty in creating a truly universal solution for complex home entertainment systems.",
+      "tags": [
+        "remotes",
+        "consumer electronics",
+        "tech history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "92d11d246bd8d066",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "X-Men ’97 has what Master of the Universe is missing",
+      "url": "https://www.theverge.com/entertainment/947064/xmen-97-season-2-disney-plus-marvel-masters-of-the-universe-mattel",
+      "summary": "Marvel's X-Men '97 and Mattel's Masters of the Universe are both nostalgia-driven projects capitalizing on childhood animated heroes. However, X-Men '97 succeeds where Masters of the Universe falters, largely due to differences in their approach to honoring the source material.",
+      "tags": [
+        "entertainment",
+        "animation",
+        "nostalgia"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 62,
+    "summarized": 50,
+    "skipped_promos": 0,
+    "filtered_by_rules": 12,
+    "sources": 9,
+    "email_items_omitted": 0
+  }
+}
