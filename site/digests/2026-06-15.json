@@ -1,0 +1,957 @@
+{
+  "date": "2026-06-15",
+  "generated_at": "2026-06-15T18:23:18+00:00",
+  "hot_topics": [
+    {
+      "topic": "UK announces ban on social media for under-16s",
+      "synthesis": "The UK government, following Australia's lead, announced a sweeping ban on social media for children under 16, set to take effect early next year. This policy, championed by Prime Minister Keir Starmer, aims to address concerns about cyberbullying, addiction, and exposure to predators on platforms like TikTok, Instagram, and YouTube. The move signifies a growing global trend to tighten online safety regulations for minors.",
+      "item_ids": [
+        "fe9c6195a600a393",
+        "a8df69529eb6223c",
+        "a702dc2500b23392",
+        "e5b84e28c028f721",
+        "f22b0e783b9daba7"
+      ]
+    },
+    {
+      "topic": "Fox acquires Roku in a $22 billion deal",
+      "synthesis": "Fox announced its acquisition of Roku for $22 billion, a strategic move expected to integrate Fox's content and Tubi streamer with Roku's streaming devices and smart TV software. This deal aims to create the third-largest player in the US TV industry by viewing share. The combined entity will likely promote Fox content more prominently on Roku platforms.",
+      "item_ids": [
+        "ae372d88d5bdbb9d",
+        "9faa53a56607a078",
+        "1682a5e5916669a4"
+      ]
+    },
+    {
+      "topic": "US and Iran announce deal to end conflict",
+      "synthesis": "The United States and Iran have announced a deal to end their conflict, reopening the Strait of Hormuz. While hailed as a major breakthrough, the agreement leaves thousands dead and several critical issues unresolved for future negotiations. The long-term impact on regional stability, particularly for Lebanon and Israel, remains uncertain, with previous ceasefires in the region failing to hold.",
+      "item_ids": [
+        "25625b83e3e1c273",
+        "db9ca7c8ce10b271",
+        "cb03b894b94d1183",
+        "613c2184f5b87b16",
+        "a6dd7def4ec208f2"
+      ]
+    },
+    {
+      "topic": "Salesforce acquires AI customer service platform Fin",
+      "synthesis": "Salesforce has acquired the AI customer service platform Fin for $3.6 billion. The acquisition aims to integrate Fin's team and technology into Salesforce's existing Agentforce platform, enhancing its capabilities for building custom AI agents. This strategic move is expected to automate tasks and improve enterprise customer service.",
+      "item_ids": [
+        "befb61f982d28e49",
+        "220cf594c43c458b"
+      ]
+    },
+    {
+      "topic": "Debate on AI's impact on employment and job security",
+      "synthesis": "Despite growing concerns about job displacement, evidence suggests AI is not causing mass layoffs among software engineers, as the core of their work involves human understanding, problem-solving, and accountability beyond mere coding. However, a \"powder keg\" dynamic is emerging, where a small cohort of AI insiders is amassing significant wealth while other sectors face job cuts. This highlights a widening economic disparity alongside technological advancements.",
+      "item_ids": [
+        "4de228866a86689a",
+        "446576e0c4e14d10"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "d523bb44975389f6",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "F1 in Spain: An old-fashioned strategy fight can still be thrilling",
+      "url": "https://arstechnica.com/cars/2026/06/f1-in-spain-an-old-fashioned-strategy-fight-can-still-be-thrilling/",
+      "summary": "The Spanish Grand Prix highlighted how tire wear and pit stop strategy, specifically the \"undercut,\" remain crucial to thrilling Formula 1 races, despite recent seasons favoring one-stop strategies. The Barcelona-Catalunya circuit's abrasive surface and high downforce requirements led to a tactical battle involving three or four stints.",
+      "tags": [
+        "f1",
+        "racing",
+        "strategy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8f73d7047cf53ead",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'Spider-Man of Yemen' dies falling into volcanic crater",
+      "url": "https://www.bbc.com/news/articles/c39yvz9w8k3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Al-Qaqa Ibn Antar, known as the \"Spider-Man of Yemen,\" died after falling into a volcanic crater while attempting to climb its walls without safety equipment. Local authorities confirmed the tragic death of the renowned climber.",
+      "tags": [
+        "yemen",
+        "accident",
+        "climbing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "25625b83e3e1c273",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
+      "url": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
+      "summary": "The deal to end fighting and re-open the Strait of Hormuz leaves the sides where they were 24 hours before the war - only with thousands now dead.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "23994c6e6cbcd5f4",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Brazil woman dies after rope-jumping instructors fail to attach cord",
+      "url": "https://www.bbc.com/news/articles/c5yz4xelnveo?at_medium=RSS&at_campaign=rss",
+      "summary": "A woman in Brazil died during a rope-jumping activity after instructors failed to attach a safety cord before she jumped from a bridge, leading to the arrest of three individuals. This tragic incident highlights severe negligence in extreme sports.",
+      "tags": [
+        "brazil",
+        "accident",
+        "safety"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3b13e09229130d6b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "China detains two leaders of influential underground church",
+      "url": "https://www.bbc.com/news/articles/ce9582vlm83o?at_medium=RSS&at_campaign=rss",
+      "summary": "Chinese authorities detained two leaders of the influential Early Rain Covenant Church and interrogated over 30 members during a Sunday service. This action signals continued government crackdown on unregistered religious groups.",
+      "tags": [
+        "china",
+        "religion",
+        "human rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b5dda5ec0df065bd",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Delhi's temperature showed 43.5C. Why did it feel hotter?",
+      "url": "https://www.bbc.com/news/articles/c62173jqd4wo?at_medium=RSS&at_campaign=rss",
+      "summary": "An investigation in Delhi used a thermal camera to measure surface temperatures, explaining why 43.5°C felt much hotter than reported. The study revealed significant disparities between air and surface temperatures, indoors and outdoors.",
+      "tags": [
+        "climate",
+        "india",
+        "science"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ebb668155cf8f58a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Fifa seeks explanation over VAR official's hand gesture",
+      "url": "https://www.bbc.com/sport/football/articles/cy9rd8g1lwzo?at_medium=RSS&at_campaign=rss",
+      "summary": "FIFA is requesting an explanation regarding a hand gesture made by VAR official Shaun Evans before Germany's 7-1 victory over Curacao. The gesture has prompted scrutiny and questions from the governing body.",
+      "tags": [
+        "football",
+        "fifa",
+        "controversy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0b68e23d6ef42b82",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Is the convertible heading into the sunset?",
+      "url": "https://www.bbc.com/news/articles/cx212yy4er0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The article explores the declining popularity of convertible cars as UK drivers increasingly favor SUVs, questioning if the convertible's fate could be reversed. It examines current automotive trends and consumer preferences.",
+      "tags": [
+        "automotive",
+        "trends",
+        "uk"
+      ],
+      "priority": false
+    },
+    {
+      "id": "621ada692f8281a6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "MSF staff abused Sudanese refugees in sex-for-food scandal",
+      "url": "https://www.bbc.com/news/articles/c74ykjl8mx3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Staff members from Doctors Without Borders (MSF) abused Sudanese refugees in a sex-for-food scandal, with some victims fearing to speak out due to concerns about losing access to aid. This reveals a serious breach of trust and safeguarding within humanitarian operations.",
+      "tags": [
+        "sudan",
+        "human rights",
+        "aid"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a786d9523e8358d3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Norwegian crown princess's son found guilty of two counts of rape",
+      "url": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Marius Borg Høiby, the 29-year-old son of Norway's Crown Princess Mette Marit, has been found guilty of two counts of rape and sentenced to four years in jail. This ruling follows a high-profile legal case involving a member of the royal family.",
+      "tags": [
+        "europe",
+        "crime",
+        "royalty"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d6c1a7684b94430b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Olé, olé, olé, olé - What makes a memorable World Cup song?",
+      "url": "https://www.bbc.com/news/articles/c5yz434v7nro?at_medium=RSS&at_campaign=rss",
+      "summary": "The article delves into the elements that make a World Cup song memorable, referencing Northern Ireland's contributions to past tournaments. It explores the cultural impact and characteristics of popular football anthems.",
+      "tags": [
+        "music",
+        "football",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cc97f0abe890082b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Protesters clash with police ahead of G7 summit in France",
+      "url": "https://www.bbc.com/news/videos/crkvek3dnrgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Protesters clashed with police in France ahead of the G7 summit, with Swiss police deploying water cannons and tear gas to disperse anti-G7 demonstrators. The incidents highlight rising tensions surrounding the international meeting.",
+      "tags": [
+        "protest",
+        "g7",
+        "france"
+      ],
+      "priority": false
+    },
+    {
+      "id": "82d8b2e16bfc6da9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
+      "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Russian strikes in Kyiv killed 11 people and caused a historic cathedral to catch fire, while a Ukrainian drone attack in Tula, Russia, killed three. These incidents highlight the ongoing escalation and reciprocal attacks in the conflict.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "11d556dd468ecd56",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "South African jazz legend Abdullah Ibrahim dies at 91",
+      "url": "https://www.bbc.com/news/articles/cy5vngrq3q5o?at_medium=RSS&at_campaign=rss",
+      "summary": "South African jazz legend Abdullah Ibrahim has died at the age of 91, concluding a career that spanned eight decades and helped define a genre of South African jazz music. His passing marks the end of an era for a pivotal figure in music.",
+      "tags": [
+        "music",
+        "jazz",
+        "south africa"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8726dcc34c48f7c2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "South African TV star arrested after allegedly kidnapping man in girlfriend dispute",
+      "url": "https://www.bbc.com/news/articles/crelw9xwvr7o?at_medium=RSS&at_campaign=rss",
+      "summary": "South African TV personality Molemo \"Jub Jub\" Maarohanye was arrested on suspicion of kidnapping a taxi driver and firing a gun during a dispute involving his girlfriend. The incident has led to a high-profile arrest.",
+      "tags": [
+        "south africa",
+        "crime",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8c43cd680452e410",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "South Korea's Starbucks to shut for staff history lesson after backlash",
+      "url": "https://www.bbc.com/news/articles/ckg4n3pyjg9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Starbucks in South Korea will temporarily close for a staff history lesson following a backlash over a \"Tank Day\" marketing ploy that coincided with the anniversary of a military massacre. The company aims to address criticism and educate employees.",
+      "tags": [
+        "south korea",
+        "corporate",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "aa773b1557b0d5e5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Swiss voters reject 10 million population cap",
+      "url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Swiss voters rejected a proposal to cap the country's population at 10 million by reducing migration, with nearly 55% voting against it. This decision maintains Switzerland's current immigration policies.",
+      "tags": [
+        "switzerland",
+        "policy",
+        "immigration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d4d97d4c1abf77f5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump and thousands of others watch UFC fight on White House lawn",
+      "url": "https://www.bbc.com/news/articles/c892xnwg5vlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump, along with thousands of others, watched a UFC fight on the White House lawn, where Justin Gaethje won the lightweight championship. This event brought a major sporting event to the presidential residence.",
+      "tags": [
+        "politics",
+        "sport",
+        "trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "db9ca7c8ce10b271",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Unclear if US-Iran agreement will provide respite to Lebanon",
+      "url": "https://www.bbc.com/news/articles/cd952n4qz2qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pakistan says the deal includes Lebanon, but recent ceasefires there have failed to take hold.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "bc5eb384df6e4a51",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US musician Oliver Tree dies in helicopter collision in Brazil",
+      "url": "https://www.bbc.com/news/articles/cqj1dd5rgnzo?at_medium=RSS&at_campaign=rss",
+      "summary": "US singer-songwriter Oliver Tree is presumed dead along with five others after a helicopter collision over Rio de Janeiro on Sunday. This tragic air crash has led to a significant loss of life.",
+      "tags": [
+        "music",
+        "accident",
+        "brazil"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cb03b894b94d1183",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: What does the US-Iran deal to end war mean for Lebanon and Israel?",
+      "url": "https://www.bbc.com/news/videos/cg4wk2z6n74o?at_medium=RSS&at_campaign=rss",
+      "summary": "It's not clear if the deal means the Israelis will pause their offensive in Lebanon, BBC international editor Jeremy Bowen reports.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "a042683a3f5d7e41",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why I sold my business to my staff",
+      "url": "https://www.bbc.com/news/articles/c0ey87z1ggjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The piece discusses the increasing trend in the US where business owners nearing retirement age sell their companies to their employees. This approach offers an alternative to traditional sales, fostering employee ownership.",
+      "tags": [
+        "business",
+        "employment",
+        "us"
+      ],
+      "priority": false
+    },
+    {
+      "id": "116118393bbe0df5",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Apple Foundation Models",
+      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
+      "summary": "Details regarding Apple Foundation Models have been released, indicating Apple's foray into advanced AI model development. The documentation provides insights into their capabilities and usage.",
+      "tags": [
+        "apple",
+        "ai",
+        "models"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c90872e22b14d44f",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "CrankGPT",
+      "url": "https://crankgpt.com",
+      "summary": "CrankGPT has been announced, providing a new offering in the AI or language model space. More information can be found on its official website.",
+      "tags": [
+        "ai",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0e76fc4102a5c09f",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Even more batteries included with Emacs",
+      "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+      "summary": "The Emacs text editor continues to expand its built-in functionalities and features. This update signifies ongoing development to provide more tools directly within the editor.",
+      "tags": [
+        "emacs",
+        "software",
+        "development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1682a5e5916669a4",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Fox to buy Roku",
+      "url": "https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9",
+      "summary": "Article URL:\nhttps://www.wsj.com/business/deals/fox-roku-deal-f6e564f9\nComments URL:\nhttps://news.ycombinator.com/item?id=48540499\nPoints: 162\n# Comments: 219",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "112e363c8abd445e",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Iroh 1.0",
+      "url": "https://www.iroh.computer/blog/v1",
+      "summary": "Iroh 1.0 has been released, marking a significant milestone for the project. Further details about its features and capabilities are available in the linked blog post.",
+      "tags": [
+        "software",
+        "release"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e8a070fbfb10d574",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Openrouter Fusion API",
+      "url": "https://openrouter.ai/openrouter/fusion",
+      "summary": "Openrouter has introduced its Fusion API, suggesting an advancement in integrating various routing functionalities. This new API aims to enhance developer capabilities.",
+      "tags": [
+        "api",
+        "software",
+        "development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "220cf594c43c458b",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6B",
+      "url": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
+      "summary": "Article URL:\nhttps://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL\nComments URL:\nhttps://news.ycombinator.com/item?id=48540126\nPoints: 227\n# Comments: 181",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "e5dcfd80ba882751",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+      "url": "https://github.com/tamnd/kage",
+      "summary": "Kage is a new project that allows users to shadow or capture any website into a single binary for offline viewing. This tool provides a convenient way to access web content without an internet connection.",
+      "tags": [
+        "web",
+        "software",
+        "tools"
+      ],
+      "priority": false
+    },
+    {
+      "id": "177b750b4477605c",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "What happened to nerds?",
+      "url": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
+      "summary": "An article explores the changing perception and role of \"nerds\" in contemporary society. The discussion likely delves into how the archetype has evolved over time.",
+      "tags": [
+        "culture",
+        "society"
+      ],
+      "priority": false
+    },
+    {
+      "id": "44c5689043049237",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Your ePub Is fine",
+      "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+      "summary": "An article discusses issues related to ePub files, suggesting that problems often attributed to ePubs might stem from disagreements between platforms like Kobo and underlying Adobe technology. It implies that standard ePub files are generally reliable.",
+      "tags": [
+        "epub",
+        "software",
+        "ebooks"
+      ],
+      "priority": false
+    },
+    {
+      "id": "803d51eacd37404b",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
+      "url": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
+      "summary": "Casey Harrell, paralyzed with ALS, has become the \"first power user\" of a brain-computer interface (BCI) that enables him to speak and operate a computer, clocking over 3,800 hours of independent use. The BCI decodes speech motor cortex activity into words, with high accuracy, and has been enhanced with features like privacy mode and a profanity filter.",
+      "tags": [
+        "bci",
+        "als",
+        "medical technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9f5690f2a009f21c",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "As Luigi Mangione's lawyers head to court, support grows for the accused 'vigilante'",
+      "url": "https://www.npr.org/2026/06/15/nx-s1-5853110/luigi-mangione-court-hearings-growing-support",
+      "summary": "Luigi Mangione's legal team is in court for a pretrial hearing as support, including $1.5 million in donations, grows for the accused \"vigilante\" who is charged with stalking and killing an insurance CEO. The case continues to attract public attention and funding for his defense.",
+      "tags": [
+        "legal",
+        "crime",
+        "us"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43ceaa77c3344cc9",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "As the U.S. turns 250, this historian has blunt advice: 'America has to grow up'",
+      "url": "https://www.npr.org/2026/06/15/nx-s1-5856348/america-250-eddie-glaude",
+      "summary": "Princeton historian Eddie Glaude Jr. argues that as the U.S. approaches its 250th anniversary, the nation needs to \"grow up\" and confront its \"divided soul,\" as explored in his book *America, U.S.A.* His analysis looks at the country through its historical anniversaries.",
+      "tags": [
+        "us",
+        "history",
+        "society"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f22b0e783b9daba7",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Britain will ban under-16s from social media apps, including TikTok and YouTube",
+      "url": "https://www.npr.org/2026/06/15/nx-s1-5858644/britain-social-media-ban",
+      "summary": "The ban will apply to platforms including Snapchat, TikTok, YouTube, Instagram, Facebook and X. The move makes the U.K. part of a growing global movement to tighten online safety for children.\n(Image credit: Carlos Jasso)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "ee2a06ee4cb15fed",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Do internet super stars matter in elections?",
+      "url": "https://www.npr.org/2026/06/15/nx-s1-5818654/primary-election-michigan-influencers-political-strategy-voters-hasan-piker",
+      "summary": "The article examines the mixed results of political campaigns employing internet influencers and viral moments to reach new voters in recent elections. While flashy, this strategy hasn't consistently proven effective in key races.",
+      "tags": [
+        "politics",
+        "social media",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2f1d19b899753dcd",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Former American businessman detained in Myanmar after alleged financial misconduct",
+      "url": "https://www.npr.org/2026/06/15/g-s1-128147/former-american-businessman-detained-in-myanmar-after-alleged-financial-misconduct",
+      "summary": "Adam Castillo, founder of AGS Myanmar, an American businessman, was detained at Yangon International Airport in Myanmar due to alleged financial misconduct. The U.S. State Department is aware of the situation but has not provided further comment.",
+      "tags": [
+        "myanmar",
+        "crime",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4a2f9fbca048c225",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "It's been a thrilling start to the World Cup. Here are the highlights and what's next",
+      "url": "https://www.npr.org/2026/06/15/nx-s1-5857699/2026-fifa-world-cup-week-1-highlights",
+      "summary": "The FIFA World Cup has seen a thrilling start in Mexico, Canada, and the U.S., with several surprising results during its first full week. Drama has shifted to the fields as the tournament progresses.",
+      "tags": [
+        "world cup",
+        "football",
+        "sports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d268f0e5f1ce982e",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Soccer Edition: Watch World Cup highlights from across the NPR Network",
+      "url": "https://www.npr.org/2026/06/15/g-s1-126999/soccer-edition-watch-world-cup-highlights-from-across-the-npr-network",
+      "summary": "The 2026 World Cup is currently underway, with journalists from NPR and its member stations covering the excitement and key questions in communities across the U.S. Highlights from the tournament are available across the NPR network.",
+      "tags": [
+        "world cup",
+        "football",
+        "npr"
+      ],
+      "priority": false
+    },
+    {
+      "id": "613c2184f5b87b16",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump announces deal to end war in Iran. And, how to stay safe in deadly heat",
+      "url": "https://www.npr.org/2026/06/15/g-s1-128145/up-first-newsletter-iran-war-g7-summit-ufc-fight",
+      "summary": "Trump says a deal has been reached to end the war between the U.S. and Iran. Plus, this is what extreme temperatures do to the human body — and how you can keep yourself safe.\n(Image credit: Chris Graythen)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "a6dd7def4ec208f2",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "U.S. and Iran announce a deal to end the war and reopen the Strait of Hormuz",
+      "url": "https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates",
+      "summary": "The deal is a major breakthrough in the conflict that set the Middle East aflame and shook the global economy. However, it did not resolve critical issues set aside for further negotiations.\n(Image credit: Mandel Ngan)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "62ef5ef34ccb5628",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Brian Kemp endorses Burt Jones in Georgia’s gubernatorial runoff",
+      "url": "https://www.politico.com/news/2026/06/14/kemp-endorses-burt-jones-georgia-governor-00961840",
+      "summary": "Georgia Governor Brian Kemp endorsed Lt. Governor Burt Jones in the state's GOP gubernatorial runoff, aligning with Donald Trump's preferred candidate and boosting Jones against Rick Jackson. This endorsement marks Kemp's clear attempt to influence his successor's race after months of neutrality.",
+      "tags": [
+        "politics",
+        "elections",
+        "georgia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "12ee1271aa41a781",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "FIFA or ... FISA?",
+      "url": "https://www.politico.com/live-updates/2026/06/14/world-cup-2026/fifa-fisa-football-soccer-00961822",
+      "summary": "A debate arose within POLITICO over whether to use \"football\" or \"soccer\" for the World Cup, with \"soccer\" ultimately chosen for US copy despite FIFA's name. The discussion playfully noted the potential for confusion with \"FISA\" (Foreign Intelligence Surveillance Act).",
+      "tags": [
+        "media",
+        "language",
+        "world cup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "27892e3c1c9c9294",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "The countless control rooms running the World Cup in New York and New Jersey",
+      "url": "https://www.politico.com/live-updates/2026/06/14/world-cup-2026/metlife-stadium-command-centers-fifa-world-cup-july-4-00961724",
+      "summary": "A multitude of command centers across New York and New Jersey are coordinating security and logistics for the World Cup, involving numerous agencies from state police to transit authorities. These centers will manage operations for eight matches at MetLife Stadium and for other major events like a July 4 parade.",
+      "tags": [
+        "world cup",
+        "security",
+        "logistics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ffd1f99557254f90",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Trump thinks Spain’s a ‘loser.’ Spain’s ready to prove him wrong at the World Cup.",
+      "url": "https://www.politico.com/live-updates/2026/06/14/world-cup-2026/spain-fifa-world-cup-donald-trump-00961842",
+      "summary": "Spain, co-favorites for the World Cup, aims to win the tournament to defy Donald Trump's perceived negative views on the country, adding a political dimension to the sporting event. Spanish Prime Minister Pedro Sánchez, a vocal critic of Trump, would see victory as particularly sweet.",
+      "tags": [
+        "politics",
+        "world cup",
+        "spain"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1bdd8ee3eb761167",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Why can’t we win it? Inside the Japanese embassy for Sunday’s World Cup opener.",
+      "url": "https://www.politico.com/live-updates/2026/06/14/world-cup-2026/japan-netherlands-fifa-world-cup-2026-embassy-party-00961835",
+      "summary": "The Japanese embassy hosted a World Cup watch party, highlighting how the tournament serves as a diplomatic tool to connect people and boost Japan's soft power and tourism. Despite Japan's growing cultural influence, fans hope the men's team can surpass its historical round of 16 finishes and achieve a championship.",
+      "tags": [
+        "world cup",
+        "japan",
+        "diplomacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9f8ab93e4a733855",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "How Many Elementary Particles Are There, Really?",
+      "url": "https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/",
+      "summary": "The article addresses the complex question of how many kinds of elementary particles exist, a quantity physicists often struggle to define clearly despite experiments at the Large Hadron Collider. It delves into the inherent uncertainty and ongoing discoveries in particle physics.",
+      "tags": [
+        "physics",
+        "science",
+        "particles"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b07e026cb5459329",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Julia Evans",
+      "url": "https://simonwillison.net/2026/Jun/15/julia-evans/#atom-everything",
+      "summary": "Julia Evans advises writers to focus on a specific person, often \"me, but 3 years ago\" or a good friend, when crafting their content. This approach helps to make writing more targeted and engaging.",
+      "tags": [
+        "writing",
+        "advice"
+      ],
+      "priority": false
+    },
+    {
+      "id": "446576e0c4e14d10",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Why AI hasn’t replaced software engineers, and won’t",
+      "url": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
+      "summary": "Why AI hasn’t replaced software engineers, and won’t\nArvind Narayanan and Sayash Kappor take on the question of AI job losses through the lens of a profession that is uniquely suited to AI disruption - software engineering.\nIn this essay, we argue that there is enough evidence to…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "2f2dd5b3744b2ded",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "A satellite just learned to find things on its own — here’s what that means",
+      "url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
+      "summary": "For the first time ever, an Earth observation satellite independently located its target in April. This advancement indicates a significant step towards autonomous object detection capabilities in space technology.",
+      "tags": [
+        "space",
+        "ai",
+        "satellite"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9faa53a56607a078",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Fox to acquire Roku in $22B deal",
+      "url": "https://techcrunch.com/2026/06/15/fox-to-acquire-roku-in-22-billion-deal/",
+      "summary": "Fox says the deal will create the third-largest television company in the United States.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "bedf1b4f666e1385",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Orbio raises $21 million to automate hiring and onboarding for frontline workers",
+      "url": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/",
+      "summary": "Orbio secured $21 million in Series A funding, led by Dawn Capital, to further develop its platform for automating the hiring and onboarding processes for frontline workers. This investment supports the expansion of AI solutions in human resources.",
+      "tags": [
+        "hr",
+        "ai",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "befb61f982d28e49",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+      "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+      "summary": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "ed292d75fdd9fc78",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
+      "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+      "summary": "Sarvam has become India’s latest AI unicorn after securing a $234 million funding round, with Indian IT services company HCLTech investing $150 million. This significant investment highlights the growing valuation of AI startups in India.",
+      "tags": [
+        "ai",
+        "funding",
+        "india"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5e2271453c63971a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Startup CEO Charlie Javice is reportedly angling for a Trump pardon",
+      "url": "https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/",
+      "summary": "Startup CEO Charlie Javice is reportedly seeking a pardon from Donald Trump, a development that is unlikely to please JPMorgan. Javice faces legal issues that may benefit from political intervention.",
+      "tags": [
+        "legal",
+        "politics",
+        "trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4de228866a86689a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The AI layoff wave is becoming a powder keg",
+      "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+      "summary": "At the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "a8df69529eb6223c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "These are the countries moving to ban social media for children",
+      "url": "https://techcrunch.com/2026/06/15/social-media-ban-children-countries-list/",
+      "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "e5b84e28c028f721",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "UK may ban social media for children under 16",
+      "url": "https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/",
+      "summary": "The U.K. seems to be following Australia's lead in banning a wide swath of social media for teens.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "a702dc2500b23392",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "UK unveils sweeping social media ban for users under 16",
+      "url": "https://techcrunch.com/2026/06/15/uk-unveils-sweeping-social-media-ban-for-users-under-16/",
+      "summary": "The ban would apply to a range of social media platforms, including Snapchat, TikTok, YouTube, Instagram, Facebook, and X.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "84d8148505d3113d",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Coleman Hughes vs. Peter Beinart Debate: Should Israel Be a Jewish State?",
+      "url": "https://www.thefp.com/p/coleman-hughes-vs-peter-beinart-debate",
+      "summary": "A debate between Coleman Hughes and Peter Beinart discusses whether Israel should remain a Jewish state, with Beinart arguing it cannot be reconciled with equality under the law. Beinart, formerly a Zionist, now publicly opposes the current constitution of Israel.",
+      "tags": [
+        "israel",
+        "politics",
+        "debate"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e96a2a089623b56d",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Tyler Cowen: A Dangerous Turn in AI Regulation",
+      "url": "https://www.thefp.com/p/tyler-cowen-a-dangerous-turn-in-ai",
+      "summary": "The U.S. government has issued an export control on Anthropic's Fable 5 AI model, forcing its takedown globally due to concerns it was \"jailbroken\" for dangerous purposes. This move, seen as a dangerous turn in AI regulation, was based on federal officials' belief that the model could be used for designing pathogens or other AI tools, a claim Anthropic disputes.",
+      "tags": [
+        "ai",
+        "regulation",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c9c28214d3895035",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "All the gear a 20-year gadget blogging veteran packs when traveling",
+      "url": "https://www.theverge.com/gadgets/947310/gadget-veteran-travel-gear",
+      "summary": "A veteran gadget blogger shares their refined travel packing list, emphasizing how a well-chosen assortment of gear enhances both work and leisure trips. The article highlights the importance of convenience, comfort, and peace of mind over disconnecting from devices.",
+      "tags": [
+        "travel",
+        "gadgets",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ae372d88d5bdbb9d",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Fox is buying Roku",
+      "url": "https://www.theverge.com/business/949727/fox-roku-acquisition-22-billion",
+      "summary": "Fox has announced that it's acquiring Roku outright, in a deal that values the streaming company at $22 billion. Once the deal is complete, Fox content will be promoted more heavily than before on Roku streamers and smart TVs.\nThe deal will see Fox's TV networks and\nTubi\nstreamer…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "2c88464f1e0ccf17",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Google Earth’s flight simulator is now available in your browser",
+      "url": "https://www.theverge.com/tech/949749/google-earth-flight-simulator-browser-experimental",
+      "summary": "Google Earth's previously hidden flight simulator mode, present in the desktop version since 2007, is now easily accessible through a web browser. Users can access this feature via the \"Explore Earth\" button to experience virtual flights without downloads.",
+      "tags": [
+        "google",
+        "software",
+        "mapping"
+      ],
+      "priority": false
+    },
+    {
+      "id": "057bf4b2dd302bc4",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Happy birthday to the Trump phone",
+      "url": "https://www.theverge.com/policy/949093/trump-mobile-t1-phone-one-year-anniversary",
+      "summary": "The Trump phone, T1 Phone 8002, celebrates its one-year anniversary since its announcement, despite initial contradictory specs, non-photographic images, and a $100 deposit requirement for a $499 device with no release date. Claims of it being \"designed and built in the United States\" were particularly bold given the lack of US phone manufacturing infrastructure.",
+      "tags": [
+        "technology",
+        "politics",
+        "trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "94bc096c56d88678",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Honor’s Magic V6 sets three foldable firsts",
+      "url": "https://www.theverge.com/tech/948919/honor-magic-v6-foldable-review",
+      "summary": "The Honor Magic V6 foldable phone introduces industry firsts in thinness, battery size, and water-resistance, though only the larger battery offers a truly meaningful improvement. Despite these advances, making a foldable phone stand out is becoming increasingly difficult as previous models already felt like complete flagship devices.",
+      "tags": [
+        "smartphones",
+        "foldable",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ecd2c658fb589035",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The FBI built a small town to simulate cyberattacks",
+      "url": "https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range",
+      "summary": "The FBI opened a 22,000-square-foot Cyber Range in Huntsville, Alabama, a replica town for simulating real-world cyberattacks and training. This facility includes various networked buildings like a convenience store, hospital, and a data center with over 200 hackable servers.",
+      "tags": [
+        "cybersecurity",
+        "fbi",
+        "training"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fe9c6195a600a393",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Under-16 social media ban announced by UK government",
+      "url": "https://www.theverge.com/policy/949679/uk-under-16-social-media-ban-announcement",
+      "summary": "The UK is the latest country to follow Australia in implementing a total social media ban for children under 16, Prime Minister Keir Starmer has announced. The ban, which could take effect from early next year, will be joined by wider measures that will also prevent children from…",
+      "tags": [],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 104,
+    "summarized": 69,
+    "skipped_promos": 6,
+    "filtered_by_rules": 29,
+    "sources": 11,
+    "email_items_omitted": 0
+  }
+}
