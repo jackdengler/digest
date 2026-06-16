@@ -1,0 +1,1220 @@
+{
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T18:27:11+00:00",
+  "hot_topics": [
+    {
+      "topic": "Android 17 Operating System Rolls Out to Pixel Devices",
+      "synthesis": "Android 17 is now rolling out to Google Pixel phones and watches, introducing new features such as an expanded 'Bubbles' multitasking system for floating app windows. While Pixel devices receive a Google-modified version with distinct features, other manufacturers are expected to issue the update throughout 2026. This marks a significant update for the Android ecosystem.",
+      "item_ids": [
+        "b6f4bee0b91c92a9",
+        "7df7b23b74443983"
+      ]
+    },
+    {
+      "topic": "Mobileye Enters US Robotaxi Market with Integrated Service",
+      "synthesis": "Mobileye, a leading autonomous driving technology company, plans to launch its own robotaxi service in an undisclosed US city by 2027, starting with approximately 100 vehicles. This move signifies Mobileye's expansion into operating its self-driving solutions, positioning the Intel subsidiary on both sides of the autonomous vehicle business. The service will be vertically integrated, utilizing Mobileye's Moovit platform for customer interaction and coordination.",
+      "item_ids": [
+        "9e859cfeed46e6fb",
+        "7135af8b7f01c551"
+      ]
+    },
+    {
+      "topic": "New AR/XR Glasses Launch and Qualcomm's Supporting Chip Technology",
+      "synthesis": "Several new augmented reality (AR) and extended reality (XR) glasses are set to launch or are now available for preorder, including the Xreal Aura and Snap's 'Specs,' which will cost $2,195. Concurrently, Qualcomm is advancing the underlying hardware, announcing the Snapdragon Reality Elite chip with a 60 percent GPU performance boost, indicating a focus on more powerful XR devices. These developments signal a growing trend towards next-generation wearables that could potentially replace smartphones.",
+      "item_ids": [
+        "09922a0e5d447a80",
+        "f1740b1277e3c25d",
+        "36d504b2aa35fd24",
+        "593c1be4e9d08296",
+        "1ad6397225a2a39a"
+      ]
+    },
+    {
+      "topic": "India Temporarily Bans Telegram Over Exam Fraud Concerns",
+      "synthesis": "India has imposed a temporary nationwide ban on the Telegram messaging app until June 22 and ordered the disabling of its message-editing feature. This decision stems from widespread concerns over exam paper leaks and fraud, which authorities allege were facilitated through the platform. The move follows the scrapping of the NEET exam due to similar allegations, sparking significant public protests.",
+      "item_ids": [
+        "c854512649396427",
+        "3b016f0fc884ac64"
+      ]
+    },
+    {
+      "topic": "The Growing Feasibility of Running Local AI Models",
+      "synthesis": "Running artificial intelligence models locally on personal hardware is becoming increasingly effective and practical, offering a valuable tool for various tasks. Experts, like Georgi Gerganov, affirm the capability of local models such as Qwen3.6-27B for coding assignments. This trend highlights the improved performance and accessibility of AI without constant reliance on cloud services.",
+      "item_ids": [
+        "7357bcb362d23aec",
+        "800e8ad4b996ad51"
+      ]
+    },
+    {
+      "topic": "The US-Iran Deal: Conflicting Narratives and Regional Implications",
+      "synthesis": "President Trump announced a new agreement with Iran to end conflict and reopen the Strait of Hormuz, with Tehran portraying it as a victory while many Iranians view it as a necessary step for stability. The deal's terms are under scrutiny in Washington, with concerns about its impact on oil prices and accusations of potential capitulation. Israel's ambassador stated that Israel will not withdraw from South Lebanon, further complicating peace negotiations and raising questions about the deal's regional effects.",
+      "item_ids": [
+        "38d83f5e25dd46e6",
+        "556d1f2567117b41",
+        "46e7b56b94b1ace3",
+        "38a9ce15f7246eea",
+        "560cc4dd1b7713e2",
+        "f5786baee8f2ea5c",
+        "3813c9b2312460c3",
+        "e9a1826ee8526f41"
+      ]
+    },
+    {
+      "topic": "Fox Corporation Acquires Roku in $22 Billion Deal",
+      "synthesis": "Fox Corporation has agreed to acquire Roku Inc. for an approximate enterprise value of $22 billion. This strategic acquisition aims to combine Fox's broadcast and streaming channels, including Tubi, with Roku's streaming hardware and its profitable advertising and operating system business. The deal seeks to expand Fox's reach into smart TVs and bolster its advertising capabilities.",
+      "item_ids": [
+        "5cb054449369e0c1",
+        "3813c9b2312460c3"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "71b987842843497e",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "What is this rock?",
+      "url": "https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us",
+      "summary": "An essay explores the \"strange new rocks of the Anthropocene\" that are neither entirely natural nor unnatural, pushing the boundaries of geological understanding.",
+      "tags": [
+        "geology",
+        "anthropocene",
+        "environment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b6f4bee0b91c92a9",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Android 17 starts hitting Pixel phones and watches today",
+      "url": "https://arstechnica.com/gadgets/2026/06/android-17-starts-hitting-pixel-phones-and-watches-today/",
+      "summary": "Android 17 has been in testing since\nearly this year\n, with the final beta hitting devices just a couple of weeks ago. Insofar as a mature operating system like Android still has big days, this is one of them. The official Android 17 build is\nstarting its rollout on Pixel phones…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "7f73b69b9403fc97",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
+      "url": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
+      "summary": "Nvidia is planning to sell $25 billion in investment-grade debt, its first bond sale in five years, after receiving over $85 billion in orders. This significant offering tests investor demand for exposure to the AI sector.",
+      "tags": [
+        "nvidia",
+        "finance",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "20b8d5c8e9e7de20",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Commodore’s newest gadget is a flip phone that blocks social media and browsers",
+      "url": "https://arstechnica.com/gadgets/2026/06/commodores-newest-gadget-is-a-flip-phone-that-blocks-social-media-and-browsers/",
+      "summary": "Commodore, a resurrected brand, is releasing a new flip phone designed to block social media and internet browsers. This follows previous retro-inspired computer releases from the company.",
+      "tags": [
+        "commodore",
+        "flip phone",
+        "retro tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e63adcb5625a5620",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
+      "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+      "summary": "Microsoft patched a critical vulnerability in its M365 Copilot AI platform that allowed hackers to steal 2FA codes and sensitive data from emails. The issue stems from AI bots' inability to distinguish between user instructions and malicious requests embedded in third-party content.",
+      "tags": [
+        "copilot",
+        "security",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5cb054449369e0c1",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Fox’s $22B Roku acquisition aims to expand its reach into smart TVs, advertising",
+      "url": "https://arstechnica.com/gadgets/2026/06/foxs-22b-roku-acquisition-aims-to-expand-its-reach-into-smart-tvs-advertising/",
+      "summary": "Fox Corporation has agreed to buy Roku Inc. for $160 per share, an approximate enterprise value of $22 billion, the firms announced today.\nThe acquisition would unite Fox’s broadcast channels, including Fox, Fox News, Fox Business, and FS1, as well as its streaming businesses, in…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "d087afa05b23c5d9",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+      "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+      "summary": "Leaked financial documents indicate OpenAI's rapidly growing revenues are still being overshadowed by even larger expenses, with R&D costs, including $10.59 billion paid to Microsoft in 2025, significantly outpacing its $13.07 billion revenue in 2025. This suggests the company is losing billions annually despite increasing income.",
+      "tags": [
+        "openai",
+        "finance",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9e859cfeed46e6fb",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Mobileye is entering the US robotaxi market with standalone service",
+      "url": "https://arstechnica.com/cars/2026/06/mobileye-is-entering-the-us-robotaxi-market-with-standalone-service/",
+      "summary": "The driving technology company Mobileye plans to launch a robotaxi service in an as-yet-unnamed US city in 2027, it said earlier today. The service will be vertically integrated, using Mobileye's Moovit mobility platform to interact with customers booking rides, coordinate driver…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "97f1557dddf088e5",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Trump admin abandons fight against wind energy as clean energy output surges",
+      "url": "https://arstechnica.com/science/2026/06/trump-admin-abandons-fight-against-wind-energy-as-clean-energy-output-surges/",
+      "summary": "The Trump administration has abandoned its effort to halt wind energy projects across the United States and dropped its challenge to the\ncourt ruling\nthat tossed President Donald Trump’s order freezing federal permitting and leasing for wind projects. States that challenged the o…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "4917422f0267e2c3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'Dancing girl's' bare torso restored in Indian textbook after backlash",
+      "url": "https://www.bbc.com/news/articles/c7vyzgl2142o?at_medium=RSS&at_campaign=rss",
+      "summary": "A new Indian school textbook restored the bare torso of the famous \"Dancing Girl\" figurine after backlash, as an earlier version had covered it with dark shading.",
+      "tags": [
+        "india",
+        "culture",
+        "education"
+      ],
+      "priority": false
+    },
+    {
+      "id": "32eaa9515386226e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'Greatest feeling ever': Cape Verdeans tell BBC of joy at holding Spain to draw",
+      "url": "https://www.bbc.com/news/articles/clyer09rd1ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Cape Verdeans celebrated wildly after their national team achieved a shock 0-0 draw against Spain, a moment described as the \"greatest feeling ever.\"",
+      "tags": [
+        "sports",
+        "cape verde",
+        "soccer"
+      ],
+      "priority": false
+    },
+    {
+      "id": "86d1bf44a09cbbc6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "A year on, six questions still haunt the Air India crash investigation",
+      "url": "https://www.bbc.com/news/articles/c6214prydklo?at_medium=RSS&at_campaign=rss",
+      "summary": "A year after the Air India crash, six key questions remain unanswered in the investigation, ranging from fuel switches to engine failures.",
+      "tags": [
+        "aviation",
+        "accident",
+        "investigation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ca37427d6ec1961d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "California's Gavin Newsom alleges justice department is investigating his wife and ex-staff",
+      "url": "https://www.bbc.com/news/articles/c3vyw7021r0o?at_medium=RSS&at_campaign=rss",
+      "summary": "California Governor Gavin Newsom claims the Justice Department is investigating his wife and former staff, alleging political prosecution by the Trump administration due to his potential 2028 presidential bid.",
+      "tags": [
+        "california",
+        "politics",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8f2853a1188e90c4",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Cuba tourism collapses as US pressure campaign bites",
+      "url": "https://www.bbc.com/news/articles/ckg8zrm20jjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Cuba's foreign visitor numbers have dropped by 58% year-on-year due to US sanctions and an effective oil blockade.",
+      "tags": [
+        "cuba",
+        "tourism",
+        "us relations"
+      ],
+      "priority": false
+    },
+    {
+      "id": "116432d55484d44d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Drones create the first-ever Fifa scoreboard in Seattle sky",
+      "url": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&at_campaign=rss",
+      "summary": "In Seattle, 400 drones illuminated the night sky to display the score of the Egypt vs. Belgium World Cup match, creating the first-ever FIFA scoreboard of its kind.",
+      "tags": [
+        "drones",
+        "world cup",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a3fdde97dfe5da73",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Eight dead after US Air Force B-52 bomber crashes in California",
+      "url": "https://www.bbc.com/news/articles/cqx10yql319o?at_medium=RSS&at_campaign=rss",
+      "summary": "Eight people died after a US Air Force B-52 bomber crashed in California during a routine test mission on Monday morning.",
+      "tags": [
+        "accident",
+        "military",
+        "california"
+      ],
+      "priority": false
+    },
+    {
+      "id": "556d1f2567117b41",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions",
+      "url": "https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Many Lebanese remain doubtful that the agreement could finally mean the end of the fighting between Israel and Hezbollah.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "145ebfe5c75c8db6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "France's oldest female detainee, 79, goes on trial for in-law's grisly murder",
+      "url": "https://www.bbc.com/news/articles/cy498llene1o?at_medium=RSS&at_campaign=rss",
+      "summary": "France's oldest female detainee, 79, is on trial for a 1995 murder after a dismembered body, found in the Seine, was recently linked to her by DNA.",
+      "tags": [
+        "crime",
+        "france",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e3b3414d6a3ff452",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "German broadcaster removes TV intro after Elon Musk takes legal action",
+      "url": "https://www.bbc.com/news/articles/c0jyzp9z9deo?at_medium=RSS&at_campaign=rss",
+      "summary": "ZDF TV, a German broadcaster, removed a TV intro after Elon Musk initiated legal action, having previously condemned their \"outrageous lies.\"",
+      "tags": [
+        "media",
+        "legal",
+        "elon musk"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9e92317ba4eadab6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Group planned to attack White House UFC event using snipers and drones, FBI says",
+      "url": "https://www.bbc.com/news/articles/cqx10xlje1lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The FBI alleges a group planned to attack a White House UFC event using snipers and drones, citing grievances related to corruption, the Epstein files, and data centers.",
+      "tags": [
+        "fbi",
+        "terrorism",
+        "white house"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b868d8eee26ceb5b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Hundreds of cats stolen for food in Vietnam rescued by police, welfare group says",
+      "url": "https://www.bbc.com/news/articles/c20yzm58vk3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Police in Vietnam rescued over 400 cats stolen for the food trade and arrested nine individuals, with more than 40 cats reunited with their owners.",
+      "tags": [
+        "animal welfare",
+        "vietnam",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7667d7432557e3b2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Hungary's MPs block return of Orbán, limiting rule of PM to eight years",
+      "url": "https://www.bbc.com/news/articles/c621zplqrrno?at_medium=RSS&at_campaign=rss",
+      "summary": "Hungarian MPs voted to block Viktor Orbán's return as Prime Minister, limiting the PM's rule to eight years and fulfilling a promise by new PM Péter Magyar.",
+      "tags": [
+        "hungary",
+        "politics",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3b016f0fc884ac64",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "India temporarily bans Telegram over exam paper leak concerns",
+      "url": "https://www.bbc.com/news/articles/cn074j04l3eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The NEET exam had earlier been scrapped over allegations of a paper leak, sparking massive protests.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "4c3e8c1c6069a455",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Iranian-Americans protest against Iran team at World Cup",
+      "url": "https://www.bbc.com/news/videos/cm20yglrgjlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iranian-Americans protested outside the Iran vs. New Zealand World Cup match, calling for an end to Tehran's clerical regime.",
+      "tags": [
+        "iran",
+        "protest",
+        "world cup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1cb5875796d13fee",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Recovery of Ebola patients offers rare moments of joy at epicentre of outbreak",
+      "url": "https://www.bbc.com/news/articles/cp3xyvww1lqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Recoveries of Ebola patients in the Democratic Republic of Congo provide rare positive moments amidst an outbreak that has killed over 170 people.",
+      "tags": [
+        "ebola",
+        "health",
+        "africa"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9d5db220d4376776",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Russian artist and Putin critic shot dead in Poland",
+      "url": "https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Robert Kuzovkov, a Russian artist and Vladimir Putin critic known by the pseudonym Semyon Skrepetsky, was shot dead in Poland.",
+      "tags": [
+        "russia",
+        "assassination",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b72893f3a16bd4fc",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Somaliland opens Jerusalem embassy after Israel's recognition of its independence",
+      "url": "https://www.bbc.com/news/articles/cj4gn4d54y0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Somaliland has opened an embassy in Jerusalem, six months after Israel became the first country to recognize the breakaway East African state's independence.",
+      "tags": [
+        "somaliland",
+        "israel",
+        "diplomacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8a3213b74637e58d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Swedish man jailed for four years for coercing wife into sex with 120 men",
+      "url": "https://www.bbc.com/news/articles/crlwxg721eeo?at_medium=RSS&at_campaign=rss",
+      "summary": "A 61-year-old Swedish man was sentenced to four years in jail for coercing his wife into sexual acts with 120 men he found online for payment.",
+      "tags": [
+        "crime",
+        "sweden",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "38d83f5e25dd46e6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
+      "url": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss",
+      "summary": "For many Iranians, the question is not whether the deal means victory, but whether it lowers prices and reduces fear of another war.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "12f00412206dbe68",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
+      "url": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK is investigating reports that a Russian warship, the Admiral Grigorovich, fired warning shots near a yacht that drifted towards it in the English Channel.",
+      "tags": [
+        "international relations",
+        "military",
+        "uk"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ce497ff95930c2a1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Venezuela signs deal with US energy giant to rebuild power grid",
+      "url": "https://www.bbc.com/news/articles/c0jyzpv52yyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Venezuela has signed a deal with US energy giant General Electric to rebuild its power grid, signaling increased cooperation between US firms and Venezuela's interim government.",
+      "tags": [
+        "venezuela",
+        "energy",
+        "us relations"
+      ],
+      "priority": false
+    },
+    {
+      "id": "159d907d9ec90111",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: California wildfires rage near passing vehicles",
+      "url": "https://www.bbc.com/news/videos/cn8q909jld2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Wildfires in Riverside County, California, are raging across more than 2,000 acres, with footage showing them burning near moving vehicles.",
+      "tags": [
+        "wildfires",
+        "california",
+        "environment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e26e20267bd32be2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What did Trump do differently to Obama on Iran?",
+      "url": "https://www.bbc.com/news/videos/cn94vqzev5lo?at_medium=RSS&at_campaign=rss",
+      "summary": "This article examines the differing approaches of Presidents Trump and Obama towards Iran, particularly as Trump promotes a new peace deal.",
+      "tags": [
+        "trump",
+        "obama",
+        "iran"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7e4a6a70b15733f6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What one country's experiment says about attempts to boost birth rates",
+      "url": "https://www.bbc.com/news/articles/c5yzdr4ygdno?at_medium=RSS&at_campaign=rss",
+      "summary": "An article explores why Hungary's pronatalist policies initially boosted birth rates before they fell again, offering lessons for other nations seeking to increase fertility.",
+      "tags": [
+        "demographics",
+        "policy",
+        "hungary"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d0d61962b906fa37",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Apple's weird anti-nausea dots cured my car sickness",
+      "url": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work",
+      "summary": "Apple's \"Vehicle Motion Cues,\" described as anti-nausea dots, reportedly cured car sickness for a user.",
+      "tags": [
+        "apple",
+        "health",
+        "ux"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bb64bedfd7bd028e",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Banned book library in a wi-fi smart light bulb",
+      "url": "https://www.richardosgood.com/posts/banned-book-library/",
+      "summary": "A project created a banned book library embedded within a Wi-Fi smart light bulb.",
+      "tags": [
+        "censorship",
+        "diy",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "21422dc005598126",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Correlated randomness in Slay the Spire 2",
+      "url": "https://tck.mn/blog/correlated-randomness-sts2/",
+      "summary": "An article discusses correlated randomness within the game Slay the Spire 2.",
+      "tags": [
+        "gaming",
+        "randomness",
+        "game design"
+      ],
+      "priority": false
+    },
+    {
+      "id": "27db754ed13fb76c",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
+      "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
+      "summary": "John Carmack expressed admiration for Fabrice Bellard, calling him a better overall programmer.",
+      "tags": [
+        "programming",
+        "notable figures"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1ce546b1e477d82f",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Mechanical Watch (2022)",
+      "url": "https://ciechanow.ski/mechanical-watch/",
+      "summary": "An article from 2022 titled \"Mechanical Watch\" is shared.",
+      "tags": [
+        "watches",
+        "mechanics",
+        "engineering"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7357bcb362d23aec",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Running local models is good now",
+      "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+      "summary": "Article URL:\nhttps://vickiboykis.com/2026/06/15/running-local-models-is-good-now/\nComments URL:\nhttps://news.ycombinator.com/item?id=48555993\nPoints: 498\n# Comments: 248",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "7491f2233d5b0e1d",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
+      "summary": "A story recounts how an x86 emulator team encountered and fixed exceptionally poor code directly within the emulation process.",
+      "tags": [
+        "software development",
+        "emulation",
+        "debugging"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fbcefe9d54fd63e1",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "Want to get a data center online quickly? Give it some flex.",
+      "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+      "summary": "Emerald AI's \"Conductor\" software is designed to make data centers power-flexible, allowing them to reduce electricity usage during peak grid demand to prevent blackouts and integrate with the existing grid faster. This approach could alleviate the bottleneck in bringing new data centers online, which often face delays due to power plant construction.",
+      "tags": [
+        "data centers",
+        "energy",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cdc023dfa0237e85",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "'The Lost Founder' profiles a brilliant lawyer who helped craft the Constitution",
+      "url": "https://www.npr.org/2026/06/16/nx-s1-5859433/the-lost-founder-profiles-a-brilliant-lawyer-who-helped-craft-the-constitution",
+      "summary": "Jesse Wegman's book, \"The Lost Founder,\" profiles James Wilson, a forgotten Founding Father and Supreme Court justice who led a colorful life and died while evading creditors.",
+      "tags": [
+        "history",
+        "us constitution",
+        "biography"
+      ],
+      "priority": false
+    },
+    {
+      "id": "38a9ce15f7246eea",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "How Israel could complicate Iran peace negotiations. And, World Cup highlights",
+      "url": "https://www.npr.org/2026/06/16/g-s1-128341/up-first-newsletter-iran-israel-g7-primaries-luigi-mangione",
+      "summary": "Israel has been sidelined in the agreement between the U.S. and Iran. It could spoil peace negotiations. And, it's been a thrilling start to the World Cup.\n(Image credit: Atta Kenare)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "b27006b55adecc38",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "In Albania, anger grows against the government for supporting a Kushner-linked luxury resort",
+      "url": "https://www.npr.org/2026/06/16/g-s1-128162/albania-resort-protests-kushner-trump",
+      "summary": "Albania's government has provisionally approved a luxury resort project linked to Jared Kushner, sparking daily protests and legal challenges from environmental groups.",
+      "tags": [
+        "albania",
+        "real estate",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "560cc4dd1b7713e2",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Israeli ambassador to U.S. says Israel is 'not going to withdraw from South Lebanon'",
+      "url": "https://www.npr.org/2026/06/16/nx-s1-5858937/israels-ambassador-to-the-u-s-talks-about-u-s-iran-deal-to-end-war",
+      "summary": "NPR's Steve Inskeep asks Israel's ambassador to the U.S. Michael Leiter about the peace deal the Trump administration says it's made with Iran.\n(Image credit: Andrew Harnik)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "aff352d6ee7fce0b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Live with a partner? You may be sharing more microbes than you think",
+      "url": "https://www.npr.org/2026/06/16/nx-s1-5859419/microbiome-oral-gut-romantic-partner",
+      "summary": "A large study found that people living together share approximately a quarter of their oral and gut microbes. Experts were consulted regarding potential concerns.",
+      "tags": [
+        "health",
+        "science",
+        "relationships"
+      ],
+      "priority": false
+    },
+    {
+      "id": "567c797fe6c44d70",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Pop albums are drowning in 'narrative.' What happens when we go in cold?",
+      "url": "https://www.npr.org/2026/06/16/nx-s1-5848030/lizzo-imani-imani-narrative-listening-pop",
+      "summary": "New albums by Lizzo and Imani Imani are discussed as \"event\" records, contrasting one with excessive backstory and the other with minimal pre-release narrative.",
+      "tags": [
+        "music",
+        "pop culture",
+        "media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f024f46f5fdb7fcc",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Survey confirms the struggle of working parents: 'No way to be two things at once'",
+      "url": "https://www.npr.org/2026/06/16/nx-s1-5856274/working-parents-balance-work-pew",
+      "summary": "A Pew survey reveals many working parents feel unable to give 100% at both work and home, suggesting that benefits like paid sick leave and affordable childcare could offer solutions.",
+      "tags": [
+        "parenting",
+        "work-life balance",
+        "society"
+      ],
+      "priority": false
+    },
+    {
+      "id": "46e7b56b94b1ace3",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "The war with Iran is making oil changes pricier. And a deal won't solve it",
+      "url": "https://www.npr.org/2026/06/16/nx-s1-5847024/motor-oil-iran-war",
+      "summary": "The U.S. may be the world's biggest producer of\ncrude\noil, but that's not the case for\nmotor\noil. The cost of lubricants is soaring, and even a tentative deal to end the war won't solve the problem.\n(Image credit: Sergio Flores)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "30738d1a515fced8",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "The World Cup reminds us that the way to a visitor's heart ... is through their stomach",
+      "url": "https://www.npr.org/2026/06/16/g-s1-128352/the-world-cup-wawa-bucees-waffle-house",
+      "summary": "International visitors at the World Cup are discovering American roadside food establishments like Buc-ee's, Waffle House, and Wawa, highlighting the impact of local cuisine on visitor experience.",
+      "tags": [
+        "world cup",
+        "food",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4efce7a2a32df5f8",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Summer ICE",
+      "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/06/15/ice-new-york-city-hochul-mamdani-00962311",
+      "summary": "New York City is preparing for a potential surge in federal immigration enforcement this summer, coinciding with major events like the World Cup. Governor Hochul warned of chaos, while Mayor Mamdani assured readiness, despite state laws designed to protect undocumented immigrants.",
+      "tags": [
+        "immigration",
+        "new york",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e9845dd5f754476a",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Trump questioned whether Mike Collins could win Georgia with his abortion stance",
+      "url": "https://www.politico.com/news/2026/06/16/inside-trump-collins-georgia-endorsement-00963052",
+      "summary": "President Trump questioned Georgia Rep. Mike Collins' electability given his hardline abortion stance during a private meeting, despite eventually endorsing him. Collins later shifted his position to align with Georgia's existing law which includes exceptions.",
+      "tags": [
+        "trump",
+        "abortion",
+        "georgia politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ae3faf14d3c770b7",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Cloudflare CAPTCHA on at least one ampersand",
+      "url": "https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything",
+      "summary": "Simon Willison implemented a Cloudflare WAF rule to trigger CAPTCHA only for search URLs containing an ampersand, allowing simple searches to pass. This solution was developed with assistance from Claude Code, which helped adapt the rule for Cloudflare's API.",
+      "tags": [
+        "cloudflare",
+        "security",
+        "web development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5089591a3dbeb995",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "datasette-agent 0.3a0",
+      "url": "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything",
+      "summary": "Datasette-agent 0.3a0 introduces an 'execute_write_sql' tool for database modifications with user approval, and enhances chat mode to support approvals and direct database interaction via prompts. New options like '--unsafe' allow for auto-approving actions.",
+      "tags": [
+        "datasette",
+        "ai",
+        "database"
+      ],
+      "priority": false
+    },
+    {
+      "id": "800e8ad4b996ad51",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Georgi Gerganov",
+      "url": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything",
+      "summary": "I can 100% attest to the fact that Qwen3.6-27B is a very capable local model for coding tasks. Over the last month and a half I've been using it almost daily, either on my M2 Ultra or on my RTX 5090 box. I use it for small\nmundane tasks at ggml-org\n- nothing really impressive, bu…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "a71ba3cb9943ba21",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Good news and bad news for Democrats’ Senate odds",
+      "url": "https://www.slowboring.com/p/good-news-and-bad-news-for-democrats",
+      "summary": "Graham Platner has been nominated as the Democratic candidate for Maine's U.S. Senate seat, following Governor Janet Mills' withdrawal from the race.",
+      "tags": [
+        "politics",
+        "elections",
+        "maine"
+      ],
+      "priority": false
+    },
+    {
+      "id": "57b49313f32aec0c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "ChatGPT’s market share slips below 50% for first time",
+      "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+      "summary": "ChatGPT's market share has fallen below 50% for the first time, though it remains the most popular AI assistant globally with over 1.1 billion monthly users. Gemini and Claude follow with 662 million and 245 million users, respectively.",
+      "tags": [
+        "chatgpt",
+        "ai",
+        "market share"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c854512649396427",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "India orders temporary ban on Telegram over exam fraud concerns",
+      "url": "https://techcrunch.com/2026/06/16/india-temporarily-blocks-access-to-telegram-over-exam-fraud-concerns/",
+      "summary": "The restrictions include a nationwide ban on Telegram until June 22 and a requirement to disable the app's message-editing feature.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "888a58cea4829c4b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+      "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+      "summary": "Respond.io, a Malaysian startup, has raised $62.5 million for its AI agent-powered messaging app, which handles high volumes of customer inquiries. The company plans to use the funding for acquisitions in North America and Europe.",
+      "tags": [
+        "ai",
+        "customer service",
+        "startup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7135af8b7f01c551",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Mobileye’s US robotaxi launch will put it on both sides of the AV business",
+      "url": "https://techcrunch.com/2026/06/16/mobileye-us-robotaxi-launch-will-put-it-on-both-sides-of-the-av-business/",
+      "summary": "The Israeli tech company and Intel subsidiary said it will launch its own robotaxi service in a U.S. city in 2027.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "bf82a563f90f9d16",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Payments startup Flutterwave hits $3.2B valuation, backed by Ripple",
+      "url": "https://techcrunch.com/2026/06/16/payments-startup-flutterwave-hits-3-2b-valuation-backed-by-ripple/",
+      "summary": "African payments infrastructure company Flutterwave has reached a $3.2 billion valuation, securing investment and partnership from blockchain company Ripple. This marks a significant milestone for the startup in the fintech sector.",
+      "tags": [
+        "fintech",
+        "startup",
+        "investment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "de781ceb91f2856a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
+      "url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+      "summary": "Plaud reported its software business achieved over $100 million in Annual Recurring Revenue (ARR) after shipping more than 2 million AI notetakers. The company is making a notable impact in the competitive AI-powered meeting notetaker market.",
+      "tags": [
+        "ai",
+        "productivity",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fba85fe0ad195f11",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Probably raises $9M to build a more reliable kind of AI",
+      "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+      "summary": "Startup \"Probably\" has raised $9 million to develop more reliable AI that aims to prevent hallucinations and factual errors, seeking to achieve accuracy comparable to deterministic systems.",
+      "tags": [
+        "ai",
+        "ai safety",
+        "startup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f1740b1277e3c25d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Qualcomm wants to be the chip inside whatever replaces your smartphone, and it just announced two products toward that end",
+      "url": "https://techcrunch.com/2026/06/16/qualcomm-wants-to-be-the-chip-inside-whatever-replaces-your-smartphone-and-it-just-announced-two-products-toward-that-end/",
+      "summary": "Qualcomm's CEO said today that the company is working on over 40 new AI hardware designs",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "87a1e471dc7561dc",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Rivian cuts hundreds of workers after R2 deliveries start",
+      "url": "https://techcrunch.com/2026/06/16/rivian-cuts-hundreds-of-workers-after-r2-deliveries-start/",
+      "summary": "Rivian has laid off hundreds of workers as part of a restructuring effort aimed at achieving profitability, despite recent R2 deliveries. The company previously delayed its profitability goal to invest in autonomous technology.",
+      "tags": [
+        "rivian",
+        "layoffs",
+        "automotive"
+      ],
+      "priority": false
+    },
+    {
+      "id": "faa3414ff674a5ca",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
+      "url": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
+      "summary": "Robinhood's CEO announced 10% layoffs without attributing them to AI, contrasting with other tech leaders who have cited AI restructuring for job cuts. This suggests a different rationale for the workforce reduction.",
+      "tags": [
+        "robinhood",
+        "layoffs",
+        "tech industry"
+      ],
+      "priority": false
+    },
+    {
+      "id": "46c36a208a16c9c5",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
+      "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+      "summary": "A survey by WordPress VIP reveals that 60% of US consumers dislike seeing \"AI\" in brand messaging, indicating public wariness towards AI-generated content. This contrasts with companies' growing view of AI search as a crucial referral channel.",
+      "tags": [
+        "ai",
+        "consumer perception",
+        "marketing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1ad6397225a2a39a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Snap finally debuts its long-awaited AR glasses, Specs, and, oof, they aren’t cheap",
+      "url": "https://techcrunch.com/2026/06/16/snap-finally-debuts-its-long-awaited-ar-glasses-specs-and-oof-they-arent-cheap/",
+      "summary": "For over a decade now, Snap has been working on this device. Now the glasses are finally here. So what stands out on first impression?",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c2bd910a549ccc98",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "This startup’s super metals could soon be in military drones, luxury watches, and chef’s knives",
+      "url": "https://techcrunch.com/2026/06/16/this-startups-super-metals-could-soon-be-in-military-drones-luxury-watches-and-chefs-knives/",
+      "summary": "Foundation Alloy, a startup that creates \"super metals\" by beating them into submission instead of heating, has raised $22 million to scale production. These advanced alloys are anticipated for use in military drones, luxury watches, and chef's knives.",
+      "tags": [
+        "materials science",
+        "manufacturing",
+        "startup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4fa0b56cb3246454",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Threads adds new personalization and community features as it reaches 500M monthly users",
+      "url": "https://techcrunch.com/2026/06/16/threads-adds-new-personalization-and-community-features-as-it-reaches-500m-monthly-users/",
+      "summary": "Meta's Threads platform has reached 500 million monthly users and is introducing new personalization and community features, including a \"Your Algo\" tool for feed control.",
+      "tags": [
+        "threads",
+        "social media",
+        "meta"
+      ],
+      "priority": false
+    },
+    {
+      "id": "32ed89ecd0fe85a5",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "America Can’t Build for War Anymore",
+      "url": "https://www.thefp.com/p/america-cant-build-for-war-anymore",
+      "summary": "The US defense industrial base is in turmoil, unable to quickly replenish munitions supplied to Ukraine, revealing a critical inability to scale for war. Experts warn that the nation could lose its superpower status to China within years without rapid modernization of its defense manufacturing.",
+      "tags": [
+        "defense",
+        "manufacturing",
+        "us military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3813c9b2312460c3",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "America’s Anniversary Is About More Than Trump. What Have We Actually Agreed to with Iran? Plus. . .",
+      "url": "https://www.thefp.com/p/july-4-more-than-trump-250",
+      "summary": "It’s Tuesday, June 16. This is\nThe Front Page\n, your daily window into the world of\nThe Free Press\n—and our take on the world at large. Today: Where does all the stolen art go? Elliot Cohen on School of War. What Spencer Pratt got right. Plus: Mr. President, publish the details o…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f07026821459ba37",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "America’s Birthday Isn’t About Trump",
+      "url": "https://www.thefp.com/p/americas-birthday-isnt-about-trump",
+      "summary": "Ahead of America's 250th anniversary, President Trump announced a \"Trump rally\" on the National Mall on July 4th, following a UFC event at the White House. This contributes to a \"split-screen\" perception of national celebration, with some conflating the celebration of the US with the celebration of Trump.",
+      "tags": [
+        "trump",
+        "politics",
+        "national events"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e4eaa5f8b59da695",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Don’t Dismiss Spencer Pratt’s Loss",
+      "url": "https://www.thefp.com/p/spencer-pratt-homelessness-conversation-los-angeles",
+      "summary": "Spencer Pratt's third-place finish in the Los Angeles mayoral primary is examined, noting his campaign's social media focus and connection to Trump supporters. Despite losing, he is credited with changing the conversation around homelessness, addiction, and mental illness in the city.",
+      "tags": [
+        "los angeles",
+        "politics",
+        "homelessness"
+      ],
+      "priority": false
+    },
+    {
+      "id": "05f8b5e1d63b0a78",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Great Americans: The Wizard Who Created Oz",
+      "url": "https://www.thefp.com/p/great-americans-the-wizard-of-oz-l-frank-baum",
+      "summary": "This article pays tribute to L. Frank Baum, author of \"The Wonderful Wizard of Oz,\" highlighting his impact as a major American cultural force. The story, known for its vivid transition to color in film, began as a popular children's book.",
+      "tags": [
+        "literature",
+        "american history",
+        "biography"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e34acc7ae5f3034d",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Inside the Crowd at Trump’s Big Fight",
+      "url": "https://www.thefp.com/p/trump-ufc-fight-white-house",
+      "summary": "A large crowd gathered at the Ellipse to watch MMA fights on the White House lawn, celebrating America's 250th birthday and President Trump's 80th. The event featured supporters and influencers, creating a spectacle with merchandise and AI-generated MMA posters.",
+      "tags": [
+        "trump",
+        "events",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f5786baee8f2ea5c",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Karim Sadjadpour: A Strategic Defeat for Trump",
+      "url": "https://www.thefp.com/p/karim-sadjadpour-trump-iran-deal",
+      "summary": "“The Deal with the Islamic Republic of Iran is now complete. Congratulations to all!” So wrote President Donald Trump on Truth Social on Sunday. After weeks of back-and-forth, the announcement seemed to herald the end to a bloody conflict that has lasted more than 100 days.\nIn th…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "e9a1826ee8526f41",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Mr. President, Publish Your Deal",
+      "url": "https://www.thefp.com/p/mr-president-publish-your-deal-iran-war-ceasefire",
+      "summary": "Vice President J.D. Vance is frustrated. He wants his fellow Republicans to calm down and trust the U.S.-Iran negotiations. The problem is that so many in Washington now are trashing the memorandum of understanding, or MOU, that the president announced Sunday, without knowing all…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "5cffd22d453ce583",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Art World Has a Theft Problem",
+      "url": "https://www.thefp.com/p/the-art-world-has-a-theft-problem",
+      "summary": "A civil war in Sudan led to the looting of 60% of the National Museum of Sudan's collection, highlighting a growing black market for stolen art from war zones. Thieves profit from avenues to launder the provenance of such works.",
+      "tags": [
+        "art theft",
+        "sudan",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9ec20d4aa73a23f0",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "How to Be More Alive: Hermann Hesse on Wonder and the Proper Aim of Education",
+      "url": "https://www.themarginalian.org/2026/06/15/hermann-hesse-wonder-butterflies/",
+      "summary": "Hermann Hesse reflects on the importance of wonder as a path to unity, contrasting it with an education system that prioritizes counting and measuring over enchantment. He suggests that while we are born with the capacity for wonder, education often diminishes it.",
+      "tags": [
+        "philosophy",
+        "education",
+        "wonder"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7df7b23b74443983",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Android 17 arrives on Pixel phones today",
+      "url": "https://www.theverge.com/tech/950651/android-17-release-pixel-drop-google-bubble-screen-reaction",
+      "summary": "Floating Bubble windows are among the biggest changes in the OS update. | Image: Google\nFollowing its official debut last month, Google is now rolling out Android 17 to compatible Pixel phones, alongside additional exclusive features as part of the June Pixel Drop. Not every feat…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "58bfab3904f77918",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
+      "url": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
+      "summary": "Rumors suggest Apple plans to launch camera-equipped AirPods by late 2027, designed to provide 'visual context' for an upgraded Siri. Reports also mention a second folding iPhone, indicating Apple's future hardware focus on AI and foldable technology.",
+      "tags": [
+        "apple",
+        "airpods",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "09922a0e5d447a80",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Qualcomm’s latest chip hints that more powerful smart glasses could be on the way",
+      "url": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables",
+      "summary": "Smart glasses are still a nascent category, but chipmaker Qualcomm is hard at work upgrading the silicon to power the next wave of XR devices: the Snapdragon Reality Elite.\nAlthough Qualcomm is announcing the chip today at Augmented World Expo, we've technically already gotten\na…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "593c1be4e9d08296",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Snap is finally about to ship AR glasses — and they cost a fortune",
+      "url": "https://www.theverge.com/tech/950492/snap-specs-ar-glasses-launch-date-preorder",
+      "summary": "Snap is finally launching augmented glasses for the public. Specs, which\nSnap describes as \"a wearable computer built into see-through augmented reality glasses,\" will cost $2,195. You can preorder a pair of Specs now at\nspecs.com\nwith a $200 refundable deposit, and Snap says the…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "36d504b2aa35fd24",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The Google / Xreal Aura XR glasses are now available to preorder",
+      "url": "https://www.theverge.com/gadgets/950597/xreal-google-aura-xr-glasses-deposit-scheme",
+      "summary": "There’s still no word on the final launch price, however. | Image by Xreal\nThe Project Aura glasses collaboration between Xreal and Google is now one step closer to being something you can buy. Reservations for\nthe second Android XR device\n, now dubbed the Xreal Aura, are availab…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "7fea2125faeeb257",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Verizon&#8217;s &#8216;Simplicity&#8217; flat-rate plan starts at $30 per month for new customers",
+      "url": "https://www.theverge.com/tech/950881/verizon-simplicity-plan-launch",
+      "summary": "Verizon is launching a new 'Simplicity' plan offering a flat rate starting at $30/month for new customers, or $45/month for existing ones. The plan eliminates activation and upgrade fees, but requires opting into a loyalty program for some benefits.",
+      "tags": [
+        "verizon",
+        "mobile plans",
+        "telecommunications"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b76a2154fe74b616",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "We now know how DJI’s dual camera Osmo Pocket 4P compares to Insta360’s",
+      "url": "https://www.theverge.com/tech/950591/dji-osmo-pocket-4p-dual-gimbal-camera-baby-steadicam-4k-tracking",
+      "summary": "DJI has revealed details of its Osmo Pocket 4P stabilized camera, featuring a 1-inch sensor, improved dynamic range, and 4K slow-motion capabilities. Preorders are available in China for ¥3799 (around $562), making it cheaper than Insta360's Luna Ultra.",
+      "tags": [
+        "dji",
+        "camera",
+        "videography"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 121,
+    "summarized": 88,
+    "skipped_promos": 2,
+    "filtered_by_rules": 31,
+    "sources": 13,
+    "email_items_omitted": 0
+  }
+}
