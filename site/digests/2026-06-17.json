@@ -1,0 +1,984 @@
+{
+  "date": "2026-06-17",
+  "generated_at": "2026-06-17T16:53:35+00:00",
+  "hot_topics": [
+    {
+      "topic": "AI in Smart Home Speakers",
+      "synthesis": "Both Amazon and Google are leveraging advanced AI to redefine smart home speakers. Amazon's Echo Dot Max integrates Alexa Plus for more conversational commands and acts as a versatile smart home hub, while Google is betting on generative AI via Gemini in its new Home Speaker to move beyond rigid voice commands. This highlights a broader industry push to make smart home devices more intuitive and capable.",
+      "item_ids": [
+        "c345c96521ffecdb",
+        "80a7864bc4f9451b"
+      ]
+    },
+    {
+      "topic": "US-Iran Conflict and Trump's Role",
+      "synthesis": "The US-Iran conflict and President Trump's handling of it are under intense scrutiny, with some drawing comparisons to past political debacles. Iran demonstrated its ability to defy US blockades by moving oil tankers and maintaining military capabilities despite strikes. Despite a tentative deal being touted by Trump, questions remain about the effectiveness of US efforts and the strategic implications of Iran's continued influence over waterways like the Strait of Hormuz.",
+      "item_ids": [
+        "afa79124d6290c7f",
+        "6201a83fb5086c6e",
+        "526fa00b3778db9b",
+        "2811c1d203fee415",
+        "c61aa86cd459dd09",
+        "0b700b0217a6d994",
+        "9bd59861af1e0043"
+      ]
+    },
+    {
+      "topic": "Broad AI Applications and Perceptions",
+      "synthesis": "AI continues to expand into diverse fields, from military advisory roles and formal verification for sensitive industries to data center investments and innovative shopping apps. However, public perception varies, with a significant percentage of US consumers finding \"AI\" in brand messaging to be a turnoff. Meanwhile, advancements in open-weight models and complex AI systems like Neural Cellular Automata demonstrate ongoing research and development in the field.",
+      "item_ids": [
+        "41447c83636cf15b",
+        "afe05a8e50993ea2",
+        "084d7fe8d90cc909",
+        "6dd3863a19ac64e7",
+        "ad1a3c33fc29f1d6",
+        "b190d4188766623d",
+        "6f8e95e033c8f66c",
+        "725914a3dd778a99",
+        "83af738dffdb0623"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "6a1900a2d8b8a677",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Female philosophers: Héloïse",
+      "url": "https://aeon.co/videos/there-can-be-no-sin-committed-from-love-the-radical-ethics-of-heloise",
+      "summary": "The article explores the radical ethics of 12th-century philosopher Héloïse, who argued that morality is rooted in love rather than institutions. Her perspective was profoundly influenced by her romance with Abelard.",
+      "tags": [
+        "philosophy",
+        "history",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7d80b915b9bbafcc",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'They came with machetes' - deadline looms for migrants to leave South Africa",
+      "url": "https://www.bbc.com/news/articles/cg740l2jpr0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Protesters in South Africa have set a June 30th deadline for all undocumented migrants to leave the country, with reports of violent encounters involving machetes. This reflects growing social tensions over migration.",
+      "tags": [
+        "south africa",
+        "migration",
+        "social issues"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8b33ae04a871c23a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'Warning fire went up': Couple on board yacht describe encounter with Russian warship",
+      "url": "https://www.bbc.com/news/videos/cevldxgklxko?at_medium=RSS&at_campaign=rss",
+      "summary": "A British retired couple on a yacht in the English Channel described an encounter with a Russian frigate that fired warning shots nearby. The couple recounted the alarming incident on board their vessel.",
+      "tags": [
+        "russia",
+        "uk",
+        "international relations"
+      ],
+      "priority": false
+    },
+    {
+      "id": "54256f8a00ac3a1e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Australian shock jock wins A$12m payout after radio station tore up contract",
+      "url": "https://www.bbc.com/news/articles/cyv0qmde97po?at_medium=RSS&at_campaign=rss",
+      "summary": "Australian shock jock Kyle Sandilands won a A$12 million payout after his radio station terminated his contract following an on-air spat where his co-host accused him of bullying. This legal outcome stems from a workplace dispute in media.",
+      "tags": [
+        "media",
+        "australia",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2a6282d2da300de9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Bolivia signs $20m deal with US to fight drug trafficking, foreign ministry says",
+      "url": "https://www.bbc.com/news/articles/c9w28vzj0q0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Bolivia has signed a $20 million deal with the US to combat drug trafficking, re-establishing severed ties under its new president to fight organized crime. This marks a shift in international relations for Bolivia.",
+      "tags": [
+        "bolivia",
+        "us",
+        "drug trafficking"
+      ],
+      "priority": false
+    },
+    {
+      "id": "82779e0dcc594941",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Brazil convicts Jair Bolsonaro's son of pursuing US help in father's legal battle",
+      "url": "https://www.bbc.com/news/articles/cgl3x0pey9lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Brazil has convicted Jair Bolsonaro's son, Eduardo, for seeking US help in his father's legal battle, a conviction he dismissed as \"baseless and senseless.\" This legal development adds to the political controversies surrounding the Bolsonaro family.",
+      "tags": [
+        "brazil",
+        "politics",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c832cc14b8b944bc",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Equatorial Guinea government resigns after failing to meet targets",
+      "url": "https://www.bbc.com/news/articles/c4gy27dyq0ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Equatorial Guinea's government resigned after failing to meet targets, with the vice-president noting they achieved barely 10% of their objectives without specifying them. This indicates significant governance challenges in the country.",
+      "tags": [
+        "politics",
+        "africa",
+        "government"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d9fca64cc09c40ab",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "India: Why a country of 1.4 billion is not in the football World Cup",
+      "url": "https://www.bbc.com/news/articles/ce95gvpn535o?at_medium=RSS&at_campaign=rss",
+      "summary": "Despite being the world's most populous country, India is not participating in the football World Cup. The article explores reasons for India's absence from football's biggest international stage.",
+      "tags": [
+        "india",
+        "sports",
+        "football"
+      ],
+      "priority": false
+    },
+    {
+      "id": "afa79124d6290c7f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Iran sends tankers loaded with oil past US military blockade",
+      "url": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Three Iranian tankers loaded with crude oil have passed the US blockade line in the Gulf of Oman, ship-tracking data shows.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "6201a83fb5086c6e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Israel launches fresh strikes on Lebanon despite Trump criticism",
+      "url": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss",
+      "summary": "Speaking on Tuesday, Trump said Israel's PM Benjamin Netanyahu needed \"to be more responsible with respect to Lebanon\".",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "be81d034e6c9dc75",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Japan raids ice cream giants over price-fixing allegations",
+      "url": "https://www.bbc.com/news/articles/c0ly0k88e61o?at_medium=RSS&at_campaign=rss",
+      "summary": "Japanese authorities raided ice cream giants over allegations of price-fixing, as the country faces record summer temperatures. The investigation concerns alleged cartel pricing of ice cream products.",
+      "tags": [
+        "japan",
+        "business",
+        "competition law"
+      ],
+      "priority": false
+    },
+    {
+      "id": "65b2dfae03aae032",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Leader of South Africa's second biggest party wants his predecessor sacked as minister",
+      "url": "https://www.bbc.com/news/articles/ce8jg660r73o?at_medium=RSS&at_campaign=rss",
+      "summary": "John Steenhuisen, leader of South Africa's second-biggest party, wants his predecessor sacked as minister, highlighting internal political tensions. Steenhuisen has led the Democratic Alliance for seven years.",
+      "tags": [
+        "politics",
+        "south africa",
+        "leadership"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b76b62794e99447c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Nigerian man jailed for storing human faeces outside his home",
+      "url": "https://www.bbc.com/news/articles/ce8jgr3vggno?at_medium=RSS&at_campaign=rss",
+      "summary": "A Nigerian man has been jailed for storing human faeces outside his home, which neighbors described as creating an overwhelming stench and making it impossible to relax.",
+      "tags": [
+        "nigeria",
+        "crime",
+        "public health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bb666f81c2287da9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Norway's crown princess undergoes successful lung transplant, palace says",
+      "url": "https://www.bbc.com/news/articles/c1eyg37qyqjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Norway's Crown Princess Mette-Marit has undergone a successful lung transplant for pulmonary fibrosis and is expected to spend several weeks recovering in hospital. The palace confirmed her successful procedure.",
+      "tags": [
+        "royalty",
+        "health",
+        "norway"
+      ],
+      "priority": false
+    },
+    {
+      "id": "09178f13414880ba",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Serial killer who murdered eight women in Long Island town imprisoned for life",
+      "url": "https://www.bbc.com/news/articles/clyw29kvlydo?at_medium=RSS&at_campaign=rss",
+      "summary": "A serial killer responsible for murdering eight women in a Long Island town was sentenced to three life sentences plus 25 years to life on four other consecutive charges. The judge delivered a fiery exchange during the sentencing.",
+      "tags": [
+        "crime",
+        "justice",
+        "us"
+      ],
+      "priority": false
+    },
+    {
+      "id": "956aeacef997d5a3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
+      "url": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss",
+      "summary": "The status quo at Jerusalem's al-Aqsa mosque compound is under threat due to Israeli nationalists increasingly flouting rules governing how faiths share the holy site. This situation raises concerns about religious tensions and conflict.",
+      "tags": [
+        "israel",
+        "palestine",
+        "religion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "37227d82fab93dd9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Telegram challenges India ban over exam paper leak fears",
+      "url": "https://www.bbc.com/news/articles/c4gy40q8wz0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Telegram is challenging an India ban imposed due to fears of exam paper leaks, with CEO Pavel Durov calling it a \"mistake\" that punishes millions of users. The company argues against the government's decision to restrict its services.",
+      "tags": [
+        "india",
+        "censorship",
+        "messaging app"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9bd59861af1e0043",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "The bikers battling extreme heat and armed conflict to smuggle Iranian fuel to Pakistan",
+      "url": "https://www.bbc.com/news/articles/c621jr3yy09o?at_medium=RSS&at_campaign=rss",
+      "summary": "It's so hot the fuel can catch fire - the bikers tell the BBC they must live with the risk of injury and death.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "7701c62f615e0000",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Epic Games announces Lore version control system",
+      "url": "https://lore.org/",
+      "summary": "Epic Games announced Lore, a new version control system. The announcement provides insight into tools designed for game development and potentially broader software engineering.",
+      "tags": [
+        "gaming",
+        "software development",
+        "version control"
+      ],
+      "priority": false
+    },
+    {
+      "id": "725914a3dd778a99",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+      "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+      "summary": "Article URL:\nhttps://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index\nComments URL:\nhttps://news.ycombinator.com/item?id=48567759\nPoints: 553\n# Comments: 297",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f5b1f195cd3ac407",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "GrapheneOS has been ported to Android 17",
+      "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+      "summary": "GrapheneOS, a privacy-focused Android distribution, has been successfully ported to Android 17, with official releases expected soon. This update signifies continued development for enhanced mobile security.",
+      "tags": [
+        "android",
+        "privacy",
+        "mobile os"
+      ],
+      "priority": false
+    },
+    {
+      "id": "956c8e98db8804fa",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Hacker News but for Independent Blogs",
+      "url": "https://bubbles.town/",
+      "summary": "\"Bubbles.town\" is presented as a \"Hacker News but for Independent Blogs.\" This new platform aims to aggregate content from independent bloggers, fostering a community around diverse voices.",
+      "tags": [
+        "social media",
+        "blogging",
+        "community"
+      ],
+      "priority": false
+    },
+    {
+      "id": "95b5cba8930efaa6",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Humiliating IIS servers for fun and jail time",
+      "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+      "summary": "An article describes methods for exploiting and \"humiliating\" IIS servers, emphasizing potential cybersecurity vulnerabilities. The piece also includes a cautionary note about legal consequences for such activities.",
+      "tags": [
+        "cybersecurity",
+        "web servers",
+        "vulnerabilities"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e51ac8310b196848",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "RFC 10008: The new HTTP Query Method",
+      "url": "https://www.rfc-editor.org/info/rfc10008/",
+      "summary": "A new RFC (10008) introduces the HTTP Query Method. This technical update impacts web development and how information is requested over HTTP.",
+      "tags": [
+        "web development",
+        "networking",
+        "standards"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6f8e95e033c8f66c",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Show HN: High-Res Neural Cellular Automata",
+      "url": "https://cells2pixels.github.io/",
+      "summary": "Neural CAs model self-organizing pattern formation.\nNow they can generate patterns at HD resolution in real-time, enabled by turning each CA cell into a Neural Field.\nTry 3 demos: grow a pattern from a seed (and damage it, it heals), synthesize PBR textures that can regenerate, o…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "b190d4188766623d",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+      "url": "https://wpvip.com/future-of-the-web-2026/",
+      "summary": "Article URL:\nhttps://wpvip.com/future-of-the-web-2026/\nComments URL:\nhttps://news.ycombinator.com/item?id=48569278\nPoints: 685\n# Comments: 376",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "91c079990b4afbbf",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Volkswagen started blocking GrapheneOS users",
+      "url": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
+      "summary": "Volkswagen has started blocking users of GrapheneOS, a privacy-focused Android distribution, from accessing its app. This action restricts functionality for privacy-conscious users.",
+      "tags": [
+        "privacy",
+        "automotive",
+        "android"
+      ],
+      "priority": false
+    },
+    {
+      "id": "96db29934065ae00",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Want your images back? Sure... That'll be $5!",
+      "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
+      "summary": "A developer highlights a service charging a $5 fee for users to retrieve their images, implying exploitative practices around data ownership. This raises concerns about user rights and fair access to personal data.",
+      "tags": [
+        "data ownership",
+        "saas",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "83af738dffdb0623",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "Exclusive eBook: How AI is becoming the next military advisor",
+      "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
+      "summary": "A collection of stories about how militaries are using AI models to make decisions.\nThis subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent d…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "0b700b0217a6d994",
+      "source": "Noahpinion",
+      "source_type": "substack",
+      "title": "Iran is Trump's Katrina",
+      "url": "https://www.noahpinion.blog/p/iran-is-trumps-katrina",
+      "summary": "Photo by Jocelyn Augustino via\nWikimedia Commons\nYoung people won’t remember this, but there was a distinct point at which\nGeorge W. Bush started to lose the country\n. In August 2005, a giant hurricane swamped New Orleans, killing over a thousand people and washing away whole par…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "fbd36f1ca229d14d",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "'Rejected': How federal prisons stonewall grievances and deny care for years",
+      "url": "https://www.npr.org/2026/06/17/nx-s1-5343603/prison-lawsuits-grievance-denial-investigation",
+      "summary": "An analysis by The Marshall Project and NPR revealed that most grievances filed by federal prisoners regarding abuse or denied medical care are stonewalled for years. This highlights systemic issues in the prison grievance process.",
+      "tags": [
+        "prisons",
+        "justice system",
+        "human rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "efc52875e5005095",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "FAQ: How World Cup fans and workers can stay safe in the heat",
+      "url": "https://www.npr.org/2026/06/17/nx-s1-5742525/world-cup-heat-exhaustion-hot-weather-soccer",
+      "summary": "Over a third of World Cup matches are predicted to face dangerously hot and humid weather, prompting advice on how fans and workers can protect themselves from heat illness. Safety guidelines are crucial for attendees.",
+      "tags": [
+        "world cup",
+        "health",
+        "climate"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a8c86268a2ee1051",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Greetings from Maputo, Mozambique's capital, shaped by a modernist architecture",
+      "url": "https://www.npr.org/2026/06/17/nx-s1-5853087/maputo-mozambique-modernist-architecture",
+      "summary": "Mozambique's capital, Maputo, showcases a unique modernist architecture shaped by architect Amâncio \"Pancho\" Guedes. An impromptu tour reveals the distinctive artistic and structural imprint left by the architect.",
+      "tags": [
+        "mozambique",
+        "architecture",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ef93a196596df6d0",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "On a flight home, a stranger helped her understand what came next",
+      "url": "https://www.npr.org/2026/06/17/nx-s1-5857760/on-a-flight-home-a-stranger-helped-her-understand-what-came-next",
+      "summary": "A woman, after learning she might need brain surgery, received an unexpected explanation of what lay ahead from a stranger seated next to her on a flight. This personal encounter offered comfort and clarity during a difficult time.",
+      "tags": [
+        "personal story",
+        "health",
+        "human connection"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f3399de32e91cf30",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Pakistan ends 'luxury tax' on menstrual products, contraceptives. Will prices drop?",
+      "url": "https://www.npr.org/2026/06/17/g-s1-128442/menstrual-products-contraceptives-pakistan-luxury-tax",
+      "summary": "Pakistan has eliminated an 18% sales tax on menstrual products and contraceptives, a move long advocated by activists, though the impact on prices for consumers remains uncertain. This reform aims to improve access to essential health products.",
+      "tags": [
+        "pakistan",
+        "women's health",
+        "tax policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "526fa00b3778db9b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Senate postpones confirmation hearing for intel chief after Trump's call to delay",
+      "url": "https://www.npr.org/2026/06/17/nx-s1-5859298/jay-clayton-confirmation-hearing-director-of-national-intelligence",
+      "summary": "Senators wanted to fast track President Trump's pick for Director of National Intelligence. But Trump now says he wants to delay until they pass voting legislation that already failed in the Senate.\n(Image credit: Chip Somodevilla)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "ca6581c46f2e196b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Tropical Storm Arthur is the first named storm of the Atlantic hurricane season",
+      "url": "https://www.npr.org/2026/06/17/g-s1-128578/tropical-storm-arthur-first-named-storm-atlantic-hurricane-season",
+      "summary": "Tropical Storm Arthur, the first named storm of the Atlantic hurricane season, is expected to cause life-threatening flash floods along the northern Gulf Coast but is not predicted to strengthen further. Forecasters are monitoring its impact.",
+      "tags": [
+        "weather",
+        "hurricane season",
+        "us"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2811c1d203fee415",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump to face questions at G7 press conference. And, Tuesday's primary results",
+      "url": "https://www.npr.org/2026/06/17/g-s1-128547/up-first-newsletter-tentative-iran-ceasefire-agreement-g7-trump-kevin-warsh-georgia-primaries",
+      "summary": "Trump has touted his tentative agreement with Iran at the G7 summit. Today, he is expected to field questions at a press conference as the summit wraps up. And, a look at Tuesday's primary election results.\n(Image credit: Ludovix Marin)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c61aa86cd459dd09",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "With Iran deal, Trump told ships to 'start your engines.' That's not happening yet",
+      "url": "https://www.npr.org/2026/06/17/nx-s1-5860909/iran-ships-strait-of-hormuz-trump",
+      "summary": "Iran's control of the Strait of Hormuz inflicted global pain during the months-long conflict with the U.S. and Israel. A tentative deal is in place, but questions remain about the key waterway.\n(Image credit: Amirhossein Khorgooei)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "ddfa664608e86f75",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Mike Collins wins Georgia GOP Senate runoff, setting up major clash with Jon Ossoff",
+      "url": "https://www.politico.com/news/2026/06/16/collins-ossoff-georgia-senate-race-00964625",
+      "summary": "Mike Collins, backed by a late endorsement from President Trump, won the Georgia GOP Senate runoff, setting him up to challenge incumbent Democratic Senator Jon Ossoff in a closely watched race. This victory marks another success for Trump's endorsement record.",
+      "tags": [
+        "us politics",
+        "elections",
+        "trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0c747157b2cdf7be",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Robert White wins DC delegate primary",
+      "url": "https://www.politico.com/news/2026/06/17/white-wins-dc-delegate-primary-00964683",
+      "summary": "Robert White won the Democratic primary for Washington, D.C.'s delegate, poised to become the city's first new delegate in over 35 years. He plans to champion affordability, public safety, and D.C. autonomy in Congress.",
+      "tags": [
+        "us politics",
+        "washington dc",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3820a07c1657d643",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?",
+      "url": "https://www.quantamagazine.org/seven-perfect-shuffles-randomize-a-deck-of-cards-but-how-many-sloppy-ones-20260617/",
+      "summary": "Mathematicians proved in 1992 that seven \"riffle shuffles\" are enough to randomize a deck of cards, also revealing surprising dynamics during the process. This famous proof quantifies the randomness achieved through card shuffling.",
+      "tags": [
+        "mathematics",
+        "probability",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "83128be888ef52f8",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "<click-to-play> — a still that plays",
+      "url": "https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything",
+      "summary": "A new <click-to-play> Web Component allows deferring the loading of large GIFs by showing a still frame with a play button. This improves page performance by loading the GIF only on demand.",
+      "tags": [
+        "web development",
+        "performance",
+        "javascript"
+      ],
+      "priority": false
+    },
+    {
+      "id": "034142d603373931",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "datasette 1.0a34",
+      "url": "https://simonwillison.net/2026/Jun/16/datasette/#atom-everything",
+      "summary": "Datasette 1.0a34 introduces significant new features, allowing users to insert, edit, and delete rows directly within the Datasette interface. This enhancement was inspired by the capabilities of Datasette Agent.",
+      "tags": [
+        "database tools",
+        "open source",
+        "data management"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e85a737f10a56e59",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "datasette-tailscale 0.1a0",
+      "url": "https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything",
+      "summary": "An experimental alpha plugin, datasette-tailscale 0.1a0, enables starting a localhost Datasette server with a Tailscale sidecar, connecting it to a Tailnet for secure access. This offers a new way to securely expose local services.",
+      "tags": [
+        "networking",
+        "security",
+        "open source"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ba3d397c9e463f4a",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "NetNewsWire Status",
+      "url": "https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything",
+      "summary": "The article highlights the inspiring dedication of Brent Simmons, who is making NetNewsWire, an open-source RSS reader, exceptionally good as a retirement project free from commercial pressures. It celebrates a passion-driven approach to software development.",
+      "tags": [
+        "open source",
+        "rss reader",
+        "software development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "852157ad8303f5b0",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "The real problem with “gifted” education",
+      "url": "https://www.slowboring.com/p/the-real-problem-with-gifted-education",
+      "summary": "The author critiques gifted education programs, arguing that while giftedness is real and identifiable, many programs are ineffective despite intense parental focus on selection rather than actual educational impact. The effectiveness of such programs is often overrated due to selection effects.",
+      "tags": [
+        "education",
+        "policy",
+        "parenting"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ad1a3c33fc29f1d6",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
+      "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+      "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "4898e91a261f11ee",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apple plans to change its Hide My Email privacy feature that could make it less effective",
+      "url": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/",
+      "summary": "Apple plans to alter its \"Hide My Email\" privacy feature in the coming weeks by moving anonymously generated email addresses to a different domain. This change could potentially reduce the feature's effectiveness.",
+      "tags": [
+        "privacy",
+        "apple",
+        "email"
+      ],
+      "priority": false
+    },
+    {
+      "id": "084d7fe8d90cc909",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
+      "url": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
+      "summary": "The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "41447c83636cf15b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
+      "url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+      "summary": "If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "faa3d40f0317cb54",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "DeepL acquires Mixhalo for live-event audio streaming and translation",
+      "url": "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/",
+      "summary": "DeepL acquired Mixhalo to integrate live-event audio streaming and translation capabilities, and will open a San Francisco office to expand its U.S. operations.",
+      "tags": [
+        "acquisition",
+        "translation",
+        "audio"
+      ],
+      "priority": false
+    },
+    {
+      "id": "80a7864bc4f9451b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Google bets on Gemini to reinvent the smart home speaker",
+      "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
+      "summary": "Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversational Gemini interactions.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "23fa27d0da64f59b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "PayPal Ventures shutters as company restructuring continues",
+      "url": "https://techcrunch.com/2026/06/17/paypal-ventures-shutters-as-company-restructuring-continues/",
+      "summary": "PayPal Ventures, the company's corporate venture arm, is shutting down after 10 years and 80 investments as part of ongoing company restructuring.",
+      "tags": [
+        "finance",
+        "venture capital",
+        "paypal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6dd3863a19ac64e7",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
+      "url": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
+      "summary": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "afe05a8e50993ea2",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
+      "url": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+      "summary": "Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation — where errors can be costly and reliability is at a premium.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "06972601d0e1be0b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The slowtech revolution is here to kill your phone addiction and rescue your attention span",
+      "url": "https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/",
+      "summary": "A \"slowtech revolution\" is emerging, driven by people seeking to regain control of their time and attention span from phone addiction. This trend suggests a desire for technology that helps users disengage rather than consume more.",
+      "tags": [
+        "technology",
+        "wellness",
+        "digital detox"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c85fdd9b0b6dcbdc",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Uber will bring its premium robotaxi service to Houston in 2027",
+      "url": "https://techcrunch.com/2026/06/17/uber-will-bring-its-premium-robotaxi-service-to-houston-in-2027/",
+      "summary": "Uber plans to launch its premium robotaxi service in Houston in 2027, making it the second market to feature Lucid EVs equipped with Nuro's self-driving system.",
+      "tags": [
+        "robotaxi",
+        "automotive",
+        "transportation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1e59688bb8e93f5c",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "America’s Great Dad Divide",
+      "url": "https://www.thefp.com/p/america-fatherhood-childless-men",
+      "summary": "American fatherhood is strong, with data showing fathers investing record amounts of time and affection in their children, a trend linked to increased marriage stability and declining divorce rates. This shift contributes to more children growing up with their fathers present.",
+      "tags": [
+        "society",
+        "family",
+        "parenting"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cb6207b9533b0c8f",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Could a Libertarian Tip the Texas Senate Race?",
+      "url": "https://www.thefp.com/p/texas-senate-libertarian-spoiler",
+      "summary": "The Texas Senate race is expected to be close, with a Libertarian candidate potentially playing a spoiler role by drawing enough votes to influence the outcome between the GOP and Democratic nominees. The Libertarian candidate previously secured a notable percentage of the vote.",
+      "tags": [
+        "us politics",
+        "elections",
+        "texas"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fa409c6daa26ebee",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Great Americans: Alice Paul, America’s Gandhi",
+      "url": "https://www.thefp.com/p/great-americans-alice-paul",
+      "summary": "Alice Paul, a suffragist, is celebrated for her pivotal role in securing women's right to vote in 1920, orchestrating impactful protests and effectively challenging political opposition. Her efforts led to the ratification of the Susan B. Anthony Amendment.",
+      "tags": [
+        "history",
+        "women's rights",
+        "suffragist"
+      ],
+      "priority": false
+    },
+    {
+      "id": "db8c0147e702e443",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "I’m Jewish. Can I Still Be a Democrat?",
+      "url": "https://www.thefp.com/p/im-jewish-can-i-still-be-a-democrat",
+      "summary": "American Jews have experienced a significant rise in prejudice, leading to questions about whether they can still identify as Democrats, citing violent incidents and anti-Jewish sentiment. The community faces a challenging political landscape.",
+      "tags": [
+        "us politics",
+        "jewish community",
+        "antisemitism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e9bc854bb9a6dc91",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "This Week in American History: The Plot Against Washington",
+      "url": "https://www.thefp.com/p/this-week-in-american-history-plot-against-washington",
+      "summary": "An historical account from June 1776 details the discovery of a plot against George Washington and the Continental Army in New York City, involving members of Washington's elite \"life guard.\" The plot aimed to undermine the revolutionary forces.",
+      "tags": [
+        "history",
+        "american revolution",
+        "george washington"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f4fff567a8581611",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "Dostoyevsky, Just After His Death Sentence Was Repealed, on the Meaning of Life",
+      "url": "https://www.themarginalian.org/2026/06/17/dostoyevsky-execution-life/",
+      "summary": "Fyodor Dostoyevsky, after his death sentence was commuted to hard labor, reflected profoundly on the meaning of life, emphasizing resilience and human connection. He found renewed appreciation for life and pledged to be reborn for the better.",
+      "tags": [
+        "philosophy",
+        "literature",
+        "personal reflection"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7898815cf9f3f05d",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Can anyone look cool wearing Snap’s $2,000 glasses?",
+      "url": "https://www.theverge.com/report/951481/snap-specs-wearables-smart-glasses-fashion",
+      "summary": "Snap CEO Evan Spiegel wearing the Snap Specs. They’re not the worst on him, but bold fashion rarely makes for mainstream success. | Screenshot:\nCNBC\nYesterday, Snap debuted its new\n$2,195 Specs glasses\n. In an\ninterview with CNBC\n, Snap CEO Evan Spiegel described the Specs as som…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "fc1094f6c7aaed2b",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "How to find the best deals during Amazon’s Prime Day sale",
+      "url": "https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find",
+      "summary": "Amazon's Prime Day sale runs from June 23rd to June 27th, offering significant discounts. Tips for finding the best deals include using price-tracking tools like CamelCamelCamel, Slickdeals, Keepa, and Amazon's Alexa for Shopping feature.",
+      "tags": [
+        "shopping",
+        "deals",
+        "prime day"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f212ce025527e624",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "In a big year for horror, Widow’s Bay still stands apart",
+      "url": "https://www.theverge.com/entertainment/951391/widows-bay-season-1-finale-apple-tv-horror",
+      "summary": "Widow's Bay is highlighted as an impressive horror series for 2026, successfully blending scares and laughs while paying tribute to the genre. It stands out in a strong year for horror films and franchises.",
+      "tags": [
+        "horror",
+        "tv series",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ea01b6b4d6fe0ce4",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "In Toy Story 5, the problem really is these damn phones (and tablets)",
+      "url": "https://www.theverge.com/entertainment/950739/toy-story-5-review",
+      "summary": "Toy Story 5 explores the impact of smart gadgets and digital platforms on children's playtime, continuing the franchise's theme of toys evolving with technology. The story poignantly reflects on growing up in a screen-dominated world.",
+      "tags": [
+        "film",
+        "technology",
+        "parenting"
+      ],
+      "priority": false
+    },
+    {
+      "id": "08417d0c3de308f2",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Paramount Plus is two dollars for two months of ad-free viewing",
+      "url": "https://www.theverge.com/gadgets/950929/paramount-plus-two-month-deal-sale",
+      "summary": "Paramount Plus is offering new and former subscribers two months for 99 cents per month for either Essential (ad-supported) or Premium (ad-free) plans. The deal provides access to a vast catalog of TV shows, movies, live NFL games, and UEFA Champions League matches.",
+      "tags": [
+        "streaming",
+        "deal",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "75beba9ef084b948",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "SanDisk’s new PlayStation 5 SSD will cost you more than three PS5 Pros",
+      "url": "https://www.theverge.com/tech/951527/sandisk-optimus-gx-pro-850p-nvme-ssd-8tb-ps5-playstation-sony",
+      "summary": "SanDisk announced its Optimus GX PRO 850P NVMe SSD, an officially licensed PS5 accessory, with the 8TB option costing $2,959.99 due to a global memory shortage. This price point is equivalent to more than three PS5 Pro consoles.",
+      "tags": [
+        "gaming",
+        "hardware",
+        "storage"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c345c96521ffecdb",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The Echo Dot Max is cheaper than ever in an early Prime Day sale",
+      "url": "https://www.theverge.com/gadgets/951602/amazon-echo-dot-max-early-prime-day-deal-sale",
+      "summary": "The Echo Dot Max comes in a variety of fun colors, including purple. | Photo by Jennifer Pattison Tuohy / The Verge\nWe’re seeing\ngood early Prime Day deals\nahead of the event next week, and unsurprisingly, some of the best deals are on Amazon’s own devices. Several Echo speakers…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "b0f498f05883fb20",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "We got free GTA V upgrades before GTA VI",
+      "url": "https://www.theverge.com/games/951533/gta-v-ps5-xbox-series-x-upgrade",
+      "summary": "Rockstar Games is offering free upgrades for Grand Theft Auto V to PlayStation 5 and Xbox Series X/S, saving players $39.99 before GTA VI's launch. This update also introduces new heists to GTA Online in July.",
+      "tags": [
+        "gaming",
+        "updates",
+        "rockstar"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 94,
+    "summarized": 72,
+    "skipped_promos": 1,
+    "filtered_by_rules": 21,
+    "sources": 14,
+    "email_items_omitted": 0
+  }
+}
