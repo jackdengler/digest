@@ -1,0 +1,1169 @@
+{
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T16:56:32+00:00",
+  "hot_topics": [
+    {
+      "topic": "US-Iran Agreement to End Conflict",
+      "synthesis": "The US and Iran have signed a preliminary 14-point memorandum of understanding to end the war, which includes an end to fighting, a pledge for Iran to never possess nuclear weapons, and a $300 billion redevelopment package for Iran. While some see the deal as a surrender, others believe careful enforcement could achieve US aims, with debates ongoing about its effectiveness and the specifics of its terms, especially regarding nuclear ambitions and regional stability. The agreement has drawn criticism from both sides of the political spectrum regarding its implications for American foreign policy and Iran's position.",
+      "item_ids": [
+        "70ed5831e07d64e5",
+        "9ab246043551e01e",
+        "d899a37b56521af3",
+        "a050630c78a77614",
+        "89e713aaa3641731",
+        "1cec7d2913b77efc",
+        "92c7301b87083f7c",
+        "51d6df3af9a23734",
+        "b973ccf20922804b",
+        "4fc32a290f9f40af",
+        "7242379eaf50d58b",
+        "a87beb207a8f838a",
+        "f9623cb6b06898b5"
+      ]
+    },
+    {
+      "topic": "Advancements and Challenges in AI/LLMs",
+      "synthesis": "AI technology continues rapid development, with new large language models like GLM-5.2 showing impressive coding and general intelligence capabilities. Adobe is integrating AI assistants into its Creative Cloud apps like Photoshop and Premiere to help with organization and task automation, and is also reimagining its Firefly AI studio for more persistent context in design. However, the AI boom also presents challenges, including the geopolitical concern that world leaders fear losing access to American AI and the impact on hardware costs for devices.",
+      "item_ids": [
+        "9055ec44821c5e72",
+        "4f6f8895197893f0",
+        "6ba2a27370923849",
+        "4e2e03d44e289884",
+        "0fa7f9edb88f59dd",
+        "49431092728ace8a",
+        "dce23d3926e41495",
+        "83f3eddd1714983d",
+        "19c668d6e7b4ce1a",
+        "c505e1c62f7d7e78",
+        "cfec013f5b8687ec",
+        "b51239e993538394",
+        "83771bf0bc64dc2d",
+        "2f20cb2b013eaa10",
+        "e04fe9cb560687bf",
+        "24dc1824c64c1052",
+        "97b4dd0d086a7434"
+      ]
+    },
+    {
+      "topic": "Ukrainian Drone Attacks on Russia",
+      "synthesis": "Ukraine launched a significant wave of drone attacks on Russia, hitting an oil refinery near Moscow and other sites, leading to reports of black rain from residents. This large-scale assault, one of the biggest on the Russian capital since the invasion, raises questions about Russia's response and whether President Putin will alter his military tactics in the conflict.",
+      "item_ids": [
+        "7bff21cc2c59d4e1",
+        "0ef436cef27b94d2",
+        "cf01051f35f8cf55"
+      ]
+    },
+    {
+      "topic": "Apple Product Prices Rising Due to AI Costs",
+      "synthesis": "The rising costs of AI, particularly for chips, are projected to force Apple to increase prices for its products, including iPhones. CEO Tim Cook acknowledged that the current situation is unsustainable, indicating future price adjustments without specifying affected products or timing.",
+      "item_ids": [
+        "b1efac29bd96393a",
+        "94459fa8c346d7b5"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "5cb2ba0bb2cf6a1c",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Neanderthal 1",
+      "url": "https://aeon.co/videos/the-story-of-the-16-bones-that-upended-how-we-see-our-species",
+      "summary": "The story of 16 Neanderthal bones discovered in Germany is highlighted as having reshaped our understanding of early human species and ourselves. The site where these bones were found became crucial for comprehending Neanderthals.",
+      "tags": [
+        "archaeology",
+        "neanderthals",
+        "human evolution"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9be12db3fb87b604",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Words, words, words",
+      "url": "https://aeon.co/essays/literature-fans-should-welcome-ai-as-a-fellow-wordsmith",
+      "summary": "An essay argues that literature enthusiasts should embrace AI as a fellow wordsmith, despite strong resistance from writers. The author suggests focusing on the shared foundation of language between humans and machines.",
+      "tags": [
+        "ai",
+        "literature",
+        "writing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f5e9f42dce53a048",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "\"Truly evil\" FDA rejection of gene therapy overturned after Trump official ousted",
+      "url": "https://arstechnica.com/health/2026/06/truly-evil-fda-rejection-of-gene-therapy-overturned-after-trump-official-ousted/",
+      "summary": "A gene therapy for Huntington's disease, AMT-130 by UniQure, has received a new path towards FDA approval after the reversal of a previous rejection. The initial \"truly evil\" rejection, overseen by an ousted Trump official, had blocked a promising treatment showing potential to slow disease progression.",
+      "tags": [
+        "medicine",
+        "gene therapy",
+        "fda"
+      ],
+      "priority": false
+    },
+    {
+      "id": "24dc1824c64c1052",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
+      "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
+      "summary": "What happens when you give AI coding agents a lab full of robotic arms, some compute resources, and a “generous token budget” for teaching the robots various tasks? The agents can apparently figure out a training regimen that teaches the robots to successfully cut zip ties and ev…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "4b5203d2402185c5",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "California says AT&T lied to FCC in attempt to shut off old phone network",
+      "url": "https://arstechnica.com/tech-policy/2026/06/california-says-att-lied-to-fcc-in-attempt-to-shut-off-old-phone-network/",
+      "summary": "California regulators accuse AT&T of lying to the FCC in an attempt to shut down its old copper phone network without providing an adequate replacement. AT&T is also suing California over its refusal to allow the company to cease service to approximately 199,000 wireline customers.",
+      "tags": [
+        "telecom",
+        "regulation",
+        "fcc"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ebbba01596d79d43",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Hulk, Punisher join Peter Parker in Spider-Man: Brand New Day trailer",
+      "url": "https://arstechnica.com/culture/2026/06/hulk-punisher-join-peter-parker-in-spider-man-brand-new-day-trailer/",
+      "summary": "Sony Pictures released a new trailer for \"Spider-Man: Brand New Day,\" the sequel to \"No Way Home,\" set to debut in about six weeks. The film continues Peter Parker's story after he asked Doctor Strange to erase his memory from everyone, including MJ, to protect the multiverse.",
+      "tags": [
+        "film",
+        "marvel",
+        "spider-man"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2b0cbb5e562baac7",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Hunter-gatherers in Siberia died of a plague outbreak 5,500 years ago",
+      "url": "https://arstechnica.com/science/2026/06/hunter-gatherers-in-siberia-died-of-a-plague-outbreak-5500-years-ago/",
+      "summary": "Ancient DNA research confirmed a plague outbreak 5,500 years ago among Siberian hunter-gatherers, identifying the earliest known strain of Yersinia pestis. This discovery challenges previous theories that the plague only became lethal with denser agricultural settlements.",
+      "tags": [
+        "plague",
+        "siberia",
+        "archaeology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8d7de6090193bce9",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Second carcass-eating fly species cleared by FDA for maggot wound therapy",
+      "url": "https://arstechnica.com/health/2026/06/second-carcass-eating-fly-species-cleared-by-fda-for-maggot-wound-therapy/",
+      "summary": "The FDA has cleared a second fly species, Lucilia cuprina, for maggot wound therapy, potentially expanding the biosurgery market. Cuprina Holdings now has FDA clearance for two species, including the commonly used Lucilia sericata.",
+      "tags": [
+        "medicine",
+        "fda",
+        "therapy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2a97244e72b7397e",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Sooner than expected? Useful quantum error correction promised for 2028.",
+      "url": "https://arstechnica.com/science/2026/06/amazon-quera-promise-useful-quantum-error-correction-by-2028/",
+      "summary": "Amazon and Quera promise useful quantum error correction as early as 2028, a timeframe considered remarkably soon by many in the field. This advancement is crucial for applying quantum computing to complex problems, requiring logical qubits for error detection and correction.",
+      "tags": [
+        "quantum computing",
+        "technology",
+        "error correction"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a75bba85b2fa55b2",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Ten months later, the $100 Google Home Speaker is finally available for preorder",
+      "url": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/",
+      "summary": "Google's new Home Speaker, its first smart home audio device in nearly six years, is finally available for preorder at $100 after being announced last August. The small, round, fabric-covered speaker offers \"360-degree sound,\" features a light ring, and includes three far-field microphones.",
+      "tags": [
+        "smart home",
+        "audio",
+        "google"
+      ],
+      "priority": false
+    },
+    {
+      "id": "46edb0f24f4d7ab3",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”",
+      "url": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
+      "summary": "UK retail conglomerate Tesco is migrating 40,000 server workloads off VMware, citing \"abusive conduct\" from Broadcom after its acquisition of VMware. Tesco alleges Broadcom refused to honor previous licensing deals and demanded inflated prices for virtualization software already paid for.",
+      "tags": [
+        "cloud",
+        "software",
+        "enterprise"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0e7a22a3544832d8",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "The Slate Truck's price may have leaked, starts at $24,950",
+      "url": "https://arstechnica.com/cars/2026/06/the-slate-trucks-price-may-have-leaked-starts-at-24950/",
+      "summary": "The price for Slate Auto's much-anticipated Blank Slate electric pickup truck may have leaked, reportedly starting at $24,950. The vehicle is designed as a back-to-basics EV with a compact footprint and optional features, targeting affordability after the $7,500 IRS clean vehicle tax credit was abolished.",
+      "tags": [
+        "automotive",
+        "ev",
+        "pricing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "40fa3838eaee8cb7",
+      "source": "Astral Codex Ten",
+      "source_type": "substack",
+      "title": "Waiting For The Miracle",
+      "url": "https://www.astralcodexten.com/p/waiting-for-the-miracle",
+      "summary": "The author investigated recurring 'sun miracles' witnessed by thousands of people in Fatima, Portugal, and Medjugorje, Bosnia, and similar events, which defy conventional explanations. This personal exploration seeks to understand phenomena often dismissed as mass hallucinations.",
+      "tags": [
+        "miracles",
+        "religion",
+        "phenomena"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fc617d2ea7299d4b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'I buried my parents one day after the other' - Ebola mourners learn how to grieve safely",
+      "url": "https://www.bbc.com/news/articles/cj3gx8jl6d5o?at_medium=RSS&at_campaign=rss",
+      "summary": "A cemetery at the epicentre of the outbreak is rapidly filling up, however large traditional funerals have been scrapped.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "dc90eb5605c16ae8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'We had to get out of the way': The backlash over delivery robots",
+      "url": "https://www.bbc.com/news/articles/c0rygp005wjo?at_medium=RSS&at_campaign=rss",
+      "summary": "A growing backlash against delivery robots is emerging in US cities, with bans and protest groups forming as these vehicles increasingly operate on streets. Concerns are rising about their impact on public spaces and pedestrian safety.",
+      "tags": [
+        "robotics",
+        "delivery",
+        "urban planning"
+      ],
+      "priority": false
+    },
+    {
+      "id": "94459fa8c346d7b5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Apple to raise prices as AI boom pushes up chip costs",
+      "url": "https://www.bbc.com/news/articles/c3wyxvqdx1zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The firm's outgoing boss Tim Cook did not say when prices would rise or which products would be affected.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "21171e397d50ea94",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Bird flu kills more than 75% of baby seals on remote Australian island, study finds",
+      "url": "https://www.bbc.com/news/articles/cr5jdy92gyeo?at_medium=RSS&at_campaign=rss",
+      "summary": "A study found that bird flu (H5N1 strain) has killed over 75% of baby seals on remote Heard Island, with scientists reporting 13,000 southern elephant seal pups dead. This outbreak highlights a significant wildlife health crisis.",
+      "tags": [
+        "wildlife",
+        "bird flu",
+        "h5n1"
+      ],
+      "priority": false
+    },
+    {
+      "id": "70ed5831e07d64e5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
+      "url": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
+      "summary": "While the human cost is clear, the Iranian regime has not just survived the war, it has been empowered.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "7d19c67508f3f6fd",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "British man dies in paragliding accident in Spain",
+      "url": "https://www.bbc.com/news/articles/c1dye3e9gnwo?at_medium=RSS&at_campaign=rss",
+      "summary": "A 63-year-old British man died in a paragliding accident in the Palau de Noguera area of Catalonia, Spain. Authorities confirmed his death on Wednesday.",
+      "tags": [
+        "accident",
+        "spain",
+        "paragliding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7c959aeeb95ce749",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "First Russian shadow fleet tanker enters Channel since Smyrtos boarding",
+      "url": "https://www.bbc.com/news/articles/cgk6d12lz6jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Forwarder, a Russian-flagged vessel from the 'shadow fleet,' entered the Channel on Wednesday evening, marking the first time such a tanker has done so since the Smyrtos boarding incident. This movement signals continued Russian maritime activity despite international scrutiny.",
+      "tags": [
+        "shipping",
+        "russia",
+        "maritime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "330983669580d8d2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Gunmen attack Niger's biggest airport for second time in months",
+      "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
+      "summary": "Gunmen attacked Niger's largest airport for the second time in months, continuing a decade-long militant Islamist insurgency in the country. Suspected jihadists also targeted the same airport in January.",
+      "tags": [
+        "niger",
+        "security",
+        "insurgency"
+      ],
+      "priority": false
+    },
+    {
+      "id": "002e852bb1d0d6e1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Hegseth renews Nato criticism and says US will review presence in Europe",
+      "url": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss",
+      "summary": "US Defense Secretary Hegseth has renewed criticism of NATO and indicated that the US will review its military presence in Europe. This follows a previous decision by the US to scale back its commitments to the alliance's high readiness force.",
+      "tags": [
+        "nato",
+        "us foreign policy",
+        "defense"
+      ],
+      "priority": false
+    },
+    {
+      "id": "99442f68cc52e837",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Japan ramping up defence is 'critical' to prevent war, Defence Minister Koizumi tells BBC",
+      "url": "https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Japan's Defence Minister Koizumi stated that ramping up defense is 'critical' to prevent war, signaling a need for Japan to re-evaluate its post-World War Two pacifist stance. This move is aimed at strengthening the country's security posture.",
+      "tags": [
+        "japan",
+        "defense",
+        "geopolitics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "81dfde9e3c120856",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Jury fails to reach verdict in Norwegian 'hitman' trial",
+      "url": "https://www.bbc.com/news/articles/cz6v1qw7d0no?at_medium=RSS&at_campaign=rss",
+      "summary": "A jury failed to reach a verdict in the trial of Johannes Natland, 19, who was accused in a Norwegian 'hitman' case. Natland was remanded in custody and will face a retrial.",
+      "tags": [
+        "norway",
+        "legal",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c44af32adad724c2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Lawyer in high-profile Ugandan treason case charged with related offence",
+      "url": "https://www.bbc.com/news/articles/cj9g3j4pe2no?at_medium=RSS&at_campaign=rss",
+      "summary": "A lawyer involved in a high-profile Ugandan treason case has been charged with a related offense, following claims by Uganda's military chief of inflicting 'hurt and pain' on the arrested lawyer. The situation escalates political tensions around the case.",
+      "tags": [
+        "uganda",
+        "politics",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6fdf63afe49c9808",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Lil Nas X says he's 'feeling better' after rehab and bipolar diagnosis",
+      "url": "https://www.bbc.com/news/articles/cn4dqyn94vdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lil Nas X announced he is 'feeling better' after completing rehab and receiving a bipolar diagnosis. The artist had been arrested last year for attacking police officers before entering treatment.",
+      "tags": [
+        "celebrity",
+        "mental health",
+        "rehab"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1cec7d2913b77efc",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Moment Trump signs US-Iran agreement at Palace of Versailles",
+      "url": "https://www.bbc.com/news/videos/crm03y1xx2no?at_medium=RSS&at_campaign=rss",
+      "summary": "The 14-point Memorandum of Understanding was signed at a post-G7 dinner in France.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "7bff21cc2c59d4e1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery",
+      "url": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
+      "summary": "A refinery and a shopping centre burned after almost 200 Ukrainian drones struck an area to the south-east of the Russian capital.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "9865ff70cad4adb8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Should the US impose a teen social media ban like the UK?",
+      "url": "https://www.bbc.com/news/videos/c5yzgxd428qo?at_medium=RSS&at_campaign=rss",
+      "summary": "A debate is ongoing in the US regarding whether to implement a social media ban for teenagers, similar to a UK policy restricting access for those under 16. Americans of various ages were asked for their opinions on the potential US ban.",
+      "tags": [
+        "social media",
+        "teenagers",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "10d97335e3f3dae6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Suspected gang leader shot dead in flower bouquet ambush at airport",
+      "url": "https://www.bbc.com/news/articles/c4gy2l30dd0o?at_medium=RSS&at_campaign=rss",
+      "summary": "A suspected gang leader was shot dead in a flower bouquet ambush at Guayaquil airport, as gunmen concealed weapons behind flowers and stuffed toys. The incident occurred while the victim was waiting outside the airport.",
+      "tags": [
+        "crime",
+        "ecuador",
+        "gang violence"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9794f698a3a8f7a7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Teenager dies in horse-drawn carriage accident in New York",
+      "url": "https://www.bbc.com/news/articles/c20yxwjn873o?at_medium=RSS&at_campaign=rss",
+      "summary": "A teenager died in a horse-drawn carriage accident in New York after the horse bolted and toppled over. The incident occurred when the carriage driver stepped down to take a picture of the passengers.",
+      "tags": [
+        "accident",
+        "new york",
+        "safety"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cbbdd872dc1b3475",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "The Ring and Lilo & Stitch actress Daveigh Chase dies aged 35",
+      "url": "https://www.bbc.com/news/articles/cd0m2mg949yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Actress Daveigh Chase, known for 'The Ring' and 'Lilo & Stitch,' died at age 35 from sepsis following a bout with meningitis. Her longtime manager confirmed her passing in a Los Angeles hospital.",
+      "tags": [
+        "celebrity",
+        "obituary",
+        "actress"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cc18408d1b36a8fd",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump says he will visit India as frosty relationship with Modi thaws",
+      "url": "https://www.bbc.com/news/articles/c621glv9vnqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump made the announcement during chat where he also vowed to protect India.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "67954dea26fbdef2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "UN experts demand Iranians free Foremans",
+      "url": "https://www.bbc.com/news/articles/c9w28e2vn57o?at_medium=RSS&at_campaign=rss",
+      "summary": "UN experts are demanding Iran release Lindsay and Craig Foreman, stating that proceedings against them have been marred by grave irregularities. The call highlights concerns over human rights and legal due process in Iran.",
+      "tags": [
+        "iran",
+        "human rights",
+        "un"
+      ],
+      "priority": false
+    },
+    {
+      "id": "89e713aaa3641731",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US-Iran deal leaves core sticking points unresolved - and a $300bn question",
+      "url": "https://www.bbc.com/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump has insisted the deal ensures that Iran will never buy, develop or produce a nuclear weapon. But text of the agreement falls short of that.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "d899a37b56521af3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Weapons, money and ships: How is this Iran deal different from others?",
+      "url": "https://www.bbc.com/news/articles/c74ynmnrwmeo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Verify examines how the new deal between the US and Iran affects three key areas.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "a050630c78a77614",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What's in the US-Iran agreement?",
+      "url": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
+      "summary": "The 14-paragraph memo includes an end to fighting, an agreement that Iran will never have a nuclear weapon, and a $300bn redevelopment package for Iran.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "9ab246043551e01e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why Iran believes deal with US leaves it stronger than before",
+      "url": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran has come out of the war's first chapter stronger than many expected, but its next challenge may be harder, the BBC Persian Service's Amir Azimi writes.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "0ef436cef27b94d2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Will Putin change tactics after Ukrainian drone attacks?",
+      "url": "https://www.bbc.com/news/videos/cgjx87jljqpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Steve Rosenberg explains what Russia's next steps may be after frequent Ukrainian drone attacks.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "0fa7f9edb88f59dd",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "DeepSeek Introduces Vision",
+      "url": "https://chat.deepseek.com/",
+      "summary": "Article URL:\nhttps://chat.deepseek.com/\nComments URL:\nhttps://news.ycombinator.com/item?id=48581458\nPoints: 363\n# Comments: 145",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "46b1f6c913ad3d45",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Emacs 31 is around the corner: The changes I'm daily driving",
+      "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
+      "summary": "Emacs 31 is nearing release, with a developer detailing the changes they frequently use in the upcoming version. The update promises new features and improvements for users of the popular text editor.",
+      "tags": [
+        "software development",
+        "emacs",
+        "productivity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5f128089d80730d5",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Hospitals and universities repurposing drugs at 90% lower cost",
+      "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+      "summary": "Hospitals and universities are successfully repurposing existing drugs at a reported 90% lower cost, offering a more affordable approach to treatment development. This strategy leverages known compounds for new medical applications.",
+      "tags": [
+        "medicine",
+        "drug development",
+        "healthcare costs"
+      ],
+      "priority": false
+    },
+    {
+      "id": "90e7c5f7f7c87110",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "I found 10k GitHub repositories distributing Trojan malware",
+      "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+      "summary": "A security researcher discovered over 10,000 GitHub repositories distributing Trojan malware. This widespread distribution poses a significant threat to developers and users who rely on open-source code.",
+      "tags": [
+        "cybersecurity",
+        "malware",
+        "github"
+      ],
+      "priority": false
+    },
+    {
+      "id": "49431092728ace8a",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Local Qwen isn't a worse Opus, it's a different tool",
+      "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
+      "summary": "Article URL:\nhttps://blog.alexellis.io/local-ai-is-not-opus/\nComments URL:\nhttps://news.ycombinator.com/item?id=48580209\nPoints: 379\n# Comments: 212",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "386f6aaed73ed6a9",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
+      "url": "https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/",
+      "summary": "Users are reporting that Microsoft's new Outlook application takes significantly longer to perform tasks compared to the classic Outlook. This performance issue causes frustration for those accustomed to the instant responsiveness of the older version.",
+      "tags": [
+        "software",
+        "microsoft",
+        "outlook"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dce23d3926e41495",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Midjourney Medical",
+      "url": "https://www.midjourney.com/medical/blogpost",
+      "summary": "https://www.midjourney.com/medical\nVideo:\nhttps://x.com/midjourney/status/2067422898407837797\nComments URL:\nhttps://news.ycombinator.com/item?id=48579650\nPoints: 1156\n# Comments: 780",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "892ec1b914624518",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Swiss parliament lifts ban on new nuclear power plants",
+      "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
+      "summary": "The Swiss parliament has voted to lift the ban on new nuclear power plants, marking a significant shift in the country's energy policy. This decision could pave the way for future nuclear energy development.",
+      "tags": [
+        "energy",
+        "nuclear power",
+        "switzerland"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ef09e7fa98b30b48",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "As America turns 250, one museum makes history possible to touch",
+      "url": "https://www.npr.org/2026/06/18/nx-s1-5835738/museum-blind-disability-america-250",
+      "summary": "A museum is making history accessible to blind visitors by allowing them to touch artifacts, challenging federal laws that require accessibility but often limit interaction with exhibits. This initiative aims to improve access for people with disabilities as America approaches its 250th anniversary.",
+      "tags": [
+        "museums",
+        "accessibility",
+        "disability"
+      ],
+      "priority": false
+    },
+    {
+      "id": "91d2a87ad1f2bd24",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Embedded: \"We Keep Us Safe\" from NPR, KUOW and The Seattle Times",
+      "url": "https://www.npr.org/2026/06/04/g-s1-120825/seattle-chop-zone-antonio-mays",
+      "summary": "In summer 2020, sixteen-year-old Antonio Mays Jr. was shot and killed in Seattle's Capitol Hill Occupied Protest (CHOP) zone, a case that remains unsolved. This report from NPR, KUOW, and The Seattle Times delves into the events surrounding his death.",
+      "tags": [
+        "social justice",
+        "protest",
+        "unsolved case"
+      ],
+      "priority": false
+    },
+    {
+      "id": "92c7301b87083f7c",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Read the full text of Trump's preliminary U.S.-Iran agreement to end the war",
+      "url": "https://www.npr.org/2026/06/18/nx-s1-5863027/us-iran-trump-memorandum-of-understanding-full-text",
+      "summary": "Here is the text of the memorandum of understanding that was signed Wednesday by President Trump and Iranian President Masoud Pezeshkian, as well as Pakistan's prime minister.\n(Image credit: Nathan Laine)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c5bb57140fc81f03",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Report: Russia's nuclear-powered 'Skyfall' missile is dirty and dangerous",
+      "url": "https://www.npr.org/2026/06/18/nx-s1-5843252/russia-nuclear-powered-missile-burevestnik",
+      "summary": "A new report by MIT researchers suggests Russia's nuclear-powered Burevestnik missile likely flies by heating air with a nuclear reactor, calling it 'almost certainly a terrible idea.' Analysts confirm the concept is feasible but extremely dangerous.",
+      "tags": [
+        "weapons",
+        "nuclear",
+        "russia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b5e08a33f109c111",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Supreme Court sides with a marijuana user who was barred from owning guns",
+      "url": "https://www.npr.org/2026/06/18/nx-s1-5835232/supreme-court-marijuana-guns",
+      "summary": "The court ruled that the law used to prosecute a marijuana user violated his Second Amendment right to bear arms and is unconstitutionally vague.\n(Image credit: Drew Angerer)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "5c1a109508db2b2a",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "The Obama Presidential Center will be dedicated Thursday. Here's what to expect",
+      "url": "https://www.npr.org/2026/06/18/nx-s1-5861803/obama-presidential-center-dedication-chicago",
+      "summary": "The Obama Presidential Center is set to open with a star-studded dedication ceremony, showcasing the former president's legacy through its museum. The center, however, is not a traditional presidential library.",
+      "tags": [
+        "politics",
+        "history",
+        "obama"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3022fb37541a014b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "These 3 brothers lost their parents to AIDS. Now they struggle to make it on their own",
+      "url": "https://www.npr.org/2026/06/18/g-s1-128583/hiv-orphans-child-headed-family",
+      "summary": "Three brothers are navigating life independently after losing their parents to AIDS due to a lack of access to HIV medications. Their story highlights the ongoing challenges faced by child-headed families and HIV orphans.",
+      "tags": [
+        "health",
+        "aids",
+        "social issues"
+      ],
+      "priority": false
+    },
+    {
+      "id": "51d6df3af9a23734",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump signs agreement with Iran. And, the president's approval hits record lows",
+      "url": "https://www.npr.org/2026/06/18/g-s1-128755/up-first-newsletter-iran-agreement-jay-clayton-bill-pulte-trump-approval",
+      "summary": "Trump signed a preliminary agreement with Iran yesterday to end the war and open the Strait of Hormuz. And, the president's approval rating has hit a record low, according to a new NPR poll.\n(Image credit: Anna Moneymaker)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "cf01051f35f8cf55",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Ukraine hits a Moscow oil refinery and other sites in a large-scale drone attack",
+      "url": "https://www.npr.org/2026/06/18/g-s1-128782/moscow-ukraine-drone-attack-russia-oil-refinery",
+      "summary": "Ukraine launched a new wave of drone attacks on Russia early Thursday, amounting to one of the largest attacks on the Russian capital since the Kremlin ordered the invasion of Ukraine more than four years ago.\n(Image credit: AFP)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "3736639ff6a68867",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Kenyan McDuffie concedes to Janeese Lewis George in DC mayoral primary",
+      "url": "https://www.politico.com/news/2026/06/18/lewis-george-dc-mayor-primary-00966879",
+      "summary": "Janeese Lewis George is expected to become Washington D.C.'s next mayor after Kenyan McDuffie conceded the Democratic primary. Lewis George, a progressive, campaigned on opposing President Trump's influence on the district and plans to reform public safety and housing.",
+      "tags": [
+        "politics",
+        "local government",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "97b4dd0d086a7434",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "Why the Human Genome’s Tangled Physicality May Confound AI",
+      "url": "https://www.quantamagazine.org/why-the-human-genomes-tangled-physicality-may-confound-ai-20260618/",
+      "summary": "Since its molecular structure was deduced in the 1950s, DNA has been hailed by many biologists as the secret of life. They’ve read and studied the information stored in the DNA found in the cells of living organisms, known as their genomes, and claimed that this genetic database…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "83f3eddd1714983d",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "GLM-5.2 is probably the most powerful text-only open weights LLM",
+      "url": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
+      "summary": "Chinese AI lab\nZ.ai\nreleased GLM-5.2\nto their coding plan subscribers\non June 13th, and then yesterday (June 16th) released the full open weights under an MIT license. Similar in size to their previous GLM-5 and GLM-5.1 releases, this is 753B parameter,\n1.51TB\nmonster - with 40 a…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "4e2e03d44e289884",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Charity Majors",
+      "url": "https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything",
+      "summary": "What happened in 2025 was this:\nthe economics of code production were turned upside down\n. Instead of being very hard, time-consuming, and expensive to generate code, it became effectively free and instant. Lines of code went from being treasured, reused, cared for and carefully…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "05da82ee2e030771",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Congress cuts a deal on the 21st Century ROAD to Housing Act",
+      "url": "https://www.slowboring.com/p/congress-cuts-a-deal-on-the-21st",
+      "summary": "Congress reached a bipartisan agreement on the final version of the 21st Century ROAD to Housing Act after months of negotiations. The bill aims to address housing challenges, with its details to be further examined.",
+      "tags": [
+        "housing",
+        "policy",
+        "legislation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c505e1c62f7d7e78",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
+      "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
+      "summary": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "6ba2a27370923849",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Adobe adds its AI assistant to Premiere, Illustrator and InDesign",
+      "url": "https://techcrunch.com/2026/06/18/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign/",
+      "summary": "Adobe is updating its Firefly AI assistant with new chops, and adding it to Premiere, Illustrator, InDesign and Frame.io.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "ccfc701a27f7bbcb",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
+      "url": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+      "summary": "Snap's stock declined after the unveiling of its \"ridiculously expensive\" augmented reality glasses. The highly anticipated smart glasses debut did not generate a positive market reaction for the company.",
+      "tags": [
+        "snap",
+        "ar glasses",
+        "stock market"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b1efac29bd96393a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
+      "url": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/",
+      "summary": "CEO Tim Cook said in a recent interview that the situation is \"unsustainable.\"",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "2f20cb2b013eaa10",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+      "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+      "summary": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "a19b2625597921ec",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apple opens up App Store to new competition in Brazil",
+      "url": "https://techcrunch.com/2026/06/18/apple-opens-up-app-store-to-new-competition-in-brazil/",
+      "summary": "Apple is relaxing its control over iPhone app distribution in Brazil, opening its App Store to new competition in that major market. This move could change how users access and developers distribute applications in the region.",
+      "tags": [
+        "apple",
+        "app store",
+        "brazil"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b51239e993538394",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI",
+      "url": "https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/",
+      "summary": "Chi-Hua Chien has spent more than two decades as a venture capitalist, but he thinks like a cultural anthropologist.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "737260f32f09ceeb",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Cybercriminals allegedly hacked tens of thousands of Fortinet firewalls used by major companies all over the world",
+      "url": "https://techcrunch.com/2026/06/17/cybercriminals-allegedly-hacked-tens-of-thousands-of-fortinet-firewalls-used-by-major-companies-all-over-the-world/",
+      "summary": "Cybercriminals, reportedly a Russian-speaking group, have allegedly compromised tens of thousands of Fortinet firewalls used by major companies globally. They exploited previously known vulnerabilities in Fortinet VPNs and firewalls.",
+      "tags": [
+        "cybersecurity",
+        "malware",
+        "fortinet"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b392734c8cc6bb37",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "FTC lawsuit reveals how subscription scam networks evade app store enforcement",
+      "url": "https://techcrunch.com/2026/06/17/ftc-lawsuit-reveals-how-subscription-scam-networks-evade-app-store-enforcement/",
+      "summary": "An FTC lawsuit has exposed how sophisticated subscription app networks allegedly use shell companies and payment infrastructure to evade app store enforcement despite numerous consumer complaints. This reveals tactics used to maintain fraudulent operations on app platforms.",
+      "tags": [
+        "scams",
+        "app stores",
+        "regulation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "19c668d6e7b4ce1a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "General Intuition in talks to raise $300M at around $2B valuation",
+      "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+      "summary": "The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "cfec013f5b8687ec",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "How to turn off AI in your Google Docs",
+      "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+      "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "5a09d00a7b8cecae",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "MapTap, a daily geography game, is my new Wordle",
+      "url": "https://techcrunch.com/2026/06/18/maptap-a-daily-geography-game-is-my-new-wordle/",
+      "summary": "MapTap, a daily geography game, offers an engaging way to feel smarter about world locations. This phone game provides an interactive experience for users to test their geographical knowledge.",
+      "tags": [
+        "gaming",
+        "mobile",
+        "education"
+      ],
+      "priority": false
+    },
+    {
+      "id": "83771bf0bc64dc2d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
+      "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+      "summary": "Tokenmaxxing was the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far as it would go. Then the bill came due. Uber reportedly blew through its annual AI budget in a few months, some companies cut Claude licenses for parts…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "e34a45d91cc1eb89",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Pixi’s new iOS app turns text messages into interactive AR experiences",
+      "url": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
+      "summary": "Pixi's new iOS app transforms text messages into interactive augmented reality (AR) experiences, moving beyond traditional stickers and GIFs. The company believes AR is the next evolution for digital messaging.",
+      "tags": [
+        "augmented reality",
+        "messaging",
+        "mobile app"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f48f07c793062b24",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Social media’s next evolution: user-controlled algorithms",
+      "url": "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/",
+      "summary": "Social media platforms like Threads, Instagram, and TikTok are evolving towards user-controlled algorithms, allowing greater customization of feeds. This shift gives users direct influence over their content recommendations.",
+      "tags": [
+        "social media",
+        "algorithms",
+        "user control"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3ce3de34eb493b03",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Spotify’s reserved ticket sales to music superfans are now going live",
+      "url": "https://techcrunch.com/2026/06/18/spotifys-reserved-ticket-sales-to-musics-superfans-are-now-going-live/",
+      "summary": "Spotify is launching \"Reserved,\" a new program that offers two concert tickets to an artist's superfans before public sale. This initiative aims to reward dedicated listeners with early access to live music events.",
+      "tags": [
+        "spotify",
+        "music",
+        "fan engagement"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ad28861d430e6b18",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Waymo recalls nearly 4,000 robotaxis to stop them driving into highway construction zones",
+      "url": "https://techcrunch.com/2026/06/18/waymo-recalls-nearly-4000-robotaxis-to-stop-them-driving-into-highway-construction-zones/",
+      "summary": "Waymo has recalled nearly 4,000 robotaxis to prevent them from driving into highway construction zones after identifying 13 such instances. This recall addresses a software issue causing autonomous vehicles to enter closed sections of highways.",
+      "tags": [
+        "robotaxis",
+        "waymo",
+        "automotive"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e04fe9cb560687bf",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+      "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+      "summary": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight  — a fear the Anthropic blackout just made real.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "7242379eaf50d58b",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Douglas Murray: How Trump Fell Into the Iranian Trap",
+      "url": "https://www.thefp.com/p/douglas-murray-how-trump-fell-into",
+      "summary": "The world caught its first glimpse on Wednesday at the terms that could end the U.S.-Israeli war with Iran, and Free Press writers are evaluating the deal. Earlier, Niall Ferguson\nmade the case\nfor cautious optimism about the agreement, suggesting that watching Iran closely and e…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f9623cb6b06898b5",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Niall Ferguson: It’s Too Soon to Call This a U.S. Surrender",
+      "url": "https://www.thefp.com/p/niall-ferguson-trump-iran-peace-deal",
+      "summary": "On Wednesday, a senior Trump administration official\nannounced the 14-point\nmemorandum of understanding (MOU) agreed to between the United States and Iran to end the war. The MOU, which outlines a 60-day period of negotiations, a lifting of the U.S. naval blockade on Iran, and U.…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "b973ccf20922804b",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Reading Trump’s Iran Deal So You Don’t Have To, with Mark Dubowitz",
+      "url": "https://www.thefp.com/p/reading-trumps-iran-deal-so-you-dont",
+      "summary": "Mark Dubowitz, CEO of the Foundation for Defense of Democracies, returns to\nSchool of War\nto discuss the newly released memorandum of understanding between the United States and Iran. What does the deal actually say? What are its biggest strategic implications? And is it comparab…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "a87beb207a8f838a",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The U.S. Shouldn’t Subsidize Israel. It Should Invest in It.",
+      "url": "https://www.thefp.com/p/the-us-shouldnt-subsidize-israel",
+      "summary": "Heading into the midterms, almost every American politician asked about Israel faces the same question: Should the United States continue aid to Israel? Or should it be cut, conditioned, or used as leverage to advance American priorities?\nThis question comes amid rumors that a fo…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "6ffc0e99448b0da3",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Tough Love: My Father-in-Law Is Spoiled",
+      "url": "https://www.thefp.com/p/tough-love-my-father-in-law-is-spoiled",
+      "summary": "An advice column addresses a reader's frustration with his father-in-law's spoiled behavior, where he expects his wife to cater to his every need. The columnist advises accepting that individual marriages are idiosyncratic and not for outsiders to 'fix.'",
+      "tags": [
+        "relationships",
+        "family",
+        "social dynamics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4fc32a290f9f40af",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Vance Tries to Have It Both Ways on the Iran Deal",
+      "url": "https://www.thefp.com/p/vance-tries-to-have-it-both-ways",
+      "summary": "Vice President J.D. Vance emerged this week as the White House surrogate in chief to sell the agreement with Iran to end the war. In a slew of television and podcast appearances, Vance has explained how a war President Donald Trump once promised would end only with Iran’s “\nuncon…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "b18df4901bf21a06",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Why Syria Isn’t the Answer to Lebanon’s Misery",
+      "url": "https://www.thefp.com/p/why-syria-isnt-the-answer-to-lebanons",
+      "summary": "Negotiations to end the US-Iran war have prompted discussions about Syria’s potential role in addressing Hezbollah in Lebanon. While Syria's current government is no ally of Hezbollah, President Trump's suggestion of a 'surgical attack' by Syria is met with skepticism regarding its realism and implications for regional stability.",
+      "tags": [
+        "middle east",
+        "syria",
+        "hezbollah"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4f6f8895197893f0",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Adobe’s redesigned AI studio remembers what your creations look like",
+      "url": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
+      "summary": "Give your characters, objects, and backgrounds a name to easily replicate them without changing the design. | Image: Adobe\nAdobe is introducing some new capabilities for its Firefly AI assistant, alongside a \"reimagined\" AI studio that lets you edit and generate new designs from…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c79d7100766e0a7e",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Amazon employees say they’re facing termination for backing data center limits",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
+      "summary": "Three Amazon software engineers accuse the company of retaliating against them, alleging potential termination, after they testified at a Seattle City Council hearing supporting data center limits. The employees claim Amazon's \"Employee Relations\" began investigating them shortly after the City Council passed a data center moratorium.",
+      "tags": [
+        "amazon",
+        "labor",
+        "tech policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9055ec44821c5e72",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Photoshop and Premiere now have AI assistants",
+      "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
+      "summary": "﻿Photoshop is one of several Adobe Creative Cloud apps to receive new conversational editing capabilities. | Image: Adobe\nAdobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and d…",
+      "tags": [],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 114,
+    "summarized": 89,
+    "skipped_promos": 2,
+    "filtered_by_rules": 23,
+    "sources": 13,
+    "email_items_omitted": 0
+  }
+}
