@@ -1,0 +1,1061 @@
+{
+  "date": "2026-06-19",
+  "generated_at": "2026-06-19T16:30:14+00:00",
+  "hot_topics": [
+    {
+      "topic": "Trump's US-Iran Agreement Sparks Controversy and Conflict Analysis",
+      "synthesis": "A preliminary agreement between the US and Iran, signed by President Trump, aims to address tensions but faces legal challenges regarding Trump's authority to waive sanctions. While some see it as a strategic move, others view it as a concession to Iran, with reports of thousands killed in a US-Israeli war on Iran and experts debating the deal's lasting viability.",
+      "item_ids": [
+        "0b3e868efe794485",
+        "92efe8bfee188ccb",
+        "576650037f364de2",
+        "8f386e0f73b700a2",
+        "746b9c4687312fa9",
+        "3c9405a1aaef132b",
+        "c9410c10d5d63ac4",
+        "10f55905cd7d4d96"
+      ]
+    },
+    {
+      "topic": "Major Shifts and Investments in the AI Sector, Including OpenAI and Amazon",
+      "synthesis": "The AI industry is experiencing significant changes, with OpenAI seeing executive departures and new high-profile hires ahead of its IPO, while Amazon Web Services plans to sell its AI chips to directly compete with Nvidia. Startups like Baseten are raising massive funding rounds, reflecting an \"inference gold rush,\" and AI is being integrated into diverse applications from telecom services to wellness apps.",
+      "item_ids": [
+        "632dde15923e4da1",
+        "1cf2dce7459370b6",
+        "fc6cf8779a31d6cf",
+        "00d1158ca27fc258",
+        "8250b34ffa1039d9",
+        "6d89b4232953f2ed",
+        "b376d62e6b6b2045",
+        "73e86c42a0c7766c",
+        "35d63d8667fb1bc9",
+        "a42c6f2b3ff3b4fc",
+        "94198b7e8983d65c",
+        "32d3897cd851c772",
+        "1dede82ad2285fb8"
+      ]
+    },
+    {
+      "topic": "Juneteenth Commemorations Highlight History and Ongoing Quest for Freedom",
+      "synthesis": "Juneteenth is being commemorated with reflections on its historical significance, marking the delayed news of emancipation to enslaved people in Texas, and its continued relevance to America's enduring pursuit of freedom and democracy. Celebrations occur alongside personal announcements and discussions on progressive patriotism.",
+      "item_ids": [
+        "64e49ccee24a2fb7",
+        "03f24079050ca5bd",
+        "a10e4543e2134082",
+        "02352bbb1211bc80",
+        "119263bedc746b16"
+      ]
+    },
+    {
+      "topic": "Donald Trump's Enduring Influence on Domestic and International Politics",
+      "synthesis": "Donald Trump continues to shape political narratives both domestically and internationally, from his alleged fabricated claims at the G7 summit to influencing local elections and being discussed in relation to the Democratic Party's future. Even trivial matters like the D.C. Reflecting Pool's unexpected color change are inadvertently linked to his past visions.",
+      "item_ids": [
+        "0b3e868efe794485",
+        "41e518146ef553a4",
+        "60324d8448381173",
+        "c0a0f43e8f091669",
+        "2e7382a345417b12"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "947568fc1e1a00d0",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Trauma creep",
+      "url": "https://aeon.co/essays/not-everything-is-trauma-language-needs-to-mean-something",
+      "summary": "The essay \"Trauma creep\" argues that the term \"trauma\" has lost its meaning due to overuse, yet it describes a real phenomenon that needs to be reclaimed. It advocates for precision in language to accurately convey the concept of trauma.",
+      "tags": [
+        "language",
+        "psychology",
+        "social commentary"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0cf9effbe3b26b70",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Android verification is coming: Google confirms timeline and supported app stores",
+      "url": "https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/",
+      "summary": "Google is rolling out a contentious developer verification system for Android app stores, starting September 30 in Brazil, Indonesia, Singapore, and Thailand. This aims to combat malware apps by verifying developer identities outside the Play Store, a move some see as creating a \"walled garden.\"",
+      "tags": [
+        "android",
+        "security",
+        "google"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1279883c15c6b29c",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "As China looms, Taiwan makes more drones for defense and the US military",
+      "url": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/",
+      "summary": "Taiwan is significantly boosting its domestic military drone production with a proposed $6.6 billion budget over six years to deter a potential Chinese invasion. The effort includes acquiring over 208,000 coastal attack drones and 1,400 reconnaissance drones, alongside international partnerships for sales to the US military.",
+      "tags": [
+        "defense",
+        "drones",
+        "taiwan"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7e4a50243667e755",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "As global warming threatens corals, scientists search for reefs that can take the heat",
+      "url": "https://arstechnica.com/science/2026/06/as-global-warming-threatens-corals-scientists-search-for-reefs-that-can-take-the-heat/",
+      "summary": "Scientists are using a robot, Yellowfin, to search for coral reefs resilient to global warming in the Central Pacific, led by researcher Anne Cohen. This effort aims to identify corals that can withstand rising ocean temperatures.",
+      "tags": [
+        "climate change",
+        "science",
+        "marine biology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "63df8c49ccdc24f1",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
+      "url": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
+      "summary": "FDA advisors unanimously recommended approving Moderna's seasonal mRNA flu vaccine, mRNA-1010 (mFlusiva), despite earlier attempts by an agency appointee to block its review. Trials showed the vaccine was more effective than standard flu shots and produced stronger immune responses in older adults, with a good safety profile.",
+      "tags": [
+        "health",
+        "vaccine",
+        "fda"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f1cd168b8612d1ea",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
+      "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
+      "summary": "Microsoft has identified a new self-propagating worm, \"Crypto Clipper,\" that spreads via USB drives to steal cryptocurrency credentials and screenshots, sending them to attackers via Tor and a SOCKS5 proxy. This lightweight backdoor operates without a traditional installer or exposed IP-based infrastructure.",
+      "tags": [
+        "cybersecurity",
+        "malware",
+        "cryptocurrency"
+      ],
+      "priority": false
+    },
+    {
+      "id": "67566da5ae0f93aa",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Asia's richest man Ambani announces what could be India's biggest share sale",
+      "url": "https://www.bbc.com/news/articles/cx2kerpkynko?at_medium=RSS&at_campaign=rss",
+      "summary": "Asia's richest man, Mukesh Ambani, has announced what could be India's largest share sale, with his telecom operator expected to raise around $4 billion. This significant financial move underscores the scale of Reliance's expansion and investment.",
+      "tags": [
+        "finance",
+        "india",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fb9aa996c0f8dd5c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Boy, 12, wins hearts after trying to check sick chicken into Ethiopian hospital",
+      "url": "https://www.bbc.com/news/articles/cy49e7w3rmxo?at_medium=RSS&at_campaign=rss",
+      "summary": "A 12-year-old boy in Ethiopia won hearts after attempting to check his sick hen into a human hospital when traditional treatments failed. The story highlights the child's deep affection for his pet and his desperate attempt to save it.",
+      "tags": [
+        "human interest",
+        "animals",
+        "ethiopia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ec89d2820a2f5ca9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Do it at home too, women tell Japanese fans who cleaned World Cup stadium",
+      "url": "https://www.bbc.com/news/articles/crel9xlp8r1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Japanese women are urging men to apply the same cleaning diligence at home as they exhibit cleaning World Cup stadiums, highlighting a double standard in household chores. This points to ongoing gender role discussions in Japan.",
+      "tags": [
+        "social trends",
+        "japan",
+        "gender roles"
+      ],
+      "priority": false
+    },
+    {
+      "id": "92efe8bfee188ccb",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "In Trump's shadow, Vance becomes face of Iran deal",
+      "url": "https://www.bbc.com/news/articles/cx23jr133lwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Amid rising criticism, JD Vance has become a leading defender of the Iran deal, intensifying speculation about a potential 2028 presidential bid. His prominent role highlights the political implications of the agreement.",
+      "tags": [
+        "politics",
+        "iran",
+        "foreign policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0b3e868efe794485",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
+      "url": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
+      "summary": "Italy's Giorgia Meloni stated that Donald Trump \"made up\" a story claiming she \"begged\" him for a photo at the G7 summit. This public disagreement suggests a deterioration of their previously close relationship, possibly linked to Trump's decision to go to war with Iran.",
+      "tags": [
+        "international relations",
+        "trump",
+        "g7"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f0846e067b9e39bd",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Mangione's lawyers reverse course on psychiatric defence in state murder trial",
+      "url": "https://www.bbc.com/news/articles/c20y162gpm6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Mangione's lawyers have reversed their decision to pursue a psychiatric defense in his state murder trial, a day after initially stating they would argue \"extreme emotional disturbance.\" This change in strategy signals a shift in the legal approach.",
+      "tags": [
+        "legal",
+        "crime",
+        "justice"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8fc0b488254d9c70",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Morocco captain Achraf Hakimi to stand trial for rape",
+      "url": "https://www.bbc.com/sport/football/articles/c20y18z7le1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Morocco captain Achraf Hakimi will stand trial for rape, French prosecutors confirmed, based on accusations from 2023. This development brings the high-profile case to a formal legal proceeding.",
+      "tags": [
+        "crime",
+        "football",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9da03d4d5dbf7ef6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Obama moved to tears by wife Michelle's speech",
+      "url": "https://www.bbc.com/news/articles/cly91eqyd0ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Barack Obama was moved to tears by Michelle Obama's speech during the opening of a new site in Chicago, which the former president described as a \"celebration of community.\" The event highlighted their ongoing commitment to public service and community building.",
+      "tags": [
+        "politics",
+        "community",
+        "obama"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6ac5302b59427852",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Parents of Serbia's teenage school shooter given jail terms in retrial",
+      "url": "https://www.bbc.com/news/articles/c14ykj2nr8lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The parents of a 13-year-old Serbian school shooter have been given jail terms in a retrial for the 2023 massacre that killed nine people. This legal outcome addresses the responsibility surrounding the tragic event.",
+      "tags": [
+        "crime",
+        "legal",
+        "serbia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cd5d3b3adf192aa1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Thirty-five killed as gunmen attack Niger's biggest airport",
+      "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
+      "summary": "Gunmen attacked Niger's largest airport, killing 35 people, marking the second such incident in January. Niger has been battling a militant Islamist insurgency for a decade, with this attack highlighting ongoing security challenges.",
+      "tags": [
+        "conflict",
+        "terrorism",
+        "niger"
+      ],
+      "priority": false
+    },
+    {
+      "id": "576650037f364de2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Thousands killed in US-Israeli war on Iran - but experts say true total may never be known",
+      "url": "https://www.bbc.com/news/articles/cy735xlv50ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Experts state that thousands have been killed in the US-Israeli war on Iran, but the true casualty count may never be known due to internet, media, and government restrictions. These limitations hamper accurate reporting across the conflict-affected region.",
+      "tags": [
+        "conflict",
+        "iran",
+        "casualties"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2fc4c23d76f7ff38",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "UK actress charged with importing meth worth almost A$300m into Australia",
+      "url": "https://www.bbc.com/news/articles/ckg5nq0172no?at_medium=RSS&at_campaign=rss",
+      "summary": "UK actress Emaa Hussen, 34, has been charged with importing nearly A$300 million worth of methamphetamines into Australia, hidden in charcoal bags. She faces a potential life sentence if convicted.",
+      "tags": [
+        "crime",
+        "drugs",
+        "australia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8f386e0f73b700a2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What Iran and US get from deal and why both could struggle to keep it",
+      "url": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC analysts are assessing what both Washington and Tehran gain from the deal to end their war, and why both sides might struggle to maintain it. Each side claims victory, but the agreement faces significant challenges.",
+      "tags": [
+        "international relations",
+        "iran",
+        "foreign policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ffacc211b7fdac06",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Zimbabwe MPs pass bill to extend president's time in power",
+      "url": "https://www.bbc.com/news/articles/c20y15m0337o?at_medium=RSS&at_campaign=rss",
+      "summary": "Zimbabwe MPs have passed a bill that would extend President Emmerson Mnangagwa's term by two years and eliminate direct presidential elections. This move raises concerns about democratic processes and presidential term limits.",
+      "tags": [
+        "politics",
+        "africa",
+        "governance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a181131110ceba00",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+      "summary": "Project Valhalla, a decade-long development effort, is set to be integrated into JDK 28, bringing significant architectural changes to the Java platform. The project aims to improve performance and memory efficiency through value types.",
+      "tags": [
+        "programming",
+        "java",
+        "software development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8a18f07c78b055ce",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The AirPods Effect",
+      "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+      "summary": "The article discusses \"The AirPods Effect,\" exploring the broader impact of Apple's AirPods on consumer behavior and the tech industry. It delves into how a single product can redefine a market and create new user expectations.",
+      "tags": [
+        "apple",
+        "tech trends",
+        "consumer electronics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2d0fc3342211f84c",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Zero-Touch OAuth for MCP",
+      "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+      "summary": "\"Zero-Touch OAuth for MCP\" details an enterprise-managed authentication solution designed for the Model Context Protocol. This approach simplifies OAuth implementation for large organizations, enhancing security and streamlining access.",
+      "tags": [
+        "security",
+        "authentication",
+        "enterprise tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4165edbcf10da973",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Big dogs, Buc-ee's and the great BBQ debate: World Cup fans discover everyday America",
+      "url": "https://www.npr.org/2026/06/19/nx-s1-5860711/world-cup-america-tourists",
+      "summary": "World Cup visitors to the US are discovering aspects of everyday American life like free drink refills and Buc-ee's, as tensions between Washington and its allies are high. Their experiences offer a respite amidst the geopolitical climate.",
+      "tags": [
+        "culture",
+        "travel",
+        "current events"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1dede82ad2285fb8",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Get with the times — here's what a 'Luddite' means today",
+      "url": "https://www.npr.org/2026/06/19/nx-s1-5853589/luddite-meaning-history-ai",
+      "summary": "NPR's Word of the Week reexamines the term \"Luddite,\" often used derogatorily for technophobes, revealing its historical context where Luddites were not simply backwards-looking but protested technological disruption. The discussion also touches on AI's implications today.",
+      "tags": [
+        "language",
+        "history",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "41e518146ef553a4",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "How and why algae clouded Trump's vision for an 'American flag blue' Reflecting Pool",
+      "url": "https://www.npr.org/2026/06/19/nx-s1-5863044/dc-reflecting-pool-algae-green-trump",
+      "summary": "The newly refurbished Reflecting Pool in D.C. turned green due to algae growth, which thrives in shallow, sunny waters, with experts suggesting the recent renovation may have accelerated the issue. This phenomenon overshadowed Trump's reported vision for an \"American flag blue\" pool.",
+      "tags": [
+        "environment",
+        "washington dc",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c7b8cdab1d4daa3b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "How the 1874 Freedman's Bank collapse connects to economic disparities we see today",
+      "url": "https://www.npr.org/2026/06/19/nx-s1-5862645/how-the-1874-freedmans-bank-collapse-connects-to-economic-disparities-we-see-today",
+      "summary": "Historian Justene Hill Edwards' book \"Savings and Trust\" explores the 1874 collapse of the Freedman's Bank, established for formerly enslaved people, and its connection to current economic disparities. The book sheds light on historical financial injustices and their lasting impact.",
+      "tags": [
+        "history",
+        "economics",
+        "social justice"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2ac900d020848247",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "It's toys vs. tech in 'Toy Story 5.' Here are 4 ways to keep tech in check this summer",
+      "url": "https://www.npr.org/2026/06/19/nx-s1-5845874/toy-story-5-tech-social-media-screentime-summer-movie",
+      "summary": "With \"Toy Story 5\" portraying problematic screen use, parents are given tips to help children manage technology and enjoy real-life activities over the summer. Kids' screen time typically increases significantly during this period.",
+      "tags": [
+        "parenting",
+        "screen time",
+        "children"
+      ],
+      "priority": false
+    },
+    {
+      "id": "64e49ccee24a2fb7",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Juneteenth: How news of the Emancipation Proclamation spread through the South",
+      "url": "https://www.npr.org/2026/06/19/nx-s1-5861779/juneteenth-emancipation-proclamation-lincoln-slavery-civil-war",
+      "summary": "On Juneteenth, the article explains how news of the Emancipation Proclamation spread through the South, often via informal networks and rumors, despite slaveholders deliberately withholding the information. Many enslaved people learned of their freedom while fighting was still ongoing.",
+      "tags": [
+        "history",
+        "juneteenth",
+        "slavery"
+      ],
+      "priority": false
+    },
+    {
+      "id": "746b9c4687312fa9",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "These Wisconsin swing voters say Trump's war in Iran wasn't worth it",
+      "url": "https://www.npr.org/2026/06/19/nx-s1-5861751/wisconsin-focus-groups-iran-trump",
+      "summary": "Wisconsin swing voters participating in NPR focus groups largely view Trump's war in Iran as a \"costly blunder.\" Their opinions highlight public sentiment regarding the conflict's value.",
+      "tags": [
+        "politics",
+        "iran",
+        "public opinion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "80a46680a7edeb11",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "What you need to know about the preliminary U.S.-Iran agreement signed by Trump",
+      "url": "https://www.npr.org/2026/06/19/nx-s1-5863544/trump-us-iran-agreement",
+      "summary": "Here's a look at the preliminary agreement between the U.S. and Iran, and the challenges that remain to find lasting peace.\n(Image credit: Iranian Presidency Office via AP)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "60324d8448381173",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Why did the newly refurbished Reflecting Pool turn green? The quiz knows",
+      "url": "https://www.npr.org/2026/06/19/g-s1-128757/world-cup-trump-messi-ai-el-nino-newsom-news-quiz",
+      "summary": "A news quiz features questions including why the recently refurbished Reflecting Pool turned green, along with a World Cup pun and intrigue around a tarp. It also mentions the Obama Presidential Center.",
+      "tags": [
+        "news",
+        "quiz",
+        "current events"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2e7382a345417b12",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Jack Schlossberg on Trump, RFK Jr. and the future of the Democratic Party",
+      "url": "https://www.politico.com/video/2026/06/18/jack-schlossberg-on-trump-rfk-jr-and-the-future-of-the-democratic-party-2107033",
+      "summary": "Jack Schlossberg discussed Donald Trump, RFK Jr., and the future trajectory of the Democratic Party. The discussion likely covered current political dynamics and potential shifts within the party.",
+      "tags": [
+        "politics",
+        "democratic party",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c0a0f43e8f091669",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Matt Dunlap beats DCCC-backed candidate in primary for top Maine battleground",
+      "url": "https://www.politico.com/dunlap-wins-maine-house-primary",
+      "summary": "Matt Dunlap won the Democratic primary for Maine’s 2nd District, despite the DCCC backing an opponent, setting up a tough general election against former GOP Gov. Paul LePage. Dunlap, previously challenging the incumbent, received outside backing from a group with apparent ties to Republicans.",
+      "tags": [
+        "politics",
+        "elections",
+        "maine"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c79c02515839ac07",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "datasette-acl 0.6a0",
+      "url": "https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything",
+      "summary": "datasette-acl 0.6a0 expands Datasette's permission system from table-only access to a general resource-sharing framework. This release, largely developed by Alex Garcia, enhances granular control over who can access specific resources in multi-user Datasette instances.",
+      "tags": [
+        "software development",
+        "databases",
+        "permissions"
+      ],
+      "priority": false
+    },
+    {
+      "id": "119263bedc746b16",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Happy Juneteenth",
+      "url": "https://www.slowboring.com/p/happy-juneteenth",
+      "summary": "Slow Boring will have a reduced posting schedule in honor of Juneteenth and due to co-founder Kate's breast cancer diagnosis and upcoming surgery, though the prognosis is excellent. The site plans to publish evergreen content and Friday Mailbag posts during this period.",
+      "tags": [
+        "juneteenth",
+        "personal news",
+        "blogging"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2bcda00f7fed0359",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Thursday discussion post",
+      "url": "https://www.slowboring.com/p/thursday-discussion-post-b62",
+      "summary": "This is a general discussion post, inviting readers to engage with various topics.",
+      "tags": [
+        "discussion",
+        "community",
+        "blogging"
+      ],
+      "priority": false
+    },
+    {
+      "id": "94198b7e8983d65c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "AI data centers just got a government-mandated fast lane to the grid",
+      "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+      "summary": "AI data centers have been granted a government-mandated fast lane to the electrical grid by FERC, despite the ruling not addressing existing electricity supply shortages. This decision prioritizes interconnection for high-demand AI infrastructure.",
+      "tags": [
+        "ai",
+        "energy",
+        "infrastructure"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6d89b4232953f2ed",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+      "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+      "summary": "AI inference startup Baseten is reportedly in the process of raising a significant $1.5 billion round at a $13 billion valuation, only months after its previous mega-round. This indicates continued strong investment in the \"inference gold rush.\"",
+      "tags": [
+        "ai",
+        "startup",
+        "investment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "35d63d8667fb1bc9",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Almost half of US singles feel negatively about AI in dating, Match says",
+      "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+      "summary": "A Match Group survey reveals that nearly half of US singles view AI in dating negatively, yet many dating app users are open to AI assisting with profile enhancements and conversation starters. This suggests a mixed perception of AI's role in personal relationships.",
+      "tags": [
+        "ai",
+        "dating",
+        "social trends"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a42c6f2b3ff3b4fc",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+      "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+      "summary": "Amazon Web Services is reportedly in discussions to sell its AI chips to other data centers, aiming to directly challenge Nvidia and capitalize on a potential $50 billion opportunity. This move could broaden Amazon's influence in the AI hardware market.",
+      "tags": [
+        "ai",
+        "cloud computing",
+        "chips"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fc6cf8779a31d6cf",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Billionaire Ambani wants AI in every call, app, and home",
+      "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+      "summary": "Indian billionaire Mukesh Ambani's Reliance is integrating AI into its telecom services, which are used by over 500 million people. Ambani aims to incorporate AI into every call, application, and home.",
+      "tags": [
+        "ai",
+        "telecom",
+        "india"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b7521b2f80df0110",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Mivo’s new app takes a mindful approach to managing screen time",
+      "url": "https://techcrunch.com/2026/06/18/mivos-new-app-takes-a-mindful-approach-to-managing-screen-time/",
+      "summary": "Mivo has launched a new app designed to help users mindfully manage screen time by encouraging self-awareness rather than simply forcing breaks. The app allows users to decide whether to continue using their phone, promoting conscious decision-making.",
+      "tags": [
+        "wellness",
+        "apps",
+        "tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "73e86c42a0c7766c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+      "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+      "summary": "OpenAI is bolstering its team ahead of its IPO by hiring prominent figures like Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball. These strategic hires aim to strengthen the company's position in the AI landscape.",
+      "tags": [
+        "ai",
+        "openai",
+        "hiring"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4a1716b04499fdaf",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Rivian owners file lawsuit alleging false promises on self-driving features",
+      "url": "https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/",
+      "summary": "Rivian owners have filed a class-action lawsuit, alleging the company made false promises for years regarding the delivery of hands-free driving features for its first-generation R1 vehicles. The plaintiffs claim they were misled about the advanced self-driving capabilities.",
+      "tags": [
+        "automotive",
+        "lawsuit",
+        "self-driving"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b376d62e6b6b2045",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+      "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+      "summary": "Snap is spinning off its AI video team into a new company called Dotmo due to high costs, with current Snap staff transitioning to focus solely on AI video development. This move allows Snap to reduce internal expenses while retaining involvement in advanced AI projects.",
+      "tags": [
+        "ai",
+        "business",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8250b34ffa1039d9",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+      "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+      "summary": "Elastic is reportedly acquiring DeductiveAI, a three-year-old startup specializing in using AI to detect and resolve software bugs, for up to $85 million. This acquisition reflects the growing interest in AI solutions for software development.",
+      "tags": [
+        "ai",
+        "acquisitions",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a46c3d4d4970bc22",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Telegram ban in India sparks a rush to VPNs, rival apps",
+      "url": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/",
+      "summary": "Telegram's ban in India has led to a surge in VPN use and rival app downloads, as Telegram advocates for blocking specific content rather than the entire platform. Millions of users are affected by the platform's inaccessibility.",
+      "tags": [
+        "censorship",
+        "apps",
+        "india"
+      ],
+      "priority": false
+    },
+    {
+      "id": "731ce1b5d5a59feb",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The 11 standout startups from YC’s Demo Day, according to VCs",
+      "url": "https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/",
+      "summary": "VCs have highlighted 11 standout startups from Y Combinator's Spring 2026 Demo Day, with some commanding valuations exceeding $175 million. These companies represent the latest promising ventures in the startup ecosystem.",
+      "tags": [
+        "startups",
+        "venture capital",
+        "innovation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "00d1158ca27fc258",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The CEO of Allbirds’ new AI biz has a plan, but no employees",
+      "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+      "summary": "The CEO of Allbirds is launching a new AI business as a startup with a sole founder and a substantial seed round, though its future direction and employee plans are currently unclear.",
+      "tags": [
+        "ai",
+        "startup",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2d136993b1f5fb6f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The smartphone era created an attention crisis — slow tech is fixing it",
+      "url": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/",
+      "summary": "The \"slow tech\" movement is emerging as a solution to the attention crisis exacerbated by the smartphone era, with people seeking to regain control over their time and focus. This trend highlights a desire for intentional technology use.",
+      "tags": [
+        "tech",
+        "wellness",
+        "social trends"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f0cfdf89026728bc",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
+      "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+      "summary": "The US government claims ASML's advanced chip tools might be in China, but ASML refutes this, citing commercial logic against risking its export license. The company implies it would not jeopardize its business by arming Chinese customers with top-tier technology.",
+      "tags": [
+        "semiconductors",
+        "us-china",
+        "exports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "32d3897cd851c772",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
+      "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
+      "summary": "\"Queer Eye\" life coach Karamo Brown has launched Kē, a wellness app that features an AI digital clone of himself to guide users through personal growth. The app aims to help others with fitness, nutrition, meditation, and relationships based on Brown's own journey.",
+      "tags": [
+        "ai",
+        "wellness",
+        "apps"
+      ],
+      "priority": false
+    },
+    {
+      "id": "02352bbb1211bc80",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "America at 250",
+      "url": "https://www.thefp.com/p/america-at-250",
+      "summary": "This article is part of \"America at 250,\" a series counting down to the country's 250th birthday, likely featuring reflections on American history and identity.",
+      "tags": [
+        "history",
+        "america",
+        "anniversary"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1070de986b250414",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Ayaan Hirsi Ali: Britain’s Rape Gangs and the Failure of Feminism",
+      "url": "https://www.thefp.com/p/ayaan-hirsi-ali-uk-rape-gangs",
+      "summary": "A new \"Rape Gang Inquiry\" documents decades of \"industrial-scale sexual abuse\" of vulnerable white British girls by predominantly Muslim Pakistani gangs in the UK, with British feminism criticized for its silence. Elon Musk's discussions on X reportedly spurred the inquiry.",
+      "tags": [
+        "crime",
+        "uk",
+        "social issues"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3e4a0c3a7eef56bd",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Can Courage Save America? With Rye Barcott",
+      "url": "https://www.thefp.com/p/courage-save-america-rye-barcott",
+      "summary": "Rye Barcott, co-founder of With Honor and author, discusses the meaning of courage, the value of service, and bridging political divides in America. His insights delve into what differentiates courage from bravery and the potential for military service to heal polarization.",
+      "tags": [
+        "politics",
+        "society",
+        "leadership"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a10e4543e2134082",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Coleman Hughes: The Case for Progressive Patriotism",
+      "url": "https://www.thefp.com/p/coleman-hughes-progressive-patriotism-america",
+      "summary": "Coleman Hughes discusses \"progressive patriotism,\" arguing that while America's history of slavery complicates patriotism for many African Americans, their fight for freedom has ultimately made American ideals true for everyone. He critiques \"The 1619 Project's\" take on this.",
+      "tags": [
+        "patriotism",
+        "history",
+        "african american studies"
+      ],
+      "priority": false
+    },
+    {
+      "id": "043a1399400c45ba",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Great Americans: The Man Who Built America’s Stonehenge",
+      "url": "https://www.thefp.com/p/harvey-fite-great-american-artist",
+      "summary": "This article profiles Harvey Fite, the visionary sculptor who single-handedly spent nearly four decades building \"Opus 40\" in New York, a seven-acre bluestone land art installation. The work is described as America's own \"Stonehenge,\" harmonious with its natural environment.",
+      "tags": [
+        "art",
+        "sculpture",
+        "history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "66ab422bdc7290c9",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "How the Knicks Saved New York—and Me",
+      "url": "https://www.thefp.com/p/the-knicks-saved-new-york-and-me",
+      "summary": "The author reflects on how the New York Knicks' NBA championship win, their first in 53 years, brought joy to over a million fans and personally provided a lifeline during a turbulent youth. The team's triumph is framed as a significant moment for both the city and the author's life.",
+      "tags": [
+        "sports",
+        "new york",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "06c22722e93ce2d9",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "How Vermont Became Ground Zero for the Anti-Israel Movement",
+      "url": "https://www.thefp.com/p/vermont-became-ground-zero-bds-israel",
+      "summary": "Vermont has become a focal point for the anti-Israel movement, with towns passing pledges condemning Israel as an \"apartheid regime,\" causing distress for local Jewish residents. This trend highlights increasing polarization and discomfort over the Israeli-Palestinian conflict in unexpected communities.",
+      "tags": [
+        "israel-palestine",
+        "activism",
+        "community"
+      ],
+      "priority": false
+    },
+    {
+      "id": "03f24079050ca5bd",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Juneteenth and the Long Arc of American Freedom",
+      "url": "https://www.thefp.com/p/juneteenth-mlk-jr-freedom-democracy",
+      "summary": "Isaac Newton Farris Jr., Martin Luther King Jr.'s nephew, reflects on Juneteenth and his uncle's words, emphasizing the holiday's dual meaning as a reminder of slavery's cruelty and America's enduring pursuit of freedom. The Emancipation Proclamation's news was deliberately delayed to enslaved people in Texas.",
+      "tags": [
+        "juneteenth",
+        "history",
+        "civil rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d11a3e9f1de359c1",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Hottest New After-School Activity? Mah-Jongg.",
+      "url": "https://www.thefp.com/p/mah-jongg-kids-after-school-activity",
+      "summary": "Mah-jongg, traditionally associated with older generations, has surged in popularity among Gen Z and millennial moms, becoming a trendy after-school activity and social event. The game's resurgence is evident in themed parties and luxury sets.",
+      "tags": [
+        "culture",
+        "games",
+        "social trends"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3c9405a1aaef132b",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Iran Deal Trump Can’t Legally Make",
+      "url": "https://www.thefp.com/p/iran-deal-trump-legal",
+      "summary": "President Trump formally signed a memorandum of understanding with Iran, pledging immediate waivers for Iranian oil exports and related services, which legal experts argue he lacks the authority to do under the Iran Nuclear Agreement Review Act (INARA). INARA requires congressional review for such deals and temporarily bars presidential sanctions relief.",
+      "tags": [
+        "foreign policy",
+        "iran",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "10f55905cd7d4d96",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Trump Blinks First in Iran, with Haviv Rettig Gur",
+      "url": "https://www.thefp.com/p/trump-blinks-first-in-iran-haviv-rettig-gur",
+      "summary": "President Trump and Iranian president Masoud Pezeshkian signed a 14-point memorandum of understanding, initiating a 60-day negotiation period covering critical issues like the Strait of Hormuz, sanctions relief, and Iranian oil exports. This agreement is seen by some as Trump \"blinking first\" in relations with Iran.",
+      "tags": [
+        "foreign policy",
+        "iran",
+        "diplomacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c9410c10d5d63ac4",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Trump Got Us Here Out of Strength, Not Weakness",
+      "url": "https://www.thefp.com/p/trump-got-us-here-out-of-strength",
+      "summary": "The author argues that President Trump's deal with Iran, which includes a $300 billion reconstruction fund and sanctions relief for Iran's economy, signals strength rather than weakness from the US position. This perspective counters initial assessments labeling the agreement as a surrender or appeasement.",
+      "tags": [
+        "foreign policy",
+        "iran",
+        "geopolitics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1cf2dce7459370b6",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Barret Zoph is out at OpenAI again after just five months",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+      "summary": "Barret Zoph, OpenAI's head of enterprise AI sales, has departed the company again just five months after his return. His role was significant as OpenAI focuses on enterprise as a key revenue driver ahead of its planned IPO.",
+      "tags": [
+        "ai",
+        "openai",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "61c9abbc6baedf26",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "T1 Phone PR firm is &#8216;not assisting Trump Mobile any further&#8217;",
+      "url": "https://www.theverge.com/gadgets/952274/t1-phone-pr-firm-not-assisting-trump-mobile-any-further",
+      "summary": "The PR firm for Trump Mobile, Poplar Group, has ceased assisting the company, indicating continued communication issues for the media. This news comes as customers still await preordered T1 phones.",
+      "tags": [
+        "politics",
+        "tech",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "632dde15923e4da1",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The film about Sam Altman has been dropped by Amazon MGM",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+      "summary": "Amazon MGM has reportedly dropped \"Artificial,\" a film about OpenAI CEO Sam Altman starring Andrew Garfield, after a year in development. The studio believes the movie, covering Altman's 2023 termination and reinstatement, would be better served by a different studio.",
+      "tags": [
+        "ai",
+        "film",
+        "openai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1ad2c732823cfbad",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The NTS Radio Player brings the best of internet radio to your hi-fi",
+      "url": "https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming",
+      "summary": "NTS Radio and Atonemo launched a dedicated NTS Radio Player, priced at $179, bringing streaming stations and mixes to stereo systems. The device also supports popular streaming services via AirPlay 2, Google Cast, Spotify Connect, and Tidal Connect.",
+      "tags": [
+        "audio",
+        "music",
+        "gadget"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3aaa22b2dacc0a87",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Valve is so behind on Steam Controller orders that some won&#8217;t ship until 2027",
+      "url": "https://www.theverge.com/games/952582/valve-steam-controller-reservations-orders-behind-estimated-date",
+      "summary": "Valve has announced significant delays for Steam Controller orders, with new reservations now estimating shipping in 2027 due to high demand. Despite the backlog, Valve assures customers they have no plans to discontinue the gamepad.",
+      "tags": [
+        "gaming",
+        "hardware",
+        "valve"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f840921148116b9b",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "You can now use the Game Boy Camera with your phone",
+      "url": "https://www.theverge.com/tech/952173/epilogue-gb-operator-game-boy-camera-ios-android-app-iphone",
+      "summary": "Epilogue has released a new iOS/Android app, Flashback, allowing users to connect their Game Boy Camera to smartphones via the GB Operator dock. This updates the 1998 camera, previously adaptable as a desktop webcam, for mobile use.",
+      "tags": [
+        "retro tech",
+        "photography",
+        "app"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 99,
+    "summarized": 71,
+    "skipped_promos": 0,
+    "filtered_by_rules": 28,
+    "sources": 11,
+    "email_items_omitted": 0
+  }
+}
