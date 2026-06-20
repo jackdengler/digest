@@ -1,0 +1,749 @@
+{
+  "date": "2026-06-20",
+  "generated_at": "2026-06-20T15:30:43+00:00",
+  "hot_topics": [
+    {
+      "topic": "Israel-Hezbollah Conflict Continues Despite Ceasefire",
+      "synthesis": "Israel and Hezbollah have reportedly continued strikes despite a recently announced ceasefire agreement, with deaths reported in southern Lebanon. The Israeli Defense Forces stated they targeted Hezbollah after the group launched over 50 projectiles at Israeli forces. This ongoing violence underscores the fragility of peace efforts in the region, potentially threatening a U.S.-Iran deal.",
+      "item_ids": [
+        "7bdd1db8f6b1852c",
+        "4951d376b10a1e2b"
+      ]
+    },
+    {
+      "topic": "Trump and Meloni Clash Over G7 Photo Claim",
+      "synthesis": "Former President Donald Trump and Italian Prime Minister Giorgia Meloni are in a public dispute after Meloni denied Trump's claim that she \"begged\" for a photo at the G7 summit. Meloni, stating \"Italy and I do not beg,\" prompted Italy's top diplomat to cancel a U.S. visit in response to the alleged remarks. This incident highlights a diplomatic spat between the two leaders over a perceived misrepresentation of their interaction.",
+      "item_ids": [
+        "9a9d9657ceb664e9",
+        "fea6d14c7b2b1669"
+      ]
+    },
+    {
+      "topic": "Legendary Sitcom Director James Burrows Dies at 85",
+      "synthesis": "James Burrows, the celebrated co-creator of \"Cheers\" and a prolific director for iconic sitcoms like \"Friends\" and \"The Big Bang Theory,\" has passed away at the age of 85. Burrows was known for his extensive work behind the camera, having directed over 1,000 episodes that shaped classic television. His death marks the loss of a revered figure in Hollywood.",
+      "item_ids": [
+        "2a88338f290c7177",
+        "9e77671da6fbec75"
+      ]
+    },
+    {
+      "topic": "Key Features of iOS 27 Revealed",
+      "synthesis": "Apple's upcoming iOS 27 release will include several noteworthy features for users, despite the primary focus on flashier AI upgrades like Siri AI and Apple Intelligence. While an early beta version already shows some bugs, new additions are expected to enhance the user experience. Tech enthusiasts are encouraged to explore these developments beyond the major AI announcements.",
+      "item_ids": [
+        "c77029604bd9fc10",
+        "4f836baf9eeca965"
+      ]
+    },
+    {
+      "topic": "US Defeats Australia in World Cup Match Amidst Diplomatic Absence",
+      "synthesis": "The United States men's national team defeated Australia 2-0 to advance in the World Cup, delighting US supporters and leaving Australian fans disappointed but hopeful. The match took place in Seattle, though President Donald Trump and Prime Minister Anthony Albanese were notably absent, reportedly following the game from afar. Local Seattle interests, such as the Northwest Seaport Alliance, had shown support for Australia, highlighting existing trade ties.",
+      "item_ids": [
+        "35d0c57ac9a35d83",
+        "9223b90eab479f4f",
+        "ddc891eed26dd149",
+        "4b2c96a6e875f6d4"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "ee2cc3f9c8f4b631",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed",
+      "url": "https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/",
+      "summary": "The UK plans to implement facial age estimation for asylum seekers starting next year, despite an internal government report acknowledging the technology's flaws and biases in mistaking children for adults. This move, a first of its kind, raises concerns about stripping legal protections from wrongly classified child migrants.",
+      "tags": [
+        "uk",
+        "ai",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6e6db1469ac33bc6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "African and Caribbean nations call for formal apology for transatlantic slavery",
+      "url": "https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss",
+      "summary": "African and Caribbean nations are demanding a formal apology for transatlantic slavery, alongside debt relief and financial compensation from countries that profited from the slave trade.",
+      "tags": [
+        "history",
+        "reparations",
+        "international relations"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a1d4e4988523fca1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Australia confirms first case of H5N1 bird flu as virus reaches every continent",
+      "url": "https://www.bbc.com/news/articles/c4gykxklvl5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Australia has reported its first case of the H5N1 bird flu strain, making it the final continent where the virus had not yet been found.",
+      "tags": [
+        "health",
+        "animal health",
+        "australia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7bdd1db8f6b1852c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
+      "url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
+      "summary": "Deaths are reported in southern Lebanon as Israel and Hezbollah continue strikes, despite a ceasefire agreement. The IDF stated it targeted Hezbollah after the group fired over 50 projectiles at Israeli forces.",
+      "tags": [
+        "middle east",
+        "conflict",
+        "ceasefire"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2a88338f290c7177",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "James Burrows, legendary director of Cheers and Friends, dies aged 85",
+      "url": "https://www.bbc.com/news/articles/ce8k07x523eo?at_medium=RSS&at_campaign=rss",
+      "summary": "James Burrows, the renowned co-creator of \"Cheers\" and director of over 1,000 episodes of classic sitcoms like \"Friends\" and \"The Big Bang Theory,\" has died at 85.",
+      "tags": [
+        "obituary",
+        "television",
+        "hollywood"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0abf939b367817c8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Japanese pop group XG went from brutal five year training to global pop stars",
+      "url": "https://www.bbc.com/news/articles/cly8gj8pqz7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Japanese pop group XG has achieved global stardom after undergoing a brutal five-year training regimen that began before they were teenagers.",
+      "tags": [
+        "music",
+        "k-pop",
+        "japan"
+      ],
+      "priority": false
+    },
+    {
+      "id": "73d721e7dbab62d3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Pétanque player, 68, dies after being 'hit in head with metal boule'",
+      "url": "https://www.bbc.com/news/articles/cvgmny9v14no?at_medium=RSS&at_campaign=rss",
+      "summary": "A 68-year-old pétanque player died after allegedly being struck in the head with a metal boule by his 81-year-old opponent, who has since been arrested.",
+      "tags": [
+        "crime",
+        "france",
+        "incident"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dc697acde41637c3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
+      "url": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&at_campaign=rss",
+      "summary": "A Moscow oil refinery attack has brought Russia's war with Ukraine closer to home for residents, disrupting a sense of normalcy in the city.",
+      "tags": [
+        "russia",
+        "ukraine",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "937bd6d145001c6f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Tourist dies in Dominican Republic luxury resort fire",
+      "url": "https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&at_campaign=rss",
+      "summary": "A tourist has died in a fire at the Viva Wyndham Dominicus Beach luxury resort in the Dominican Republic, which led to the evacuation of nearly 1,700 people.",
+      "tags": [
+        "tragedy",
+        "travel",
+        "dominican republic"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9a9d9657ceb664e9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump hits out at Italy's Meloni after pushback on G7 photo claim",
+      "url": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump criticized Italian Prime Minister Giorgia Meloni after she disputed his claim that she \"begged\" for a photo at the G7 summit. Trump insisted she asked \"over and over\" for a picture.",
+      "tags": [
+        "politics",
+        "international relations",
+        "g7"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4bd7f60a7d059568",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US to stop funding HIV programmes in South Africa",
+      "url": "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US plans to cease funding HIV programs in South Africa, a country that has the highest number of people living with HIV globally, exceeding eight million.",
+      "tags": [
+        "health",
+        "south africa",
+        "us policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "35d0c57ac9a35d83",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: World Cup fans react to US defeating Australia to reach knockout round",
+      "url": "https://www.bbc.com/news/videos/cdxdly41p23o?at_medium=RSS&at_campaign=rss",
+      "summary": "US supporters expressed delight after their team defeated Australia 2-0 to advance to the World Cup knockout round, while Australian fans, though disappointed, remained hopeful.",
+      "tags": [
+        "world cup",
+        "soccer",
+        "sports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4821f2c5d72039e7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Would you choose to take a 22-hour non-stop flight?",
+      "url": "https://www.bbc.com/news/videos/cn4dqg0dz5go?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC surveyed Sydney locals about their willingness to take the newly announced 22-hour non-stop commercial flight from Sydney to London.",
+      "tags": [
+        "travel",
+        "aviation",
+        "lifestyle"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cbd2d65fe53efb0a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Zelensky stripped of highest Polish honour over WW2 name of army unit",
+      "url": "https://www.bbc.com/news/articles/cr7xzg3dmj8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine has condemned Poland's decision to strip President Zelensky of a high Polish honor, calling it a \"strategic mistake\" and \"disrespectful.\" The honor was revoked due to the World War 2-era name of a Ukrainian army unit.",
+      "tags": [
+        "ukraine",
+        "poland",
+        "diplomacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "684de426dcadddbc",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "CSSQuake",
+      "url": "https://cssquake.com/",
+      "summary": "This is a link-only post from Hacker News about CSSQuake.",
+      "tags": [
+        "webdev",
+        "css"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bcb5cee344e755c7",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+      "url": "https://arrowtsx.dev/bigger-models/",
+      "summary": "This is a link-only post from Hacker News claiming GPT-5.5 hallucinates three times more than the MIT-licensed GLM-5.2 model.",
+      "tags": [
+        "ai",
+        "llms",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e1b1187c88b4d79e",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "How many of the 170k English words do you know?",
+      "url": "https://vocabowl-870366514258.us-west1.run.app/",
+      "summary": "This is a link-only post from Hacker News providing a tool or discussion on how many of the 170,000 English words a person knows.",
+      "tags": [
+        "language",
+        "education",
+        "vocabulary"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cc9e0ac7b25fca8f",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Hyundai buys Boston Dynamics",
+      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+      "summary": "This is a link-only post from Hacker News announcing Hyundai's acquisition of full control over Boston Dynamics as SoftBank exits for $325 million.",
+      "tags": [
+        "robotics",
+        "acquisition",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4e2ffc1f29bd3989",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "I Stored a Website in a Favicon",
+      "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+      "summary": "This is a link-only post from Hacker News about storing a website in a favicon.",
+      "tags": [
+        "webdev",
+        "security",
+        "exploit"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fb88ff29e68f3211",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "There are no instances in ATProto",
+      "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+      "summary": "This is a link-only post from Hacker News discussing the absence of instances in ATProto.",
+      "tags": [
+        "protocol",
+        "decentralization",
+        "tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8e4909d9fe7fab6b",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Where to Find the Colors Your Screen Can't Show You",
+      "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+      "summary": "This is a link-only post from Hacker News about discovering colors beyond screen display capabilities.",
+      "tags": [
+        "display",
+        "graphics",
+        "color"
+      ],
+      "priority": false
+    },
+    {
+      "id": "07e1142938d1f609",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "A California man's case highlights gaps in care and oversight at DHS detention centers",
+      "url": "https://www.npr.org/2026/06/20/nx-s1-5855064/richard-la-parias-ice-detention",
+      "summary": "A California man's case, involving being shot by federal officers during an ICE operation, highlights significant gaps in care and oversight within DHS detention centers. His lawyer reports he is still suffering pain eight months later.",
+      "tags": [
+        "immigration",
+        "justice",
+        "human rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d1e4c2f05d655c30",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Air Force One, gifted to Trump from Qatar, arrives at Joint Base Andrews",
+      "url": "https://www.npr.org/2026/06/19/nx-s1-5864503/air-force-one-trump-qatar",
+      "summary": "A luxury Boeing 747, gifted to Donald Trump from Qatar, has arrived at Joint Base Andrews ahead of schedule. The $400 million jet caused controversy as one of the largest foreign gifts ever received by the U.S. government.",
+      "tags": [
+        "politics",
+        "trump",
+        "international relations"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a885600de241d407",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Algae clouded Trump's vision for the Reflecting Pool. But scientists aren't surprised",
+      "url": "https://www.npr.org/2026/06/19/nx-s1-5863044/dc-reflecting-pool-algae-green-trump",
+      "summary": "The Lincoln Memorial Reflecting Pool has developed a significant algae bloom, which experts attribute to its shallow, sunny waters being an ideal incubator, potentially accelerated by a recent renovation. This comes after a $14 million beautification project initiated by former President Trump.",
+      "tags": [
+        "environment",
+        "dc",
+        "science"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4951d376b10a1e2b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Fighting persists in Lebanon despite a ceasefire as  U.S.-Iran deal is under threat",
+      "url": "https://www.npr.org/2026/06/20/nx-s1-5865006/fighting-lebanon-despite-ceasefire",
+      "summary": "Israeli strikes in southern Lebanon killed at least seven people, including two children, hours after a ceasefire agreement was reportedly reached. This persistent fighting threatens the U.S.-Iran deal.",
+      "tags": [
+        "middle east",
+        "conflict",
+        "ceasefire"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fea6d14c7b2b1669",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Italy's Meloni, once Trump's closest ally in Europe, says he made up a story about her",
+      "url": "https://www.npr.org/2026/06/19/nx-s1-5864264/meloni-trump-fight-beg",
+      "summary": "\"Italy and I do not beg,\" Meloni said in a video rebuke posted on social media Friday. Italy's top diplomat, meanwhile, said he was cancelling a visit to the U.S because of the alleged remarks.\n(Image credit: Geert Vanden Wijngaert)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "9e77671da6fbec75",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "James Burrows, director of classic shows 'Cheers' and 'Friends,' dies at 85",
+      "url": "https://www.npr.org/2026/06/19/g-s1-129137/james-burrows-death-obit-cheers-friends",
+      "summary": "Burrows spent his career behind the camera specializing in situation comedies. Few viewers recognized him or knew his name, other than to see it flash quickly on the screen in the opening credits. But they knew his work.\n(Image credit: Jason LaVeris)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "380459c29ce3fa9a",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Opinion: Algae doesn't care about our party lines",
+      "url": "https://www.npr.org/2026/06/20/nx-s1-5854977/opinion-algae-doesnt-care-about-our-party-lines",
+      "summary": "President Trump's $14 million beautification project for the Lincoln Memorial Reflecting Pool is now plagued by a robust algae bloom despite a coating of \"American flag blue.\"",
+      "tags": [
+        "environment",
+        "politics",
+        "dc"
+      ],
+      "priority": false
+    },
+    {
+      "id": "048ff331966a67d3",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Palestinian-American kids find inspiration, and escape, on the soccer pitch",
+      "url": "https://www.npr.org/2026/06/20/nx-s1-5854466/palestinian-american-kids-find-inspiration-and-escape-on-the-soccer-pitch",
+      "summary": "Palestinian-American children are finding inspiration and escape on the soccer pitch, using the sport as a refuge from the realities of war, even as World Cup games are held nearby.",
+      "tags": [
+        "community",
+        "soccer",
+        "youth"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4b2c96a6e875f6d4",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Australian media are launching a MAGA counterpress",
+      "url": "https://www.politico.com/live-updates/2026/06/19/world-cup-2026/australia-make-america-groan-again-vs-us-00968750",
+      "summary": "Sydney's best-selling newspaper published a \"MAGA counterpress\" pep talk for Australia's national team ahead of its World Cup match against the United States.",
+      "tags": [
+        "world cup",
+        "media",
+        "australia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "05315e75daa33bb5",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Inside FIFA’s plans to commemorate Juneteenth",
+      "url": "https://www.politico.com/live-updates/2026/06/19/world-cup-2026/fifa-commemorates-juneteenth-00969049",
+      "summary": "FIFA commemorated Juneteenth with personalized videos played in World Cup host cities, featuring local legends and landmarks to highlight the holiday's significance. The organization plans similar commemorations for all matches on Friday.",
+      "tags": [
+        "world cup",
+        "culture",
+        "holiday"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9b6eb2fb1bab592f",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "The accidental American",
+      "url": "https://www.politico.com/live-updates/2026/06/19/world-cup-2026/folarin-balogun-us-birthright-citizenship-fifa-world-cup-2026-00968746",
+      "summary": "Folarin Balogun, a US soccer star born in Brooklyn, has become a key player for the American team at the World Cup, unintentionally fueling the national debate on birthright citizenship following President Trump's executive order attempts. The ACLU is challenging Trump's order in the Supreme Court, arguing it threatens the citizenship of millions.",
+      "tags": [
+        "world cup",
+        "politics",
+        "citizenship"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ddc891eed26dd149",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "The Americans who want to see Australia do well",
+      "url": "https://www.politico.com/live-updates/2026/06/19/world-cup-2026/the-americans-cheering-for-australia-00968835",
+      "summary": "Seattle's Northwest Seaport Alliance and ILWU Local 19 displayed Australian flags and welcome messages for the visiting World Cup team, recognizing Australia as a top trading partner. This gesture highlights the economic ties, despite potential disruptions from Trump's tariff regime and Australia's pushback on a forced labor list.",
+      "tags": [
+        "world cup",
+        "trade",
+        "ports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9223b90eab479f4f",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "The US-Australia face-off that isn’t happening",
+      "url": "https://www.politico.com/live-updates/2026/06/19/world-cup-2026/the-us-australia-face-off-that-isnt-happening-00969016",
+      "summary": "President Donald Trump and Prime Minister Anthony Albanese were absent from the US-Australia World Cup match at Seattle's Lumen Field, watching from afar if they followed the game.",
+      "tags": [
+        "world cup",
+        "politics",
+        "sports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "40e4c7c026016d44",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Wealth correlation with soccer ability?",
+      "url": "https://www.politico.com/live-updates/2026/06/19/world-cup-2026/gdp-fifa-world-cup-2026-rankings-00968767",
+      "summary": "POLITICO's analysis of World Cup participants shows a positive correlation between GDP per capita and soccer performance, though it's not a perfect indicator as demonstrated by wealthy Qatar's significant loss.",
+      "tags": [
+        "world cup",
+        "economics",
+        "sports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5cb1956d904f52c9",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Sean Lynch",
+      "url": "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything",
+      "summary": "Sean Lynch highlights that the primary value of Model Context Protocol (MCP) lies in isolating the authentication flow from an agent's context window. He suggests an idealized MCP would function purely as an auth gateway for the API.",
+      "tags": [
+        "ai",
+        "security",
+        "llms"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7436b13ea8711bad",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Every fusion startup that has raised over $100M",
+      "url": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
+      "summary": "Fusion startups have collectively raised $7.1 billion to date, with the majority of this investment concentrated in a few key companies.",
+      "tags": [
+        "energy",
+        "funding",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4f836baf9eeca965",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Every new iOS 27 feature that’s worth knowing about",
+      "url": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
+      "summary": "While Apple's new Siri AI and Apple Intelligence are flashier, iOS 27 still includes several worthwhile new features for users to explore.",
+      "tags": [
+        "ios",
+        "apple",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7bb5492b2ba6bb59",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
+      "url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
+      "summary": "Following Japan's biggest IPO of 2026, taxi-hailing app Go secured significant capital, which it plans to use for robotaxi development and acquisitions. This funding addresses Japan's critical driver shortage and boosts the country's listing season.",
+      "tags": [
+        "japan",
+        "robotaxis",
+        "ipo"
+      ],
+      "priority": false
+    },
+    {
+      "id": "97f1d95c9a383336",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
+      "url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
+      "summary": "Jean-Baptiste Kempf, a French entrepreneur known for making video players run smoothly, is now building Kyber, an infrastructure layer for real-time remote device control, aimed at robotics.",
+      "tags": [
+        "robotics",
+        "open source",
+        "infrastructure"
+      ],
+      "priority": false
+    },
+    {
+      "id": "08ed5d527ca722e5",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Fathers Are Not Mothers",
+      "url": "https://www.thefp.com/p/fathers-are-not-mothers-alex-berenson",
+      "summary": "This article challenges prevailing cultural stereotypes of fathers as either clueless or emotionally distant, advocating for a reevaluation of fatherhood that goes beyond the \"feminized gentle parent\" ideal. It emphasizes the importance of men being the fathers they want and should be.",
+      "tags": [
+        "parenting",
+        "culture",
+        "gender roles"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9ead6d160c0bed1c",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "I Was Facing Prison. We Decided to Have a Baby.",
+      "url": "https://www.thefp.com/p/facing-prison-having-a-baby",
+      "summary": "A man reflects on the profound emotions of his second son's birth, knowing he would soon have to leave for prison due to a federal indictment stemming from an FBI sting operation. This personal story highlights the contrast between immense joy and impending separation.",
+      "tags": [
+        "personal story",
+        "justice system",
+        "family"
+      ],
+      "priority": false
+    },
+    {
+      "id": "76c43ab464b31691",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Two Drinks with. . . The Trump Adviser Headed to OpenAI",
+      "url": "https://www.thefp.com/p/two-drinks-dean-ball",
+      "summary": "Dean Ball, a former White House adviser on AI policy, has joined OpenAI to lead its new \"Strategic Futures\" team, following the Commerce Department's imposition of export controls on Anthropic's powerful AI models (Claude Fable 5 and Mythos 5) due to security concerns.",
+      "tags": [
+        "ai",
+        "policy",
+        "openai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "17498e22ffe86fb9",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "‘Toy Story 5’ Is a Love Letter to Fathers",
+      "url": "https://www.thefp.com/p/toy-story-5-fatherhood",
+      "summary": "\"Toy Story 5\" is hailed as the best in the series and a profound meditation on fatherhood, offering surprising depth and humor that also reflects on current human affairs. The article praises Woody as a complex on-screen dad, breaking traditional Hollywood stereotypes.",
+      "tags": [
+        "film",
+        "review",
+        "fatherhood"
+      ],
+      "priority": false
+    },
+    {
+      "id": "21b6bb3cec483653",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Hue’s wired wall modules bring non-smart lights into its ecosystem",
+      "url": "https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb",
+      "summary": "Philips Hue has introduced its first wired wall modules, allowing non-smart lights to be integrated into the Hue ecosystem, though these are currently Europe-only. The company also launched more affordable Play table and floor lamps and upgraded E14 candle bulbs with broader white light and Matter-over-Thread compatibility.",
+      "tags": [
+        "smart home",
+        "lighting",
+        "iot"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0d0a5ab07dc29b08",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Moves of the Diamond Hand is an unfinished, irresistibly weird dice-based RPG",
+      "url": "https://www.theverge.com/games/949875/moves-of-the-diamond-hand-rpg-dice-jazz-noir",
+      "summary": "\"Moves of the Diamond Hand\" is an unfinished, dice-based RPG available in Early Access that offers strange conversations and frequent dice rolls. Despite its retro appearance and unconfirmed mysteries, the game is recognized for its creative roleplaying experience.",
+      "tags": [
+        "gaming",
+        "rpg",
+        "early access"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d0f7f8b9b787cb25",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives",
+      "url": "https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview",
+      "summary": "Experimental musician and YouTuber Hainbach, known for creating music with laboratory equipment and scientific instruments, has released six albums in 2025 alone. His latest work, \"Gentle Hum,\" is a collaboration with Turkish composer Başak Günak.",
+      "tags": [
+        "music",
+        "youtube",
+        "artist"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bc7d93dc92dbcaa0",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Nothing cancels this year&#8217;s CMF phone due to RAM prices",
+      "url": "https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices",
+      "summary": "Nothing has canceled its CMF phone successor for this year due to soaring RAM prices, which prevent the company from delivering a genuine step forward at a budget-friendly price. Nothing CEO Carl Pei confirmed that memory costs have doubled, impacting their mid-range phone plans.",
+      "tags": [
+        "smartphones",
+        "industry",
+        "supply chain"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2f996996e0372980",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "SwitchBot’s Standing Circulator Fan is worth fighting for",
+      "url": "https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review",
+      "summary": "The SwitchBot Standing Circulator Fan is praised for its versatility, quiet operation, and smart home integration. It functions as both a desktop and standing fan, offering a 3D circulation of air and long battery life.",
+      "tags": [
+        "smart home",
+        "gadget",
+        "review"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c77029604bd9fc10",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Toy Story has the right take on tech",
+      "url": "https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer",
+      "summary": "This digest discusses various tech and pop culture topics, including iOS 27 beta bugs, the latest camera setups, and mentions reading about figures like Sam Bankman-Fried. The title refers to Toy Story's take on tech, but the content is broader.",
+      "tags": [
+        "tech",
+        "culture",
+        "ios"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 71,
+    "summarized": 50,
+    "skipped_promos": 1,
+    "filtered_by_rules": 20,
+    "sources": 9,
+    "email_items_omitted": 0
+  }
+}
