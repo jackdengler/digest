@@ -1,0 +1,727 @@
+{
+  "date": "2026-06-21",
+  "generated_at": "2026-06-21T15:47:33+00:00",
+  "hot_topics": [
+    {
+      "topic": "Fuel Crisis in Russian-Occupied Crimea",
+      "synthesis": "Civilian gasoline sales have been suspended in Russian-occupied Crimea due to escalating Ukrainian attacks on oil facilities and supply routes. This measure follows previous fuel rationing, indicating a significant impact on the region's energy supplies.",
+      "item_ids": [
+        "c8b9fad26823df32",
+        "76ffbe86775550f1"
+      ]
+    },
+    {
+      "topic": "Washington D.C. Reflecting Pool Vandalism Claims",
+      "synthesis": "The Washington D.C. Reflecting Pool has been at the center of vandalism claims, with former Olympian Davey Hearn denying his arrest for merely touching new paint. Separately, Donald Trump asserted on Truth Social that vandals slashed the pool's lining and added chemicals, though he provided no evidence for his claims.",
+      "item_ids": [
+        "9e8b10037f5252f4",
+        "38938f63d3382003"
+      ]
+    },
+    {
+      "topic": "World Cup 2026 Excitement and Political Undercurrents",
+      "synthesis": "The upcoming World Cup is generating buzz, with analyses predicting the \"happiest\" game between Sweden and the Netherlands, while San Francisco's mayor eagerly prepares to host U.S. team matches. The tournament also highlights political tensions, as Spain's team seeks a comeback against the backdrop of its socialist leader's clashes with Donald Trump over international policy.",
+      "item_ids": [
+        "e795b257f5d88823",
+        "0e152f67ed6f122a",
+        "abd8b848b3943b2e",
+        "3154e73c0733ce7f"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "7368744c11ff3126",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Review: Widow's Bay is a boldly original take on comedic horror",
+      "url": "https://arstechnica.com/culture/2026/06/review-widows-bay-is-a-boldly-original-take-on-comedic-horror/",
+      "summary": "\"Widow's Bay\" is a new Apple TV comedic horror series praised by critics like Guillermo del Toro and Ben Stiller. It follows widower Mayor Tom Loftis as a mysterious fog signals supernatural events in his quirky seaside town.",
+      "tags": [
+        "tv series",
+        "horror",
+        "review"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fe83b431a5a9e582",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "At CrimeCon true crime obsessives come face-to-face with real loss",
+      "url": "https://www.bbc.com/news/articles/cr47z6ykp2xo?at_medium=RSS&at_campaign=rss",
+      "summary": "At CrimeCon, true crime fans confront the reality of loss as victims' families emphasize ethical engagement with such stories over exploitative consumption.",
+      "tags": [
+        "true crime",
+        "ethics",
+        "conference"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c3d1465c0dab206b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Backstage at Gorillaz' epic, one-off stadium show: 'The vibe is ridiculous'",
+      "url": "https://www.bbc.com/news/articles/cm203gndx0lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Damon Albarn, De La Soul, and Moonchild Sannelly discussed their experience backstage at Gorillaz' largest-ever stadium performance.",
+      "tags": [
+        "music",
+        "concert",
+        "gorillaz"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c6a77a3e7896e07c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "BBC sees destroyed villages in Israeli-occupied southern Lebanon",
+      "url": "https://www.bbc.com/news/videos/c8r2pyv3e2po?at_medium=RSS&at_campaign=rss",
+      "summary": "A BBC team on a humanitarian convoy was granted rare access to Israeli-occupied southern Lebanon, where they observed destroyed villages.",
+      "tags": [
+        "lebanon",
+        "israel",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5a28b67d1dee88f1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Bolivian president declares state of emergency",
+      "url": "https://www.bbc.com/news/articles/cr47wn92zdgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Bolivia's president has declared a state of emergency following weeks of anti-government protests that have caused shortages of basic goods.",
+      "tags": [
+        "bolivia",
+        "politics",
+        "protest"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bf4e7a64ff3bf1f1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Colombia's escalating, brutal internal conflict is defining its presidential election",
+      "url": "https://www.bbc.com/news/articles/cvgqv8q1ndpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Colombia's presidential election is being shaped by its worsening internal conflict, with a left-wing senator supporting talks with armed gangs opposing a Trump-backed outsider.",
+      "tags": [
+        "colombia",
+        "politics",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e795b257f5d88823",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Dutch royals enjoy two big results in one World Cup day",
+      "url": "https://www.bbc.com/sport/football/articles/c4gydq973nqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Members of the Dutch royal family celebrated two World Cup victories on Saturday, watching both the Netherlands and their former colony Curacao play.",
+      "tags": [
+        "world cup",
+        "royalty",
+        "football"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9e8b10037f5252f4",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
+      "url": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Former Olympian Davey Hearn denies vandalizing the Washington Reflecting Pool, stating he merely touched new paint out of curiosity. He was arrested for the incident.",
+      "tags": [
+        "washington dc",
+        "incident",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c8b9fad26823df32",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
+      "url": "https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fuel sales for civilians have been suspended in Russian-occupied Crimea after Ukraine intensified attacks on oil facilities and supply routes. This follows previous fuel rationing due to shortages.",
+      "tags": [
+        "ukraine war",
+        "crimea",
+        "energy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cb85f8fbf9ecd9eb",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Half of France under red heat alert as alcohol banned at street music festival",
+      "url": "https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Half of France is under a red heat alert with temperatures expected to reach historic highs, leading to an alcohol ban at a street music festival.",
+      "tags": [
+        "france",
+        "climate",
+        "heatwave"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6e2c1c421694e731",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Indian cricketer, 15, hits record-breaking 50 in just 11 balls",
+      "url": "https://www.bbc.com/sport/cricket/articles/czdev6lp8p9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fifteen-year-old Indian cricketer Vaibhav Sooryavanshi set a new record for the fastest 50-over List A half-century, despite not being included in India's one-day international squad.",
+      "tags": [
+        "cricket",
+        "sports",
+        "record"
+      ],
+      "priority": false
+    },
+    {
+      "id": "756b22c4b1a9f028",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
+      "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Israeli strikes in Gaza have killed six people, including an Al Jazeera cameraman, whom the Israeli military accused without evidence of being a \"Hamas sniper operative.\"",
+      "tags": [
+        "gaza",
+        "israel",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5212713098ae312c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
+      "url": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lebanese turtle conservationist Mona Khalil died after an Israeli strike, having refused to leave the beach she dedicated years to protecting.",
+      "tags": [
+        "lebanon",
+        "israel",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a20e213bb24b4c92",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Low-key funeral held for giant of the art world David Hockney",
+      "url": "https://www.bbc.com/news/articles/cn8q6wxy706o?at_medium=RSS&at_campaign=rss",
+      "summary": "Artist David Hockney, who passed away recently, had a private funeral attended only by his partner and great-nephew, as per his request.",
+      "tags": [
+        "art",
+        "obituary",
+        "david hockney"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a6ef75c795966979",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Nobel Peace Prize winner triumphs at Ethiopian polls but fears grow of new conflict",
+      "url": "https://www.bbc.com/news/articles/cz750q5e3w3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Abiy Ahmed's party maintained a large majority in Ethiopian polls, yet concerns are rising about potential new conflicts amidst unrest and regional tensions.",
+      "tags": [
+        "ethiopia",
+        "politics",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a00f3adae1129c8c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US and Iran begin talks on initial peace deal in Switzerland",
+      "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US and Iran have started face-to-face negotiations in Switzerland to discuss an initial peace deal, following ongoing conflict in Lebanon and Iran's threat to close the Strait of Hormuz.",
+      "tags": [
+        "international relations",
+        "iran",
+        "us"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9a27461b3fda725d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why an AI company cleaned my New York City apartment for free",
+      "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
+      "summary": "An AI company is offering free apartment cleanings in New York City as a method to train the robots it intends to develop as replacements for human cleaners.",
+      "tags": [
+        "ai",
+        "robotics",
+        "services"
+      ],
+      "priority": false
+    },
+    {
+      "id": "017ed6fa275b92fd",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Zelensky returns highest Polish honour after award stripped",
+      "url": "https://www.bbc.com/news/articles/c2lye7xje9yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's President Zelensky returned Poland's highest honor after it was revoked, while also stating his country is open to discussing \"difficult and painful chapters\" of their shared history.",
+      "tags": [
+        "ukraine",
+        "poland",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b9950a95c61f4820",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+      "url": "https://www.beyondallreason.info",
+      "summary": "Beyond All Reason is a free real-time strategy game inspired by Total Annihilation.",
+      "tags": [
+        "gaming",
+        "rts",
+        "open source"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4b4da9768c46b4ec",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Developers don't understand CORS (2019)",
+      "url": "https://fosterelli.co/developers-dont-understand-cors",
+      "summary": "This article (from 2019) discusses the common lack of understanding among developers regarding Cross-Origin Resource Sharing (CORS).",
+      "tags": [
+        "web development",
+        "security",
+        "cors"
+      ],
+      "priority": false
+    },
+    {
+      "id": "21cbda9719f7befa",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
+      "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+      "summary": "A project aiming to reverse-engineer the classic DOS game \"F-15 Strike Eagle II\" is seeking test pilots.",
+      "tags": [
+        "gaming",
+        "retro gaming",
+        "software development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "796213e019b3164f",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Epoll vs. io_uring in Linux",
+      "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
+      "summary": "This post compares `epoll` and `io_uring`, two different I/O interface mechanisms in Linux.",
+      "tags": [
+        "linux",
+        "programming",
+        "performance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6f93c8a155b5772c",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Google Hits 50% IPv6",
+      "url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
+      "summary": "Google has achieved 50% adoption of IPv6.",
+      "tags": [
+        "google",
+        "networking",
+        "ipv6"
+      ],
+      "priority": false
+    },
+    {
+      "id": "14c26cedeb48b0db",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Renting a sewing machine from the library",
+      "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+      "summary": "This article highlights the diverse and unusual items, such as sewing machines, available for rent from libraries in Finland.",
+      "tags": [
+        "libraries",
+        "finland",
+        "community services"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0d4aa2904f229330",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Slow breathing modulates brain function and risk behavior",
+      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+      "summary": "Research indicates that slow breathing can modulate brain function and influence risk behavior.",
+      "tags": [
+        "neuroscience",
+        "health",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3393bfdf32937c17",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "SMPTE Makes Its Standards Freely Accessible",
+      "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+      "summary": "SMPTE (Society of Motion Picture and Television Engineers) has made its technical standards freely accessible to the global media technology community.",
+      "tags": [
+        "media",
+        "standards",
+        "open access"
+      ],
+      "priority": false
+    },
+    {
+      "id": "74bb2eef02861921",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
+      "url": "https://www.lispm.net/apps/uhf-x11/",
+      "summary": "UHF X11 is a version of the X11 display system developed specifically for VisionOS and Apple Vision Pro.",
+      "tags": [
+        "apple",
+        "visionos",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "37d6d04bff2ff7ac",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Unauthorized alert sent to cell phones across Brazil",
+      "url": "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam",
+      "summary": "An unauthorized alert was sent to cell phones throughout Brazil, indicating a potential cyber incident.",
+      "tags": [
+        "brazil",
+        "cybersecurity",
+        "incident"
+      ],
+      "priority": false
+    },
+    {
+      "id": "aecdf82fc64a148c",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "A new survey on dads found that 9 out of 10 had a surprising reaction to fatherhood",
+      "url": "https://www.npr.org/2026/06/21/g-s1-128889/a-new-survey-on-dads-found-that-9-out-of-10-had-a-surprising-reaction-to-fatherhood",
+      "summary": "A new report surveying thousands of fathers revealed that nine out of ten embraced a role beyond traditional provision, indicating a surprising reaction to fatherhood.",
+      "tags": [
+        "parenting",
+        "fathers",
+        "survey"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4e5b79949573b81a",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Cambodia cracked down on scams costing Americans billions. It created a new crisis",
+      "url": "https://www.npr.org/2026/06/21/g-s1-128624/freed-from-cambodias-scam-compounds-trafficking-victims-face-a-new-crisis",
+      "summary": "Cambodia's crackdown on scam centers, which defrauded Americans of billions, has inadvertently created a new crisis: thousands of freed foreign trafficking victims are now stranded in Phnom Penh.",
+      "tags": [
+        "cambodia",
+        "scams",
+        "human trafficking"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d7ef4d6488c61824",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "DOJ memo stokes fear among disability advocates of a return to institutionalization",
+      "url": "https://www.npr.org/2026/06/20/nx-s1-5865100/doj-memo-trump-disability-civil-rights-institutionalization",
+      "summary": "A Justice Department memo is causing concern among disability advocates who fear it challenges civil rights protections, potentially leading to a return to institutionalization for disabled Americans.",
+      "tags": [
+        "disability rights",
+        "policy",
+        "doj"
+      ],
+      "priority": false
+    },
+    {
+      "id": "38938f63d3382003",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump claims vandals damaged D.C. Reflecting Pool, and says it will be drained again",
+      "url": "https://www.npr.org/2026/06/21/nx-s1-5865636/trump-reflecting-pool-dc-vandals-drain-green",
+      "summary": "Donald Trump claimed on Truth Social that vandals slashed the D.C. Reflecting Pool's lining and added chemicals, leading to arrests and a plan to drain the pool again, though he provided no evidence.",
+      "tags": [
+        "trump",
+        "washington dc",
+        "incident"
+      ],
+      "priority": false
+    },
+    {
+      "id": "76ffbe86775550f1",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Ukrainian attacks prompt Russian-held Crimea to halt civilian gasoline sales",
+      "url": "https://www.npr.org/2026/06/21/g-s1-129200/ukrainian-attacks-russia-crimea-halt-gas-sales",
+      "summary": "Civilian gasoline sales were halted in Russian-occupied Crimea following intensified Ukrainian attacks on fuel supplies.",
+      "tags": [
+        "ukraine war",
+        "crimea",
+        "energy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "73c86c00296bf031",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Want to improve your agility? Try these exercises that combine speed and strength",
+      "url": "https://www.npr.org/2026/06/21/nx-s1-5776814/improve-your-agility-explosive-power-exercises-prevent-injury",
+      "summary": "Combining speed and strength exercises can enhance agility, boost explosive power, and help prevent injuries.",
+      "tags": [
+        "fitness",
+        "health",
+        "exercise"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0e152f67ed6f122a",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Donald Trump's least favorite country seeks remontada",
+      "url": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/trumps-least-favorite-country-spain-remontada-saudi-arabia-00969210",
+      "summary": "Spain's national soccer team aims for a comeback in the World Cup, as the country's socialist leader Pedro Sánchez has consistently clashed with Donald Trump over issues like NATO spending and Middle East conflicts. Trump has criticized Spain's defense spending and its stance on the Iran war, leading to heightened tensions.",
+      "tags": [
+        "politics",
+        "spain",
+        "trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "abd8b848b3943b2e",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "The happiest World Cup game",
+      "url": "https://www.politico.com/live-updates/2026/06/20/world-cup-2026/happiest-countries-fifa-world-cup-2026-netherlands-sweden-00969093",
+      "summary": "Analysis of FIFA rankings against citizen happiness indicates the match between Sweden and the Netherlands will be the \"happiest\" World Cup game. Conversely, the Haiti vs. Morocco game is predicted to be less cheerful.",
+      "tags": [
+        "world cup",
+        "football",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3154e73c0733ce7f",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "The soccer-loving mayor who's ready to host the USA",
+      "url": "https://www.politico.com/live-updates/2026/06/20/world-cup-2026/us-headed-to-bay-area-00969099",
+      "summary": "San Francisco Mayor Daniel Lurie, a soccer enthusiast and investor in Leeds United, is eager to host the U.S. team for World Cup matches in the Bay Area. He views major events like the World Cup and Super Bowl as opportunities to boost San Francisco's image and attract visitors.",
+      "tags": [
+        "world cup",
+        "san francisco",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b96dc3f6ee72b3c0",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Saturday discussion post",
+      "url": "https://www.slowboring.com/p/saturday-discussion-post-139",
+      "summary": "This post features a photo taken in Oregon and serves as a Saturday discussion topic.",
+      "tags": [
+        "discussion",
+        "photography"
+      ],
+      "priority": false
+    },
+    {
+      "id": "08497904fc6ad0f8",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "summary": "While Siri's AI overhaul made headlines at WWDC, iOS 27 will introduce other practical AI features to iPhones.",
+      "tags": [
+        "apple",
+        "ai",
+        "ios"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1bbad9fea6346ac1",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Founders Fund’s outlier bet on humanely killed fish",
+      "url": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
+      "summary": "Founders Fund has invested in Shinkei, a company that produces a refrigerator-sized robot named Poseidon designed to humanely and quickly kill fish.",
+      "tags": [
+        "robotics",
+        "food tech",
+        "investment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "41d724fce3112777",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "In the Weights is your new AI-centric vanity search",
+      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "summary": "\"In the Weights\" is introduced as a new AI-centric vanity search tool.",
+      "tags": [
+        "ai",
+        "search",
+        "tool"
+      ],
+      "priority": false
+    },
+    {
+      "id": "19f05874d75fca38",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "summary": "Nobel laureate John Jumper is departing Google DeepMind to join rival AI company Anthropic.",
+      "tags": [
+        "ai",
+        "deepmind",
+        "anthropic"
+      ],
+      "priority": false
+    },
+    {
+      "id": "68572cada64a7e98",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "summary": "Signal's Meredith Whittaker warns users that AI chatbots are not conscious or sentient beings.",
+      "tags": [
+        "ai",
+        "ethics",
+        "chatbots"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d8ba79187d441fe0",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "summary": "This episode of Equity discusses the Trump administration's actions against Anthropic and their potential implications for the AI ecosystem.",
+      "tags": [
+        "ai",
+        "policy",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b5aaa1321ad23230",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Electric air taxis are stuck in the courtroom",
+      "url": "https://www.theverge.com/column/950975/electric-air-taxis-lawsuits",
+      "summary": "Leading electric air taxi companies, Joby Aviation and Archer Aviation, are embroiled in lawsuits, accusing each other of corporate espionage and patent infringement. This legal entanglement also involves another rival, Vertical Aerospace.",
+      "tags": [
+        "air travel",
+        "legal",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f3eed77249cd25fd",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "How Roomba started a robot revolution",
+      "url": "https://www.theverge.com/podcast/953275/roomba-robot-vacuum-version-history",
+      "summary": "This podcast episode explores the history of the Roomba, a robot vacuum that, despite its initial simplicity, made vacuums lovable. iRobot's co-founder Colin Angle traces the origins of this \"robovac revolution.\"",
+      "tags": [
+        "robotics",
+        "history",
+        "podcast"
+      ],
+      "priority": false
+    },
+    {
+      "id": "afac9e44fd4a11c8",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Sony’s Xperia 1 VIII is still a phone for the fans",
+      "url": "https://www.theverge.com/tech/952245/sony-xperia-1-viii-review",
+      "summary": "Sony's Xperia 1 VIII represents an aesthetic and camera system overhaul for the flagship phone line, though it retains staples like a headphone jack. The device continues Sony's ambitious pricing strategy, launching at approximately $1,850 in the UK and Europe.",
+      "tags": [
+        "smartphone",
+        "sony",
+        "mobile technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fca15cac76e95abc",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "That viral clip you saw of someone winning big on Polymarket was probably fake",
+      "url": "https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets",
+      "summary": "A Wall Street Journal investigation reveals Polymarket paid individuals to create over 1,100 fake social media videos depicting large betting wins. These clips, often showing subtle fraudulent details like incorrect URLs, did not involve actual bets.",
+      "tags": [
+        "scam",
+        "social media",
+        "polymarket"
+      ],
+      "priority": false
+    },
+    {
+      "id": "133f2f3b0a48c894",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The Atlantic created a searchable database of the music used to train AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+      "summary": "The Atlantic's Alex Reisner uncovered and made searchable four music datasets, including two with millions of tracks, used to train AI models. Google and Stability have confirmed using these datasets, some of which are free for personal streaming but not for AI training.",
+      "tags": [
+        "ai",
+        "music",
+        "data"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 63,
+    "summarized": 49,
+    "skipped_promos": 0,
+    "filtered_by_rules": 14,
+    "sources": 8,
+    "email_items_omitted": 0
+  }
+}
