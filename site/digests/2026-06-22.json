@@ -1,0 +1,1220 @@
+{
+  "date": "2026-06-22",
+  "generated_at": "2026-06-22T18:12:14+00:00",
+  "hot_topics": [
+    {
+      "topic": "Lucid Motors implements significant workforce reductions",
+      "synthesis": "Electric vehicle manufacturer Lucid Motors announced its second round of significant layoffs this year, cutting 18% of its workforce, totaling approximately 1,500 employees. This decision, which also includes eliminating a production shift, aims to streamline the company's organizational structure and align production with anticipated demand to achieve profitability and positive cash flow.",
+      "item_ids": [
+        "27208b4c391476c5",
+        "267cc6c051651fda"
+      ]
+    },
+    {
+      "topic": "Anthropic faces scrutiny over AI risks, regulation, and authenticity",
+      "synthesis": "Anthropic, an AI company, is under scrutiny as its frequent public warnings about advanced AI risks may have influenced a US ban on foreign access to its latest models. Separately, the company is implementing user ID verification for its Claude AI and has faced questions regarding the authenticity of \"Extended Thinking\" outputs. These developments highlight a broader conversation about AI regulation, trust, and the societal implications of advanced AI systems.",
+      "item_ids": [
+        "94e4f8e4ded4b6a0",
+        "e9c1eb7fa8381504",
+        "d093350e46e373e9"
+      ]
+    },
+    {
+      "topic": "WhatsApp appoints new chief amid focus on India growth",
+      "synthesis": "WhatsApp has announced a leadership change, with Indian fintech founder Kunal Shah taking over as its new chief, as Will Cathcart transitions to a different role at Meta. This strategic move is intended to strengthen WhatsApp's significant and growing presence in the Indian market.",
+      "item_ids": [
+        "e72ba5b4a7234bb0",
+        "c1d228e23f476c2f"
+      ]
+    },
+    {
+      "topic": "US and Iran agree to roadmap for final deal and nuclear inspections",
+      "synthesis": "The US and Iran have reportedly made significant progress in initial talks, agreeing on a roadmap for a final deal within 60 days, with Iran reportedly allowing nuclear inspectors back into the country. These diplomatic efforts, led by US Vice-President J.D. Vance, follow recent heightened tensions and contribute to the political landscape surrounding the two nations.",
+      "item_ids": [
+        "e97f7e8e564205db",
+        "9b3672cf26637c4b",
+        "fde16cc3f85f7a97"
+      ]
+    },
+    {
+      "topic": "Three killed in Philippines high school shooting linked to bullying",
+      "synthesis": "A high school shooting in the Philippines resulted in three deaths, with two students taken into custody. Police believe the attack was motivated by a \"grudge\" stemming from bullying, and an investigation into the incident is underway.",
+      "item_ids": [
+        "8c73e26ecf167a86",
+        "fb1cf3d1db9e2e5f"
+      ]
+    },
+    {
+      "topic": "Former Federal Reserve Chair Alan Greenspan dies at 100",
+      "synthesis": "Alan Greenspan, the former Federal Reserve chairman and a key architect of the modern American economy, has died at 100. Once celebrated as a legendary central banker, his reputation later faced scrutiny following the 2008 financial crisis; notably, Greenspan maintained a close intellectual friendship with author Ayn Rand throughout his life.",
+      "item_ids": [
+        "e16a6396ebdc9e24",
+        "04abac3b9076a206",
+        "0a08f2c6ccad8250"
+      ]
+    },
+    {
+      "topic": "UK Prime Minister Keir Starmer resigns amid party pressure",
+      "synthesis": "British Prime Minister Keir Starmer has announced his resignation, amidst growing calls from within his own Labour Party for him to step down. His departure paves the way for a potential seventh UK prime minister in 10 years, with Andy Burnham emerging as a likely successor.",
+      "item_ids": [
+        "9b3672cf26637c4b",
+        "eebf8da72e0fa03b",
+        "52567fd99dd30c51"
+      ]
+    },
+    {
+      "topic": "Trump orders immediate repairs for algae-plagued Reflecting Pool",
+      "synthesis": "President Trump has called for immediate repairs to the Lincoln Memorial Reflecting Pool, which is experiencing peeling paint and algae issues despite a recent $14 million renovation. He attributed part of the damage to vandals, asserting that those responsible could face severe penalties.",
+      "item_ids": [
+        "040724bdda33204b",
+        "fde16cc3f85f7a97"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "18fe08a726027670",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "And Granny would dance",
+      "url": "https://aeon.co/videos/memories-of-a-childhood-in-tehran-form-a-celebration-of-iranian-women",
+      "summary": "An animated short film, drawn from childhood memories in Iran, tells a Granny's story of loss, love, and friendship, celebrating Iranian women.",
+      "tags": [
+        "iran",
+        "culture",
+        "film"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2e1be308253516e0",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "No one is self-made",
+      "url": "https://aeon.co/essays/zhuangzi-and-the-case-against-meritocracy",
+      "summary": "Drawing on Zhuangzi, an essay argues against the popular notion of meritocracy, suggesting that the idea of deserved success is deeply flawed.",
+      "tags": [
+        "philosophy",
+        "meritocracy",
+        "society"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a42a55ff580f0af6",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "1,250 hp hybrid Corvette shatters the Pikes Peak production record",
+      "url": "https://arstechnica.com/cars/2026/06/pikes-peak-2026-was-a-battle-of-propulsion-with-an-ev-and-a-hybrid-winning-out/",
+      "summary": "A 1,250 hp hybrid-powered Corvette ZR1X, driven by JR Hildebrand, shattered the Pikes Peak production car record, completing the 12.4-mile course in 9.5 minutes. This achievement marked a significant moment for hybrid performance in the 104th running of the historic hill climb.",
+      "tags": [
+        "cars",
+        "racing",
+        "hybrid"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b7cf4fb4073fddb0",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Doorbell cam filmed Tesla Autopilot crash that killed woman in her home",
+      "url": "https://arstechnica.com/tech-policy/2026/06/woman-killed-when-tesla-driver-using-autopilot-crashed-into-her-home/",
+      "summary": "An elderly Texas woman tragically died after a man relying on his Tesla Model 3’s automated driver-assistance mode crashed into her family’s home at high speed. Police are investigating whether the Autopilot feature caused the crash, though the driver was not intoxicated and is cooperating.",
+      "tags": [
+        "tesla",
+        "autopilot",
+        "accident"
+      ],
+      "priority": false
+    },
+    {
+      "id": "94e4f8e4ded4b6a0",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "How Anthropic may have talked itself into an AI export ban",
+      "url": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/",
+      "summary": "Anthropic's frequent warnings about advanced AI risks, significantly more than OpenAI, may have contributed to a recent US ban on foreign access to its latest models, Mythos and Fable. Critics suggest the company's focus on risk helped trigger Washington's decision.",
+      "tags": [
+        "ai",
+        "regulation",
+        "anthropic"
+      ],
+      "priority": false
+    },
+    {
+      "id": "27208b4c391476c5",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Lucid lays off 1,500 workers in second big cut of the year",
+      "url": "https://arstechnica.com/cars/2026/06/lucid-lays-off-1500-workers-in-second-big-cut-of-the-year/",
+      "summary": "Lucid Motors is laying off approximately 1,500 workers, 18 percent of its workforce, for the second time this year, to streamline operations and align production with anticipated demand. This move aims to advance the Saudi-backed startup's path toward profitability despite plans for new EV models.",
+      "tags": [
+        "lucid motors",
+        "layoffs",
+        "electric vehicles"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e16a6396ebdc9e24",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Alan Greenspan, architect of the modern American economy, dies aged 100",
+      "url": "https://www.bbc.com/news/articles/cjer7x7yl12o?at_medium=RSS&at_campaign=rss",
+      "summary": "Alan Greenspan, the former Federal Reserve chairman and architect of the modern American economy, has died at 100 years old.",
+      "tags": [
+        "economy",
+        "obituary",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5c1b2bd2ca324644",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "At least 13 killed and dozens injured after Qatar gas explosion",
+      "url": "https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
+      "summary": "A \"technical accident\" at Qatar's main liquified natural gas (LNG) processing site in the Ras Laffan industrial zone resulted in at least 13 deaths and dozens injured.",
+      "tags": [
+        "qatar",
+        "explosion",
+        "energy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5ea22acead839ee2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Cape Verde fan goes wild live on BBC News as his country scores",
+      "url": "https://www.bbc.com/sport/football/videos/cyv0n4g6p77o?at_medium=RSS&at_campaign=rss",
+      "summary": "During a live BBC News broadcast, a Cape Verde fan enthusiastically reacted as his country scored its first-ever World Cup goal against Uruguay in the 2026 World Cup.",
+      "tags": [
+        "sports",
+        "world cup",
+        "football"
+      ],
+      "priority": false
+    },
+    {
+      "id": "28bd7b8534fc9732",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
+      "url": "https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Music mogul Clive Davis, known for working with artists like Whitney Houston, Bruce Springsteen, Billy Joel, Pink Floyd, Alicia Keys, and Aerosmith, has died at age 94.",
+      "tags": [
+        "music",
+        "obituary"
+      ],
+      "priority": false
+    },
+    {
+      "id": "adc77e5a969d00d2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Currency crash and visa crackdowns force Indian students to rethink studying abroad",
+      "url": "https://www.bbc.com/news/articles/c8x2gd9lkxzo?at_medium=RSS&at_campaign=rss",
+      "summary": "A weaker rupee and tougher immigration rules are pushing Indian students away from popular destinations like the US and UK.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "61fd90de3e0c1ed9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Former Kenyan justice minister blocked from entering Uganda, lawyers' body says",
+      "url": "https://www.bbc.com/news/articles/c0ly6786px4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Martha Karua, a lawyer representing detained Ugandan opposition leader Kizza Besigye, was blocked from entering Uganda, according to a lawyers' body.",
+      "tags": [
+        "uganda",
+        "kenya",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2612f9bc6c6ac231",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Guinea bans exports of raw gold to boost local refining",
+      "url": "https://www.bbc.com/news/articles/cjegydvzpzqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Guinea has banned exports of raw gold to stimulate its economy by boosting domestic gold refining.",
+      "tags": [
+        "guinea",
+        "economy",
+        "mining"
+      ],
+      "priority": false
+    },
+    {
+      "id": "98d2684c59297e63",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Is Germany looking again at coal-powered electricity?",
+      "url": "https://www.bbc.com/news/articles/cy04ykxrj5eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Germany may reconsider its plan to abandon coal-powered electricity due to the higher cost of natural gas, prompting a reevaluation of its energy strategy.",
+      "tags": [
+        "germany",
+        "energy",
+        "coal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "209a4bd57f4d1725",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Japan quintuples visa fees in first price hike since 1978",
+      "url": "https://www.bbc.com/news/articles/cy8d5e5e805o?at_medium=RSS&at_campaign=rss",
+      "summary": "Japan has increased its visa fees fivefold, the first price hike since 1978, though authorities do not anticipate an immediate impact on inbound tourism.",
+      "tags": [
+        "japan",
+        "travel",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a7476888dbba3685",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Kenya minister found in contempt of court over US-backed Ebola centre",
+      "url": "https://www.bbc.com/news/articles/c4gy6vk44pwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Kenya's minister has been found in contempt of court for defying a High Court order to halt construction on a controversial US-funded Ebola center.",
+      "tags": [
+        "kenya",
+        "politics",
+        "health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1e08a95ac70e5c19",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Largest ever cocaine bust in Australia after police raid underground bunker",
+      "url": "https://www.bbc.com/news/articles/c14ygjzr8j7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Australian police seized 2.7 tonnes of cocaine, valued at an estimated A$816m, during a raid on an underground bunker in western Sydney, marking the country's largest ever cocaine bust.",
+      "tags": [
+        "australia",
+        "crime",
+        "drugs"
+      ],
+      "priority": false
+    },
+    {
+      "id": "591ac38d711efb18",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Late singer Oliver Tree's body returned to US after helicopter crash",
+      "url": "https://www.bbc.com/news/articles/c14ygg6vk3vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The body of 32-year-old California native and singer Oliver Tree has been returned to the US following his death in a helicopter crash during his world tour.",
+      "tags": [
+        "music",
+        "obituary"
+      ],
+      "priority": false
+    },
+    {
+      "id": "81f5191f7f32fd30",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Myanmar army killed over 700 civilians in six months, UN says",
+      "url": "https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss",
+      "summary": "A new UN report reveals that the Myanmar army killed 702 civilians, including 153 children, over six months last year.",
+      "tags": [
+        "myanmar",
+        "human rights",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "45443be14a6199a3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Parisians cool off in canal amid 'red alert' heatwave",
+      "url": "https://www.bbc.com/news/videos/c802denngxeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Parisians are cooling off in a canal as France issues red heatwave alerts for about half the country, with temperatures soaring to record levels.",
+      "tags": [
+        "france",
+        "heatwave",
+        "weather"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f12a14fffa4d40d5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Red heat alerts issued in France, Italy and Spain as 40C temperatures forecast",
+      "url": "https://www.bbc.com/news/articles/c0jy9g96086o?at_medium=RSS&at_campaign=rss",
+      "summary": "Red heat alerts have been issued across France, Italy, and Spain with 40C temperatures forecast, as heatwave conditions are expected to intensify across central and western Europe.",
+      "tags": [
+        "europe",
+        "heatwave",
+        "weather"
+      ],
+      "priority": false
+    },
+    {
+      "id": "88897ff01c5d60c0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
+      "url": "https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss",
+      "summary": "A Russian troop build-up threatens Kostyantynivka, a city seen as crucial for seizing Ukraine's Donbas region. If the city falls, Russian forces would be able to push towards Ukraine's last remaining strongholds in the east.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0dabf19d60f8024d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "The BTS fans losing thousands as scammers cash in on comeback tour ticket war",
+      "url": "https://www.bbc.com/news/articles/cdr45nrr2jyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Desperate BTS fans are losing thousands of dollars to scammers capitalizing on high demand for comeback tour tickets, which outstrips supply 15 to one.",
+      "tags": [
+        "music",
+        "scam",
+        "kpop"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8c73e26ecf167a86",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Three dead in Philippines high school shooting over bullying 'grudge'",
+      "url": "https://www.bbc.com/news/articles/cjegy777xw5o?at_medium=RSS&at_campaign=rss",
+      "summary": "A high school shooting in the Philippines, believed to be motivated by a bullying \"grudge,\" resulted in three deaths.",
+      "tags": [
+        "philippines",
+        "shooting",
+        "violence"
+      ],
+      "priority": false
+    },
+    {
+      "id": "040724bdda33204b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump says repairs to algae-plagued Reflecting Pool will begin immediately",
+      "url": "https://www.bbc.com/news/articles/c872e8d9el1o?at_medium=RSS&at_campaign=rss",
+      "summary": "President Trump announced immediate repairs for the algae-plagued Lincoln Memorial Reflecting Pool, blaming vandals for damage despite a recent multi-million dollar renovation.",
+      "tags": [
+        "us politics",
+        "washington dc",
+        "maintenance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fdcd120644f0fe3b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump-backed political outsider wins Colombia election, initial count shows",
+      "url": "https://www.bbc.com/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss",
+      "summary": "A Trump-backed political outsider, Abelardo de la Espriella, appears to have narrowly won the Colombia election, though his rival Iván Cepeda states the preliminary count is \"not yet official or binding.\"",
+      "tags": [
+        "colombia",
+        "election",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "93e37aa04eaefe75",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Twins marry twins in joyous Nigerian joint wedding",
+      "url": "https://www.bbc.com/news/articles/cvglvkxwxj8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Brothers Taiwo and Kehinde Oguntoye spoke to the BBC after getting hitched to twin sisters in a joyous Nigerian joint wedding.",
+      "tags": [
+        "nigeria",
+        "culture",
+        "wedding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e97f7e8e564205db",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Vance says Iran will allow nuclear inspectors back into the country",
+      "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Vice-President stated that Iran will permit nuclear inspectors back into the country, following significant progress in the first round of talks between the US and Iran.",
+      "tags": [
+        "iran",
+        "us",
+        "nuclear"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c1d228e23f476c2f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "WhatsApp to be led by Indian start-up founder as Will Cathcart steps back",
+      "url": "https://www.bbc.com/news/articles/c8e2195k5j2o?at_medium=RSS&at_campaign=rss",
+      "summary": "WhatsApp will be led by Indian start-up founder Kunal Shah, as Will Cathcart steps back, a move by Meta to strengthen the app's presence in India.",
+      "tags": [
+        "whatsapp",
+        "meta",
+        "leadership"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7762a489e5b0e53a",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Apertus – Open Foundation Model for Sovereign AI",
+      "url": "https://apertvs.ai/",
+      "summary": "Apertus introduces an Open Foundation Model designed for Sovereign AI, aiming to provide a new paradigm for AI development.",
+      "tags": [
+        "ai",
+        "open source",
+        "foundation models"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6db55bd616927bbd",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Codex logging bug may write TBs to local SSDs",
+      "url": "https://github.com/openai/codex/issues/28224",
+      "summary": "A logging bug in OpenAI's Codex may write terabytes of data to local SSDs, as reported in a GitHub issue.",
+      "tags": [
+        "openai",
+        "codex",
+        "bug"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c26cbb1bf729408a",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Deno Desktop",
+      "url": "https://docs.deno.com/runtime/desktop/",
+      "summary": "Documentation for Deno Desktop has been released, indicating a new development in the Deno runtime.",
+      "tags": [
+        "deno",
+        "development",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2ac8ad0d4e57d5a0",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Did my old job only exist because of fraud?",
+      "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+      "summary": "An article discusses whether the author's old job may have only existed due to fraud.",
+      "tags": [
+        "fraud",
+        "work",
+        "personal story"
+      ],
+      "priority": false
+    },
+    {
+      "id": "90147785550d4e67",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "GLM 5.2 vs. Opus",
+      "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+      "summary": "A comparison between GLM 5.2 and Opus is available, discussing their respective features or performance.",
+      "tags": [
+        "ai",
+        "comparison"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3cd6e595328d746c",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Pledging another $400k to the Zig software foundation",
+      "url": "https://mitchellh.com/writing/zig-donation-2026",
+      "summary": "An individual has pledged another $400,000 to the Zig software foundation, supporting its development.",
+      "tags": [
+        "programming",
+        "open source",
+        "zig"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d093350e46e373e9",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The text in Claude Code’s “Extended Thinking” output",
+      "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+      "summary": "The text generated by Claude Code's \"Extended Thinking\" output is not authentic, according to a linked article.",
+      "tags": [
+        "ai",
+        "claude",
+        "authenticity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0f4fc2024b21f754",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "There is minimal downside to switching to open models",
+      "url": "https://www.marble.onl/posts/cancel_claude.html",
+      "summary": "An opinion piece argues there is minimal downside to switching to open models, suggesting advantages for broader adoption.",
+      "tags": [
+        "ai",
+        "open source",
+        "opinion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a814a5ff11cddf8b",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "Inside the world’s deepest and longest subsea road tunnel",
+      "url": "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
+      "summary": "Norway is constructing Rogfast, which will be the world's longest and deepest subsea road tunnel, extending 26.7 kilometers and reaching 390 meters below sea level. The project uses a drill-and-blast method to navigate complex geology and immense water pressure, aiming for completion in 2033 to reduce ferry travel.",
+      "tags": [
+        "engineering",
+        "construction",
+        "norway"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fb1cf3d1db9e2e5f",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "2 students in custody after shooting at high school in Philippines kills 3",
+      "url": "https://www.npr.org/2026/06/22/g-s1-129323/2-students-in-custody-after-shooting-at-high-school-in-philippines-kills-3",
+      "summary": "Two students are in custody following a high school shooting in the Philippines that killed three people, with suspects claiming they were bullied.",
+      "tags": [
+        "philippines",
+        "shooting",
+        "violence"
+      ],
+      "priority": false
+    },
+    {
+      "id": "74667f8f92e64b32",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "AI and tech are trying to influence the midterm elections",
+      "url": "https://www.npr.org/2026/06/22/nx-s1-5856359/ai-anthropic-congress-spending-openai-midterms-election",
+      "summary": "Massive spending and heated rhetoric in midterm races reflect the AI industry's political divisions and competing visions for the future.",
+      "tags": [
+        "ai",
+        "us politics",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0a08f2c6ccad8250",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Alan Greenspan, the legendary former Federal Reserve chair, dies",
+      "url": "https://www.npr.org/2026/06/22/656930918/alan-greenspan-the-legendary-former-federal-reserve-chair-dies",
+      "summary": "Alan Greenspan, the former Federal Reserve chair once celebrated as a central banker, has died; his reputation was later tarnished by the 2008 financial crisis.",
+      "tags": [
+        "economy",
+        "obituary",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "04abac3b9076a206",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Did you know? Alan Greenspan and Ayn Rand were close friends",
+      "url": "https://www.npr.org/2026/06/22/nx-s1-5866558/alan-greenspan-dead-ayn-rand",
+      "summary": "The late Fed chair Alan Greenspan had an intellectually important and close friendship with novelist and libertarian thinker Ayn Rand.",
+      "tags": [
+        "obituary",
+        "economy",
+        "philosophy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "eebf8da72e0fa03b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Keir Starmer has resigned, paving way for a 7th U.K. prime minister in 10 years",
+      "url": "https://www.npr.org/2026/06/22/nx-s1-5866231/keir-starmer-resigns",
+      "summary": "Prime Minister Keir Starmer is stepping down, potentially paving the way for Andy Burnham to become the UK's seventh prime minister in a decade.",
+      "tags": [
+        "uk politics",
+        "leadership",
+        "resignation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6506adb11bc752ad",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Supreme Court allows a ruling that ends a tool to protect minority voters in 7 states",
+      "url": "https://www.npr.org/2026/06/22/nx-s1-5863532/supreme-court-voting-rights-act-private-right-arkansas",
+      "summary": "The Supreme Court has upheld a ruling that eliminates a key tool for enforcing Voting Rights Act protections for minority voters in seven states, impacting voters with disabilities or literacy challenges.",
+      "tags": [
+        "supreme court",
+        "voting rights",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9b3672cf26637c4b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "UK PM Keir Starmer resigns. And, US and Iran agree to roadmap for final deal",
+      "url": "https://www.npr.org/2026/06/22/g-s1-129268/up-first-newsletter-keir-starmer-iran-us-vance-trump-reflection-pool",
+      "summary": "British Prime Minister Keir Starmer announced his resignation on Monday. Separately, the U.S. and Iran have agreed to a \"roadmap\" to reach a final deal within 60 days.",
+      "tags": [
+        "uk politics",
+        "iran",
+        "us"
+      ],
+      "priority": false
+    },
+    {
+      "id": "427b0e0405254503",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Voters weigh what kind of Democrat they want for Utah's new, blue congressional seat",
+      "url": "https://www.npr.org/2026/06/22/nx-s1-5835674/utah-democrats-first-congressional-district-blue-mcadams-blouin-mohamed",
+      "summary": "Utah Democrats are holding a competitive primary for the state's first blue-leaning congressional seat, with voters weighing what kind of Democrat they want to represent them.",
+      "tags": [
+        "us politics",
+        "election",
+        "utah"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5978003382f2816c",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Exclusive: Spanish soccer boss pushes for 2030 World Cup final as pressure grows from Morocco",
+      "url": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/spain-pushes-world-cup-2030-final-00969479",
+      "summary": "Spain's soccer chief is confident that Madrid or Barcelona will host the 2030 World Cup final, despite Morocco's bid and the joint hosting with Portugal and South American nations. Spain claims 55% of matches and 11 cities.",
+      "tags": [
+        "world cup",
+        "spain",
+        "morocco"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f003d1ffc208521c",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "FIFA plays flag football against Iranian protesters",
+      "url": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/battle-iran-lion-sun-flag-fifa-ban-00969215",
+      "summary": "FIFA attempted to enforce a ban on Iran's pre-revolutionary Lion and Sun flag at World Cup venues, a symbol of protest against the Tehran regime. Despite a court upholding the ban, fans found loopholes and widely displayed the flag during matches.",
+      "tags": [
+        "iran",
+        "world cup",
+        "protest"
+      ],
+      "priority": false
+    },
+    {
+      "id": "65755ad81a38121d",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Iran's fans, pro and con",
+      "url": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/irans-fans-00969430",
+      "summary": "Iranian World Cup players acknowledged supporters who waved pre-revolution flags, a symbol of opposition to the Islamic Republic, highlighting the political tensions surrounding the team. The match against Belgium ended in a scoreless draw, with another game scheduled during Seattle's LGBTQ+ Pride celebration.",
+      "tags": [
+        "iran",
+        "world cup",
+        "protest"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3991da94f7b2b12d",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Paws. Dish. Draw. Repeat.",
+      "url": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/belgium-bart-de-wever-cat-maximus-predictions-00969394",
+      "summary": "Belgium's Prime Minister Bart De Wever's rescue cat, Maximus, whose World Cup predictions have so far been inaccurate, tipped Belgium to win against Iran.",
+      "tags": [
+        "world cup",
+        "belgium",
+        "humor"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d99b8ef282dffe79",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Support for Iran's team – but not for regime",
+      "url": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/support-for-irans-team-but-not-for-regime-00969467",
+      "summary": "Iranian American fans at a World Cup match in Los Angeles booed during Iran’s national anthem and displayed pre-revolution flags, signaling opposition to the Iranian government while supporting the team. The game ended in a scoreless draw against Belgium, amid ongoing US-Iran talks.",
+      "tags": [
+        "iran",
+        "world cup",
+        "protest"
+      ],
+      "priority": false
+    },
+    {
+      "id": "eb9829d7e25f79fe",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "The world came to play. Southeast Asia came to sell.",
+      "url": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/fifa-gift-shop-made-in-southeast-asia-trump-tariffs-00969216",
+      "summary": "President Donald Trump’s fingerprints are all over this World Cup — even the stadium gift shops, trade editor Emily Cadei writes in.\nGranted, few of the customers that are mobbing official FIFA merch stores are examining the provenance of their $100+ jerseys or $50 baseball caps.…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "47a34df36ad1e6c8",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "sqlite-utils 4.0rc1",
+      "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything",
+      "summary": "This is a brief announcement for the `sqlite-utils 4.0rc1` release.",
+      "tags": [
+        "sqlite",
+        "python",
+        "release"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8482b901803d7d33",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "sqlite-utils 4.0rc1 adds migrations and nested transactions",
+      "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything",
+      "summary": "`sqlite-utils 4.0rc1` introduces significant new features including database migrations, a port of `sqlite-migrate`, and an `atomic()` context manager for nested transactions. This release also brings several minor backwards-incompatible changes and drops Python 3.8 support.",
+      "tags": [
+        "sqlite",
+        "python",
+        "software development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "863784d30f130c8f",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Temporary Cloudflare Accounts for AI agents",
+      "url": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
+      "summary": "Cloudflare now offers temporary accounts for Workers projects, allowing deployment for 60 minutes without requiring an account, useful for AI agents and quick deployments. The ephemeral projects can be claimed for longer use if desired.",
+      "tags": [
+        "cloudflare",
+        "ai",
+        "cloud"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bda90b2d2b2bed70",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Against urban planning",
+      "url": "https://www.slowboring.com/p/against-urban-planning",
+      "summary": "The author argues that real-world urban planning is overly complicated compared to the simpler, more effective models found in games like SimCity. This over-complication often hinders effective city growth, focusing too much beyond essential infrastructure and nuisance separation.",
+      "tags": [
+        "urban planning",
+        "cities",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "57b9c38bf34b7a1c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Amazon is testing Alexa+ in India with Hindi support",
+      "url": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+      "summary": "Amazon is expanding its Alexa+ conversational AI assistant to India, inviting users to test a Hindi-language version.",
+      "tags": [
+        "amazon",
+        "ai",
+        "india"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e9c1eb7fa8381504",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic says Claude may want to see your ID",
+      "url": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/",
+      "summary": "Anthropic's Claude AI may require user ID verification, according to an announcement.",
+      "tags": [
+        "ai",
+        "anthropic",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "22f9215560c8e0d0",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Ethan Thornton is trying to do everything all at once",
+      "url": "https://techcrunch.com/2026/06/21/ethan-thornton-is-trying-to-do-everything-all-at-once/",
+      "summary": "Ethan Thornton's approach with Mach is noted for differing sharply from some of its peers.",
+      "tags": [
+        "business",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a1a19069c394e6de",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Instagram looks to take on streaming services with longer-form, episodic and live formats for its TV app",
+      "url": "https://techcrunch.com/2026/06/22/instagram-looks-to-take-on-streaming-services-with-longer-form-episodic-and-live-formats-for-its-tv-app/",
+      "summary": "Instagram is expanding its TV app with longer-form, episodic, and live formats, aiming to compete with streaming services like Netflix and Amazon Prime Video.",
+      "tags": [
+        "instagram",
+        "streaming",
+        "social media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "267cc6c051651fda",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Lucid Motors’ new CEO cuts 18% of staff to ‘simplify the company’",
+      "url": "https://techcrunch.com/2026/06/22/lucid-motors-new-ceo-cuts-18-of-staff-to-simplify-the-company/",
+      "summary": "Lucid Motors' new CEO has cut 18% of the staff and eliminated a production shift at its Arizona factory. This aims to simplify the company and align production with anticipated demand.",
+      "tags": [
+        "lucid motors",
+        "layoffs",
+        "electric vehicles"
+      ],
+      "priority": false
+    },
+    {
+      "id": "76d4fc9d86c3bcba",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
+      "url": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
+      "summary": "Polymarket reportedly paid creators to produce deceptive videos featuring fake bets and winnings on \"near-perfect copies\" of its website.",
+      "tags": [
+        "blockchain",
+        "fraud",
+        "marketing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "47247b9190f5e6c8",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Seedcamp raises $320M for its new fund to expand its US footprint",
+      "url": "https://techcrunch.com/2026/06/22/seedcamp-raises-320m-for-its-new-fund-to-expand-its-us-footprint/",
+      "summary": "Early-stage investor Seedcamp has raised $320 million for a new fund, marking its expansion into the United States after 18 years of focusing on Europe.",
+      "tags": [
+        "venture capital",
+        "funding",
+        "investment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "31148f1315489275",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Ubisoft co-founder Claude Guillemot dies in plane crash",
+      "url": "https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/",
+      "summary": "Claude Guillemot, who co-founded Ubisoft with his four brothers, has died at the age of 69 in a plane crash.",
+      "tags": [
+        "ubisoft",
+        "gaming",
+        "obituary"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e72ba5b4a7234bb0",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "WhatsApp gets new chief as Meta taps India’s CRED founder Kunal Shah and invests $900M in startup",
+      "url": "https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/",
+      "summary": "WhatsApp has appointed Kunal Shah, founder of Indian fintech CRED, as its new chief, replacing Will Cathcart who moves to another role at Meta. Meta is also investing $900M in a startup.",
+      "tags": [
+        "whatsapp",
+        "meta",
+        "leadership"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c7630712a2b9be49",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Arthur Brooks: Gen Z’s Great Retreat From Risk",
+      "url": "https://www.thefp.com/p/arthur-brooks-gen-zs-great-retreat",
+      "summary": "A new report highlights a significant decline in risk-taking behaviors among Gen Z, including a nearly 50% drop in alcohol consumption among 12th graders since the 1970s. This trend indicates an unwillingness to engage in adult-associated risks, which some psychologists view with concern.",
+      "tags": [
+        "gen z",
+        "sociology",
+        "risk-taking"
+      ],
+      "priority": false
+    },
+    {
+      "id": "52567fd99dd30c51",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Caitlin Flanagan: Why I Finally Left Los Angeles",
+      "url": "https://www.thefp.com/p/caitlin-flanagan-on-marriage-motherhood",
+      "summary": "Essayist Caitlin Flanagan discusses her decision to leave Los Angeles after 35 years, sharing her funny and opinionated perspective.",
+      "tags": [
+        "personal story",
+        "culture",
+        "los angeles"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c32c02dcb1a07e1b",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Give the Baby Peanut Butter",
+      "url": "https://www.thefp.com/p/give-the-baby-peanut-butter-allergy",
+      "summary": "Current medical guidance advises parents to introduce allergenic foods like peanuts early and consistently into a baby's diet, a reversal from previous recommendations to delay exposure. This shift is based on studies suggesting early exposure is protective against allergies.",
+      "tags": [
+        "health",
+        "children",
+        "allergies"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cfbc2a41a4938af3",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Great Americans: Lil Peep, Gen Z’s Own Kurt Cobain",
+      "url": "https://www.thefp.com/p/great-americans-lil-peep",
+      "summary": "Lil Peep, an emo rapper who gained fame on SoundCloud, is characterized as Gen Z's Kurt Cobain for his unique blend of emo and trap rap, and his authentic portrayal of anxieties. His style, marked by distinctive tattoos and a crew called GothBoiClique, transformed the underground rap world.",
+      "tags": [
+        "music",
+        "gen z",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ed945bc7fc501ed1",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Introducing: The Honesty Project",
+      "url": "https://www.thefp.com/p/introducing-honesty-project-poll",
+      "summary": "The Free Press, in collaboration with Populace, has launched \"The Honesty Project,\" a series of polls using a specialized method to gauge Americans' private opinions on sensitive issues. This aims to overcome the flaw in typical surveys where participants often give \"right\" answers instead of honest ones.",
+      "tags": [
+        "polling",
+        "us politics",
+        "social science"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fde16cc3f85f7a97",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Introducing: The Honesty Project. Plus. . .",
+      "url": "https://www.thefp.com/p/introducing-the-honesty-project-plus",
+      "summary": "The Free Press launched \"The Honesty Project\" with Populace to uncover Americans' true private beliefs on sensitive topics, with its first survey revealing a significant rise in Gen Z's private belief that political violence may be necessary. The article also touches on VP J.D. Vance's role in US-Iran peace talks, his memoir, British PM Keir Starmer's resignation calls, and Lincoln Memorial Reflecting Pool issues.",
+      "tags": [
+        "polling",
+        "us politics",
+        "gen z"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9461dcceba2c3b7e",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "J.D. Vance Isn’t a Catholic Statesman",
+      "url": "https://www.thefp.com/p/jd-vance-isnt-a-catholic-statesman-communion",
+      "summary": "This critique argues J.D. Vance's memoir, \"Communion,\" lacks a grand vision and portrays him as conflicted between his Appalachian roots and elite achievements. It questions his portrayal as a \"Christian statesman,\" noting his Catholicism presents political disadvantages compared to other faiths.",
+      "tags": [
+        "us politics",
+        "memoir",
+        "religion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "80a168de48350dc3",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "This Is My Dad’s Last Father’s Day",
+      "url": "https://www.thefp.com/p/this-is-my-dads-last-fathers-day",
+      "summary": "Casey Babb reflects on his father's final Father's Day after a recent brain tumor diagnosis, finding an \"extraordinary gift\" in the opportunity to say goodbye. The essay discusses his family's experience with the diagnosis and the varying perspectives on fatherhood in popular media.",
+      "tags": [
+        "family",
+        "personal story",
+        "grief"
+      ],
+      "priority": false
+    },
+    {
+      "id": "60237bd1d5279c91",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "What Do Americans Think When No One Is Watching?",
+      "url": "https://www.thefp.com/p/what-do-americans-think-when-no-one-is-watching-honesty-project",
+      "summary": "The Free Press's \"Honesty Project,\" in partnership with Populace, aims to uncover Americans' true beliefs by using a method that allows respondents to signal answers without direct statements. This initiative seeks to understand the actual extent of erosion in norms against political violence.",
+      "tags": [
+        "polling",
+        "us politics",
+        "social science"
+      ],
+      "priority": false
+    },
+    {
+      "id": "15ada0908d684e69",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Google invests in A24 to build AI movie tools",
+      "url": "https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership",
+      "summary": "Google's DeepMind AI lab is partnering with A24, investing approximately $75 million, to develop new AI-powered movie production technologies. This collaboration aims to help future filmmakers expand their storytelling possibilities, marking Google's first stake in a film studio.",
+      "tags": [
+        "ai",
+        "google",
+        "film"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9e0d9078c4dc1213",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Here’s how you can reserve a Steam Machine",
+      "url": "https://www.theverge.com/games/952191/valve-steam-machine-reservation-preorder-process",
+      "summary": "Valve has launched a reservation system for its new Steam Machine console, with prices starting at $1,049 for the 512GB model. This system is designed to manage preorders fairly and prevent bot exploitation, offering various configurations.",
+      "tags": [
+        "gaming",
+        "valve",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "11ba18d5869d7277",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "RingConn&#8217;s Lord of the Rings promotion assumes smart ring wearers want to be like Gollum",
+      "url": "https://www.theverge.com/gadgets/953655/ringconn-lord-of-the-rings",
+      "summary": "Smart ring maker RingConn's Lord of the Rings promotion draws a questionable parallel, suggesting its wearable technology aligns with themes of \"meaningful transformation.\" Critics point out the irony that the story's hero, Frodo, rejects wearing a powerful ring, unlike the 24/7 use encouraged for RingConn's product.",
+      "tags": [
+        "wearables",
+        "marketing",
+        "lord of the rings"
+      ],
+      "priority": false
+    },
+    {
+      "id": "123d6e1cb7d5ad16",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The Steam Machine is the most ambitious game console I&#8217;ve ever played",
+      "url": "https://www.theverge.com/games/952765/steam-machine-review",
+      "summary": "The Steam Machine is described as an ambitious game console that, despite initial troubleshooting, aims to be more than a traditional \"buy box, plug in, play\" system. It functions as a PC with a unique twist, striving to expand typical console capabilities.",
+      "tags": [
+        "gaming",
+        "valve",
+        "review"
+      ],
+      "priority": false
+    },
+    {
+      "id": "368f736dd51089a9",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Valve explains why it isn&#8217;t subsidizing the Steam Machine",
+      "url": "https://www.theverge.com/games/952004/valve-steam-machine-price-not-subsidizing",
+      "summary": "Valve explained its decision not to subsidize the Steam Machine, resulting in a starting price of $1,049 for the 512GB model, significantly higher than competing consoles. Despite its console-like form factor, its pricing reflects a different market strategy compared to subsidized rivals.",
+      "tags": [
+        "gaming",
+        "valve",
+        "pricing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c09a5a6105257d11",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Valve is working with AMD to bring FSR 4 to the Steam Machine",
+      "url": "https://www.theverge.com/games/952210/valve-steam-machine-fsr4-amd-upscaler",
+      "summary": "Valve is working with AMD to bring FSR 4 to its Steam Machine console, aiming to improve graphics upscaling which currently lags behind competitors like the PS5. This upgrade is hoped to enhance the visual quality for the $1,049 console.",
+      "tags": [
+        "gaming",
+        "valve",
+        "amd"
+      ],
+      "priority": false
+    },
+    {
+      "id": "73cb8f196624475e",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Valve prices the Steam Machine at $1,049",
+      "url": "https://www.theverge.com/news/837022/valve-steam-machine-price-release-date",
+      "summary": "Valve announced the Steam Machine will start at $1,049 and go on sale June 29th, with a reservation system to manage demand. This new living room-friendly PC offers four configurations and aims for a fair purchasing process.",
+      "tags": [
+        "gaming",
+        "valve",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4f4d03622ff456ef",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Valve will finally let you build your own Steam Machine with SteamOS for desktop",
+      "url": "https://www.theverge.com/games/953411/valve-steamos-desktop-nvidia",
+      "summary": "Valve will allow users to build their own Steam Machine by installing SteamOS for desktop starting with the 3.8 release, offering flexibility for gamers. This move broadens accessibility beyond the reservation system, supporting various PC parts.",
+      "tags": [
+        "gaming",
+        "valve",
+        "opensource"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 108,
+    "summarized": 82,
+    "skipped_promos": 2,
+    "filtered_by_rules": 24,
+    "sources": 12,
+    "email_items_omitted": 0
+  }
+}
