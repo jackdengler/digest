@@ -1,0 +1,1224 @@
+{
+  "date": "2026-06-23",
+  "generated_at": "2026-06-23T16:25:22+00:00",
+  "hot_topics": [
+    {
+      "topic": "Tesla Autopilot under scrutiny after fatal crash",
+      "synthesis": "A Tesla Model 3 crash in Texas resulted in the death of an elderly woman after the driver claimed the car's automated driver-assistance system was engaged. This incident has prompted a federal investigation by NHTSA and sparked pushback from Tesla regarding the narrative surrounding Autopilot's role. Authorities are examining whether the feature contributed to the vehicle leaving the road at high speed.",
+      "item_ids": [
+        "216f0282fea2613a",
+        "375467f1ecc92792",
+        "61a496267abf423a"
+      ]
+    },
+    {
+      "topic": "Meta expands smart glasses offerings",
+      "synthesis": "Meta has introduced new, more affordable smart glasses under its own brand, expanding its lineup beyond the Ray-Ban collaboration. Complementing this, the company also launched a dedicated charging stand accessory, providing an alternative to the existing charging case for users to display and power their smart glasses.",
+      "item_ids": [
+        "146b8ba02b140af5",
+        "3160514408f93fde"
+      ]
+    },
+    {
+      "topic": "AI and automation's impact on employment",
+      "synthesis": "The increasing integration of AI and automation in industries is raising concerns about job displacement. General Motors, for instance, installed dozens of robots at its EV factory, sparking union pushback as 1,300 workers remain laid off. This trend is echoed across the tech sector, with many companies citing AI as a factor in significant layoffs throughout the year.",
+      "item_ids": [
+        "daacafa14415bd87",
+        "1c9d92c699fc17f8"
+      ]
+    },
+    {
+      "topic": "US-Iran talks and nuclear deal progress",
+      "synthesis": "Direct talks between the U.S. and Iran are progressing, leading to the temporary lifting of U.S. sanctions on Iranian oil and increased traffic through the Strait of Hormuz. However, a dispute over new commitments regarding nuclear inspections persists, with Iran denying promises made by U.S. Vice President J.D. Vance.",
+      "item_ids": [
+        "44ec2830d05820ab",
+        "a2cc4687c3552ac9",
+        "a41c130efae9d695",
+        "36d9544b455deb36",
+        "9a6aad996ca845bb"
+      ]
+    },
+    {
+      "topic": "Access and coverage for new weight loss drugs",
+      "synthesis": "Access to new, powerful weight loss drugs is a growing concern, with many Americans anxious to obtain experimental medications like Eli Lilly's retatrutide, which showed significant weight loss in trials. Simultaneously, individuals face challenges getting GLP-1 medications covered by insurance, highlighting barriers to widespread access despite the drugs' efficacy.",
+      "item_ids": [
+        "3e28116d1fb92f4a",
+        "35ea4952abb98e24"
+      ]
+    },
+    {
+      "topic": "Advancements and challenges in AI development",
+      "synthesis": "The field of AI continues to see rapid advancements, with new models like Mistral OCR 4 and VibeThinker demonstrating improved capabilities, and companies like Fika Jobs integrating AI agents into innovative platforms. Simultaneously, the industry is addressing challenges such as securing open-source AI, managing the environmental impact of data centers, and tackling security vulnerabilities like prompt injection, which is now understood as a 'role confusion' issue in LLMs.",
+      "item_ids": [
+        "6a50bba8a179af75",
+        "3686f5c8ea0026bc",
+        "e15f39cd81d288fc",
+        "95fc34c8f859cbf1",
+        "a7b4fe25f4f6b9f3",
+        "cfdf7572a6e26771",
+        "e8953aa4805dc31a",
+        "adc5b34b10a0aebe",
+        "681b021f9782ba6a",
+        "2a575419d9471cba",
+        "0f6a2bf7fbcc24ef",
+        "6bf2ff5ce2944f6d",
+        "fbd3c0e0064dcd9f",
+        "95cefbd0298d3e78"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "daacafa14415bd87",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "GM installs robots at flagship EV factory after laying off 1,300 workers",
+      "url": "https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/",
+      "summary": "General Motors installed approximately 50 robot arms at its Detroit EV factory while 1,300 workers remain laid off, prompting anger and pushback from the United Auto Workers union. The robots are designed to assist with vehicle assembly, but the union argues the company should rehire workers instead.",
+      "tags": [
+        "automation",
+        "manufacturing",
+        "labor"
+      ],
+      "priority": false
+    },
+    {
+      "id": "488cd30b9e7c981e",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Man used massage gun on his tired eyeballs. It went as well as you'd expect.",
+      "url": "https://arstechnica.com/health/2026/06/man-used-massage-gun-on-his-tired-eyeballs-it-went-as-well-as-youd-expect/",
+      "summary": "A man in Scotland seriously injured both of his eyes by using a massage gun on them, resulting in multiple retinal tears, bruising, and retinal dialysis. He reported increasing floaters and flashing lights after trying to pamper his tired eyes.",
+      "tags": [
+        "health",
+        "safety",
+        "bizarre"
+      ],
+      "priority": false
+    },
+    {
+      "id": "216f0282fea2613a",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "NHTSA investigating alleged Tesla Autopilot crash that killed woman in her home",
+      "url": "https://arstechnica.com/tech-policy/2026/06/woman-killed-when-tesla-driver-using-autopilot-crashed-into-her-home/",
+      "summary": "A Texas woman died after a man driving a Tesla Model 3, who told police he was using an automated driver-assistance system, crashed into her home at high speed. The Harris County Sheriff's Office and NHTSA are investigating whether Autopilot caused the incident.",
+      "tags": [
+        "tesla",
+        "autopilot",
+        "crash"
+      ],
+      "priority": false
+    },
+    {
+      "id": "79636b19116997a9",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Polymarket's viral videos showed people winning big, but the bets were fake",
+      "url": "https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/",
+      "summary": "Polymarket paid social media users to create fake viral videos showing them winning large sums on the prediction market, using dummy sites for simulated trades. A Wall Street Journal investigation revealed that these promotional bets, like a $100,000 win on a Trump bet, were not genuine.",
+      "tags": [
+        "scam",
+        "social media",
+        "marketing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4b7a7ea47dd4e62d",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Sony releases trailer for Taika Waititi's Klara and the Sun",
+      "url": "https://arstechnica.com/culture/2026/06/taika-waititi-brings-more-dramatic-tone-to-klara-and-the-sun-trailer/",
+      "summary": "Sony Pictures released the first trailer for Taika Waititi's film \"Klara and the Sun,\" based on Kazuo Ishiguro's novel. The film introduces Klara, an Artificial Friend, who helps heal a family experiencing great loss.",
+      "tags": [
+        "film",
+        "adaptation",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3e28116d1fb92f4a",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Trump may be mystery patient in odd case of 79yo getting experimental obesity drug",
+      "url": "https://arstechnica.com/health/2026/06/trump-may-be-mystery-patient-in-odd-case-of-79yo-getting-experimental-obesity-drug/",
+      "summary": "A 79-year-old patient received early access to Eli Lilly's experimental obesity drug retatrutide through a \"compassionate use\" program, raising questions about whether the patient is Donald Trump. This next-generation drug, which is in late-stage trials, helped patients lose 28 percent of their weight in trials, comparable to bariatric surgery.",
+      "tags": [
+        "obesity",
+        "pharmaceuticals",
+        "health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0656b62c67b1ecf0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "A brutal gang rape in India revives painful memories of 2012 Delhi assault",
+      "url": "https://www.bbc.co.uk/news/articles/cewqyn2p1lno?at_medium=RSS&at_campaign=rss",
+      "summary": "A brutal gang rape case in Begusarai, Bihar, India, has evoked painful memories of the 2012 Delhi sexual assault due to its similar brutality. The incident highlights ongoing concerns about violence against women in the country.",
+      "tags": [
+        "india",
+        "crime",
+        "sexual assault"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5c3766b3a09f437a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "At least 13 killed and dozens injured after Qatar gas explosion",
+      "url": "https://www.bbc.co.uk/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
+      "summary": "A \"technical accident\" at Qatar's main liquified natural gas (LNG) processing site in the Ras Laffan industrial zone resulted in at least 13 deaths and dozens of injuries. The explosion caused significant casualties and disruption.",
+      "tags": [
+        "qatar",
+        "accident",
+        "energy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c1dfb235cba54365",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
+      "url": "https://www.bbc.co.uk/news/articles/c3vy3e6q90qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Music executive Clive Davis, renowned for working with artists such as Whitney Houston, Bruce Springsteen, and Billy Joel, has died at the age of 94. He was a pivotal figure in the music industry.",
+      "tags": [
+        "music",
+        "celebrity",
+        "obituary"
+      ],
+      "priority": false
+    },
+    {
+      "id": "483978c6db61a57a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Dettol apologises after ad to clean up 'toxic men' backfires in China",
+      "url": "https://www.bbc.co.uk/news/articles/ced4vq6zylpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Dettol has issued an apology after an advertisement intended to \"clean up 'toxic men'\" sparked accusations of sexism and backlash in China. The ad featured a man seeking a partner \"not tainted by other men.\"",
+      "tags": [
+        "marketing",
+        "advertising",
+        "sexism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "44ec2830d05820ab",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
+      "url": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Traffic through the Strait of Hormuz has increased significantly, with 42 ships passing through on Saturday alone, following a deal signed between the US and Iran. This agreement aims to conclude the ongoing war.",
+      "tags": [
+        "iran",
+        "us",
+        "shipping"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a3b2e52d0175c758",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
+      "url": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
+      "summary": "Forty people have drowned in France since last Thursday in heatwave-related incidents, according to Prime Minister Sébastien Lecornu. This surge in deaths comes as Europe experiences the peak of an intense heatwave.",
+      "tags": [
+        "france",
+        "heatwave",
+        "drowning"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f71820f0daf31666",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Former Kenyan justice minister blocked from entering Uganda, lawyers' body says",
+      "url": "https://www.bbc.co.uk/news/articles/c0ly6786px4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Martha Karua, Kenya's former justice minister and lawyer for detained Ugandan opposition leader Kizza Besigye, was blocked from entering Uganda. This action was reported by a lawyers' body amid her ongoing legal representation.",
+      "tags": [
+        "kenya",
+        "uganda",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "85d95559a7b3b7f1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "From cool-down spots to chalk on windows - how Europeans are coping with the heat",
+      "url": "https://www.bbc.co.uk/news/articles/cz0j87vpz79o?at_medium=RSS&at_campaign=rss",
+      "summary": "Europeans are implementing various measures, from establishing cool-down spots to applying chalk on windows, to cope with the searing temperatures gripping the continent. Communities are adapting to the intense heatwave conditions.",
+      "tags": [
+        "europe",
+        "heatwave",
+        "climate"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7d6c1fab0405965a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How 100 hospitals switched to pen and paper to defeat a national cyber-attack",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyk756mzlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Dozens of Romanian hospitals switched to manual pen-and-paper operations for four days to counter a national cyber-attack. This manual transition was a critical response as cyber-experts worked to defeat the hackers.",
+      "tags": [
+        "cybersecurity",
+        "romania",
+        "healthcare"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f9c1c87fecc68f2c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Inquiry ordered after building fire kills 15 in north India city",
+      "url": "https://www.bbc.co.uk/news/articles/cwyde73w680o?at_medium=RSS&at_campaign=rss",
+      "summary": "An inquiry has been ordered in a north Indian city after a building fire killed 15 people, with witnesses reporting that individuals jumped from windows to escape. Rescue teams broke through a wall to save lives during the incident.",
+      "tags": [
+        "india",
+        "disaster",
+        "fire"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a2cc4687c3552ac9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
+      "url": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran's foreign ministry has stated it made \"no new commitments\" regarding nuclear inspections during recent talks in Switzerland, despite claims from US Vice President Vance that inspectors would be invited back. This indicates a discrepancy in the outcome of the discussions.",
+      "tags": [
+        "iran",
+        "nuclear",
+        "diplomacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "415fdd2ba53005aa",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Irish government to contribute £197m to cross-border rail services",
+      "url": "https://www.bbc.co.uk/news/articles/cd95yd1y050o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Irish government will contribute £197 million from its Shared Island Fund towards cross-border rail services. This funding aims to improve and expand railway connections between Ireland and Northern Ireland.",
+      "tags": [
+        "ireland",
+        "infrastructure",
+        "transportation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "eff2ff59209c9f4c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Kenya minister halts construction of US-backed Ebola quarantine centre",
+      "url": "https://www.bbc.co.uk/news/articles/c4gy6vk44pwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Kenya's Minister Aden Duale defied a High Court order by halting the construction of a controversial US-funded Ebola quarantine facility. This move comes amid opposition to the US-backed project.",
+      "tags": [
+        "kenya",
+        "health",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0400dccc68913452",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Montreal shooting leaves officer, civilian and suspect dead",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz3lv015qo?at_medium=RSS&at_campaign=rss",
+      "summary": "A shooting incident in Montreal resulted in the deaths of a police officer, a civilian, and the suspect. This marks the first time in 24 years that a Montreal police officer has been killed in the line of duty.",
+      "tags": [
+        "canada",
+        "crime",
+        "policing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ed343d4470d53719",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Myanmar army killed over 700 civilians in six months, UN says",
+      "url": "https://www.bbc.co.uk/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss",
+      "summary": "A new UN report states that the Myanmar army killed over 700 civilians, including 153 children, in a six-month period last year. This report highlights the severe human rights abuses occurring in the country.",
+      "tags": [
+        "myanmar",
+        "human rights",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ef35683294560e27",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ransom note claims Nancy Guthrie died after abduction",
+      "url": "https://www.bbc.co.uk/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
+      "summary": "A ransom note has reportedly claimed that Nancy Guthrie died following her abduction, with the alleged kidnappers stating they did not intend for her to die and apologizing to the family. This suggests a tragic development in the kidnapping case.",
+      "tags": [
+        "crime",
+        "abduction",
+        "tragedy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "53f7f1078c217d2b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Red heat alerts issued in France, Italy and Spain as 40C temperatures forecast",
+      "url": "https://www.bbc.co.uk/news/articles/c0jy9g96086o?at_medium=RSS&at_campaign=rss",
+      "summary": "Red heat alerts have been issued across France, Italy, and Spain with temperatures forecast to reach 40 degrees Celsius. The heatwave conditions are expected to intensify in central and western Europe in the coming days.",
+      "tags": [
+        "europe",
+        "heatwave",
+        "climate"
+      ],
+      "priority": false
+    },
+    {
+      "id": "17067a58ebbe7e21",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Spider which uses spring trap to capture prey discovered in Australia",
+      "url": "https://www.bbc.co.uk/news/articles/c70y138y995o?at_medium=RSS&at_campaign=rss",
+      "summary": "A newly discovered spider in Australia employs a unique spring trap hunting method to capture dangerous ants, a behavior researchers describe as unprecedented. This novel strategy allows it to prey on challenging targets.",
+      "tags": [
+        "science",
+        "discovery",
+        "australia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "61a496267abf423a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Tesla crash that killed a woman under US federal investigation",
+      "url": "https://www.bbc.co.uk/news/articles/c07yp02mxyjo?at_medium=RSS&at_campaign=rss",
+      "summary": "A Tesla driver claimed he was using \"self-driving\" technology when his vehicle sped into a Texas home, killing a woman, leading to a US federal investigation. The incident highlights ongoing safety concerns and scrutiny surrounding automated driving systems.",
+      "tags": [
+        "tesla",
+        "self-driving",
+        "crash"
+      ],
+      "priority": false
+    },
+    {
+      "id": "458b2baaf607b3bc",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump anticipates better relationship with Colombia under new leader",
+      "url": "https://www.bbc.co.uk/news/articles/c9v278ny9meo?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump expects an improved relationship with Colombia under its presumptive next president, Abelardo de la Espriella, who had received Trump's endorsement. This suggests a potential shift in diplomatic ties between the two nations.",
+      "tags": [
+        "trump",
+        "colombia",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b85352b23b22cadb",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
+      "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&at_campaign=rss",
+      "summary": "A UN commission of inquiry has accused Israel of committing genocide in Gaza by deliberately targeting children, a claim Israel strongly rejects as a \"libellous sham.\" This report intensifies international scrutiny of the conflict.",
+      "tags": [
+        "israel",
+        "gaza",
+        "un"
+      ],
+      "priority": false
+    },
+    {
+      "id": "968fdac2cbf4bc9f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US top court says Rastafarian man cannot sue prison guards who cut his dreadlocks",
+      "url": "https://www.bbc.co.uk/news/articles/cx247v39r1no?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Supreme Court ruled that a Rastafarian man cannot sue prison guards who forcibly cut his dreadlocks, despite his argument that it violated his religious rights. This decision impacts religious freedom in correctional facilities.",
+      "tags": [
+        "legal",
+        "us",
+        "religion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "36d9544b455deb36",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why was JD Vance in a luxury Swiss resort for talks with Iran?",
+      "url": "https://www.bbc.co.uk/news/videos/c4gyenl6nz0o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC correspondent Jessica Parker explained the key points of the direct talks between US Vice-President JD Vance and Iran, held in a luxury Swiss resort. The presence of a high-ranking US official at these talks underscores their significance.",
+      "tags": [
+        "us",
+        "iran",
+        "diplomacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9cf4f26d7616a05d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Zambia ex-president's family wins latest legal battle over what should happen to his body",
+      "url": "https://www.bbc.co.uk/news/articles/c8r2yryr5mvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The family of Zambia's former president, Edgar Lungu, has won a legal battle concerning the disposition of his body, 12 months after his death. The family and the Zambian government remain in dispute over the matter.",
+      "tags": [
+        "zambia",
+        "politics",
+        "legal dispute"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b13350796001ec78",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Crypto in 2026: Oh, This Is the Bad Place",
+      "url": "https://www.stephendiehl.com/posts/bad_place_2026/",
+      "summary": "The article, \"Crypto in 2026: Oh, This Is the Bad Place,\" offers a critical perspective on the state of the cryptocurrency market and industry in 2026. It suggests a negative outlook on the current developments within crypto.",
+      "tags": [
+        "crypto",
+        "finance",
+        "market analysis"
+      ],
+      "priority": false
+    },
+    {
+      "id": "adc5b34b10a0aebe",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Elevated error rate across multiple models",
+      "url": "https://status.claude.com/incidents/jbhf20wjmzrf",
+      "summary": "Claude has reported an elevated error rate affecting multiple models. Users may experience increased issues with the AI's performance.",
+      "tags": [
+        "ai",
+        "claude",
+        "system status"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fbd3c0e0064dcd9f",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "GLM-5.2 – How to Run Locally",
+      "url": "https://unsloth.ai/docs/models/glm-5.2",
+      "summary": "A guide has been published on how to run GLM-5.2, a large language model, locally. This resource provides instructions for users to implement the model on their own systems.",
+      "tags": [
+        "llm",
+        "ai",
+        "open source"
+      ],
+      "priority": false
+    },
+    {
+      "id": "accd86e2a8f9d8f6",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "In praise of memcached",
+      "url": "https://jchri.st/blog/in-praise-of-memcached/",
+      "summary": "The article \"In praise of memcached\" discusses the benefits and importance of memcached. It highlights the value and effectiveness of this distributed memory caching system.",
+      "tags": [
+        "software",
+        "caching",
+        "development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "681b021f9782ba6a",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Mistral OCR 4",
+      "url": "https://mistral.ai/news/ocr-4/",
+      "summary": "Mistral AI has released Mistral OCR 4, a new version of its optical character recognition technology. This update indicates advancements in the capabilities of their OCR models.",
+      "tags": [
+        "ai",
+        "ocr",
+        "mistral"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6bf2ff5ce2944f6d",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "OpenAI DayBreak – GPT-5.5-Cyber",
+      "url": "https://openai.com/index/daybreak-securing-the-world/",
+      "summary": "OpenAI announced \"DayBreak\" and its new GPT-5.5-Cyber model, focusing on securing the world. This indicates a new initiative by OpenAI aimed at enhancing cybersecurity capabilities through advanced AI.",
+      "tags": [
+        "openai",
+        "ai",
+        "cybersecurity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "abc86dbf3f090d07",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Spying on kids to save kids from spying is stupid",
+      "url": "https://pluralistic.net/2026/06/23/destroy-the-village/",
+      "summary": "The article argues against the logic of implementing surveillance measures on children with the stated goal of protecting them from other forms of spying. It criticizes this approach as counterproductive.",
+      "tags": [
+        "privacy",
+        "children",
+        "surveillance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8cbdfb5d885b0680",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Steam Machine launches today",
+      "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+      "summary": "The Steam Machine gaming console has launched today, offering a new hardware option for PC gaming via the Steam platform. Multiple sources, including an article and YouTube video, cover the release.",
+      "tags": [
+        "gaming",
+        "hardware",
+        "steam"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2a575419d9471cba",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Unlimited OCR: One-Shot Long-Horizon Parsing",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "summary": "Baidu has introduced \"Unlimited OCR,\" a new optical character recognition system capable of one-shot long-horizon parsing. This technology aims to enhance the efficiency and accuracy of text recognition over extended documents.",
+      "tags": [
+        "ai",
+        "ocr",
+        "baidu"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0f6a2bf7fbcc24ef",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+      "url": "https://arxiv.org/abs/2606.16140",
+      "summary": "VibeThinker, a 3-billion-parameter model, has reportedly surpassed Opus 4.5 in reasoning capabilities through the use of novel SFT+GRPO techniques. This indicates a significant achievement in developing more capable AI models.",
+      "tags": [
+        "ai",
+        "llm",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "61c5bd5b4cb33281",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Will It Mythos?",
+      "url": "https://swelljoe.com/post/will-it-mythos/",
+      "summary": "\"Will It Mythos?\" explores the application of various concepts or systems within a \"mythos\" framework. The article delves into whether specific ideas are compatible with or can be integrated into a larger mythological narrative.",
+      "tags": [
+        "culture",
+        "literature",
+        "mythology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9780410359980f5a",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "A Revolutionary War soldier's DNA links him to living relatives",
+      "url": "https://www.npr.org/2026/06/23/nx-s1-5866455/revolutionary-war-continental-army-camden-south-carolina-maryland",
+      "summary": "DNA evidence from Continental Army soldier John Pumphrey, who died in the Revolutionary War, has linked him to living relatives. This discovery sheds new light on his lineage and the history of the conflict.",
+      "tags": [
+        "history",
+        "dna",
+        "genealogy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a5297fb679b9f7bd",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "A U.S.-Iran dispute over nuclear inspections clouds work to finalize a war-ending deal",
+      "url": "https://www.npr.org/2026/06/23/nx-s1-5867322/us-iran-finalize-war-ending-deal",
+      "summary": "As U.S.-Iran talks continued, a break in the shipping bottleneck through the Strait of Hormuz appeared to be in the works.\n(Image credit: Anjum Naveed)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "cd3c64a231465969",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Afghan Taliban hold first, closed-door talks with EU on deportations",
+      "url": "https://www.npr.org/2026/06/23/g-s1-129648/afghan-taliban-hold-first-closed-door-talks-with-eu-on-deportations",
+      "summary": "The Afghan Taliban held its first closed-door talks with the European Union concerning deportations, a meeting criticized by rights groups. These groups argue the talks undermine the EU's human rights obligations.",
+      "tags": [
+        "afghanistan",
+        "eu",
+        "human rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6ac37882e4b3aafd",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "As Republican Party looks to future without Trump in office, Utah could be a road map",
+      "url": "https://www.npr.org/2026/06/23/nx-s1-5835675/utah-republican-party-maga-america-first",
+      "summary": "As the Republican Party considers its future beyond Donald Trump's presidency, Utah, with its complex relationship with Trump, could offer a roadmap for the party's direction in 2028. This explores potential shifts in conservative politics.",
+      "tags": [
+        "politics",
+        "republican party",
+        "trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a8275092b0dee28c",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Lebanese struggle to get by in an ancient city under Israeli evacuation order",
+      "url": "https://www.npr.org/2026/06/23/g-s1-128783/lebanon-israel-tyre-hezbollah-war",
+      "summary": "Ordinary people in the ancient Lebanese city of Tyre are struggling to survive Israeli attacks and an evacuation order. The city, historically besieged, now faces modern conflict challenges.",
+      "tags": [
+        "lebanon",
+        "israel",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ea8bf854b3039217",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "People fired over Charlie Kirk posts get big payouts for First Amendment retaliation",
+      "url": "https://www.npr.org/2026/06/23/nx-s1-5856300/charlie-kirk-assassination-jobs-social-media-payouts-fired-first-amendment-settlements",
+      "summary": "Government and public institution employees who were fired over Charlie Kirk posts received substantial payouts for First Amendment retaliation. While vindicated, these workers are still dealing with the aftermath of their dismissals.",
+      "tags": [
+        "legal",
+        "first amendment",
+        "employment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5bcf0edab91b8bab",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "This man is a bus driver and grandfather. A Supreme Court ruling could reimprison him",
+      "url": "https://www.npr.org/2026/06/23/nx-s1-5861754/supreme-court-compassionate-release-impact",
+      "summary": "A Supreme Court ruling that limits how prisoners can use the compassionate release program could directly affect Anthony Bailey, a bus driver and grandfather, potentially leading to his reimprisonment. His case is one of about a dozen impacted by the decision.",
+      "tags": [
+        "legal",
+        "supreme court",
+        "justice"
+      ],
+      "priority": false
+    },
+    {
+      "id": "35ea4952abb98e24",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trouble getting weight loss drugs covered by insurance? Here's what to know",
+      "url": "https://www.npr.org/2026/06/23/nx-s1-5793971/weight-loss-glp1-insurance-coverage",
+      "summary": "Individuals prescribed GLP-1 medications for weight loss have options if their insurance does not cover the treatment. The article provides information for navigating insurance challenges to access these drugs.",
+      "tags": [
+        "health",
+        "insurance",
+        "weight loss"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a41c130efae9d695",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "U.S. lifts Iran oil sanctions. And, federal judge rules SAVE voter tool unlawful",
+      "url": "https://www.npr.org/2026/06/23/g-s1-129603/up-first-newsletter-iran-oil-sanctions-trump-economy-minnesota-subpoenas-save-voter-info",
+      "summary": "The U.S. has temporarily lifted oil sanctions on Iran as peace talks continue, while a federal judge ruled the Trump administration's SAVE data system unlawful. The dual developments address both international diplomacy and domestic policy.",
+      "tags": [
+        "us",
+        "iran",
+        "sanctions"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1e1809b062f74b39",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "When falling housing prices are good news — and when they're not",
+      "url": "https://www.npr.org/sections/planet-money/2026/06/23/g-s1-129339/when-falling-housing-prices-are-good-news-and-when-theyre-not",
+      "summary": "Falling housing costs are a cause for celebration for Denver renters, but sometimes indicate economic decline. The article explores how to distinguish whether cheaper housing reflects positive market changes or broader economic issues.",
+      "tags": [
+        "economy",
+        "housing",
+        "real estate"
+      ],
+      "priority": false
+    },
+    {
+      "id": "95cefbd0298d3e78",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Prompt Injection as Role Confusion",
+      "url": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
+      "summary": "Research suggests \"prompt injection\" in large language models stems from \"role confusion,\" where models prioritize text style over actual content. This means minor \"destyling\" changes can dramatically reduce attack success from 61% to 10%, indicating a persistent challenge for LLM security unless genuine role perception is achieved.",
+      "tags": [
+        "ai",
+        "llm",
+        "security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e53e134d1a3c91fd",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "When Trump’s influence is no match for money’s",
+      "url": "https://www.slowboring.com/p/when-trumps-influence-is-no-match",
+      "summary": "Donald Trump's influence in Republican primaries, while considerable, is not absolute, as demonstrated by mixed results in Georgia where rival candidates outspent his endorsements. This highlights the enduring power of campaign spending in political outcomes.",
+      "tags": [
+        "trump",
+        "politics",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e8953aa4805dc31a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+      "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+      "summary": "AI chipmaker Groq confirmed a $650 million funding round and is re-staffing after a \"not-acqui-hire\" deal involving Nvidia. The company is focusing on its neocloud business and hiring new executives to drive its strategy.",
+      "tags": [
+        "ai",
+        "semiconductors",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "95fc34c8f859cbf1",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+      "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+      "summary": "Stockholm-based startup Fika Jobs secured $4 million to develop a video-first hiring platform that uses AI interview agents and short-form video profiles. The platform aims to blend LinkedIn's professional networking with TikTok's video format.",
+      "tags": [
+        "startup",
+        "ai",
+        "recruiting"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e15f39cd81d288fc",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+      "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+      "summary": "Google DeepMind and A24 are collaborating with a $75 million deal to develop AI filmmaking tools. This partnership represents a significant investment in integrating artificial intelligence into the future of Hollywood production.",
+      "tags": [
+        "ai",
+        "entertainment",
+        "google"
+      ],
+      "priority": false
+    },
+    {
+      "id": "94a52d41f434965b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "HaloBraid raises $7M from Seven Seven Six to end the six-hour hair salon appointment",
+      "url": "https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/",
+      "summary": "HaloBraid raised $7 million to develop a braiding assistant device for professional stylists, aiming to significantly reduce the duration of hair salon braiding appointments. The company plans to launch its first device later this year.",
+      "tags": [
+        "startup",
+        "beauty",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3160514408f93fde",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Meta debuts new, cheaper smart glasses under its own brand",
+      "url": "https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/",
+      "summary": "Meta has launched new, more affordable smart glasses under its own brand, which are available in several countries. These glasses offer various color and lens combinations, expanding Meta's smart eyewear product line.",
+      "tags": [
+        "meta",
+        "smart glasses",
+        "consumer tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a7b4fe25f4f6b9f3",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Microsoft and Chevron plan one of the largest gas-powered data center projects in US",
+      "url": "https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/",
+      "summary": "Microsoft has signed a 20-year power purchase agreement with Chevron for one of the largest gas-powered data center projects in the US. This deal commits to decades of carbon emissions from a new natural gas power plant.",
+      "tags": [
+        "data center",
+        "energy",
+        "environment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cfdf7572a6e26771",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+      "url": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+      "summary": "Nvidia announced a new cooling system aimed at reducing water use within data centers, but critics note this does not address AI's larger water consumption issue tied to fossil fuel power plants. The focus is on internal data center efficiency rather than the broader environmental footprint.",
+      "tags": [
+        "nvidia",
+        "ai",
+        "environment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3686f5c8ea0026bc",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenAI launches new initiative to help find and patch open source bugs",
+      "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+      "summary": "OpenAI has launched a new initiative to leverage AI technology to assist the open-source community in identifying and patching bugs. This effort aims to enhance the security and reliability of open-source projects.",
+      "tags": [
+        "openai",
+        "open source",
+        "cybersecurity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "09ea11b9b8eab5bc",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Password manager maker LastPass says hackers stole customer support case data during Klue breach",
+      "url": "https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/",
+      "summary": "LastPass, a password manager provider, announced that customer support case data was stolen during a recent breach involving one of its tech partners, Klue. This marks the second data breach affecting LastPass customers in recent years.",
+      "tags": [
+        "cybersecurity",
+        "data breach",
+        "lastpass"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bcbf5f25095a28c1",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Ribbie turns real-time baseball stats into arcade-like, pixel-art broadcasts",
+      "url": "https://techcrunch.com/2026/06/23/ribbie-turns-real-time-baseball-stats-into-arcade-like-pixel-art-broadcasts/",
+      "summary": "Ribbie offers a delightful, arcade-inspired interface to follow live MLB games, transforming real-time baseball statistics into pixel-art broadcasts. This provides a unique and engaging way for fans to track games.",
+      "tags": [
+        "sports tech",
+        "app",
+        "baseball"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2dee61603e12c845",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Shareholders sue Uber’s board over sexual assaults, other incidents",
+      "url": "https://techcrunch.com/2026/06/22/shareholders-sue-ubers-board-over-sexual-assaults-other-incidents/",
+      "summary": "Uber's board is being sued by shareholders, led by a Detroit pension fund, who allege that management cut too many compliance corners. This has reportedly resulted in thousands of lawsuits related to sexual assaults and other incidents.",
+      "tags": [
+        "uber",
+        "lawsuit",
+        "corporate governance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cab591b1fc8c7ca8",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach",
+      "url": "https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/",
+      "summary": "Tata Electronics, a significant tech supplier for Apple and Tesla, has confirmed a data breach. This incident occurs as the company expands its role in global technology supply chains.",
+      "tags": [
+        "cybersecurity",
+        "data breach",
+        "supply chain"
+      ],
+      "priority": false
+    },
+    {
+      "id": "375467f1ecc92792",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Tesla pushes back on Autopilot narrative after fatal Texas crash",
+      "url": "https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/",
+      "summary": "Tesla is disputing the narrative surrounding a fatal Texas crash where the driver claimed Autopilot was engaged, asserting that the system's activity or malfunction will be determined by vehicle data logs. Investigations will clarify whether the Autopilot system was active, overridden, or malfunctioning.",
+      "tags": [
+        "tesla",
+        "autopilot",
+        "crash"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6a50bba8a179af75",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The AI world is getting ‘loopy’",
+      "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+      "summary": "The AI world is increasingly adopting a \"loopy\" approach, which extends agentic AI by authorizing a swarm of agents to work continuously in the background. This allows AI systems to operate autonomously and persistently.",
+      "tags": [
+        "ai",
+        "artificial intelligence",
+        "autonomous systems"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1c9d92c699fc17f8",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+      "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "summary": "TechCrunch is tracking a running list of major tech companies that have announced significant layoffs in 2026, with many employers explicitly citing AI as a contributing factor. This highlights a growing trend of job displacement linked to artificial intelligence.",
+      "tags": [
+        "tech industry",
+        "layoffs",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e44a1356db2c703d",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Anne Hathaway Is Pregnant at 43—and the Internet Is Out for Blood",
+      "url": "https://www.thefp.com/p/anne-hathaway-is-pregnant-at-43-and",
+      "summary": "Anne Hathaway's pregnancy at 43 has sparked online debate, reflecting societal shifts where older mothers are increasingly common, but still face scrutiny. The article notes the average age of first birth has risen, with many celebrities having children in their 40s.",
+      "tags": [
+        "celebrity",
+        "parenting",
+        "social trends"
+      ],
+      "priority": false
+    },
+    {
+      "id": "30fb0bcd5ba39b5a",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Arthur Brooks: Gen Z’s Great Retreat from Risk",
+      "url": "https://www.thefp.com/p/arthur-brooks-gen-zs-great-retreat",
+      "summary": "A new report indicates Gen Z is exhibiting a \"great retreat from risk,\" with declining rates of alcohol consumption, sex, and driving among teenagers. This trend extends to finances, relationships, and social interactions, driven by rising anxiety levels and a preference for avoiding perceived dangers.",
+      "tags": [
+        "gen z",
+        "social trends",
+        "psychology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9a6aad996ca845bb",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Chaos in Britain. Plus. . .",
+      "url": "https://www.thefp.com/p/chaos-in-britain-plus",
+      "summary": "UK Prime Minister Keir Starmer resigned, making him the sixth PM in 10 years, raising questions about Britain's governability a decade after Brexit. Experts suggest leaders have lacked a clear direction, contributing to political turbulence.",
+      "tags": [
+        "uk",
+        "politics",
+        "leadership"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0516a7a50af2e3d9",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Don’t Freak Out About Fruit-Flavored Vapes",
+      "url": "https://www.thefp.com/p/dont-freak-out-about-fruit-flavored",
+      "summary": "The FDA's authorization of certain fruit-flavored vapes for adults has sparked controversy, with public health groups worrying about attracting teens despite evidence that adults prefer them for smoking cessation. New devices like Glas's require age verification and phone pairing to prevent underage use.",
+      "tags": [
+        "health",
+        "vaping",
+        "fda"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b30460b49ae9bc77",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Douglas Murray: Why Britain’s Leaders Forgot How to Lead",
+      "url": "https://www.thefp.com/p/douglas-murray-why-britains-leaders",
+      "summary": "Douglas Murray argues that recent British leaders, including the newly resigned Keir Starmer, have failed to govern effectively by lacking clear direction. This leadership void has contributed to a decade of political instability in the UK.",
+      "tags": [
+        "uk",
+        "politics",
+        "leadership"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ef21617b87b7e3cd",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "From Teenage Soldier to Commander in Ukraine, with Mamuka Mamulashvili",
+      "url": "https://www.thefp.com/p/from-teenage-soldier-to-commander",
+      "summary": "The article highlights Georgian Legion commander Mamuka Mamulashvili's journey from a teenage soldier to a commander in Ukraine, offering insights into his lifetime of fighting Russians. It explores lessons the West can learn from the ongoing conflict.",
+      "tags": [
+        "ukraine",
+        "military",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "817f1d5fdfaf04bb",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "I Know What Iran Does to Women Who Sing",
+      "url": "https://www.thefp.com/p/i-know-what-iran-does-to-women-who",
+      "summary": "An Iranian singer, Parastoo Ahmadi, and her production team were sentenced to 74 lashes and a two-year ban on artistic activities for performing without a hijab online. This incident underscores the regime's strict enforcement of morality laws against women.",
+      "tags": [
+        "iran",
+        "human rights",
+        "women's rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f6a32d64e6ef130e",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Moms Are at War Over Sleep Training",
+      "url": "https://www.thefp.com/p/moms-are-at-war-over-sleep-training",
+      "summary": "The practice of infant sleep training, particularly the \"cry it out\" method, is a controversial topic among mothers, exemplified by a single mother's decision to use it for her infant. Pediatricians often recommend it, but parents face emotional tolls.",
+      "tags": [
+        "parenting",
+        "child development",
+        "health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e77b6a35f9ff4768",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "This Week in Canada: MAID Hits a Mental-Illness Snag",
+      "url": "https://www.thefp.com/p/this-week-in-canada-maid-hits-a-mental",
+      "summary": "Canada's Parliament has recommended indefinitely excluding mental illness as the sole underlying condition for Medical Assistance in Dying (MAID) eligibility. This decision reverses plans to expand MAID to those with mental illness, citing uncertainty in determining if a patient is truly beyond hope.",
+      "tags": [
+        "canada",
+        "healthcare",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c362387a8db69541",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "The Most Important Thing to Remember About Your Mother",
+      "url": "https://www.themarginalian.org/2026/06/23/florida-scott-maxwell-mother/",
+      "summary": "The article, drawing on Florida Scott-Maxwell's autobiography, reflects on mothers as complex individuals who love their children the best they know how, regardless of childhood experiences. It suggests accepting this truth with love rather than bitterness is a life's triumph.",
+      "tags": [
+        "psychology",
+        "family",
+        "personal growth"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3393098a7bb8130c",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Hoto’s 25-bit electric screwdriver is 40 percent off during Prime Day",
+      "url": "https://www.theverge.com/gadgets/953038/hoto-electric-screwdriver-kit-pro-amazon-deal-sale",
+      "summary": "Hoto's 3.6V Electric Screwdriver Kit Pro is on sale for 40% off during Prime Day, priced at $28.49. This compact and lightweight tool includes 25 interchangeable steel bits and an extension bar, making it suitable for various household tasks.",
+      "tags": [
+        "deal",
+        "tools",
+        "electronics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "146b8ba02b140af5",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Meta’s smart glasses now have a dedicated charging stand",
+      "url": "https://www.theverge.com/tech/954900/meta-glasses-charging-stand-price-launch",
+      "summary": "Meta has launched a new Charging Stand accessory for $59, allowing users to display and recharge their smart glasses, excluding Ray-Ban Display and Oakley Meta Vanguard models. This stand offers an alternative to the existing on-the-go charging case.",
+      "tags": [
+        "meta",
+        "smart glasses",
+        "accessory"
+      ],
+      "priority": false
+    },
+    {
+      "id": "26b925ff9721b441",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Sony’s AI Camera Assistant is exactly as bad as it looks",
+      "url": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
+      "summary": "Sony's new AI Camera Assistant, promoted with \"worst photos\" taken on a Sony camera, has been confirmed to perform poorly after a week of testing with the Xperia 1 VIII. The assistant fails to meet expectations and is notably worse than Google's Camera Coach.",
+      "tags": [
+        "sony",
+        "ai",
+        "smartphone"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cc940daaf9761628",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The Oura Ring 4 is as low as $226 for Prime Day",
+      "url": "https://www.theverge.com/gadgets/953517/oura-ring-4-prime-day-smart-ring-deal-sale",
+      "summary": "The Oura Ring 4 is discounted to as low as $226 for Prime Day, offering a significant saving on the last-gen smart ring. While slightly thicker than the new Oura Ring 5, it retains the same software features, sensors, and battery life.",
+      "tags": [
+        "deal",
+        "wearable tech",
+        "health tracking"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 104,
+    "summarized": 82,
+    "skipped_promos": 1,
+    "filtered_by_rules": 21,
+    "sources": 10,
+    "email_items_omitted": 0
+  }
+}
