@@ -1,0 +1,1079 @@
+{
+  "date": "2026-06-24",
+  "generated_at": "2026-06-24T16:11:57+00:00",
+  "hot_topics": [
+    {
+      "topic": "Slate Auto Electric Truck Launch",
+      "synthesis": "Slate Auto has officially launched its online configurator for a new electric truck, confirming a sub-$25,000 starting price. This vehicle, which promises an EPA range of 205 miles, is generating buzz as an affordable entry into the electric pickup market. Supported by Jeff Bezos, this debut aims to offer a radically simple and accessible EV option.",
+      "item_ids": [
+        "b31d0568d18f81d4",
+        "7f4192744bc1534d"
+      ]
+    },
+    {
+      "topic": "OpenAI's Custom AI Processor",
+      "synthesis": "OpenAI has unveiled its first custom-designed AI processor, named Jalapeño, developed in collaboration with Broadcom. This Application-Specific Integrated Circuit (ASIC) is specifically engineered to power current and future large language models, focusing on enhancing AI inference capabilities. The development signifies OpenAI's strategic investment in its own hardware infrastructure to optimize AI performance.",
+      "item_ids": [
+        "6379e19db4600ffc",
+        "1a98978d94f19468"
+      ]
+    },
+    {
+      "topic": "Zoox Robotaxi Updates",
+      "synthesis": "Zoox, Amazon's autonomous vehicle company, has revealed a refreshed design for its purpose-built robotaxi as it prepares for mass production and commercial service. The updated vehicle features enhanced interior elements like cushioning, lighter colors, and improved audio systems for communication with support. Zoox is continuing its efforts to secure federal approval to operate these autonomous vehicles without traditional driver controls.",
+      "item_ids": [
+        "27dca0c62ed9131f",
+        "da673d2e5bdd3bfa"
+      ]
+    },
+    {
+      "topic": "Europe's Record Heatwave and Adaptation",
+      "synthesis": "Western Europe is grappling with a severe, record-breaking heatwave, particularly impacting France, Spain, and Italy, leading to power outages in France and discussions about increasing air conditioning use. Across the continent, people are adopting various strategies, from setting up cool-down spots to applying chalk on windows, to cope with the soaring temperatures. Switzerland is also experiencing tropical-like heat, affecting daily life and public events.",
+      "item_ids": [
+        "834726ba0c7b7220",
+        "5bd419145b0520bd",
+        "836395a1105ed523",
+        "3b49ba963d9ade31",
+        "f0d85fd84387a631"
+      ]
+    },
+    {
+      "topic": "Iran Nuclear Inspections and US War Powers",
+      "synthesis": "The head of the UN's nuclear agency confirmed that inspectors will visit Iranian nuclear enrichment sites as part of an interim deal between Iran and the U.S., despite conflicting statements from both nations regarding the arrangement. Concurrently, the U.S. Congress passed a war powers measure related to Iran, marking a symbolic break from the former Trump administration's foreign policy approach, though its practical impact is limited.",
+      "item_ids": [
+        "b1a2592f26a77839",
+        "5a5bc6970ad049c8",
+        "bbcc524f0a9ffc7f",
+        "8e725f63cba7e2b5"
+      ]
+    },
+    {
+      "topic": "Democratic Socialists' Momentum in NYC Primaries",
+      "synthesis": "Candidates backed by New York City Mayor Zohran Mamdani achieved a significant sweep in recent Democratic primaries, reinforcing the growing influence of the anti-establishment progressive left within the Democratic Party. The Democratic Socialists of America (DSA) are leveraging this momentum, with leaders actively planning to back a presidential primary candidate for 2028, signaling an intent to expand their national political footprint. These victories have also highlighted ongoing political divisions in the city, particularly concerning issues like the Israel-Gaza war and public safety policies.",
+      "item_ids": [
+        "e15e41f0d0bb85a4",
+        "47a7f412ff584adc",
+        "e796f218c6b2fcd1",
+        "2cd3d688355e23bb"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "3c47095ce0ce456c",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "The memories of others",
+      "url": "https://aeon.co/videos/a-japanese-photographers-striking-perceptive-images-of-the-troubles",
+      "summary": "A video explores how a Japanese war photographer became an insightful chronicler of \"the Troubles\" in Northern Ireland.",
+      "tags": [
+        "photography",
+        "history",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9e4373c49ef92b52",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "A curious crossover: The Toyota C-HR review",
+      "url": "https://arstechnica.com/cars/2026/06/a-curious-crossover-the-toyota-c-hr-review/",
+      "summary": "Toyota's new C-HR electric crossover is reviewed, featuring a twin-motor AWD setup with 338 hp and a 74.7 kWh battery pack, starting at $37,000. It is smaller than the bZ4x but not significantly cheaper with its standard high-performance powertrain.",
+      "tags": [
+        "electric vehicles",
+        "automotive",
+        "review"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5ec020c9ad5401f4",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Odd police video shows drone removing knife from motionless suspect",
+      "url": "https://arstechnica.com/gadgets/2026/06/police-tout-using-drone-to-disarm-incapacitated-person-in-nationwide-first/",
+      "summary": "The Sacramento County Sheriff’s Office released a video showcasing a drone using a magnet to disarm a motionless suspect holding a knife, an action it described as a \"nationwide first.\" This incident involved a felony suspect who was non-responsive to negotiators.",
+      "tags": [
+        "drones",
+        "policing",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4257c148bf32c32f",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
+      "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+      "summary": "Oracle reduced its workforce by 21,000 employees in the past year, attributing these layoffs in part to the adoption and deployment of AI technologies across its operations. The company's annual filing noted a 12.9 percent reduction in full-time staff.",
+      "tags": [
+        "ai",
+        "layoffs",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b31d0568d18f81d4",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Slate Auto's truck builder goes live for its $25k electric pickup",
+      "url": "https://arstechnica.com/cars/2026/06/here-are-five-ways-you-could-build-a-slate-ev-from-25000-to-37000/",
+      "summary": "Slate Auto has launched an online configurator for its electric truck, confirming a starting price of $24,950. The vehicle features a 63 kWh lithium iron phosphate battery, 181 hp electric motor, and an EPA range of 205 miles.",
+      "tags": [
+        "electric vehicles",
+        "automotive",
+        "startup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f6a6e3b38b3e20f9",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "White House drastically shortens deadline for dropping quantum-vulnerable crypto",
+      "url": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
+      "summary": "The White House has accelerated the deadline for government agencies to transition to quantum-resistant encryption systems, now requiring adoption for high-value assets by December 31, 2030, and quantum-safe digital signatures by December 31, 2031. This move comes as new research indicates lower-than-expected costs for building cryptographically relevant quantum computers.",
+      "tags": [
+        "cybersecurity",
+        "quantum computing",
+        "government policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c423c5f9f153ad90",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'We're begging' - Savannah Guthrie pleads for help as details of her mother’s case emerge",
+      "url": "https://www.bbc.co.uk/news/videos/cjdg1enzrk5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Savannah Guthrie publicly appealed for help on NBC's Today show after details emerged about a note regarding her missing mother, Nancy Guthrie, claiming she had died.",
+      "tags": [
+        "news",
+        "media",
+        "true crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5bd419145b0520bd",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Air conditioning creates political divide after France records hottest day",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
+      "summary": "France is re-evaluating its historical reluctance towards air conditioning as temperatures soar to record levels, leading to a political discussion on its wider adoption.",
+      "tags": [
+        "heatwave",
+        "france",
+        "climate policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "457c594ac427e8f2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Biggest city in Crimea without power after Ukraine strikes",
+      "url": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
+      "summary": "Sevastopol, Crimea's largest city, experienced a widespread power outage following Ukrainian strikes. The Moscow-installed governor warned that some areas might remain without electricity until the evening.",
+      "tags": [
+        "ukraine war",
+        "power grid",
+        "crimea"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ab6502ec11c03bf8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Blood ties and opportunity: Why more World Cup players than ever are not representing their birth nations",
+      "url": "https://www.bbc.co.uk/news/articles/cz9lj5k7lp1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nearly a quarter of the footballers participating in the 2026 World Cup are not representing their birth nations, a trend driven by blood ties and opportunities.",
+      "tags": [
+        "sports",
+        "world cup",
+        "immigration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "89017f57f71e1964",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Bondi Beach shooting hero pleads not guilty to alleged assault on his father",
+      "url": "https://www.bbc.co.uk/news/articles/cn8q33gdgjjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ahmed al Ahmed, hailed as a hero for tackling a gunman in the Bondi Beach shooting, has pleaded not guilty to an alleged assault on his father.",
+      "tags": [
+        "crime",
+        "australia",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "222abc7ae381e633",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Chinese e-commerce giant Alibaba sues US government over defence blacklist",
+      "url": "https://www.bbc.co.uk/news/articles/ckg0258vpvqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Alibaba, a Chinese e-commerce giant, is suing the US defense department after being added to a blacklist of firms with alleged ties to the Chinese military.",
+      "tags": [
+        "us-china relations",
+        "business",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e15e41f0d0bb85a4",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
+      "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
+      "summary": "Candidates supported by New York's Zohran Mamdani achieved a clean sweep in the Democratic primary, with Brad Lander unseating Dan Goldman. This outcome highlighted divisions in the city over the Israel-Gaza war.",
+      "tags": [
+        "politics",
+        "elections",
+        "new york"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1688521782fabc0e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Colombia's left-wing presidential candidate concedes defeat",
+      "url": "https://www.bbc.co.uk/news/articles/cgrkqky5lzpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Senator Iván Cepeda, a left-wing presidential candidate in Colombia, conceded defeat after being narrowly beaten by right-wing businessman Abelardo de la Espriella by less than a percentage point.",
+      "tags": [
+        "elections",
+        "colombia",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bbcc524f0a9ffc7f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Congress passes war powers measure for first time, breaking with Trump over Iran",
+      "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Congress passed a war powers measure for the first time, signaling a break with former President Trump's stance on Iran, although experts suggest it holds little power and is mainly politically significant.",
+      "tags": [
+        "government policy",
+        "iran",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cbfc64d1cecd1cad",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Eight sentenced to 450 years in prison over anti-ICE riot where officer was shot",
+      "url": "https://www.bbc.co.uk/news/articles/clyedgnyn4mo?at_medium=RSS&at_campaign=rss",
+      "summary": "Eight individuals were sentenced to a combined 450 years in prison for their involvement in an anti-ICE riot in Texas, during which an officer was shot in the neck by \"Antifa Cell operatives.\"",
+      "tags": [
+        "crime",
+        "protests",
+        "law enforcement"
+      ],
+      "priority": false
+    },
+    {
+      "id": "38fd42bbdb2d0d88",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "France confirms first Ebola case",
+      "url": "https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo?at_medium=RSS&at_campaign=rss",
+      "summary": "France has confirmed its first Ebola case, involving a French doctor who had been working in DR Congo, where over 260 deaths have been reported from the disease.",
+      "tags": [
+        "health",
+        "ebola",
+        "france"
+      ],
+      "priority": false
+    },
+    {
+      "id": "be9776ce72d73141",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "French woman allegedly held captive by husband for 12 years rescued in Pakistan",
+      "url": "https://www.bbc.co.uk/news/articles/cj0g71pnv3no?at_medium=RSS&at_campaign=rss",
+      "summary": "A French woman was rescued in Pakistan after allegedly being held captive for 12 years by her husband, along with her five children. She claimed they were isolated from the outside world.",
+      "tags": [
+        "crime",
+        "pakistan",
+        "human rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3b49ba963d9ade31",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "From cool-down spots to chalk on windows - how Europe is coping with the heat",
+      "url": "https://www.bbc.co.uk/news/articles/cz0j87vpz79o?at_medium=RSS&at_campaign=rss",
+      "summary": "Across Europe, people are adopting various strategies, from seeking cool-down spots to applying chalk on windows, to cope with the severe heatwave gripping the continent.",
+      "tags": [
+        "heatwave",
+        "europe",
+        "climate adaptation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "506b12a2523c0fc5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "From startups to global spotlight - Indian entrepreneur takes charge of WhatsApp",
+      "url": "https://www.bbc.co.uk/news/articles/c0my4n38myjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Indian entrepreneur Kunal Shah, a prominent figure in India's startup ecosystem, is now leading WhatsApp, placing him in a global spotlight.",
+      "tags": [
+        "business",
+        "technology",
+        "india"
+      ],
+      "priority": false
+    },
+    {
+      "id": "00d3d8b0a2b4d9a1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Germany rail network briefly halted nationwide due to IT malfunction",
+      "url": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&at_campaign=rss",
+      "summary": "Germany's national rail network, Deutsche Bahn, experienced a nationwide halt for over two and a half hours due due to an IT malfunction.",
+      "tags": [
+        "germany",
+        "transportation",
+        "it failure"
+      ],
+      "priority": false
+    },
+    {
+      "id": "858722e0e32afa1a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Kenya to charge students with murder over deadly school fire",
+      "url": "https://www.bbc.co.uk/news/articles/cwykl517xk7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Kenyan authorities plan to charge 16 students, aged 15 to 18, with murder in connection with a dormitory fire at Utumishi Girls' School last month that killed 16 pupils.",
+      "tags": [
+        "kenya",
+        "crime",
+        "education"
+      ],
+      "priority": false
+    },
+    {
+      "id": "834726ba0c7b7220",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Power outages hit France as record heatwave set to peak",
+      "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
+      "summary": "A record heatwave in France has caused power outages, affecting approximately 68,000 homes in Brittany. Full electricity restoration is not expected until Wednesday night.",
+      "tags": [
+        "heatwave",
+        "france",
+        "power grid"
+      ],
+      "priority": false
+    },
+    {
+      "id": "51383cbc7fac2a41",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Stanford graduates rethink their futures as AI transforms tech",
+      "url": "https://www.bbc.co.uk/news/articles/c872j82j2qyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Stanford University graduates are re-evaluating their career paths as the rapid advancement of artificial intelligence reshapes the technology sector.",
+      "tags": [
+        "ai",
+        "education",
+        "career"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c0b4ac9b60879678",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Sydney woman wakes from induced coma more than a week after shark attack",
+      "url": "https://www.bbc.co.uk/news/articles/cy8drk2dk3no?at_medium=RSS&at_campaign=rss",
+      "summary": "Leah Stewart, a 34-year-old Sydney woman, woke from an induced coma over a week after a shark attack at Coogee Beach, which resulted in the amputation of one of her arms.",
+      "tags": [
+        "shark attack",
+        "australia",
+        "recovery"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f0d85fd84387a631",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Temperatures hit record levels in western Europe",
+      "url": "https://www.bbc.co.uk/news/videos/c30y6qe2qqno?at_medium=RSS&at_campaign=rss",
+      "summary": "Western Europe, particularly France, Spain, and Italy, is experiencing record-breaking temperatures as a severe heatwave intensifies.",
+      "tags": [
+        "heatwave",
+        "europe",
+        "climate"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b1a2592f26a77839",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
+      "url": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The UN nuclear chief, Rafael Grossi, stated that IAEA inspectors would visit Iranian sites as part of a war deal, though an Iranian minister linked such access to a final agreement with the US.",
+      "tags": [
+        "iran",
+        "nuclear weapons",
+        "international relations"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e0d186fb521c95f5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why are there holiday delay warnings over the EU's new border system?",
+      "url": "https://www.bbc.co.uk/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Warnings of holiday delays are emerging due to the EU's new, delayed Entry/Exit System, which will alter travel procedures for UK passengers entering 29 countries.",
+      "tags": [
+        "travel",
+        "eu",
+        "border control"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bad10e80ac693ed0",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
+      "url": "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf",
+      "summary": "A proposed \"fix\" for MacBook Neo cursor lag involves recording one pixel of the screen every 10 seconds. This unconventional method suggests an underlying issue that requires unusual workarounds.",
+      "tags": [
+        "macbook",
+        "software bug",
+        "workaround"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7a947ef532690655",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice",
+      "url": "https://paolino.me/founding-a-company-in-germany/",
+      "summary": "An article details the arduous process of founding a company in Germany, reporting a cost of €9600 and 152 days with the founder still unable to send an invoice. The article implies significant bureaucratic hurdles.",
+      "tags": [
+        "business",
+        "germany",
+        "bureaucracy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fed162bbca09c8ac",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Qwen-AgentWorld: Language World Models for General Agents",
+      "url": "https://arxiv.org/abs/2606.24597",
+      "summary": "The paper \"Qwen-AgentWorld\" explores the concept of language world models for creating general AI agents. This research focuses on developing agents capable of understanding and interacting with various environments.",
+      "tags": [
+        "ai research",
+        "language models",
+        "agents"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9c7c4c7805efcd84",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
+      "url": "https://gitlab.com/baiyibai/pico-usb-wifi",
+      "summary": "A project demonstrates how to use a Raspberry Pi Pico W microcontroller as a USB Wi-Fi adapter. This provides a compact and flexible solution for adding wireless connectivity via USB.",
+      "tags": [
+        "raspberry pi",
+        "hardware",
+        "diy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3e0ffba96088d131",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Vulnerability reports are not special anymore",
+      "url": "https://words.filippo.io/vuln-reports/",
+      "summary": "An article argues that vulnerability reports have lost their special status, suggesting a shift in how they are perceived or handled.",
+      "tags": [
+        "cybersecurity",
+        "security research",
+        "industry trends"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bf3236d58c86b2e8",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "We're making Bunny DNS free: because a faster internet won't build itself",
+      "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
+      "summary": "Bunny.net announced it is making its Bunny DNS service free, stating the decision is driven by a commitment to a faster internet.",
+      "tags": [
+        "internet",
+        "dns",
+        "web services"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bf4b89b69a2aa551",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "All challenges big and small",
+      "url": "https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/",
+      "summary": "This editor's letter reflects on human ingenuity in overcoming challenges, drawing parallels between the massive reconstruction efforts in Kuwait after the 1991 Gulf War and current scientific and engineering endeavors. It highlights the ambition required to tackle problems ranging from nanoscale chip manufacturing to planetary-scale climate engineering.",
+      "tags": [
+        "engineering",
+        "human ingenuity",
+        "global challenges"
+      ],
+      "priority": false
+    },
+    {
+      "id": "99a12653314de95a",
+      "source": "Noahpinion",
+      "source_type": "substack",
+      "title": "China is winning the other tech race",
+      "url": "https://www.noahpinion.blog/p/china-is-winning-the-other-tech-race",
+      "summary": "This analysis argues that while the U.S. leads in AI, China is dominating in \"electric technology.\" Drawing on historical patterns of great powers mastering key technologies, it suggests China's strides in electric tech represent a significant competitive advantage.",
+      "tags": [
+        "china",
+        "technology",
+        "geopolitical"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2b0b5aad491c7341",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "5 years after the Surfside condo collapse, the toll of the tragedy remains",
+      "url": "https://www.npr.org/2026/06/24/nx-s1-5791536/surfside-condo-collapse-families-responders-five-years-later",
+      "summary": "Five years after the Surfside condominium collapse killed 98 people, Florida marks the enduring impact of one of the largest structural failures in U.S. history.",
+      "tags": [
+        "disaster",
+        "florida",
+        "infrastructure"
+      ],
+      "priority": false
+    },
+    {
+      "id": "47a7f412ff584adc",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Congress passes major housing bill. And, Mamdani-backed candidates sweep NYC primaries",
+      "url": "https://www.npr.org/2026/06/24/g-s1-129769/up-first-newsletter-trump-john-thune-housing-act-new-york-primaries",
+      "summary": "Congress has passed a significant housing affordability bill, while in New York City, all three candidates endorsed by Mayor Zohran Mamdani won their respective primaries.",
+      "tags": [
+        "us politics",
+        "housing",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "836395a1105ed523",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Greetings from sweltering Switzerland",
+      "url": "https://www.npr.org/2026/06/24/nx-s1-5867606/lucerne-switzerland-world-cup-heat",
+      "summary": "Switzerland is experiencing tropical-like temperatures, with soccer fans in Lucerne watching a World Cup match under sweltering conditions.",
+      "tags": [
+        "heatwave",
+        "switzerland",
+        "climate"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5a5bc6970ad049c8",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "IAEA chief says inspectors will visit nuclear sites under Iran-U.S. interim deal",
+      "url": "https://www.npr.org/2026/06/24/g-s1-129770/iran-nuclear-inspection",
+      "summary": "The head of the UN's nuclear agency confirmed that inspectors would visit Iranian nuclear enrichment sites as part of an interim deal between Iran and the U.S. This statement followed conflicting reports from both nations.",
+      "tags": [
+        "iran",
+        "nuclear weapons",
+        "international relations"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8e725f63cba7e2b5",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Political consultant on whether Trump is losing GOP support after war powers vote",
+      "url": "https://www.npr.org/2026/06/24/nx-s1-5867632/political-consultant-on-whether-trump-is-losing-gop-support-after-war-powers-vote",
+      "summary": "A Republican political consultant discussed whether former President Trump is losing support among congressional Republicans following the Senate's vote to limit his war powers concerning Iran.",
+      "tags": [
+        "us politics",
+        "iran",
+        "congress"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b627380ef66f196a",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Star Fox Review: Can't quite teach an old Fox new tricks",
+      "url": "https://www.npr.org/2026/06/24/nx-s1-5868629/star-fox-remake-review-switch-2",
+      "summary": "A review of the Star Fox remake for Switch 2 praises its high-effort visuals and fun battle mode but criticizes its campaign for feeling outdated.",
+      "tags": [
+        "gaming",
+        "review",
+        "nintendo"
+      ],
+      "priority": false
+    },
+    {
+      "id": "84df170517341d6d",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Understanding 'masculinism,' a movement to restore the primacy of men",
+      "url": "https://www.npr.org/2026/06/24/nx-s1-5868665/understanding-masculinism-a-movement-to-restore-the-primacy-of-men",
+      "summary": "Masculinism is defined as a belief system asserting that feminism emasculates men and advocates for men's primacy in society, with women focused on raising children. This movement is reportedly gaining mainstream traction.",
+      "tags": [
+        "social movements",
+        "gender",
+        "feminism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "179b04c6ebd012e1",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Why are crisis pregnancy centers saying they can 'rule out' ectopic pregnancy?",
+      "url": "https://www.npr.org/2026/06/24/nx-s1-5860744/crisis-pregnancy-centers-ectopic-abortion",
+      "summary": "A watchdog group reports that some anti-abortion Christian crisis pregnancy centers are misleading patients by claiming they can \"rule out\" ectopic pregnancies. These centers have received increased federal support under the Trump administration.",
+      "tags": [
+        "healthcare",
+        "abortion",
+        "misinformation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5fb38a0762de42f4",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Will Texas' new top voting official be a 'disruptor'? Locals are preparing for it",
+      "url": "https://www.npr.org/2026/06/24/nx-s1-5866554/texas-secretary-of-state-schatzline",
+      "summary": "Texas is set to appoint a new top voting official, with the frontrunner being a state lawmaker and pastor who lacks election experience. Locals are concerned about potential disruption ahead of closely contested midterms.",
+      "tags": [
+        "texas",
+        "elections",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e796f218c6b2fcd1",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Democratic socialists are coming for 2028",
+      "url": "https://www.politico.com/news/2026/06/24/democratic-socialists-new-york-2028-presidential-00973341",
+      "summary": "Democratic Socialists of America (DSA) leaders are planning to actively back a presidential primary candidate for 2028, following sweeping victories in New York City. They are conducting surveys among their 250 chapters and will hold national discussions to decide on an endorsement.",
+      "tags": [
+        "politics",
+        "democratic socialists",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5ae30ef7f81896fd",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "How Physicists Track and Trap the Elusive Neutrino",
+      "url": "https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/",
+      "summary": "This article recounts the historical \"Project Poltergeist\" from 70 years ago, an experiment by physicists Clyde Cowan and Frederick Reines to detect neutrinos using a custom-built 10-ton detector near a nuclear reactor.",
+      "tags": [
+        "physics",
+        "science",
+        "neutrinos"
+      ],
+      "priority": false
+    },
+    {
+      "id": "23c12b853d9817bf",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "datasette 1.0a35",
+      "url": "https://simonwillison.net/2026/Jun/23/datasette/#atom-everything",
+      "summary": "Datasette 1.0a35 introduces significant updates, including new \"Create table\" and \"Alter table\" interfaces and JSON APIs for database management. It also features improved documentation for template context variables, treating them as a stable API.",
+      "tags": [
+        "datasette",
+        "software update",
+        "databases"
+      ],
+      "priority": false
+    },
+    {
+      "id": "90a37ec3ca051d77",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "OPFS + Pyodide test harness",
+      "url": "https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything",
+      "summary": "A new test harness explores the possibility of Datasette Lite editing persistent SQLite files directly in the browser using OPFS (Origin Private File System) and Pyodide. This aims to enable in-browser data persistence for the Python application.",
+      "tags": [
+        "web development",
+        "databases",
+        "pyodide"
+      ],
+      "priority": false
+    },
+    {
+      "id": "21101c6a2837a378",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund",
+      "url": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
+      "summary": "Menlo Ventures successfully raised a $3 billion fund, solidifying its reputation as an AI investor after a significant $750 million investment in Anthropic in 2024.",
+      "tags": [
+        "venture capital",
+        "ai",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f4f1a4963e5979d3",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+      "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+      "summary": "Anthropic's new Claude Tag feature integrates an always-on AI teammate into Slack, aiming to boost productivity and capture organizational context. This tool is seen as a strategic move to accumulate institutional knowledge and streamline enterprise workflows.",
+      "tags": [
+        "ai",
+        "business software",
+        "collaboration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "203fc30925a0c349",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "How to invest when everything is moving too fast",
+      "url": "https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/",
+      "summary": "A TechCrunch event in Los Angeles featured two prominent AI investors discussing investment strategies in a rapidly evolving technological landscape. The discussion provided both entertainment and insight into current AI investment trends.",
+      "tags": [
+        "investment",
+        "ai",
+        "venture capital"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5826f8d22c2731fa",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "If you want to cut your screen time, just get a Brick",
+      "url": "https://techcrunch.com/2026/06/24/if-you-want-to-cut-your-screen-time-just-get-a-brick/",
+      "summary": "The \"Brick\" is presented as a simple, $59 plastic device designed to help users reduce their screen time. The article suggests it offers a solution for those struggling to curb digital dependency.",
+      "tags": [
+        "digital wellness",
+        "minimalism",
+        "lifestyle"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6c90e90a55e1e3b0",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+      "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+      "summary": "MoEngage, an Indian company, believes the future of marketing lies in utilizing millions of AI agents, acquiring technology that assigns individual AI agents to customers through an all-cash deal.",
+      "tags": [
+        "ai",
+        "marketing",
+        "india"
+      ],
+      "priority": false
+    },
+    {
+      "id": "94b7e489e151f094",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Klue says hackers stole credential from 2022 that led to customer data breaches",
+      "url": "https://techcrunch.com/2026/06/23/klue-says-hackers-stole-credential-from-2022-that-led-to-customer-data-breaches/",
+      "summary": "Klue reported that a credential stolen in 2022 from a limited pilot was later used by hackers to breach a system containing keys for accessing customer data. The company has not clarified why the credential was not revoked.",
+      "tags": [
+        "cybersecurity",
+        "data breach",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7e9c06555862aaac",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Mark Zuckerberg wants Meta to launch its own prediction market",
+      "url": "https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/",
+      "summary": "Mark Zuckerberg reportedly aims for Meta to launch an independent prediction market application. This app would exist separately from Meta's other social media platforms, though those sites could direct users to it.",
+      "tags": [
+        "meta",
+        "social media",
+        "product launch"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1a98978d94f19468",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "summary": "OpenAI has introduced its first custom processor, named Jalapeño, developed in collaboration with Broadcom and specifically tailored for the inference systems of OpenAI's AI models. This ASIC is designed to meet the unique computational demands of advanced AI.",
+      "tags": [
+        "openai",
+        "ai hardware",
+        "semiconductors"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7f4192744bc1534d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Slate Auto’s radically simple electric truck starts at $24,950",
+      "url": "https://techcrunch.com/2026/06/24/slate-autos-radically-simple-electric-truck-starts-at-24950/",
+      "summary": "Slate Auto, backed by Jeff Bezos, has revealed pricing details for its debut electric vehicle, with the pickup variant starting at $24,950 and an SUV variant at $29,950. The base model offers a range of 205 miles.",
+      "tags": [
+        "electric vehicles",
+        "automotive",
+        "startup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dddd035764d48fc6",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Superhuman acquires AI detection startup GPTZero",
+      "url": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/",
+      "summary": "Superhuman has acquired GPTZero, an AI detection startup, further enhancing its capabilities in this area. Superhuman already offers an AI detection tool as part of Grammarly.",
+      "tags": [
+        "ai",
+        "acquisitions",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "612f4e31f5b83199",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "This new tracking label could help solve cargo theft",
+      "url": "https://techcrunch.com/2026/06/24/this-new-tracking-label-could-help-solve-cargo-theft/",
+      "summary": "Samsara has introduced a new tracking label that discreetly incorporates a Bluetooth Low Energy (BLE) system for real-time location tracking in disposable packaging. This innovation aims to combat cargo theft.",
+      "tags": [
+        "logistics",
+        "supply chain",
+        "security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6c4e352e69c352bd",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Valor Equity Partners looks to raise a $2.5B Fund VII, per Bloomberg",
+      "url": "https://techcrunch.com/2026/06/24/valor-equity-partners-looks-to-raise-a-2-5b-fund-vii-per-bloomberg/",
+      "summary": "Valor Equity Partners is reportedly seeking to raise $2.5 billion for its seventh fund, Fund VII, following an earlier announcement last year about raising unspecified capital.",
+      "tags": [
+        "venture capital",
+        "finance",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b0dc1d23f5f45eac",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India",
+      "url": "https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/",
+      "summary": "Walmart-backed Flipkart has expanded its quick-commerce operations by exceeding 1,000 micro-fulfillment centers, intensifying its competition with Amazon in the Indian market.",
+      "tags": [
+        "e-commerce",
+        "india",
+        "retail"
+      ],
+      "priority": false
+    },
+    {
+      "id": "da673d2e5bdd3bfa",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Zoox upgrades its robotaxi as it prepares for commercial service",
+      "url": "https://techcrunch.com/2026/06/24/zoox-upgrades-its-robotaxi-as-it-prepares-for-commercial-service/",
+      "summary": "The new Zoox robotaxi has been upgraded with improved cushioning, lighter interior colors, and enhanced microphone and speaker systems for better communication with support. These changes precede its preparation for commercial service.",
+      "tags": [
+        "autonomous vehicles",
+        "smart mobility",
+        "amazon"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8607b24cda57977a",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Great Americans: Matthew Henson at the North Pole",
+      "url": "https://www.thefp.com/p/great-americans-matthew-henson",
+      "summary": "This article details the controversy surrounding the first person to reach the North Pole in 1909, contrasting Robert Peary's claim with Matthew Henson's account of leading the sledge and arriving first. Henson, Peary's African American assistant, received less recognition during his lifetime.",
+      "tags": [
+        "history",
+        "exploration",
+        "social justice"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2cd3d688355e23bb",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Mamdani’s Socialist Sweep in New York",
+      "url": "https://www.thefp.com/p/new-york-congressional-primaries",
+      "summary": "Leftist candidates backed by New York City Mayor Zohran Mamdani won all their Democratic primaries, strengthening the party's anti-Zionist and defund-the-police wing. These wins, featuring candidates like Darializa Avila Chevalier and Claire Valdez, are seen as part of a \"hostile takeover\" of the Democratic Party.",
+      "tags": [
+        "politics",
+        "democratic socialists",
+        "new york"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c94cf2811201a3b4",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Mr. President, Here’s How to Fix Your Pool",
+      "url": "https://www.thefp.com/p/trump-reflecting-pool-problems",
+      "summary": "The Reflecting Pool in Washington D.C. faced issues of turning green and peeling lining shortly after a rapid renovation announced by President Trump. A pool consultant discusses potential causes and solutions for these problems.",
+      "tags": [
+        "us politics",
+        "infrastructure",
+        "maintenance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "34e60231dcad5cc0",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "This Week in American History: New York’s Underdogs Prepare to Fight",
+      "url": "https://www.thefp.com/p/british-fleet-new-york-1776-washington",
+      "summary": "This historical account details the arrival of the massive British fleet in New York City in June 1776, after the evacuation of Boston, as General George Washington and his Continental Army prepared for an anticipated offensive.",
+      "tags": [
+        "american history",
+        "revolutionary war",
+        "new york"
+      ],
+      "priority": false
+    },
+    {
+      "id": "27e6ad1916de774a",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Why Is the Media Ignoring the Montreal Shooter’s Antisemitism?",
+      "url": "https://www.thefp.com/p/canada-antisemitism-montreal-shooting",
+      "summary": "This article questions why media coverage is overlooking the antisemitic aspects of recent attacks in Canada, including one in Montreal's Jewish community that killed a police officer and a Jewish civilian. It notes heightened tensions amid a \"crisis of antisemitism\" in Canada.",
+      "tags": [
+        "antisemitism",
+        "canada",
+        "media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cfb54237380e984c",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "Diatoms and the Meaning of Life",
+      "url": "https://www.themarginalian.org/2026/06/24/diatom-atlas-adolf-schmidt/",
+      "summary": "This article explores the delicate beauty and vital ecological role of diatoms, unicellular algae that produce nearly half of Earth's oxygen and form the base of the planet's biomass. It highlights the work of naturalist Adolf Schmidt's \"Diatom Atlas,\" which chronicled these microscopic wonders.",
+      "tags": [
+        "biology",
+        "science",
+        "nature"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1f10daac40ad01e7",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "8BitDo’s all-button controller gets a screen upgrade for customizations without an app",
+      "url": "https://www.theverge.com/tech/954894/8bitdo-arcade-controller-pro-leverless-hitbox-wireless-switch-bluetooth",
+      "summary": "8BitDo has released a new Arcade Controller Pro, which is thinner and includes a small screen for on-device button mapping and settings customization. This leverless design replaces joysticks with buttons for improved precision.",
+      "tags": [
+        "gaming",
+        "hardware",
+        "accessories"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6379e19db4600ffc",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "OpenAI reveals its first AI processor: Jalapeño",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
+      "summary": "OpenAI has partnered with Broadcom to create its first \"intelligence processor\" chip, named Jalapeño, designed as an Application-Specific Integrated Circuit (ASIC) for AI inference. This chip aims to power current and future large language models.",
+      "tags": [
+        "openai",
+        "ai hardware",
+        "semiconductors"
+      ],
+      "priority": false
+    },
+    {
+      "id": "27dca0c62ed9131f",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Zoox&#8217;s purpose-built robotaxi is getting a refresh",
+      "url": "https://www.theverge.com/transportation/955822/zoox-robotaxi-refresh-updates-seats-audio-color",
+      "summary": "Zoox, an Amazon-owned autonomous vehicle company, has revealed a refreshed design for its bidirectional robotaxi, intended for mass production. The company is seeking federal approval to operate these vehicles without traditional controls as it expands its free robotaxi service.",
+      "tags": [
+        "autonomous vehicles",
+        "smart mobility",
+        "amazon"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 106,
+    "summarized": 72,
+    "skipped_promos": 6,
+    "filtered_by_rules": 28,
+    "sources": 14,
+    "email_items_omitted": 0
+  }
+}
