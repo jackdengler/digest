@@ -1,0 +1,1226 @@
+{
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T16:20:13+00:00",
+  "hot_topics": [
+    {
+      "topic": "US bans Polestar EVs over Chinese ties",
+      "synthesis": "The US Commerce Department has banned the import of new Polestar electric vehicles from model year 2027 onward, citing the company's Chinese links as part of a rule against connected cars from Chinese automakers. This decision prevents future Polestar models from being sold in the US, despite its former parent company Volvo receiving authorization. Both Ars Technica and TechCrunch reports confirm this action by the Trump administration.",
+      "item_ids": [
+        "88e3d62ef864cf30",
+        "12b112c2cfad690f"
+      ]
+    },
+    {
+      "topic": "Apple increases Mac and iPad prices due to memory chip costs",
+      "synthesis": "Apple has raised prices across much of its Mac and iPad product lineup, attributing the increases to the rising cost of memory chips. While iPhones are spared for now, consumers are advised to take advantage of existing Prime Day discounts before all retail prices reflect these hikes. The price adjustments impact various models, making current sales even more significant.",
+      "item_ids": [
+        "57fc3adb010d6759",
+        "bd36888ae801b19a",
+        "69138a19dfe78384"
+      ]
+    },
+    {
+      "topic": "IBM announces breakthrough sub-1 nanometer chip design",
+      "synthesis": "IBM has announced a significant advancement in chip technology, claiming the world's first sub-1 nanometer chip design, which it calls 'nanostack' or 'block of flats.' This innovation promises nearly double the transistor density, enabling significantly more powerful and energy-efficient AI data center chips. While a major breakthrough, the technology is still some time away from production.",
+      "item_ids": [
+        "b293602834846c8f",
+        "960d5627b784e244"
+      ]
+    },
+    {
+      "topic": "OpenAI and Broadcom unveil custom AI inference chip",
+      "synthesis": "OpenAI and Broadcom have collaborated to announce Jalapeño, their first custom chip specifically designed for large language model inference at scale in data centers. This partnership aims to optimize hardware for AI operations, marking the initial phase of a long-term development project for specialized AI silicon.",
+      "item_ids": [
+        "c7ea7d0b05dc5d63",
+        "c8116c24bed7966b"
+      ]
+    },
+    {
+      "topic": "Slate Auto's minimalist EV truck garners attention",
+      "synthesis": "Startup Slate Auto has launched an ultra-minimalist electric pickup truck, priced under $25,000, which has generated considerable buzz for its 'underpromise, overdeliver' strategy. The company has already exceeded initial specifications for range and towing, and aims to offer an affordable EV by stripping away non-essential features, raising questions about consumer reception to such extreme simplification.",
+      "item_ids": [
+        "01f348a4475bfe27",
+        "09b90e957dbaff6a"
+      ]
+    },
+    {
+      "topic": "Devastating earthquakes strike Venezuela, causing panic and deaths",
+      "synthesis": "Venezuela has been hit by two major earthquakes, causing widespread panic, flattening buildings in Caracas, and resulting in at least 164 deaths and hundreds of injuries. The disaster is a significant blow to a country already facing political and economic uncertainty. Videos captured the moments of impact, showing frantic evacuations and the immediate aftermath.",
+      "item_ids": [
+        "4aa9a961cb8b4180",
+        "8ad16538bc9b2588",
+        "4db97a2a1af1f0a9",
+        "77568e5b2ae688d9"
+      ]
+    },
+    {
+      "topic": "Anthropic alleges Alibaba illicitly extracted Claude AI model capabilities",
+      "synthesis": "AI firm Anthropic has accused its Chinese rival Alibaba of illicitly extracting capabilities and data from its Claude AI model. Anthropic alleges that Alibaba used fraudulent accounts to gain unauthorized access, raising significant concerns about intellectual property theft in the competitive AI industry.",
+      "item_ids": [
+        "73f975532b93b588",
+        "0a22ab2e0eaed188"
+      ]
+    },
+    {
+      "topic": "Trump administration faces challenges and controversy over policy decisions",
+      "synthesis": "The Trump administration is navigating several contentious policy issues, including a request for billions for the Iran war that faces Republican opposition. Federal judges have blocked parts of Trump's order to limit voting by mail, and he unilaterally canceled the signing of a major bipartisan housing bill, effectively holding it hostage. These actions highlight ongoing political and legal battles surrounding the administration's agenda.",
+      "item_ids": [
+        "08cf05c578f97dfa",
+        "1ef02d5e05a1e91b",
+        "77568e5b2ae688d9",
+        "079f78c61c821595"
+      ]
+    },
+    {
+      "topic": "Supreme Court expands government's power over immigration and asylum",
+      "synthesis": "The Supreme Court has issued rulings that expand the government's authority over immigration, affirming the president's unreviewable power to end Temporary Protected Status programs, allowing deportations of Syrian and Haitian TPS holders. Additionally, the court ruled that federal law permits the US to prevent asylum seekers from physically entering the country, effectively blocking their ability to apply for asylum. These decisions significantly impact immigration policy and rights.",
+      "item_ids": [
+        "e078e6213fa26b85",
+        "98a2718a68466360"
+      ]
+    },
+    {
+      "topic": "Progressives achieve significant primary victories, alarming centrist Democrats",
+      "synthesis": "Progressive candidates have secured a series of major victories in Democratic primaries, particularly in New York, where Democratic Socialists of America-backed candidates swept crucial races. This winning streak has alarmed moderate Democrats who fear losing the party's ideological direction and jeopardizing general election chances. The debate now focuses on whether these progressive gains will reshape the Democratic Party or create vulnerabilities in swing states.",
+      "item_ids": [
+        "1d6bdf3afa69e10b",
+        "a5c620444f114ee2",
+        "fab5a9f3e11115cf",
+        "972b1adb8cd09ebb"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "35544a557c876dfa",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Who are the fire-tamers?",
+      "url": "https://aeon.co/essays/who-are-the-fire-taming-healers-of-modern-france",
+      "summary": "This article explores the hidden world of \"fire-tamers\" in modern France, healers who practice in parallel with conventional medicine from farmhouses to oncology clinics. Their secret methods offer an alternative approach to healing.",
+      "tags": [
+        "france",
+        "healing",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "57fc3adb010d6759",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Apple ratchets up prices, blames the cost of memory",
+      "url": "https://arstechnica.com/apple/2026/06/apple-ratchets-up-prices-blames-the-cost-of-memory/",
+      "summary": "Apple bumped its prices across much of its product lineup today, in some cases adding hundreds of dollars to the cost of a new Macintosh. An entry-level MacBook Neo that cost $599 is now $699. The formerly $1,299 iMac will now be a $1,499 iMac. An M5 MacBook Pro that was $1,699 i…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "ef9b0ea96ac08124",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Disney agreed to $50M settlement over claims it made live-TV streaming expensive",
+      "url": "https://arstechnica.com/tech-policy/2026/06/disney-agreed-to-50m-settlement-over-claims-it-made-live-tv-streaming-expensive/",
+      "summary": "Disney settled a lawsuit for $50 million with YouTube TV and DirecTV subscribers who claimed the company forced price increases for live-TV streaming. The class-action complaint alleged Disney used anticompetitive agreements, mandating ESPN's inclusion in base packages.",
+      "tags": [
+        "media",
+        "streaming",
+        "antitrust"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42fdfdef91623e8c",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Elon Musk denies Tesla’s Autopilot caused crash that killed grandmother",
+      "url": "https://arstechnica.com/tech-policy/2026/06/elon-musk-denies-teslas-autopilot-caused-crash-that-killed-grandmother/",
+      "summary": "Following a fatal crash where a Tesla Model 3 struck a home, killing a grandmother, the family is suing Tesla and the driver, who claims Autopilot was active. Elon Musk denies Autopilot's involvement, and police are still investigating the use of the automated driver-assist feature.",
+      "tags": [
+        "tesla",
+        "autopilot",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a7a37628afb21c1f",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Every Homo naledi we know of is female, and the implications are fascinating",
+      "url": "https://arstechnica.com/science/2026/06/every-homo-naledi-we-know-of-is-female-and-the-implications-are-fascinating/",
+      "summary": "All Homo naledi skeletons found in South Africa's Rising Star Cave are confirmed to be female, based on proteins in their dental enamel. This discovery offers a significant new piece of evidence in the ongoing debate about how these ancient hominins' remains came to be in the caves.",
+      "tags": [
+        "archaeology",
+        "science",
+        "paleontology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a0d15635d4966183",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "FCC plans ID mandate that could block anonymous use of prepaid burner phones",
+      "url": "https://arstechnica.com/tech-policy/2026/06/fcc-plans-id-mandate-that-could-block-anonymous-use-of-prepaid-burner-phones/",
+      "summary": "A Federal Communications Commission proposal to collect more identifying information from phone users has drawn protests from privacy-focused groups and advocates for domestic violence survivors. The plan is ostensibly designed to thwart robocallers but could make it difficult fo…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "88e3d62ef864cf30",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Feds deny Polestar authorization to sell cars in US from model year 2027",
+      "url": "https://arstechnica.com/cars/2026/06/feds-deny-polestar-authorization-to-sell-cars-in-us-from-model-year-2027/",
+      "summary": "The electric car brand Polestar's days in the US are seriously numbered. Today, the company revealed that the US Commerce Department has declined to authorize imports of new Polestars from model year 2027 onward as part of a rule\nbanning connected cars\nfrom automakers with Chines…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "7b116b1044e5784e",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Formula E reveals first calendar for GEN4 with lots of real race tracks",
+      "url": "https://arstechnica.com/cars/2026/06/formula-e-reveals-first-calendar-for-gen4-with-lots-of-real-race-tracks/",
+      "summary": "Formula E unveiled its 2026–2027 season 12 calendar, incorporating many traditional race tracks like Circuit of the Americas for its new, more powerful GEN4 car. The 21-race lineup across 13 cities reflects the higher speeds the upgraded electric vehicles will achieve.",
+      "tags": [
+        "motorsports",
+        "ev",
+        "sports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bf0cd994e3094598",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Google starts lowering Play Store fees, making good on Epic Games settlement",
+      "url": "https://arstechnica.com/google/2026/06/google-starts-lowering-play-store-fees-making-good-on-epic-games-settlement/",
+      "summary": "Google is beginning to reduce Play Store developer fees and introduce new payment options, fulfilling its settlement agreement with Epic Games. This change follows a legal dispute where Epic alleged Google's app store policies were anticompetitive.",
+      "tags": [
+        "google",
+        "play store",
+        "app store"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f82cbc9c37589385",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Hotly anticipated Grand Theft Auto VI will cost more than other AAA games",
+      "url": "https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-without-a-physical-disc/",
+      "summary": "The highly anticipated Grand Theft Auto VI will launch at an $80 price point, exceeding the current $70 standard for AAA games. Furthermore, its physical release will consist solely of a download code, rather than a physical disc.",
+      "tags": [
+        "gaming",
+        "pricing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b293602834846c8f",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "IBM claims world’s first sub-1 nanometer chip technology",
+      "url": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
+      "summary": "A new chip architecture from IBM can integrate nearly 100 billion transistors on a chip the size of a human fingernail—nearly twice the transistor density of the company’s previous generation of chip technology. The resulting improvement in chip compute performance and energy eff…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "0e553d05a154b5e8",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "One-two punch delivered in global operation disrupts cybercrime \"assembly line\"",
+      "url": "https://arstechnica.com/security/2026/06/one-two-punch-delivered-in-global-operation-disrupts-cybercrime-assembly-line/",
+      "summary": "A global operation by international authorities and private tech companies disrupted a cybercrime 'assembly line' by simultaneously targeting the Amadey and StealC malware platforms. This action thwarted the collection of millions of login credentials and the theft of over $47 million.",
+      "tags": [
+        "cybersecurity",
+        "malware",
+        "law enforcement"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c7ea7d0b05dc5d63",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
+      "url": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/",
+      "summary": "OpenAI, the company behind ChatGPT and Codex and the models those tools use, and Broadcom, an established silicon supplier, have\nannounced\na new chip, called Jalapeño, designed specifically for large language model inference in data centers.\nThe companies intend to deploy the chi…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "01f348a4475bfe27",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Underpromise, overdeliver? Hands-on with the $24,950 Slate auto.",
+      "url": "https://arstechnica.com/features/2026/06/we-take-a-ride-in-slates-24950-electric-pickup/",
+      "summary": "Slate provided flights from San Francisco to Los Angeles and accommodation so Ars could ride in the Slate truck. Ars does not accept paid editorial content.\nLOS ANGELES—Slate Auto has pulled a Disneyland. Let me explain.\nAt Disneyland, if a sign for a ride says the wait is 45 min…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "4aa9a961cb8b4180",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'I thought I was going to die' - Venezuelans describe earthquake panic",
+      "url": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss",
+      "summary": "Buildings were flattened in the capital Caracas, where voices have been heard calling from the rubble.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "0a22ab2e0eaed188",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
+      "url": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "8ad16538bc9b2588",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
+      "url": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "6dd250082ebb1f0c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests",
+      "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Families in Kenya laid flowers on a barbed wire barricade to commemorate the anniversary of deadly protests, demanding justice for dozens killed during demonstrations in 2024 and the preceding year. The somber event underscored ongoing calls for accountability.",
+      "tags": [
+        "kenya",
+        "protests",
+        "human rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3417a79bf9443dc9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Find out which university degrees could earn you most across your lifetime",
+      "url": "https://www.bbc.co.uk/news/articles/c892dv0qy2jo?at_medium=RSS&at_campaign=rss",
+      "summary": "New data reveals which university degrees offer the highest and lowest financial returns over an individual's lifetime. This analysis provides insights into the long-term earning potential associated with different academic paths.",
+      "tags": [
+        "education",
+        "finance",
+        "careers"
+      ],
+      "priority": false
+    },
+    {
+      "id": "422b36b85a0e6b70",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How to cope in a heatwave - according to you",
+      "url": "https://www.bbc.co.uk/news/articles/cze9w9xnprno?at_medium=RSS&at_campaign=rss",
+      "summary": "This article compiles reader-submitted tips for managing a heatwave, covering advice from appropriate clothing to achieving restful sleep. It offers practical suggestions for staying cool during hot weather.",
+      "tags": [
+        "health",
+        "weather",
+        "lifestyle"
+      ],
+      "priority": false
+    },
+    {
+      "id": "960d5627b784e244",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
+      "url": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
+      "summary": "IBM says it has created the world's first known chip tech below 1 nanometre - but it will be some time before it's ready for production.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c0cf7a456964d606",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Independent MPs launch new Australian centrist party",
+      "url": "https://www.bbc.co.uk/news/articles/ckg76mgz0m1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Independent Australian MPs Zali Steggall and Allegra Spender have formed a new centrist party, Community Strong Australia, aiming to promote \"reason over rage\" in national politics. This initiative seeks to offer a balanced alternative to existing political discourse.",
+      "tags": [
+        "australia",
+        "politics",
+        "new party"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7313ea0a54d7dd9b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Key figure in South Africa police corruption scandal pleads guilty",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j4g5k52jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Vusimusi \"Cat\" Matlala, a central figure in South Africa's police corruption scandal, has pleaded guilty and is expected to provide evidence against high-ranking officials. His cooperation could lead to further revelations in the widespread corruption probe.",
+      "tags": [
+        "south africa",
+        "corruption",
+        "justice"
+      ],
+      "priority": false
+    },
+    {
+      "id": "41d3898bd95f0a41",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Oil price falls back to pre-Iran war levels",
+      "url": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Oil prices have fallen back to their levels before the Iran war, a decrease largely influenced by signs of traffic gradually resuming through the crucial Strait of Hormuz shipping route. This indicates a stabilization in the global oil market.",
+      "tags": [
+        "oil prices",
+        "iran",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d15c50433c0a8916",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Philippines bans video game played by alleged high school shooter",
+      "url": "https://www.bbc.co.uk/news/articles/c14y7738nm8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Philippines has banned a video game linked to an alleged high school shooter, following a rare school shooting that left three students dead and 20 injured. This action comes amid national shock over the incident.",
+      "tags": [
+        "gaming",
+        "policy",
+        "philippines"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7e48b66e0aeb54c6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
+      "url": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ryanair announced it will reluctantly cease charging parents an £8 fee to sit next to their young children on flights. This policy change reverses a previous practice of charging per-way for family seating.",
+      "tags": [
+        "airlines",
+        "consumer policy",
+        "travel"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bb8fb2c0152feb00",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "The ICE raids are over, but some Minnesotans say they still live in fear",
+      "url": "https://www.bbc.co.uk/news/articles/c0eyww7280xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Despite the official end of the Trump administration's immigration crackdown, many Minnesotans, especially immigrants, continue to live in fear. The psychological and social impact of the past ICE raids persists in communities like Minneapolis.",
+      "tags": [
+        "immigration",
+        "us politics",
+        "social impact"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b30b5db62a5cdfe6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "The woman who fought for Pakistan's disappeared men now faces life in jail",
+      "url": "https://www.bbc.co.uk/news/articles/c0ry07x87kvo?at_medium=RSS&at_campaign=rss",
+      "summary": "A Nobel Peace Prize nominee, known for advocating for Pakistan's disappeared men in Balochistan, is now facing a potential life sentence in jail. Her long-standing human rights activism has put her at severe personal risk.",
+      "tags": [
+        "pakistan",
+        "human rights",
+        "activism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bfe4c6291d41a38f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "This Indian state is trying to ensure no one grows old alone",
+      "url": "https://www.bbc.co.uk/news/articles/cg74dj4xev5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Indian state of Kerala is developing new strategies to ensure its aging population does not grow old alone, particularly as migration leads to more elderly living in isolation. These efforts focus on enhancing care and support for seniors.",
+      "tags": [
+        "india",
+        "elderly care",
+        "social policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "08cf05c578f97dfa",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump asks Congress for billions for Iran war, after tension with Republicans",
+      "url": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
+      "summary": "But the budget faces an uphill battle as the president spars with some members of his own party over the issue.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "4db97a2a1af1f0a9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Moment earthquakes hit airport and buildings in Caracas",
+      "url": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Video filmed by BBC reporters, contributors and locals shows the aftermath, as frantic residents evacuate.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "73f975532b93b588",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+      "summary": "Article URL:\nhttps://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/\nComments URL:\nhttps://news.ycombinator.com/item?id=48664814\nPoints: 659\n# Comments: 1079",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "30a70be90182a30f",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Blogging can just be stating the obvious",
+      "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+      "summary": "This article posits that blogging can be effective by merely stating the obvious, suggesting that clarity and directness can be valuable even without groundbreaking revelations. It challenges the notion that every blog post needs to offer novel insights.",
+      "tags": [
+        "blogging",
+        "writing",
+        "philosophy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "32eec348a2186f6c",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Cloudflare launched self-managed OAuth for all",
+      "url": "https://blog.cloudflare.com/oauth-for-all/",
+      "summary": "Cloudflare has rolled out self-managed OAuth functionality, making it available to all users. This new feature provides greater control and flexibility over authentication processes.",
+      "tags": [
+        "cloudflare",
+        "security",
+        "web services"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8b7de8bad6c93849",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Ford rehires 350 engineers after AI fails to preserve expertise or train juniors",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+      "summary": "Ford has rehired 350 quality inspectors because artificial intelligence systems proved insufficient at preserving expertise or training junior employees. This decision highlights a limitation of current AI applications in retaining specialized human knowledge.",
+      "tags": [
+        "ai",
+        "manufacturing",
+        "employment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "54275670961abc9a",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Half-Life 2 in a Browser",
+      "url": "https://hl2.slqnt.dev/",
+      "summary": "The popular video game Half-Life 2 has been successfully ported to run within a web browser, offering a new way to access the classic title. This achievement demonstrates advancements in web-based gaming technology.",
+      "tags": [
+        "gaming",
+        "web development",
+        "porting"
+      ],
+      "priority": false
+    },
+    {
+      "id": "258e6efc676bfa93",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "LastPass notifies users of yet another data breach",
+      "url": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
+      "summary": "LastPass has issued another notification to its users regarding a new data breach. This marks a recurring security incident for the password management service.",
+      "tags": [
+        "cybersecurity",
+        "data breach",
+        "lastpass"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2bf98f56d80337d1",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "LuaJIT 3.0 proposed syntax extensions",
+      "url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
+      "summary": "Proposed syntax extensions for LuaJIT 3.0 are currently under discussion, outlining potential new features and changes for the Just-In-Time compiler. These proposals aim to enhance the language's capabilities and expressiveness.",
+      "tags": [
+        "programming",
+        "luajit",
+        "software development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c8116c24bed7966b",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "summary": "Announcement:\nhttps://openai.com/index/openai-broadcom-jalapeno-inference-...\nhttps://decrypt.co/371971/openai-broadcom-jalapeno-first-cus...\nhttps://www.cnn.com/2026/06/24/tech/openai-broadcom-jalapeno...\nComments URL:\nhttps://news.ycombinator.com/item?id=48663324\nPoints: 776\n#…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "9405efae9ede92fb",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "url": "https://rubyllm.com/",
+      "summary": "RubyLLM is a new Ruby framework designed to integrate with all major AI providers, simplifying the development of AI-powered applications in Ruby. This framework aims to offer a unified interface for various large language models.",
+      "tags": [
+        "programming",
+        "ai",
+        "framework"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f46d6e246ad5b271",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
+      "url": "https://hackernewstrends.com",
+      "summary": "A new tool, \"Google Trends for Hacker News,\" has been created by indexing 18 years of comments to show popular topics over time. This project aims to provide insights into historical trends within the Hacker News community.",
+      "tags": [
+        "data analysis",
+        "hacker news",
+        "tool"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5da7f9951e6f8bb8",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
+      "url": "https://utaw.tech/news/wikipedia-recognition",
+      "summary": "Wikipedia workers in Britain are pursuing union recognition, an unprecedented move globally for the online encyclopedia's workforce. This effort aims to establish collective bargaining rights for employees in the UK.",
+      "tags": [
+        "labor",
+        "wikipedia",
+        "union"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3d8883de7784de17",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "Repositioning retail for the AI era",
+      "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+      "summary": "Artificial intelligence is fundamentally transforming retail by embedding \"AI-first\" approaches into core operational systems rather than just adding superficial features. Macy's, for instance, is using AI to accelerate decision-making, optimize supply chains, and create more personalized customer experiences.",
+      "tags": [
+        "retail",
+        "ai",
+        "business strategy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f39599d948533d3c",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "'They can kill you': Immigrants fear a surge in xenophobic violence in South Africa",
+      "url": "https://www.npr.org/2026/06/25/nx-s1-5866241/they-can-kill-you-immigrants-fear-a-surge-in-xenophobic-violence-in-south-africa",
+      "summary": "Immigrants in South Africa are increasingly fearful of xenophobic violence, evidenced by attacks on foreign-owned businesses and migrant deaths. A prominent xenophobic group has given undocumented immigrants until June 30 to leave the country.",
+      "tags": [
+        "south africa",
+        "xenophobia",
+        "immigration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "77568e5b2ae688d9",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "2 earthquakes in Venezuela kill at least 164. And, Trump cancels housing bill signing",
+      "url": "https://www.npr.org/2026/06/25/g-s1-130184/up-first-newsletter-venezuela-earthquakes-trump-senate-tensions-chris-donahue",
+      "summary": "Two major earthquakes in Venezuela have killed at least 164 people and left hundreds injured. And, President Trump canceled the signing of a massive bipartisan housing bill yesterday.\n(Image credit: Manaure Quintero)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "1ef02d5e05a1e91b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "A federal judge in Boston has blocked parts of Trump's order to limit voting by mail",
+      "url": "https://www.npr.org/2026/06/25/nx-s1-5844576/trump-mail-in-voting-order",
+      "summary": "A federal judge in Boston has blocked parts of President Trump's executive order to limit voting by mail. The Trump administration is expected to appeal the ruling.\n(Image credit: Alex Wong)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "09ee68c80b47fb4f",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Supreme Court bars 'vampire rules' on gun ownership",
+      "url": "https://www.npr.org/2026/06/25/nx-s1-5835228/supreme-court-hawaii-gun-law",
+      "summary": "In a 6-3 ideologically divided decision, the Supreme Court struck down \"vampire rules\" that required advance permission for gun ownership, ruling them an undue burden. This decision upholds the right to possess and carry a firearm without such restrictive prerequisites.",
+      "tags": [
+        "supreme court",
+        "gun control",
+        "second amendment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e078e6213fa26b85",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Supreme Court says U.S. can turn away asylum seekers at the border",
+      "url": "https://www.npr.org/2026/06/25/nx-s1-5838860/supreme-court-asylum-policy",
+      "summary": "By a 6 to 3 vote, the high court ruled that that federal law allows the government to stop asylum seekers from physically setting foot in the United States, effectively keeping them from applying for asylum.\n(Image credit: Drew Angerer)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c48b1cb21af9e29b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "The Viking chant that became Norway's World Cup rallying cry",
+      "url": "https://www.npr.org/2026/06/25/nx-s1-5866742/world-cup-norway-soccer-viking-row",
+      "summary": "Norway's return to the World Cup is being energized by a viral Viking \"rowing\" chant that has gained international attention, from Times Square to Norway's parliament. This rallying cry has become a significant part of the team's anticipated performance.",
+      "tags": [
+        "sports",
+        "norway",
+        "world cup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "98a2718a68466360",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump can begin deportations of Syrian, Haitian TPS holders, Supreme Court says",
+      "url": "https://www.npr.org/2026/06/25/nx-s1-5844292/supreme-court-syrian-haitian-tps",
+      "summary": "Writing for the court majority, Justice Samuel Alito that under the TPS law, the president has unreviewable authority to end the program, without intervention from the courts.\n(Image credit: Mandel Ngan)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "7f3e6ab32097eb99",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "U.S. Supreme Court backs Monsanto in its fight against liability from popular weed killer",
+      "url": "https://www.npr.org/2026/06/25/g-s1-120233/supreme-court-monsanto-roundup-decision",
+      "summary": "The U.S. Supreme Court supported Monsanto in a case concerning liability from its Roundup weed killer, addressing whether federal law preempts state claims about pesticide labeling. This decision clarifies the legal framework for product labeling and corporate responsibility.",
+      "tags": [
+        "supreme court",
+        "monsanto",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1d6bdf3afa69e10b",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Centrist Democrats are freaking out about progressives’ winning streak",
+      "url": "https://www.politico.com/news/2026/06/25/progressive-moderate-democratic-party-battlegrounds-00975000",
+      "summary": "Moderate Democrats are sounding the alarm after massive losses in New York's primaries. They fear they’re on the verge of losing the party’s ideological civil war — and hurting its electoral chances.\nLeftist candidates swept a trio of deep-blue House seats in New York City, a sei…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f3008f4ef607c7c7",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "What Is the Positive Grassmannian and Why Does It Show Up Everywhere?",
+      "url": "https://www.quantamagazine.org/what-is-the-positive-grassmannian-and-why-does-it-show-up-everywhere-20260625/",
+      "summary": "The positive Grassmannian is a mathematical concept that surprisingly connects disparate phenomena like traffic flow, shallow-water waves, and quantum particle scattering. This \"shape that classifies other shapes\" offers a unifying framework for understanding diverse physical models.",
+      "tags": [
+        "mathematics",
+        "physics",
+        "science"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3716b6a653d4e523",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Tom MacWright",
+      "url": "https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything",
+      "summary": "Tom MacWright highlights a growing trend of job applications, portfolios, and even GitHub projects being entirely generated by Large Language Models, leading to a concern about candidate authenticity. He notes that such \"perfected, generated\" content reveals nothing personal about the individual, beyond their use of AI tools.",
+      "tags": [
+        "ai",
+        "careers",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5e41da24320bf95b",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "simonw/browser-compat-db",
+      "url": "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything",
+      "summary": "Simon Willison developed a tool to convert Mozilla's extensive browser compatibility data into a SQLite database, which is hosted on GitHub and accessible via open CORS headers. The conversion script and GitHub Actions workflow used for this project were generated with AI assistance.",
+      "tags": [
+        "web development",
+        "data",
+        "ai-assisted programming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "079f78c61c821595",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Congress passed the biggest housing bill in a generation. Trump is holding it hostage.",
+      "url": "https://www.slowboring.com/p/congress-passed-the-biggest-housing",
+      "summary": "Senate Majority Leader John Thune watches as President Donald Trump speaks to the media as the two arrive at the U.S. Capitol on Wednesday. Trump is visiting Capitol Hill to push his SAVE America Act. (Photo by\nKevin Dietsch\nvia Getty Images)\nPresident Donald Trump Wednesday morn…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "aec60a5e778d6230",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Ranking Joe Biden’s mistakes",
+      "url": "https://www.slowboring.com/p/ranking-joe-bidens-mistakes",
+      "summary": "This piece critically ranks perceived mistakes from Joe Biden's presidency, with the author defending decisions like his second-term bid and Israel-Palestine policy. It encourages Democrats to move past superficial consensus to genuinely assess the previous administration's substantive failures.",
+      "tags": [
+        "us politics",
+        "joe biden",
+        "presidency"
+      ],
+      "priority": false
+    },
+    {
+      "id": "972b1adb8cd09ebb",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "The narrow path to saving the republic",
+      "url": "https://www.slowboring.com/p/the-narrow-path-to-saving-the-republic",
+      "summary": "An American flag waves against a blue sky. (Photo by\nGrace Cary\nvia Getty Images)\nNot to be melodramatic, but I really believe the future of American democracy has been hanging in the balance the past few years.\nJanuary 6, as it played out, was more farce than tragedy. But normal…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "cf67d64d0fe86933",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
+      "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
+      "summary": "Adobe acquired Topaz Labs, a developer of image and video enhancement tools, with plans to integrate their technologies into its suite of applications. This acquisition aims to bolster Adobe's capabilities in media editing.",
+      "tags": [
+        "adobe",
+        "acquisition",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bd4c682efaeb7a2a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "AI researchers continue to leave Google for its rivals",
+      "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+      "summary": "Google continues to lose top AI researchers, with Jonas Adler and Alexander Pritzel recently departing for Anthropic, adding to a series of high-profile exits. This ongoing trend suggests a significant brain drain of AI talent from the company to its competitors.",
+      "tags": [
+        "ai",
+        "google",
+        "talent"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ec59d0a8831a354a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+      "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+      "summary": "Contrary to predictions of AI eliminating engineering jobs, new data from SignalFire indicates that engineers constitute a growing portion of new hires. This suggests that engineering roles are proving remarkably resilient amidst advancements in artificial intelligence.",
+      "tags": [
+        "ai",
+        "jobs",
+        "engineering"
+      ],
+      "priority": false
+    },
+    {
+      "id": "51dd962235d0a2bf",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+      "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+      "summary": "Amazon announced a new $13 billion investment in AI infrastructure within India, signaling an increased commitment to the region. This strategic move aligns with other global tech companies' efforts to expand their AI capabilities in India.",
+      "tags": [
+        "amazon",
+        "ai",
+        "investment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "69138a19dfe78384",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apple raises Mac and iPad prices, spares iPhone for now",
+      "url": "https://techcrunch.com/2026/06/25/apple-raises-mac-and-ipad-prices-spares-iphone-for-now/",
+      "summary": "Apple raises prices of MacBook Air and Pro along with iPad Air and Pro.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "61b8936d41559f51",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+      "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+      "summary": "Cerebras stock plunged after its first public earnings report, which included a forecast for a narrower gross margin in its core business. The CEO attributed the investor reaction to a misunderstanding of the margin outlook.",
+      "tags": [
+        "ai chips",
+        "stock market",
+        "earnings"
+      ],
+      "priority": false
+    },
+    {
+      "id": "744b6874ba0affa9",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+      "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+      "summary": "Companies are beginning to ration AI budget tokens to prevent employees from excessively using AI tools for minor tasks, ending a brief \"tokenmaxxing\" period. This indicates a new phase of cost management and controlled AI usage within organizations.",
+      "tags": [
+        "ai",
+        "business",
+        "cost management"
+      ],
+      "priority": false
+    },
+    {
+      "id": "75c13a3038897312",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Elon suffers another day short of trillionaire status",
+      "url": "https://techcrunch.com/2026/06/24/elon-suffers-another-day-short-of-trillionaire-status/",
+      "summary": "Elon Musk remains a multi-hundred-billionaire, as per Bloomberg's Billionaires Index, but has not yet reached trillionaire status. The article humorously points out this continued high wealth, just short of the next major milestone.",
+      "tags": [
+        "elon musk",
+        "wealth",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "64cc38fb87553d12",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Europe is pushing back on Washington’s chip war",
+      "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
+      "summary": "Europe is resisting Washington's \"chip war\" policies, particularly regarding further restrictions on selling older-generation deep ultraviolet chip tools to China. ASML's CEO highlighted that such tools, already a decade old, would be prohibited under the proposed MATCH Act.",
+      "tags": [
+        "geopolitics",
+        "chips",
+        "trade"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f76d2595cb582f6a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+      "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+      "summary": "Vishal Sikka, ex-Infosys chief, has launched a new startup backed by Mayfield and Aramco Ventures, aiming to disrupt the IT services sector. His new venture brings together experienced professionals from SAP, Infosys, and VianAI.",
+      "tags": [
+        "startup",
+        "it services",
+        "infosys"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c84fcbcdc7492402",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "From Fortnite to robots: General Intuition raises $2.3B on bet that video games can train AI agents for the real world",
+      "url": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "summary": "General Intuition raised $320 million based on its hypothesis that AI agents can develop human-like intuition for real-world tasks by being trained on millions of hours of video game gameplay data. The company aims to scale this AI training approach.",
+      "tags": [
+        "ai",
+        "gaming",
+        "robotics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "313631839086f6de",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Google Finance gets a dedicated app for Android",
+      "url": "https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android/",
+      "summary": "Google Finance has introduced a dedicated Android app, offering users watchlists, real-time market data, live financial news, and an AI-powered \"Key Moments\" feature that explains stock fluctuations. This app aims to centralize financial information for Android users.",
+      "tags": [
+        "google",
+        "finance",
+        "android app"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5b0ccb3ebeeb9b99",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+      "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+      "summary": "Netris secured $15 million in Series A funding from a16z to develop software for network switches, enabling AI neocloud operators to deploy faster. This platform aims to streamline the process of bringing new AI cloud infrastructures online.",
+      "tags": [
+        "funding",
+        "ai",
+        "cloud"
+      ],
+      "priority": false
+    },
+    {
+      "id": "06e61babbb7f466a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "New website names and shames companies that still don’t offer passkeys to users",
+      "url": "https://techcrunch.com/2026/06/24/new-website-names-and-shames-companies-that-still-dont-offer-passkeys-to-users/",
+      "summary": "A new website is publicly shaming major companies that have not yet implemented passkeys, a highly secure login method. It reports that nearly a quarter of the world's most popular websites still lack support for this security feature.",
+      "tags": [
+        "cybersecurity",
+        "web standards",
+        "passkeys"
+      ],
+      "priority": false
+    },
+    {
+      "id": "de41030e38bc8caf",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Parker Conrad knows which employees are worth their AI spend and says Rippling can help you, too",
+      "url": "https://techcrunch.com/2026/06/25/parker-conrad-knows-which-employees-are-worth-their-ai-spend-and-says-rippling-can-help-you-too/",
+      "summary": "Parker Conrad emphasized the importance of assessing the return on investment for employee AI tool usage, citing examples of high individual annual spending on AI. His company, Rippling, aims to assist businesses in tracking and optimizing these AI expenditures.",
+      "tags": [
+        "ai",
+        "business",
+        "hr"
+      ],
+      "priority": false
+    },
+    {
+      "id": "933e6d9d3a1eef91",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The memory chip crunch is paying off for this US company",
+      "url": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
+      "summary": "A US company experienced a quadruple increase in revenue to $41.45 billion and a profit surge to $28.2 billion year-over-year, largely benefiting from the current memory chip shortage. This highlights a significant financial gain during the chip crunch.",
+      "tags": [
+        "memory chips",
+        "semiconductors",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "12b112c2cfad690f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Trump admin bars Polestar from selling its new EVs in the US",
+      "url": "https://techcrunch.com/2026/06/25/trump-admin-bars-polestar-from-selling-its-new-evs-in-the-us/",
+      "summary": "The Department of Commerce declined to give the Chinese-owned automaker a special authorization to keep selling EVs in the U.S.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "34b14e1fbdba6d47",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Trump admin proposes axing brake-pedal requirement for AVs in a boost for Tesla",
+      "url": "https://techcrunch.com/2026/06/25/trump-admin-proposes-axing-brake-pedal-requirement-for-avs-in-a-boost-for-tesla/",
+      "summary": "The Trump administration's Department of Transportation proposed removing the brake-pedal requirement for autonomous vehicles, a change that could significantly benefit companies like Tesla. This regulation shift applies to vehicles designed solely for automated driving systems.",
+      "tags": [
+        "automotive",
+        "autonomous vehicles",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0da5e301363cdfdf",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Douglas Murray: The Iranian Regime Means What It Says",
+      "url": "https://www.thefp.com/p/douglas-murray-coleman-hughes",
+      "summary": "Douglas Murray provides an analysis on the intentions of the Iranian regime, alongside a discussion of the current political state in Britain following Keir Starmer's resignation. He offers a clear-eyed perspective on threats to Western civilization.",
+      "tags": [
+        "iran",
+        "uk politics",
+        "geopolitics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c5700c112ef14099",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Great Americans: The Strange Dependence of an Independent Woman",
+      "url": "https://www.thefp.com/p/great-americans-eliza-lucas-pinckney",
+      "summary": "Eliza Lucas Pinckney (1722–1793), an 18th-century woman who independently managed plantations and pioneered indigo production in South Carolina, exemplifies a paradox of self-reliance. Her life story highlights that even the most independent individuals operate within a web of dependencies, challenging conventional notions of self-sufficiency.",
+      "tags": [
+        "history",
+        "biography",
+        "independence"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a5c620444f114ee2",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "New York’s New Squad",
+      "url": "https://www.thefp.com/p/new-york-new-squad-primary-winners",
+      "summary": "On Tuesday, the Democratic establishment suffered a crushing defeat when\nnine out of 10 candidates\nendorsed by the local chapter of the Democratic Socialists of America (DSA) coasted to victory in their primaries. In some instances, long-serving progressives were caught in the cr…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "fab5a9f3e11115cf",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "WATCH: Mamdani’s Allies Just Swept New York. What Comes Next?",
+      "url": "https://www.thefp.com/p/new-york-primaries-socialist-sweep-livestream",
+      "summary": "On Tuesday night, the democratic socialists swept New York.\nIn a series of closely watched congressional primaries, all three candidates endorsed by Mayor Zohran Mamdani defeated more moderate rivals, including two incumbents. Their victories, which in heavily blue districts all…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "4018ff4dace602b7",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "‘Freeze the Rent’ Is Really About Rage and Revolution",
+      "url": "https://www.thefp.com/p/new-york-rent-freeze-mamdani-rent-guidelines",
+      "summary": "New York City's Rent Guidelines Board will decide on Mayor Zohran Mamdani's controversial \"freeze the rent\" promise for rent-stabilized apartments, following raucous public hearings. Unlike other cities with formulaic rent controls, NYC's process is marked by intense activism and public disruption.",
+      "tags": [
+        "nyc",
+        "housing policy",
+        "rent control"
+      ],
+      "priority": false
+    },
+    {
+      "id": "14796cfe129e5b33",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "Epictetus on Love and Loss: The Stoic Strategy for Surviving Heartbreak",
+      "url": "https://www.themarginalian.org/2026/06/24/epictetus-love-loss/",
+      "summary": "Epictetus's Stoic philosophy provides a strategy for enduring heartbreak by embracing the transient nature of all things, including love. He proposes regarding cherished relationships as temporarily \"on loan\" from the universe, which can temper grief when loss inevitably occurs.",
+      "tags": [
+        "philosophy",
+        "stoicism",
+        "grief"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4e2645ad0ef695a7",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "BYOK is my new go-to distraction-free writing tool",
+      "url": "https://www.theverge.com/tech/956473/byok-distraction-free-writing-review",
+      "summary": "The BYOK, a $199 minimalist device, offers a low-resolution LCD screen for distraction-free writing, allowing only text editing. This \"Bring Your Own Keyboard\" tool is designed to enhance focus by removing other functionalities.",
+      "tags": [
+        "hardware",
+        "writing",
+        "productivity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e11587da0aad6b0e",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "EverQuest Legends is a powerful nostalgia machine",
+      "url": "https://www.theverge.com/games/954841/everquest-legends-nostalgia",
+      "summary": "This article reflects on the nostalgic power of EverQuest Legends, intertwined with a personal narrative about the author's estranged father and the process of saying goodbye. It explores how digital spaces can evoke powerful memories and emotions connected to real-life relationships and loss.",
+      "tags": [
+        "gaming",
+        "personal essay",
+        "nostalgia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bd36888ae801b19a",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Get MacBooks at a Prime Day discount before Apple&#8217;s new price hikes kick in",
+      "url": "https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes",
+      "summary": "Apple just\nraised the prices on Macs and iPads\nin response to the\nrising costs of memory chips\n, right in the middle of\nAmazon Prime Day\n. That means existing discounts (even small ones) on Apple laptops like the MacBook Neo, MacBook Air, and MacBook Pro just became significantly…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "8aa45b36820fe68a",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Leica’s $6,690 SL3-P pairs 44-megapixel stills with 8K video",
+      "url": "https://www.theverge.com/tech/956101/leica-digital-camera-sl3-p-8k-video-44-megapixel-price",
+      "summary": "Leica unveiled its new $6,690 SL3-P camera, which features a 44-megapixel sensor and 8K video capabilities. This model builds upon previous SL3 versions by integrating a new hybrid autofocus system for enhanced performance.",
+      "tags": [
+        "photography",
+        "camera",
+        "leica"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9ce73b794d212db0",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Oppo’s Bubble selfie screen is crying out for Qi2",
+      "url": "https://www.theverge.com/gadgets/956922/oppo-bubble-selfie-screen-magnetic-qi2",
+      "summary": "Oppo's Bubble is a small, wireless second screen that serves as a selfie monitor or camera remote, yet its design lacks Qi2 magnetic attachment. The author notes this absence highlights a missed opportunity for Android OEMs to integrate Qi2 for improved accessory functionality.",
+      "tags": [
+        "smartphone accessory",
+        "oppo",
+        "qi2"
+      ],
+      "priority": false
+    },
+    {
+      "id": "09b90e957dbaff6a",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Slate&#8217;s electric truck: all the news about the ultra-minimal EV",
+      "url": "https://www.theverge.com/transportation/956963/slate-truck-news-updates-price-specs-order",
+      "summary": "Slate Auto is a new startup that emerged out of a secretive project called “Re:Car” within Re:Build Manufacturing, a domestic manufacturing project backed by Amazon founder Jeff Bezos. The company’s first electric vehicle is a barebones electric pickup that’s roughly a third of t…",
+      "tags": [],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 114,
+    "summarized": 88,
+    "skipped_promos": 3,
+    "filtered_by_rules": 23,
+    "sources": 14,
+    "email_items_omitted": 0
+  }
+}
