@@ -1,0 +1,1296 @@
+{
+  "date": "2026-06-26",
+  "generated_at": "2026-06-26T16:10:43+00:00",
+  "hot_topics": [
+    {
+      "topic": "AI Email Client Shutdowns Amid Agent Adoption",
+      "synthesis": "Notion has discontinued its email client, Notion Mail, less than a year after its launch, attributing the decision to a user shift towards AI agents for managing electronic correspondence. This move effectively eliminates the remnants of Skiff email services, which Notion had previously acquired. The shutdown reflects a broader trend where AI agents are increasingly taking over tasks traditionally handled by email clients.",
+      "item_ids": [
+        "afde8a90c38c0420",
+        "0e9658218bfd313c"
+      ]
+    },
+    {
+      "topic": "Government Scrutiny and Security Challenges for Advanced AI Models",
+      "synthesis": "AI companies are facing increased government intervention and security challenges regarding their advanced models. The Trump administration has reportedly asked OpenAI to slow the public release of its GPT 5.6 model due to safety concerns, prompting a limited release to partners. Concurrently, Anthropic has accused Alibaba of a massive campaign to clone its Claude AI's capabilities, leading to confidential evidence being shared with senators amidst ongoing regulatory discussions.",
+      "item_ids": [
+        "759e220d2fe3dd92",
+        "ab17057af622ceb2",
+        "c4b3df6848f2cc79"
+      ]
+    },
+    {
+      "topic": "Tech Hardware Price Increases Across the Industry",
+      "synthesis": "The tech industry is seeing a wave of price increases across various hardware, with Apple raising prices on some Macs and iPads, and Arduino's Uno Q microcomputer also getting a significant price hike. Xbox has similarly announced price increases for its consoles, citing rising costs for memory and storage components. These adjustments are largely attributed to increasing component costs, such as RAM and console storage, affecting several segments of the market.",
+      "item_ids": [
+        "6f6ee164a672f099",
+        "09370962fe2f0107",
+        "678b98e36a7d97bb"
+      ]
+    },
+    {
+      "topic": "Devastating Earthquakes and Aftermath in Venezuela",
+      "synthesis": "Venezuela has been hit by two major earthquakes, causing widespread destruction in coastal areas like La Guaira and leaving thousands missing. Rescue efforts are ongoing, with first responders and volunteers pulling survivors from collapsed buildings, while aid workers report struggling hospitals and a need for international assistance. The Venezuelan community in Houston is organizing donation drives to support those affected.",
+      "item_ids": [
+        "59e8b0a9c38f816d",
+        "ef3cbdaa8190fd0c",
+        "d043b3e0757bc41a",
+        "b611b2a46abcf5fd",
+        "52126cfa7c4fa3b2",
+        "bdb22d2de010e254"
+      ]
+    },
+    {
+      "topic": "Innovations in AI Image Generation and Efficiency",
+      "synthesis": "New developments in AI image generation are focusing on both novel techniques and significant efficiency improvements. The Un-0 system uses coupled oscillators to create images, offering a distinct approach to generative AI. Separately, Databricks' former AI chief claims the ability to cut AI's power consumption by 1,000 times, a breakthrough also demonstrated using the Un-0 image generation system.",
+      "item_ids": [
+        "62cdda995436fce0",
+        "5944a6eb62127800"
+      ]
+    },
+    {
+      "topic": "Prediction Markets Face Security Issues and Mainstream Interest",
+      "synthesis": "The concept of prediction markets is gaining attention for various reasons, including security vulnerabilities and potential mainstream adoption by tech giants. The prediction market platform Polymarket has confirmed that hackers stole user funds due to a third-party breach and is issuing refunds. Simultaneously, Meta is reportedly developing its own prediction market app, indicating a strategic interest in the platform model, despite ongoing challenges like security breaches.",
+      "item_ids": [
+        "ee1e17eaaa59d491",
+        "bb7d3b2dd54fd717"
+      ]
+    },
+    {
+      "topic": "Trump Administration's Political Activities and Policy Decisions",
+      "synthesis": "The Trump administration continues to be active in both policy-making and public appearances. The Supreme Court has affirmed the administration's right to end protected status for Haitian and Syrian immigrants, and the Department of Commerce has barred Chinese-owned Polestar from selling new EVs in the U.S. Meanwhile, current and former administration officials, including Second Lady Usha Vance, are making public appearances at events like the World Cup, as some Democratic figures consider ways to counter the former president's public narrative.",
+      "item_ids": [
+        "4a5c222aa8870b3d",
+        "0e53de2f66ac3774",
+        "0da573aacdef09b1",
+        "de6ef90d75fbdd5a",
+        "129993be6ecc98fb",
+        "a76a8079d94c4a1c",
+        "b057a03876061b23"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "1be9cca3379984e0",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "The violence specialists",
+      "url": "https://aeon.co/essays/organised-violence-is-a-trade-whether-legal-or-illegal",
+      "summary": "This essay explores what motivates young men to undertake jobs involving organized violence, whether legal or illegal, highlighting society's dependence on such \"violence workers.\"",
+      "tags": [
+        "sociology",
+        "violence",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "759e220d2fe3dd92",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
+      "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+      "summary": "Anthropic accused Alibaba and its AI lab, Alibaba Qwen, of a large-scale campaign to illicitly extract Claude's capabilities, generating over 28.8 million exchanges through fraudulent accounts. This alleged attack, occurring between April and June, targeted advanced features like agentic reasoning and software engineering.",
+      "tags": [
+        "ai",
+        "cybersecurity",
+        "intellectual property"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8fb870d51cf39c41",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "FCC may kill $2B program that connects schools and libraries to Internet",
+      "url": "https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/",
+      "summary": "The FCC is facing criticism for proposing to scale back or eliminate E-Rate, a $2 billion annual program that provides discounted telecom services and equipment to schools and libraries. FCC Chairman Brendan Carr initiated the proposal, citing concerns about students' excessive screen time.",
+      "tags": [
+        "tech policy",
+        "education",
+        "fcc"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2427107882f72112",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Google finally releases a Finance Android app, promises iOS version later in 2026",
+      "url": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
+      "summary": "Google has launched its first standalone Google Finance mobile app for Android, with an iOS version planned for later in 2026, marking the product's first mobile app in its 20-year history. The app integrates generative AI to explain market changes and includes features like watchlists and real-time data.",
+      "tags": [
+        "google",
+        "finance",
+        "mobile app"
+      ],
+      "priority": false
+    },
+    {
+      "id": "afde8a90c38c0420",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
+      "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+      "summary": "Notion is shutting down Notion Mail, an email client developed after acquiring Skiff, claiming most users now rely on AI agents for their electronic correspondence. This move effectively ends Skiff email services, including @skiff.com addresses, less than a year after Notion Mail's release.",
+      "tags": [
+        "ai",
+        "email",
+        "productivity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ad4631f958960ad8",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Planet orbits so close to its star that their magnetic fields connect",
+      "url": "https://arstechnica.com/science/2026/06/planet-orbits-so-close-to-its-star-that-their-magnetic-fields-connect/",
+      "summary": "Researchers have discovered an exoplanet orbiting so close to its host star that their magnetic fields connect, causing periodic brightening. This observation confirms a theory that strong planetary magnetic fields can interact with a star when in very close proximity.",
+      "tags": [
+        "astronomy",
+        "exoplanets",
+        "science"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1e75060c8ae2aa5a",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "VW may close four factories to adapt to the future, report says",
+      "url": "https://arstechnica.com/cars/2026/06/vw-may-close-four-factories-to-adapt-to-the-future-report-says/",
+      "summary": "Volkswagen Group is reportedly considering closing up to four factories in Germany and laying off 15 percent of its workforce to combat declining profits and flat sales in 2025. This move follows a previous plan to cut 50,000 jobs by 2030, with a new report suggesting those losses may double.",
+      "tags": [
+        "automotive",
+        "manufacturing",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "db01de7a405c874e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "A Chinese box office hit sparks a debate about identity in Singapore",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzv23g75eo?at_medium=RSS&at_campaign=rss",
+      "summary": "A Chinese box office film, a nostalgic tale about family and hardship, has unexpectedly triggered a debate about identity in Singapore.",
+      "tags": [
+        "culture",
+        "film",
+        "singapore"
+      ],
+      "priority": false
+    },
+    {
+      "id": "59e8b0a9c38f816d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Aerial footage reveals destruction in coastal Venezuela",
+      "url": "https://www.bbc.co.uk/news/videos/c75y1kd16qdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Aerial footage confirms widespread destruction in La Guaira, coastal Venezuela, with multi-storey buildings collapsing after two major earthquakes.",
+      "tags": [
+        "natural disaster",
+        "venezuela",
+        "earthquake"
+      ],
+      "priority": false
+    },
+    {
+      "id": "369744d8a32ad6b8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Asia stock markets slide as tech shares slump",
+      "url": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Asia's stock markets have slid due to a slump in tech shares, leading to a trading halt on South Korea's Kospi index for the third time this week to prevent panic selling.",
+      "tags": [
+        "economy",
+        "stock market",
+        "asia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bed4df2f40ef569e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Canada eligible to join Eurovision competition",
+      "url": "https://www.bbc.co.uk/news/articles/cy06yzp4r0eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Canada is now eligible to participate in the Eurovision competition, an idea first proposed by Prime Minister Mark Carney in his 2025 budget.",
+      "tags": [
+        "culture",
+        "canada",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f32b60b0c09835f0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Christmas market attacker jailed for life for murdering six in Germany",
+      "url": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
+      "summary": "Taleb Al-Abdulmohsen has been sentenced to life imprisonment for murdering six people, including a nine-year-old, by driving into a German Christmas market in 2024.",
+      "tags": [
+        "crime",
+        "germany",
+        "justice"
+      ],
+      "priority": false
+    },
+    {
+      "id": "651129668241d9f1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Could a Madison Square Garden wedding be the love story of Taylor Swift's wildest dreams?",
+      "url": "https://www.bbc.co.uk/news/articles/cy73e5xek8xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials confirmed that a permit application has been filed to close streets near Madison Square Garden on July 4, fueling speculation about a possible Taylor Swift wedding.",
+      "tags": [
+        "celebrity",
+        "event",
+        "gossip"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8a237ce58512eac7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Four men held over child marriage in Sierra Leone appear in landmark court case",
+      "url": "https://www.bbc.co.uk/news/articles/c9q212y8p21o?at_medium=RSS&at_campaign=rss",
+      "summary": "Four men, including the father and husband, are facing potential jail time in a landmark Sierra Leone court case concerning the child marriage of a 17-year-old girl.",
+      "tags": [
+        "human rights",
+        "africa",
+        "justice"
+      ],
+      "priority": false
+    },
+    {
+      "id": "44f78d307fbc60c0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Housing board votes to freeze New York rents in victory for Mamdani",
+      "url": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&at_campaign=rss",
+      "summary": "New York's housing board voted to freeze rents, a decision welcomed by tenants but feared by landlords who believe it will worsen housing conditions.",
+      "tags": [
+        "housing policy",
+        "new york",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ef3cbdaa8190fd0c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Moment woman pulled from rubble alive after Venezuela earthquake",
+      "url": "https://www.bbc.co.uk/news/videos/clyxgxr2672o?at_medium=RSS&at_campaign=rss",
+      "summary": "First responders and volunteers successfully rescued a woman alive from the rubble of a collapsed building in La Guaira, Venezuela, following an earthquake.",
+      "tags": [
+        "natural disaster",
+        "venezuela",
+        "rescue"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cfcd9e0d2dec1924",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
+      "summary": "Paris has imposed restrictions on alcohol consumption and sales as Europe's heatwave moves eastward, with German temperatures possibly reaching 40C, prompting French officials to ease pressure on hospitals.",
+      "tags": [
+        "weather",
+        "public health",
+        "europe"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4f030061b435d155",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
+      "url": "https://www.bbc.co.uk/news/articles/cn8qxz6qypyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The National Park Service reports that the Reflecting Pool liner was cut with a sharp object, following earlier accusations by Donald Trump of vandalism and fertilizer being put in the water.",
+      "tags": [
+        "vandalism",
+        "us politics",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d043b3e0757bc41a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Rescues and prayers a day after Venezuelan earthquakes",
+      "url": "https://www.bbc.co.uk/news/videos/cz6vny382q9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Rescuers are continuing efforts and prayers are offered in Caracas, Venezuela, a day after the city was struck by back-to-back earthquakes.",
+      "tags": [
+        "natural disaster",
+        "venezuela",
+        "rescue"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0a90cbbf692bc922",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Row over alleged theft of donations from India's landmark Ram temple",
+      "url": "https://www.bbc.co.uk/news/articles/cn07gl6wx6go?at_medium=RSS&at_campaign=rss",
+      "summary": "A controversy has arisen regarding the alleged theft of cash, valuable jewelry, gold, and silver donations from India's significant Ram temple.",
+      "tags": [
+        "india",
+        "crime",
+        "religion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a553eaaf5daa2a94",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Senior Ukrainian intelligence official jailed for life for spying for Russia",
+      "url": "https://www.bbc.co.uk/news/articles/cg4w3wyxzzno?at_medium=RSS&at_campaign=rss",
+      "summary": "Col Dmytro Kozyura, a senior Ukrainian intelligence official, has been sentenced to life in prison for systematically disclosing classified information while spying for Russia.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "espionage"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4a5c222aa8870b3d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants",
+      "url": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&at_campaign=rss",
+      "summary": "The Supreme Court has ruled that the Trump administration can terminate the protected status of hundreds of thousands of Haitian and Syrian immigrants, potentially paving the way for their deportation.",
+      "tags": [
+        "immigration",
+        "supreme court",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "26a27c6701e0d5b8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "The abundant but expensive energy source that's under your feet",
+      "url": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Start-ups are exploring innovative approaches to geothermal energy, an abundant but costly power source, aiming to make its economics viable.",
+      "tags": [
+        "energy",
+        "geothermal",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8fdc39a154dfd488",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
+      "url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
+      "summary": "The UN has paused its Strait of Hormuz evacuation plan after a cargo ship was attacked near Oman by an \"unknown projectile,\" though no casualties were reported.",
+      "tags": [
+        "geopolitics",
+        "shipping",
+        "middle east"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c95a825684f2b7dd",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US sanctions Rwanda gold refinery accused of smuggling DR Congo's minerals",
+      "url": "https://www.bbc.co.uk/news/articles/c9d268xy90xo?at_medium=RSS&at_campaign=rss",
+      "summary": "The U.S. has sanctioned Gasabo Gold Refinery in Rwanda, alleging it smuggled at least 60kg of gold in early 2026 from the Democratic Republic of Congo.",
+      "tags": [
+        "sanctions",
+        "africa",
+        "mining"
+      ],
+      "priority": false
+    },
+    {
+      "id": "681c28fb3783d3db",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why the trail went cold in Nancy Guthrie case",
+      "url": "https://www.bbc.co.uk/news/articles/cy064kg3n0ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The investigation into the abduction of Nancy Guthrie, mother of a famous TV anchor, has gone cold despite significant public attention. The lack of a breakthrough is puzzling given the case's high profile.",
+      "tags": [
+        "crime",
+        "investigation",
+        "missing person"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d39224ce83a44dbc",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Women alleging rape and sexual assault in France call to abolish statute of limitations",
+      "url": "https://www.bbc.co.uk/news/articles/ckg7z5dvxnzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Over 50 women in France are advocating for the abolition of the statute of limitations in rape and sexual assault cases, arguing it prevents them from seeking justice.",
+      "tags": [
+        "justice",
+        "womens rights",
+        "france"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7d24f13316bef25f",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "An entire Herculaneum scroll has been read for the first time",
+      "url": "https://scrollprize.org/firstscroll",
+      "summary": "For the first time, an entire Herculaneum scroll has been successfully read, marking a significant breakthrough in ancient text decipherment.",
+      "tags": [
+        "archaeology",
+        "science",
+        "history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "02e9ea5920ace1bd",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "An oral history of Bank Python (2021)",
+      "url": "https://calpaterson.com/bank-python.html",
+      "summary": "This piece provides an oral history of the use of Python programming language within banking institutions, published in 2021.",
+      "tags": [
+        "programming",
+        "finance",
+        "software development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "53ce68f8f2c2adae",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+      "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+      "summary": "Framework's 10G Ethernet module highlights the inherent complexities of USB-C technology in its implementation.",
+      "tags": [
+        "hardware",
+        "usb-c",
+        "networking"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9178a342834b535e",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "IBM debuts sub-1 nanometer chip technology",
+      "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
+      "summary": "IBM has unveiled sub-1 nanometer chip technology, marking a significant advancement in semiconductor manufacturing.",
+      "tags": [
+        "semiconductors",
+        "hardware",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "65b58489d70eaf41",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Incident CVE-2026-LGTM",
+      "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+      "summary": "This article provides details on \"Incident CVE-2026-LGTM,\" a security vulnerability.",
+      "tags": [
+        "cybersecurity",
+        "vulnerability",
+        "incident report"
+      ],
+      "priority": false
+    },
+    {
+      "id": "847b1926c413b9f2",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Libre Barcode Project",
+      "url": "https://graphicore.github.io/librebarcode/",
+      "summary": "The Libre Barcode Project aims to provide open-source tools and resources for creating and managing barcodes.",
+      "tags": [
+        "open source",
+        "software",
+        "design"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5418d8a5937ff226",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Om Malik has died",
+      "url": "https://om.co/2026/06/24/1966-2026/",
+      "summary": "This entry reports the death of Om Malik, a significant figure in technology and media.",
+      "tags": [
+        "tech industry",
+        "obituary"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a0901177c8744c8a",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "url": "https://github.com/inkeep/open-knowledge",
+      "summary": "OpenKnowledge is introduced as a free, local, open-source AI-first alternative to Notion and Obsidian, featuring a WYSIWYG markdown editor with direct integrations for Claude, Codex, and other AI agents. It offers MacOS and web/CLI interfaces, collaborative features leveraging Git/GitHub, and a focus on privacy.",
+      "tags": [
+        "open source",
+        "productivity",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8e60d825f7d4430b",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The 'papers, please' era of the internet will decimate your privacy",
+      "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+      "summary": "This article argues that an impending \"papers, please\" era on the internet will severely erode user privacy.",
+      "tags": [
+        "privacy",
+        "internet policy",
+        "civil liberties"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f82aae59869a704b",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The Doorman's Fallacy in action",
+      "url": "https://rozumem.xyz/posts/17",
+      "summary": "This article discusses \"The Doorman's Fallacy\" and provides an example of it in action.",
+      "tags": [
+        "psychology",
+        "logic",
+        "cognitive bias"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e2922e8ad8a2ded5",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)",
+      "url": "https://gchandbook.org/",
+      "summary": "This entry refers to the second edition of \"The Garbage Collection Handbook,\" a comprehensive guide to automatic memory management techniques.",
+      "tags": [
+        "programming",
+        "computer science",
+        "memory management"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5944a6eb62127800",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Un-0: Generating Images with Coupled Oscillators",
+      "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+      "summary": "This article introduces Un-0, a system that generates images using coupled oscillators, presenting a novel approach to image creation.",
+      "tags": [
+        "ai",
+        "image generation",
+        "algorithms"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d28d8870c4c9d065",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "We all depend on open source. We will defend it together",
+      "url": "https://akrites.org/letter/",
+      "summary": "This letter advocates for the collective defense of open-source software, emphasizing its crucial role in modern systems.",
+      "tags": [
+        "open source",
+        "software development",
+        "community"
+      ],
+      "priority": false
+    },
+    {
+      "id": "23573186f273b6dd",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "What happened after 2k people tried to hack my AI assistant",
+      "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+      "summary": "This article details the experience and outcomes of 2,000 people attempting to hack an AI assistant.",
+      "tags": [
+        "ai",
+        "cybersecurity",
+        "testing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bf49cd05fa4df099",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Zig's new bitCast semantics and LLVM back end improvements",
+      "url": "https://ziglang.org/devlog/2026/#2026-06-25",
+      "summary": "This devlog entry details Zig's new bitCast semantics and enhancements made to its LLVM back end, improving the language's compiler infrastructure.",
+      "tags": [
+        "programming language",
+        "compiler",
+        "software development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bdb22d2de010e254",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "'We are with you, Venezuela': Houston community rallies after deadly earthquakes",
+      "url": "https://www.npr.org/2026/06/26/nx-s1-5871147/venezuela-houston-earthquake-katy",
+      "summary": "Venezuelans in Houston are organizing donation drives to support their home country following devastating earthquakes.",
+      "tags": [
+        "natural disaster",
+        "venezuela",
+        "community support"
+      ],
+      "priority": false
+    },
+    {
+      "id": "52126cfa7c4fa3b2",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Aid worker says hundreds remain trapped after Venezuela earthquakes",
+      "url": "https://www.npr.org/2026/06/26/nx-s1-5870683/venezuela-earthquakes-rescue-efforts",
+      "summary": "An aid worker reports hundreds are still trapped after earthquakes in Venezuela's capital, with rescue crews racing against time and international aid arriving amidst struggling hospitals.",
+      "tags": [
+        "natural disaster",
+        "venezuela",
+        "humanitarian crisis"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0ff6174b10b71252",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Australia plans to strengthen laws banning children from social media",
+      "url": "https://www.npr.org/2026/06/26/g-s1-130375/australia-plans-to-strengthen-laws-banning-children-from-social-media",
+      "summary": "Australia intends to strengthen laws prohibiting children from using social media platforms, responding to evidence that existing bans on young children holding accounts have failed since their December implementation.",
+      "tags": [
+        "social media",
+        "child safety",
+        "australia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1e035789002e2594",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Palestinians grieve for a father-to-be shot by Israeli troops the day his son was born",
+      "url": "https://www.npr.org/2026/06/26/nx-s1-5828767/israel-palestinian-man-killed-west-bank",
+      "summary": "Nayef Samaro, 25, was killed by Israeli troops during a raid in Nablus, West Bank, on the same day his first child was born, leading to widespread grief among Palestinians.",
+      "tags": [
+        "israel-palestine",
+        "conflict",
+        "human rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5633cf34d4c29d1f",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Plane crashes into Beijing's tallest building; damage reported",
+      "url": "https://www.npr.org/2026/06/26/g-s1-130388/beijings-tallest-building-is-damaged-after-small-airplane-reportedly-crashed-into-it",
+      "summary": "A plane has reportedly crashed into Beijing's tallest building, causing damage, though authorities have not yet issued an official statement and the cause is unverified.",
+      "tags": [
+        "china",
+        "accident",
+        "aviation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b611b2a46abcf5fd",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Rescuers scramble to find Venezuela earthquake survivors. And, SCOTUS rules on asylum",
+      "url": "https://www.npr.org/2026/06/26/g-s1-130361/up-first-newsletter-venezuela-earthquakes-asylum-claims-farmers",
+      "summary": "Rescuers are intensely searching for thousands missing after two earthquakes struck Venezuela, while separately, the Supreme Court has ruled that the U.S. can turn away asylum seekers at the border.",
+      "tags": [
+        "natural disaster",
+        "venezuela",
+        "immigration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f2487474f82a8ca2",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "South Korean ex-first lady sentenced to 7 years for bribery scandal",
+      "url": "https://www.npr.org/2026/06/26/g-s1-130372/south-korean-ex-first-lady-sentenced-to-7-years-for-bribery-scandal",
+      "summary": "South Korea's former first lady has been sentenced to seven years in prison for a bribery scandal, adding to a previous four-year sentence from a separate case.",
+      "tags": [
+        "south korea",
+        "corruption",
+        "justice"
+      ],
+      "priority": false
+    },
+    {
+      "id": "64b366dfae3858ee",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Ukraine unleashes one of its heaviest drone bombardments, as Russia strikes Ukraine",
+      "url": "https://www.npr.org/2026/06/26/nx-s1-5872256/russia-ukraine-war-drone-strikes",
+      "summary": "Ukraine launched a significant nighttime drone attack across Russian regions and Crimea, while Russia simultaneously struck various parts of Ukraine, escalating their ongoing conflict.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7ec2c58ad7956f87",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "A country that doesn’t exist is a World Cup winner",
+      "url": "https://www.politico.com/live-updates/2026/06/25/world-cup-2026/kurds-find-a-way-00975066",
+      "summary": "Kurds, often called the largest ethnic group without a nation-state, are celebrating the early elimination of Turkey from the World Cup, viewing it as a victory. German forward Deniz Undav, of Kurdish-Yazidi heritage, has drawn attention by celebrating his goals with a traditional Kurdish dance.",
+      "tags": [
+        "world cup",
+        "geopolitics",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5b3d1608012d1197",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Finland's President Stubb on Trump, Putin and the future of NATO",
+      "url": "https://www.politico.com/video/2026/06/26/finlands-president-stubb-on-trump-putin-and-the-future-of-nato-2112823",
+      "summary": "Finland's President Stubb discusses his views on Donald Trump, Vladimir Putin, and the prospective future of NATO.",
+      "tags": [
+        "geopolitics",
+        "nato",
+        "finland"
+      ],
+      "priority": false
+    },
+    {
+      "id": "beef280869962be5",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Orange gush: KC mayor parties with the Dutch",
+      "url": "https://www.politico.com/live-updates/2026/06/25/world-cup-2026/kansas-city-mayor-party-netherlands-links-rechts-anthem-fifa-world-cup-2026-00977245",
+      "summary": "Kansas City Mayor Quinton Lucas celebrated with Dutch fans in the Power & Light District ahead of the Orange Walk, finding the experience more exuberant than a Super Bowl parade.",
+      "tags": [
+        "world cup",
+        "local politics",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a76a8079d94c4a1c",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Potential 2028er World Cup attendee leaderboard",
+      "url": "https://www.politico.com/live-updates/2026/06/25/world-cup-2026/shapiro-newsom-harris-rubio-00977687",
+      "summary": "A leaderboard tracks potential 2028 presidential hopefuls, including Shapiro, Newsom, Harris, and Rubio, based on their attendance at World Cup games. A Democratic strategist suggests candidates should embrace the World Cup to appear \"normal, patriotic, and fun-loving,\" contrasting with Trump's absence.",
+      "tags": [
+        "us politics",
+        "world cup",
+        "campaign 2028"
+      ],
+      "priority": false
+    },
+    {
+      "id": "eddcac0a504c53f4",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Spot the Pol!",
+      "url": "https://www.politico.com/live-updates/2026/06/25/world-cup-2026/spot-the-pol-mayor-fairmount-park-00976803",
+      "summary": "Philadelphia Mayor Cherelle Parker visited her city's \"fan festival\" in Fairmount Park, which has hosted 250,000 attendees for World Cup matches.",
+      "tags": [
+        "world cup",
+        "local politics",
+        "event"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b057a03876061b23",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Usha Vance to attend match",
+      "url": "https://www.politico.com/live-updates/2026/06/25/world-cup-2026/a-vance-to-cheer-for-usa-00977635",
+      "summary": "Second Lady Usha Vance is expected to attend the United States' final World Cup group-stage match in Los Angeles, following her husband Vice President J.D. Vance's book tour appearance nearby.",
+      "tags": [
+        "us politics",
+        "world cup",
+        "public appearance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "129993be6ecc98fb",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Usha Vance, Kamala Harris and Hasan Piker walk into a ... stadium",
+      "url": "https://www.politico.com/live-updates/2026/06/25/world-cup-2026/usha-vance-kamala-harris-hasan-piker-fifa-world-cup-2026-usa-turkey-00977690",
+      "summary": "Second Lady Usha Vance, former Vice President Kamala Harris, and streamer Hasan Piker were among the attendees at a World Cup match at SoFi Stadium. Piker expressed support for Turkey, while Vance rooted for the USA.",
+      "tags": [
+        "us politics",
+        "world cup",
+        "celebrity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0da573aacdef09b1",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "What Wes Moore said about Trump, America 250 and how Democrats can harness insurgent energy",
+      "url": "https://www.politico.com/news/2026/06/26/wes-moore-july-fourth-trump-00977783",
+      "summary": "Maryland Governor Wes Moore plans an Independence Day speech on patriotism to counter Donald Trump's rally, aiming to distinguish patriotism from nationalism and offer a future-facing vision for the nation. Moore also discussed harnessing progressive energy from primary wins, focusing on disrupting the status quo.",
+      "tags": [
+        "us politics",
+        "democrats",
+        "governance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "de6ef90d75fbdd5a",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Who's who from the Trump administration",
+      "url": "https://www.politico.com/live-updates/2026/06/25/world-cup-2026/zeldin-driscoll-grenell-00977701",
+      "summary": "Several Trump administration figures, including EPA administrator Lee Zeldin, Army Secretary Dan Driscoll, and former envoy Richard Grenell, attended World Cup games in the U.S.",
+      "tags": [
+        "us politics",
+        "world cup",
+        "government officials"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9ac76a6152e749da",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "After 80 Years, Mathematicians Give Famed ‘Erdős Method’ an Upgrade",
+      "url": "https://www.quantamagazine.org/after-80-years-mathematicians-give-famed-erdos-method-an-upgrade-20260626/",
+      "summary": "In 1947, Paul Erdős, the itinerant Hungarian mathematician, introduced what would become one of math’s most powerful tools. He wanted to prove that a certain kind of object existed — in this case, a network made of interconnected nodes. But strangely, his proof didn’t specify how…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "a702e90ae0f1968e",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "AI and Liability",
+      "url": "https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything",
+      "summary": "Bruce Schneier argues that companies deploying AI agents should be legally liable for errors introduced by their AI overviews, similar to human-caused inaccuracies. He contends that absolving businesses of responsibility for AI mistakes would create problematic incentives and constitute a massive corporate handout.",
+      "tags": [
+        "ai ethics",
+        "law",
+        "liability"
+      ],
+      "priority": false
+    },
+    {
+      "id": "22f0836e4444cafb",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "datasette-export-database 0.3a2",
+      "url": "https://simonwillison.net/2026/Jun/25/datasette-export-database/#atom-everything",
+      "summary": "This is an update for the `datasette-export-database` plugin, version 0.3a2, which corrects a dependency pinning issue to ensure compatibility with Datasette versions `>=1.0a27`.",
+      "tags": [
+        "software development",
+        "datasette",
+        "database"
+      ],
+      "priority": false
+    },
+    {
+      "id": "68e5c04c3fafc0ef",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "a16z-backed Base Power is offering cheaper electricity to the power grid that needs it most",
+      "url": "https://techcrunch.com/2026/06/25/a16z-backed-base-power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most/",
+      "summary": "Base Power, backed by a16z, is providing cheaper electricity to the power grid by installing batteries in homes, bypassing traditional interconnection queues. This approach also offers homeowners backup power services.",
+      "tags": [
+        "energy",
+        "startups",
+        "sustainability"
+      ],
+      "priority": false
+    },
+    {
+      "id": "90da8b514e46091b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+      "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "summary": "Despite ChatGPT's market dominance, data indicates that Anthropic's Claude is increasingly preferred by consumers who pay for AI services.",
+      "tags": [
+        "ai",
+        "market trends",
+        "chatbots"
+      ],
+      "priority": false
+    },
+    {
+      "id": "62cdda995436fce0",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+      "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+      "summary": "Databricks' former AI chief believes he can reduce AI's power consumption by 1,000 times, demonstrating this with Un-0, an image-generation system replicating conventional AI systems.",
+      "tags": [
+        "ai",
+        "energy efficiency",
+        "image generation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "029243ac355ba082",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+      "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "summary": "General Intuition has raised $320 million, betting that training AI on millions of hours of video game data can help develop AI agents with intuition closer to human capabilities for real-world applications.",
+      "tags": [
+        "ai",
+        "gaming",
+        "machine learning"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6b155930117310e2",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Hacked Klue says criminals are deleting stolen customer data, but now other hackers are making threats",
+      "url": "https://techcrunch.com/2026/06/25/hacked-klue-says-criminals-are-deleting-stolen-customer-data-but-now-other-hackers-are-making-threats/",
+      "summary": "Market research company Klue informed customers that the initial hacking group is deleting stolen data, but a second group of hackers is now demanding ransom.",
+      "tags": [
+        "cybersecurity",
+        "data breach",
+        "ransomware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0e9658218bfd313c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Notion Mail shuts down amid agent takeover",
+      "url": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/",
+      "summary": "Notion Mail is being discontinued as the company shifts focus to its AI agent offerings, stating that users are increasingly relying on AI agents to manage their email.",
+      "tags": [
+        "ai",
+        "email",
+        "productivity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dbe5f4e9ccbb71b2",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+      "summary": "Patronus AI, a startup founded by former Meta AI researchers, has raised $50 million to develop \"digital worlds\" for stress-testing AI agents. An investor notes \"nearly insatiable demand\" for the company's services.",
+      "tags": [
+        "ai",
+        "startups",
+        "software development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bb7d3b2dd54fd717",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Polymarket says hackers stole users’ funds",
+      "url": "https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/",
+      "summary": "Prediction market platform Polymarket announced that hackers stole user funds due to a third-party breach and is now refunding affected users.",
+      "tags": [
+        "cybersecurity",
+        "cryptocurrency",
+        "finance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a75cefda91baec47",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Rippling now wants to be your entire data stack",
+      "url": "https://techcrunch.com/2026/06/25/parker-conrad-knows-which-employees-are-worth-their-ai-spend-and-says-rippling-can-help-you-too/",
+      "summary": "Rippling is expanding its offerings to become a comprehensive data stack, with its CEO noting an employee spending $30,000 annually on an AI assistant that analyzes calendars and email.",
+      "tags": [
+        "enterprise software",
+        "ai",
+        "data management"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c69661d9297cec4f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Robotaxis drive miles just to get cleaned and charged; this new startup wants to fix that",
+      "url": "https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/",
+      "summary": "Aseon Labs, a Y Combinator startup, has secured $10 million in funding to build \"pitstops\" designed to clean and charge robotaxis. This aims to address the inefficiency of robotaxis driving long distances for maintenance.",
+      "tags": [
+        "robotaxis",
+        "startups",
+        "automotive"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c4b3df6848f2cc79",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "summary": "OpenAI reportedly plans to release its new model, GPT 5.6, to a select group of partners instead of the public, following a request from the Trump administration due to safety concerns.",
+      "tags": [
+        "ai",
+        "policy",
+        "safety"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0e53de2f66ac3774",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Trump administration bars Polestar from selling its new EVs in the US",
+      "url": "https://techcrunch.com/2026/06/25/trump-admin-bars-polestar-from-selling-its-new-evs-in-the-us/",
+      "summary": "The Trump administration has barred Chinese-owned automaker Polestar from selling its new electric vehicles in the U.S. by denying a special authorization from the Department of Commerce.",
+      "tags": [
+        "automotive",
+        "ev",
+        "trade policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "678b98e36a7d97bb",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Xbox follows Apple with price increases",
+      "url": "https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases/",
+      "summary": "Xbox has announced price increases for its products, attributing the changes to rising costs of memory and console storage, which have more than doubled. This move follows similar price adjustments by Apple.",
+      "tags": [
+        "gaming",
+        "xbox",
+        "pricing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f94e485ba5885b40",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Xprize founder says ‘humans behave better when they’re being watched’",
+      "url": "https://techcrunch.com/2026/06/26/xprize-founder-says-humans-behave-better-when-theyre-being-watched/",
+      "summary": "Xprize founder Peter Diamandis advocates for global surveillance, asserting that humans improve their behavior when under observation. This statement aligns with similar comments made by Larry Ellison in 2024.",
+      "tags": [
+        "surveillance",
+        "ethics",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1c760f48150df83b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
+      "url": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/",
+      "summary": "YouTube Shorts is introducing an update that will allow users to double the playback speed, making the short-form videos even shorter.",
+      "tags": [
+        "youtube",
+        "video",
+        "app update"
+      ],
+      "priority": false
+    },
+    {
+      "id": "68b68de4cba34b9f",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Ayaan Hirsi Ali: What the Montreal Shooter Believed",
+      "url": "https://www.thefp.com/p/ayaan-hirsi-ali-montreal-shooter-manifesto",
+      "summary": "Ayaan Hirsi Ali argues that the Montreal shooter's manifesto, initially dismissed as incel-motivated, reveals deeper anti-Western and antisemitic ideologies echoing far-left radicalism. The shooter denounced capitalism and praised communist alternatives, attributing Western power to \"Judaeo-bourgeois\" influence.",
+      "tags": [
+        "extremism",
+        "ideology",
+        "antisemitism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "27370722a3367841",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Child Star, Neuroscientist, Crunchy Mom: The Many Sides of Mayim Bialik",
+      "url": "https://www.thefp.com/p/child-star-neuroscientist-crunchy",
+      "summary": "This article profiles Mayim Bialik, highlighting her diverse career as a child star, sitcom icon, neuroscientist, Jeopardy! host, feminist, and Zionist, and her experiences growing up in the entertainment industry.",
+      "tags": [
+        "celebrity",
+        "biography",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "056d807d4a78027b",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Could 2026 Finally Close the Case?",
+      "url": "https://www.thefp.com/p/could-2026-finally-close-the-case",
+      "summary": "Kurt Perhach is attempting to get a 1932 ransom note, linked to a famous kidnapping, tested for DNA to potentially solve the cold case, but the state of New Jersey is resisting.",
+      "tags": [
+        "true crime",
+        "forensics",
+        "cold case"
+      ],
+      "priority": false
+    },
+    {
+      "id": "205c4ccd60d4474e",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "He Went to Prison. Now He Is in Charge of Them.",
+      "url": "https://www.thefp.com/p/he-went-to-prison-now-he-is-in-charge",
+      "summary": "Josh Smith, who served five years for drug offenses, has become deputy director of the federal Bureau of Prisons, having been pardoned by President Trump in 2021. He advocates for criminal justice reform through his Fourth Purpose Foundation, aiming to make prison a place of transformation.",
+      "tags": [
+        "criminal justice",
+        "rehabilitation",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8b87b2f117377dac",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "I Co-Founded Wikipedia. Now I’m Banned for Life.",
+      "url": "https://www.thefp.com/p/larry-sanger-wikipedia-co-founder-banned",
+      "summary": "Larry Sanger, co-founder of Wikipedia, has been indefinitely banned from the site 25 years after its creation, which he views as a reflection of a censorious era that punishes independent thinking. He recounts Wikipedia's founding principles of open access and collaborative editing.",
+      "tags": [
+        "wikipedia",
+        "censorship",
+        "internet culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5991dea4efb3e1b4",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Why Chimpanzees Go to War, with John Mitani",
+      "url": "https://www.thefp.com/p/why-chimpanzees-go-to-war-with-john",
+      "summary": "Dr. John Mitani discusses his documentation of a violent chimpanzee civil war among the Ngogo chimpanzees in Uganda, exploring the causes of such conflict.",
+      "tags": [
+        "zoology",
+        "animal behavior",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ab17057af622ceb2",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Anthropic&#8217;s Mythos mess is only getting worse",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
+      "summary": "Anthropic's Mythos-class AI models remain offline two weeks after a Trump administration ultimatum, with no resolution in sight despite intensive negotiations in Washington D.C. The company has declined to comment on the status of the talks or if the models will return.",
+      "tags": [
+        "ai",
+        "regulation",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "09370962fe2f0107",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "It’s now the Arduino Uno Q’s turn to get a price hike",
+      "url": "https://www.theverge.com/tech/957751/arduino-q-microcomputer-price-increase-ram-crisis",
+      "summary": "Arduino's Raspberry Pi-like microcomputer, the Uno Q, is set to increase in price starting July 6th, with the 2GB version going from $44 to $59 and the 4GB model from $59 to $79. This follows a trend of price hikes for many devices, attributed to a \"RAM crisis.\"",
+      "tags": [
+        "hardware",
+        "microcomputers",
+        "pricing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ee1e17eaaa59d491",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Of course Meta thinks gambling is the future",
+      "url": "https://www.theverge.com/podcast/957673/meta-polymarket-apple-prices-vergecast",
+      "summary": "Meta is reportedly developing a prediction market app, akin to Polymarket, reflecting its strategy of cloning successful platforms and integrating them with its user base and advertising engine. This development comes amid other Meta news and reported morale problems within the company.",
+      "tags": [
+        "meta",
+        "social media",
+        "gambling"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6f6ee164a672f099",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Prime Day is almost over, but these are still the best Apple deals I&#8217;ve seen",
+      "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
+      "summary": "This article highlights remaining Apple deals during Prime Day, including discounts on AirPods Pro 3, AirPods 4, AirPods Max 2, Beats earbuds, and various Apple Watch models. It notes that some retailers are still offering prices based on previous lists before recent Apple price hikes.",
+      "tags": [
+        "deals",
+        "apple",
+        "electronics"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 125,
+    "summarized": 87,
+    "skipped_promos": 2,
+    "filtered_by_rules": 36,
+    "sources": 11,
+    "email_items_omitted": 0
+  }
+}
