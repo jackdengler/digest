@@ -1,0 +1,1133 @@
+{
+  "date": "2026-06-27",
+  "generated_at": "2026-06-27T15:13:29+00:00",
+  "hot_topics": [
+    {
+      "topic": "Government oversight and access restrictions impacting leading AI models",
+      "synthesis": "Government actions are significantly impacting the release and accessibility of advanced AI models like Anthropic's Mythos and OpenAI's GPT-5.6. While the Trump administration has partially lifted export bans and granted access to some US entities, these restrictions are causing concern among AI labs about lost market share and delayed innovation. This asserts a new level of government influence over cutting-edge AI, shifting the focus beyond inter-company competition to broader political and economic consequences.",
+      "item_ids": [
+        "8e2741bd96781b2b",
+        "c02a0db6b1567eac",
+        "762a22552f3e7893",
+        "4ae020a1e098e7fe",
+        "0675e84b7c8e50bb",
+        "f750ba3532adbbf0",
+        "e6de16f0d15d8e7a",
+        "4995de624154645b",
+        "c19008e09af79cd4"
+      ]
+    },
+    {
+      "topic": "Devastating earthquakes in Venezuela prompt international aid amid high death toll",
+      "synthesis": "Twin powerful earthquakes have struck Venezuela, leading to at least 920 deaths and hundreds still trapped, with international rescue efforts underway. The disaster is being described as one of the hardest moments in Venezuela's modern history, causing growing public anger, especially with a slow government response. Heroic rescues, including a newborn baby, are emerging from the rubble, while Venezuelans abroad are scrambling to send aid.",
+      "item_ids": [
+        "1e96082639ab120f",
+        "1e6bea44fbe5dc1b",
+        "8b0c8792b9036f4e",
+        "1782b2a6f4865cc0",
+        "59a6bb997033eb3e",
+        "1b6349b7c56e90ea"
+      ]
+    },
+    {
+      "topic": "Escalating US-Iran tensions following military strikes and warnings",
+      "synthesis": "Tensions between the US and Iran have escalated after the US struck Iran in response to a cargo ship attack, leading to Iranian retaliation against American-linked targets. Politically, concerns are being voiced about the Iranian regime's trustworthiness, with a US Senator warning against President Trump's more conciliatory view of Iran's leadership. These events highlight ongoing geopolitical complexities and potential for conflict.",
+      "item_ids": [
+        "f5384e4f13f7e12a",
+        "6834cf44fe6ff28c"
+      ]
+    },
+    {
+      "topic": "Pete Buttigieg targeted by false child abuse allegations",
+      "synthesis": "Former Transportation Secretary Pete Buttigieg was falsely accused of child abuse, leading to his separation from his four-year-old twins for 24 hours. Michigan State Police confirmed the report as unfounded, describing it as a dangerous misuse of resources. Buttigieg expressed deep distress over the incident, calling it the 'ugliest thing' of his public service career and indicating he would pursue legal action if possible.",
+      "item_ids": [
+        "864aefc0a65fd3d0",
+        "baf7dda507655aee"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "f6219b93e3852af7",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Antibiotic \"megacluster\" discovery provides new strategy to fight superbugs",
+      "url": "https://arstechnica.com/health/2026/06/antibiotic-megacluster-discovery-provides-new-strategy-to-fight-superbugs/",
+      "summary": "Scientists have discovered an antibiotic \"megacluster\" of genes that produce four molecules working in concert to target a bacterial metabolic pathway, offering a novel strategy against superbugs. This breakthrough could rejuvenate the development of new antibiotics, a field that has seen a decline in recent discoveries.",
+      "tags": [
+        "antibiotics",
+        "health",
+        "science"
+      ],
+      "priority": false
+    },
+    {
+      "id": "48dc3586df59832f",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Apple and Audi alumni have made a luxe EV based on the moon buggy",
+      "url": "https://arstechnica.com/cars/2026/06/apple-and-audi-alumni-have-made-a-luxe-ev-based-on-the-moon-buggy/",
+      "summary": "Amble, founded by Apple and Audi alumni, has launched the $25,000 Amble One, a street-legal electric buggy designed for specialized environments like coastal paths. Its design, influenced by a former Apple car lead, aims for affordability and style.",
+      "tags": [
+        "ev",
+        "automotive",
+        "design"
+      ],
+      "priority": false
+    },
+    {
+      "id": "647f153f0edfc0a6",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Doctors suspected man had brain cancer. He actually had worms.",
+      "url": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
+      "summary": "A 60-year-old man in Spain, initially suspected of having brain cancer due to severe headaches and brain lesions, was found to have a parasitic infection. Elevated IgE levels, indicative of parasitic infections, helped doctors reach the correct diagnosis.",
+      "tags": [
+        "health",
+        "medicine",
+        "parasites"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f75feb409430e425",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "FCC accused of hiding Chairman Carr's messages with DOGE and Musk",
+      "url": "https://arstechnica.com/tech-policy/2026/06/fcc-accused-of-hiding-chairman-carrs-messages-with-doge-and-musk/",
+      "summary": "The FCC faces accusations from advocacy group Frequency Forward of withholding documents and concealing Chairman Brendan Carr's Signal messages with DOGE and Elon Musk. This is part of an ongoing lawsuit alleging FOIA violations, where the FCC has previously been criticized for inadequate responses.",
+      "tags": [
+        "fcc",
+        "government",
+        "transparency"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ec81cfc7b37092cc",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Netflix now requires every user profile to be tied to unique email address",
+      "url": "https://arstechnica.com/gadgets/2026/06/netflix-now-requires-every-user-profile-to-be-tied-to-unique-email-address/",
+      "summary": "Netflix now mandates that every user profile be tied to a unique email address, causing confusion and requiring existing add-on members to create their own separate logins. This policy change impacts how users access shared accounts.",
+      "tags": [
+        "netflix",
+        "streaming",
+        "accounts"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d142ff84326f9e79",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+      "summary": "The New York Times is amending its copyright lawsuit against OpenAI and Microsoft, asserting that Microsoft actively facilitated copyright infringement by providing OpenAI with a custom supercomputing system. This updated complaint seeks to align with recent Supreme Court precedent on contributory infringement, which requires proof of intent.",
+      "tags": [
+        "copyright",
+        "ai",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c41e93d12f43eb92",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Russian citizens told \"switch to Android\" after Apple blocks key Russian apps",
+      "url": "https://arstechnica.com/gadgets/2026/06/russian-citizens-told-switch-to-android-after-apple-blocks-key-russian-apps/",
+      "summary": "Russia is encouraging its citizens to switch to Android after Apple blocked several Russian apps, following Russia's history of leading app removal demands from the App Store. This directive aligns with Russia's aim to establish a closed, state-controlled internet environment.",
+      "tags": [
+        "russia",
+        "apple",
+        "android"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2af12cc715626170",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "South Korea plans to train entire military as \"drone warriors\"",
+      "url": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/",
+      "summary": "South Korea intends to train its entire military to operate drones as a \"second personal weapon\" to gain a technological advantage against North Korea. This strategy, influenced by current conflicts, involves widespread drone integration and counter-drone defense.",
+      "tags": [
+        "military",
+        "drones",
+        "south korea"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9f9c587b2bac04cf",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Streaming services’ obnoxiously loud ads become illegal on July 1 in California",
+      "url": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
+      "summary": "Starting July 1, California law will prohibit streaming services from playing ads louder than the content, bringing them into parity with broadcast and cable TV regulations. Governor Gavin Newsom signed this bill in October 2025 to address \"obnoxiously loud ads.\"",
+      "tags": [
+        "streaming",
+        "california",
+        "law"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0efff3c534eacd04",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Billionaire Leon Black walks out of Epstein investigation hearing",
+      "url": "https://www.bbc.co.uk/news/articles/cn948lwyl3jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Billionaire Leon Black, co-founder of Apollo Global Management, abruptly exited a House panel hearing investigating Jeffrey Epstein, prompting the panel to issue subpoenas demanding his sworn testimony.",
+      "tags": [
+        "legal",
+        "finance",
+        "investigation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3f3fc3f33978daaf",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Burkina Faso severs diplomatic ties with France",
+      "url": "https://www.bbc.co.uk/news/articles/c7vymlgl5vgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Burkina Faso's military junta has severed diplomatic relations with France, accusing the former colonial power of actively undermining the West African nation's national interests.",
+      "tags": [
+        "africa",
+        "france",
+        "diplomacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "97656e54de96327b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Could you handle a 20-plus hour flight? This airline is banking on it",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j7v51l5ko?at_medium=RSS&at_campaign=rss",
+      "summary": "An airline is preparing to launch a non-stop London to Sydney flight exceeding 20 hours, a move seen by analysts as a significant milestone in long-haul aviation. The airline is banking on passenger willingness for ultra-long flights.",
+      "tags": [
+        "aviation",
+        "travel",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "075d5cb1cf2fc049",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Debris falls after plane hits Beijing's tallest building",
+      "url": "https://www.bbc.co.uk/news/videos/c8j2rjrzjero?at_medium=RSS&at_campaign=rss",
+      "summary": "Social media footage showed debris falling from a small aircraft after it reportedly crashed into Beijing's tallest skyscraper.",
+      "tags": [
+        "china",
+        "accident",
+        "aviation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "189ccbf2fe37838a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "DR Congo takes Rwanda to international court over decades of conflict",
+      "url": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Democratic Republic of Congo has brought Rwanda before an international court, alleging that its neighboring country has committed multiple violations over decades of conflict since the 1994 Rwandan genocide.",
+      "tags": [
+        "africa",
+        "congo",
+        "rwanda"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0f31c791a282e23b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Europe's deadly heatwave breaks German record and halts public events",
+      "url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+      "summary": "A severe heatwave sweeping across Europe has provisionally broken Germany's temperature record at 41.3C in Saarbrücken, leading to the cancellation of public events. The extreme heat poses significant public health concerns.",
+      "tags": [
+        "climate",
+        "heatwave",
+        "europe"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ffb9c417f61eeb65",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
+      "url": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Former Trump adviser John Bolton pleaded guilty to mishandling classified documents, now facing a possible five-year prison sentence and a $2.25 million fine.",
+      "tags": [
+        "politics",
+        "legal",
+        "trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "053526960de3989d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Hit South African show gets the world talking about polygamy and cheating",
+      "url": "https://www.bbc.co.uk/news/articles/cx2djde7v2do?at_medium=RSS&at_campaign=rss",
+      "summary": "A popular South African Zulu-language series about a polygamous man has achieved global success, igniting widespread conversations about polygamy and infidelity.",
+      "tags": [
+        "culture",
+        "tv",
+        "south africa"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1e6bea44fbe5dc1b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
+      "url": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss",
+      "summary": "As rescue teams in Caracas ceaselessly search for survivors after the recent earthquakes, hope is fading, and public anger is reportedly growing. Many view this period as one of Venezuela's most challenging modern moments.",
+      "tags": [
+        "venezuela",
+        "earthquake",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fc433e13bb65c578",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
+      "url": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel and Lebanon have signed a framework agreement brokered by the US, despite Hezbollah not being a party to the deal. Previous ceasefires between the two nations have not prevented ongoing cross-border strikes.",
+      "tags": [
+        "israel",
+        "lebanon",
+        "diplomacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fe2c204619077e52",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Just how much trouble is Canada's economy in?",
+      "url": "https://www.bbc.co.uk/news/articles/c70y1y909pdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Five charts analyze the current state of Canada's economy, comparing its performance against other affluent nations to gauge its financial health.",
+      "tags": [
+        "canada",
+        "economy",
+        "finance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "10dcb0419eb58e4d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
+      "url": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
+      "summary": "The once-strong relationship between Italy's Prime Minister Meloni and Donald Trump has publicly fractured, marked by mutual attacks and personal insults. This public fallout is proving challenging to repair despite their previous cordiality.",
+      "tags": [
+        "politics",
+        "international relations",
+        "italy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8b0c8792b9036f4e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Mother dies saving daughter in Venezuela earthquakes",
+      "url": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
+      "summary": "During the Venezuela earthquakes that killed at least 920 people, a mother tragically died while saving her daughter. This heroic act was shared by Héctor Bello on social media.",
+      "tags": [
+        "venezuela",
+        "earthquake",
+        "tragedy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1782b2a6f4865cc0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Newborn baby rescued from Venezuela earthquake rubble",
+      "url": "https://www.bbc.co.uk/news/videos/cm2d0vzp3ngo?at_medium=RSS&at_campaign=rss",
+      "summary": "A newborn baby was successfully rescued from the debris following two powerful earthquakes in Venezuela that claimed at least 920 lives.",
+      "tags": [
+        "venezuela",
+        "earthquake",
+        "rescue"
+      ],
+      "priority": false
+    },
+    {
+      "id": "864aefc0a65fd3d0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Pete Buttigieg briefly separated from children after false police report",
+      "url": "https://www.bbc.co.uk/news/articles/cwydx95kjx0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pete Buttigieg reported being separated from his twin children for a day following a false police report, which he described as one of the most difficult experiences of his life.",
+      "tags": [
+        "politics",
+        "legal",
+        "family"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e109f6264c03440f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Religion row as Texas makes Bible stories required reading in schools",
+      "url": "https://www.bbc.co.uk/news/articles/ckg8m2xkg84o?at_medium=RSS&at_campaign=rss",
+      "summary": "Texas has controversially mandated Bible stories as required reading in public schools, drawing criticism that this infringes on religious freedoms. Opponents argue the new requirements blur the separation of church and state.",
+      "tags": [
+        "education",
+        "texas",
+        "religion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9b185fb42f425a88",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "They quit the West for Russia's traditional values, but it wasn't what they expected",
+      "url": "https://www.bbc.co.uk/news/articles/cn075j04pnyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC highlights the experiences of Westerners who relocated to Russia in pursuit of traditional values, only to discover that life there fell short of their expectations.",
+      "tags": [
+        "russia",
+        "society",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f5384e4f13f7e12a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US strikes Iran after attack on cargo ship",
+      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US launched strikes against Iran after a cargo ship attack, with Iran accusing the US of violating an agreement and retaliating against American-linked targets. This escalates tensions between the two nations.",
+      "tags": [
+        "us",
+        "iran",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1e96082639ab120f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
+      "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+      "summary": "Two strong earthquakes in Venezuela have resulted in at least 920 fatalities and left hundreds more feared trapped under rubble. International rescue teams have arrived to support the recovery efforts.",
+      "tags": [
+        "venezuela",
+        "earthquake",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "59a6bb997033eb3e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: BBC reports from La Guaira, one of Venezuela's worst-hit areas",
+      "url": "https://www.bbc.co.uk/news/videos/cwy0lw84p3go?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC reported from La Guaira, a coastal state significantly impacted by twin earthquakes, where rescue teams are still actively searching for survivors amid the rubble.",
+      "tags": [
+        "venezuela",
+        "earthquake",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5637d9b40c1ec2ce",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Lightning strikes seen across UK",
+      "url": "https://www.bbc.co.uk/news/videos/c74y1l9kkryo?at_medium=RSS&at_campaign=rss",
+      "summary": "Intense heat triggered thunderstorms across the UK early Friday morning, resulting in widespread lightning strikes that lit up the night sky.",
+      "tags": [
+        "weather",
+        "uk",
+        "climate"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f14b129c796cee9f",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "AI in mathematics is forcing big questions",
+      "url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "summary": "The integration of AI into mathematics is prompting significant questions regarding the nature of proof, discovery, and human intuition in the field. This development explores the evolving relationship between artificial intelligence and mathematical research.",
+      "tags": [
+        "ai",
+        "mathematics",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1242bf0d9fb5c374",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "summary": "DSpark is a speculative decoding technique designed to accelerate inference for Large Language Models (LLMs), as detailed in a research paper. This method aims to improve the efficiency and speed of AI model operations.",
+      "tags": [
+        "ai",
+        "llm",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "25160abe909a1488",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Fintech Engineering Handbook",
+      "url": "https://w.pitula.me/fintech-engineering-handbook/",
+      "summary": "The Fintech Engineering Handbook serves as a comprehensive guide for engineers and developers working in the financial technology sector. It covers various aspects of building robust and scalable fintech systems.",
+      "tags": [
+        "fintech",
+        "engineering",
+        "software development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dd51eb373cbd89fc",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "OpenRA",
+      "url": "https://www.openra.net/",
+      "summary": "OpenRA is a real-time strategy game engine that reimplements classic Command & Conquer titles and supports custom content. It is a community-driven open-source project.",
+      "tags": [
+        "gaming",
+        "open source",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "333353b2460447f7",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "OpenTTD 16.0-Beta1",
+      "url": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
+      "summary": "OpenTTD 16.0-Beta1 has been released, offering new features and improvements for the open-source transport simulation game. This beta version allows players to test upcoming changes before the official release.",
+      "tags": [
+        "gaming",
+        "open source",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e6de16f0d15d8e7a",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "summary": "OpenAI is previewing GPT-5.6 Sol, a next-generation language model, as detailed in its system card. This release offers a glimpse into the advanced capabilities and safety considerations of their latest AI development.",
+      "tags": [
+        "ai",
+        "openai",
+        "llm"
+      ],
+      "priority": false
+    },
+    {
+      "id": "737809ad886a50c1",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The gap between open weights LLMs and closed source LLMs",
+      "url": "https://blog.doubleword.ai/frontier-os-llm",
+      "summary": "This article discusses the performance and capability gap between open-weight Large Language Models (LLMs) and their closed-source counterparts. It explores the implications of this disparity for developers and the broader AI ecosystem.",
+      "tags": [
+        "ai",
+        "llm",
+        "open source"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f750ba3532adbbf0",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+      "summary": "The U.S. government has permitted Anthropic to release its powerful Mythos AI model to a select group of \"trusted\" U.S. organizations. This decision comes amidst ongoing discussions about AI model access and national security.",
+      "tags": [
+        "ai",
+        "anthropic",
+        "government"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fd4ca169db1df32a",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+      "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+      "summary": "This Stack Exchange article from 2011 explains why kinetic energy is quadratically, rather than linearly, proportional to speed. The discussion delves into the fundamental principles of physics governing energy and motion.",
+      "tags": [
+        "physics",
+        "science",
+        "education"
+      ],
+      "priority": false
+    },
+    {
+      "id": "99caea8a3a0ff5d7",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "4 ways to get creative with your leftovers (and save money on food)",
+      "url": "https://www.npr.org/2026/06/27/nx-s1-5786564/4-ways-get-creative-with-your-leftovers-save-money-on-food",
+      "summary": "Cookbook authors provide four creative strategies for utilizing leftovers, including storage techniques like an \"Eat Me First\" box, to help save money and reduce food waste.",
+      "tags": [
+        "food",
+        "cooking",
+        "money saving"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7431e76dae6f9649",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "As Supreme Court expands Trump's immigration power, experts warn of steeper U.S. population decline",
+      "url": "https://www.npr.org/2026/06/27/nx-s1-5871338/tps-population-scotus-immigration-trump",
+      "summary": "The Supreme Court's decision to affirm Trump's broader immigration authority, allowing for the deportation of hundreds of thousands of foreign migrants, could intensify the existing decline and aging trend of the U.S. population.",
+      "tags": [
+        "immigration",
+        "supreme court",
+        "usa"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e1cb4feca20c3f13",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "How coach Mauricio Pochettino made believers out of the U.S. World Cup team",
+      "url": "https://www.npr.org/2026/06/27/nx-s1-5872818/2026-world-cup-fifa-mauricio-pochettino-usmnt-coach",
+      "summary": "Coach Mauricio Pochettino has successfully transformed the U.S. men's soccer team, guiding them to the World Cup knockout stage after a challenging rebuilding period. His efforts have earned the full belief of his players.",
+      "tags": [
+        "sports",
+        "world cup",
+        "soccer"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c2b82468f667d174",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Inside a secretive Ukrainian team launching deep drone strikes at Russia",
+      "url": "https://www.npr.org/2026/06/27/g-s1-129704/ukraine-long-range-drones-russia-war",
+      "summary": "NPR embedded with a secretive Ukrainian team executing long-range drone strikes up to 1,200 miles into Russia, targeting key infrastructure like oil refineries. This highlights Ukraine's strategy of deep attacks on Russian territory.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "drones"
+      ],
+      "priority": false
+    },
+    {
+      "id": "29d9f8d1859acf1c",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Opinion: Ranch dressing is a winner at the World Cup games",
+      "url": "https://www.npr.org/2026/06/27/nx-s1-5865082/opinion-ranch-dressing-is-a-winner-at-the-world-cup-games",
+      "summary": "NPR's Scott Simon noted the surprising popularity of ranch dressing among international visitors attending the World Cup games in the U.S. This observation highlights a unique cultural intersection during the event.",
+      "tags": [
+        "culture",
+        "food",
+        "world cup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c19008e09af79cd4",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump administration partially lifts export ban on Anthropic's most advanced AI model",
+      "url": "https://www.npr.org/2026/06/27/nx-s1-5871245/trump-administration-imposes-restrictions-for-anthropic-to-halt-access-to-2-ai-models",
+      "summary": "The U.S. government has partially lifted an export ban on Anthropic's advanced AI model, signaling a new level of federal oversight on AI access. OpenAI has also agreed to allow the administration to screen users of its latest model.",
+      "tags": [
+        "ai",
+        "anthropic",
+        "openai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1b6349b7c56e90ea",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Venezuelans in Colombia scramble to send aid as earthquakes death toll increases",
+      "url": "https://www.npr.org/2026/06/27/nx-s1-5872951/venezuela-earthquakes-colombia-aid",
+      "summary": "Aid efforts are intensifying after twin earthquakes killed nearly 1,000 in Venezuela, with international teams arriving but a slow government response hampering relief on the ground.\n(Image credit: Esteban Vega La-Rotta)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "0987ab83126b3217",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "What would George Washington say? It's a busy year for people who portray him",
+      "url": "https://www.npr.org/2026/06/27/nx-s1-5816415/america-250-george-washington-reenactors",
+      "summary": "The 250th anniversary of America's founding has led to increased demand for George Washington reenactors, who suggest his life provides crucial lessons for today's political divides.",
+      "tags": [
+        "history",
+        "usa",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9b52ed8ef8fc1364",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Envoy's pharaoh well party",
+      "url": "https://www.politico.com/live-updates/2026/06/26/world-cup-2026/egypt-ambassador-united-states-fifa-world-cup-2026-00978529",
+      "summary": "Egyptian Ambassador Motaz Zahran and his wife held a farewell party in Washington D.C., ahead of Egypt's World Cup match against Iran. Ambassador Mohamed Hamdy Mohamed Mokhtar El-Molla is slated to replace Zahran.",
+      "tags": [
+        "diplomacy",
+        "egypt",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "72158c2d9d1d7107",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Iran set to progress at World Cup",
+      "url": "https://www.politico.com/live-updates/2026/06/26/world-cup-2026/iran-egypt-world-cup-thriller-00979086",
+      "summary": "Iran is poised to advance in the World Cup after a 1-1 draw with Egypt, a match played against a backdrop of geopolitical tensions, including recent American strikes on Iranian military installations.",
+      "tags": [
+        "sports",
+        "world cup",
+        "iran"
+      ],
+      "priority": false
+    },
+    {
+      "id": "baf7dda507655aee",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Pete Buttigeig targeted by false abuse allegation in Michigan",
+      "url": "https://www.politico.com/news/2026/06/26/pete-buttigeig-false-abuse-allegation-michigan-00978499",
+      "summary": "Former Transportation Secretary Pete Buttigieg and his four-year-old twins were separated for 24 hours due to a false child abuse allegation made to Michigan Child Protective Services. Buttigieg labeled the incident the \"ugliest thing\" of his career, with state police confirming the report was unfounded and a misuse of resources.",
+      "tags": [
+        "politics",
+        "legal",
+        "family"
+      ],
+      "priority": false
+    },
+    {
+      "id": "39c1649422aaf05b",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Spot the pol!",
+      "url": "https://www.politico.com/live-updates/2026/06/26/world-cup-2026/hidden-politician-fifa-world-cup-2026-usha-vance-sofi-stadium-00978441",
+      "summary": "Second Lady Usha Vance was spotted attending the U.S.-Turkey World Cup match in Inglewood, California.",
+      "tags": [
+        "politics",
+        "sports",
+        "world cup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a628c398959dac96",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "The 'Pride Match' that wasn’t",
+      "url": "https://www.politico.com/live-updates/2026/06/26/world-cup-2026/iran-egypt-pride-match-00979082",
+      "summary": "The Egypt vs. Iran World Cup match in Seattle, despite being designated a \"Pride Match,\" featured few rainbow flags, with fans instead displaying national colors and pre-revolutionary Iranian flags. FIFA had attempted to prohibit these political displays under its stadium code of conduct.",
+      "tags": [
+        "world cup",
+        "lgbtq+",
+        "iran"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4995de624154645b",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Dean W. Ball",
+      "url": "https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything",
+      "summary": "Dean W. Ball argues that government restrictions on frontier AI models undermine their profitability and the broader US AI infrastructure buildout. He contends that limiting access to a few companies negates the global market assumption crucial for large-scale AI investment.",
+      "tags": [
+        "ai",
+        "policy",
+        "economics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4c4c0573e785bc1f",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Timothy B. Lee",
+      "url": "https://simonwillison.net/2026/Jun/26/timothy-b-lee/#atom-everything",
+      "summary": "Timothy B. Lee challenges the notion that Large Language Models (LLMs) can be used effectively without skill or a learning curve. He likens this misconception to suggesting that managing employees requires no expertise.",
+      "tags": [
+        "ai",
+        "llm",
+        "debate"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6866e39de166076d",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "The SAVE America Act (and related orders), explained",
+      "url": "https://www.slowboring.com/p/the-save-america-act-and-related",
+      "summary": "President Donald Trump's prioritized SAVE America Act, intended to reform federal election rules, is encountering difficulties in the Senate. This legislative setback has caused frustration for the president.",
+      "tags": [
+        "politics",
+        "legislation",
+        "trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c02a0db6b1567eac",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "summary": "Asian AI startups are introducing new models with similar capabilities to Anthropic's Mythos, leveraging the continued export ban on Anthropic's offerings. This development could lead to a permanent loss of the substantial Asian market for U.S. AI companies.",
+      "tags": [
+        "ai",
+        "asia",
+        "export control"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3ffad06ac2e88502",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
+      "url": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
+      "summary": "Insurance tech startup Corgi has denied allegations by Papermark that it stole an open-source product, sparking debate about \"vibe coding\" practices. The Y Combinator-backed company is currently embroiled in this controversy.",
+      "tags": [
+        "startup",
+        "legal",
+        "open source"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0675e84b7c8e50bb",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "It’s not about Anthropic vs. OpenAI anymore",
+      "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+      "summary": "The growing capabilities of AI models now carry substantial political ramifications, indicating a need for collective action to manage their impact. The focus has shifted beyond competition between Anthropic and OpenAI to broader societal governance.",
+      "tags": [
+        "ai",
+        "policy",
+        "governance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bfa79fb1419733e3",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Novak Djokovic has a new job —  advisor to private equity firm General Atlantic",
+      "url": "https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/",
+      "summary": "Tennis icon Novak Djokovic has taken on a new role as a global strategic advisor for the private equity firm General Atlantic.",
+      "tags": [
+        "business",
+        "sports",
+        "finance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4ae020a1e098e7fe",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "summary": "OpenAI has restricted the rollout of its GPT-5.6 model due to a government request, cautioning that such limitations should not become a regular practice. The company argues that these restrictions hinder access to essential AI tools for users and developers.",
+      "tags": [
+        "ai",
+        "openai",
+        "government"
+      ],
+      "priority": false
+    },
+    {
+      "id": "63308024594a9422",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+      "summary": "OpenAI has appointed Uber India's former head to lead its largest market outside the United States, signaling a major expansion effort in India through new offices, partnerships, and hiring.",
+      "tags": [
+        "openai",
+        "india",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "11dd4c891699d25b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Russian hackers were behind $2.5B hack of Jaguar Land Rover: Report",
+      "url": "https://techcrunch.com/2026/06/26/russian-hackers-were-behind-2-5-billion-hack-of-jaguar-land-rover-report/",
+      "summary": "Russian hackers were reportedly behind the $2.5 billion cyberattack on Jaguar Land Rover last year, an incident identified as one of the most damaging and expensive hacks of recent years.",
+      "tags": [
+        "cybersecurity",
+        "russia",
+        "hacking"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ed556630b69fe0cb",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Tesla settles FSD crash lawsuit as federal investigations continue",
+      "url": "https://techcrunch.com/2026/06/26/tesla-settles-fsd-crash-lawsuit-as-federal-investigations-continue/",
+      "summary": "Tesla has settled a lawsuit concerning a fatal 2023 crash involving its Full Self-Driving (FSD) system, while federal investigations into the advanced driver assistance technology remain active.",
+      "tags": [
+        "tesla",
+        "autonomous vehicles",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9eb80e3612a77bb4",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+      "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "summary": "Founder Connor Christou used AI, specifically Claude, to combat his cancer by inputting comprehensive health data like blood results, scan data, and journal entries. This allowed him to leverage AI in his personal health regimen.",
+      "tags": [
+        "ai",
+        "health",
+        "cancer"
+      ],
+      "priority": false
+    },
+    {
+      "id": "32dc3b1394cd5884",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "TikTok’s road to becoming a super app",
+      "url": "https://techcrunch.com/2026/06/26/tiktoks-road-to-becoming-a-super-app/",
+      "summary": "TikTok is reportedly evolving into a \"super app,\" aspiring to integrate a wide array of digital activities for its users within its single platform.",
+      "tags": [
+        "tiktok",
+        "apps",
+        "social media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "762a22552f3e7893",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "summary": "The Trump administration has approved the use of Anthropic's Mythos 5 AI model for over 100 U.S. companies and government agencies, including their international employees.",
+      "tags": [
+        "ai",
+        "anthropic",
+        "government"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1d1ad38114db9bd7",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "A Time of Monsters",
+      "url": "https://www.thefp.com/p/a-time-of-monsters",
+      "summary": "The article criticizes NYC Mayor Zohran Mamdani and his allies for using \"eliminationist language\" against Israel and its supporters, notably calling AIPAC \"monsters,\" which allegedly influenced Democratic primary voters. This rhetoric, supported by groups like DSA and prominent progressives, is seen as polarizing and damaging.",
+      "tags": [
+        "politics",
+        "new york",
+        "israel"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3335b3f556560228",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "I Planned JFK Jr.’s Secret Wedding. Here’s How Taylor and Travis Could Pull It Off.",
+      "url": "https://www.thefp.com/p/i-planned-jfk-jrs-secret-wedding",
+      "summary": "RoseMarie Terenzio, who orchestrated JFK Jr.'s famously secret wedding, offers insights on how Taylor Swift and Travis Kelce could manage a private ceremony despite widespread speculation. She emphasizes the importance of decoys and stringent privacy protocols.",
+      "tags": [
+        "celebrities",
+        "wedding",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9a469ec6c486b8c1",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Rod Dreher: What I Learned in Hungary",
+      "url": "https://www.thefp.com/p/rod-dreher-what-i-learned-in-hungary",
+      "summary": "Rod Dreher left Hungary for the U.S. after Viktor Orbán's electoral defeat and the ensuing \"vengeance\" atmosphere, which he anticipates will close the Danube Institute where he worked. He had moved to Hungary to explore Orbán's political ideas for American conservatives.",
+      "tags": [
+        "hungary",
+        "politics",
+        "conservatism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "02bb781871a960c7",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Supreme Court Read Immigration Law Plainly. And the Media Freaked Out.",
+      "url": "https://www.thefp.com/p/supreme-court-immigration-law-decision",
+      "summary": "An article criticizes media portrayals of a Supreme Court immigration decision, arguing headlines distorted the ruling by implying a new Trumpian measure when it upheld an Obama-era policy. The court affirmed Trump's power to deport migrants based on how asylum claims at ports of entry are processed under existing law.",
+      "tags": [
+        "supreme court",
+        "immigration",
+        "media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6834cf44fe6ff28c",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Two Drinks with . . . the Senator Warning Trump That Iran ‘Cannot Be Trusted’",
+      "url": "https://www.thefp.com/p/two-drinks-tim-sheehy",
+      "summary": "Senator Tim Sheehy of Montana cautions against trusting Iran, citing his friends killed by Iranian-backed forces, despite Trump's assertion that Iran's new leaders are rational. Sheehy argues the regime remains dangerous and has not fundamentally changed.",
+      "tags": [
+        "iran",
+        "us",
+        "foreign policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "77e2572d1b9843ec",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "How to Be a Tree: Notes on the Resilience of Letting Go",
+      "url": "https://www.themarginalian.org/2026/06/27/trees/",
+      "summary": "This essay explores trees as powerful metaphors for resilience, highlighting their biological processes like photosynthesis and the shedding of leaves (abscission). It draws connections between these natural phenomena and lessons for human life, informed by philosophical and poetic perspectives.",
+      "tags": [
+        "nature",
+        "philosophy",
+        "resilience"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8e2741bd96781b2b",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Anthropic&#8217;s Mythos 5 is back",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+      "summary": "Anthropic's Mythos 5 AI model has partially returned to operation for a select group of organizations following negotiations with the Trump administration. The public-facing Fable 5 model, however, is still awaiting a rollout agreement.",
+      "tags": [
+        "ai",
+        "anthropic",
+        "government"
+      ],
+      "priority": false
+    },
+    {
+      "id": "368ea19939ce93d1",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Indie developers got tired of waiting for a new Star Fox, so they’re making their own",
+      "url": "https://www.theverge.com/entertainment/957679/indie-developers-star-fox-games",
+      "summary": "Due to Nintendo's long-standing neglect of the Star Fox franchise, indie developers are creating new games like \"Ex-Zodiac\" and \"Whisker Squadron: Survivor\" to fill the void. This trend highlights a strong fan nostalgia for the series, which hasn't seen an original entry since the Wii U.",
+      "tags": [
+        "gaming",
+        "indie",
+        "nintendo"
+      ],
+      "priority": false
+    },
+    {
+      "id": "aea002b6674b2fde",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Inside the room where the smart home industry is still betting on Matter",
+      "url": "https://www.theverge.com/tech/958008/matter-unify-conference-csa-apple-google-amazon-samsung-smart-home-interoperability",
+      "summary": "Four years post-launch, the smart home industry continues to back Matter, an interoperability standard developed collaboratively by tech giants like Apple, Google, and Amazon. Matter aims to simplify smart home device setup and end ecosystem lock-in, making devices universally compatible.",
+      "tags": [
+        "smart home",
+        "matter",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b03a7532025f93b5",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "This might be the new best smart speaker",
+      "url": "https://www.theverge.com/tech/958127/google-home-speaker-star-fox-installer",
+      "summary": "The \"Installer\" guide discusses various cultural interests of the author, including books, shows, and games, but does not provide details or a review of a \"new best smart speaker\" as suggested by the title.",
+      "tags": [
+        "culture",
+        "entertainment",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1d2c7dec6c166907",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "This puzzle game&#8217;s simple premise hides surprising depth",
+      "url": "https://www.theverge.com/games/957474/whats-the-password-review-pc-ios-android",
+      "summary": "\"What's the Password?\" is a puzzle game challenging players to input four-digit codes, offering surprising depth and variety despite its simple premise. With over 100 puzzles, it employs diverse clue formats, including text and visual cues.",
+      "tags": [
+        "gaming",
+        "puzzle",
+        "indie"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 105,
+    "summarized": 77,
+    "skipped_promos": 0,
+    "filtered_by_rules": 28,
+    "sources": 11,
+    "email_items_omitted": 0
+  }
+}
