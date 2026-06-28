@@ -1,0 +1,763 @@
+{
+  "date": "2026-06-28",
+  "generated_at": "2026-06-28T15:14:13+00:00",
+  "hot_topics": [
+    {
+      "topic": "Search for Survivors Continues in Venezuela After Deadly Earthquakes",
+      "synthesis": "Rescue efforts are in a critical phase in Venezuela following twin earthquakes that killed over 1,400 people and left tens of thousands missing. Teams are racing against time, with some rescuers digging by hand, as hospitals treat numerous victims experiencing panic attacks and fractures. International attention is focused on the urgent search for any signs of life in the rubble.",
+      "item_ids": [
+        "e165bd3add52fc59",
+        "b14c834ecc52c9e1",
+        "e0e35d8a401aacd8",
+        "1f9a87be102b0875"
+      ]
+    },
+    {
+      "topic": "AI's Expanding Influence and Industry Growth",
+      "synthesis": "The artificial intelligence sector is experiencing significant growth and impact, drawing comparisons to past tech booms and prompting major talent shifts. While some industry leaders are optimistic about AI's potential in areas like digital payments, others, like author Margaret Atwood, caution about the quality of AI outputs, warning against 'garbage in, garbage out' due to its reliance on existing data. This expansion is also fueling investor interest in related technologies and driving personnel changes.",
+      "item_ids": [
+        "65c3adf764720d34",
+        "3fe2304e94c2a6df",
+        "71b522b702f24c7e",
+        "241dec9a33b573f0"
+      ]
+    },
+    {
+      "topic": "Global Memory Chip Market Facing Supply Chain Pressures",
+      "synthesis": "The global memory chip market is under strain, driving up prices and prompting companies to seek alternative suppliers, even from blacklisted entities. This demand is further intensified by investor confidence in semiconductor manufacturers, as Wall Street identifies companies like Micron as potentially the 'next Nvidia' due to their critical role in the burgeoning AI sector. The reliance on memory chips for advanced technology is highlighting vulnerabilities and strategic considerations in the supply chain.",
+      "item_ids": [
+        "dfb33e1c8352c14d",
+        "241dec9a33b573f0"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "6db2f81b25a82fd4",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gqz5lx1eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Investigators found 117 dead dogs, many with gunshot wounds, at a 'no-kill' animal rescue facility in California, with hundreds more animals still missing.",
+      "tags": [
+        "animal welfare",
+        "crime",
+        "investigation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "21ef06d074e9bee6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Australia to double maximum penalty for platforms in breach of social media ban",
+      "url": "https://www.bbc.co.uk/news/articles/c78yv5g74e9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Australia plans to double the maximum penalty for social media platforms that breach the ban preventing children under 16 from accessing 10 key platforms, enacted in December 2025.",
+      "tags": [
+        "social media",
+        "policy",
+        "youth protection"
+      ],
+      "priority": false
+    },
+    {
+      "id": "558e743f539ecba1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Australian man charged with murder after girl found dead in suitcase in Thailand",
+      "url": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss",
+      "summary": "An Australian man has been charged with murder in Thailand after the body of a 17-year-old girl was discovered discarded in a suitcase near a railway track.",
+      "tags": [
+        "crime",
+        "international",
+        "thailand"
+      ],
+      "priority": false
+    },
+    {
+      "id": "aded18cb0d59604b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Bad Bunny lights up London with history-making stadium show",
+      "url": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Bad Bunny made history as the first Latin artist to headline a UK stadium, electrifying London with his performance and showcasing a blend of pride and party atmosphere.",
+      "tags": [
+        "music",
+        "culture",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "666b1a7af0f42dee",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Budapest's first Pride since Orban left power",
+      "url": "https://www.bbc.co.uk/news/videos/c23yezpg2ypo?at_medium=RSS&at_campaign=rss",
+      "summary": "Budapest hosted its first Pride march since Viktor Orban's 16-year government ended, drawing thousands to celebrate in a significant display of LGBTQ+ rights and visibility.",
+      "tags": [
+        "lgbtq+",
+        "politics",
+        "hungary"
+      ],
+      "priority": false
+    },
+    {
+      "id": "511edf0c30a65c5f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
+      "summary": "An airplane carrying skydivers crashed in eastern France, resulting in the deaths of all eleven people on board, including the pilot and ten passengers.",
+      "tags": [
+        "accident",
+        "aviation",
+        "france"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d90945468f62fc17",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Heatwave breaks records in Germany, Denmark and Czech Republic",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
+      "summary": "A heatwave has broken temperature records across Germany, Denmark, and the Czech Republic, affecting an estimated 150 million people experiencing temperatures over 35C in Europe.",
+      "tags": [
+        "climate",
+        "weather",
+        "europe"
+      ],
+      "priority": false
+    },
+    {
+      "id": "36f3778f67249e51",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "I'm in therapy for my 14-hour-a-day phone addiction and I'm determined to beat it",
+      "url": "https://www.bbc.co.uk/news/articles/cvg7v7j3wqwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Treatment centers are seeing an increase in clients seeking help for severe phone addiction, with one individual sharing their experience in therapy to overcome 14-hour-a-day usage.",
+      "tags": [
+        "mental health",
+        "technology",
+        "addiction"
+      ],
+      "priority": false
+    },
+    {
+      "id": "731d44ba6fb2e524",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel launched strikes on southern Lebanon, killing at least one person, a day after Lebanon and Israel signed a framework agreement, with Hezbollah condemning the new deal.",
+      "tags": [
+        "geopolitics",
+        "conflict",
+        "middle east"
+      ],
+      "priority": false
+    },
+    {
+      "id": "86ff46b6e4fd450e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Millie Bobby Brown and Louis Partridge on belly laughs, sibling vibes and Enola Holmes",
+      "url": "https://www.bbc.co.uk/news/articles/c77ydenvkv1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Millie Bobby Brown discussed her deep involvement in the detective adventure series 'Enola Holmes' with the BBC, highlighting her significant creative input and the positive on-set dynamics.",
+      "tags": [
+        "entertainment",
+        "film",
+        "acting"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b14c834ecc52c9e1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Panic attacks and fractures - Venezuela hospital treats earthquake victims",
+      "url": "https://www.bbc.co.uk/news/videos/cm2d0rjg4l3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC travelled to a Caracas hospital that is treating people from the worst affected areas.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "5a0265979d2a3582",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Sort Your Life Out: The four most common cluttering mistakes and how to fix them",
+      "url": "https://www.bbc.co.uk/news/articles/cvgd54yvjz1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tidying expert Dilly Carter offers practical tips on organizing kitchens, lounges, and clothes, addressing the four most common cluttering mistakes to help streamline home spaces.",
+      "tags": [
+        "lifestyle",
+        "home organization",
+        "self-improvement"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2a152b84126775a8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "These women said no to having kids - here's why",
+      "url": "https://www.bbc.co.uk/news/articles/cz0jx2z2l41o?at_medium=RSS&at_campaign=rss",
+      "summary": "Women are increasingly choosing not to have children due to various factors, including financial constraints, environmental concerns, and personal choices, as shared with the BBC.",
+      "tags": [
+        "society",
+        "demographics",
+        "lifestyle"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e165bd3add52fc59",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
+      "url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Rescuers spent six hours carefully digging to reach one of the boys, as many residents continue searching through the rubble by hand, still waiting for heavy machinery to arrive.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "0423af00c7ffc2f3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Uganda's leading media outlets shut down by army chief",
+      "url": "https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo?at_medium=RSS&at_campaign=rss",
+      "summary": "Uganda's army chief has ordered the shutdown of the country's leading media outlets, including NTV and Daily Monitor, which report their offices are under \"military siege.\"",
+      "tags": [
+        "press freedom",
+        "uganda",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a720c5ecb0829dc6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
+      "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US and Iran have reportedly exchanged strikes, with each side accusing the other of violating a ceasefire agreement, escalating regional tensions.",
+      "tags": [
+        "geopolitics",
+        "conflict",
+        "iran"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e0e35d8a401aacd8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: A race against the clock for Venezuela earthquake rescuers",
+      "url": "https://www.bbc.co.uk/news/videos/cjdgrrvvvjgo?at_medium=RSS&at_campaign=rss",
+      "summary": "There is a sense that the next few hours will be critical for saving anyone who is still trapped, says the BBC's Dan Johnson reporting from the border of Venezuela and Columbia.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f12137108d37b908",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What news reports from 1600s tell us about life in Mughal India",
+      "url": "https://www.bbc.co.uk/news/articles/c1dy5y3y2g3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of newly discovered news reports from the 1600s are providing fresh insights into the daily life and political landscape of Aurangzeb's Mughal India.",
+      "tags": [
+        "history",
+        "india",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "71b39f0659df435e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
+      "url": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss",
+      "summary": "North Korean leader Kim Jong Un's mother and her controversial lineage are largely unknown to the public, as this information could undermine the legitimacy of the regime.",
+      "tags": [
+        "north korea",
+        "politics",
+        "history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "967895aa9b47de2c",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+      "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+      "summary": "A setup guide for AMD Strix Halo RDMA clusters has been published on GitHub, providing instructions for configuring high-performance computing systems.",
+      "tags": [
+        "hardware",
+        "high performance computing",
+        "tech guide"
+      ],
+      "priority": false
+    },
+    {
+      "id": "52ba978944b3f566",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+      "url": "https://github.com/bikini/exploitarium",
+      "summary": "An anonymous GitHub account has been observed mass-dropping undisclosed zero-day exploits, raising concerns within the cybersecurity community.",
+      "tags": [
+        "cybersecurity",
+        "vulnerabilities",
+        "infosec"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a434af7383e49a70",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Choosing a Public DNS Resolver",
+      "url": "https://evilbit.de/dns-resolver-guide.html",
+      "summary": "An article provides guidance on selecting a public DNS resolver, detailing factors and considerations for users to make an informed choice for their network settings.",
+      "tags": [
+        "networking",
+        "security",
+        "internet"
+      ],
+      "priority": false
+    },
+    {
+      "id": "05ad64918135419c",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Marfa Public Radio Puts You to Sleep",
+      "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+      "summary": "Marfa Public Radio offers a podcast designed to help listeners fall asleep, presenting it as a unique approach to audio content for relaxation.",
+      "tags": [
+        "podcast",
+        "media",
+        "sleep"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5de3e31247e596fb",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
+      "url": "https://decomp-academy.dev",
+      "summary": "Decomp Academy is a free, interactive online platform teaching users how to decompile GameCube games into matching C code, starting from basic concepts for programmers with little prior experience.",
+      "tags": [
+        "programming",
+        "gaming",
+        "education"
+      ],
+      "priority": false
+    },
+    {
+      "id": "730a769abf22eec6",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Turn your site into a place people can bump into each other",
+      "url": "https://cauenapier.com/blog/townsquare_release/",
+      "summary": "TownSquare, a 'tiny presence layer for websites,' allows site owners to create a virtual space where visitors can 'bump into each other,' enhancing community interaction.",
+      "tags": [
+        "web development",
+        "community",
+        "social features"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1f9a87be102b0875",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "'If you are alive, make any noise': Venezuela searches rubble on day 4",
+      "url": "https://www.npr.org/2026/06/28/nx-s1-5873413/venezuela-earthquake",
+      "summary": "Rescue teams are racing against time after twin earthquakes killed more than 1,400 people and left tens of thousands unaccounted for.\n(Image credit: Miguel Medina)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "bb709c864f333623",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Critical fire weather complicates firefighting efforts in massive Utah wildfire",
+      "url": "https://www.npr.org/2026/06/27/nx-s1-5873445/utah-wildfire-cottonwood-dry-weather",
+      "summary": "Firefighters are grappling with extreme wildfire behavior and critical weather conditions while battling the nation's largest current wildfire in southern Utah.",
+      "tags": [
+        "wildfires",
+        "disaster",
+        "environment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d32e4fada9a76027",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Food defined social hierarchy in 1776. Here's what was on the table",
+      "url": "https://www.npr.org/2026/06/28/nx-s1-5843114/250-colonial-america-1776-food-anniversary",
+      "summary": "In 1776, dietary choices in America, which included items like Parmesan ice cream and terrapin, significantly reflected and reinforced social hierarchy.",
+      "tags": [
+        "history",
+        "society",
+        "food"
+      ],
+      "priority": false
+    },
+    {
+      "id": "255521b3f1014a00",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "July 4th fireworks in Washington: What's different for America's 250th?",
+      "url": "https://www.npr.org/2026/06/28/nx-s1-5869604/dc-fireworks-trump-250-world-record",
+      "summary": "Washington, D.C., is preparing for its July 4th fireworks display, featuring a massive show to celebrate America's 250th anniversary.",
+      "tags": [
+        "culture",
+        "events",
+        "celebration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b083bbf19b8235f1",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "On to the knockout round: 4 takeaways from the FIFA World Cup so far",
+      "url": "https://www.npr.org/2026/06/28/nx-s1-5872241/2026-world-cup-fifa-knockout-round-of-32",
+      "summary": "The FIFA World Cup has been an exciting tournament so far, with four key takeaways emerging as teams head into the knockout round.",
+      "tags": [
+        "world cup",
+        "sports",
+        "football"
+      ],
+      "priority": false
+    },
+    {
+      "id": "92b3e19df8f8bfec",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Three firefighters killed on Colorado-Utah border as wildfires intensify",
+      "url": "https://www.npr.org/2026/06/28/g-s1-130737/wildfires-utah-colorado-firefighter-deaths-snyder",
+      "summary": "Three firefighters tragically died on the Colorado-Utah border while battling intensifying wildfires across a parched region, with two other firefighters sustaining injuries.",
+      "tags": [
+        "wildfires",
+        "disaster",
+        "emergency services"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9303e6214a9cd9e9",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Tips for taking care of your pets when fireworks are booming",
+      "url": "https://www.npr.org/2026/06/28/g-s1-130446/fireworks-pets-dogs-cats",
+      "summary": "As communities prepare for large fireworks shows for America's 250th birthday, a guide offers tips for pet owners to keep their dogs and cats safe and calm.",
+      "tags": [
+        "pets",
+        "events",
+        "animal welfare"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7d1a45aad2005064",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump nominates former Oklahoma state trooper to head ICE",
+      "url": "https://www.npr.org/2026/06/27/nx-s1-5873485/trump-nominates-lance-schroyer-ice-director",
+      "summary": "President Trump has nominated Lance Schroyer, a former Oklahoma state trooper, to serve as the director for Immigration and Customs Enforcement (ICE), a position without a Senate-confirmed leader since the Obama administration.",
+      "tags": [
+        "politics",
+        "immigration",
+        "government"
+      ],
+      "priority": false
+    },
+    {
+      "id": "82e88fcf3d31ac34",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Will the new student loan limits actually drive down tuition? Economists weigh in",
+      "url": "https://www.npr.org/2026/06/28/nx-s1-5805988/cost-education-student-loan-tuition-graduate-school",
+      "summary": "Economists are debating whether newly implemented student loan limits will effectively reduce college tuition costs, a connection that has been discussed for nearly four decades.",
+      "tags": [
+        "education",
+        "economy",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e7e9982727948854",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "It's getting real in a New Jersey parking lot",
+      "url": "https://www.politico.com/live-updates/2026/06/27/world-cup-2026/the-most-ferocious-rivalry-00979089",
+      "summary": "A rivalry between New York and New Jersey over World Cup transportation plans has emerged, with differing pricing strategies for shuttle buses and trains leading to revenue shortfalls and ongoing bickering.",
+      "tags": [
+        "world cup",
+        "logistics",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e8678083ee8295bc",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Palestinian flags fly in Texas",
+      "url": "https://www.politico.com/live-updates/2026/06/27/world-cup-2026/palestinian-flags-fifa-world-cup-2026-00979198",
+      "summary": "Jordanian fans at a World Cup match in Texas prominently displayed Palestinian flags and symbols, reflecting their national loyalties and showing solidarity for Palestine.",
+      "tags": [
+        "world cup",
+        "politics",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b60a37f169f5bb96",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Rubio, Patel at Miami match",
+      "url": "https://www.politico.com/live-updates/2026/06/27/world-cup-2026/rubio-patel-at-miami-match-00979185",
+      "summary": "Secretary of State Marco Rubio and FBI Director Kash Patel were seen alongside FIFA President Gianni Infantino at the Colombia vs. Portugal World Cup game in Miami.",
+      "tags": [
+        "world cup",
+        "politics",
+        "diplomacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "91eee256b63494a7",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Spot the pol!",
+      "url": "https://www.politico.com/live-updates/2026/06/27/world-cup-2026/missing-politician-friedrich-merz-00979125",
+      "summary": "German Chancellor Friedrich Merz presented President Donald Trump with a personalized jersey from Germany's national soccer team as a belated birthday gift at the G7 summit.",
+      "tags": [
+        "world cup",
+        "politics",
+        "diplomacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "46159bed899acdf3",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Trump-backed Letlow wins GOP primary for Sen. Bill Cassidy’s seat",
+      "url": "https://www.politico.com/news/2026/06/27/letlow-wins-louisiana-senate-primary-trump-00979200",
+      "summary": "Rep. Julia Letlow secured the Louisiana GOP Senate nomination with President Trump's endorsement, defeating John Fleming in a runoff that emphasized MAGA credentials and focused on conservative bona fides.",
+      "tags": [
+        "politics",
+        "elections",
+        "trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2533d4e4bd16af7e",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "We’re over halfway through primary season. Here’s what the battlegrounds tell us.",
+      "url": "https://www.politico.com/news/2026/06/28/gop-democrats-battlegrounds-trump-2028-00976940",
+      "summary": "Mid-way through primary season, the GOP remains dominated by Trump's MAGA brand, even in swing districts, while the Democratic Party grapples with internal divisions over strategies for winning future elections.",
+      "tags": [
+        "politics",
+        "elections",
+        "republicans"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43e6f91922f91c80",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Where Trump first learned to love soccer",
+      "url": "https://www.politico.com/live-updates/2026/06/27/world-cup-2026/trump-cosmos-pele-studio-54-soccer-00979099",
+      "summary": "President Donald Trump's early interest in soccer was reportedly sparked by the New York Cosmos of the 1970s, a team that transformed American soccer with stars like Pelé and a strong PR push.",
+      "tags": [
+        "world cup",
+        "politics",
+        "history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8fdf24d42da36582",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Saturday discussion post",
+      "url": "https://www.slowboring.com/p/saturday-discussion-post-3c6",
+      "summary": "This article is a general discussion post from 'Slow Boring' inviting readers to engage in open conversation, as indicated by its title and minimal text.",
+      "tags": [
+        "blog",
+        "discussion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "71b522b702f24c7e",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "beba30930b5ea864",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Govee’s smart nugget ice maker makes every iced drink feel like a luxury",
+      "url": "https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/",
+      "summary": "Govee's $500 Life Smart Nugget Ice Maker Pro targets consumers who prioritize high-quality, chewable nugget ice, elevating the experience of iced drinks with a premium smart home appliance.",
+      "tags": [
+        "smart home",
+        "appliances",
+        "lifestyle"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3fe2304e94c2a6df",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
+      "url": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
+      "summary": "Dilip Asbe said that newer UPI apps could be more competitive with a viable commercial model",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "425b62eab0ba6e0f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Instagram is testing more ways to customize ‘Your Algorithm’",
+      "url": "https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/",
+      "summary": "Instagram is reportedly testing new features that would allow users more control and customization over their algorithm, influencing the content they see on the platform.",
+      "tags": [
+        "social media",
+        "privacy",
+        "algorithms"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2c126c380b16d818",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+      "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+      "summary": "SoftBank's CEO, along with others, expresses skepticism regarding Elon Musk’s ambitious plans for orbital data centers, questioning the feasibility and hype surrounding the concept.",
+      "tags": [
+        "space",
+        "technology",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "241dec9a33b573f0",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+      "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+      "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "54476ab7df52763e",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Ad-free streaming is a luxury now",
+      "url": "https://www.theverge.com/column/958379/streaming-industry-ads",
+      "summary": "Ad-free streaming, once an affordable alternative to cable with services like Netflix at $7.99/month, is now becoming a luxury as prices rise and ad-supported tiers become more common.",
+      "tags": [
+        "streaming",
+        "media",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dfb33e1c8352c14d",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
+      "url": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
+      "summary": "Apple is looking to alleviate some of the pressure on its supply chain by\nseeking an exception\nfrom the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People's Liberation Army, according to the\nFinancial Times\n. The skyrock…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "65c3adf764720d34",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+      "summary": "Margaret Atwood onstage at Detroit Opera House on January 26, 2026 | Photo: Monica Morgan/Getty Images\nMaraget Atwood, the storied author of\nThe Handmaid's Tale\nand\nThe Blind Assassin\n, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "2132e5272dbfe8df",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Nest&#8217;s quest to fix your thermostat",
+      "url": "https://www.theverge.com/podcast/958735/nest-thermostat-version-history",
+      "summary": "This podcast episode explores the origin story of Nest, detailing how former iPhone developer Tony Fadell sought to revolutionize the thermostat and smart home technology.",
+      "tags": [
+        "smart home",
+        "technology",
+        "product development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ad98d548b2eaaba0",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler",
+      "url": "https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler",
+      "summary": "Teenage Engineering released OS 2.5 for its EP-133 KO II sampler, adding significant features such as audio over USB, selectable sample rates for lo-fi effects, sample reverse, and an arpeggiator.",
+      "tags": [
+        "music technology",
+        "gadgets",
+        "audio"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7e02df2e20c980ba",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "TMD’s keyless bike lock is a $280 solution to a $60 problem",
+      "url": "https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review",
+      "summary": "A review of TMD's $280 keyless bike lock highlights its blend of hardened steel, Dyneema/Kevlar fibers, Bluetooth, and motion alarm, making it a robust, ART-2 certified option despite its high cost.",
+      "tags": [
+        "smart devices",
+        "security",
+        "cycling"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 72,
+    "summarized": 54,
+    "skipped_promos": 0,
+    "filtered_by_rules": 18,
+    "sources": 7,
+    "email_items_omitted": 0
+  }
+}
