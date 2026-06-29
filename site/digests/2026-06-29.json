@@ -1,0 +1,1021 @@
+{
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T16:51:27+00:00",
+  "hot_topics": [
+    {
+      "topic": "WhatsApp Introduces Usernames for Enhanced Privacy",
+      "synthesis": "WhatsApp is rolling out a new username feature later this year, allowing users to connect and chat without sharing their phone numbers, thereby increasing privacy. Users are currently able to reserve their desired handles ahead of the official launch. This update aims to offer a more private communication experience on the platform.",
+      "item_ids": [
+        "25deba5bd3af9ca5",
+        "cc19b0d38290a246"
+      ]
+    },
+    {
+      "topic": "Supreme Court Expands Presidential Power Over Independent Agencies",
+      "synthesis": "The Supreme Court, in a 6-3 decision, ruled that the President can fire commissioners of independent agencies like the Federal Trade Commission, overturning a nearly century-old precedent that required \"for cause\" removals. This ruling significantly enhances presidential control over bodies previously designed to operate with a degree of independence from the executive branch.",
+      "item_ids": [
+        "e9a7156d380d73a5",
+        "4100441c1151da60"
+      ]
+    },
+    {
+      "topic": "Supreme Court Restricts Geofence Warrants",
+      "synthesis": "The Supreme Court has imposed restrictions on the use of geofence warrants, ruling that the technique of collecting location data to identify individuals within a geographical area violates Fourth Amendment privacy rights. This decision is seen as a major win for privacy advocates, who have long argued against the constitutionality of such surveillance methods.",
+      "item_ids": [
+        "7a79a571dde6762b",
+        "9459fe6a631ac8a4"
+      ]
+    },
+    {
+      "topic": "Supreme Court Blocks Trump's Attempt to Fire Federal Reserve Governor",
+      "synthesis": "The Supreme Court has blocked former President Donald Trump's attempt to fire Federal Reserve governor Lisa Cook, sending the legal battle over her removal back to lower courts. This decision is viewed as a significant victory for the independence of the central bank. It reinforces the idea that the Federal Reserve should operate free from direct political influence.",
+      "item_ids": [
+        "d78cf5b27543f4ba",
+        "ca52fe0ab9a5648c"
+      ]
+    },
+    {
+      "topic": "US and Iran Exchange Strikes Amidst Ceasefire",
+      "synthesis": "The U.S. and Iran exchanged military strikes over the weekend, with both nations accusing each other of violating a ceasefire agreement. Despite the escalating tensions, President Trump announced that talks with Iran would resume in Qatar. However, Iran has not yet confirmed its participation in these diplomatic efforts, leaving the future of the ceasefire uncertain.",
+      "item_ids": [
+        "756a2a7a0dddf3cb",
+        "c8661f29ef653b04",
+        "29c264bc18b13449"
+      ]
+    },
+    {
+      "topic": "Pakistani Airstrikes Cause Civilian Casualties in Afghanistan",
+      "synthesis": "Pakistani airstrikes near the Afghanistan border have reportedly killed dozens of civilians and wounded many more, according to UN and Afghan officials. While Pakistan claims it targeted militant hideouts in response to cross-border attacks, the Taliban government vehemently condemned the actions as an atrocity. The incident has significantly heightened tensions between the two nations.",
+      "item_ids": [
+        "f1b5be28b1aea28f",
+        "2e8fbc6fb62cce76"
+      ]
+    },
+    {
+      "topic": "TIDAL Implements Policy Against AI-Generated Music Monetization",
+      "synthesis": "Music streaming service TIDAL has announced a new policy explicitly stating that it will not allow AI-generated music to be monetized on its platform. This move reflects a growing trend in the entertainment industry to address the economic implications and ethical concerns surrounding artificial intelligence in content creation.",
+      "item_ids": [
+        "fb24d65524f6eaf2",
+        "7fd40df339eae3f4"
+      ]
+    },
+    {
+      "topic": "Flipper Devices Launches Busy Bar Productivity Tool",
+      "synthesis": "Flipper Devices, the creators of the Flipper Zero, are launching a new \"productivity multitool\" called the Busy Bar, which features a pixelated LED display. Retailing for $249, with initial discounts available, the device is designed to help users reduce distractions and improve focus. Shipments and sales are set to begin next month.",
+      "item_ids": [
+        "663081bacf458947",
+        "2054cfc39c412a58"
+      ]
+    },
+    {
+      "topic": "Canada's Historic World Cup Run Celebrated Nationally",
+      "synthesis": "Canada's national football team is being hailed as \"Canadian heroes\" after an impressive and historic run in the World Cup, a performance that Prime Minister Mark Carney celebrated for its impact on the sport in the country. This strong showing has captivated the nation, with predictions that it will profoundly change the face of Canadian football.",
+      "item_ids": [
+        "eef2bbdfbe62e009",
+        "60fa49452e7dcac3"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "09808ea3cfdaa4b8",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "The measure of flourishing",
+      "url": "https://aeon.co/essays/it-doesnt-have-to-be-us-versus-nature",
+      "summary": "The Nature Relationship Index (NRI) is introduced as a new global metric aiming to precisely capture the dependency of human prosperity on nature.",
+      "tags": [
+        "environment",
+        "sustainability",
+        "science"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bbd6ab16373ace8c",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Timelapse of the Universe",
+      "url": "https://aeon.co/videos/the-13-billion-years-that-led-to-us-a-cosmological-timelapse",
+      "summary": "This video condenses 13 billion years of the cosmos into 10 minutes, posing the question of when humans appear in this cosmological timelapse.",
+      "tags": [
+        "cosmology",
+        "science",
+        "video"
+      ],
+      "priority": false
+    },
+    {
+      "id": "eb33b3adbc05b8bf",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Comcast is splitting its media and broadband properties",
+      "url": "https://arstechnica.com/tech-policy/2026/06/comcast-is-splitting-its-media-and-broadband-properties/",
+      "summary": "Comcast plans to separate its media businesses, including NBCUniversal and Sky, from its mobile and broadband networks through a tax-free spin-off within a year. This strategic move aims to adapt to the evolving media landscape where audiences increasingly shift to social media and streaming platforms.",
+      "tags": [
+        "business",
+        "media",
+        "broadband"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6217dec25927f830",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "F1 in Austria: Starts off exciting, then goes the opposite way",
+      "url": "https://arstechnica.com/cars/2026/06/f1-in-austria-starts-off-exciting-then-does-the-opposite/",
+      "summary": "The Formula 1 Austrian Grand Prix at the Red Bull Ring saw a resurgent Red Bull and Max Verstappen challenge Mercedes' dominance, despite high expectations for Ferrari's Lewis Hamilton. The article also provides a history of the Red Bull Ring, highlighting its transformation from a dangerous 1960s track to its modern, safer iteration.",
+      "tags": [
+        "f1",
+        "racing",
+        "sports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "02abd7fce99ed02d",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Wildwood featurette lifts the veil on building its stop-motion world",
+      "url": "https://arstechnica.com/culture/2026/06/wildwood-featurette-lifts-the-veil-on-building-its-stop-motion-world/",
+      "summary": "Laika Studios released a behind-the-scenes featurette for \"Wildwood,\" Travis Knight's stop-motion animated fantasy film, showcasing the elaborate world-building process. Adapted from Colin Meloy and Carson Ellis's 2011 novel, the movie transforms Portland's Forest Park into a magical realm with talking animals and threats.",
+      "tags": [
+        "film",
+        "animation",
+        "fantasy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a9ed185fa1c30dba",
+      "source": "Astral Codex Ten",
+      "source_type": "substack",
+      "title": "Open Thread 440",
+      "url": "https://www.astralcodexten.com/p/open-thread-440",
+      "summary": "Open Thread 440 provides updates on various topics, including the suspension of Lumina dental probiotic sales due to colonization issues and the announcement of finalists for a book review contest.",
+      "tags": [
+        "blog",
+        "updates",
+        "science"
+      ],
+      "priority": false
+    },
+    {
+      "id": "eef2bbdfbe62e009",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'You are Canadian heroes' - the forgotten hosts making World Cup history",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg4pen8xq7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Canada are making history at this World Cup with a run that is likely to change the face of football in the country forever.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "9f470a3601f43806",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Anger directed at Venezuela's official response to earthquake recovery",
+      "url": "https://www.bbc.co.uk/news/videos/cj4glezz1jvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Residents in Venezuela's earthquake-affected areas are expressing anger over the state's recovery efforts, criticizing the government's response in locating survivors and aiding victims.",
+      "tags": [
+        "venezuela",
+        "earthquake",
+        "government"
+      ],
+      "priority": false
+    },
+    {
+      "id": "09531cbc02889365",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Australian man charged with murder after dead girl found in suitcase in Thailand",
+      "url": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss",
+      "summary": "An Australian man has been charged with murder in Thailand after the body of 17-year-old Tunchanok Donhomla was found discarded in a suitcase near a railway track.",
+      "tags": [
+        "crime",
+        "thailand",
+        "australia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8542eb86a5c94414",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "BBC at Venezuela baseball stadium sheltering earthquake survivors",
+      "url": "https://www.bbc.co.uk/news/videos/c5yz392v508o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC reports from a baseball stadium in Venezuela sheltering earthquake survivors, who are dependent on donations and hope authorities will provide temporary accommodation.",
+      "tags": [
+        "venezuela",
+        "earthquake",
+        "humanitarian"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5c83d444502b0048",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Biden blasts Trump 'vanity projects', calling him a 'loser' at fundraising event",
+      "url": "https://www.bbc.co.uk/news/articles/cy73mvn607do?at_medium=RSS&at_campaign=rss",
+      "summary": "At a fundraising event, President Biden criticized former President Trump's \"vanity projects,\" including a planned new White House ballroom, and referred to him as a \"loser.\"",
+      "tags": [
+        "us politics",
+        "biden",
+        "trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "66e58833dedae167",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Dallas Cowboys Cheerleaders on fame, pressure and World Cup fever",
+      "url": "https://www.bbc.co.uk/news/articles/c15ypnx1v0wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Dallas Cowboys Cheerleaders discuss their new-found fame and the pressures of their role as their Netflix show returns, also touching on World Cup fever.",
+      "tags": [
+        "entertainment",
+        "sports",
+        "nfl"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dcda59eff6424f29",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "DR Congo bans mass gatherings in the  capital to prevent spread of Ebola",
+      "url": "https://www.bbc.co.uk/news/articles/c992k7zk981o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Democratic Republic of Congo has banned mass gatherings in its capital to prevent the spread of Ebola, a move opposition politicians accuse the government of using to halt a planned protest.",
+      "tags": [
+        "dr congo",
+        "health",
+        "ebola"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fbdddebbdca730fd",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
+      "url": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Europe's recent heatwave has been linked to 1,300 deaths, according to the WHO, with Germany experiencing a record temperature of 41.7C. WHO chief Tedros Adhanom Ghebreyesus warned that Europe is unprepared for such high temperatures.",
+      "tags": [
+        "climate",
+        "health",
+        "europe"
+      ],
+      "priority": false
+    },
+    {
+      "id": "57c942e8bbc4ea95",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "First dinosaur bone from Antarctica found in a drawer",
+      "url": "https://www.bbc.co.uk/news/articles/cdep67jnn9zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The first dinosaur bone from Antarctica, a Titanosaur tail fossil collected in 1985, was discovered in a drawer.",
+      "tags": [
+        "science",
+        "paleontology",
+        "antarctica"
+      ],
+      "priority": false
+    },
+    {
+      "id": "113e5c2bc285c3a2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Fitness brand founder and Olympian Les Mills dies aged 91",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzxpzy81vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Les Mills, the founder of the globally recognized fitness brand Les Mills International and an Olympian, has died at the age of 91. His company is known for choreographed workouts like Body Pump and Body Combat.",
+      "tags": [
+        "fitness",
+        "sports",
+        "entrepreneurship"
+      ],
+      "priority": false
+    },
+    {
+      "id": "70d274f705760f73",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How population decline is exposing Germany's old divides",
+      "url": "https://www.bbc.co.uk/news/articles/c24ylyv40y5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Decades after the fall of the Berlin Wall, a population slump in eastern Germany is exacerbating existing social and economic divides within the country.",
+      "tags": [
+        "germany",
+        "demographics",
+        "society"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cb7c83fd965459c4",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Indian journalists condemn 'denial' of voting and passport rights of prominent editor",
+      "url": "https://www.bbc.co.uk/news/articles/cpv37jwd3zzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Indian journalists have condemned the alleged denial of voting and passport rights for a prominent editor, Rajagopal, who claims his name was deleted from electoral rolls, preventing passport renewal.",
+      "tags": [
+        "india",
+        "journalism",
+        "human rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b32bf815ceb1cd58",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Loved and loathed: The making of India's viral liver doctor",
+      "url": "https://www.bbc.co.uk/news/articles/c39y7w901vdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Dr. Cyriac Abby Philips, India's viral liver doctor, has gained a large online following but frequently clashes with traditional medicine specialists.",
+      "tags": [
+        "india",
+        "health",
+        "social media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ee6b8cc17ae569fd",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Mum rescued from Venezuela rubble with newborn baby tells BBC how he helped her survive",
+      "url": "https://www.bbc.co.uk/news/articles/clyw3rkj2p7o?at_medium=RSS&at_campaign=rss",
+      "summary": "A mother rescued from rubble in Venezuela with her 18-day-old baby, Juan David, credits her newborn with helping her survive the devastating earthquakes. This \"miracle\" rescue has become a symbol of hope in the affected region.",
+      "tags": [
+        "venezuela",
+        "earthquake",
+        "rescue"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f1b5be28b1aea28f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Pakistani strikes kill at least 28 civilians in Afghanistan, UN says",
+      "url": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pakistan claims it was targeting militants near its border, but the Taliban government calls it an \"atrocity\".",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "6e216bc39c4b26bc",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Senior South African police officer survives assassination attempt",
+      "url": "https://www.bbc.co.uk/news/articles/c9v2x700l8vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Major-General Feroz Khan, Deputy Crime Intelligence boss in South Africa, survived an assassination attempt just before he was due to appear at an inquiry into police corruption.",
+      "tags": [
+        "south africa",
+        "crime",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b398fd3e1d2face0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Sixth person dies after shooting at youth welfare centre in Germany",
+      "url": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
+      "summary": "A sixth person has died in hospital following a shooting at a youth welfare center in Germany, where four women and a man were killed at the scene.",
+      "tags": [
+        "germany",
+        "crime",
+        "shooting"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8617d14776659a44",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "South Korea football coach quits as president calls for probe into World Cup loss",
+      "url": "https://www.bbc.co.uk/news/articles/cdx7jk0kq4vo?at_medium=RSS&at_campaign=rss",
+      "summary": "South Korea's football coach has resigned after the team's elimination from the World Cup, following calls from the president for a probe into their loss. The team failed to qualify among the best third-placed teams.",
+      "tags": [
+        "football",
+        "sports",
+        "south korea"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d78cf5b27543f4ba",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve governor Lisa Cook",
+      "url": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
+      "summary": "The decision, seen as a win for central bank independence, sends the fight over removal back to the lower courts.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "20fb0300c17c227c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Supreme Court rejects Trump's appeal of E Jean Carroll's sexual abuse case",
+      "url": "https://www.bbc.co.uk/news/articles/cn8q2z5wpn2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Supreme Court rejected Donald Trump's appeal in E. Jean Carroll's sexual abuse case, meaning he must pay her the $5 million in damages previously awarded.",
+      "tags": [
+        "supreme court",
+        "legal",
+        "trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "31c0ed6c440a9c6f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Teyana Taylor's tears and Lauryn Hill tribute steal show at BET Awards",
+      "url": "https://www.bbc.co.uk/news/articles/cpd3y6lv819o?at_medium=RSS&at_campaign=rss",
+      "summary": "Teyana Taylor had an emotional reaction receiving the Icon of the Year award from Janet Jackson at the BET Awards, also featuring a tribute to Lauryn Hill.",
+      "tags": [
+        "music",
+        "awards",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e87602b31245eaf7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Three firefighters die battling huge wildfires on Colorado-Utah border",
+      "url": "https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss",
+      "summary": "Three firefighters have died battling massive wildfires raging across the Colorado-Utah border, prompting both states' governors to declare states of emergency.",
+      "tags": [
+        "wildfires",
+        "disaster",
+        "environment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "756a2a7a0dddf3cb",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
+      "url": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
+      "summary": "A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f3024337e816eb1c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Inside the Venezuela country club now a makeshift hospital",
+      "url": "https://www.bbc.co.uk/news/videos/clyx5r0068go?at_medium=RSS&at_campaign=rss",
+      "summary": "A country club in Caraballeda, Venezuela, has been transformed into a makeshift hospital to care for survivors of the devastating earthquakes.",
+      "tags": [
+        "venezuela",
+        "earthquake",
+        "healthcare"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3b487ab646fcc8c2",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Age verification is just a precursor to automated attribution of speech",
+      "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
+      "summary": "This article suggests that age verification mechanisms are a precursor to broader automated attribution of speech, raising concerns about privacy and anonymity online.",
+      "tags": [
+        "privacy",
+        "policy",
+        "internet"
+      ],
+      "priority": false
+    },
+    {
+      "id": "71ceb6e20f35832a",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+      "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+      "summary": "HackerRank open-sourced its Applicant Tracking System (ATS), revealing inconsistent resume scoring results, with a personal test yielding scores of 90/100, then 74, then 88.",
+      "tags": [
+        "hiring",
+        "software",
+        "open source"
+      ],
+      "priority": false
+    },
+    {
+      "id": "12fc4aee41f6ed10",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Instagram is incorporating users' photos in ads for Meta Glasses",
+      "url": "https://twitter.com/i/status/2071277885646868536",
+      "summary": "Instagram is reportedly using users' photos in advertisements for Meta Glasses, raising privacy concerns.",
+      "tags": [
+        "instagram",
+        "meta",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "54ca7015c7d39dda",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Pollen tried to remove my article and Google is assisting with it",
+      "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
+      "summary": "A pragmatic engineer alleges that Pollen attempted to remove their article, with Google reportedly assisting in the removal effort.",
+      "tags": [
+        "journalism",
+        "censorship",
+        "google"
+      ],
+      "priority": false
+    },
+    {
+      "id": "663904578dddd381",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing",
+      "url": "https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing",
+      "summary": "Samsung, SK Hynix, and Micron are facing a lawsuit in the US for alleged memory price fixing.",
+      "tags": [
+        "legal",
+        "semiconductors",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7fd40df339eae3f4",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Tidal AI Policy",
+      "url": "https://tidal.com/ai-policy",
+      "summary": "Article URL:\nhttps://tidal.com/ai-policy\nComments URL:\nhttps://news.ycombinator.com/item?id=48718840\nPoints: 198\n# Comments: 224",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "30aeaefa26f57e93",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "Agent confidence on the technical frontier",
+      "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+      "summary": "Enterprise investment in agentic AI is booming, with tech teams showing high confidence in using agents for AI, data, and cloud tasks, especially for measurable functions and data workflows. Challenges remain in providing sufficient business context to agents for complex decision-making, emphasizing the need for human oversight.",
+      "tags": [
+        "ai",
+        "enterprise",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2e8fbc6fb62cce76",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, officials say",
+      "url": "https://www.npr.org/2026/06/29/g-s1-130826/pakistani-airstrikes-kill-36-civilians-in-afghanistan-and-wound-160-officials-say",
+      "summary": "Pakistan says it targeted militant hideouts along the Pakistan-Afghanistan border in response to militant attacks across Pakistan. Afghanistan condemned the strikes as acts of aggression.\n(Image credit: Saifullah Zahir)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "4100441c1151da60",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Supreme Court cements Trump's power over agencies long considered independent",
+      "url": "https://www.npr.org/2026/06/29/nx-s1-5816232/supreme-court-ftc-independent-agencies-humphreys-executor",
+      "summary": "In a 6-3 decision, the Supreme Court struck down a 91-year-old precedent that has prevented presidents from removing members of independent agencies meant to be a check on his power.\n(Image credit: Kevin Dietsch)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "9459fe6a631ac8a4",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Supreme Court restricts use of geofence warrants",
+      "url": "https://www.npr.org/2026/06/29/nx-s1-5844697/supreme-court-restricts-use-of-geofence-warrants",
+      "summary": "Writing for the 6-3 majority, Justice Elena Kagan said that the technique, known as geofencing, violates the Fourth Amendment's prohibition against unreasonable searches.\n(Image credit: Al Drago)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "ca52fe0ab9a5648c",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Supreme Court says Fed's Lisa Cook can stay in her job for now",
+      "url": "https://www.npr.org/2026/06/29/nx-s1-5557955/supreme-court-fed-lisa-cook",
+      "summary": "The court's decision means Cook can stay in her position as her challenge to her dismissal plays out in the lower courts.\n(Image credit: Drew Angerer)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "022843a6feedfa58",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "The Supreme Court upholds grace periods for mail-in ballots, siding against the GOP",
+      "url": "https://www.npr.org/2026/06/29/nx-s1-5815312/supreme-court-mail-ballot-grace-period-ruling",
+      "summary": "The Supreme Court upheld a Mississippi law allowing mail-in ballots postmarked by Election Day but received up to five days later to be counted, a decision that sided against the GOP.",
+      "tags": [
+        "supreme court",
+        "elections",
+        "voting rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d6a4fd77958cb0d4",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "They were world-class tennis rivals. Now friends, they've teamed up against cancer",
+      "url": "https://www.npr.org/2026/06/29/nx-s1-5874696/chris-evert-martina-navratilova-tennis-cancer",
+      "summary": "Tennis rivals Chris Evert and Martina Navratilova, now friends, are featured in the documentary \"Chris & Martina: The Final Set,\" discussing their friendship, battles with cancer, and retirement.",
+      "tags": [
+        "tennis",
+        "sports",
+        "health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "29c264bc18b13449",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump says the U.S. and Iran will meet in Qatar after weekend attacks",
+      "url": "https://www.npr.org/2026/06/29/nx-s1-5874618/us-iran-talks",
+      "summary": "President Trump said talks with Iran would resume Tuesday in Qatar, despite the two sides trading attacks in the Gulf over the weekend. Iran did not confirm whether it will participate.\n(Image credit: Eric Lee)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c8661f29ef653b04",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "U.S. and Iran exchange fire despite ceasefire. And, Trump nominates a new head of ICE",
+      "url": "https://www.npr.org/2026/06/29/g-s1-130793/up-first-newsletter-iran-war-ceasefire-venezuela-earthquakes-ice-lance-schroyer",
+      "summary": "The U.S. and Iran exchanged strikes over the weekend, putting their latest ceasefire in jeopardy. And, Trump has nominated a former Oklahoma state trooper to head Immigration and Customs Enforcement.\n(Image credit: Eric Lee)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "60fa49452e7dcac3",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "'Héros canadiens': Carney cheers Canada's late win",
+      "url": "https://www.politico.com/live-updates/2026/06/28/world-cup-2026/mark-carney-cheers-canada-win-world-cup-00979370",
+      "summary": "Canadian Prime Minister Mark Carney celebrated his country's knockout victory over South Africa on Sunday afternoon, posting — in\nEnglish\nand in\nFrench\n, of course — that the squad were, \"True Canadian heroes,\" and adding, \"What a game. What a team. What a country.\"",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "b4f2f8d01e5f7a97",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "AI regulation group is biggest spender on World Cup TV ads",
+      "url": "https://www.politico.com/live-updates/2026/06/28/world-cup-2026/political-spending-tv-adverts-fifa-world-cup-00979364",
+      "summary": "An AI regulation PAC was the largest political spender on World Cup TV advertising during the first two U.S. matches, with other political groups also spending significant amounts.",
+      "tags": [
+        "ai",
+        "politics",
+        "advertising"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ec80fe0229bb23c6",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Iranian diplomat blasts ‘pseudo-VAR’ interventions after World Cup exit",
+      "url": "https://www.politico.com/live-updates/2026/06/28/world-cup-2026/iranian-diplomat-blasts-var-decisions-00979405",
+      "summary": "Iran's ambassador to Mexico criticized \"pseudo-VAR\" interventions for influencing the national soccer team's World Cup exit, praising the team's patriotism despite alleged injustices.",
+      "tags": [
+        "football",
+        "world cup",
+        "iran"
+      ],
+      "priority": false
+    },
+    {
+      "id": "be1294a176beac06",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Spot the pol!",
+      "url": "https://www.politico.com/live-updates/2026/06/28/world-cup-2026/spot-the-pol-mayor-00979288",
+      "summary": "New York City Mayor Zohran Mamdani promoted FIFA World Cup tickets with U.S. national team player Tim Weah, making him a ubiquitous figure at the event.",
+      "tags": [
+        "politics",
+        "new york",
+        "world cup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d49f68fc0a757f2f",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "The real Pride Match is about to kick off",
+      "url": "https://www.politico.com/live-updates/2026/06/28/world-cup-2026/real-pride-match-lgbt-marriage-canada-south-africa-00979346",
+      "summary": "The World Cup match between Canada and South Africa is dubbed a \"Pride Match\" due to both countries being pioneers in legalizing same-sex marriage. Canada enacted the Civil Marriage Act in 2005, and South Africa followed in 2006 after a constitutional court ruling.",
+      "tags": [
+        "lgbtq+",
+        "politics",
+        "world cup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5baa14bb3465da14",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "What Breaks a Cell’s Ribs Can Make It Stronger",
+      "url": "https://www.quantamagazine.org/what-breaks-a-cells-ribs-can-make-it-stronger-20260629/",
+      "summary": "The article explores how animal, plant, and fungi cells undergo a process of being torn apart during division to create two daughter cells. This astounding biological event involves the doubling of nuclear DNA and the disassembly of the nucleus.",
+      "tags": [
+        "biology",
+        "cells",
+        "science"
+      ],
+      "priority": false
+    },
+    {
+      "id": "90d13a27ba6bc3a0",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Hack Your Summer",
+      "url": "https://simonwillison.net/2026/Jun/28/hack-your-summer/#atom-everything",
+      "summary": "\"Hack Your Summer\" is a four-week production sprint for students and recent graduates, offering an alternative path to gain experience amidst a crisis in US college internships. The program, which starts its next free cohort on July 13th, focuses on building tangible public-facing work with mentor support.",
+      "tags": [
+        "education",
+        "careers",
+        "internships"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42b75a7c0b382b9b",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
+      "url": "https://simonwillison.net/2026/Jun/29/ornith/#atom-everything",
+      "summary": "DeepReinforce has released Ornith-1.0, an open-weights LLM built on Gemma 4 and Qwen 3.5, which achieves state-of-the-art performance in agentic coding benchmarks. The model demonstrates proficiency in running agent harnesses over multiple tool calls, as shown in tests like decoding actor cookies or finding UI code.",
+      "tags": [
+        "llms",
+        "ai",
+        "coding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "806170320335b71e",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Jon Udell",
+      "url": "https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything",
+      "summary": "Jon Udell advocates for reframing the relationship between humans and AI, proposing \"agent in the loop\" instead of \"human in the loop\" to emphasize human authority in agent-assisted processes. He suggests inviting agents into human-managed workflows rather than ceding control to machines.",
+      "tags": [
+        "ai",
+        "philosophy",
+        "agentic engineering"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f930ece9563275cf",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "California law targeting loud streaming ads takes effect on July 1",
+      "url": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/",
+      "summary": "A new California law, effective July 1, aims to regulate the volume of streaming advertisements, potentially making them much quieter.",
+      "tags": [
+        "california",
+        "law",
+        "advertising"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2054cfc39c412a58",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Flipper Device’s new Busy Bar is a customizable display for productivity",
+      "url": "https://techcrunch.com/2026/06/29/flipper-devices-new-busy-bar-is-a-customizable-display-for-productivity/",
+      "summary": "Flipper Device's new Busy Bar will retail for $249.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "58e63b9f51d1d9af",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "summary": "Ford is rehiring experienced \"gray beard\" engineers after its initial reliance on artificial intelligence alone did not produce high-quality products. This suggests a re-evaluation of AI's role in product development.",
+      "tags": [
+        "ai",
+        "automotive",
+        "engineering"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7a79a571dde6762b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "In major privacy win, Supreme Court rules geofence warrants are protected by privacy rights",
+      "url": "https://techcrunch.com/2026/06/29/in-major-privacy-win-supreme-court-rules-geofence-warrants-are-protected-by-privacy-rights/",
+      "summary": "The Supreme Court's decision to limit geofence warrants is a win for privacy advocates, who called their use unconstitutional but sought an outright ban.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "16de95a588f2be10",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Omen AI’s plan to optimize data centers is all wet",
+      "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+      "summary": "Omen AI raised $31 million in Series A funding for its liquid cooling solution designed to optimize data centers by monitoring chip coolant and preventing bacterial outbreaks.",
+      "tags": [
+        "ai",
+        "data centers",
+        "cooling"
+      ],
+      "priority": false
+    },
+    {
+      "id": "88f82cdda81b11e5",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Pocket raises $11M in bet on rising demand for AI note-taking devices",
+      "url": "https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/",
+      "summary": "Pocket has raised $11 million, betting on increased demand for AI note-taking devices, with its $129 credit card-shaped puck offering unlimited recordings, transcriptions, and to-do items.",
+      "tags": [
+        "ai",
+        "hardware",
+        "startup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ce20b33f52f1e8fe",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+      "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+      "summary": "Proception, a robot hand company, settled a trade secret lawsuit with Tesla and announced an $11 million funding round. The startup is developing a unique method for collecting training data to address challenges in robotic hand technology.",
+      "tags": [
+        "robotics",
+        "ai",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "62f3873669c48519",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "TechCrunch Mobility: All eyes on Tesla FSD",
+      "url": "https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/",
+      "summary": "TechCrunch Mobility highlights the increasing role of AI in the future of transportation, with particular attention focused on Tesla's Full Self-Driving (FSD) technology.",
+      "tags": [
+        "mobility",
+        "automotive",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fb24d65524f6eaf2",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "TIDAL cracks down on AI music by cutting off monetization",
+      "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+      "summary": "TIDAL's new policy will prevent AI-generated music from making money on its service.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "cc19b0d38290a246",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "WhatsApp now lets you reserve usernames",
+      "url": "https://techcrunch.com/2026/06/29/whatsapp-now-lets-you-reserve-usernames/",
+      "summary": "WhatsApp username can be between 3 to 35 characters length",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "2ce7fd61ea32d827",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience",
+      "url": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/",
+      "summary": "Writer Ian Bogost argues in 'The Small Stuff' that focusing on tangible, smaller things can help individuals reclaim their lives from the over-convenience offered by Silicon Valley, suggesting tech has been building the wrong things.",
+      "tags": [
+        "philosophy",
+        "tech",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d66cbb7d65cdae62",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Great Americans: Stephen Sondheim, Comic Genius",
+      "url": "https://www.thefp.com/p/great-americans-stephen-sondheim",
+      "summary": "Stephen Sondheim, a Broadway musical master and innovator, is celebrated for his psychologically subtle music and vast range of subjects, from historical events to Roman playwrights. Though known as highbrow, he considered himself a writer of \"musical comedy.\"",
+      "tags": [
+        "music",
+        "broadway",
+        "biography"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a775eaf6f1196b34",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Dbrand cancels Companion Cube because it didn&#8217;t actually ask Valve for permission",
+      "url": "https://www.theverge.com/games/959056/dbrand-steam-machine-companion-cube-valve-take-down-canceled",
+      "summary": "Dbrand cancelled its Steam Machine Companion Cube accessory and is issuing refunds, admitting it produced the Portal-themed item without Valve's license. The product, which was the company's second-fastest seller, was pulled after Valve's legal team intervened.",
+      "tags": [
+        "gaming",
+        "legal",
+        "dbrand"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e37443d751534177",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "How to end a TV show",
+      "url": "https://www.theverge.com/entertainment/957707/from-season-4-finale-tv-show-endings",
+      "summary": "Ending mystery-packed TV shows, like \"From\" on MGM Plus, presents a significant challenge as creators must satisfyingly resolve complex plots and questions that initially captivated viewers. Few series successfully deliver on the promise of a fulfilling conclusion, leading to audience tension.",
+      "tags": [
+        "television",
+        "entertainment",
+        "storytelling"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e9a7156d380d73a5",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Supreme Court allows firing of FTC commissioners, ends agency independence",
+      "url": "https://www.theverge.com/policy/958974/supreme-court-slaughter-trump-decision-ftc-agency-independence",
+      "summary": "The Supreme Court just placed once-independent agencies more firmly under presidential control. The\ncourt ruled in\nTrump v. Slaughter\nwith a 6-3 vote that President Donald Trump had the authority to fire the Federal Trade Commission's two Democratic commissioners, even though it…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "663081bacf458947",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The Flipper Zero creators’ Busy Bar productivity display will go on sale next month",
+      "url": "https://www.theverge.com/tech/957784/flipper-devices-busy-bar-productivity-multitool-timer-led-display-presale",
+      "summary": "The Busy Bar makes it obvious to others when you don’t want to be distracted. | Image: Flipper Devices\nFirst\nannounced over a year ago in April 2025\n, the\nBusy Bar\nwill be available for purchase starting on July 14th when the device also starts shipping. Created by the same team…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "885f35f99ee16d26",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "These camera-free smart glasses made me feel like Tony Stark",
+      "url": "https://www.theverge.com/tech/957933/xgimi-memomind-one-ai-smart-glasses-kickstarter-hands-on",
+      "summary": "Xgimi's MemoMind One AI smart glasses, which feature a private green micro-LED display but no cameras, offer unique AI assistant and translation capabilities, though some features are still in beta. Despite being lightweight and discreet, their speakers lack privacy, and outdoor visibility is challenging on sunny days.",
+      "tags": [
+        "smart glasses",
+        "ai",
+        "wearable tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "25deba5bd3af9ca5",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "WhatsApp is launching usernames: here’s how to reserve yours",
+      "url": "https://www.theverge.com/tech/958832/whatsapp-usernames-rollout-reservation-availability",
+      "summary": "You can reserve the username you want to use before the feature starts rolling out later this year. | Image: Meta / WhatsApp\nWhatsApp is introducing a new way to add and chat with contacts, without having to share your phone number. Usernames will be launching \"later this year,\"…",
+      "tags": [],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 95,
+    "summarized": 72,
+    "skipped_promos": 2,
+    "filtered_by_rules": 21,
+    "sources": 13,
+    "email_items_omitted": 0
+  }
+}
