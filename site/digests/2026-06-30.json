@@ -1,0 +1,1240 @@
+{
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T16:19:27+00:00",
+  "hot_topics": [
+    {
+      "topic": "Supreme Court Upholds Birthright Citizenship Against Trump's Challenge",
+      "synthesis": "The Supreme Court, in a 6-3 decision, upheld birthright citizenship, striking down former President Trump's executive order to end the constitutional right established by the 14th Amendment. This ruling, a significant setback for Trump on the court's last day of term, reaffirms citizenship for anyone born in the United States and subject to its jurisdiction. The decision was one of multiple rulings that resulted in mixed outcomes for Trump's legal agenda.",
+      "item_ids": [
+        "cff2cb0ed5a3b212",
+        "22f756279c820304",
+        "d3cbc99b29b947ab",
+        "9f7d90d0f4d3ba0b",
+        "a9032863b2313623"
+      ]
+    },
+    {
+      "topic": "South Korea Commits Trillions to Boost AI and Chip Production",
+      "synthesis": "South Korea's government and leading tech companies are investing over $1 trillion to bolster global memory chip supply and accelerate the commercial deployment of humanoid robots by 2028. This massive commitment aims to position the country as an AI tech powerhouse and address surging demand for memory chips driven by the AI industry. The initiative is intended to ease memory chip shortages and capitalize on current record profits enjoyed by South Korean companies like Samsung and SK Hynix.",
+      "item_ids": [
+        "0b1712ca5e16ec75",
+        "e3b2739c3e7b7615"
+      ]
+    },
+    {
+      "topic": "Venezuelans Accuse Government of Negligence Amid Earthquake Aftermath",
+      "synthesis": "Venezuela is grappling with the aftermath of powerful twin earthquakes, with residents accusing the government of negligence in its response and many communities left to fend for themselves. Rescuers continue to search for survivors amid widespread devastation and aftershocks, listening for signs of life beneath the rubble. Tragically, some Venezuelans recently deported from the U.S. were among those killed in the disaster, highlighting the profound impact on vulnerable populations.",
+      "item_ids": [
+        "8a9d32abd37cd988",
+        "e89be5e1585f0c1d",
+        "10c469e0f6fe4397",
+        "dcee81ed656b134d",
+        "5496176465d595ad"
+      ]
+    },
+    {
+      "topic": "US Renewable Energy Growth Faces Policy Hurdles",
+      "synthesis": "The US electricity grid is seeing a significant shift towards renewables, with solar power generation officially surpassing coal in April for the first time, though much is from off-grid installations. This growth, however, faces threats from proposed regulations by the Trump administration that could impede new solar and wind projects. These actions potentially jeopardize 92 GW of new capacity and $121 billion in investment, aiming to roll back progress in clean energy.",
+      "item_ids": [
+        "242798fba3272d56",
+        "861d5af7c51b5703"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "ea2bc0bc80972848",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Illegible benefits",
+      "url": "https://aeon.co/essays/what-we-cant-measure-about-ai-yet",
+      "summary": "The article explores how the immediate costs of transformative innovations like AI are evident, but their long-term gains are much harder to quantify or understand. This poses a challenge in evaluating their true impact.",
+      "tags": [
+        "ai",
+        "innovation",
+        "economics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "10d94cf476d7112b",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Ozone loss was a thing even before CFCs were widely used",
+      "url": "https://arstechnica.com/science/2026/06/ozone-damage-could-have-been-detected-decades-earlier/",
+      "summary": "A new study suggests ozone depletion could have been detected decades earlier than its discovery in 1974 if modern scientific tools were available. The successful global ban on CFCs after the 1985 Antarctic ozone hole discovery is considered a triumph of environmental action.",
+      "tags": [
+        "ozone layer",
+        "environmental science",
+        "cfc"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e588779927ad3ebc",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Quantum computing startup says it will leapfrog everybody",
+      "url": "https://arstechnica.com/science/2026/06/quera-promises-thousands-of-error-corrected-qubits-by-2029/",
+      "summary": "Quantum computing startup QuEra announced an ambitious roadmap aiming for thousands of error-corrected qubits by 2029, a significant leap from its current 260 error-prone qubits. The company has decided to stop selling noisy intermediate-scale quantum (NISQ) systems.",
+      "tags": [
+        "quantum computing",
+        "technology",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0b1712ca5e16ec75",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
+      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+      "summary": "South Korea's government and top tech companies are committing $1 trillion to megaprojects aiming to boost global memory chip supply, build new AI data centers, and deploy humanoid robots by 2028. This initiative seeks to capitalize on the AI industry's demand for memory chips and position South Korea as a tech leader.",
+      "tags": [
+        "south korea",
+        "ai",
+        "semiconductors"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f0145602a7f2cd2c",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Supreme Court ruling guts government’s use of geofence warrants",
+      "url": "https://arstechnica.com/tech-policy/2026/06/supreme-court-ruling-guts-governments-use-of-geofence-warrants/",
+      "summary": "The Supreme Court ruled that the Fourth Amendment protects a user's location history collected by third parties like Google, requiring a warrant and reasonable cause for government access. This decision limits the government's use of geofence warrants.",
+      "tags": [
+        "supreme court",
+        "privacy",
+        "fourth amendment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1eaa20ed25fbe870",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
+      "url": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
+      "summary": "Federal authorities are offering a $10 million reward for information on a Russian state cyber group that has compromised thousands of Signal and WhatsApp accounts. This group targets investigative reporters and US government employees through phishing campaigns active since March.",
+      "tags": [
+        "cybersecurity",
+        "russia",
+        "hacking"
+      ],
+      "priority": false
+    },
+    {
+      "id": "242798fba3272d56",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "US renewable boom passes key milestone in April",
+      "url": "https://arstechnica.com/science/2026/06/solar-outproduced-coal-in-april-but-not-on-the-grid/",
+      "summary": "US solar power production officially surpassed coal-fired generation in April for the first time, though a caveat notes a significant amount comes from off-grid rooftop installations. This milestone reflects solar's rapid growth as coal use declines despite government attempts to prop it up.",
+      "tags": [
+        "solar energy",
+        "renewables",
+        "us grid"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dcee81ed656b134d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
+      "url": "https://www.bbc.co.uk/news/articles/c78yvq72dg7o?at_medium=RSS&at_campaign=rss",
+      "summary": "With tens of thousands still missing after the Venezuela earthquakes, rescue teams are listening intently for signs of life beneath the rubble. This highlights the desperate search efforts for survivors.",
+      "tags": [
+        "venezuela",
+        "earthquake",
+        "search and rescue"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e89be5e1585f0c1d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
+      "url": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss",
+      "summary": "In areas devastated by twin earthquakes, many Venezuelans are left to fend for themselves, using rudimentary tools to search for survivors as aftershocks fray nerves. This highlights the ongoing struggle and lack of sufficient official support.",
+      "tags": [
+        "venezuela",
+        "earthquake",
+        "disaster response"
+      ],
+      "priority": false
+    },
+    {
+      "id": "79a54098d639e56a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Almost 60,000 far-right extremists in Germany, intelligence agency says",
+      "url": "https://www.bbc.co.uk/news/articles/crlw4ng79wzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Germany's domestic intelligence agency reports that almost 60,000 far-right extremists are present in the country, with over a quarter believed to be violent. This indicates a significant extremist threat.",
+      "tags": [
+        "germany",
+        "extremism",
+        "intelligence"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8a9d32abd37cd988",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Angry Venezuelans accuse government of negligence over earthquake response",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Angry Venezuelans accuse their government of negligence over the response to recent earthquakes, stating they need more support. Residents are frustrated with the official aid efforts.",
+      "tags": [
+        "venezuela",
+        "earthquake",
+        "disaster response"
+      ],
+      "priority": false
+    },
+    {
+      "id": "49e936c876fbb266",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Canadians share hopes and wishes for America's 250th birthday",
+      "url": "https://www.bbc.co.uk/news/videos/cjeg1g82gz8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Canadians shared their hopes and wishes for America's upcoming 250th birthday, reflecting on their relationship with their southern neighbor. The video captures diverse sentiments.",
+      "tags": [
+        "canada",
+        "us relations",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "28d6bbe317352c73",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Chinese tycoon sentenced to 30 years in US jail",
+      "url": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Chinese tycoon Guo Wengui, who branded himself a China critic, was sentenced to 30 years in a US jail for fraudulent schemes that targeted his followers. The case reveals a long-running deception.",
+      "tags": [
+        "china",
+        "fraud",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1f0b4c17e81d9bb9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Flooding hits Ghana's capital killing 13 people - with another storm forecast",
+      "url": "https://www.bbc.co.uk/news/articles/cn4r8zlv8edo?at_medium=RSS&at_campaign=rss",
+      "summary": "Flooding in Ghana's capital has killed 13 people, with another storm forecast, prompting urgent relocation and indoor safety advice. The region faces severe weather challenges.",
+      "tags": [
+        "ghana",
+        "flooding",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "35dc40e5e17f2af2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Founder of Asian super-app Gojek sentenced to years in jail for corruption",
+      "url": "https://www.bbc.co.uk/news/articles/c79yvw23yr9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nadiem Makarim, founder of the Asian super-app Gojek, has been sentenced to years in jail for corruption related to a laptop deal during his term as Indonesia's education minister. The ruling highlights corruption issues.",
+      "tags": [
+        "indonesia",
+        "corruption",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5f66202abac97e1f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Lilo & Stitch star Daveigh Chase's cause of death was Aids",
+      "url": "https://www.bbc.co.uk/news/articles/cx2xyx1qjnyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Actress Daveigh Chase, known for 'Lilo & Stitch' and 'The Ring,' passed away at 35 in LA, with her cause of death attributed to Aids. The report confirms her untimely death.",
+      "tags": [
+        "celebrity",
+        "obituary",
+        "aids"
+      ],
+      "priority": false
+    },
+    {
+      "id": "594c60182cf4aa51",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Manhunt after bomb injures Ukrainian oligarch in Monaco",
+      "url": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
+      "summary": "A Ukrainian oligarch was injured in Monaco by a bomb containing bolts and pellets, leading to a manhunt for the perpetrator. The incident suggests a targeted attack.",
+      "tags": [
+        "monaco",
+        "crime",
+        "ukraine"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a9032863b2313623",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "One big win and three defeats for Trump in dramatic day at Supreme Court",
+      "url": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss",
+      "summary": "A dramatic day at the Supreme Court saw former President Trump achieve one major victory regarding presidential power to remove regulators, but also faced three defeats including the upholding of birthright citizenship. The court’s decisions had mixed outcomes for Trump's agenda.",
+      "tags": [
+        "supreme court",
+        "trump administration",
+        "legal rulings"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2770ae5c3b9fd8c5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Putin makes rare admission of fuel shortages caused by Ukrainian strikes",
+      "url": "https://www.bbc.co.uk/news/articles/clyw31zvpgmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Russian President Vladimir Putin made a rare admission of fuel shortages caused by Ukrainian strikes, though he denied the problems were critical. This acknowledges the impact of ongoing conflict on Russia's infrastructure.",
+      "tags": [
+        "russia",
+        "ukraine",
+        "energy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5496176465d595ad",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Rescuers keep up search for survivors at collapsed La Guaira building",
+      "url": "https://www.bbc.co.uk/news/videos/cz75y2rggppo?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 1,700 people are known to have been killed in the Venezuela disaster, but rescuers continue to search for survivors at a collapsed La Guaira building. Hope remains that others can still be found alive.",
+      "tags": [
+        "venezuela",
+        "earthquake",
+        "search and rescue"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4a4d3bf1fa651553",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Senegalese MPs move to clip presidential powers as tensions mount",
+      "url": "https://www.bbc.co.uk/news/articles/cgl352xjgngo?at_medium=RSS&at_campaign=rss",
+      "summary": "Senegalese MPs have moved to reduce presidential powers, a proposal that sparked protests outside parliament. This legislative action reflects mounting political tensions.",
+      "tags": [
+        "senegal",
+        "politics",
+        "legislation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6d1781a2ea5da5f5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Six people shot dead at centre for mothers and children in Germany",
+      "url": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Six people were shot dead at a center for mothers and children in Germany, with the arrested suspect involved in a custody dispute over his baby daughter. The incident highlights domestic violence and mental health issues.",
+      "tags": [
+        "germany",
+        "shooting",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ec9f200d1d70241e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve Governor Lisa Cook",
+      "url": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
+      "summary": "The Supreme Court blocked former President Trump's attempt to remove Federal Reserve Governor Lisa Cook, sending the dispute back to lower courts. This decision is viewed as a victory for central bank independence.",
+      "tags": [
+        "supreme court",
+        "federal reserve",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "22f756279c820304",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Supreme Court's birthright ruling is major blow to Trump",
+      "url": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC’s Gary O’Donoghue explains what the Supreme Court's landmark ruling on birthright citizenship means for the US president. The decision is a major blow to Trump's attempts to alter the constitutional right.",
+      "tags": [
+        "supreme court",
+        "us politics",
+        "birthright citizenship"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0946e6bf26303032",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
+      "url": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of anti-migrant protesters marched in South Africa amid a heavy police presence, as foreigners reportedly left ahead of a deadline set by anti-migrant groups. This demonstrates significant social tension and xenophobia.",
+      "tags": [
+        "south africa",
+        "migration",
+        "protest"
+      ],
+      "priority": false
+    },
+    {
+      "id": "21f9e723bc900f5b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
+      "url": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss",
+      "summary": "US envoys are in Doha for meetings with mediators, but no high-level or direct talks with Iranians are scheduled, according to Qatar's foreign ministry spokesman. This indicates a lack of direct diplomatic engagement between the US and Iran.",
+      "tags": [
+        "diplomacy",
+        "us foreign policy",
+        "iran"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2edc99b748ba8b5b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Young bald eagle takes first flight in California",
+      "url": "https://www.bbc.co.uk/news/videos/cp3x257qkx9o?at_medium=RSS&at_campaign=rss",
+      "summary": "A young bald eagle nicknamed Luna took its first flight in California, captured on a popular live stream set up by the Friends of Big Bear Valley. This event delighted wildlife enthusiasts.",
+      "tags": [
+        "wildlife",
+        "california",
+        "nature"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1205ade6822e9297",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What do we know about the shooting in Stade, Germany?",
+      "url": "https://www.bbc.co.uk/news/videos/cdx7j0wn9lvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Jessica Parker reports from the scene of a shooting in Stade, northern Germany, where six people were killed. Details about the tragic event are being investigated.",
+      "tags": [
+        "germany",
+        "crime",
+        "shooting"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7d52c0921a72c234",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What to know about the looming  deadline on North American free trade",
+      "url": "https://www.bbc.co.uk/news/articles/czdejmqmrdgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US, Canada, and Mexico are likely to miss their July 1st deadline to extend their free trade pact, with all signs pointing to a delay. This impacts North American trade relations.",
+      "tags": [
+        "trade",
+        "north america",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b0866d33a4988cb7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why $20 durians are now being sold at half price - or given away for free",
+      "url": "https://www.bbc.co.uk/news/articles/c8x21yld0yro?at_medium=RSS&at_campaign=rss",
+      "summary": "Malaysian durians are being sold at half price or given away due to an oversupply, causing concern for farmers' livelihoods. This reflects market fluctuations in agricultural goods.",
+      "tags": [
+        "malaysia",
+        "agriculture",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "29fee520eb42bbca",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why are South Korean fans so angry at their football coach?",
+      "url": "https://www.bbc.co.uk/news/videos/c4gyje1p0l9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hong Myung-bo has resigned as South Korea's football coach following the team's failure to advance in the World Cup knockout stages. Fans had expressed significant anger over the team's performance.",
+      "tags": [
+        "south korea",
+        "football",
+        "sports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e68b7a0eadf1ca9c",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": ".self: A new top-level domain designed to support self-hosting",
+      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "summary": "A new top-level domain, '.self,' is proposed as a way to support self-hosting and empower individuals to reclaim their digital autonomy. This initiative aims to foster a human-centered internet.",
+      "tags": [
+        "internet",
+        "self-hosting",
+        "domain names"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3824f2e122ebc230",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "European digital ID wallets rely on safety services of Google and Apple",
+      "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
+      "summary": "European digital ID wallets are found to rely heavily on the safety services provided by tech giants Google and Apple. Critics argue this reliance makes the digital ID system a 'gift' to these companies, raising concerns about privacy and control.",
+      "tags": [
+        "digital identity",
+        "privacy",
+        "eu policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6246426d40759ec6",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Linux for the Sega MegaDrive",
+      "url": "https://github.com/LinuxMD/linuxmd",
+      "summary": "A project named LinuxMD demonstrates Linux running on a Sega MegaDrive, showcasing an unusual application of the operating system on retro gaming hardware. This highlights capabilities in embedded systems and historical computing.",
+      "tags": [
+        "linux",
+        "retro tech",
+        "embedded systems"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c085cb8fb79e53c2",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+      "url": "https://longcat.chat/blog/longcat-2.0/",
+      "summary": "LongCat-2.0 is introduced as a large-scale Mixture-of-Experts (MoE) model with a total of 1.6 trillion parameters and 48 billion active parameters. This architecture aims to achieve high performance with efficient computation.",
+      "tags": [
+        "ai models",
+        "large language models",
+        "moe"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f0f77f5988cbd374",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Memory Safe Context Switching",
+      "url": "https://fil-c.org/context_switches",
+      "summary": "This article discusses 'Memory Safe Context Switching,' a technical approach to improve the security and reliability of context switching in computing systems. It focuses on ensuring memory safety during these critical operations.",
+      "tags": [
+        "computer science",
+        "memory safety",
+        "operating systems"
+      ],
+      "priority": false
+    },
+    {
+      "id": "24dd5ee96d030848",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+      "url": "https://github.com/deepreinforce-ai/Ornith-1",
+      "summary": "Ornith-1.0 is an open-source model designed for agentic coding that features self-improving capabilities. This project aims to enhance automated coding processes through continuous learning.",
+      "tags": [
+        "ai",
+        "open-source",
+        "coding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e1017e1468f5c7f2",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Qwen 3.6 27B is the sweet spot for local development",
+      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+      "summary": "Qwen 3.6 27B is identified as a 'sweet spot' model for local AI development, balancing performance and resource requirements. Its efficiency makes it suitable for individual developers.",
+      "tags": [
+        "ai models",
+        "local development",
+        "llm"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f02a78ff8120e770",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The labor share of income in the US is at its lowest post-war level",
+      "url": "https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/",
+      "summary": "The labor share of income in the US has reached its lowest post-war level, indicating a shrinking portion of economic output going to workers. This decline follows the post-COVID period.",
+      "tags": [
+        "economy",
+        "labor",
+        "us statistics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f44207ab18d15972",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "After Trump's reelection, these U.S. scientists found jobs in the U.K.",
+      "url": "https://www.npr.org/2026/06/30/nx-s1-5875206/trumps-cuts-science-researchers-move-abroad",
+      "summary": "Following Trump's reelection, more US scientists are relocating abroad, with three researchers explaining their shift to UK universities. This exodus is attributed to perceived cuts in science research in the US.",
+      "tags": [
+        "science policy",
+        "brain drain",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "003c7af3d75685f7",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Here are Colorado's 2026 primary election results",
+      "url": "https://www.npr.org/2026/06/30/g-s1-129870/colorado-primary-election-results-2026",
+      "summary": "This item provides live election results for Colorado's 2026 primary elections, covering U.S. Senate, U.S. House, and gubernatorial primary races. It offers updates on political contests.",
+      "tags": [
+        "elections",
+        "colorado",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9f7d90d0f4d3ba0b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "SCOTUS to rule on birthright citizenship. And, U.S. murder rate nears new low",
+      "url": "https://www.npr.org/2026/06/30/g-s1-131004/up-first-newsletter-supreme-court-tps-birthright-citizenship-iran-war-us-murder-rate",
+      "summary": "The Supreme Court is expected to make a long-awaited ruling on birthright citizenship today, on its last day of term. Meanwhile, the U.S. murder rate is approaching a record low.",
+      "tags": [
+        "supreme court",
+        "birthright citizenship",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "60ab689d51f51edc",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Supreme Court strikes down limits on political party spending",
+      "url": "https://www.npr.org/2026/06/30/nx-s1-5827039/supreme-court-campaign-finance",
+      "summary": "The Supreme Court struck down limits on political party spending, overturning a post-Watergate law designed to restrict individual contributions to parties. This decision impacts campaign finance regulations.",
+      "tags": [
+        "supreme court",
+        "campaign finance",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d3cbc99b29b947ab",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Supreme Court upholds birthright citizenship on constitutional grounds",
+      "url": "https://www.npr.org/2026/06/30/nx-s1-5839358/birthright-citizenship-decision-scotus-trump",
+      "summary": "The Supreme Court firmly rejected President Trump's executive order on his second day in office, upholding birthright citizenship on constitutional grounds. This decision reaffirms the longstanding right.",
+      "tags": [
+        "supreme court",
+        "birthright citizenship",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b2461f19ba6e9273",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Tricks to help you spend less money at restaurants",
+      "url": "https://www.npr.org/2026/06/30/nx-s1-5862777/how-to-spend-less-money-restaurants-takeout",
+      "summary": "Personal finance and nutrition experts share simple strategies to help people spend less money at restaurants, including re-evaluating fast-food delivery habits. These tips aim to make eating out more affordable.",
+      "tags": [
+        "personal finance",
+        "consumer tips",
+        "budgeting"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1974416fd087c8af",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "U.S. murder rate approaches a record low",
+      "url": "https://www.npr.org/2026/06/30/nx-s1-5866810/us-murder-rate-record-low-crime-homicide",
+      "summary": "A few years ago, experts worried about a \"new normal\" of elevated violent crime in the U.S. Now the country is flirting with breaking its all-time low murder rate\n(Image credit: Mark Stockwell)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "10c469e0f6fe4397",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Venezuelans deported from the U.S. were killed hours later in powerful quakes",
+      "url": "https://www.npr.org/2026/06/30/nx-s1-5875287/venezuela-deportees-us-quakes",
+      "summary": "On June 24, 146 Venezuelans deported from Texas to Caracas were killed hours later when powerful twin earthquakes struck while they were in a guarded hotel. The tragic event underscores the vulnerability of deportees.",
+      "tags": [
+        "venezuela",
+        "earthquake",
+        "deportation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "70ba0fdbaeae6513",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Count the number of Safari tabs",
+      "url": "https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything",
+      "summary": "A tiny AppleScript snippet is shared for counting the number of open browser tabs in Safari. This provides a quick command-line utility for Safari users.",
+      "tags": [
+        "applescript",
+        "safari",
+        "productivity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e9aae2db23035bc0",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "HTML table extractor",
+      "url": "https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything",
+      "summary": "A new online tool called 'HTML table extractor' converts pasted rich text with embedded HTML tables into various formats like HTML, Markdown, CSV, TSV, or JSON. The tool also features Wikipedia integration for automatic table import.",
+      "tags": [
+        "web tools",
+        "data extraction",
+        "html"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cf8ba4b1fb780878",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "New York’s insurgent left sent ripples across America",
+      "url": "https://www.slowboring.com/p/new-yorks-insurgent-left-sent-ripples",
+      "summary": "New York's insurgent left has created significant political ripples across America, impacting the broader Democratic landscape. The article highlights the ongoing influence of progressive movements ahead of Election Day.",
+      "tags": [
+        "us politics",
+        "new york",
+        "progressive movement"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c1d8807ccfab4248",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+      "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+      "summary": "Amazon has launched a new $1 billion FDE (Frontier Development Engineering) organization to deploy purpose-built AI agents for companies, focusing on fast deployments and fostering customer self-sufficiency. This initiative follows similar efforts by OpenAI and Anthropic.",
+      "tags": [
+        "amazon",
+        "ai",
+        "enterprise"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2223f1ea89e5c802",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+      "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "summary": "Anthropic has forged a deal with California Governor Newsom, allowing the state government to use its Claude AI at half price. This strengthens Anthropic's relationship with California while the federal government reportedly makes an enemy out of the OpenAI rival.",
+      "tags": [
+        "anthropic",
+        "ai policy",
+        "california"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e4abbd2ba3327f25",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Arcturus could halve the grid’s electrical losses using its nano-infused copper",
+      "url": "https://techcrunch.com/2026/06/30/arcturus-could-halve-the-grids-electrical-losses-using-its-nano-infused-copper/",
+      "summary": "Stealthy startup Arcturus claims it can halve the electrical losses on the grid using its nano-infused copper technology. The company utilizes lasers to embed carbon nanomaterials into copper, enhancing its conductivity.",
+      "tags": [
+        "energy grid",
+        "nanotechnology",
+        "materials science"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8e35347dec1c0d85",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+      "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+      "summary": "Arena, a startup known for its free AI leaderboard, has grown into a $100 million business since launching its commercial service last September. Its success highlights the demand for tools that benchmark AI performance.",
+      "tags": [
+        "ai",
+        "benchmarking",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f0b6c91134da11ac",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Blue Origin still doesn’t know why its New Glenn rocket blew up last month",
+      "url": "https://techcrunch.com/2026/06/30/blue-origin-still-doesnt-know-why-its-new-glenn-rocket-blew-up-last-month/",
+      "summary": "Blue Origin still has not determined the cause of its New Glenn rocket explosion last month but maintains it will return to flight this year. The company is facing challenges in understanding the failure.",
+      "tags": [
+        "blue origin",
+        "space",
+        "rocket failure"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fa673ee4032112ec",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
+      "url": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
+      "summary": "Investor Chamath Palihapitiya's AI coding startup secured $135 million in Series A funding, with Palihapitiya also taking on the CEO role. This investment highlights continued venture capital interest in the AI coding sector.",
+      "tags": [
+        "ai",
+        "funding",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a819bf5fcaf7d6eb",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+      "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+      "summary": "Crypto exchange OKX is developing a marketplace where AI agents can 'hire and pay each other' by integrating payments, identity, and reputation features. This initiative aims to create an autonomous economic ecosystem for AI.",
+      "tags": [
+        "crypto",
+        "ai agents",
+        "blockchain"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a75c87e879568119",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+      "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+      "summary": "Cursor has released a new mobile app designed for remote oversight and guidance of coding agents. This allows users to manage their AI coding assistants on the go.",
+      "tags": [
+        "coding",
+        "ai tools",
+        "mobile app"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9de954695585c7fa",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Gemini’s personalized AI image generation is now free for US users",
+      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "summary": "Google is making Gemini's personalized AI image generation free for eligible US users, allowing the chatbot to create images based on individual interests and data from connected Google apps. This expands access to Gemini's creative AI capabilities.",
+      "tags": [
+        "google gemini",
+        "ai image generation",
+        "free service"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f59ddd09b5c5c848",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
+      "url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+      "summary": "Proton's privacy-focused AI chatbot, Lumo, is receiving an upgrade with Lumo 2.0, which will offer users a broader range of capabilities. This update enhances the chatbot's functionality while maintaining its privacy focus.",
+      "tags": [
+        "ai chatbot",
+        "privacy",
+        "proton"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2efad457f18a6d19",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Podcasting platform Riverside enters the newsletter publishing game",
+      "url": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
+      "summary": "Podcasting platform Riverside is expanding into newsletter publishing, allowing users to leverage AI to create newsletters based on their recorded content. This move diversifies its offerings for content creators.",
+      "tags": [
+        "podcasting",
+        "ai",
+        "publishing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e3b2739c3e7b7615",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+      "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+      "summary": "South Korean tech giants have committed over $550 billion to build more memory chip fabs, positioning the country as an AI tech powerhouse. This investment aims to ease current memory chip shortages and meet global demand.",
+      "tags": [
+        "south korea",
+        "semiconductors",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6b22736b9d430275",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Tesla starts testing Cybercab without pedals or a steering wheel in Austin",
+      "url": "https://techcrunch.com/2026/06/30/tesla-starts-testing-cybercab-without-pedals-or-a-steering-wheel-in-austin/",
+      "summary": "Tesla is beginning to test its Cybercab robotaxi, which lacks pedals or a steering wheel, in Austin. This marks a potential step towards fulfilling Elon Musk's long-standing promise of launching an autonomous robotaxi network.",
+      "tags": [
+        "tesla",
+        "robotaxi",
+        "autonomous vehicles"
+      ],
+      "priority": false
+    },
+    {
+      "id": "86bedbf355ced4a7",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The AI jobs debate just got messier",
+      "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+      "summary": "A new report challenges the notion that AI kills junior jobs, finding that 'high-intensity AI adopters' saw a 10.2% increase in overall headcount, with entry-level positions rising by 12%. This suggests AI may augment, rather than eliminate, certain job roles.",
+      "tags": [
+        "ai",
+        "jobs",
+        "employment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "861d5af7c51b5703",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Trump administration threatens 92 GW of new electricity supply with red tape",
+      "url": "https://techcrunch.com/2026/06/29/trump-administration-threatens-92-gw-of-new-electricity-supply-with-red-tape/",
+      "summary": "The Trump administration is reportedly threatening 92 GW of new solar and wind power supply, representing $121 billion in investment, with increased red tape. These actions could hinder the growth of the largest contributors to new US energy capacity.",
+      "tags": [
+        "energy policy",
+        "renewables",
+        "trump administration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1e2f3dab8605439f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Vibe-coding platform Base44 launches own model as AI startups seek defensibility",
+      "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "summary": "Wix-owned 'vibe-coding' platform Base44 has launched its own AI model with the goal of outperforming frontier models, as AI startups increasingly seek defensibility through proprietary technology. This move aims to differentiate its coding assistance capabilities.",
+      "tags": [
+        "ai",
+        "coding",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "98c35c3e22f48de8",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Watch out, Amazon: The Kobo eReader now has a Goodreads rival",
+      "url": "https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/",
+      "summary": "Kobo eReader users can now automatically sync their reading progress to StoryGraph, providing a Goodreads alternative for tracking books, stats, and challenges. This integration offers more choice for readers outside Amazon's ecosystem.",
+      "tags": [
+        "e-readers",
+        "reading apps",
+        "kobo"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9727d924f5320c17",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Waymo and Uber quietly part ways in Phoenix",
+      "url": "https://techcrunch.com/2026/06/29/waymo-and-uber-quietly-part-ways-in-phoenix/",
+      "summary": "Waymo and Uber have quietly ended their autonomous vehicle partnership in Phoenix, with Uber preparing to launch a new, undisclosed partnership in the city. The reasons for the separation were not disclosed.",
+      "tags": [
+        "autonomous vehicles",
+        "waymo",
+        "uber"
+      ],
+      "priority": false
+    },
+    {
+      "id": "23a1ed92abba3b18",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+      "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+      "summary": "X has launched a hosted MCP server to facilitate easier integration of AI applications with its API. This offering aims to streamline development for AI tools leveraging the platform.",
+      "tags": [
+        "x",
+        "api",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d4962190323d4139",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "AI Is Recovering the Ancient World’s Lost Library",
+      "url": "https://www.thefp.com/p/ai-is-recovering-the-ancient-worlds",
+      "summary": "AI is being used to recover the lost library of ancient Herculaneum, where carbonized papyrus scrolls from the Villa dei Papyri were preserved by Mount Vesuvius's eruption. This technology could unlock lost works by ancient authors, overcoming the scrolls' extreme fragility.",
+      "tags": [
+        "ai",
+        "archaeology",
+        "ancient history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d2f5168f9e3ce147",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Exclusive: Iran Plans to Seize Protestant Church",
+      "url": "https://www.thefp.com/p/an-emboldened-iran-goes-after-its",
+      "summary": "Iran is reportedly planning to seize Tehran's St. Peter Evangelical Church, the oldest Protestant church in the country, after years of hesitation. Sources indicate the regime's fear of U.S. retaliation has diminished, leading to threats against church leaders and an eviction notice for resident families.",
+      "tags": [
+        "iran",
+        "religious freedom",
+        "geopolitics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a541b91307c92acb",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Great Americans: The Man Who Put Evil on Trial",
+      "url": "https://www.thefp.com/p/great-americans-the-man-who-put-evil",
+      "summary": "This article commemorates Robert H. Jackson, a Supreme Court justice renowned for prosecuting Nazis at Nuremberg and for his principled dissents. Jackson, who never finished law school, provided a philosophical basis for the International Military Tribunal, emphasizing transcendental moral standards.",
+      "tags": [
+        "history",
+        "supreme court",
+        "nuremberg trials"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2a1d2b863a31335b",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Not Even Trump Could Ruin Bill Maher’s Night",
+      "url": "https://www.thefp.com/p/not-even-trump-could-ruin-bill-mahers",
+      "summary": "This article disputes media narratives that a recent Mark Twain Prize ceremony for Bill Maher was dominated by discussions about Donald Trump. The author argues that reports of Trump overshadowing the event were 'fake news.'",
+      "tags": [
+        "media criticism",
+        "bill maher",
+        "donald trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dbfdb7d0c2b58cae",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "One Battle of Hormuz After Another, with Sal Mercogliano",
+      "url": "https://www.thefp.com/p/one-battle-of-hormuz-after-another",
+      "summary": "The Strait of Hormuz is again facing heightened tensions as Iran resumes attacks on commercial shipping, despite a recent ceasefire. This resurgence raises questions about Iran's objectives in asserting control over the critical waterway.",
+      "tags": [
+        "geopolitics",
+        "iran",
+        "shipping"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0530b43ba878e72c",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Texas Supreme Court Hands Detransitioner Historic Win",
+      "url": "https://www.thefp.com/p/texas-supreme-court-hands-detransitioner",
+      "summary": "The Texas Supreme Court delivered a historic unanimous ruling for detransitioner Soren Aldaco, extending the statute of limitations for medical malpractice claims related to gender-affirming care. This decision allows Aldaco to pursue her case against a therapist she claims enabled her double mastectomy at 19.",
+      "tags": [
+        "texas",
+        "detransition",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e345387ea7c73d5c",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "This Week in Canada: A Controversial Call to Prayer",
+      "url": "https://www.thefp.com/p/this-week-in-canada-a-controversial",
+      "summary": "A controversial Islamic call to prayer broadcast in Regina, Canada, sparked debate over religious freedom and public expression in an increasingly diverse nation. The event tested the boundaries of Canada's constitutional guarantees of religious freedom versus public space.",
+      "tags": [
+        "canada",
+        "religious freedom",
+        "cultural debate"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a82cf89cc67cb6e0",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Tyler Cowen: The Fertility Crash Will Make the World a Small Town",
+      "url": "https://www.thefp.com/p/tyler-cowen-the-fertility-crash-will",
+      "summary": "Economist Tyler Cowen discusses how falling global fertility rates, potentially driven by smartphones, will interact with rising AI prevalence to reshape the world. He predicts an increasing ratio of AIs to humans and a rise in the relative financial returns for human-specific jobs.",
+      "tags": [
+        "demographics",
+        "ai",
+        "economics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f21fcbdb749cf944",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "After a great start, DC’s new cinematic universe is already slowing down",
+      "url": "https://www.theverge.com/entertainment/958953/supergirl-dcu-warner-bros-discovery-box-office-flop",
+      "summary": "DC's new cinematic universe is reportedly slowing down after a promising start, with the standalone Supergirl feature proving to be a box office disappointment. Despite James Gunn's vision for interconnected stories, critics found the film a dud.",
+      "tags": [
+        "entertainment",
+        "dc universe",
+        "film"
+      ],
+      "priority": false
+    },
+    {
+      "id": "555b0ea0a63d0a65",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "iPhone 18 Pro ‘drop test’ leaks get yanked from X",
+      "url": "https://www.theverge.com/tech/959474/iphone-18-pro-leaked-videos-pulled",
+      "summary": "Leaked videos purporting to show an iPhone 18 Pro undergoing a drop test were quickly removed from X, with accounts sharing them suspended. Apple appears to be actively blocking the spread of this leaked data.",
+      "tags": [
+        "iphone",
+        "leaks",
+        "apple"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bab7824476d3da22",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Meet the lawyer who beat Elon Musk — twice",
+      "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+      "summary": "Lawyer Bill Savitt successfully challenged Elon Musk twice in court, notably during Musk v. Altman regarding OpenAI, where Musk accused Savitt of unfair questioning. Savitt is recognized for his mild-mannered and soft-spoken cross-examination style.",
+      "tags": [
+        "legal",
+        "elon musk",
+        "openai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7c62dc58965d5d2e",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Our best look yet at Samsung’s new wide foldable",
+      "url": "https://www.theverge.com/tech/959372/samsung-galaxy-z-fold-wide-image-leaks",
+      "summary": "Leaked case designs and images offer a detailed look at Samsung's upcoming wide-style Galaxy Z Fold 8 and Galaxy Z Flip 8 ahead of their expected unveiling next month. These leaks align with previous dummy unit sightings.",
+      "tags": [
+        "samsung",
+        "foldable phones",
+        "leaks"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dbc972708e3327e0",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "T-Mobile is booting customers from its oldest plans",
+      "url": "https://www.theverge.com/tech/959144/t-mobile-legacy-plan-retire-sprint",
+      "summary": "T-Mobile is retiring many of its oldest legacy plans, some dating back to the 3G and 4G eras, and moving customers to current rate plans. This decision has caused customer dissatisfaction, though T-Mobile states it aims to provide access to modern plans and 5G.",
+      "tags": [
+        "t-mobile",
+        "telecom",
+        "customer service"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cff2cb0ed5a3b212",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The Supreme Court stops Trump&#8217;s attempt to end birthright citizenship",
+      "url": "https://www.theverge.com/news/959487/supreme-court-birthright-citizenship-trump",
+      "summary": "The Supreme Court upheld birthright citizenship in a 6-3 ruling, rejecting former President Donald Trump's executive order attempt to end the constitutional right. This decision reinforces the 14th Amendment's guarantee of citizenship to those born in the US.",
+      "tags": [
+        "supreme court",
+        "birthright citizenship",
+        "trump administration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fa2972a4f4bade15",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "This motor could be the future of e-bikes",
+      "url": "https://www.theverge.com/news/959382/avinox-mg-concept-gobao-mgu-ecvt",
+      "summary": "Two companies, Avinox and Gobao, introduced innovative e-bike motors with integrated gearboxes that automatically adjust gears to maintain a preferred pedaling cadence. These Motor Gearbox Units (MGUs) offer a maintenance-free alternative to traditional derailleurs and cassettes.",
+      "tags": [
+        "e-bikes",
+        "technology",
+        "motors"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dbd76c9660f68cb5",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
+      "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+      "summary": "Tidal will demonetize and label 100% AI-generated music starting July 15th, prioritizing royalty payments for original works by human artists. The platform aims to protect artists and inform listeners without outright banning AI music.",
+      "tags": [
+        "music industry",
+        "ai",
+        "royalties"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 106,
+    "summarized": 85,
+    "skipped_promos": 2,
+    "filtered_by_rules": 19,
+    "sources": 10,
+    "email_items_omitted": 0
+  }
+}
