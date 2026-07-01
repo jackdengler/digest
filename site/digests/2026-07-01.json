@@ -1,0 +1,1269 @@
+{
+  "date": "2026-07-01",
+  "generated_at": "2026-07-01T16:22:19+00:00",
+  "hot_topics": [
+    {
+      "topic": "US Lifts Restrictions on Anthropic AI Models",
+      "synthesis": "The US government has lifted export restrictions on Anthropic's advanced AI models, Fable 5 and Mythos 5, which were previously suspended over concerns about potential misuse by hackers. This decision follows what has been described as an erratic approach by the Trump administration to AI policymaking, causing uncertainty for companies in the industry. Anthropic has confirmed these controls are removed, enabling restoration of access.",
+      "item_ids": [
+        "a01c6f1e373ca494",
+        "305948ba9b4a2cf2",
+        "c2bd988f998803c9"
+      ]
+    },
+    {
+      "topic": "Google Launches Faster, Cheaper AI Image Generator",
+      "synthesis": "Google has launched Nano Banana 2 Lite, a new image generation model (also known as Gemini 3.1 Flash Lite Image) designed for speed and cost-efficiency. Positioned as Google's fastest and cheapest image model, it aims to provide a better balance of quality and performance for rapid prototyping and AI content creation. While praised for its velocity, testing shows it can still have limitations, such as issues with text accuracy in generated images.",
+      "item_ids": [
+        "20abea6daaef9b78",
+        "91b9ca610318ee89",
+        "b6540d637c25ba58"
+      ]
+    },
+    {
+      "topic": "Anthropic Introduces Claude Sonnet 5 with Improved Capabilities",
+      "synthesis": "Anthropic has released Claude Sonnet 5, an AI model offering enhanced agentic capabilities, improved safety, and competitive pricing, making it a more affordable alternative to other high-end models. Its performance is noted to be close to that of Opus 4.8, but it achieves this by having significantly less cyber task capability to comply with regulatory requirements. Developers should note that a new tokenizer effectively increases pricing for some languages.",
+      "item_ids": [
+        "2f57ad1c32c2721c",
+        "f2afb33abcef83f4"
+      ]
+    },
+    {
+      "topic": "Supreme Court Upholds Birthright Citizenship",
+      "synthesis": "The US Supreme Court upheld birthright citizenship on constitutional grounds, a decision that represents a significant setback to President Trump's immigration agenda and has been welcomed by civil rights groups. This ruling was a key part of a Supreme Court term that, while also granting Trump some expanded powers in other areas, delivered several notable defeats to his policies. Public reaction to this decision has been diverse.",
+      "item_ids": [
+        "38e95e4187c47480",
+        "9ab66b0c5b01cd27",
+        "0c403df1a8973f89",
+        "f9090dca3d958fca",
+        "375a2d5e2accbf72",
+        "30d222e3b88dd8ad"
+      ]
+    },
+    {
+      "topic": "Progressive Victories in Colorado Democratic Primaries",
+      "synthesis": "Democratic socialist candidates achieved significant victories in Colorado's recent House primaries, demonstrating growing momentum for the insurgent left. Melat Kiros defeated a nearly 30-year incumbent, Diana DeGette, while progressive Manny Rutinel won in a battleground district. These results signal a shift within the Democratic Party, even as one candidate faces scrutiny for controversial past remarks.",
+      "item_ids": [
+        "c09321f8a2f9783f",
+        "0b8edc8d44db4d14",
+        "f9090dca3d958fca",
+        "40f3865d581d9ab3"
+      ]
+    },
+    {
+      "topic": "Tragic Roof Collapse at Pakistan Tuition Centre",
+      "synthesis": "A roof collapse at a tuition center in Lahore, Pakistan, tragically killed 14 children. Funerals have been held for the victims, and two individuals have been taken into custody as authorities investigate potential negligence related to the building's construction.",
+      "item_ids": [
+        "f315e295e52c7c78",
+        "7f2f41785e2372f5"
+      ]
+    },
+    {
+      "topic": "Global Engagement and Political Expression at the World Cup",
+      "synthesis": "The World Cup is generating significant public engagement globally, with record-breaking viewership in the US and widespread \"fever\" even in political circles like Westminster. Beyond the games, the tournament serves as a platform for various expressions, from national celebrations that have unfortunately turned tragic in Mexico, to acts of political solidarity among Bosnian fans supporting Palestine, and even former players leveraging their World Cup fame for anti-gambling campaigns. Polls also indicate varying degrees of national pride tied to team performance.",
+      "item_ids": [
+        "42c7eed2b9f9e7ff",
+        "1a619fe0db8959a1",
+        "1b39e051a3d9d660",
+        "64700d959be2c7a3",
+        "14dec4af55c6381b"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "427b4a866bd8bbda",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Noguchi’s New York animations",
+      "url": "https://aeon.co/videos/in-noguchis-unrealised-playgrounds-art-and-life-are-inseparable",
+      "summary": "Hand-painted animations bring to life Isamu Noguchi’s conceptual playgrounds, illustrating his vision for integrating art with everyday life. These unrealized designs aimed to blend artistic expression with functional urban spaces.",
+      "tags": [
+        "art",
+        "design",
+        "animation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "be474ecd26c719dc",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Amazon blames piracy apps with malware for killing new Fire Stick sideloading",
+      "url": "https://arstechnica.com/gadgets/2026/06/exec-blames-malware-threat-for-amazon-blocking-sideloading-on-new-fire-sticks/",
+      "summary": "Amazon is discontinuing sideloading support on new Fire Stick models running Vega OS, citing malware threats often associated with streaming piracy. Previous models used Android-based Fire OS, which allowed sideloading apps from outside Amazon's Appstore.",
+      "tags": [
+        "amazon",
+        "fire stick",
+        "security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5daec9a98fba5721",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Apple takes Epic fight over app store fees to the Supreme Court",
+      "url": "https://arstechnica.com/tech-policy/2026/06/apple-takes-epic-fight-over-app-store-fees-to-the-supreme-court/",
+      "summary": "Apple is appealing a contempt finding to the Supreme Court, which could prevent it from charging high commissions on app purchases made outside the App Store through developer-provided links. This follows a ruling that Apple's 27% fee for link-outs violated the spirit of a previous judicial order.",
+      "tags": [
+        "apple",
+        "epic games",
+        "app store"
+      ],
+      "priority": false
+    },
+    {
+      "id": "44a7ec708a597929",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Google kills Tenor GIF API, forcing changes at X, Discord, and more",
+      "url": "https://arstechnica.com/gadgets/2026/06/google-kills-tenor-gif-api-forcing-changes-at-x-discord-and-more/",
+      "summary": "Google has discontinued the Tenor API, which previously provided GIFs to platforms like X and Discord, effective June 30, to focus resources. Google acquired Tenor in 2018 and is now likely ending the free service due to lack of revenue generation.",
+      "tags": [
+        "google",
+        "api",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "20abea6daaef9b78",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
+      "url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
+      "summary": "Google DeepMind released Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image), a new image generation model balancing quality and speed for rapid prototyping. While faster and cheaper, it may struggle with small text and consistent character generation compared to beefier models.",
+      "tags": [
+        "google",
+        "ai",
+        "image generation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a103ed075ca486cf",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "NASA may send a backup, nuclear-powered Mars rover to the Moon",
+      "url": "https://arstechnica.com/space/2026/06/nasa-may-send-a-backup-nuclear-powered-mars-rover-to-the-moon/",
+      "summary": "NASA is considering sending \"Promise,\" a full-scale engineering model of the Perseverance rover, to the Moon's south pole, powering it with a nuclear generator for difficult terrain and lunar nights. This backup rover was not originally planned for launch and could expedite efforts to explore the region.",
+      "tags": [
+        "nasa",
+        "space",
+        "moon"
+      ],
+      "priority": false
+    },
+    {
+      "id": "002831c47224ec5b",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "New attack provides one more reason why AI browsers are a bad idea",
+      "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+      "summary": "New research demonstrates that AI browsers can be tricked by malicious websites into bypassing safety guardrails, enabling destructive actions like extracting code or credentials. This highlights the risks of integrating large language models with browsing, as current reactive guardrails are insufficient to address root causes.",
+      "tags": [
+        "ai",
+        "security",
+        "browsers"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d4a7b0b5fd230e19",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Reddit will require you to log in to use old.reddit.com",
+      "url": "https://arstechnica.com/gadgets/2026/06/reddit-will-require-you-to-log-in-to-use-old-reddit-com/",
+      "summary": "Reddit will soon require users to be logged in to access old.reddit.com, a change attributed to efforts to restrict automated system access. This new requirement is expected to take effect \"over the next month.\"",
+      "tags": [
+        "reddit",
+        "policy",
+        "web"
+      ],
+      "priority": false
+    },
+    {
+      "id": "33e1ac0e58328638",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Trump's plan to redesign every .gov website leads to AI-designed horrors",
+      "url": "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/",
+      "summary": "President Trump's initiative to quickly redesign all 27,000 government websites using AI, under the National Design Studio (NDS), is reportedly encountering difficulties. The monumental task is challenged by a small team, short timeframe, and deep cuts to agencies previously responsible for web improvements.",
+      "tags": [
+        "government",
+        "trump",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6bd15172b380a16c",
+      "source": "Astral Codex Ten",
+      "source_type": "substack",
+      "title": "Chip Off The Old Block",
+      "url": "https://www.astralcodexten.com/p/chip-off-the-old-block",
+      "summary": "The author reflects on the unexpected delight of seeing his younger self in his son, particularly in shared eccentricities like an obsession with trains and mild OCD. He also humorously observes how his children amplify his own and his wife's traits, leading to new dynamics and \"allies\" in household squabbles.",
+      "tags": [
+        "parenting",
+        "personal reflection",
+        "psychology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "39b03b67ec27d730",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
+      "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&at_campaign=rss",
+      "summary": "A controversy has erupted in Berlin over city officials' plans to demolish a Nazi bunker for new flats, with opponents arguing for its preservation as part of Germany's history. The debate centers on balancing urban development with historical remembrance.",
+      "tags": [
+        "germany",
+        "history",
+        "urban development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9a7c4022b6629cf9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'Time for him to pay' - Carroll calls on Trump to pay $5m after president's appeal fails",
+      "url": "https://www.bbc.co.uk/news/articles/cn4r8n3ek80o?at_medium=RSS&at_campaign=rss",
+      "summary": "E. Jean Carroll's lawyers are demanding Donald Trump pay the $5 million damages awarded by a jury that found him liable for sexual abuse and defamation, following his failed appeal. Trump is seeking to delay payment.",
+      "tags": [
+        "trump",
+        "legal",
+        "defamation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "534b44f8677b2027",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
+      "url": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss",
+      "summary": "A plane crashed into a tower in Beijing, leaving visible holes, but Chinese authorities have reportedly removed other traces of the incident and provided no explanation. The lack of transparency raises concerns about censorship.",
+      "tags": [
+        "china",
+        "incident",
+        "aviation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2b7b2fbba25c429d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Afghan Taliban launch strikes on border with Pakistan as tensions escalate",
+      "url": "https://www.bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Afghan Taliban forces launched strikes on the border with Pakistan, escalating tensions, with Pakistan's military responding by shooting down four rudimentary drones and vowing to counter further provocations. The situation reflects heightened conflict in the region.",
+      "tags": [
+        "afghanistan",
+        "pakistan",
+        "border conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0c403df1a8973f89",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Americans react to Supreme Court upholding birthright citizenship",
+      "url": "https://www.bbc.co.uk/news/videos/c621d53wqw0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC gathered reactions from Americans following the Supreme Court's decision to uphold birthright citizenship. Public opinion reflects varied perspectives on immigration and national identity.",
+      "tags": [
+        "supreme court",
+        "birthright citizenship",
+        "public opinion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c2bd988f998803c9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Anthropic says US lifts export ban on its advanced AI tools",
+      "url": "https://www.bbc.co.uk/news/articles/cdr42623e1do?at_medium=RSS&at_campaign=rss",
+      "summary": "Anthropic announced that the US has lifted the export ban on its advanced AI tools, Fable and Mythos, which were previously suspended in June due to concerns over potential misuse by hackers. The decision allows Anthropic to resume broader distribution of these models.",
+      "tags": [
+        "anthropic",
+        "ai",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5a34df6de0e4beff",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Canada to make Eurovision Song Contest debut in 2027",
+      "url": "https://www.bbc.co.uk/news/articles/c8x2y2vwqn1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Canada will debut in the Eurovision Song Contest in 2027, becoming the first new participant since Australia joined in 2015. This marks a significant expansion for the popular international music event.",
+      "tags": [
+        "eurovision",
+        "canada",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4560c0fcb2b3b7be",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Fire kills five at Antwerp apartment block",
+      "url": "https://www.bbc.co.uk/news/articles/c621dx0vl7xo?at_medium=RSS&at_campaign=rss",
+      "summary": "A fire at an Antwerp apartment block, housing about 200 people, killed five individuals. One man was observed escaping through a window amidst heavy smoke, highlighting the severity of the incident.",
+      "tags": [
+        "fire",
+        "tragedy",
+        "europe"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b47f988d945203fe",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Firefighters struggle to contain deadly Greek wildfire",
+      "url": "https://www.bbc.co.uk/news/articles/c0qy3nkex0qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Over 100 firefighters are battling a deadly wildfire near Thessaloniki, Greece, which has already claimed at least two lives. The ongoing struggle highlights the severe impact of wildfires in the region.",
+      "tags": [
+        "greece",
+        "wildfire",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f895e83d77932917",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Man guilty of attempted murder of three children in Dublin",
+      "url": "https://www.bbc.co.uk/news/articles/c78yjgpr5j3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Riad Bouchaker has been found guilty of attempting to murder three children and assaulting four others in Dublin on November 23, 2023. The verdict concludes a significant legal case.",
+      "tags": [
+        "crime",
+        "dublin",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f315e295e52c7c78",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Roof collapse kills 14 children at Pakistan tuition centre",
+      "url": "https://www.bbc.co.uk/news/articles/cr7x38lle1jo?at_medium=RSS&at_campaign=rss",
+      "summary": "A roof collapse at a tuition center in Lahore, Pakistan, resulted in the deaths of 14 children, with two people arrested as part of an investigation into the incident. The tragedy highlights concerns about building safety and regulations.",
+      "tags": [
+        "pakistan",
+        "tragedy",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6715d414e8adf677",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Sudan's RSF committed crimes against humanity in el-Fasher, Amnesty says",
+      "url": "https://www.bbc.co.uk/news/articles/cz9lqvx0z1vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Amnesty International reports that Sudan's Rapid Support Forces (RSF) committed crimes against humanity in el-Fasher, adding to evidence of atrocities that the UN suggests bear hallmarks of genocide. The report highlights the severe humanitarian crisis.",
+      "tags": [
+        "sudan",
+        "conflict",
+        "human rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42c7eed2b9f9e7ff",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Three die in Mexico City World Cup celebrations",
+      "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
+      "summary": "Over one million people celebrated Mexico's World Cup win over Ecuador in Mexico City, resulting in three deaths. The tragic outcome overshadowed the country's excitement.",
+      "tags": [
+        "world cup",
+        "mexico",
+        "tragedy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6c0741ca34cdb760",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
+      "url": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
+      "summary": "A three-year-old child was rescued and hospitalized six days after a Venezuela earthquake, with video showing rescuers cheering the successful recovery from rubble in La Guaira state. This miraculous rescue provided a moment of hope amid the disaster.",
+      "tags": [
+        "venezuela",
+        "earthquake",
+        "rescue"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3ad5d1f4465910c5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump made more than $1bn from crypto in first year back in office",
+      "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Trump earned over $1 billion from cryptocurrency in his first year back in office, significantly exceeding his income from real estate and other branded items. This highlights a new and substantial revenue stream for the president.",
+      "tags": [
+        "trump",
+        "crypto",
+        "finance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9ab66b0c5b01cd27",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Supreme Court's term concluded with significant defeats for President Trump, including the birthright citizenship ruling, yet also granted him key victories and expanded his powers in other areas. This mixed outcome reflects the complex legal landscape surrounding the presidency.",
+      "tags": [
+        "supreme court",
+        "trump",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "38e95e4187c47480",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
+      "url": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Supreme Court has upheld birthright citizenship, delivering a significant setback to Donald Trump's immigration agenda and receiving commendation from civil rights organizations. This ruling reaffirms a core constitutional principle.",
+      "tags": [
+        "supreme court",
+        "birthright citizenship",
+        "trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bf01b77b48f93411",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What are US and Japanese soldiers doing in the middle of the Australian bush?",
+      "url": "https://www.bbc.co.uk/news/videos/cyv09p2vy87o?at_medium=RSS&at_campaign=rss",
+      "summary": "US and Japanese troops are currently engaged in training exercises in remote Australia, thousands of kilometers from any major conflicts. This video report explores the reasons behind this international military collaboration.",
+      "tags": [
+        "military",
+        "training",
+        "international relations"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a613de5ac971b2a8",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Nintendo has raised its employees base salary by 10%",
+      "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
+      "summary": "Nintendo has increased its employees' base salary by 10%.",
+      "tags": [
+        "nintendo",
+        "labor",
+        "compensation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2ed4519a7bab968b",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "summary": "Mainstream LLMs often produce predictable, homogeneous responses to open-ended questions, a phenomenon dubbed \"Artificial Hivemind,\" hindering creativity. Springboards, an Australian startup, developed Flint, an LLM specifically trained to generate a wider variety of responses to combat this groupthink.",
+      "tags": [
+        "ai",
+        "llm",
+        "creativity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "86013360287f627a",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "A federal law bans late voter roll purges. Republicans are pushing to reinterpret it",
+      "url": "https://www.npr.org/2026/07/01/nx-s1-5859333/voter-roll-purge-supreme-court",
+      "summary": "Republicans are seeking to reinterpret a federal law that prohibits systematic voter roll purges within 90 days of an election, a longstanding protection for eligible voters. This effort could impact voting rights and election integrity.",
+      "tags": [
+        "elections",
+        "voting rights",
+        "republican"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1a619fe0db8959a1",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Americans are showing up for the World Cup in record-breaking numbers",
+      "url": "https://www.npr.org/2026/07/01/nx-s1-5876297/world-cup-viewership-fox-telemundo",
+      "summary": "Americans are attending the World Cup in record-breaking numbers, indicating a growing engagement with soccer in the U.S. This surge in viewership suggests a potential shift towards the sport becoming more mainstream.",
+      "tags": [
+        "world cup",
+        "soccer",
+        "sports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7f2f41785e2372f5",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Funerals held for 14 Pakistani children killed in tutoring center collapse",
+      "url": "https://www.npr.org/2026/07/01/g-s1-131537/funerals-held-for-14-pakistani-children-killed-in-tutoring-center-collapse",
+      "summary": "Funerals have been held for the 14 Pakistani children who died in a tutoring center roof collapse in Lahore. Police are investigating potential negligence in the construction work, seeking accountability for the tragedy.",
+      "tags": [
+        "pakistan",
+        "tragedy",
+        "building collapse"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6c35b717af29ce44",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Greetings from London, where Banksy's flag man is a warning cry",
+      "url": "https://www.npr.org/2026/07/01/nx-s1-5867594/banksy-flag-man-statue-london",
+      "summary": "Banksy's \"flag man\" statue in London critiques society, depicting a figure whose flag obscures his vision, symbolizing an unawareness of impending peril. As usual with Banksy's art, it presents a sharp commentary.",
+      "tags": [
+        "banksy",
+        "art",
+        "london"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2938c410c5668d55",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "He sent a harsh email to ICE's top official. 5 months later, federal agents tracked him down",
+      "url": "https://www.npr.org/2026/07/01/nx-s1-5874124/dhs-tracks-ice-critic",
+      "summary": "Federal agents located and warned a Rochester man five months after he sent a critical email to a top ICE official, raising concerns about government surveillance of critics. The incident highlights potential issues regarding free speech and privacy.",
+      "tags": [
+        "government",
+        "surveillance",
+        "free speech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "815400f6320ca3db",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "How America has celebrated milestone birthdays, from world fairs to the World Cup",
+      "url": "https://www.npr.org/2026/07/01/nx-s1-5867587/america-250th-past-anniversaries",
+      "summary": "America's milestone birthdays have evolved from simple toasts and parades to more extravagant and sometimes controversial celebrations, including world fairs and the World Cup, reflecting changing national identity. Over time, these anniversaries became more elaborate and subject to debate.",
+      "tags": [
+        "america",
+        "history",
+        "celebration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "21a67133865951bf",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Kids with autism are prone to drowning. Florida is trying to prevent that",
+      "url": "https://www.npr.org/2026/07/01/nx-s1-5812852/autism-drowning-florida-swim-lessons-voucher",
+      "summary": "Florida is funding a program to prioritize swim lessons for children with autism, who are 160 times more likely to drown than other children. This initiative aims to improve safety and reduce a significant risk for the autistic community.",
+      "tags": [
+        "autism",
+        "safety",
+        "florida"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f9090dca3d958fca",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "SCOTUS upholds birthright citizenship. And, key results from Colorado's primaries",
+      "url": "https://www.npr.org/2026/07/01/g-s1-131327/up-first-newsletter-supreme-court-birthright-citizenship-colorado-primaries-world-cup-heat-american-pride",
+      "summary": "The Supreme Court upheld birthright citizenship on constitutional grounds, while in Colorado, a Democratic socialist won a U.S. House seat primary in Denver. These events reflect significant legal and political developments.",
+      "tags": [
+        "supreme court",
+        "birthright citizenship",
+        "colorado"
+      ],
+      "priority": false
+    },
+    {
+      "id": "375a2d5e2accbf72",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Supreme Court deals some blows to Trump's agenda but leaves him with more expansive powers",
+      "url": "https://www.npr.org/2026/07/01/nx-s1-5876231/supreme-court-deals-some-blows-to-trumps-agenda-but-leaves-him-with-more-expansive-powers",
+      "summary": "President Trump experienced setbacks from the Supreme Court, including a ruling against his immigration agenda, yet the court also granted him broader powers in other areas. Trump has publicly acknowledged his victories and sought workarounds for his losses.",
+      "tags": [
+        "supreme court",
+        "trump",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9bbcf6b273283b66",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "The majority of Americans are proud but worry about direction of the country",
+      "url": "https://www.npr.org/2026/07/01/nx-s1-5869563/american-pride-poll",
+      "summary": "A recent NPR/PBS News/Marist poll indicates that most Americans feel pride in their country but also express concern about its current direction, coinciding with the approach of its 250th birthday. This dual sentiment reflects a complex national mood.",
+      "tags": [
+        "america",
+        "patriotism",
+        "public opinion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c09321f8a2f9783f",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Democratic socialist Melat Kiros topples a nearly 30-year incumbent to win Colorado House primary",
+      "url": "https://www.politico.com/news/2026/07/01/kiros-wins-colorado-house-primary-00983237",
+      "summary": "Democratic socialist Melat Kiros defeated 15-term incumbent Diana DeGette in Colorado's 1st District House primary, marking a significant victory for the insurgent left. Kiros's campaign, which drew major progressive support, framed the race as a generational reckoning against the Democratic establishment.",
+      "tags": [
+        "colorado",
+        "politics",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "14dec4af55c6381b",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Pride (in the game of love)",
+      "url": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/uk-pride-england-win-politico-poll-00983564",
+      "summary": "A POLITICO Poll indicates 62% of Brits would feel pride if England won the World Cup, a higher figure than in France but lower than Spain, suggesting varying levels of national pride tied to sporting success. This data offers insight into cultural attitudes towards sports and patriotism.",
+      "tags": [
+        "uk",
+        "world cup",
+        "public opinion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0b8edc8d44db4d14",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Progressive Manny Rutinel wins primary in battleground Colorado House district",
+      "url": "https://www.politico.com/news/2026/06/30/rutinel-wins-colorado-house-primary-00983300",
+      "summary": "Progressive state Rep. Manny Rutinel won the primary for Colorado’s 8th District, setting up a contested general election against Republican Rep. Gabe Evans in a key swing district. Republicans believe Rutinel, despite softening some left-wing stances, is a more beatable opponent than his moderate primary challenger.",
+      "tags": [
+        "colorado",
+        "politics",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "64700d959be2c7a3",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "The World Cup goalie turned anti-gambling campaigner",
+      "url": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/peter-shilton-anti-gambling-eu-budget-fifa-world-cup-00983548",
+      "summary": "Former England goalkeeper Peter Shilton, an ex-gambling addict, is campaigning for an EU-wide online gambling tax, which he believes would reduce advertising revenue for betting companies. Malta, whose economy relies heavily on online gambling firms, opposes the proposed €1.9 billion annual levy.",
+      "tags": [
+        "gambling",
+        "regulation",
+        "sports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "396362ba0b326912",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Westminster catches World Cup fever",
+      "url": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/westminster-england-congo-world-cup-fever-00983750",
+      "summary": "LONDON — Much of Westminster will knock off work at 5 p.m. U.K. time for England’s round of 32 match against the Democratic Republic of Congo. Presumptive PM Andy Burnham is planning to watch with aides, while Keir Starmer, the man he is likely to replace on July 20, plans to wat…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "1b39e051a3d9d660",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Why Bosnia's fans also cheer for Palestine",
+      "url": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/bosnia-palestine-cheer-israel-genocide-gaza-00983579",
+      "summary": "Bosnian fans at the World Cup are showing strong pro-Palestinian solidarity, drawing parallels between their own war experiences in the 1990s and the Israel-Hamas conflict. This sentiment is fueled by a perceived lack of international justice for crimes in Gaza and connections between Bosnian Serb leaders and Israeli Prime Minister Netanyahu.",
+      "tags": [
+        "bosnia",
+        "palestine",
+        "world cup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dd85e0ae7b11525a",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "For the First Time, a Cell Built From Scratch Grows and Divides",
+      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+      "summary": "For the first time, biologists have constructed a synthetic cell from nonliving components within a membrane that successfully grew, replicated DNA, and divided, demonstrating fundamental cell cycle functions. This achievement is considered an impressive step in understanding the origins of life.",
+      "tags": [
+        "biology",
+        "science",
+        "synthetic life"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b6540d637c25ba58",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Nano Banana 2 Lite",
+      "url": "https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything",
+      "summary": "Google's new Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image) is designed as their fastest and cheapest image model, ideal for velocity and scale. Testing shows it improved results for some prompts but still has issues like spelling errors in generated text.",
+      "tags": [
+        "google",
+        "ai",
+        "image generation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "305948ba9b4a2cf2",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Anthropic",
+      "url": "https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything",
+      "summary": "Anthropic announced that the Department of Commerce has lifted export controls on its Claude Fable 5 and Mythos 5 models, with access to be restored soon. These models were previously suspended due to concerns they could be used by hackers.",
+      "tags": [
+        "anthropic",
+        "ai",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f321441160d62e5d",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "shot-scraper 1.10",
+      "url": "https://simonwillison.net/2026/Jun/30/shot-scraper/#atom-everything",
+      "summary": "Shot-scraper 1.10 introduces \"shot-scraper video storyboard.yml\" as its main new feature, enabling agents to record video demos of their work. This enhances automation capabilities for web scraping and testing.",
+      "tags": [
+        "software",
+        "tools",
+        "video"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b127852345a1fcdd",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "The AI Compass",
+      "url": "https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything",
+      "summary": "\"The AI Compass\" is a 29-question political compass-style quiz about AI and AI ethics, categorizing users into one of 30 archetypes. It is implemented as a single-page React app.",
+      "tags": [
+        "ai",
+        "ethics",
+        "quiz"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f2afb33abcef83f4",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "What's new in Claude Sonnet 5",
+      "url": "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything",
+      "summary": "Claude Sonnet 5 by Anthropic offers performance close to Opus 4.8 at a lower price, with its cyber task capabilities significantly reduced to avoid export blocks. The new tokenizer, however, increases effective pricing by approximately 30% for English and Spanish texts.",
+      "tags": [
+        "anthropic",
+        "ai",
+        "llm"
+      ],
+      "priority": false
+    },
+    {
+      "id": "50439fcfa4bfa788",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Nobody likes a party crasher",
+      "url": "https://www.slowboring.com/p/nobody-likes-a-party-crasher",
+      "summary": "The author expresses a reluctance to celebrate America's 250th anniversary, feeling that Donald Trump and Trumpism have co-opted the nonpartisan event into a divisive \"MAGA project.\" This co-option makes it difficult to celebrate the country's founding ideal of people building something from nothing.",
+      "tags": [
+        "america",
+        "patriotism",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f0a70da54f92b0a7",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Acti puts AI agents directly into your smartphone keyboard",
+      "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+      "summary": "Acti has released a new smartphone keyboard for iOS and Android that integrates AI agents, allowing users to create custom AI-powered shortcuts using natural language across different apps. The startup is betting on the smartphone keyboard as the next home for AI assistants.",
+      "tags": [
+        "ai",
+        "mobile",
+        "keyboard"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2f57ad1c32c2721c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+      "summary": "Anthropic has launched Claude Sonnet 5, offering stronger agentic capabilities, improved safety, and lower pricing, positioning it as a cheaper alternative to other advanced AI models. Its performance is noted to be close to that of Opus 4.8.",
+      "tags": [
+        "anthropic",
+        "ai",
+        "llm"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6001f9782c753b62",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Clicks shows off its BlackBerry-inspired phone in a new hands-on video",
+      "url": "https://techcrunch.com/2026/06/30/clicks-shows-off-its-blackberry-inspired-phone-in-a-new-hands-on-video/",
+      "summary": "A new hands-on video showcases the final production version of the Clicks Communicator, a BlackBerry-inspired smartphone designed to run modern apps.",
+      "tags": [
+        "smartphone",
+        "hardware",
+        "retro"
+      ],
+      "priority": false
+    },
+    {
+      "id": "141c8871258b7895",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+      "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+      "summary": "Google's agentic assistant, Gemini Spark, is now available on Mac, featuring real-time tracking and expanded app support. This enhances its capabilities as a 24/7 AI assistant.",
+      "tags": [
+        "google",
+        "ai",
+        "gemini"
+      ],
+      "priority": false
+    },
+    {
+      "id": "91b9ca610318ee89",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+      "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+      "summary": "Google has updated its image generator with Nano Banana 2 Lite, aiming for a faster and cheaper tool for creators to produce AI content. This makes it more useful for various AI content creation needs.",
+      "tags": [
+        "google",
+        "ai",
+        "image generation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b4028ba60cdc149a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Lime raises $167M in IPO after years of teasing a public debut",
+      "url": "https://techcrunch.com/2026/07/01/lime-raises-167m-in-ipo-after-years-of-teasing-a-public-debut/",
+      "summary": "Lime, the scooter and bike-share company, has raised $167 million in its IPO, which it needs to address approximately $1 billion in liabilities. This public debut follows years of anticipation.",
+      "tags": [
+        "lime",
+        "ipo",
+        "micromobility"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d38438c53f8eba9a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+      "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+      "summary": "Etched, an Nvidia competitor in AI chips, has reached a $5 billion valuation and booked $1 billion in sales under contract for its inference systems. The company is poised as a significant player in the AI hardware market.",
+      "tags": [
+        "nvidia",
+        "ai",
+        "chips"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d587d56ccbe6be46",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenClaw is finally available on Android and iOS",
+      "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+      "summary": "OpenClaw, a free open-source agentic program, has launched on Android and iOS, making it available on mobile devices.",
+      "tags": [
+        "open source",
+        "mobile",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2ba96a392708757b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Realta Fusion generates electricity directly from a fusion reaction, an apparent first",
+      "url": "https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/",
+      "summary": "Realta Fusion has reportedly generated electricity directly from a fusion reaction, marking an apparent first in the field. Co-founder Kieran Furlong stated this milestone demonstrates the possibility of taking power directly from plasma.",
+      "tags": [
+        "fusion",
+        "energy",
+        "science"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fa4cc932cc88dc38",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Sony to end physical PlayStation game disc production in 2028",
+      "url": "https://techcrunch.com/2026/07/01/sony-to-end-physical-playstation-game-discs-in-2028/",
+      "summary": "Sony will cease physical disc production for all new PlayStation games starting in 2028, signaling a full embrace of an all-digital future for its gaming platform.",
+      "tags": [
+        "sony",
+        "playstation",
+        "gaming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fd157f78a336ca1e",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+      "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+      "summary": "EquiLibre Technologies, an AI lab founded by three former DeepMind researchers who built a poker AI, is now valued at over $500 million for making money for quant hedge funds.",
+      "tags": [
+        "ai",
+        "deepmind",
+        "finance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f1daf1a41a4827f8",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The ‘Father of the Internet’ is finally retiring",
+      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+      "summary": "Vinton Cerf, known as one of the \"fathers of the internet\" for co-creating underlying protocols, is retiring next week from his role as Google's chief internet evangelist.",
+      "tags": [
+        "internet",
+        "google",
+        "history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "91b71242011eafc4",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Threads adds new features to Live Chats as it expands access",
+      "url": "https://techcrunch.com/2026/06/30/threads-adds-new-features-to-live-chats-as-it-expands-access/",
+      "summary": "Threads has expanded access to its Live Chats and added new features, including translations and tools for hosts. These updates aim to enhance user experience and facilitate broader communication.",
+      "tags": [
+        "threads",
+        "social media",
+        "features"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a01c6f1e373ca494",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+      "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+      "summary": "The Trump administration has lifted restrictions on Anthropic's Mythos and Fable AI models, following an \"erratic\" approach to AI policymaking that has created uncertainty for the industry.",
+      "tags": [
+        "trump",
+        "ai",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9ccb664915925166",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+      "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "summary": "Venice AI achieved unicorn status with a $65 million Series A funding round, propelled by the success of its privacy-first AI platform. The company is already profitable, reporting over $70 million in annualized run-rate revenues.",
+      "tags": [
+        "ai",
+        "startup",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "caa321969f081c67",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+      "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+      "summary": "Wayve, an AI startup, has launched an $85 million employee tender offer at an $8.5 billion valuation, part of a trend among AI companies to attract and retain talent.",
+      "tags": [
+        "ai",
+        "startup",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "14034b90157b4e38",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Confessions of a Detransitioner",
+      "url": "https://www.thefp.com/p/confessions-of-a-detransitioner",
+      "summary": "The article discusses the rapid increase in medical transition for minors between the 2010s and early 2020s, noting significant rises in puberty blocker prescriptions and gender-affirming surgeries for teenagers. Pediatric gender clinics have also proliferated nationwide during this period.",
+      "tags": [
+        "gender transition",
+        "minors",
+        "healthcare"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b744fb825cd100b6",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Douglas Murray: What Really Makes ‘Citizen Vigilante’ So Dangerous",
+      "url": "https://www.thefp.com/p/douglas-murray-citizen-vigilante-migration",
+      "summary": "The controversial film \"Citizen Vigilante\" is discussed as an \"ugly film\" banned in Germany but popular on streaming platforms, depicting vigilante justice against crimes committed by illegal migrants in Europe. The author suggests its controversial nature stems from its direct portrayal of ignored societal issues related to migration.",
+      "tags": [
+        "film",
+        "controversy",
+        "immigration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "61b0f28c5a941858",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Forget What Your Parents Told You About Money",
+      "url": "https://www.thefp.com/p/forget-what-your-parents-told-you-about-money",
+      "summary": "The article advises younger generations to disregard outdated financial advice from parents, as economic realities like housing costs, inflation, and interest rates have drastically changed since the 1980s. It challenges traditional views on homeownership, professional degrees, and debt repayment, emphasizing current market conditions and individual circumstances.",
+      "tags": [
+        "personal finance",
+        "economics",
+        "generations"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f230887818ad2d85",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Great Americans: David Mamet on America’s First Pop Poet",
+      "url": "https://www.thefp.com/p/great-americans-david-mamet-on-paul-dresser",
+      "summary": "David Mamet argues that modern poetry, influenced by Walt Whitman, often prioritizes feeling over aesthetic and lacks musicality, unlike the \"songs\" of poets like Yeats and Shakespeare. He praises Paul Dresser as America's \"first great pop poet\" because his works were memorable and singable.",
+      "tags": [
+        "poetry",
+        "literature",
+        "american history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "aaa3331a606ac8c5",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "I’m a Female Athlete. The Supreme Court Finally Gave Us the Protection We Need.",
+      "url": "https://www.thefp.com/p/im-a-female-athlete-the-supreme-court-paula-scanlan",
+      "summary": "The author, a female athlete, recounts feeling unsafe and disadvantaged when a transgender woman, Lia Thomas, competed on her University of Pennsylvania women's swim team. She criticizes the administration's response to concerns about privacy and fairness, feeling that female athletes were pressured to accept the situation.",
+      "tags": [
+        "women's sports",
+        "transgender",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b89fb174c958181f",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Kamala 2028 Is No Joke",
+      "url": "https://www.thefp.com/p/kamala-harris-2028-prospects",
+      "summary": "Despite a \"catastrophic\" 2024 campaign, Kamala Harris is reportedly making overtures to progressive and pro-Palestinian factions, indicating serious intentions to run for president again in 2028. The article argues that conventional wisdom underestimates her chances for the Democratic nomination.",
+      "tags": [
+        "kamala harris",
+        "politics",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "40f3865d581d9ab3",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Melat Kiros Called October 7 ‘Inevitable’ and May Be Heading to Congress",
+      "url": "https://www.thefp.com/p/melat-kiros-called-october-7-inevitable",
+      "summary": "Melat Kiros, a 29-year-old democratic socialist, defeated 15-term incumbent Diana DeGette in Colorado's Democratic primary, representing a growing strength of the left. This victory comes despite controversy over past remarks where Kiros reportedly called October 7 \"inevitable.\"",
+      "tags": [
+        "colorado",
+        "politics",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3131ab6bef31a053",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Country I Would Still Die For",
+      "url": "https://www.thefp.com/p/the-country-i-would-still-die-for-medal-of-honor-nicholas-dockery",
+      "summary": "Retired US Army officer Major Nicholas Dockery reflects on a perceived national decline where Americans view each other as the greatest threat and some Gen Z members believe violence is necessary. He contrasts this with moments of national unity, like post-tornado recovery and 9/11, urging a return to shared ideals without waiting for disaster.",
+      "tags": [
+        "america",
+        "patriotism",
+        "national unity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "30d222e3b88dd8ad",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Greatness of the Constitution Shines in the Birthright Citizenship Case",
+      "url": "https://www.thefp.com/p/the-greatness-of-the-constitution-birthright-citizenship-jed-rubenfeld",
+      "summary": "The article argues that America, founded as a multiethnic, democratic nation defined by shared ideals rather than \"blood,\" embodies a unique national identity contrasted with European ethno-states. The Supreme Court's upholding of birthright citizenship reaffirms this foundational American principle of a \"new race of men\" from all nations.",
+      "tags": [
+        "constitution",
+        "birthright citizenship",
+        "american history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ab0f9ee8dac05cd9",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "This Week in American History: The Man Who Argued Against Independence",
+      "url": "https://www.thefp.com/p/this-week-in-american-history-the-man-who-voted-against-independence",
+      "summary": "This article highlights John Dickinson of Pennsylvania, the eloquent opponent of American independence at the Continental Congress 250 years ago, whose arguments for reconciliation were contrasted with John Adams's push for separation. Dickinson, a celebrated advocate for American liberty, hoped to avoid a break with Britain despite British abuses.",
+      "tags": [
+        "american history",
+        "independence",
+        "john dickinson"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0937da45081b8844",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Tom Suozzi’s Fight to Save the Democratic Party from the DSA",
+      "url": "https://www.thefp.com/p/tom-suozzis-fight-to-save-the-democratic-party-from-socialism",
+      "summary": "Democratic Congressman Tom Suozzi is launching \"Promise to America,\" a pledge to counter the \"leftist tsunami\" within his party by advocating for capitalism, free speech, and America, while opposing socialism and \"purity tests.\" He believes moderate Democrats have been \"asleep at the switch\" against the ascendant far left.",
+      "tags": [
+        "democratic party",
+        "politics",
+        "progressive"
+      ],
+      "priority": false
+    },
+    {
+      "id": "be002a9c3eb66751",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Comcast’s split could make or break Peacock",
+      "url": "https://www.theverge.com/streaming/960235/comcast-breakup-peacock-streaming",
+      "summary": "Comcast's plan to split NBCUniversal, Peacock, and Sky from its broadband and wireless businesses will force Peacock to operate independently without the backing of the larger combined company. This marks a new phase for Peacock, which previously relied on Xfinity perks but now charges for subscriptions.",
+      "tags": [
+        "comcast",
+        "peacock",
+        "streaming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4ade35c00987e50f",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Fujifilm launches two new QuickSnap cameras because Gen Z can&#8217;t get enough",
+      "url": "https://www.theverge.com/gadgets/960067/fujifilm-quicksnap-active-black-and-white-price-availability",
+      "summary": "Fujifilm is expanding its QuickSnap lineup with two new disposable cameras, the QuickSnap Black and White and the QuickSnap Active, to cater to the growing popularity of retro film cameras among Gen Z. These models offer monochrome photography and enhanced outdoor durability, respectively.",
+      "tags": [
+        "fujifilm",
+        "photography",
+        "cameras"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cf24dc1d159fe82b",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Rhythm Heaven never misses a beat",
+      "url": "https://www.theverge.com/entertainment/959757/rhythm-heaven-groove-review-nintendo-switch",
+      "summary": "Nintendo has released \"Rhythm Heaven Groove\" for the Switch, the first entry in the rhythm-based minigame series in over a decade. The franchise is known for its consistent quality and unique WarioWare-like music challenges.",
+      "tags": [
+        "nintendo",
+        "gaming",
+        "rhythm heaven"
+      ],
+      "priority": false
+    },
+    {
+      "id": "428ba807abec9767",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Sony is closing the PS3 and Vita digital stores",
+      "url": "https://www.theverge.com/games/960168/sony-playstation-ps3-vita-store-shut-down",
+      "summary": "Sony plans to shut down the digital PlayStation stores for PS3 and PS Vita, beginning in select markets in August and globally by July 2027. After these dates, users will no longer be able to purchase new content but can still download previously bought games.",
+      "tags": [
+        "sony",
+        "playstation",
+        "gaming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "34e3efb4f1d280ad",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The cube was a lie: up close with our Dbrand Companion Cube before it gets destroyed",
+      "url": "https://www.theverge.com/games/959890/dbrand-companion-cube-photos-hands-on",
+      "summary": "Dbrand has canceled its Portal-themed Companion Cube external shell for the Steam Machine after Valve initiated legal action, leading the company to destroy all manufactured cubes. Dbrand's CEO admitted they \"fucked this one up,\" indicating no backup plan.",
+      "tags": [
+        "dbrand",
+        "valve",
+        "gaming"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 126,
+    "summarized": 85,
+    "skipped_promos": 12,
+    "filtered_by_rules": 29,
+    "sources": 14,
+    "email_items_omitted": 0
+  }
+}
