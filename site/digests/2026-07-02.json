@@ -1,0 +1,1351 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T16:03:33+00:00",
+  "hot_topics": [
+    {
+      "topic": "OpenAI proposes US government equity stake",
+      "synthesis": "OpenAI CEO Sam Altman is reportedly in discussions with the Trump administration about the US government acquiring a 5 percent stake in the AI firm. This proposal aims to share AI's financial upside with the public and potentially alleviate government concerns. Other major tech companies like Google and Meta have also been approached for similar arrangements.",
+      "item_ids": [
+        "fadb543462ad2616",
+        "61bd491e116a4c86",
+        "4c0d3b78518089b3"
+      ]
+    },
+    {
+      "topic": "Tesla's Q2 sales surge by 25%",
+      "synthesis": "Tesla reported a robust 25% year-on-year increase in sales for the second quarter of 2026, delivering over 480,000 electric vehicles globally. This strong performance indicates a recovery for the automaker, with significant contributions from the Model 3 and Y. The company also appears to be managing its previous overproduction issues.",
+      "item_ids": [
+        "de1a706a9e26bcb7",
+        "c014d33b1b6e6c52",
+        "aa0a350ba0d9188d"
+      ]
+    },
+    {
+      "topic": "Trump's unprecedented financial gains raise ethics concerns",
+      "synthesis": "President Donald Trump's recent financial disclosures show an unprecedented $2.2 billion in earnings during his current term, with over $1.4 billion coming from cryptocurrency ventures. Critics and media outlets are highlighting the scale and appearance of potential conflicts of interest, labeling it as a 'self-deal' despite its legality. This raises questions about ethical boundaries for a sitting president's financial activities.",
+      "item_ids": [
+        "9320c7db51f52f36",
+        "e3248687e41d2ada",
+        "9c3be80f3be23dd6",
+        "131a1dd0f8a4f5e1"
+      ]
+    },
+    {
+      "topic": "Vatican excommunicates traditionalist sect",
+      "synthesis": "The Vatican has officially declared the traditionalist Society of St. Pius X (SSPX) to be in schism, resulting in the excommunication of its bishops, priests, and an estimated 600,000 followers. This decisive action was taken after the society consecrated bishops without the Pope's consent, marking a significant separation from the Catholic Church.",
+      "item_ids": [
+        "fb7fbc872dc9ec61",
+        "7816e472f1632831"
+      ]
+    },
+    {
+      "topic": "Kyiv hit by massive Russian missile and drone attack",
+      "synthesis": "Kyiv experienced one of Russia's most massive drone and missile attacks, resulting in at least 18-20 fatalities and widespread destruction, including a nine-story apartment block. The Ukrainian capital's mayor has declared a day of mourning. International reports from the scene detail the extensive damage and human cost of the assault.",
+      "item_ids": [
+        "fb8465eb00e092c1",
+        "a23c25b19f19256c",
+        "f79322127683dbae"
+      ]
+    },
+    {
+      "topic": "Apple planning new MacBook Pro and iPad Pro models",
+      "synthesis": "Apple is reportedly working on a redesigned entry-level 14-inch MacBook Pro, expected to launch in the first half of 2027 with a new design. Concurrently, the company is testing four new iPad Pro models focusing on internal improvements, anticipated for release in the spring. These updates signal upcoming hardware refresh cycles for Apple's professional line-up.",
+      "item_ids": [
+        "e193b8e27c4d0d1b",
+        "85ef1cce26d646da"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "19802a830bff5e5f",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Ithaca's king defies the gods in final The Odyssey trailer",
+      "url": "https://arstechnica.com/culture/2026/07/ithacas-king-defies-the-gods-in-final-the-odyssey-trailer/",
+      "summary": "Christopher Nolan's upcoming film \"The Odyssey\" features Matt Damon as Odysseus, recounting his arduous journey home from the Trojan War and his wife Penelope's struggles against suitors. The final trailer has been released, building anticipation for the star-studded adaptation of the classic epic.",
+      "tags": [
+        "film",
+        "culture",
+        "epic"
+      ],
+      "priority": false
+    },
+    {
+      "id": "73984507833fc9a4",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC",
+      "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
+      "summary": "Privacy advocates are urging the FTC to maintain close oversight of Elon Musk's X, warning of serious privacy risks and rejecting the platform's bid to end agency audits. The FTC's order stemmed from a past incident where then-Twitter improperly shared user contact information.",
+      "tags": [
+        "privacy",
+        "tech policy",
+        "regulation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "24ffbad75171e9b8",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Sony announces end of PlayStation discs, parts of digital store in the same day",
+      "url": "https://arstechnica.com/gaming/2026/07/sony-will-stop-making-physical-copies-of-playstation-games-in-2028/",
+      "summary": "Sony announced it will cease producing physical discs for PlayStation games by January 2028, with new games becoming digital-only on the PlayStation Store. This move reflects a consumer trend, as digital downloads accounted for 78% of full-game purchases in the last fiscal year.",
+      "tags": [
+        "gaming",
+        "digital media",
+        "consumer trends"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ccd1cb8a31d88e53",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Superworms could replace beetles for cleaning skeletal remains",
+      "url": "https://arstechnica.com/science/2026/07/museums-could-use-ravenous-superworms-to-clean-skeletons/",
+      "summary": "Researchers propose superworm larvae as a practical and safer alternative to dermestid beetles for cleaning skeletal remains in museums and forensic studies. Superworms offer similar efficiency without the high infestation risk, complex containment, or environmental hazards associated with other methods.",
+      "tags": [
+        "science",
+        "museums",
+        "forensics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "70d37eb714fbcf47",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
+      "url": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
+      "summary": "T-Mobile is migrating tens of thousands of virtual machines off VMware software due to a lawsuit against Broadcom, alleging a breach of contractual obligation to support its perpetual licenses. The company highlights the significant technical challenges involved in this large-scale migration.",
+      "tags": [
+        "tech",
+        "cloud computing",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "de1a706a9e26bcb7",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Tesla sales increase by 25% in Q2 2026",
+      "url": "https://arstechnica.com/cars/2026/07/tesla-sales-increase-by-25-in-q2-2026/",
+      "summary": "If the car-buying public had qualms about Tesla, it appears to have gotten over them. This morning, the automaker\nreleased\nits sales and production numbers for the second quarter of the year. And if you're a fan of activist CEO Elon Musk, it's good news, as April, May, and June w…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "fadb543462ad2616",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target",
+      "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
+      "summary": "OpenAI CEO Sam Altman is reportedly in active talks with the Trump administration about the US potentially acquiring a 5 percent stake in the leading AI firm.\nInsider sources\ntold the Financial Times\nthat these talks are in “early stages,” but Altman “has argued that giving the p…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "86447ce10ea19e73",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "US home battery installations hit record high on rising electricity costs",
+      "url": "https://arstechnica.com/science/2026/07/us-home-battery-installations-hit-record-high-in-early-2026/",
+      "summary": "US homeowners have embraced home batteries in record-breaking numbers in early 2026, spurred on by state incentives while seeking to offset rising residential electricity costs. The trend could even unlock a more flexible energy supply for power grid operators and even AI data ce…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f983364e95818895",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Woman's hip replacement disintegrates, causing severe metal poisoning",
+      "url": "https://arstechnica.com/health/2026/07/womans-puzzling-decline-turns-out-to-be-cobalt-poisoning-from-hip-replacement/",
+      "summary": "A 56-year-old woman experienced severe neurological and physical symptoms, later diagnosed as cobalt poisoning caused by the disintegration of her 19-year-old hip replacement. This case highlights a rare but serious complication where the device failed much earlier than its typical lifespan.",
+      "tags": [
+        "health",
+        "medical device",
+        "poisoning"
+      ],
+      "priority": false
+    },
+    {
+      "id": "702117265ea240ef",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'Beautiful and terrible' - the world's thoughts on the US at 250",
+      "url": "https://www.bbc.co.uk/news/videos/cvgmv2rmjqno?at_medium=RSS&at_campaign=rss",
+      "summary": "As the US approaches its 250th anniversary, people worldwide offer mixed perspectives on America today, describing it as both \"beautiful and terrible.\" This reflects diverse international views on the nation's global standing and internal affairs.",
+      "tags": [
+        "us politics",
+        "international relations",
+        "anniversary"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fb8465eb00e092c1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'Most massive' Russian attack on Kyiv kills at least 20",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+      "summary": "Kyiv's mayor declares a day of mourning after the major drone and missile attack on the Ukrainian capital.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "a08fe5630261a67a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Alleged Scattered Spider hacker arrested in Finland",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0we4yw1lo?at_medium=RSS&at_campaign=rss",
+      "summary": "A 19-year-old dual American-Estonian national, an alleged member of the Scattered Spider hacking group, has been arrested in Finland and extradited to the US to face federal charges. This marks a significant development in combating cybercrime.",
+      "tags": [
+        "cybersecurity",
+        "crime",
+        "international law"
+      ],
+      "priority": false
+    },
+    {
+      "id": "61f592d87f6d1de0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
+      "url": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The aunt of Kleiber Moran, a two-year-old boy rescued six days after deadly earthquakes in Venezuela, has pledged to provide him with \"mother's warmth.\" His rescue offered a beacon of hope after the disaster.",
+      "tags": [
+        "disaster",
+        "children",
+        "venezuela"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c96e046ba4fd90f1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Banned by Beijing, this comedian is taking his act to Chinese speakers abroad",
+      "url": "https://www.bbc.co.uk/news/articles/cx2x01q21wlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Chizi, a prominent Chinese stand-up comedian banned by Beijing, is now performing for Chinese speakers abroad after falling afoul of China's censors. He has found a new stage to continue his act outside his home country.",
+      "tags": [
+        "comedy",
+        "censorship",
+        "china"
+      ],
+      "priority": false
+    },
+    {
+      "id": "00f01887da894f0d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Canada celebrates its birthday as Mark Carney battles to keep it intact",
+      "url": "https://www.bbc.co.uk/news/articles/cwykxwd43pwo?at_medium=RSS&at_campaign=rss",
+      "summary": "As Canada celebrates its birthday, Mark Carney is working to maintain national unity amid independence movements in two provinces. These movements are seeking to exit the country, posing a challenge to Canada's integrity.",
+      "tags": [
+        "canada",
+        "politics",
+        "nationalism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7f5de0d141150d35",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Canadian boy, 11, dies of rabies after waking to bat on his face",
+      "url": "https://www.bbc.co.uk/news/articles/c982m1m95q9o?at_medium=RSS&at_campaign=rss",
+      "summary": "An 11-year-old Canadian boy has tragically died of rabies after waking to find a bat on his face, a rare occurrence as only 28 human rabies deaths have been recorded in Canada since 1924. This highlights the dangers of bat contact.",
+      "tags": [
+        "health",
+        "rabies",
+        "canada"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c14a49a522c76cad",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "China says pilot crashed small plane into skyscraper for 'personal reasons'",
+      "url": "https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&at_campaign=rss",
+      "summary": "Chinese authorities state that a 66-year-old pilot intentionally crashed a small plane into a skyscraper due to \"personal reasons,\" having referenced \"ending his life\" in his diary and suffering from anxiety. The pilot died in the crash.",
+      "tags": [
+        "china",
+        "aviation",
+        "mental health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7e418d38ad6c120f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Did this AI anti-drug video make drugs look appealing?",
+      "url": "https://www.bbc.co.uk/news/videos/cx2xw52ng5do?at_medium=RSS&at_campaign=rss",
+      "summary": "Hong Kong's Correctional Services Department removed an AI-generated K-pop anti-drug video after facing backlash for inadvertently making substances appear appealing. This incident highlights challenges in using AI for public health messaging.",
+      "tags": [
+        "ai",
+        "public health",
+        "misinformation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4f92e60266981785",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Four die in Mexico City World Cup celebrations",
+      "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
+      "summary": "Four people died during Mexico City's World Cup celebrations, which saw over a million people gather in the capital to mark the country's victory over Ecuador. The fatalities occurred amidst the massive public outpouring.",
+      "tags": [
+        "sports",
+        "mexico",
+        "tragedy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "eb3e3eac0cf52188",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "From friendship bracelets to wedding rings: A Taylor and Travis timeline",
+      "url": "https://www.bbc.co.uk/news/articles/cqj19p112qjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Taylor Swift and Travis Kelce are expected to celebrate their wedding with a party at Madison Square Garden this weekend, following a timeline that progressed from friendship bracelets to wedding rings. This article provides a recap of their relationship.",
+      "tags": [
+        "celebrity",
+        "entertainment",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9320c7db51f52f36",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
+      "url": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss",
+      "summary": "Historians say Trump's $2.2bn income last year is unprecedented and blurs the line on conflicts of interest.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "1009412d5f6038f9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Nigeria to seek compensation for property abandoned by citizens fleeing South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/c9d2n8elwdlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nigeria plans to seek compensation for properties and businesses abandoned by its citizens who fled South Africa amidst anti-migrant tensions. The Nigerian High Commissioner is documenting these assets to pursue claims.",
+      "tags": [
+        "international relations",
+        "migration",
+        "nigeria"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b7e89d610fdc17f0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Nine Thai monks killed after 11-year-old driver collides with procession",
+      "url": "https://www.bbc.co.uk/news/articles/c23y90lygpzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nine Thai monks were killed when an 11-year-old driver in a truck collided with their procession walking by the roadside. The incident resulted in a high number of casualties among the 35 monks and five lay followers.",
+      "tags": [
+        "thailand",
+        "accident",
+        "tragedy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "85d99002e6422ea9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
+      "url": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss",
+      "summary": "A man previously convicted in France as a \"godfather\" of migrant camps and a people smuggler has been discovered by the BBC living in the UK and seeking asylum. He has been working in a Leicestershire village despite his past.",
+      "tags": [
+        "migration",
+        "crime",
+        "uk"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5898030f7c70fade",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Residents of Ethiopian town forced to kill hundreds of their own dogs after rabies deaths",
+      "url": "https://www.bbc.co.uk/news/articles/c1wy4d5p4pxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Residents of an Ethiopian town were compelled to kill hundreds of their dogs to prevent the spread of rabies, following several human deaths from the disease. Locals reported reluctantly hanging their dogs to avoid arrest or fines.",
+      "tags": [
+        "health crisis",
+        "rabies",
+        "ethiopia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cf90e60bc695dd47",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ryanair warns of 'queue chaos' from new EU border system",
+      "url": "https://www.bbc.co.uk/news/articles/c8x2y74wp9eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ryanair is warning of potential \"queue chaos\" from a new EU border system and is urging European governments to postpone its implementation until after the summer holiday period. The airline expresses concerns about disruptions for travelers.",
+      "tags": [
+        "travel",
+        "eu policy",
+        "airline"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8b161c81de29fb79",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "South Africa and Ghana in diplomatic row over alleged killing of migrant",
+      "url": "https://www.bbc.co.uk/news/articles/c982k1j3d70o?at_medium=RSS&at_campaign=rss",
+      "summary": "South Africa and Ghana are embroiled in a diplomatic dispute following allegations that a Ghanaian citizen was killed during anti-migrant protests in Cape Town. South Africa has denied these claims.",
+      "tags": [
+        "diplomacy",
+        "migration",
+        "africa"
+      ],
+      "priority": false
+    },
+    {
+      "id": "620f4bb649ea6b40",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "The US deported them to Venezuela - hours later earthquakes struck",
+      "url": "https://www.bbc.co.uk/news/articles/c3eyxjy01y3o?at_medium=RSS&at_campaign=rss",
+      "summary": "A group of individuals deported by the US to Venezuela landed hours before twin earthquakes struck the country, leaving family members desperately searching for them. This incident highlights the tragic intersection of humanitarian crises and natural disasters.",
+      "tags": [
+        "venezuela",
+        "disaster",
+        "migration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f6bafae308eed55c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Turkish police beat us with iron rods before we lost limbs to frostbite, Afghans say",
+      "url": "https://www.bbc.co.uk/news/articles/ce8k4pz91n5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Afghan migrants attempting to reach Europe allege that Turkish police beat them with iron rods, stripped them, and tied their hands in freezing temperatures, leading to severe frostbite and limb loss. These harrowing accounts describe extreme brutality at the border.",
+      "tags": [
+        "human rights",
+        "migration",
+        "border control"
+      ],
+      "priority": false
+    },
+    {
+      "id": "28ecb755fb3e970b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ukrainian charged in Germany over Nord Stream blasts",
+      "url": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss",
+      "summary": "A Ukrainian national has been charged in Germany concerning the Nord Stream pipeline blasts, a development Ukraine denies involvement in. This case could have significant implications for Ukraine's relationship with Germany.",
+      "tags": [
+        "geopolitics",
+        "investigation",
+        "germany"
+      ],
+      "priority": false
+    },
+    {
+      "id": "87a192409101a193",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US blocks long-term renewal of North American trade deal",
+      "url": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US has blocked the long-term renewal of the North American trade deal, triggering annual rolling reviews and introducing uncertainty for the $1.9 trillion commerce with Canada and Mexico. President Trump, who signed the deal in 2018, has reportedly soured on it.",
+      "tags": [
+        "trade policy",
+        "us politics",
+        "international relations"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fb7fbc872dc9ec61",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Vatican excommunicates hundreds of thousands of splinter sect followers",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz95188jjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Around 600,000 followers of the Society of Saint Pius X, a Catholic sect, are affected.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "d3ceda0b58e94e94",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Venezuela quake survivor pulled out alive after eight days",
+      "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hernán Gil was rescued alive after being trapped for eight days under a collapsed multi-storey car park in Venezuela following an earthquake. His survival provides a rare moment of hope amidst the disaster.",
+      "tags": [
+        "disaster",
+        "rescue",
+        "venezuela"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f79322127683dbae",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
+      "url": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&at_campaign=rss",
+      "summary": "Sarah Rainsford reports from the completely destroyed nine-storey block of flats in Ukraine's capital.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "a0edf60a3d568fc5",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Android Developer Verification: Threat masquerading as protection",
+      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
+      "summary": "An article warns that Android's developer verification process, intended for protection, is actually posing a threat to developers. The discussion likely highlights potential pitfalls or unintended negative consequences of the system.",
+      "tags": [
+        "android",
+        "security",
+        "developer tools"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5139f1755948268e",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Bring back crappy forums",
+      "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
+      "summary": "An article advocates for the return of \"crappy forums,\" suggesting nostalgia or a functional preference for simpler online discussion platforms. It likely critiques modern social media or forum designs.",
+      "tags": [
+        "internet culture",
+        "web design",
+        "community"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f01f88523a9a914b",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "summary": "Kimi K2.7 Code has been made generally available within GitHub Copilot, enhancing the AI-powered coding assistant's capabilities. This release provides broader access to its features for developers.",
+      "tags": [
+        "ai",
+        "software development",
+        "github"
+      ],
+      "priority": false
+    },
+    {
+      "id": "45343f045b0761e9",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Oomwoo, an open-source robot vacuum you build yourself",
+      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+      "summary": "Oomwoo is introduced as an open-source robot vacuum designed for self-assembly, empowering users to build their own smart home appliance. This project offers a DIY approach to home automation.",
+      "tags": [
+        "robotics",
+        "open source",
+        "diy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "de17c84fd09d2092",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The fall of the theorem economy",
+      "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
+      "summary": "An article explores \"the fall of the theorem economy,\" suggesting a shift or decline in a specific academic or computational paradigm. The discussion likely delves into implications for research or practical applications.",
+      "tags": [
+        "academia",
+        "technology",
+        "trends"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6939882ee40d506a",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The primary purpose of code review is to find code that will be hard to maintain",
+      "url": "https://mathstodon.xyz/@mjd/115096720350507897",
+      "summary": "An article discusses that the main goal of code review should be identifying code that would be difficult to maintain in the future. This perspective emphasizes long-term project health over immediate bug-finding.",
+      "tags": [
+        "software development",
+        "code quality",
+        "engineering"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4481fc69027288e2",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Vite+ Beta",
+      "url": "https://voidzero.dev/posts/announcing-vite-plus-beta",
+      "summary": "An announcement introduces Vite+ Beta, a new development in the Vite ecosystem. This update is presented as a significant step forward for developers using the tool.",
+      "tags": [
+        "web development",
+        "software release",
+        "frameworks"
+      ],
+      "priority": false
+    },
+    {
+      "id": "065a99f57e8cf299",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "What to learn to be a graphics programmer",
+      "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+      "summary": "A blog post outlines key areas and skills necessary to become a graphics programmer. It serves as a guide for individuals looking to enter or advance in this specialized field of software development.",
+      "tags": [
+        "programming",
+        "graphics",
+        "career"
+      ],
+      "priority": false
+    },
+    {
+      "id": "255cdae7f0a1253f",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "ZCode – Harness for GLM-5.2",
+      "url": "https://zcode.z.ai/en",
+      "summary": "ZCode is presented as a harness for GLM-5.2, indicating a tool or platform designed to integrate with or leverage the GLM-5.2 model. This suggests a new utility for a specific computational model.",
+      "tags": [
+        "programming",
+        "ai",
+        "software tools"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2b007595a4993ccc",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "Teaching AI to run with the turbines",
+      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+      "summary": "Woodside Energy, a global energy producer, has been integrating AI for over a decade in its asset-intensive, safety-critical operations, using predictive analytics and optimization systems. The company is now scaling toward agentic AI systems to augment human operators and improve decision-making in complex industrial workflows.",
+      "tags": [
+        "ai",
+        "energy",
+        "industrial tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c098823afa14dc5a",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Democratic socialists pose a challenge for the party as midterms approach",
+      "url": "https://www.npr.org/2026/07/02/nx-s1-5877755/democratic-socialists-pose-a-challenge-for-the-party-as-midterms-approach",
+      "summary": "The rising influence of democratic socialists, marked by high-profile victories, is creating a challenge for the Democratic Party as it looks towards upcoming midterms. This trend complicates the party's strategy to regain a congressional majority.",
+      "tags": [
+        "us politics",
+        "democratic party",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4bd5eb5b5c59dbc1",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Federal civil rights data holds schools accountable. Under Trump, it's 6 months late",
+      "url": "https://www.npr.org/2026/07/02/nx-s1-5859422/civil-rights-data-students-education",
+      "summary": "The Education Department's federal civil rights data, which holds schools accountable for issues like bullying and disability services, has been delayed for six months under the Trump administration. This delay prevents the public release of crucial information.",
+      "tags": [
+        "education",
+        "civil rights",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "703e585614de0199",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Going outside in this heat? Follow these guidelines to stay safe",
+      "url": "https://www.npr.org/2026/07/02/nx-s1-5878429/heat-wave-stroke-exhaustion-prevention-safety",
+      "summary": "With a heat wave ongoing, guidelines are provided to help people stay safe outdoors, emphasizing tips for preventing heatstroke and exhaustion. Staying hydrated with a large water bottle is strongly recommended.",
+      "tags": [
+        "health",
+        "weather",
+        "safety"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a23c25b19f19256c",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Russia hits Ukraine's capital with a massive drone and missile attack, killing at least 18",
+      "url": "https://www.npr.org/2026/07/02/nx-s1-5878894/russia-attacks-ukraines-capital-killing-more-than-a-dozen-people",
+      "summary": "Russia launched a large-scale attack on Ukraine's capital overnight into Thursday, with ballistic and cruise missiles and drones, killing several people.\n(Image credit: Danylo Antoniuk)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "8067e63cac3284d6",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "The rise of democratic socialists and what it means for the party",
+      "url": "https://www.npr.org/2026/07/02/nx-s1-5877489/the-rise-of-democratic-socialists-and-what-it-means-for-the-party",
+      "summary": "The rise of democratic socialists within the Democratic Party is a significant development, with discussions ongoing about its implications for the party's future. Brad Lander, a Democratic nominee, provides insight into this evolving political landscape.",
+      "tags": [
+        "us politics",
+        "democratic party",
+        "political trends"
+      ],
+      "priority": false
+    },
+    {
+      "id": "38baa513f1d33851",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump denies conflict of interest over crypto. And, Vatican excommunicates rebel group",
+      "url": "https://www.npr.org/2026/07/02/g-s1-131702/up-first-newsletter-trump-crypto-earnings-society-pope-pius-venezuela-world-cup",
+      "summary": "President Trump's family earned over $1 billion last year from cryptocurrency ventures and other businesses, while the Vatican declared the traditionalist Society of St. Pius X to be in schism. These are among the day's top news items.",
+      "tags": [
+        "us politics",
+        "religion",
+        "finance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a8006037afe1de6a",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "U.S. and Iran hold separate meetings in Qatar and agree to continue discussions",
+      "url": "https://www.npr.org/2026/07/02/nx-s1-5878887/us-iran-meetings-qatar",
+      "summary": "The U.S. and Iran held separate meetings with Qatari and Pakistani mediators in Qatar, reporting \"positive progress\" and agreeing to continue discussions. This suggests ongoing diplomatic efforts regarding their relationship.",
+      "tags": [
+        "international relations",
+        "diplomacy",
+        "middle east"
+      ],
+      "priority": false
+    },
+    {
+      "id": "867698b6f9b02bc7",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "U.S. job market slows in June",
+      "url": "https://www.npr.org/2026/07/02/nx-s1-5877491/labor-department-to-release-latest-jobs-report-thursday",
+      "summary": "The U.S. job market experienced a slowdown in June, with employers adding 57,000 jobs, a decrease from previous months. However, the unemployment rate slightly ticked down to 4.2%.",
+      "tags": [
+        "economy",
+        "jobs",
+        "us news"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7816e472f1632831",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Vatican declares Society of St. Pius X in schism, excommunicates bishops",
+      "url": "https://www.npr.org/2026/07/02/nx-s1-5878916/vatican-society-of-st-pius-x-in-schism",
+      "summary": "The Vatican responded Thursday to a traditionalist society that consecrated bishops without the pope's consent, declaring the Society of St. Pius X in schism and excommunicating its bishops and priests.\n(Image credit: Baz Ratner)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "41a919867a25d224",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "A polite England-Congo encounter",
+      "url": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/england-congo-encounter-00983891",
+      "summary": "UK and Congolese ambassadors, alongside other UK mission heads, politely watched the England-Democratic Republic of Congo match in London, having exchanged jerseys. Foreign Secretary Yvette Cooper was also scheduled to attend this diplomatic sporting event.",
+      "tags": [
+        "diplomacy",
+        "world cup",
+        "uk"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3ff12af4bb857bf8",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Bay Area transit systems can't afford to park the bus",
+      "url": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/bay-area-transit-world-cup-bart-muni-caltrain-ballot-measure-00983840",
+      "summary": "Bay Area transit systems face an existential referendum in November with a ballot measure to increase sales tax to secure stable funding amidst declining ridership since the pandemic. The World Cup match is seen as a public test and reminder of their value, as failure to pass could lead to dramatic service cuts.",
+      "tags": [
+        "public transit",
+        "urban policy",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c3809d8b550035f6",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Belgium's Congolese heartland sees victory in defeat",
+      "url": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/congo-england-fifa-world-cup-brussels-matonge-00984256",
+      "summary": "Brussels' Matongé area, a center of the Congolese diaspora, celebrated the DR Congo's strong performance against England in the World Cup, despite an eventual narrow defeat. Supporters viewed the team's fight and overperformance as a victory given their colonial ties to Belgium.",
+      "tags": [
+        "world cup",
+        "diaspora",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a20e1b32aff8bf8f",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Birthright citizens score",
+      "url": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/big-week-birthright-citizens-folarin-balogun-supreme-court-00985309",
+      "summary": "Folarin Balogun, the scorer of the opening American goal against Bosnia, is eligible to play for the US due to birthright citizenship, validated by a recent Supreme Court decision. He has become a symbol for the 14th Amendment's guarantee of citizenship to those born within US borders.",
+      "tags": [
+        "us politics",
+        "soccer",
+        "citizenship"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c589568b2999f08a",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Bosnia's starting lineup is also a map of its war",
+      "url": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/bosnia-starting-xi-vs-usmnt-refugees-map-war-00983578",
+      "summary": "Bosnia's World Cup squad reflects the country's wartime diaspora, with many players born to refugee families who fled the 1990s conflict. Team captain Edin Džeko and other key players' origins illustrate the lasting impact of the Bosnian War.",
+      "tags": [
+        "world cup",
+        "history",
+        "diaspora"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f8abe624e0965eb5",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Ken Burns on Trump’s America 250: ‘Washington needed no monuments’",
+      "url": "https://www.politico.com/video/2026/07/01/ken-burns-on-trumps-america-250-washington-needed-no-monuments-2115884",
+      "summary": "Documentary filmmaker Ken Burns comments on \"Trump’s America 250,\" suggesting that historical figures like George Washington needed no monuments. His statement implies a critique of modern political narratives or attempts to associate current events with historical figures.",
+      "tags": [
+        "us history",
+        "politics",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "160701735802f4f3",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Why Bosnia’s fans also cheer for Palestine",
+      "url": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/bosnia-palestine-cheer-israel-genocide-gaza-00983579",
+      "summary": "Bosnian World Cup fans are showing strong pro-Palestinian solidarity, drawing parallels between their own war experiences and the Israel-Hamas conflict in Gaza. This sentiment is inflamed by Bosnian Serb leaders' perceived alliances with Israeli Prime Minister Benjamin Netanyahu.",
+      "tags": [
+        "world cup",
+        "geopolitics",
+        "human rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fdefc299489e2c77",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Why the World Cup is a royal affair",
+      "url": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/european-royals-attending-fifa-world-cup-2026-00983717",
+      "summary": "European royals have been prominently attending World Cup matches to support their national teams, while elected leaders tend to appear only in later stages. Monarchs' attendance is seen as apolitical, whereas politicians risk criticism over priorities and public funds.",
+      "tags": [
+        "sports",
+        "royalty",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a9a23c97286b75ba",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Yugoslavia is still playing",
+      "url": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/former-yugoslavia-players-bosnia-croatia-descent-00983571",
+      "summary": "Players with roots from the former Yugoslavia, despite the region's small population, significantly overrepresent in the World Cup's round of 32. This highlights the enduring impact of the region's soccer talent across national teams.",
+      "tags": [
+        "world cup",
+        "sports",
+        "geography"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2a045d088a380fbe",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "‘It's not very often that you get, like, really great news from Bosnia’",
+      "url": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/world-cup-bosnian-americans-st-louis-00984932",
+      "summary": "Bosnian Americans in St. Louis, the largest Bosnian population outside Bosnia and Herzegovina, are intensely cheering for their homeland in the World Cup, finding deep emotional connection. The team's first-ever appearance in the knockout rounds provides a rare source of positive news for a community with wartime memories.",
+      "tags": [
+        "world cup",
+        "diaspora",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8b67c58ae18414df",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Congress waits, cities experiment",
+      "url": "https://www.slowboring.com/p/congress-waits-cities-experiment",
+      "summary": "President Trump has not yet signed the 21st Century ROAD to Housing Act, delaying its passage by over a week, reportedly because the Senate has not acted on the SAVE America Act. This highlights a political standoff between the executive and legislative branches.",
+      "tags": [
+        "us politics",
+        "legislation",
+        "housing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dadf890fd84b5c01",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "After $18B IPO, Bending Spoons founder says success comes from minimizing luck",
+      "url": "https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/",
+      "summary": "Following Bending Spoons' $18 billion IPO, its co-founder attributes the company's success in acquiring and revitalizing internet brands to a strategy of minimizing luck. This approach was shaped by lessons learned from previous startup failures.",
+      "tags": [
+        "business",
+        "startup",
+        "strategy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "85ef1cce26d646da",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
+      "url": "https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/",
+      "summary": "Apple is readying several new iPad Pro tablets and a budget-friendly MacBook Pro, reports suggest.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "6c8fcade709887c6",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apple’s Hide My Email feature has a bug that’s been exposing real email addresses, researcher claims",
+      "url": "https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/",
+      "summary": "A researcher claims to have discovered a bug in Apple's \"Hide My Email\" feature that could potentially expose users' real email addresses, rendering the privacy tool ineffective. This reported vulnerability raises concerns about the feature's security.",
+      "tags": [
+        "apple",
+        "security",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b70fd75fc1206689",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+      "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+      "summary": "Ashton Kutcher is departing Sound Ventures to co-found a new venture capital firm with Morgan Beller, focusing on the infrastructure and energy powering AI companies. Sound Ventures built its reputation on concentrated investments in leading AI labs.",
+      "tags": [
+        "venture capital",
+        "ai",
+        "investment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "96ce0b292c62ea1f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Bending Spoons defies SaaS slump, surges 40% on first day of trading",
+      "url": "https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/",
+      "summary": "Bending Spoons, known for acquiring and revamping last-generation tech brands, saw its stock surge 40% on its first day of trading, defying a general SaaS slump. The company's strategy of revitalizing brands like Evernote and Vimeo has driven rapid growth.",
+      "tags": [
+        "saas",
+        "tech",
+        "ipo"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e3fc1863386baf07",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+      "summary": "Cloudflare has implemented a new policy, effective September 15, requiring AI companies to distinguish between web crawlers used for search and those for AI training. Failure to comply could result in AI crawlers being blocked by default on many publisher sites, pushing AI firms to potentially pay for content.",
+      "tags": [
+        "ai",
+        "publishing",
+        "web policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "506e254d02960921",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "summary": "Indian tech tycoon Bhavin Turakhia has personally invested $30 million to develop Neo, an AI-powered alternative to Microsoft Office and Google Apps. This marks his fifth venture, focusing on enterprise software in the AI space.",
+      "tags": [
+        "ai",
+        "software",
+        "startup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b8464a4bac856c35",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Lime begins life as a public company after years of uncertainty",
+      "url": "https://techcrunch.com/2026/07/01/lime-begins-life-as-a-public-company-after-years-of-uncertainty/",
+      "summary": "Nine-year-old scooter and bike-share company Lime has gone public, seeking funds to address approximately $1 billion in liabilities. This move marks the end of years of uncertainty for the company.",
+      "tags": [
+        "mobility",
+        "startup",
+        "ipo"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c0e46de516d929a3",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Lucid Motors’ CFO is out as its new CEO continues leadership shakeup",
+      "url": "https://techcrunch.com/2026/07/02/lucid-motors-cfo-is-out-as-its-new-ceo-continues-leadership-shakeup/",
+      "summary": "Lucid Motors' CFO has departed as the new CEO implements further leadership changes amidst disappointing sales of the Gravity SUV. This shakeup includes new executive hires aimed at improving the company's performance.",
+      "tags": [
+        "automotive",
+        "ev",
+        "leadership"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6934cf5095ae6c08",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Melinda Gates’ venture firm backs Magnify Ventures’ $46.6M Fund II",
+      "url": "https://techcrunch.com/2026/07/02/melinda-gates-venture-firm-backs-magnify-ventures-46-6m-fund-ii/",
+      "summary": "Melinda French Gates’ Pivotal Ventures has invested in Magnify Ventures’ second fund, which successfully raised $46.6 million. This funding will support early-stage investments by Magnify Ventures.",
+      "tags": [
+        "venture capital",
+        "investment",
+        "women in tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "13d134e1112a4be8",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "summary": "Microsoft has launched its own AI deployment company, backed by a $2.5 billion commitment, following similar moves by other major tech firms like Amazon and OpenAI. This initiative positions Microsoft to further expand its presence in the AI sector.",
+      "tags": [
+        "ai",
+        "microsoft",
+        "investment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2c4bb72528345e3a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Neocloud Together AI raises $800M, leaps to $8.3B valuation",
+      "url": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+      "summary": "Neocloud Together AI, a provider specializing in hosting open-source AI models, has raised $800 million, bringing its valuation to $8.3 billion. This significant funding round follows a previous valuation of $3.3 billion in early 2025.",
+      "tags": [
+        "ai",
+        "cloud computing",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4c0d3b78518089b3",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+      "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "d35791d88af5a449",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Popular TV-tracking app TV Time is shutting down as company focuses on AI",
+      "url": "https://techcrunch.com/2026/07/02/popular-tv-tracking-app-tv-time-is-shutting-down-as-company-focuses-on-ai/",
+      "summary": "The popular TV-tracking app TV Time is set to close on July 15 as its parent company, Whip Media, shifts its focus to enterprise AI products. This pivot signals a strategic change in the company's business model.",
+      "tags": [
+        "apps",
+        "ai",
+        "business strategy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fd6e960cede083f5",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Rivian raises EV sales forecast as Q2 production ramps up",
+      "url": "https://techcrunch.com/2026/07/02/rivian-thinks-it-will-sell-more-evs-than-expected-this-year/",
+      "summary": "Rivian has increased its EV sales forecast for the year, anticipating shipping several thousand more vehicles than previously expected after a boost in Q2 production. The positive outlook follows the recent launch of its R2 SUV.",
+      "tags": [
+        "automotive",
+        "ev",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "aa0a350ba0d9188d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Tesla saw a massive sales jump in the second quarter",
+      "url": "https://techcrunch.com/2026/07/02/tesla-saw-a-massive-sales-jump-in-the-second-quarter/",
+      "summary": "The company delivered more than 480,000 EVs globally, seemingly thanks to geographic expansion and cheaper versions of the Model 3, Model Y, and Cybertruck.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "b7518e3a329ad565",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "WhatsApp usernames are already raising impersonation red flags",
+      "url": "https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/",
+      "summary": "WhatsApp's new usernames feature, intended to improve privacy, is already raising concerns about potential impersonation due to inadequate safeguards. Critics question whether Meta's current measures are sufficient to prevent users from being impersonated.",
+      "tags": [
+        "whatsapp",
+        "privacy",
+        "social media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "53c05d68d825b937",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Yep, we’re using OpenClaw to date now",
+      "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+      "summary": "An automated script using OpenClaw and Claude code, applied to Instagram trials, has reportedly helped one user connect with numerous potential international partners. This demonstrates an unconventional application of AI for personal networking and dating.",
+      "tags": [
+        "ai",
+        "dating",
+        "automation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ddeac0ac9bc75fd6",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Great Americans: Frederick Douglass Believed in America More Than America",
+      "url": "https://www.thefp.com/p/great-americans-frederick-douglass",
+      "summary": "Frederick Douglass, an escaped slave and powerful orator, delivered his most famous Independence Day address on July 5, 1852, critiquing America's hypocrisy regarding slavery. He remains a symbol of moral conviction, showing how he believed in America's ideals more than the nation itself did at the time.",
+      "tags": [
+        "us history",
+        "civil rights",
+        "activism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0099088fd7ba1434",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Neil Gorsuch: The Heroes of 1776",
+      "url": "https://www.thefp.com/p/neil-gorsuch-the-heroes-of-1776",
+      "summary": "Supreme Court Justice Neil Gorsuch reflects on the sacrifices of ordinary Americans during the Revolutionary War, highlighting the brutal hardships faced by soldiers and civilians. He emphasizes their courage and resilience 250 years after the nation's independence.",
+      "tags": [
+        "us history",
+        "american revolution",
+        "patriotism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0353cc4b42bd9012",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Tough Love: Why Does Everyone Say Marriage Is Hard?",
+      "url": "https://www.thefp.com/p/tough-love-why-does-everyone-say",
+      "summary": "An advice column explores the common sentiment that marriage is difficult, with a reader seeking to understand and prepare for potential challenges. The response suggests that perceived difficulties often relate to the responsibilities and demands that come with valuable aspects of life, like relationships or wealth.",
+      "tags": [
+        "relationships",
+        "advice",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9c3be80f3be23dd6",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Trump’s Art of the Self-Deal",
+      "url": "https://www.thefp.com/p/trump-finance-crypto-corruption",
+      "summary": "“Trump’s Moneymaking Run: Unrivaled in Presidential History.”\nSo read the headline\nin Wednesday’s\nNew York Times\n, after the release of President Donald Trump’s financial disclosure report showing that he had reaped at least $2.2 billion in gains since returning to the White Hous…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "e3248687e41d2ada",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Trump’s Art of the Self-Deal. Plus. . .",
+      "url": "https://www.thefp.com/p/trumps-art-of-the-self-deal-plus",
+      "summary": "It’s Thursday, July 2. This is\nThe Front Page\n, your daily window into the world of\nThe Free Press\n—and our take on the world at large. Today: Ruy Teixeira on why Kamala 2028 is deadly serious, and Kat Rosenfield on why “Supergirl” haters are not misogynists. Plus: Why the Declar…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "131a1dd0f8a4f5e1",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Trump’s Profiteering Is Legal, Like It or Not",
+      "url": "https://www.thefp.com/p/trump-crypto-profiteering-legality-conflict-interest",
+      "summary": "Americans already knew that President Donald Trump is getting richer than ever. After all, he often tells us himself. “We’re all profiting,” he told reporters on Wednesday, citing the rising stock market. “I’m profiting because I have a lot of money and a lot of cash.”\nYet Trump’…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "71810ea68dc7df67",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "How to Be Un-Dead: Anaïs Nin and D.H. Lawrence on the Key to Living Fully",
+      "url": "https://www.themarginalian.org/2026/07/01/anais-nin-d-h-lawrence/",
+      "summary": "Anaïs Nin, inspired by D.H. Lawrence, believed that \"life is a process of becoming\" and that the failure to embrace change is a \"kind of death.\" Lawrence advocated for obedience to life's \"conflicting imperatives,\" arguing that true happiness comes from being fully used and hurt by life.",
+      "tags": [
+        "philosophy",
+        "literature",
+        "self-improvement"
+      ],
+      "priority": false
+    },
+    {
+      "id": "184d2aa8b4d90597",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "Tolkien Reads from “The Hobbit” in Rare Archival Audio from His First Encounter with a Tape Recorder",
+      "url": "https://www.themarginalian.org/2026/07/01/tolkien-reads-from-the-hobbit/",
+      "summary": "A rare 1952 archival recording captures J.R.R. Tolkien reading from \"The Hobbit\" and doing an impression of Gollum, marking his first encounter with a tape recorder. Tolkien, who believed fantasy freed the ageless human imagination, also discussed his view on writing \"for children.\"",
+      "tags": [
+        "literature",
+        "history",
+        "audio"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4e4ba9876d6beadb",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "AI won’t save advertising, says Digitas’ Amy Lanzi",
+      "url": "https://www.theverge.com/podcast/959792/digitas-ceo-amy-lanzi-cannes-ad-industry-marketing-ai-creators",
+      "summary": "Amy Lanzi, CEO of Digitas North America, challenges the hype around AI in advertising, drawing parallels to past exaggerated promises of programmatic advertising. She argues that despite widespread claims at industry events like Cannes, AI will not automate the industry entirely and still requires human expertise.",
+      "tags": [
+        "advertising",
+        "ai",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e193b8e27c4d0d1b",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Apple’s entry-level MacBook Pro could be up for a redesign",
+      "url": "https://www.theverge.com/news/960541/apple-macbook-pro-entry-level-redesign-ipad-pro-update",
+      "summary": "Apple is working on a \"revamped\" version of its entry-level MacBook Pro that it could launch as soon as the first half of 2027,\nBloomberg\nreports. The company is also testing four new iPad Pros that are set to launch in the spring with a focus on \"internal improvements.\"\nThe upda…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "725a4b4a5696c909",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "BitTorrent&#8217;s disastrous, legendary, and controversial story",
+      "url": "https://www.theverge.com/tech/959848/bittorrent-story-25-years-piracy",
+      "summary": "BitTorrent, launched 25 years ago by Bram Cohen, quickly became the world's most popular file-sharing app and revolutionized digital content distribution. Its rise unleashed a massive wave of piracy that profoundly impacted Hollywood and the entertainment industry.",
+      "tags": [
+        "internet",
+        "technology",
+        "history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2388d00caf30f78c",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Mystery box shows are complicated for everyone — even the actors",
+      "url": "https://www.theverge.com/entertainment/960265/silo-season-3-apple-tv-interview-mystery-box",
+      "summary": "Silo\nis such a complicated show that even its showrunner gets confused sometimes. While filming the final seasons of the Apple TV sci-fi thriller, Graham Yost remembers two instances where he messed up details: once it was an actor who realized that a conversation they were about…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "61bd491e116a4c86",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+      "summary": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI,\naccording to the\nFinancial Times\n.\nCEO Sam Altman argued that giving the public a financial interest…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c014d33b1b6e6c52",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Tesla&#8217;s Q2 sales jump 25 percent",
+      "url": "https://www.theverge.com/transportation/957685/tesla-q2-2026-sales-production-delivery-report",
+      "summary": "Tesla just\nreleased its second-quarter delivery\nand production report, showing that the automaker is starting to recover after\na particularly brutal sales year in 2025\n.\nThe company said that it produced a total of 451,758 vehicles between April and June of this year, including 4…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "520c524fe9ef1b1c",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Xbox’s ‘reset’: all the news about Microsoft&#8217;s looming layoffs and studio closures",
+      "url": "https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures",
+      "summary": "Xbox is undergoing a significant \"reset\" under new CEO Asha Sharma, facing challenges like rising component prices and an \"over-extended\" studio system, leading to impending layoffs and potential studio closures. Changes include price hikes for consoles, altered Game Pass offerings, and a rebranding of Xbox.",
+      "tags": [
+        "gaming",
+        "microsoft",
+        "business"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 127,
+    "summarized": 97,
+    "skipped_promos": 1,
+    "filtered_by_rules": 29,
+    "sources": 11,
+    "email_items_omitted": 0
+  }
+}
