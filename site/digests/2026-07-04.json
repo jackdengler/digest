@@ -1,0 +1,744 @@
+{
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T14:59:53+00:00",
+  "hot_topics": [
+    {
+      "topic": "AI's Expanding Influence and Ethical Debates",
+      "synthesis": "The pervasive nature of AI continues to reshape industries, sparking debates within creative communities like fanfiction over AI-generated content and challenging traditional business models for course creators due to job market uncertainty and competition from LLMs. Concurrently, efforts are underway to map the open-source AI ecosystem and optimize AI usage through advanced prompt engineering, showcasing both the transformative power and the complexities of AI adoption.",
+      "item_ids": [
+        "124945c45e5fc09f",
+        "9ca2e2c33dc785ad",
+        "3a0772c3f6ed8811",
+        "5e2c61625963c86b",
+        "8c4c0fdb5ff05d2d",
+        "c7a7ed41b2e18c20"
+      ]
+    },
+    {
+      "topic": "Taylor Swift and Travis Kelce's Wedding",
+      "synthesis": "Pop superstar Taylor Swift and NFL player Travis Kelce officially tied the knot in a high-profile New York City ceremony, officiated by Adam Sandler. The event, which drew large crowds and media speculation, saw Midtown Manhattan streets closed, underscoring the couple's significant cultural impact.",
+      "item_ids": [
+        "19d2dba264ad6502",
+        "7f9cdfba026d1a65",
+        "deffe9e9bd7142a9",
+        "2360ab16c4516735"
+      ]
+    },
+    {
+      "topic": "The Aftermath of Ayatollah Khamenei's Death in Iran",
+      "synthesis": "Iran is holding a dayslong funeral for Supreme Leader Ayatollah Ali Khamenei in Tehran, with plans for widespread public mourning reminiscent of past national events, following his death in an airstrike. Amidst this period of transition, Iran's strategic control over the Strait of Hormuz continues to serve as a powerful bargaining chip in international relations, particularly concerning ongoing issues with the U.S.-Iran war.",
+      "item_ids": [
+        "d9375e2b87c2de78",
+        "e9683d925959dc4f",
+        "bea3795156bc3200",
+        "0b38042c8be310cd"
+      ]
+    },
+    {
+      "topic": "Reflections on America's 250th Anniversary and Patriotism",
+      "synthesis": "As the United States approaches its 250th anniversary, there's a broad spectrum of public sentiment regarding the nation's progress and the state of patriotism, ranging from concern to cautious optimism among swing voters. This period prompts reflections on America as a work in progress, with initiatives even extending to teaching immigrants about the Bill of Rights to foster a deeper understanding of national values amidst evolving challenges.",
+      "item_ids": [
+        "e384cf0aa333c433",
+        "b315163a710aa2d5",
+        "90ef2adc3608468f",
+        "6c2e84bd10f33324",
+        "dcda06900d27cfdd"
+      ]
+    },
+    {
+      "topic": "Global Excitement and Politics of the World Cup",
+      "synthesis": "The World Cup is generating significant engagement, with host cities like Kansas City celebrating fan marches and cultural exchanges, while political figures like Canadian Prime Minister Mark Carney and UK Prime Minister Keir Starmer get involved, the latter facing criticism for extending pub hours for matches. Meanwhile, the tournament also sees personal impacts, such as former President Donald Trump receiving coveted tickets and teams like Cape Verde making historic, albeit winless, debuts.",
+      "item_ids": [
+        "5e8183b9ed788721",
+        "6b657360100bb022",
+        "f69da655ec0b948c",
+        "efd8233d016f4bff",
+        "9b1b18bbc44deea4"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "3ae1bb9f1f46829c",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "A martian rock has lots of carbon on it, and it's not clear why",
+      "url": "https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/",
+      "summary": "NASA's Perseverance rover found complex macromolecular carbon on the surface of a Martian rock in Jezero Crater, the shallowest such detection to date. On Earth, this amount of carbon often indicates a biological origin, but samples need to be returned to Earth for definitive answers.",
+      "tags": [
+        "mars",
+        "space",
+        "science"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1c4fb6b3f355404d",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "When the ability to smell goes away",
+      "url": "https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/",
+      "summary": "Chrissi Kelly lost her sense of smell (anosmia) 14 years ago due to a virus, and despite its catastrophic impact, clinicians often minimize such conditions. Up to 22% of the population experiences smell impairments or disorders, which are poorly understood and underdiagnosed.",
+      "tags": [
+        "anosmia",
+        "health",
+        "science"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f9c2bc133be62962",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'Flamingo Revolution' takes off as thousands demand Albanian PM's resignation",
+      "url": "https://www.bbc.co.uk/news/articles/c8925jnl0z3o?at_medium=RSS&at_campaign=rss",
+      "summary": "A \"Flamingo Revolution\" has emerged in Albania, where thousands are protesting a luxury development and demanding the Prime Minister's resignation. Flamingos have become a national symbol of this opposition movement.",
+      "tags": [
+        "albania",
+        "protest",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3973cec9f718d5d7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'It's so hot' - Dangerous hot weather grips parts of the US",
+      "url": "https://www.bbc.co.uk/news/videos/cd0mpgvzzy5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Record temperatures and dangerous hot weather are gripping parts of the US East Coast and Midwest, affecting over 165 million people. This situation has led to warnings from the US National Weather Service.",
+      "tags": [
+        "weather",
+        "usa",
+        "climate"
+      ],
+      "priority": false
+    },
+    {
+      "id": "da8bc1784498a964",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
+      "url": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss",
+      "summary": "Anguished families in Venezuela are left to identify earthquake victims at makeshift morgues, as the disaster has overwhelmed local services. Bodies are placed outside or in tents due to the lack of proper facilities.",
+      "tags": [
+        "venezuela",
+        "disaster",
+        "humanitarian"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9803ec349a917555",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
+      "url": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Dangerous heat and humidity, with temperatures expected to reach 38C (100F) for several days, have forced the cancellation of Fourth of July events across the US, from Washington D.C. to Philadelphia. Over 165 million people are currently enduring these extreme conditions.",
+      "tags": [
+        "weather",
+        "usa",
+        "climate"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7f9cdfba026d1a65",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Dior dress, Adam Sandler and a man of honour: What we know about Taylor and Travis's wedding",
+      "url": "https://www.bbc.co.uk/news/articles/cvg5zn58nj2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The couple tied the knot in New York on Friday, after months of speculation about when, where and how it would happen.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "77015376b110733d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Dissident Hong Kong bookseller Lam Wing-kee dies aged 70",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0wy0nenvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Dissident Hong Kong bookseller Lam Wing-kee, known for defying China by selling material critical of Beijing, has died at age 70 from lung cancer. He was a notable figure in the fight for free expression.",
+      "tags": [
+        "hong_kong",
+        "china",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f5afc46603d8f060",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Injury ends Williams' Wimbledon comeback",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Serena Williams has withdrawn from her planned Wimbledon doubles appearance with sister Venus due to a knee injury. This injury unfortunately ends her comeback plans for the tournament.",
+      "tags": [
+        "tennis",
+        "sports",
+        "injury"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8d4c1dd2c620d073",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
+      "url": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Keiko Fujimori, daughter of the former president, has been declared the winner of Peru's tight presidential election, nearly a month after voting took place. Her victory follows weeks of anticipation and vote counting.",
+      "tags": [
+        "peru",
+        "politics",
+        "election"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d9375e2b87c2de78",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
+      "url": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla until Monday, before travelling across Iran and Iraq.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "0fcffe2a0283532c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "More cows than pupils - what is behind mass school closures in rural Kenya?",
+      "url": "https://www.bbc.co.uk/news/articles/cy72mn3m7l3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Over 2,000 primary schools in rural Kenya are facing closure due to plummeting enrollment numbers, in some areas resulting in \"more cows than pupils.\" This highlights a significant challenge in rural education.",
+      "tags": [
+        "kenya",
+        "education",
+        "demographics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b13efa5cc9365ea7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Polish PM warns critical months ahead in face of Russian threat",
+      "url": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Polish Prime Minister Tusk warned of critical months ahead, stating Poland is preparing for \"various\" scenarios in the face of a Russian threat. This follows media reports of a potential planned Russian attack.",
+      "tags": [
+        "poland",
+        "russia",
+        "geopolitics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "24bb9c7249261796",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Pope urges Europe to do more for migrants while visiting gateway island",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss",
+      "summary": "Pope Francis urged Europe to increase its efforts for migrants during a visit to the Italian island of Lampedusa, a gateway island for many arrivals. He paid tribute to those who perished at sea, highlighting the humanitarian crisis.",
+      "tags": [
+        "europe",
+        "migration",
+        "religion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "eadf134fa412608d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Row after Indian state drops eggs from school lunch menu",
+      "url": "https://www.bbc.co.uk/news/articles/c33yldyd62po?at_medium=RSS&at_campaign=rss",
+      "summary": "A controversy has arisen in West Bengal, India, after the state dropped eggs from some school lunch menus, sparking a wider debate. The decision has raised questions about nutrition and choice in public education meals.",
+      "tags": [
+        "india",
+        "education",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "19d2dba264ad6502",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler",
+      "url": "https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The star-studded celebration saw several streets in Midtown Manhattan shut, as hordes of fans gathered outside the arena.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "73ee5cd1ea8d0eed",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+      "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine has attacked a major oil terminal in Russia's St. Petersburg, with President Zelensky stating the target is key infrastructure generating revenue for Russia's war effort. This marks a significant strike on Russian economic assets.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "deffe9e9bd7142a9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Taylor Swift and Travis Kelce wed in NYC - here's how the day unfolded",
+      "url": "https://www.bbc.co.uk/news/videos/cewqpdgqj0ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The couple tied the knot in a star-studded ceremony officiated by comedian Adam Sandler at Madison Square Garden.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "26c94aa6d2dfd399",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Costco is the anti-Amazon",
+      "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
+      "summary": "An analysis positions Costco as an \"anti-Amazon\" model, suggesting a contrasting business approach or philosophy compared to the e-commerce giant. The comparison invites discussion on different retail strategies.",
+      "tags": [
+        "retail",
+        "business",
+        "economics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "51af1dac1b802d95",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "FreeBSD ate my RAM",
+      "url": "https://crocidb.com/post/freebsd-ate-my-ram/",
+      "summary": "This post discusses an issue where FreeBSD appears to consume an unexpected amount of RAM, leading to investigations into memory management or system behavior. The topic prompted a technical discussion among users.",
+      "tags": [
+        "operating_system",
+        "software",
+        "performance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3a0772c3f6ed8811",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Jamesob's guide to running SOTA LLMs locally",
+      "url": "https://github.com/jamesob/local-llm",
+      "summary": "Article URL:\nhttps://github.com/jamesob/local-llm\nComments URL:\nhttps://news.ycombinator.com/item?id=48775921\nPoints: 375\n# Comments: 169",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "9ca2e2c33dc785ad",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Leanstral 1.5: Proof abundance for all",
+      "url": "https://mistral.ai/news/leanstral-1-5/",
+      "summary": "Article URL:\nhttps://mistral.ai/news/leanstral-1-5/\nComments URL:\nhttps://news.ycombinator.com/item?id=48780801\nPoints: 298\n# Comments: 86",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "77daf70646cc4c0a",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Maybe you should learn something",
+      "url": "https://www.marginalia.nu/log/a_135_learn/",
+      "summary": "This item links to an article titled \"Maybe you should learn something,\" prompting reflection on the importance of continuous learning. The discussion thread shows active engagement from the community.",
+      "tags": [
+        "learning",
+        "self-improvement",
+        "philosophy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "aff9ebf29c521e2b",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Odin, Wikipedia and engagement farming",
+      "url": "https://katamari64.se/posts/2026/odin-wikipedia/",
+      "summary": "The article discusses the intersection of \"Odin,\" Wikipedia, and the phenomenon of engagement farming, suggesting potential issues or observations regarding content creation and interaction. The topic generated a high number of comments.",
+      "tags": [
+        "internet",
+        "socialmedia",
+        "wikipedia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a5e7010eb658a6b7",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Performance per dollar is getting faster and cheaper",
+      "url": "https://www.wafer.ai/blog/glm52-amd",
+      "summary": "An article posits that computing performance per dollar is consistently improving, indicating that technology is becoming both faster and cheaper. This trend is likely driven by advancements in hardware like AMD.",
+      "tags": [
+        "tech",
+        "hardware",
+        "economics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "931bc5276f8b86b4",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "SearXNG: A free internet metasearch engine",
+      "url": "https://github.com/searxng/searxng",
+      "summary": "SearXNG is presented as a free internet metasearch engine, offering an alternative to traditional search providers by aggregating results from various sources. The project aims to provide users with more privacy and control over their searches.",
+      "tags": [
+        "search",
+        "privacy",
+        "open-source"
+      ],
+      "priority": false
+    },
+    {
+      "id": "181735a79f72cfdd",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
+      "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
+      "summary": "This GitHub project describes a system for Steam Controller Auto-Charge, using computer vision to guide a magnetic charging puck. The initiative offers an automated solution for keeping the controller powered.",
+      "tags": [
+        "gaming",
+        "hardware",
+        "robotics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e2b0251a6874c87c",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The bottleneck might be the air in the room",
+      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+      "summary": "An article suggests that the air quality in a room, specifically CO2 levels, might be a bottleneck affecting decision-making. The accompanying comments indicate significant community interest in this topic.",
+      "tags": [
+        "health",
+        "environment",
+        "productivity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b315163a710aa2d5",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "'Cautiously optimistic':  Swing voters describe their view of America at 250",
+      "url": "https://www.npr.org/2026/07/04/nx-s1-5877727/swing-voters-america-250-midterms",
+      "summary": "As America turns 250, voters from our Swing Shift project talk about the state of the country. Their views ranged from \"uncertain\" and  \"concerned\" to \"excited\" and \"cautiously optimistic.\"\n(Image credit: Illustrations by Tara Anand)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "2d8ca686819a7548",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "A family steps in to save the dying casino town of Primm, Nevada",
+      "url": "https://www.npr.org/2026/07/03/nx-s1-5822582/demise-and-possible-resurrection-of-primm-nevada",
+      "summary": "Primm, Nevada, a casino town near the California border, was on the verge of decline but is now facing a potential resurrection as the family it was named for steps in to revive it. This marks a challenge to bring the once-thriving town back to life.",
+      "tags": [
+        "usa",
+        "economics",
+        "tourism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2360ab16c4516735",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "After weeks of speculation, Taylor Swift, Travis Kelce wed in New York",
+      "url": "https://www.npr.org/2026/07/03/nx-s1-5877361/taylor-swift-travis-kelce-wedding-msg",
+      "summary": "Superfans and sleuths appear to have their hunches confirmed on Friday, as dozens of black cars dropped off elegantly dressed guests outside of Madison Square Garden in New York City. The wedding bash is expected to last into Saturday morning.\n(Image credit: Charly Triballeau)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "9b1b18bbc44deea4",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Cape Verde's historic World Cup ride ends after pushing Argentina to the brink",
+      "url": "https://www.npr.org/2026/07/04/nx-s1-5882086/cape-verde-world-cup-ends",
+      "summary": "Cape Verde didn't win a match at the World Cup, and somehow, that didn't seem to matter. The African team's debut on this stage was unforgettable.\n(Image credit: Lynne Sladky)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "98fc182858edfc32",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "China's military promotes 2 new generals after anti-corruption purge thins ranks",
+      "url": "https://www.npr.org/2026/07/04/g-s1-131994/chinas-military-promotes-2-new-generals-after-anti-corruption-purge-thins-ranks",
+      "summary": "China's military has promoted two new generals following an anti-corruption purge that thinned its ranks, in an effort to ensure loyalty to the Communist Party and leader Xi Jinping. This signals ongoing restructuring and consolidation of power within the armed forces.",
+      "tags": [
+        "china",
+        "military",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e9683d925959dc4f",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Dayslong funeral for slain Supreme Leader Ayatollah Ali Khamenei begins in Tehran",
+      "url": "https://www.npr.org/2026/07/04/nx-s1-5882083/iran-funeral-ayatollah-ali-khamenei",
+      "summary": "Khamenei, who ruled Iran for more than three decades, was killed in an airstrike on Feb. 28 at the start of the U.S.-Israeli war against Iran.\n(Image credit: Altaf Qadri)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "bea3795156bc3200",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Iran plans dayslong funeral for Supreme Leader Khamenei after war death",
+      "url": "https://www.npr.org/2026/07/03/g-s1-131963/iran-plans-dayslong-funeral-for-supreme-leader-khamenei-after-war-death",
+      "summary": "The country's theocracy hopes to see millions flood the streets of the capital beginning Saturday in scenes reminiscent to the burial of the late Supreme Leader Ayatollah Ruhollah Khomeini in 1989.\n(Image credit: Vahid Salemi)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "0b38042c8be310cd",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Iran's control of the Strait of Hormuz remains a powerful bargaining chip",
+      "url": "https://www.npr.org/2026/07/03/nx-s1-5879278/irans-control-of-the-strait-of-hormuz-remains-a-powerful-bargaining-chip",
+      "summary": "Despite efforts by U.S. negotiators, Iran says it wants to charge a toll for ships to pass through the Strait of Hormuz. It's yet another unresolved issue of the U.S.-Iran war.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "e384cf0aa333c433",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Opinion: America is still a work in progress",
+      "url": "https://www.npr.org/2026/07/04/nx-s1-5871128/opinion-america-is-still-a-work-in-progress",
+      "summary": "Poets like Walt Whitman and Langston Hughes have written movingly about America.\n(Image credit: J. Scott Applewhite)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "90ef2adc3608468f",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Reflections on America's 250th birthday",
+      "url": "https://www.npr.org/2026/07/04/nx-s1-5876246/reflections-on-americas-250th-birthday",
+      "summary": "NPR member station reporters across the U.S. asked people how they are thinking about their country on its semiquincentennial.\n(Image credit: Julia Demaree Nikhinson)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "5e8183b9ed788721",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Is a fan march better than a Super Bowl parade?",
+      "url": "https://www.politico.com/live-updates/2026/07/03/world-cup-2026/kansas-city-mayor-quinton-lucas-world-cup-fan-march-00986964",
+      "summary": "Kansas City Mayor Quinton Lucas has participated in three Super Bowl parades and one World Series parade celebrating his hometown Chiefs and Royals.\nNone compared to when Netherlands fans marched through downtown Kansas City, Missouri, ahead of their team's June 25 game at Arrowh…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "efd8233d016f4bff",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Police unamused by Starmer’s 5 am pub call",
+      "url": "https://www.politico.com/live-updates/2026/07/03/world-cup-2026/downing-street-pub-closing-time-england-mexico-00986960",
+      "summary": "LONDON — Not everyone is happy that Prime Minister Keir Starmer decided to keep pubs open until 5 a.m. Monday for screenings of the England match against Mexico.\nThe National Police Chiefs’ Council complained that the “late announcement” means officers will be removed from other…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "6b657360100bb022",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Spot the pol!",
+      "url": "https://www.politico.com/live-updates/2026/07/03/world-cup-2026/spot-the-pol-prime-minister-locker-room-pep-talk-00986957",
+      "summary": "This world leader visited his team’s dressing room after an epic victory that helped send them to the elimination rounds.\nThat’s Canadian Prime Minister Mark Carney, who paid the team a visit after their 6-0 win against Qatar in Vancouver on June 18. Canada plays Morocco in Houst…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f69da655ec0b948c",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Trump holds the golden tickets",
+      "url": "https://www.politico.com/live-updates/2026/07/03/world-cup-2026/trump-ten-tickets-world-cup-final-infantino-gift-00986863",
+      "summary": "When FIFA President Gianni Infantino visited the Oval Office last August, he presented President Donald Trump with a giant oversized ticket to the World Cup final.\nIt turns out 10 real ones accompany it, raising anticipation around the White House for a much-coveted invitation to…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c7a7ed41b2e18c20",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Fable's judgement",
+      "url": "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything",
+      "summary": "One of the most interesting tips I got from\nthe Fireside Chat\nI hosted with Cat Wu and Thariq Shihipar from the Claude Code team at AIE on Wednesday was to let Fable (and to a certain extent Opus) use their own judgement rather than dictating how they should work.\nThe example the…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "5e2c61625963c86b",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Open Source AI Gap Map",
+      "url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything",
+      "summary": "Open Source AI Gap Map\nCurrent AI\nis \"a global partnership building a public option for AI\", founded as a non-profit at the AI Action Summit in Paris in February 2025 and backed by serious capital ($400m already committed).\nThey\nlaunched their Gap Map\na couple of days ago - an at…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "8c4c0fdb5ff05d2d",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Josh W. Comeau",
+      "url": "https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything",
+      "summary": "I just launched my third course, Whimsical Animations, and so far, it’s on track to sell roughly ⅓ as many copies as a typical course launch.\nIt’s a similar story with my two existing courses. Sales are down significantly from last year.\nThere are likely a lot of reasons for this…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "dcda06900d27cfdd",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Happy Independence Day weekend",
+      "url": "https://www.slowboring.com/p/happy-independence-day-weekend",
+      "summary": "Hi everyone —\nIt has been a long few weeks for the Slow Boring crew, so we are taking it easy today for the holiday weekend. Thank you all for being so gracious with us as\nKate recovers\nfrom surgery.\nEarlier this week,\nI wrote about\nmy sadness over where this country stands at it…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "41b3e0671c83d608",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Chevy built an all-American EV truck — why is nobody buying it?",
+      "url": "https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/",
+      "summary": "The Chevy Silverado EV is described as a solid first draft of an electric pickup truck. The article aims to analyze what improvements could be made to enhance its appeal and sales.",
+      "tags": [
+        "ev",
+        "automotive",
+        "review"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ebf1f9889c2a0bb6",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+      "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "summary": "This article compiles an overview of top alternative browsers available today, seeking to challenge the dominance of Chrome and Safari. The focus of the \"browser wars\" has shifted beyond just search capabilities.",
+      "tags": [
+        "browsers",
+        "tech",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3a1f7b5072882ecc",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The Dune keypad device can be your meeting controller and more",
+      "url": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/",
+      "summary": "The Dune keypad is a gadget designed as a meeting controller, with three buttons that change context based on the active application. It can perform functions like toggling mic/video or bringing a window to the front in meeting apps.",
+      "tags": [
+        "gadget",
+        "tech",
+        "productivity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6c2e84bd10f33324",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Teaching Immigrants the Bill of Rights",
+      "url": "https://www.thefp.com/p/learning-bill-of-rights-immigrants",
+      "summary": "To all our readers: Happy Independence Day! This week we’ve published a handful of essays about how much we love this country: Nikki Haley\nwrote about\nthe speech Calvin Coolidge gave on America’s 150th; Rod Dreher\nexplained why\nhe’s moved back here from Europe; and Caitlin Flanag…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "93ebef3e699ced6a",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM",
+      "url": "https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update",
+      "summary": "Amazon has quietly updated its 2023 Fire HD 10 tablet, with the 32GB version now shipping with 4GB of RAM instead of 3GB, increasing its price slightly. Other specifications, including the display, processor, battery, and expandable storage, remain unchanged.",
+      "tags": [
+        "tablet",
+        "amazon",
+        "tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "72f75e26ef1bb9f7",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Hey number pad lovers, this is a keyboard we can finally agree on",
+      "url": "https://www.theverge.com/tech/960837/epomaker-rt98-mechanical-keyboard-modular-numpad-review",
+      "summary": "The Epomaker RT98 is a mechanical keyboard with a retro aesthetic and a modular number pad that can be moved, offering a clever compromise for users. Despite its positive features like VIA compatibility and good typing feel, it also has unique quirks and tradeoffs.",
+      "tags": [
+        "keyboard",
+        "tech",
+        "review"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1db0844be513a4c0",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Qi fan fan",
+      "url": "https://www.theverge.com/tech/961332/qi-active-cooling-really-works",
+      "summary": "The Kuxiu D5 Qi2.2 charging dock, with its integrated fan, effectively keeps phones cool while charging, unlike other Qi chargers. The reviewer, who previously experienced an overheating phone, is now convinced of the benefits of active cooling in wireless chargers.",
+      "tags": [
+        "charging",
+        "tech",
+        "review"
+      ],
+      "priority": false
+    },
+    {
+      "id": "124945c45e5fc09f",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The fanfiction community is at war with AI — and itself",
+      "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "summary": "Fanfiction communities are trying to hunt down writers who haven’t written works with their own hands. | Image: Álvaro Bernis / The Verge\nOver the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods be…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "b4d0893377d881d1",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The square-ish phone that I wanted to love",
+      "url": "https://www.theverge.com/tech/960509/ikko-mindone-pro-hands-on",
+      "summary": "The Ikko MindOne Pro is a small, rectangular phone with a square screen, featuring a flip-up camera for selfies and a keyboard accessory. Despite its interesting concept and features like a stand and headphone jack, the phone is considered a miss by the reviewer.",
+      "tags": [
+        "smartphone",
+        "tech",
+        "review"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 70,
+    "summarized": 55,
+    "skipped_promos": 1,
+    "filtered_by_rules": 14,
+    "sources": 10,
+    "email_items_omitted": 0
+  }
+}
