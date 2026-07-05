@@ -1,0 +1,729 @@
+{
+  "date": "2026-07-05",
+  "generated_at": "2026-07-05T15:09:11+00:00",
+  "hot_topics": [
+    {
+      "topic": "AI advancements, ethical concerns, and model performance",
+      "synthesis": "The field of artificial intelligence is seeing rapid expansion, with new unicorns emerging monthly and companies like Mistral AI gaining significant funding as OpenAI competitors. However, this growth is accompanied by ethical and practical challenges, including Midjourney's demand for transparency on AI usage from Hollywood studios and Alibaba banning Claude Code due to perceived high risk. Additionally, even advanced models like newer Anthropic versions exhibit degraded performance with external tools, while AI tools like Claude Fable are actively used in software development for bug fixing and documentation, raising questions about model reliability and specific training impacts.",
+      "item_ids": [
+        "e9e476f8d1574a7e",
+        "53dfbba7199479f5",
+        "e6bbb67d93a56008",
+        "fc2812876ec371bc",
+        "cf951098c361a5d8",
+        "e67c35612e62afdb",
+        "5c601efbebb4d287",
+        "b6ff506132268e30"
+      ]
+    },
+    {
+      "topic": "America's 250th Independence Day marked by Trump's political address",
+      "synthesis": "The United States celebrated its 250th birthday with fireworks and flyovers, notably in Washington D.C., despite extreme weather. President Donald Trump marked the occasion with speeches, including one at Mount Rushmore, which diverged from traditional unifying messages. His addresses mixed tributes to American history and war veterans with political agendas, critiques of \"communists,\" and pledges to restrict mail-in ballots.",
+      "item_ids": [
+        "4b78ab337ccfe7db",
+        "c652cab9704c6eee",
+        "3ddc6fe8d19fe62d",
+        "bf338446c1c6a162"
+      ]
+    },
+    {
+      "topic": "Chinese underground church pastor freed after Trump's plea",
+      "synthesis": "Pastor Jin Mingri, a prominent figure in China's underground church, has been released from prison after 266 days and reunited with his family in Los Angeles. His release followed a direct plea to Chinese leader Xi Jinping from US President Donald Trump, with his family calling it a \"miracle\" on the eve of America's 250th birthday.",
+      "item_ids": [
+        "e4568b6bd8d86f5b",
+        "2604c227f38c6bb7",
+        "17b41b1949703e00"
+      ]
+    },
+    {
+      "topic": "The FIFA World Cup's growing political and cultural significance",
+      "synthesis": "The World Cup has transcended mere sport, becoming a focal point for political discourse and national identity. In Canada, politicians leveraged the team's inspiring performance to foster national unity, despite their early exit. Conversely, a poll revealed a notable lack of pride among France's far-right voters regarding a potential World Cup victory, and in South Korea, an early team elimination prompted a political crisis for Seoul's mayor. The tournament also highlighted the role of diasporas in shaping national teams, exemplified by the Morocco vs. Canada match, while campaign spending in US Senate races found a platform during World Cup ad breaks.",
+      "item_ids": [
+        "1ef4a49c3f11c1bf",
+        "bc2bc0398308c893",
+        "5a1b345f7429c9c9",
+        "b010df9988c7b4f5",
+        "386707d6610cad1c",
+        "c7247fdfcba0da0a",
+        "1ec7f638650c3abd",
+        "97ebd0ccc074a35d",
+        "ceb8bfbc6d812c19",
+        "165bc1faaeb1c94d"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "ebb2b4746e135921",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Chemical accidents rise as Trump administration proposes weakening safety rules",
+      "url": "https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/",
+      "summary": "Chemical accidents are on the rise, gaining urgency as the Trump administration proposes weakening safety rules intended to protect workers and communities from hazardous materials like hydrofluoric acid. Physicist Ronald Koopman's 1980s experiments warned about the potential for deadly accidents involving such chemicals.",
+      "tags": [
+        "chemical safety",
+        "environmental policy",
+        "trump administration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cfc50161098e3174",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Review: Supergirl is not the disaster its low box office suggests",
+      "url": "https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/",
+      "summary": "The film \"Supergirl,\" despite its disappointing box office performance and mixed reviews, is considered a \"pretty good\" movie, though not \"great.\" Its struggles are attributed to an oversaturated superhero market, leading audiences to wait for streaming rather than seeing it in theaters.",
+      "tags": [
+        "movie review",
+        "superhero film",
+        "box office"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fe8f8cd561107a38",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "BBC in Tehran as mourners gather for former supreme leader's funeral",
+      "url": "https://www.bbc.co.uk/news/videos/c5yz9jn0xkko?at_medium=RSS&at_campaign=rss",
+      "summary": "Millions of mourners are expected to participate in funeral commemorations for Ayatollah Ali Khamenei across Iran, as reported by the BBC. The large turnout highlights the impact of his death and the current political climate.",
+      "tags": [
+        "iran",
+        "funeral",
+        "public gathering"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e4568b6bd8d86f5b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Chinese underground church figure Jin Mingri freed from prison",
+      "url": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Jin Mingri, a figure from a Chinese underground church, has been released from prison following a direct plea made to Xi Jinping by Donald Trump. His release marks a notable development in religious freedom.",
+      "tags": [
+        "china",
+        "religious freedom",
+        "human rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fea5859c84570fc6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Evacuations in Guam as super typhoon Bavi approaches",
+      "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Guam is undergoing evacuations as super typhoon Bavi approaches, forecast to bring winds exceeding 160mph and waves nearly 11 meters high upon Monday landfall. Residents are preparing for severe weather conditions.",
+      "tags": [
+        "natural disaster",
+        "typhoon",
+        "guam"
+      ],
+      "priority": false
+    },
+    {
+      "id": "11acaa5652bf0109",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Former chess champion Kramnik banned over cheating remarks",
+      "url": "https://www.bbc.co.uk/news/articles/cd6epx607dqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Former chess champion Vladimir Kramnik has been banned over remarks accusing other players, including the late Daniel Naroditsky, of cheating. The ban follows his controversial statements regarding fair play in chess.",
+      "tags": [
+        "chess",
+        "sports integrity",
+        "controversy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bc2bc0398308c893",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "France survive Paraguay's 'disgraceful' and 'embarrassing' dark arts",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn4dpd11v1eo?at_medium=RSS&at_campaign=rss",
+      "summary": "France advanced in the World Cup after overcoming Paraguay's \"disgraceful\" and \"embarrassing\" tactics. This victory required France to find a new winning strategy against a difficult opponent.",
+      "tags": [
+        "football",
+        "world cup",
+        "sportsmanship"
+      ],
+      "priority": false
+    },
+    {
+      "id": "963d4bba8d1dde54",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Funeral of Iran's former supreme leader 'intensely political moment'",
+      "url": "https://www.bbc.co.uk/news/videos/c23y22z4ppxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The funeral of Iran's former supreme leader is described as an \"intensely political moment,\" with authorities expecting up to 20 million people to attend ceremonies across Iran and Iraq. The mass attendance underscores the event's political significance.",
+      "tags": [
+        "iran",
+        "politics",
+        "funeral"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ff32ddd69eee50ee",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How Iran's new regime is very different to what came before",
+      "url": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
+      "summary": "The funeral of Khamenei serves as a reminder of the significant changes Iran has experienced, highlighting how the new regime differs from its predecessors. Questions are now being raised about the new leadership's objectives and direction.",
+      "tags": [
+        "iran",
+        "politics",
+        "regime change"
+      ],
+      "priority": false
+    },
+    {
+      "id": "41aa427e1e5dd870",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+      "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Mojtaba Khamenei was conspicuously absent from the funeral of Iran's ayatollah, the first time he has not been seen in public since his father was attacked at the start of the US-Israel war with Iran. Senior officials attended the event amidst significant political change.",
+      "tags": [
+        "iran",
+        "politics",
+        "funeral"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a97012917bd5232a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Far-right leader Marine Le Pen is appealing a verdict that found her guilty of misusing EU funds, a decision that will determine her future in the French presidential race. This appeal is a critical moment for her political career.",
+      "tags": [
+        "french politics",
+        "eu",
+        "legal dispute"
+      ],
+      "priority": false
+    },
+    {
+      "id": "757e5a68c0f77699",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
+      "url": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nigeria reports that two of its nationals have been killed in South Africa amid a rise in anti-migrant attacks. One death was reportedly at the hands of police using \"gruesome interrogation techniques.\"",
+      "tags": [
+        "nigeria",
+        "south africa",
+        "xenophobia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c652cab9704c6eee",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Scorching heat and delays: How Washington DC marked America 250",
+      "url": "https://www.bbc.co.uk/news/videos/cwyk2ypj014o?at_medium=RSS&at_campaign=rss",
+      "summary": "Washington DC celebrated America's 250th birthday with fireworks and flyovers, though the event was marked by scorching heat and delays. The celebrations were part of a nationwide observance of the milestone.",
+      "tags": [
+        "independence day",
+        "us history",
+        "washington dc"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1ef4a49c3f11c1bf",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Thousand welcome home Cape Verde footballers after stunning World Cup run",
+      "url": "https://www.bbc.co.uk/news/articles/c70yy4xkeexo?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of fans welcomed the Cape Verde footballers home in Praia after their impressive run in the World Cup. The capital city saw an \"ocean of blue\" outside the airport.",
+      "tags": [
+        "football",
+        "world cup",
+        "cape verde"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4b78ab337ccfe7db",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US marks 250th birthday with fireworks, flyovers and extreme weather",
+      "url": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
+      "summary": "US President Donald Trump delivered a speech for the nation's 250th birthday, incorporating elements of his political agenda alongside tributes to war veterans and American history. The celebration included fireworks and flyovers, with extreme weather across the country.",
+      "tags": [
+        "us politics",
+        "independence day",
+        "donald trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "19c8e8af7bfc6f9e",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "A new law in California will clarify 'sell by' dates to reduce food waste",
+      "url": "https://www.npr.org/2026/07/05/nx-s1-5879284/a-new-law-in-california-will-clarify-sell-by-dates-to-reduce-food-waste",
+      "summary": "California has enacted a new law to standardize \"sell by\" dates on food labels, aiming to reduce consumer confusion and mitigate food waste. The legislation is expected to have a significant impact on food consumption practices.",
+      "tags": [
+        "california",
+        "food waste",
+        "consumer protection"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a3c78cd48e241d8e",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Construction is a man's game. These women are demolishing the barriers",
+      "url": "https://www.npr.org/2026/07/05/g-s1-129643/construction-business-women-kenya",
+      "summary": "A nonprofit in Kenya is actively working to empower women in the male-dominated construction industry, where they currently comprise only 3% of the workforce. The program aims to help women gain employment and advance their careers.",
+      "tags": [
+        "kenya",
+        "women in workforce",
+        "construction"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3ddc6fe8d19fe62d",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "In Mount Rushmore speech, Trump veers from U.S. exceptionalism to warnings about communism",
+      "url": "https://www.npr.org/2026/07/04/g-s1-132025/mount-rushmore-speech-trump-july-4-250",
+      "summary": "President Trump's Mount Rushmore speech for America's 250th anniversary was marked by a shift from traditional unifying messages to a darkly political tone. He veered from U.S. exceptionalism to warnings about communism.",
+      "tags": [
+        "us politics",
+        "independence day",
+        "donald trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5ea1ba065ba5e3f8",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Move over Chutes & Ladders: Schisto & Ladders has educational value plus worms",
+      "url": "https://www.npr.org/2026/07/04/g-s1-129679/chutes-ladders-schistosomiasis-worms-parasites",
+      "summary": "A new board game, \"Schisto & Ladders,\" aims to educate children about schistosomiasis, a debilitating disease caused by parasitic worms. The game teaches prevention methods for the illness, which affects many kids.",
+      "tags": [
+        "public health",
+        "education",
+        "games"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2604c227f38c6bb7",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Pastor freed from prison in China weeks after Trump requested his release",
+      "url": "https://www.npr.org/2026/07/05/nx-s1-5882784/pastor-freed-prison-china-trump-request",
+      "summary": "A pastor from a prominent underground church in China has been released from prison, weeks after President Donald Trump personally requested his freedom. The pastor had been detained since October.",
+      "tags": [
+        "china",
+        "religious freedom",
+        "human rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c5e51f3aa171d7aa",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Paul Pelosi in hit-and-run in California, car left with major damage, authorities say",
+      "url": "https://www.npr.org/2026/07/05/g-s1-132046/paul-pelosi-hit-and-run-california-car-damage",
+      "summary": "Paul Pelosi, husband of former House Speaker Nancy Pelosi, was involved in a hit-and-run incident in California that resulted in \"major\" damage to a parked car. Authorities are investigating the event.",
+      "tags": [
+        "california",
+        "legal issues",
+        "celebrities"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c0892037072616df",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Pennsylvania's proposed data centers are bringing strangers together in protest",
+      "url": "https://www.npr.org/2026/07/05/nx-s1-5804732/proposed-data-centers-in-pennsylvania-are-leading-strangers-to-mobilize-in-protest",
+      "summary": "Residents in Archbald, Pennsylvania, are mobilizing in protest against proposals to build six data centers in their small community. The opposition has brought strangers together to fight the plans both locally and across the state.",
+      "tags": [
+        "local politics",
+        "environmental activism",
+        "community protest"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bf338446c1c6a162",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump addresses nation and fireworks light up National Mall after storm delay",
+      "url": "https://www.npr.org/2026/07/04/nx-s1-5882179/washingtons-july-4-heat-cancellations",
+      "summary": "President Trump delivered a speech celebrating America's 250th independence anniversary, praising its history while also discussing his war in Iran, criticizing \"communists,\" and pledging to restrict mail-in ballots. The event occurred after a storm delay.",
+      "tags": [
+        "us politics",
+        "independence day",
+        "donald trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c7247fdfcba0da0a",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Allez les ... eh, not us",
+      "url": "https://www.politico.com/live-updates/2026/07/04/world-cup-2026/allez-les-eh-not-us-00987012",
+      "summary": "A POLITICO poll revealed that only 47% of far-right National Rally voters in France would be proud of a World Cup win, the lowest percentage among five parties surveyed. This makes France an outlier, as voters on the far right in other surveyed countries were most likely to express pride.",
+      "tags": [
+        "french politics",
+        "world cup",
+        "public opinion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1ec7f638650c3abd",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "America's oldest ally isn't done yet",
+      "url": "https://www.politico.com/live-updates/2026/07/04/world-cup-2026/morocco-beats-canada-independence-day-00987027",
+      "summary": "Morocco secured a 3-0 victory over Canada in the World Cup, a result seen as fitting for Independence Day given Morocco's historic recognition of American sovereignty in 1777. The win was achieved with goals from Azzedine Ounahi and Soufiane Rahimi.",
+      "tags": [
+        "world cup",
+        "morocco",
+        "canada"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b010df9988c7b4f5",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Canada’s World Cup run ends in heartache — but politicos embrace soccer",
+      "url": "https://www.politico.com/live-updates/2026/07/04/world-cup-2026/canada-morocco-calgary-stampede-fifa-world-cup-2026-00987028",
+      "summary": "Canada's World Cup run ended with a loss to Morocco, yet Canadian politicians embraced the sport, with Prime Minister Mark Carney and Governor General Louise Arbour praising the team's inspiring performance and its role in national unity. This marked a temporary shift in a nation traditionally focused on hockey.",
+      "tags": [
+        "canada",
+        "world cup",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "97ebd0ccc074a35d",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Carney commiserates",
+      "url": "https://www.politico.com/live-updates/2026/07/04/world-cup-2026/mark-carney-canada-commiserates-fifa-world-cup-morocco-00987024",
+      "summary": "Canadian Prime Minister Mark Carney expressed national pride despite Canada being the first host nation eliminated from the 2026 World Cup, calling their journey \"incredible\" and a sign of future success. Canada's exit comes ahead of matches involving Mexico and the U.S.",
+      "tags": [
+        "canada",
+        "world cup",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5a1b345f7429c9c9",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Collins dominates Platner on World Cup ad spending",
+      "url": "https://www.politico.com/live-updates/2026/07/04/world-cup-2026/collins-dominates-platner-00987029",
+      "summary": "In the political race for World Cup ad spending, Sen. Susan Collins' allies and campaign significantly outspent her Democrat challenger Graham Platner, with over $400,000 against Platner's $3,500. This highlights the intense battle for control of the Senate, where the Maine race is considered a \"linchpin.\"",
+      "tags": [
+        "us politics",
+        "campaign finance",
+        "world cup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ceb8bfbc6d812c19",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "It's Canadian soccer's first rodeo",
+      "url": "https://www.politico.com/live-updates/2026/07/04/world-cup-2026/cowboy-hats-soccer-cleats-calgary-stampede-ottawa-00987004",
+      "summary": "Canada's political class is embracing soccer, attending events like the Calgary Stampede in cowboy hats while the national team plays its first men's World Cup knockout match against Morocco. The Canadian government views the tournament as an exercise in soft power and nation-building.",
+      "tags": [
+        "canada",
+        "world cup",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "165bc1faaeb1c94d",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Morocco vs. Canada is a clash of diasporas",
+      "url": "https://www.politico.com/live-updates/2026/07/04/world-cup-2026/morocco-starting-lineup-canada-clash-of-diasporas-dual-nationals-00987005",
+      "summary": "The Morocco vs. Canada World Cup match highlights a \"clash of diasporas,\" with a majority of Morocco's squad born in Europe and Canada also leveraging dual nationals in its recruitment strategy. This reflects evolving eligibility rules and a fluid sense of national belonging in modern football.",
+      "tags": [
+        "world cup",
+        "football",
+        "demographics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "386707d6610cad1c",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Spot the pol!",
+      "url": "https://www.politico.com/live-updates/2026/07/04/world-cup-2026/spot-the-pol-mayor-gwanghwamun-square-watch-party-00987015",
+      "summary": "Seoul Mayor Oh Se-hoon organized Gwanghwamun Square watch parties to cheer on a team whose early World Cup exit caused a political crisis. This event highlighted the public's passion for the tournament and its political ramifications.",
+      "tags": [
+        "south korea",
+        "world cup",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "83f59f84a1765876",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "The ex-France player who swapped blue for green",
+      "url": "https://www.politico.com/live-updates/2026/07/04/world-cup-2026/mathieu-flamini-france-arsenal-biochemical-eu-climate-00987007",
+      "summary": "Former French international soccer player Mathieu Flamini, now a chemicals company CEO, opposes weakening EU environmental policies to boost manufacturing competitiveness. He argues the bloc should transition from fossil fuels to bio-based alternatives and that carbon tax removal won't solve competitiveness issues.",
+      "tags": [
+        "eu policy",
+        "environment",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5c601efbebb4d287",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Better Models: Worse Tools",
+      "url": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
+      "summary": "Newer Anthropic models, including Opus 4.8 and Sonnet 5, are reportedly performing worse at using third-party tool schemas than their older siblings, possibly due to training specifically for Claude's internal edit tools. This raises questions about whether third-party coding harnesses should implement multiple edit tools for different models.",
+      "tags": [
+        "ai models",
+        "llm tool use",
+        "generative ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e67c35612e62afdb",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Building a World Map with only 500 bytes",
+      "url": "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything",
+      "summary": "A credible ASCII world map can be generated using only 445 bytes of data by employing deflate compression and a JavaScript snippet with data URIs. This technique was developed by Iwo Kadziela, assisted by Codex.",
+      "tags": [
+        "ascii art",
+        "data compression",
+        "javascript"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cf951098c361a5d8",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything",
+      "summary": "The `sqlite-utils 4.0rc2` release was mostly developed with the help of Claude Fable, which identified significant bugs and contributed to design improvements. The development process also involved a review by GPT-5.5, highlighting the utility of having different AI models review each other's work.",
+      "tags": [
+        "ai",
+        "software development",
+        "coding agents"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4357fae86d4dfe30",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "5 desk gadgets that can make your workday better",
+      "url": "https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/",
+      "summary": "The article discusses five desk gadgets that can help improve one's workday. These gadgets aim to reduce clutter, enhance focus, and add convenience to daily tasks.",
+      "tags": [
+        "office tech",
+        "productivity",
+        "gadgets"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e6bbb67d93a56008",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "summary": "Alibaba has reportedly banned its employees from using Claude Code, classifying the AI software as high-risk. This internal directive suggests concerns over the security or proprietary implications of the tool.",
+      "tags": [
+        "ai",
+        "corporate policy",
+        "software security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e9e476f8d1574a7e",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Almost 90 new unicorns have been minted so far this year — here they are",
+      "url": "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/",
+      "summary": "Nearly 90 new \"unicorns\" – startups valued at over $1 billion – have emerged this year, driven by an investor frenzy in AI. More companies are achieving this status monthly.",
+      "tags": [
+        "startups",
+        "venture capital",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "53dfbba7199479f5",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "summary": "In an ongoing legal dispute with three Hollywood studios, Midjourney is attempting to compel them to disclose details about their own internal use of AI. This action is part of a broader legal battle over AI usage.",
+      "tags": [
+        "ai",
+        "legal",
+        "entertainment industry"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c9aa6662ad4ac750",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public",
+      "url": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
+      "summary": "Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "fc2812876ec371bc",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "summary": "Mistral AI, an OpenAI competitor, has secured significant funding since its 2023 inception with an ambition to make frontier AI accessible to everyone. The company offers some open-source AI models.",
+      "tags": [
+        "ai",
+        "startups",
+        "open source"
+      ],
+      "priority": false
+    },
+    {
+      "id": "17b41b1949703e00",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "EXCLUSIVE: Ezra Jin, Pastor Jailed by China, Is Free",
+      "url": "https://www.thefp.com/p/exclusive-ezra-jin-free",
+      "summary": "Ezra Jin, the pastor of one of China’s largest underground churches, is free after spending 266 days in Chinese prison for the crime of practicing and preaching his faith.\nOn Friday, July 3, Jin arrived in Los Angeles, where he reunited with his family, including his wife, Anna L…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "b6ff506132268e30",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "The Pain in You and the God in You: Carl Jung on the Relationship Between Psychological Suffering and Creativity",
+      "url": "https://www.themarginalian.org/2026/07/04/carl-jung-neurosis-creativity/",
+      "summary": "Carl Jung believed true creative genius is freed from neurosis, not produced by it, seeing suffering as catalytic only when addressed by deeds rather than degenerating into chronic states. This perspective contrasts with the idea that AI cannot create meaningful art because it has not suffered.",
+      "tags": [
+        "philosophy",
+        "creativity",
+        "psychology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bf6419e8f61bcc22",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Flatbush Zombies’ Erick the Architect misses his BlackBerry keyboard",
+      "url": "https://www.theverge.com/entertainment/960958/flatbush-zombies-erick-the-architect-interview",
+      "summary": "Erick the Architect, a founding member and producer for Flatbush Zombies, expressed a fondness for the physical keyboard of a BlackBerry. This follows his collaboration with Apple and the release of his new disco and reggae-tinged single.",
+      "tags": [
+        "music",
+        "celebrities",
+        "tech nostalgia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "102dd9bebff27447",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "How Keurig saved — and ruined — your coffee",
+      "url": "https://www.theverge.com/podcast/961470/keurig-coffee-k-up-version-history",
+      "summary": "Keurig transformed office coffee by offering single-cup brewing, solving the problem of consistently terrible shared coffee. The widespread adoption of K-Cups and Keurig machines in offices and homes ultimately led to its success but also brought new complexities.",
+      "tags": [
+        "coffee",
+        "consumer tech",
+        "product history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b92a08a966c439de",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Matic’s robot vacuum is getting a $250 price hike in September",
+      "url": "https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy",
+      "summary": "The Matic robot vacuum, praised for its \"human-like navigation\" and offline capabilities, will see a $250 price hike in September due to rising component costs, but offers a longer return policy and free replacement bags. Customers buying directly from the company will receive a year's worth of replacement bags and an extended return policy.",
+      "tags": [
+        "robot vacuum",
+        "smart home",
+        "consumer tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "236b23a3f0899bc7",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The Sourdough Sidekick automates the boring bit of baking",
+      "url": "https://www.theverge.com/tech/959604/sourdough-sidekick-review-king-arthur-starter",
+      "summary": "The Sourdough Sidekick, co-developed with King Arthur Baking Company, automates the process of managing sourdough starter by feeding it on a set schedule. This gadget allows bakers to focus on other aspects of sourdough bread making like kneading and shaping.",
+      "tags": [
+        "baking",
+        "kitchen gadget",
+        "sourdough"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d1c63eb9d403ee56",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Vizio accidentally made the best dumb TV on the market",
+      "url": "https://www.theverge.com/tech/960916/vizio-mini-led-quantum-tv-review",
+      "summary": "Vizio's new 65-inch Mini LED Quantum TV, priced under $398, is being hailed as the best \"dumb TV\" on the market, despite Vizio's quiet period since its 2024 acquisition by Walmart. The TV offers strong performance with quantum dots, allowing for higher brightness and accurate color.",
+      "tags": [
+        "tv",
+        "home entertainment",
+        "consumer electronics"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 70,
+    "summarized": 48,
+    "skipped_promos": 7,
+    "filtered_by_rules": 15,
+    "sources": 9,
+    "email_items_omitted": 0
+  }
+}
