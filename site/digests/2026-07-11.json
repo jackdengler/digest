@@ -1,0 +1,1157 @@
+{
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T14:45:55+00:00",
+  "hot_topics": [
+    {
+      "topic": "Apple Sues OpenAI Over Alleged Trade Secret Theft",
+      "synthesis": "Apple has filed a major lawsuit against OpenAI, alleging that former Apple employees now working for the AI startup, including at its acquired hardware firm IO Products, stole Apple's trade secrets. The suit claims this misconduct, potentially directed by OpenAI's senior leadership, was intended to advance OpenAI's hardware ambitions and is \"rotten to its core.\"",
+      "item_ids": [
+        "8386c1d19e654f3f",
+        "bb075b72403f4e83",
+        "fba3e575f6cfb979",
+        "5843db810aae3af3"
+      ]
+    },
+    {
+      "topic": "Meta Removes Controversial Instagram AI Image Feature",
+      "synthesis": "Meta has withdrawn a controversial new AI image generation feature on Instagram that allowed users to create deepfakes or alter content from public accounts by tagging them, without explicit permission. The company faced significant backlash from users and acknowledged that the feature \"missed the mark\" regarding privacy and user control.",
+      "item_ids": [
+        "900601c7e0705894",
+        "a999be0bcb7d0dcf",
+        "fd024a23ee4f2904"
+      ]
+    },
+    {
+      "topic": "US Demands Iran Pledge on Strait of Hormuz Amid Tensions",
+      "synthesis": "The United States is demanding that Iran publicly commit to ceasing attacks on ships in the Strait of Hormuz, following reports that Iran admitted an earlier incident was a \"mistake.\" This comes as President Trump also issued threats against Iran after calls for his killing at a recent funeral, highlighting escalating tensions.",
+      "item_ids": [
+        "5c0774e85f36468a",
+        "8b9a3e135b21bc75"
+      ]
+    },
+    {
+      "topic": "Graham Platner Withdraws from Maine Senate Race",
+      "synthesis": "Graham Platner has officially withdrawn from the Maine Senate race, citing a public desire for change and creating an unexpected vacancy for Democrats. This situation highlights the challenges political parties face when a key candidate becomes a liability or exits a crucial campaign.",
+      "item_ids": [
+        "049be3c4139f9607",
+        "1275998e5f57d929"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "badff84400eb52c9",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Check out the first images of Quest shipwreck",
+      "url": "https://arstechnica.com/science/2026/07/expedition-captures-first-images-of-shackletons-last-ship/",
+      "summary": "The Royal Canadian Geographic Society has released the first images of the Quest shipwreck, Sir Ernest Shackleton's last polar exploration vessel, discovered in 2024. Shackleton, known for the Endurance expedition, died before reaching his destination on the Quest, which sank in 1962.",
+      "tags": [
+        "exploration",
+        "history",
+        "shipwreck"
+      ],
+      "priority": false
+    },
+    {
+      "id": "677c1f7530a10582",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Firmware update bricks Hue Bridge Pro devices; Philips gives free replacements",
+      "url": "https://arstechnica.com/gadgets/2026/07/firmware-update-bricks-hue-bridge-pro-devices-philips-gives-free-replacements/",
+      "summary": "A recent firmware update has \"bricked\" some Philips Hue Bridge Pro smart hubs, causing devices to stop responding and display a red LED. Philips has confirmed the issue and is offering free replacements to affected customers.",
+      "tags": [
+        "smart home",
+        "firmware",
+        "bug"
+      ],
+      "priority": false
+    },
+    {
+      "id": "56456f9bb3ba2c98",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Increased drone surveillance of illegal July 4th fireworks led to $100K fine",
+      "url": "https://arstechnica.com/gadgets/2026/07/on-americas-250th-more-cities-used-drone-surveillance-to-spot-illegal-fireworks/",
+      "summary": "Cities are increasingly deploying drones to monitor and deter illegal fireworks during celebrations like the Fourth of July, leading to significant fines such as a $100,000 penalty in Sacramento. This trend, driven by concerns over fires, injuries, and pollution, utilizes high-resolution drone footage to identify offenders.",
+      "tags": [
+        "drones",
+        "public safety",
+        "surveillance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c08c4bf63fb38407",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Overhaul of public lands grazing regulations seeks to cut public involvement",
+      "url": "https://arstechnica.com/tech-policy/2026/07/overhaul-of-public-lands-grazing-regulations-seeks-to-cut-public-involvement/",
+      "summary": "The federal government is planning to overhaul public lands grazing regulations, aiming to expand livestock grazing on 155 million acres in the West. Critics argue this move, the first major change since 1995, ignores environmental degradation caused by overgrazing and benefits wealthy Americans through subsidies.",
+      "tags": [
+        "environment",
+        "policy",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8b877099424f5aa2",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Quantum error correction can constantly recalibrate a processor",
+      "url": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/",
+      "summary": "Google has developed a new method for quantum error correction that can continuously recalibrate superconducting qubits during calculations. This innovation addresses a significant challenge in quantum computing by allowing hardware calibration to occur simultaneously with long and complex algorithms, preventing performance drift.",
+      "tags": [
+        "quantum computing",
+        "technology",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ecb8dcae49deea63",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Valve's new Steam Machine verification system is silent on these Steam Deck-busters",
+      "url": "https://arstechnica.com/gaming/2026/07/valves-steam-machine-verified-ratings-offer-more-questions-than-answers/",
+      "summary": "Valve's expanded Steam Machine verification system is proving unhelpful for games that the Steam Deck struggles to run, offering \"still learning about\" ratings for many titles. The system fails to clarify performance for mid-tier games that are challenging for the Steam Deck but potentially playable on the more powerful Steam Machine.",
+      "tags": [
+        "gaming",
+        "hardware",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e9562c30800f0d02",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'Devastating' evidence against Charlie Kirk murder suspect laid out in court",
+      "url": "https://www.bbc.co.uk/news/articles/c4gy12gqzpvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Prosecutors have presented \"devastating\" evidence in court against the suspect accused of murdering Charlie Kirk, building a detailed picture of the 23-year-old's movements. The case is proceeding with strong evidence for trial.",
+      "tags": [
+        "crime",
+        "legal",
+        "court"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ee97031c09079f00",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'We escaped Spanish wildfire, but our friends lost their lives'",
+      "url": "https://www.bbc.co.uk/news/videos/c07y357zvl1o?at_medium=RSS&at_campaign=rss",
+      "summary": "This video features accounts from individuals who escaped a deadly Spanish wildfire, with some recounting how friends lost their lives in the blaze. It provides a firsthand perspective on the devastating impact of the fires.",
+      "tags": [
+        "wildfire",
+        "spain",
+        "eyewitness"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5843db810aae3af3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+      "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
+      "summary": "Apple has filed a lawsuit against OpenAI, alleging that the AI startup's burgeoning hardware division is \"rotten to its core\" due to the theft of Apple's trade secrets by former employees. The legal action points to intellectual property disputes in the competitive tech landscape.",
+      "tags": [
+        "legal",
+        "ai",
+        "intellectual property"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a70772a917d8b7d8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "At Canada's biggest rodeo, the starting gun is fired in the fight over Alberta separation",
+      "url": "https://www.bbc.co.uk/news/articles/c3eykgln5eeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Calgary Stampede became a platform for discussions on Alberta's potential separation from Canada, highlighting growing fears of a Brexit-style upset ahead of an October vote. Canadian unity is a central theme at the event.",
+      "tags": [
+        "canadian politics",
+        "referendum",
+        "nationalism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "20a9cf708b1eb8c3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Australian killer's final police interview footage released",
+      "url": "https://www.bbc.co.uk/news/articles/cvglj4k03w4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Australian authorities have released the final police interview footage of Bradley Murdoch, the 67-year-old killer of Peter Falconio, who died in jail without revealing the location of Falconio's remains. The footage is part of a renewed effort to find the body on the 25th anniversary of the murder.",
+      "tags": [
+        "crime",
+        "australia",
+        "cold case"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c529cdbf02fa9987",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Boxy forms and odd lights: US declassifies more UFO files",
+      "url": "https://www.bbc.co.uk/news/videos/c8x2zez8qwzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US government has declassified a fourth installment of unresolved UFO files, promising further releases of cases involving \"boxy forms and odd lights.\" This ongoing declassification effort aims to increase transparency regarding unexplained aerial phenomena.",
+      "tags": [
+        "ufo",
+        "government",
+        "transparency"
+      ],
+      "priority": false
+    },
+    {
+      "id": "274883fd139f4e6a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "China braced for second typhoon in a week as Bavi approaches landfall",
+      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+      "summary": "China is preparing for a second typhoon in a week, with Typhoon Bavi approaching landfall, prompting the evacuation of hundreds of thousands in eastern Zhejiang province. The city of Wenzhou is directly in the storm's path.",
+      "tags": [
+        "typhoon",
+        "china",
+        "natural disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "53b314814b19b241",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Dating can be hard in South Korea - so the monks stepped in",
+      "url": "https://www.bbc.co.uk/news/articles/cgmdkw7wmkgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Buddhist monks in South Korea are organizing 30-hour rural retreats to help people navigate the challenges of dating. This initiative provides a unique approach to fostering relationships in a difficult dating landscape.",
+      "tags": [
+        "dating",
+        "culture",
+        "south korea"
+      ],
+      "priority": false
+    },
+    {
+      "id": "48ba7ef499a2c0de",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How a fake presidential council ended up with a budget of almost $1m in Nigeria",
+      "url": "https://www.bbc.co.uk/news/articles/c872v7wldjyo?at_medium=RSS&at_campaign=rss",
+      "summary": "A fake presidential council in Nigeria was discovered to have almost a $1 million budget, with the government claiming it was established using a forged letter of appointment. The incident raises questions about corruption and governance.",
+      "tags": [
+        "nigeria",
+        "corruption",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0c1455b2b8a71217",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
+      "url": "https://www.bbc.co.uk/news/articles/cwyd7x22lp1o?at_medium=RSS&at_campaign=rss",
+      "summary": "A speedboat capsized in rough seas near an island in southern Vietnam, resulting in the deaths of 15 people, including Indian tourists. Rescuers managed to save 21 individuals from the accident.",
+      "tags": [
+        "accident",
+        "vietnam",
+        "tourism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3e8c27933787732b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Landmark US housing bill becomes law despite Trump protest",
+      "url": "https://www.bbc.co.uk/news/articles/cn8qwj611qxo?at_medium=RSS&at_campaign=rss",
+      "summary": "A landmark US housing bill has been signed into law, despite objections from President Trump who had wanted voter ID legislation passed first. The new law aims to reduce housing costs and increase supply.",
+      "tags": [
+        "housing",
+        "us politics",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b049e9c0ba1d0f0c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Meet the crypto billionaires building a world where money buys you a vote",
+      "url": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Crypto billionaires are reportedly establishing their own nations, believing traditional democracy has run its course and that money should buy voting power. This movement seeks to create new governance models based on wealth.",
+      "tags": [
+        "cryptocurrency",
+        "politics",
+        "future"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fd024a23ee4f2904",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Meta pulls new AI image feature after days of backlash",
+      "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Meta has withdrawn its new AI image feature for Instagram after widespread criticism, acknowledging the \"swift blowback\" it received. The feature had allowed users to alter Instagram content using AI, raising significant privacy concerns.",
+      "tags": [
+        "ai",
+        "privacy",
+        "instagram"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c3a3f8000ca1beb9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
+      "url": "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Over 40 kidnapped children and teachers have been successfully freed in Nigeria following an operation by the Nigerian army. The head of the local teachers' union expressed joy and relief at their rescue.",
+      "tags": [
+        "nigeria",
+        "kidnapping",
+        "security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "217ac24768660f66",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "New dinosaur species as long as cricket pitch discovered in Thailand",
+      "url": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
+      "summary": "A new species of plant-eating dinosaur, Uragasaurus kalasinensis, as long as a cricket pitch, has been discovered in Thailand. The dinosaur is estimated to have lived approximately 150 million years ago.",
+      "tags": [
+        "paleontology",
+        "science",
+        "thailand"
+      ],
+      "priority": false
+    },
+    {
+      "id": "61e907b193a21401",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "New species named after Cape Verde goalkeeper Vozinha",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn8kdxgxlkeo?at_medium=RSS&at_campaign=rss",
+      "summary": "A new species of sea slug has been named after Cape Verde goalkeeper Vozinha, honoring his performance at the World Cup against Spain. This unusual tribute combines sports and scientific recognition.",
+      "tags": [
+        "science",
+        "football",
+        "naming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "aaf3cc46378f9b9f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Newly-released video shows Peter Falconio's killer questioned",
+      "url": "https://www.bbc.co.uk/news/videos/c0rylp72p9ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Newly released bodycam footage shows one of the last attempts by Australian police to question Bradley Murdoch, Peter Falconio's killer, about the location of Falconio's body. The video was released on the 25th anniversary of the murder.",
+      "tags": [
+        "crime",
+        "australia",
+        "cold case"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d5befefa0298e206",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Small plane crash in Bahamas kills 10 people",
+      "url": "https://www.bbc.co.uk/news/articles/ckg47lz10p7o?at_medium=RSS&at_campaign=rss",
+      "summary": "A small plane crash in the Bahamas resulted in the deaths of 10 people, occurring on the country's independence day. The prime minister described the incident as a national tragedy.",
+      "tags": [
+        "accident",
+        "bahamas",
+        "aviation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "11b8483a084db0b0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "South Africa World Cup midfielder Adams dies aged 25",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
+      "summary": "South Africa and Mamelodi Sundowns midfielder Jayden Adams has died at the age of 25, just weeks after representing his country at the World Cup. His death marks a tragic loss for the football community.",
+      "tags": [
+        "football",
+        "south africa",
+        "obituary"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8beeb37756caf6b5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+      "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Spain is battling a deadly wildfire that has killed at least 12 people, including four Britons, with another 23 reported missing. Firefighters are working to contain the blaze amidst a humanitarian and environmental crisis.",
+      "tags": [
+        "wildfire",
+        "spain",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8d849efd4c450e12",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "The photo that shows who's really on top in Le Pen's party",
+      "url": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
+      "summary": "A photo has been interpreted as revealing the power dynamics within Marine Le Pen's party, suggesting that Jordan Bardella, previously groomed as the next hard-right leader, will now face a longer wait. The image offers insight into French political leadership.",
+      "tags": [
+        "french politics",
+        "leadership",
+        "far-right"
+      ],
+      "priority": false
+    },
+    {
+      "id": "85fe8899ddeaa6ad",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
+      "url": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&at_campaign=rss",
+      "summary": "The US government has paid out $3 million to victims of \"Havana Syndrome,\" a mysterious illness first reported by spies and diplomats a decade ago. The payments provide compensation for those affected by the unexplained condition.",
+      "tags": [
+        "diplomacy",
+        "health",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5c0774e85f36468a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+      "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US is demanding that Iran pledge to cease shooting at ships in the Strait of Hormuz, following reports that Iran admitted an attack earlier this week was a \"mistake.\" This diplomatic push aims to de-escalate tensions in the critical shipping lane.",
+      "tags": [
+        "international relations",
+        "iran",
+        "us foreign policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "585142e40d98ad32",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Inside the 30-hour dating retreat run by monks",
+      "url": "https://www.bbc.co.uk/news/videos/cpq300nx85wo?at_medium=RSS&at_campaign=rss",
+      "summary": "A video explores a 30-hour dating retreat organized by monks in South Korea, offering an unconventional approach to finding love. The retreat aims to help individuals connect in a unique setting away from typical dating scenes.",
+      "tags": [
+        "dating",
+        "culture",
+        "south korea"
+      ],
+      "priority": false
+    },
+    {
+      "id": "72aaefe618019d83",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: What links a bomb in Monaco and a shooting in Ukraine?",
+      "url": "https://www.bbc.co.uk/news/videos/c992zv2xpdjo?at_medium=RSS&at_campaign=rss",
+      "summary": "A Ukrainian intelligence agent has claimed he did not pull the trigger in a Monaco bomb incident and a shooting in Ukraine, despite earlier confessing to killing the woman suspected in the Monaco attack. The video investigates the complex and contradictory claims surrounding these events.",
+      "tags": [
+        "intelligence",
+        "ukraine",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e3492b93ed72418e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Zulu king expresses regret after video captures tirade against his wife",
+      "url": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Zulu king, Misuzulu, has expressed regret after a widely shared video showed him in a tirade against his wife, threatening physical assault and accusing her of cheating. The incident has drawn public attention in South Africa.",
+      "tags": [
+        "royal family",
+        "south africa",
+        "controversy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "75782ed562e745c1",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell",
+      "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
+      "summary": "After seven years in production, Scarf has reluctantly transitioned its codebase away from Haskell, a functional programming language. This decision highlights the practical challenges and trade-offs faced by companies using niche languages in long-term projects.",
+      "tags": [
+        "programming",
+        "software development",
+        "haskell"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dfefa6734ef703d5",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "An update on residential proxies and the scraper situation",
+      "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+      "summary": "An update discusses the evolving situation with residential proxies and web scrapers, highlighting the technical challenges and implications for online data collection. The article delves into the complexities of managing and detecting automated access.",
+      "tags": [
+        "web scraping",
+        "technology",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fba3e575f6cfb979",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "summary": "Apple has filed a lawsuit against OpenAI, accusing former employees now working for the AI company of stealing trade secrets. The legal action alleges that confidential information was used to further OpenAI's hardware initiatives.",
+      "tags": [
+        "legal",
+        "ai",
+        "intellectual property"
+      ],
+      "priority": false
+    },
+    {
+      "id": "da68254362fca5ac",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "summary": "GPT-5.6 Sol Ultra has reportedly produced a proof of the Cycle Double Cover Conjecture, a significant achievement in mathematical research. This indicates a potential breakthrough in AI's capability for advanced theoretical proofs.",
+      "tags": [
+        "ai",
+        "mathematics",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6e92615a70e35d82",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "New York City to ban deceptive subscription practices",
+      "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+      "summary": "New York City is set to implement legislation banning deceptive subscription practices, aiming to protect consumers from hidden fees and difficult cancellation processes. The move seeks to ensure transparency in subscription services.",
+      "tags": [
+        "consumer protection",
+        "policy",
+        "new york city"
+      ],
+      "priority": false
+    },
+    {
+      "id": "647e3a8a7a67ff35",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "QuadRF can spot drones and see WiFi through my wall",
+      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+      "summary": "The QuadRF device can detect drones and see Wi-Fi signals through walls, showcasing advanced radio frequency sensing capabilities. This technology has implications for security and surveillance applications.",
+      "tags": [
+        "rf technology",
+        "drones",
+        "security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b10cdc59f46ab793",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
+      "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
+      "summary": "A 2015 article reveals that snails' teeth are stronger than spider silk, making them the toughest natural material known. This discovery challenges previous assumptions about nature's strongest substances.",
+      "tags": [
+        "science",
+        "biology",
+        "materials"
+      ],
+      "priority": false
+    },
+    {
+      "id": "066991b4b576aae0",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The tech of 'Terminator 2' – an oral history (2017)",
+      "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
+      "summary": "This 2017 oral history details the groundbreaking visual effects technology used in \"Terminator 2: Judgment Day.\" The article revisits how the film's innovative computer graphics pushed cinematic boundaries.",
+      "tags": [
+        "film",
+        "vfx",
+        "history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6270b4f4310875c3",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The vintage beauty of Soviet control rooms (2018)",
+      "url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
+      "summary": "This 2018 article showcases the unique and aesthetically pleasing design of Soviet-era control rooms. It highlights the vintage beauty found in the functional architecture of these industrial spaces.",
+      "tags": [
+        "design",
+        "history",
+        "architecture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "049be3c4139f9607",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Graham Platner makes it official in Maine, submitting paperwork to leave Senate race",
+      "url": "https://www.npr.org/2026/07/10/nx-s1-5888709/graham-platner-maine-senate-susan-collins",
+      "summary": "Graham Platner has officially withdrawn from the Maine Senate race, stating that people are \"desperate for change,\" leaving Maine Democrats to select a replacement by July 27. His exit creates an unexpected vacancy for the party.",
+      "tags": [
+        "us politics",
+        "election",
+        "maine"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9cbec92bc67ae580",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Minnesota is pulling troops early from D.C., as pressure grows on Michigan",
+      "url": "https://www.npr.org/2026/07/11/nx-s1-5887666/national-guard-dc-trump-michigan-minnesota",
+      "summary": "Minnesota Governor Tim Walz is withdrawing National Guard troops from Washington, D.C. earlier than planned, as pressure mounts on other Democratic governors regarding President Trump's ongoing deployment. The move reflects growing dissent over the extended military presence.",
+      "tags": [
+        "us politics",
+        "national guard",
+        "domestic policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "032ba824d103a320",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Most people who need glasses don't have them. Can the post office change that?",
+      "url": "https://www.npr.org/2026/07/11/nx-s1-5887653/reading-glasses-post-office-india",
+      "summary": "In some Indian towns, post offices are offering eye tests and eyeglasses to address the widespread need for vision correction among the population. This initiative seeks to provide accessible vision care.",
+      "tags": [
+        "india",
+        "public health",
+        "social services"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e855a1a2fc0a3cb9",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Opinion: Is democracy a joke? Count Binface says no.",
+      "url": "https://www.npr.org/2026/07/11/nx-s1-5881251/opinion-is-democracy-a-joke-count-binface-says-no",
+      "summary": "British populist MP Nigel Farage has resigned from Parliament amidst financial questions but is seeking re-election against rival Count Binface. This political contest highlights a satirical challenge to traditional democracy.",
+      "tags": [
+        "uk politics",
+        "election",
+        "satire"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bf8b153d6e4e986e",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Patriotic art gets the spotlight as NEA funding shifts. Cue 'The Ronald Reagan Overture'",
+      "url": "https://www.npr.org/2026/07/10/nx-s1-5870578/ronald-reagan-250th-patriotic-art",
+      "summary": "Under the Trump Administration, patriotic art and music are receiving increased funding and spotlight, with shifts in National Endowment for the Arts (NEA) funding. This change emphasizes cultural expressions like \"The Ronald Reagan Overture.\"",
+      "tags": [
+        "us politics",
+        "culture",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "acc3dee2fda798e8",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Shy on the dance floor? Virtual reality 'partners' aim to help you find your groove",
+      "url": "https://www.npr.org/2026/07/11/nx-s1-5882228/dance-virtual-reality-vr-app-augmented-world-expo-weddings",
+      "summary": "New VR dance lesson apps like Dance Guru and Trip the Light offer a judgment-free way for shy individuals to learn partner dancing. These virtual reality platforms aim to help users find their rhythm without social pressure.",
+      "tags": [
+        "virtual reality",
+        "self-improvement",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dec6ecc12c0d758c",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Spain edges Belgium and will face France in World Cup semifinal",
+      "url": "https://www.npr.org/2026/07/11/nx-s1-5890030/spain-will-face-france-world-cup-semifinal",
+      "summary": "Spain defeated Belgium and will face France in the World Cup semifinal, setting up a highly anticipated match. Both teams remain undefeated in this year's tournament.",
+      "tags": [
+        "football",
+        "world cup",
+        "sports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a4fccc0b280d19b0",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump administration rolls back a key protection for imperiled wildlife",
+      "url": "https://www.npr.org/2026/07/11/nx-s1-5890025/trump-administration-imperiled-wildlife",
+      "summary": "The Trump administration has finalized a rule that narrows the definition of \"harm\" under the Endangered Species Act, rolling back a key protection for imperiled wildlife. Environmental groups express concern over the potential impact on conservation efforts.",
+      "tags": [
+        "environment",
+        "us politics",
+        "conservation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8b9a3e135b21bc75",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing",
+      "url": "https://www.npr.org/2026/07/11/nx-s1-5890029/trump-threatens-iran",
+      "summary": "President Trump has issued threats against Iran following calls for his killing at Ayatollah Ali Khamenei's funeral, a response to US demands for Iran to confirm the Strait of Hormuz is open. Tensions remain high between the two nations.",
+      "tags": [
+        "us foreign policy",
+        "iran",
+        "trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8112036f5830d333",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "With the white nationalist group Patriot Front, what you see is not what you get",
+      "url": "https://www.npr.org/2026/07/11/nx-s1-5888571/patriot-front-washington-dc",
+      "summary": "Hundreds of masked white nationalists from the Patriot Front marched in Washington D.C. on July Fourth, raising questions about their identity and funding. This event highlights the presence of extremist groups in the nation's capital.",
+      "tags": [
+        "extremism",
+        "us politics",
+        "protest"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f2f64524e14c6d9b",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Belgian airline needles Spain ahead of World Cup quarterfinal",
+      "url": "https://www.politico.com/live-updates/2026/07/10/world-cup-2026/brussels-airlines-spain-world-cup-2026-00993039",
+      "summary": "Brussels Airlines engaged in a playful jab at Spain by flying an aircraft painted in Belgian national football team colors to Spanish destinations ahead of their World Cup quarterfinal match. This marketing stunt highlights the competitive spirit surrounding the tournament.",
+      "tags": [
+        "world cup",
+        "marketing",
+        "belgium"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bdf8fadf26213c3f",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Dutch deputy leader slams Moroccan football fans after riots",
+      "url": "https://www.politico.com/live-updates/2026/07/10/world-cup-2026/netherlands-leader-moroccan-football-fans-violence-00992840",
+      "summary": "Dutch Deputy Prime Minister Dilan Yeşilgöz-Zegerius publicly condemned Moroccan football fans who caused riots across the Netherlands after their World Cup defeat to France. Incidents of violence, including throwing bottles and fireworks at police, led to arrests and drew strong criticism from Dutch politicians.",
+      "tags": [
+        "football",
+        "netherlands",
+        "social unrest"
+      ],
+      "priority": false
+    },
+    {
+      "id": "58513206058a33be",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "How Trump radicalized the Belgians",
+      "url": "https://www.politico.com/live-updates/2026/07/10/world-cup-2026/how-trump-radicalized-belgium-national-team-political-identity-00992849",
+      "summary": "President Trump's interference with FIFA's disciplinary measures ahead of the U.S.-Belgium World Cup match inadvertently motivated the Belgian team, who then beat the U.S. and trolled Trump with a viral dressing room dance. Belgian Prime Minister Bart De Wever also commented, downplaying the importance of football.",
+      "tags": [
+        "world cup",
+        "us politics",
+        "belgium"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7e4b1c918f1da8a9",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Spot the pol!",
+      "url": "https://www.politico.com/live-updates/2026/07/10/world-cup-2026/spot-the-pol-00993330",
+      "summary": "Prince Sverre Magnus and Princess Ingrid Alexandra of Norway were spotted attending their country's World Cup match against Brazil. The European royals were seen at the Round of 16 game in East Rutherford, New Jersey.",
+      "tags": [
+        "royalty",
+        "world cup",
+        "norway"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d01ef7781f71b880",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Who will cheer for Palestine now?",
+      "url": "https://www.politico.com/live-updates/2026/07/10/world-cup-2026/palestine-seeks-champion-morocco-flag-keffiyeh-00993205",
+      "summary": "Palestinian solidarity was a widespread theme at the World Cup, with flags and keffiyehs prominently displayed by teams and fans, especially after the October 7, 2023 events. With Morocco's elimination, the Palestinian cause may now seek champions beyond the Muslim and Arab worlds.",
+      "tags": [
+        "world cup",
+        "palestine",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4c03b1347076b01b",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Nilay Patel",
+      "url": "https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything",
+      "summary": "Nilay Patel of The Vergecast discusses the inherent privacy invasion required for augmented reality (AR) glasses that continuously record and process visual data. He questions whether the societal trade-offs for such products are too high, suggesting they might not be worth building.",
+      "tags": [
+        "augmented reality",
+        "privacy",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1275998e5f57d929",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "The party can’t fire you",
+      "url": "https://www.slowboring.com/p/the-party-cant-fire-you",
+      "summary": "A political party experiences helplessness when a necessary candidate becomes indefensible, as seen with Graham Platner's departure from the Maine Senate race. This situation highlights the challenges parties face when candidates become liabilities.",
+      "tags": [
+        "us politics",
+        "election",
+        "campaigns"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0d906671bb7f1c3f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
+      "url": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/",
+      "summary": "A new app called HyperTexting aims to transform the open web into a scrollable, social media-like feed, making websites, blogs, and newsletters feel more integrated. The app also simplifies the process of publishing content directly to one's own website.",
+      "tags": [
+        "web browsing",
+        "social media",
+        "app development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bb075b72403f4e83",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "summary": "Apple is suing OpenAI, alleging that OpenAI's senior leadership, including a former longtime Apple employee, directed the theft of trade secrets. This lawsuit intensifies the ongoing competition and legal battles within the AI and tech industries.",
+      "tags": [
+        "legal",
+        "ai",
+        "intellectual property"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e1e6c5a7ea365471",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
+      "url": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
+      "summary": "Toni Schneider, who had been serving as interim CEO of Bluesky, has officially taken on the role permanently. Schneider, formerly CEO of Automattic and a partner at True Ventures, has committed fully to leading the unconventional social media platform.",
+      "tags": [
+        "social media",
+        "leadership",
+        "bluesky"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9cacddbc33275986",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Disney+ is considering a free streaming tier, report says",
+      "url": "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/",
+      "summary": "Disney+ is reportedly exploring the possibility of introducing a free, ad-supported streaming tier to better compete with services like YouTube and Tubi. This strategic move could help Disney+ capture a larger share of consumers' viewing time.",
+      "tags": [
+        "streaming",
+        "media",
+        "business strategy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1f0776c141b40bba",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
+      "url": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
+      "summary": "College app Fizz has expanded its lawsuit against rival Sidechat, now alleging that a Maveron VC firm shared confidential startup information with Sidechat after a fundraising meeting. The accusation suggests a breach of trust and unfair competitive practices.",
+      "tags": [
+        "startup",
+        "legal",
+        "venture capital"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e330d8d90658da54",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Hugging Face’s CEO on why companies are done renting their AI",
+      "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+      "summary": "Hugging Face CEO Clem Delangue states that open-source AI is flourishing as more companies move away from renting AI models. Hugging Face, serving as a GitHub for AI, enables builders to share and download models and datasets, with adoption by roughly half of the Fortune 500.",
+      "tags": [
+        "ai",
+        "open source",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a999be0bcb7d0dcf",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Meta removes controversial AI feature on Instagram after backlash",
+      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "summary": "Meta has removed a controversial AI feature from Instagram that allowed users to generate images referencing public accounts without explicit permission, citing negative feedback. The company acknowledged that the feature, intended as a creative tool, \"missed the mark.\"",
+      "tags": [
+        "ai",
+        "privacy",
+        "social media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9619258b727cca33",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "summary": "OpenAI is expanding its focus beyond individual users by hiring a dedicated product manager to develop ChatGPT experiences for families, caregivers, and older adults. This move indicates a strategic effort to integrate AI more deeply into household use.",
+      "tags": [
+        "ai",
+        "family",
+        "product development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "855eae4685501c9e",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
+      "url": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
+      "summary": "Phia, the shopping startup co-founded by Bill Gates' daughter Phoebe, is facing accusations of \"cookie stuffing,\" a practice that allegedly allowed the company to claim affiliate commissions for sales it did not generate. A Bloomberg investigation highlighted this controversial method.",
+      "tags": [
+        "e-commerce",
+        "ethics",
+        "startup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "912b052638aa4370",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "summary": "SK Hynix has raised $26.5 billion in the largest foreign IPO in US history, driven by the booming AI chip market. The company is now being pressured to establish new manufacturing facilities in the United States.",
+      "tags": [
+        "semiconductors",
+        "ipo",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4bbf72a0e2cd0450",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Two Drinks With. . . Steve Bannon’s ‘Transhumanist Editor’",
+      "url": "https://www.thefp.com/p/two-drinks-with-steve-bannons-transhumanist",
+      "summary": "Joe Allen, Steve Bannon's \"transhumanist editor\" and an anti-AI activist, discusses potential dystopian futures where AI surpasses human capabilities, ranging from a global Chinese takeover to a Matrix-like subservience to sentient computers. He speculates on societal implications of advanced AI.",
+      "tags": [
+        "ai",
+        "future",
+        "philosophy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "018fad2513fa8198",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "‘Little House on the Prairie’ Brought My Family Back Together",
+      "url": "https://www.thefp.com/p/little-house-on-the-prairie-brought",
+      "summary": "A writer reflects on how the television series \"Little House on the Prairie\" helped him reconnect with his estranged family after a decade. The show, an ode to family and home, provided a path to healing amidst his own past struggles.",
+      "tags": [
+        "personal essay",
+        "culture",
+        "family"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a904dcb46acb05fd",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "The Art of Dignity Beyond Pride: How to Move Through Heartbreak Like Frida Kahlo",
+      "url": "https://www.themarginalian.org/2026/07/10/frida-kahlo-nickolas-muray-letters/",
+      "summary": "Frida Kahlo's letters to her lover, Nickolas Muray, reveal a profound dignity beyond pride in the face of heartbreak, as she copes with his engagement to another woman. The correspondence showcases her raw emotion and the human experience of loss.",
+      "tags": [
+        "art",
+        "history",
+        "relationships"
+      ],
+      "priority": false
+    },
+    {
+      "id": "63971210baa4c9a3",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "A decade later, Pokémon Go finally made good on its original promise",
+      "url": "https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026",
+      "summary": "Pokémon Go celebrated its 10th anniversary with a special event in New York City, where nearly 2,000 players collaboratively battled a Mega Evolving Mewtwo in Times Square. The event fulfilled the game's original trailer promise of mass cooperative gameplay, immersing participants in the Pokémon world.",
+      "tags": [
+        "gaming",
+        "events",
+        "mobile gaming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7af64f3aa687b165",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "A tasty RPG that will make you very hungry",
+      "url": "https://www.theverge.com/entertainment/964061/dosa-divas-review-ps5-steam-switch",
+      "summary": "\"Dosa Divas\" is a new roleplaying game that offers an epic adventure in under 10 hours, capturing the feel of larger RPGs with a bold style and dynamic story. The game successfully balances grand themes with personal drama, making it an accessible yet rich experience.",
+      "tags": [
+        "gaming",
+        "rpg",
+        "review"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8386c1d19e654f3f",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+      "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+      "summary": "Apple has filed a lawsuit against OpenAI, alleging that former Apple employees now working at OpenAI and its acquired hardware startup, IO Products, stole Apple's trade secrets. The complaint claims a pattern of theft related to advancing OpenAI's hardware ambitions.",
+      "tags": [
+        "legal",
+        "ai",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8f4fe9839276b462",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Are you filthy enough for a $700 portable shower?",
+      "url": "https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review",
+      "summary": "The Joolca Hottap Go is a portable shower system designed for outdoor use, offering a luxurious hot shower experience with an integrated 12L water tank. This review highlights its convenience for activities like van-living, surfing, and camping where hot water is a luxury.",
+      "tags": [
+        "camping",
+        "gear",
+        "review"
+      ],
+      "priority": false
+    },
+    {
+      "id": "900601c7e0705894",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+      "summary": "Meta has reversed its decision to allow users to generate AI images from public Instagram accounts by tagging them, following significant backlash over privacy concerns. The company acknowledged that the feature \"missed the mark\" in its original implementation.",
+      "tags": [
+        "ai",
+        "privacy",
+        "instagram"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1165b38796154fda",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "No, Flock isn&#8217;t threatening people for debating surveillance",
+      "url": "https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter",
+      "summary": "The surveillance technology company Flock Safety has faced renewed criticism after allegedly sending a cease and desist letter to a lecture series discussing its work. This incident follows previous backlash against Flock's technology and collaborations with law enforcement.",
+      "tags": [
+        "surveillance",
+        "privacy",
+        "tech policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "597464ed78c3f2ff",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The FCC is cracking down on DJI tech that dodged the foreign drone ban",
+      "url": "https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab",
+      "summary": "The FCC is cracking down on alleged \"DJI front companies\" that are reportedly helping the Chinese drone manufacturer skirt the US foreign drone ban. Eight companies have been fined $25,000 each and given a deadline to respond to the FCC's inquiries.",
+      "tags": [
+        "drones",
+        "regulation",
+        "trade policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "45acc15aef37182e",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The perfect kit for all your tiny repairs",
+      "url": "https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer",
+      "summary": "This week's \"Installer\" column recommends the iFixit repair kit, highlighting its utility for various tiny repairs. The piece also touches on various cultural and tech observations, from cold plunges to new show trailers.",
+      "tags": [
+        "tech",
+        "diy",
+        "tools"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 100,
+    "summarized": 79,
+    "skipped_promos": 0,
+    "filtered_by_rules": 21,
+    "sources": 11,
+    "email_items_omitted": 0
+  }
+}
