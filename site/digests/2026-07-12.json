@@ -1,0 +1,657 @@
+{
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T14:49:03+00:00",
+  "hot_topics": [
+    {
+      "topic": "The escalating impact of AI on infrastructure and society",
+      "synthesis": "The rapid expansion of AI is driving a \"GPU boom\" and significant demand for data centers, leading to community protests over power grid strain. Concurrently, AI's influence is seen in venture capital, where it has become a major focus for firms like Yosemite, and in political campaigns, utilizing bots for personalized voter engagement. This widespread integration highlights both the technological advancements and the societal challenges of AI's growth.",
+      "item_ids": [
+        "0065611cc7497b33",
+        "da50b3ef7f1921cf",
+        "04c2f70499c5207e",
+        "6ee884dabd4f1760"
+      ]
+    },
+    {
+      "topic": "U.S. and Iran tensions escalate in Strait of Hormuz",
+      "synthesis": "The United States has launched new strikes against Iran, following an attack on a Cyprus-flagged vessel. In response, Iran has announced the closure of the critical Strait of Hormuz, intensifying geopolitical tensions in the region. The U.S. military reported hitting 140 targets overnight, while Iran claimed retaliatory fire toward Jordan and other Gulf states.",
+      "item_ids": [
+        "7611c6a17c80349b",
+        "57a028cef438d185"
+      ]
+    },
+    {
+      "topic": "U.S. Senator Lindsey Graham dies at 71",
+      "synthesis": "U.S. Senator Lindsey Graham, a prominent Republican from South Carolina and close ally of Donald Trump, has died at the age of 71 after a brief and sudden illness. Donald Trump paid tribute to Graham, calling him a \"true American patriot\" who was instrumental in enacting his administration's policies and staffing priorities.",
+      "item_ids": [
+        "5ff7415c2bda06e2"
+      ]
+    },
+    {
+      "topic": "Argentina advances in World Cup amidst controversy",
+      "synthesis": "Argentina advanced to the World Cup semifinals after a narrow victory against Switzerland, with Julian Alvarez scoring a crucial goal in extra time. However, the team's success has also been marred by the emergence of an antisemitic conspiracy theory online, alleging that the game was rigged through a cabal involving political figures and FIFA. This controversy highlights the blend of sporting achievement and external societal issues surrounding major global events.",
+      "item_ids": [
+        "419afe356d83d5cb",
+        "5aefa6491d961132",
+        "186f3793ac9ba40a"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "e16b750872941a7f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "At least two killed in Toronto street festival shooting",
+      "url": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
+      "summary": "At least two people were killed in a shooting at a street festival in Toronto, where police recovered two firearms after an exchange of gunfire between individuals. Authorities are investigating the incident.",
+      "tags": [
+        "canada",
+        "crime",
+        "shooting"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6cf0bc5c9de95899",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
+      "url": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
+      "summary": "A British couple sustained 40% burns and were found semi-conscious after being rescued from a ravine during wildfires in Spain's Almeria province. Local media reported their harrowing escape from the blazes.",
+      "tags": [
+        "spain",
+        "wildfires",
+        "rescue"
+      ],
+      "priority": false
+    },
+    {
+      "id": "50a0207d43950c23",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "China evacuates nearly two million people as powerful typhoon makes landfall",
+      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+      "summary": "China has evacuated nearly two million people as a powerful typhoon made landfall, leading to widespread suspensions of schools, work, outdoor activities, and transport services in Zhejiang province. Authorities are responding to the severe natural disaster.",
+      "tags": [
+        "china",
+        "typhoon",
+        "natural disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "079f0257531e74c0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How a viral seal called Neil caused mayhem in Australia",
+      "url": "https://www.bbc.co.uk/news/videos/c05yr465yyro?at_medium=RSS&at_campaign=rss",
+      "summary": "A five-year-old elephant seal named Neil gained global attention for causing \"mayhem\" during its recent time ashore in southern Tasmania, Australia. The viral seal's antics captivated audiences.",
+      "tags": [
+        "australia",
+        "wildlife",
+        "viral"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3b465991bff5cd11",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
+      "url": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
+      "summary": "German supermarket Aldi is executing a $9 billion expansion strategy in the U.S., targeting urban centers like Manhattan to challenge established supermarkets like Walmart with its discount model. The company aims to replicate its low-cost success in a competitive market.",
+      "tags": [
+        "retail",
+        "business",
+        "us"
+      ],
+      "priority": false
+    },
+    {
+      "id": "78314b3ab852ad22",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How men with female surnames are standing up to ridicule in Kenya",
+      "url": "https://www.bbc.co.uk/news/articles/c75ygy71wdgo?at_medium=RSS&at_campaign=rss",
+      "summary": "In Kenya, men who inherit their father's first name as their surname, a changing tradition, are confronting ridicule in society. This cultural shift is causing social upset as individuals challenge traditional naming conventions.",
+      "tags": [
+        "kenya",
+        "culture",
+        "society"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9f5dbbbd462a7436",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ice on testicles and donating blood - the myths sold to men trying to boost their sperm",
+      "url": "https://www.bbc.co.uk/news/articles/c8921982pgzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Amid growing attention on men's fertility, many individuals are resorting to unproven \"hacks\" promoted by influencers to boost their sperm counts. These methods, like icing testicles, lack scientific backing.",
+      "tags": [
+        "health",
+        "men's health",
+        "misinformation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "59bb5c6e8a93718e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Muslim judge in India faces death threats after convicting 'cow vigilantes'",
+      "url": "https://www.bbc.co.uk/news/articles/cd6e9zq87xvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tabassum Khan, a Muslim judge in India, is facing death threats and online abuse after convicting 14 Hindu men in a lynching case involving \"cow vigilantes.\" The case highlights religious and social tensions.",
+      "tags": [
+        "india",
+        "justice",
+        "social issues"
+      ],
+      "priority": false
+    },
+    {
+      "id": "38f83d6c19acd64f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "People flee as Russian strike hits near Ukraine coffee shop",
+      "url": "https://www.bbc.co.uk/news/videos/c8r27drk1nxo?at_medium=RSS&at_campaign=rss",
+      "summary": "A Russian strike near a coffee shop in Sumy, northeastern Ukraine, forced people to duck and run for cover, captured by multiple cameras. The incident highlights the ongoing dangers of the conflict.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "war"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f8895dc0a2c09780",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
+      "url": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
+      "summary": "The Polish Prime Minister has pledged to create a memorial for victims of the World War Two 'genocide by Ukrainian nationalists,' a sensitive historical issue that has long caused friction between Warsaw and Kyiv. The two nations have historically disagreed on the interpretation of these wartime killings.",
+      "tags": [
+        "poland",
+        "ukraine",
+        "history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "eb4141233d282ba9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+      "url": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
+      "summary": "A 67-million-year-old Tyrannosaurus rex fossil is set to be auctioned in New York with a pre-sale value of $30 million, potentially making it the most expensive fossil ever sold. This sale raises concerns among scientists about private ownership hindering research.",
+      "tags": [
+        "paleontology",
+        "auction",
+        "science"
+      ],
+      "priority": false
+    },
+    {
+      "id": "14e90b94c12ee126",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
+      "url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
+      "summary": "US Democrat Ro Khanna reported being detained for 90 minutes by armed Israeli settlers while visiting the occupied West Bank. The 49-year-old Congressman recounted the incident during his trip.",
+      "tags": [
+        "us",
+        "israel",
+        "palestine"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7611c6a17c80349b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
+      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The U.S. has launched new strikes after an attack on a Cyprus-flagged vessel, prompting Iran to close the Strait of Hormuz. This action indicates an escalation of tensions in the critical waterway.",
+      "tags": [
+        "us",
+        "iran",
+        "geopolitics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5ff7415c2bda06e2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+      "summary": "US Senator Lindsey Graham, a close ally of Donald Trump, has died at 71 after a brief illness. Donald Trump described the South Carolina senator as a \"true American patriot.\"",
+      "tags": [
+        "politics",
+        "us",
+        "obituary"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f2dbbc6beb3827e0",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "summary": "The \"Mesh LLM\" project focuses on enabling distributed AI computing through the iroh platform. This initiative aims to scale large language model operations across multiple systems.",
+      "tags": [
+        "ai",
+        "distributed computing",
+        "llm"
+      ],
+      "priority": false
+    },
+    {
+      "id": "04c2f70499c5207e",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "summary": "An article delves into the \"circular financing\" dynamics involving Nvidia, CoreWeave, and Nebius, which are key players in the ongoing GPU boom. This analysis sheds light on the economic structures supporting the surge in graphics processing unit demand.",
+      "tags": [
+        "gpu",
+        "ai",
+        "finance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2940eb15cc0ed1db",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Old and new apps, via modern coding agents by Terry Tao",
+      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+      "summary": "Terry Tao's article explores the creation of both old and new applications using modern coding agents. This highlights the evolving role of AI in software development.",
+      "tags": [
+        "programming",
+        "ai",
+        "software development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "96a42d240cfe4412",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "RISCBoy is an open-source portable games console, designed from scratch",
+      "url": "https://github.com/Wren6991/RISCBoy",
+      "summary": "RISCBoy is presented as an open-source portable games console, meticulously designed from scratch. The project aims to provide a platform for custom gaming experiences and hardware exploration.",
+      "tags": [
+        "gaming",
+        "hardware",
+        "open source"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ec911855cc011a15",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+      "url": "https://antjs.org",
+      "summary": "Ant is introduced as a new JavaScript ecosystem that includes its own runtime, a package manager, a registry, deployment platform, and a tool for native desktop app development. The author aims for a coherent platform compatible with the wider JavaScript ecosystem.",
+      "tags": [
+        "javascript",
+        "development tools",
+        "web development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b1a3dddf4f3e7b80",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "UPI: Anatomy of a Payment Transaction",
+      "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+      "summary": "This article provides an in-depth look at the architecture of the Unified Payments Interface (UPI) by explaining the anatomy of a payment transaction. It offers insights into how this digital payment system functions.",
+      "tags": [
+        "finance",
+        "payments",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9493473d11862977",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "We scaled PgBouncer to 4x throughput",
+      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "summary": "ClickHouse has successfully scaled PgBouncer to achieve a 4x increase in throughput for its managed PostgreSQL services. This improvement significantly enhances database performance and efficiency.",
+      "tags": [
+        "database",
+        "performance",
+        "engineering"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c5ad04c40d8b99b1",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "200 young campers rescued as flooding hits parts of Missouri and Kentucky",
+      "url": "https://www.npr.org/2026/07/11/nx-s1-5890213/missouri-kentucky-summer-camp-flooding",
+      "summary": "Heavy rainfall caused historic flooding across several Missouri counties, leading to water rescues, including the evacuation of 200 young campers. Both Missouri and Kentucky experienced significant flooding events.",
+      "tags": [
+        "us",
+        "flooding",
+        "natural disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5a2e22bb44a6257d",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "A Bible passage is at the center of a debate over how the U.S. should treat immigrants",
+      "url": "https://www.npr.org/2026/07/12/nx-s1-5885947/a-bibe-passage-is-at-the-center-of-a-debate-over-how-the-u-s-should-treat-immigrants",
+      "summary": "A debate over the Bible verse Matthew 25 is pitting mainline pastors, Black protestants and the pope against evangelical politicians put on the defensive over President Trump's policies.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "419afe356d83d5cb",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Alvarez's 112th-minute goal helps lift Argentina past Switzerland 3-1 and into World Cup semifinals",
+      "url": "https://www.npr.org/2026/07/12/nx-s1-5890774/argentina-switzerland-3-1-world-cup-semifinals",
+      "summary": "Julian Alvarez scored a decisive goal in the 112th minute, securing Argentina's 3-1 victory over Switzerland and propelling them into the World Cup semifinals. The defending champions advanced after a hard-fought match.",
+      "tags": [
+        "sports",
+        "world cup",
+        "argentina"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7a66f90754518fab",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "An artist brought 'I.C.E. pops' to a Texas campus. The show was shut down in days",
+      "url": "https://www.npr.org/2026/07/12/nx-s1-5783832/ice-pop-texas-victor-marka27-quinonez-artist",
+      "summary": "An art installation featuring 'I.C.E. pops' on a Texas campus was shut down within days, sparking a debate over artistic freedom and administrators' reactions to art critical of Trump administration policies. The incident highlights tensions around campus art and political expression.",
+      "tags": [
+        "art",
+        "protest",
+        "us"
+      ],
+      "priority": false
+    },
+    {
+      "id": "854e04d46360e2b7",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Could fish be a secret ingredient for rice farmers to avoid disease and make more money?",
+      "url": "https://www.npr.org/2026/07/12/nx-s1-5803170/farmers-fish-rice-snails-tropical-disease",
+      "summary": "Farmers in Senegal are integrating fish into their rice paddies as a strategy to fertilize crops, provide food, and control snails carrying parasitic worms. This innovative approach offers potential benefits for both agriculture and public health.",
+      "tags": [
+        "agriculture",
+        "senegal",
+        "aquaculture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6ee884dabd4f1760",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Getting campaign text messages ahead of midterms? There could be an AI bot behind it",
+      "url": "https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns",
+      "summary": "Political campaigns are increasingly deploying AI bots that mimic candidates to engage voters with personalized text messages ahead of midterms. This makes AI-generated conversations the latest tool for connecting with the electorate.",
+      "tags": [
+        "ai",
+        "politics",
+        "campaigns"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5aefa6491d961132",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Messi and Argentina survive another close call to reach the World Cup semifinals",
+      "url": "https://www.npr.org/2026/07/11/nx-s1-5888612/2026-world-cup-fifa-argentina-switzerland-quarterfinal",
+      "summary": "Argentina, led by Lionel Messi, narrowly survived its quarterfinal match against Switzerland to advance to the World Cup semifinals, where they are set to face England. The team has faced close calls in its recent knockout games.",
+      "tags": [
+        "sports",
+        "world cup",
+        "argentina"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f1244e227b47d43c",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Sen. Lindsey Graham of South Carolina, Trump ally and foreign policy hawk, dies at 71",
+      "url": "https://www.npr.org/2026/07/12/nx-s1-5890790/us-sen-lindsey-graham-dies",
+      "summary": "His office said Graham died Saturday night after a \"brief and sudden illness.\" The Republican senator was instrumental in enacting Trump's policy and staffing priorities.\n(Image credit: Jeffrey Collins)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "57a028cef438d185",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "U.S. launches fresh strikes on Iran as Tehran says it has closed Strait of Hormuz",
+      "url": "https://www.npr.org/2026/07/11/g-s1-133212/us-iran-vessel-attack-strait-hormuz-gulf",
+      "summary": "The U.S. has launched new strikes against Iran, with the military confirming hits on 140 targets overnight, while Iran stated it responded with fire towards Jordan and other Gulf states. This escalation occurred as Iran announced the closure of the Strait of Hormuz.",
+      "tags": [
+        "us",
+        "iran",
+        "geopolitics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fdd66968f173900a",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "What a Monopoly importer learned when it tried to make things in the U.S.A.",
+      "url": "https://www.npr.org/2026/07/12/nx-s1-5887378/monopoly-tariffs-china-manufacturing-made-inusa",
+      "summary": "A Monopoly importer, Jonathan Silva, explored manufacturing his board games in the U.S. after facing tariffs on imported versions. His experience offers insights into the challenges and realities of domestic production.",
+      "tags": [
+        "business",
+        "trade",
+        "manufacturing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "572cf8aa8cf4ff2d",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Spot the pol!",
+      "url": "https://www.politico.com/live-updates/2026/07/11/world-cup-2026/spot-the-pol-cape-verde-vozinha-00993909",
+      "summary": "House Minority Leader Hakeem Jeffries intervened with the State Department to help the mother of Cabo Verde's goalkeeper, Vozinha, secure a U.S. visa to attend the World Cup. This highlights political involvement in sports logistics.",
+      "tags": [
+        "politics",
+        "sports",
+        "us"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4ae7a3668362e5b7",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Why FIFA is putting down roots in Miami",
+      "url": "https://www.politico.com/live-updates/2026/07/11/world-cup-2026/fifa-miami-headquarters-womens-world-cup-olympics-00993894",
+      "summary": "FIFA is establishing a permanent base in Miami, which served as its American political headquarters during the men's World Cup, to expand its presence in the Western Hemisphere. This strategic shift aims to retain institutional knowledge for upcoming tournaments, including the Women's World Cups and LA28 Olympics.",
+      "tags": [
+        "sports",
+        "fifa",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f25fe9958cc66b6e",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "sqlite-utils 4.1",
+      "url": "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything",
+      "summary": "sqlite-utils 4.1 introduces several new features, including a `--code` option for `insert` and `upsert` to provide Python code for rows, and the ability to override column types. It also adds methods for dropping indexes and transforming tables to change SQLite strict mode.",
+      "tags": [
+        "sqlite",
+        "python",
+        "software development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "da50b3ef7f1921cf",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Reed Jobs would rather talk about curing cancer than his last name",
+      "url": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
+      "summary": "Reed Jobs' venture firm Yosemite, now with 17 employees, is rapidly growing in the biotech sector, where AI plays a significant role in its operations. The firm is capitalizing on opportunities presented by numerous blockbuster drugs nearing the end of their patent protection.",
+      "tags": [
+        "biotech",
+        "venture capital",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "795a9b64c48f61db",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
+      "url": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
+      "summary": "Even Realities is developing smart glasses without a camera, focusing on productivity applications rather than recording. These glasses are designed for professionals who frequently attend meetings, give presentations, or travel internationally where language barriers might exist.",
+      "tags": [
+        "smart glasses",
+        "productivity",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "df7ac8c8f05abe90",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "This slushie machine was a lifesaver during NYC’s heat wave",
+      "url": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
+      "summary": "The new Ninja Slushi Twist machine proved to be highly effective during a recent NYC heat wave, providing refreshing frozen drinks at home. This latest slushie maker from Ninja builds upon the success of its original model.",
+      "tags": [
+        "product review",
+        "home appliance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "186f3793ac9ba40a",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "How Wikipedia Turned a World Cup Controversy into an Antisemitic Conspiracy Theory",
+      "url": "https://www.thefp.com/p/how-wikipedia-turned-a-world-cup",
+      "summary": "A recent World Cup match between Argentina and Egypt led to the swift generation of an antisemitic conspiracy theory online, alleging the game was rigged. The baseless claim involved figures like Lionel Messi and Benjamin Netanyahu.",
+      "tags": [
+        "world cup",
+        "conspiracy theories",
+        "antisemitism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bd8f738488d9a179",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "Do Not Spare Yourself",
+      "url": "https://www.themarginalian.org/2026/07/12/no-te-salves/",
+      "summary": "The Marginalian explores Mario Benedetti's poem \"No Te Salves\" (\"Do Not Spare Yourself\"), which examines the danger of shying away from life's inherent disappointments and heartbreaks. The piece emphasizes embracing vulnerability rather than seeking constant comfort and certainty.",
+      "tags": [
+        "poetry",
+        "philosophy",
+        "literature"
+      ],
+      "priority": false
+    },
+    {
+      "id": "04155950d94f58fd",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
+      "url": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
+      "summary": "The Nopia synth, which gained significant online attention, is nearing release and will launch in a couple of months for approximately £550. Developed by Martin Grieco and Rocío Gal, the unique instrument is designed around harmonic interplay, blending multiple modules for a single performance.",
+      "tags": [
+        "music tech",
+        "synthesizer",
+        "gadget"
+      ],
+      "priority": false
+    },
+    {
+      "id": "69bdce5bce30fd52",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "FL Studio head Constantin Koehncke turns to Reddit for feedback and fun",
+      "url": "https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview",
+      "summary": "Constantin Koehncke, CEO of Image Line, the company behind FL Studio, is engaging with the Reddit community for feedback on the pioneering digital audio workstation. Koehncke has overseen the integration of AI-powered features like stem separation and the Gopher chatbot into FL Studio.",
+      "tags": [
+        "music software",
+        "ai",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "00b78767adc9cef8",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Nintendo’s Talking Flower got a small price cut",
+      "url": "https://www.theverge.com/gadgets/964138/nintendo-talking-flower-mario-wonder-deal-sale",
+      "summary": "Nintendo's Talking Flower, a gadget based on a character from Super Mario Bros. Wonder, has received a small price reduction to $29.99 at Amazon and Walmart. The toy offers whimsical remarks, calls out passing hours, and includes a built-in thermometer, but lacks internet connectivity or a microphone.",
+      "tags": [
+        "nintendo",
+        "gadget",
+        "gaming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "38d84613ae428e5d",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger",
+      "url": "https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger",
+      "summary": "Oregon's Attorney General Dan Rayfield has withdrawn his civil investigative demand and request to delay the Paramount and Warner Bros. Discovery merger. Rayfield's office had sought documents, but Paramount indicated it would not comply with the request.",
+      "tags": [
+        "mergers",
+        "entertainment",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0065611cc7497b33",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The fight against AI data centers is just beginning",
+      "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+      "summary": "Communities are increasingly opposing the construction of large AI data centers, citing concerns about their impact on local power grids. Protests, like those against Apple's planned data center in Ireland in 2015, are setting a precedent for current battles.",
+      "tags": [
+        "ai",
+        "data centers",
+        "protest"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 61,
+    "summarized": 44,
+    "skipped_promos": 1,
+    "filtered_by_rules": 16,
+    "sources": 9,
+    "email_items_omitted": 0
+  }
+}
