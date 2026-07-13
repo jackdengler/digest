@@ -1,0 +1,966 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T16:24:07+00:00",
+  "hot_topics": [
+    {
+      "topic": "Waze integrates new AI features",
+      "synthesis": "Waze is rolling out new AI-powered features, including conversational voice commands for reporting traffic incidents and destination searches, thanks to Google's Gemini AI assistant integration. This update aims to enhance user personalization and strengthen Waze's competitive stance against other navigation services.",
+      "item_ids": [
+        "0bf820ae4b322769",
+        "baa12a1425c1f851"
+      ]
+    },
+    {
+      "topic": "Anthropic's Claude AI faces pricing and access challenges",
+      "synthesis": "Anthropic is localizing Claude AI pricing for India, its largest market outside the US, while also extending access to its Fable 5 model on paid plans due to compute constraints. This comes as competitor OpenAI removes usage limits for its GPT-5.6 Sol model, putting pressure on Anthropic to offer more consistent access to retain subscribers.",
+      "item_ids": [
+        "b9861a40baaa01fd",
+        "ad313b35ac0a2626"
+      ]
+    },
+    {
+      "topic": "Senator Lindsey Graham's death and calls for successor",
+      "synthesis": "Senator Lindsey Graham, a Republican ally of Donald Trump, passed away at 71 from an aortic tear, sparking tributes and discussions about his political legacy. Following his death, President Trump and South Carolina Governor Henry McMaster have indicated interest in appointing Graham's sister, Darline Graham Nordone, as an interim senator, which would trigger a wide-open primary election for the full term.",
+      "item_ids": [
+        "06d42a8343ba7f49",
+        "3cace5d5cfeee83a",
+        "f5d7e96c45b472c2",
+        "97614cb38818b220",
+        "449ed7e91b8a19e0"
+      ]
+    },
+    {
+      "topic": "Actor Sam Neill dies at 78",
+      "synthesis": "Tributes are pouring in for renowned actor Sam Neill, known for his roles in 'Jurassic Park' and 'The Piano,' who has died at age 78. His family announced his passing in Sydney, following his disclosure in 2023 of a diagnosis of angioimmunoblastic T-cell lymphoma, with many remembering his versatile five-decade career.",
+      "item_ids": [
+        "d31e931dbc9cdb70",
+        "a91c656afff94aa0",
+        "2181ac2265a422e8"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "b6b2fb04e334df60",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Patricia Evangelista on journalism",
+      "url": "https://aeon.co/videos/a-filipino-journalist-on-the-terrible-privilege-of-bearing-witness",
+      "summary": "Filipino journalist Patricia Evangelista reflects on the unique, dual nature of her profession, describing journalism as both the \"worst\" and \"best possible\" job. She emphasizes the profound privilege of documenting crimes against humanity.",
+      "tags": [
+        "journalism",
+        "human rights",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ee1a717f8f51a5e0",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Unmothered",
+      "url": "https://aeon.co/essays/when-my-ties-to-my-mother-faded-so-did-my-memories",
+      "summary": "This essay explores the profound impact of a mother's fading presence on one's personal narrative and memories. The author describes their story fracturing when ties to their \"most loving co-author\" diminished.",
+      "tags": [
+        "family",
+        "psychology",
+        "memory"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0025a47bdcea97d2",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Now, defenders are embracing the prompt injection, too",
+      "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+      "summary": "Researchers have found that prompt injections, traditionally used by attackers, can now be embraced by defenders to shut down AI hacking agents. By directing LLMs to perform forbidden actions when encountering sensitive data, the system responds by shutting down to prevent harmful actions.",
+      "tags": [
+        "ai",
+        "security",
+        "prompt injection"
+      ],
+      "priority": false
+    },
+    {
+      "id": "77f872986ed33fac",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Simulating everything, sort of: The promise and limits of world models",
+      "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
+      "summary": "Beyond large language models, a new category of AI called \"world models\" is gaining significant attention and funding. These models aim to simulate the physical world, or a useful approximation, laying groundwork for advanced AI systems.",
+      "tags": [
+        "ai",
+        "world models",
+        "simulation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d31e931dbc9cdb70",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
+      "url": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss",
+      "summary": "Friends, politicians and fellow film stars remember Neill following his \"sudden and unexpected\" death.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "386c4bae7ef4fd57",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'This landscape is completely charred': Inside the village at epicentre of Spain's wildfires",
+      "url": "https://www.bbc.co.uk/news/videos/cddl1yrldelo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Nick Beake reported from Bédar, a village at the epicenter of Spain's wildfires, describing a \"completely charred\" landscape with homes razed to the ground. His report highlighted the devastation caused by the fires.",
+      "tags": [
+        "wildfire",
+        "spain",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "55eb2f4d1a49694a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
+      "url": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pokémon Go celebrates its 10th anniversary, with millions of players still actively engaged in the mobile game. Michael Steranka, vice president at Scopely, emphasizes the game's enduring success lies in its ability to bring people together.",
+      "tags": [
+        "gaming",
+        "mobile",
+        "pokemon"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2181ac2265a422e8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "A versatile actor whose roles went far beyond Jurassic Park - Sam Neill dies aged 78",
+      "url": "https://www.bbc.co.uk/news/articles/cx2wrvqq9rlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The actor, who has died aged 78, built up a long string of screen credits over a five-decade career.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "1059bee0a3acbf83",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "At least 28 killed, 25 critically injured after fire engulfs Bangkok bar",
+      "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+      "summary": "A fire engulfed a bar in Bangkok's Chatuchak district, leading to at least 28 deaths and 25 critical injuries. Patrons were seen running through flames as firefighters arrived.",
+      "tags": [
+        "thailand",
+        "disaster",
+        "fire"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8ac971809016b917",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Bombs, blood, ambushes - football coaching with the army",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd7we8we4xgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Football coaches are undergoing military training, including scenarios involving \"bombs, blood, and ambushes,\" as part of the Football Association of Wales' Uefa pro licence course. This program aims to take coaches out of their comfort zone by integrating challenging military exercises.",
+      "tags": [
+        "sports",
+        "training",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8fce39d16ad74dc9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "British couple return to village at heart of deadly Spanish wildfire",
+      "url": "https://www.bbc.co.uk/news/articles/cx24e09x79no?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 13 people, including five believed to be Britons, were killed by Thursday's wildfire in Spain's Almeria province.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "efa5a8a8fa684037",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
+      "url": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
+      "summary": "Sheikh Hamad bin Khalifa Al Thani, the former Emir of Qatar, has died at 74. He took power in 1996 via a bloodless coup and transformed Qatar into the gas-rich regional power it is today.",
+      "tags": [
+        "qatar",
+        "obituary",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6780939663bdfb03",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "German court convicts Iraqi couple of enslaving Yazidi girls",
+      "url": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss",
+      "summary": "A German court has convicted an Iraqi couple, Twana H.S. and Asia R. A., for enslaving Yazidi girls after they joined the Islamic State group in Iraq in 2015. This ruling provides justice for war crimes committed by ISIS members.",
+      "tags": [
+        "crime",
+        "war crimes",
+        "germany"
+      ],
+      "priority": false
+    },
+    {
+      "id": "14c2e130da294de5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Heavy rains and flash floods in Bangladesh leave 51 dead",
+      "url": "https://www.bbc.co.uk/news/articles/ce8k7e75k7go?at_medium=RSS&at_campaign=rss",
+      "summary": "Heavy rains, flash floods, and landslides in Bangladesh have resulted in 51 deaths and the loss of thousands of homes. Large parts of the country have been severely impacted by the natural disaster.",
+      "tags": [
+        "bangladesh",
+        "disaster",
+        "floods"
+      ],
+      "priority": false
+    },
+    {
+      "id": "31e71399a9e13ce9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How Indian scientists are mapping the brain's last frontier",
+      "url": "https://www.bbc.co.uk/news/articles/cg53l737v1qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Indian scientists are mapping the brainstem, one of the brain's least known regions, by creating an unprecedented atlas. This research represents a significant step in neuroscience, exploring what is referred to as the \"brain's last frontier.\"",
+      "tags": [
+        "science",
+        "neuroscience",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "844fc3c6077e26cc",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Infantino opens door to 64-team World Cup",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj9gm31jwg8o?at_medium=RSS&at_campaign=rss",
+      "summary": "FIFA boss Gianni Infantino has indicated that plans for a 64-team men's World Cup will be assessed after the 2026 tournament. He stated that football needs to be \"for the whole world,\" suggesting a move towards broader global inclusion.",
+      "tags": [
+        "football",
+        "fifa",
+        "sports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f02ea782c0dee057",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Irish police to engage with Jordanian force in murder investigation",
+      "url": "https://www.bbc.co.uk/news/articles/c621p1zne6qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Irish police are preparing to collaborate with Jordanian forces in the murder investigation of Jamey Carney, whose body was discovered in Killarney, County Kerry, last week. This indicates an international dimension to the ongoing case.",
+      "tags": [
+        "crime",
+        "ireland",
+        "investigation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7978de02b8da1d52",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Men disguised as police kill Ecuadorean drug lord's brother",
+      "url": "https://www.bbc.co.uk/news/articles/c20yx84g103o?at_medium=RSS&at_campaign=rss",
+      "summary": "David Macías, the brother of Ecuadorean drug lord 'El Fito,' who is awaiting trial in the US, was killed by men disguised as police. This incident highlights the ongoing violence associated with drug trafficking in Ecuador.",
+      "tags": [
+        "crime",
+        "ecuador",
+        "drugs"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2ab16d4a80f93fb9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "New era for Gibraltar with removal of 118-year-old border controls with Spain",
+      "url": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss",
+      "summary": "Gibraltar is entering a new era with the removal of 118-year-old border controls with Spain, a move expected to provide an economic boost. This change aims to facilitate free movement between the UK territory and Spain.",
+      "tags": [
+        "gibraltar",
+        "spain",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e7a0f7108c44ded1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "People flee Bangkok bar as huge flames shoot out from doorway",
+      "url": "https://www.bbc.co.uk/news/videos/cy5vx2e45xdo?at_medium=RSS&at_campaign=rss",
+      "summary": "People fled a Bangkok bar as huge flames erupted from its doorway, resulting in at least 28 deaths and 25 critical injuries. The tragic incident prompted a rapid response from firefighters.",
+      "tags": [
+        "thailand",
+        "disaster",
+        "fire"
+      ],
+      "priority": false
+    },
+    {
+      "id": "06d42a8343ba7f49",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Senator Lindsey Graham died of aortic tear, examiner says",
+      "url": "https://www.bbc.co.uk/news/articles/cn75083d472o?at_medium=RSS&at_campaign=rss",
+      "summary": "Graham, a close Republican ally of Donald Trump, died at the age of 71 on Saturday evening.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "bfbe218eed144e2d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "South Africa says more than 53,000 foreigners deported in migration campaign",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj2prd4p8o?at_medium=RSS&at_campaign=rss",
+      "summary": "South Africa has deported over 53,000 foreigners as part of a migration campaign, intensified following widespread anti-immigration protests. The country is cracking down on undocumented migrants.",
+      "tags": [
+        "south africa",
+        "immigration",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "630a8ea2ed9a36ed",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "The Chinese graduate accused of being Mexico's 'fentanyl king'",
+      "url": "https://www.bbc.co.uk/news/articles/c39ymggglxeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Zhang Zhidong, a Chinese graduate, is accused of being Mexico's 'fentanyl king,' allegedly linking Chinese chemical suppliers to Mexican drug labs. Cartel members and former colleagues have described his role in this illicit network.",
+      "tags": [
+        "crime",
+        "drugs",
+        "mexico"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ea4df7886f3ac6bd",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: At the scene where Bangkok's deadly bar fire unfolded",
+      "url": "https://www.bbc.co.uk/news/videos/clyrd9nwn9wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC’s South East Asia correspondent reported directly from the scene of a deadly bar fire in Thailand where at least 27 people were killed. This on-site report provided immediate coverage of the tragic event.",
+      "tags": [
+        "thailand",
+        "disaster",
+        "fire"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7ebbc208045e7aa0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
+      "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
+      "summary": "A minister suggested that a wildfire raging south of Paris, which required firefighting planes from typically drier regions, might have been deliberately set. This incident marks an unusual occurrence for the Paris region.",
+      "tags": [
+        "wildfire",
+        "france",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f00c0d66615a4f37",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
+      "url": "https://jivx.com/densha",
+      "summary": "An interactive experience features a voxel-based recreation of Tokyo, allowing users to ride the Yamanote line in real-time. This blend of virtual exploration and language learning is presented as a tool for studying Japanese.",
+      "tags": [
+        "japan",
+        "virtual reality",
+        "education"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7c72ebdaaaf5e79e",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Backtrack-Free Cursive",
+      "url": "https://mmapped.blog/posts/52-backtrack-free-cursive",
+      "summary": "The article explores the concept of \"backtrack-free cursive,\" likely examining an algorithmic approach to generating cursive script without retracing paths. This topic would appeal to those interested in digital typography or computational geometry.",
+      "tags": [
+        "typography",
+        "algorithms",
+        "programming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "022379ee4cf3357d",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Control the Ideas, Not the Code",
+      "url": "https://antirez.com/news/169",
+      "summary": "This article discusses the philosophy of controlling intellectual property or influence through ideas rather than strictly owning the code. It advocates for focusing on the conceptual framework over specific implementation details in software development.",
+      "tags": [
+        "philosophy",
+        "software",
+        "ideas"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0f39d97617221de4",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Cyberpunk Comics, Manga and Graphic Novels",
+      "url": "https://shellzine.net/cyberpunk-comics/",
+      "summary": "This piece compiles or discusses various cyberpunk-themed comics, manga, and graphic novels, serving as a resource for fans of the genre. It offers reading recommendations within visual storytelling formats.",
+      "tags": [
+        "cyberpunk",
+        "comics",
+        "manga"
+      ],
+      "priority": false
+    },
+    {
+      "id": "acfcf5e61209cf86",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Designing and assembling my first PCB",
+      "url": "https://vilkeliskis.com/b/2026/0711.html",
+      "summary": "An individual recounts the process and experience of designing and assembling their first Printed Circuit Board (PCB). The piece likely covers the learning curve, challenges, and satisfaction of embarking on an electronics project.",
+      "tags": [
+        "electronics",
+        "diy",
+        "pcb"
+      ],
+      "priority": false
+    },
+    {
+      "id": "30eee13776324978",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Grok CLI uploaded the whole home directory to GCS",
+      "url": "https://twitter.com/i/status/2076598897779020159",
+      "summary": "A user reported that the Grok CLI was observed uploading their complete home directory to Google Cloud Storage (GCS). This serious privacy breach highlights potential vulnerabilities in the design and deployment of AI applications.",
+      "tags": [
+        "ai",
+        "privacy",
+        "security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e515a960ccc3431f",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Grok uploaded my user directory to xAI's servers",
+      "url": "https://twitter.com/a_green_being/status/2076598897779020159",
+      "summary": "Reports indicate that the Grok CLI inadvertently uploaded a user's entire home directory to xAI's servers. This incident raises significant privacy and security concerns regarding data handling by AI tools.",
+      "tags": [
+        "ai",
+        "privacy",
+        "security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cd402978034437e8",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "How to read more books",
+      "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
+      "summary": "This article offers advice and strategies for individuals looking to increase their reading volume and improve their reading habits. It caters to those seeking to cultivate a stronger connection with literature and information.",
+      "tags": [
+        "reading",
+        "self-improvement",
+        "productivity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "94b3531394717c49",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
+      "url": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
+      "summary": "An account details an extensive Interrail trip covering 6,379 kilometers across 13 countries over a seven-week period. The article likely explores the experiences and logistical challenges of this prolonged European rail adventure.",
+      "tags": [
+        "travel",
+        "europe",
+        "interrail"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8d3a8c7d1390eb13",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "LARP – Revenue infrastructure for serious founders",
+      "url": "https://www.larp.website/",
+      "summary": "LARP is introduced as a revenue infrastructure solution designed for \"serious founders,\" offering tools and services to manage and optimize income streams for startups. It aims to provide essential financial scaffolding for growing businesses.",
+      "tags": [
+        "startups",
+        "business",
+        "finance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "30953b28dfbadd7e",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The Graph That Should Be Front-Page News",
+      "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
+      "summary": "The article highlights a significant graph that the author believes warrants prominent media attention, suggesting it reveals crucial information about a current event or trend. It calls for broader public awareness of its implications.",
+      "tags": [
+        "data",
+        "analysis",
+        "media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8f8e109dfbead124",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Tiny Emulators",
+      "url": "https://floooh.github.io/tiny8bit-preview/index.html",
+      "summary": "This article delves into \"Tiny Emulators,\" discussing highly optimized or minimalist emulation software for older computing systems. It targets enthusiasts of retro gaming, computer history, and efficient programming.",
+      "tags": [
+        "emulation",
+        "retrocomputing",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0133be5a597b9cfa",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+      "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+      "summary": "The creator of the Zig programming language reportedly criticized Anthropic, implying dishonesty or exaggerated claims in the industry. The piece suggests a critical perspective on specific company behaviors or general industry practices.",
+      "tags": [
+        "programming",
+        "anthropic",
+        "critique"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d7679b880d396d11",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "A guard punched him on camera. It was still nearly impossible for him to sue",
+      "url": "https://www.npr.org/2026/07/13/nx-s1-5825915/prison-grievance-retaliation-complaints",
+      "summary": "An investigation by NPR and The Marshall Project reveals that prisoners face immense challenges suing for mistreatment, even with video evidence, often due to retaliation for filing complaints. This highlights systemic issues within the prison grievance process.",
+      "tags": [
+        "justice",
+        "civil rights",
+        "prison"
+      ],
+      "priority": false
+    },
+    {
+      "id": "adf0493c0df6baa8",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "EV battery recycling has a math problem",
+      "url": "https://www.npr.org/2026/07/13/nx-s1-5847025/ev-battery-recycling-economics",
+      "summary": "Electric vehicle battery recycling faces an economic hurdle where the cost to recycle some batteries exceeds their material worth. A new Colorado law aims to address these challenges and improve the financial viability of EV battery recycling.",
+      "tags": [
+        "ev",
+        "recycling",
+        "economics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a42c6ad517fca57b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Jubilee Media helps politicians connect with young people through viral debate videos",
+      "url": "https://www.npr.org/2026/07/13/nx-s1-5870650/jubilee-media-helps-politicians-connect-with-young-people-through-viral-debate-videos",
+      "summary": "Jubilee Media is helping politicians connect with young people through viral debate videos on YouTube, particularly via its \"Surrounded\" show. This platform has become a significant avenue for politicians seeking to engage with younger demographics.",
+      "tags": [
+        "media",
+        "politics",
+        "youth"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f5d7e96c45b472c2",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/07/13/nx-s1-5885745/morning-news-brief",
+      "summary": "The U.S. strikes Iran for a third weekend as Iran retaliates by hitting Gulf nations, Sen. Lindsey Graham died Saturday at the age of 71, Congress returns from recess this week.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "2b8ac245f073ddd1",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Pythons' extreme biology may hold clues for treating human disease",
+      "url": "https://www.npr.org/2026/07/13/nx-s1-5887668/pythons-metabolism-digestion-human-disease-treatment",
+      "summary": "The extreme biology of pythons, including their ability to fast for months, alter heart size, and rapidly boost metabolism, is being studied for potential clues in treating human diseases. These unique physiological traits could offer new medical insights.",
+      "tags": [
+        "science",
+        "biology",
+        "medicine"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a91c656afff94aa0",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Sam Neill, known for 'Jurassic Park' and 'The Piano,' dies at 78, his family says",
+      "url": "https://www.npr.org/2026/07/13/nx-s1-5891505/actor-sam-neill-dies",
+      "summary": "In 2023, Neill disclosed he had been diagnosed with angioimmunoblastic T-cell lymphoma, a rare type of non-Hodgkin lymphoma. Neill died on Monday in Sydney, according to a statement posted to the actor's social media page.\n(Image credit: Richard Shotwell/AP Photo)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "3cace5d5cfeee83a",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "The U.S.-Iran ceasefire grows more distant. And, Congress faces a consequential week",
+      "url": "https://www.npr.org/2026/07/13/g-s1-133269/up-first-newsletter-us-iran-war-congress-lindsey-graham-gaza-israel-hussam-abu-safiya",
+      "summary": "The U.S. and Iran exchanged fire over the weekend amid tensions over the Strait of Hormuz. And, Congress returns from recess facing tight deadlines.\n(Image credit: Majid Saeedi)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "97614cb38818b220",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "McMaster, Trump look to Graham's sister for Senate",
+      "url": "https://www.politico.com/news/2026/07/13/trump-lindsey-graham-replacement-mcmaster-00994800",
+      "summary": "President Donald Trump said Monday he wants South Carolina Gov. Henry McMaster to appoint Lindsey Graham’s sister, Darline Graham Nordone, to serve the remainder of the late senator’s term.\nOne Republican familiar with McMaster’s plans said the governor intends to appoint Nordone…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "08a146b65d26180b",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "Why Am I Left-Handed?",
+      "url": "https://www.quantamagazine.org/why-am-i-left-handed-20260713/",
+      "summary": "The author, a left-handed individual who initially mirror-wrote, explores the phenomenon of left-handedness in this piece. It delves into both the scientific understanding and personal experiences related to handedness.",
+      "tags": [
+        "science",
+        "biology",
+        "psychology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "18359db2d8718213",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Directly Responsible Individuals (DRI)",
+      "url": "https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything",
+      "summary": "The concept of \"Directly Responsible Individuals\" (DRI) from Apple, denoting ultimate project accountability, is discussed in relation to AI ethics. The author argues that LLM-powered agents should never be DRIs, as accountability is a uniquely human trait.",
+      "tags": [
+        "management",
+        "ai ethics",
+        "accountability"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ad313b35ac0a2626",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Fable gets another bump",
+      "url": "https://simonwillison.net/2026/Jul/12/bump/#atom-everything",
+      "summary": "One of the consequences of GPT-5.6 Sol being clearly a Fable/Mythos class model is that Anthropic have, once again,\nbumped the date\nthat Fable stops being available in their Claude Max plans:\nWe're extending Claude Fable 5 access on all paid plans, as well as keeping Claude Code’…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "af7645a5d3846a12",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "shot-scraper 1.11",
+      "url": "https://simonwillison.net/2026/Jul/12/shot-scraper/#atom-everything",
+      "summary": "Shot-scraper 1.11 is released with minor improvements, focusing on command option consistency and enhanced server startup waiting times. New features include a `--js-file` option for loading JavaScript from files and a `--timeout` option for various commands.",
+      "tags": [
+        "software",
+        "web development",
+        "cli"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6385ef38eb6f3117",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "sqlite-utils 4.1.1",
+      "url": "https://simonwillison.net/2026/Jul/12/sqlite-utils/#atom-everything",
+      "summary": "Sqlite-utils 4.1.1 is released, primarily fixing an edge case in `table.transform()` regarding foreign key constraints and transactions. The update also includes improved cross-referencing in its CLI and Python API documentation.",
+      "tags": [
+        "sqlite",
+        "software",
+        "database"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b9861a40baaa01fd",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "summary": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "b776fbba0cfc52ff",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "As TV-tracking app TV Time shuts down, its founder builds Bingers, a new home for fans",
+      "url": "https://techcrunch.com/2026/07/13/as-tv-tracking-app-tv-time-shuts-down-its-founder-builds-bingers-a-new-home-for-fans/",
+      "summary": "The founder of the defunct TV-tracking app TV Time is developing a successor called Bingers, designed to allow users to import their watch histories. This new platform aims to preserve the community aspect that formed around discussing favorite shows.",
+      "tags": [
+        "apps",
+        "entertainment",
+        "community"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fb3d834457cce58b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "LAPD lets contract with surveillance giant Flock expire, citing ‘serious concerns’ over civil liberties and privacy",
+      "url": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
+      "summary": "The LAPD has ended its contract with surveillance company Flock, citing \"serious concerns\" over civil liberties and privacy. This decision reflects growing scrutiny regarding the use of such technologies by law enforcement agencies.",
+      "tags": [
+        "surveillance",
+        "privacy",
+        "policing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "63233c6898882fcc",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "TechCrunch Mobility: A robotaxi ultimatum",
+      "url": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
+      "summary": "TechCrunch Mobility explores the future of transportation, emphasizing the growing role of AI, particularly in the context of robotaxis. The segment highlights a critical juncture for these technologies, referring to it as a \"robotaxi ultimatum.\"",
+      "tags": [
+        "mobility",
+        "robotaxis",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "59439540c9545915",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Uber’s robotaxi lobbying effort puts it on a collision course with Waymo",
+      "url": "https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/",
+      "summary": "Uber's intense lobbying efforts for robotaxi deployment are leading to a direct conflict with rival Waymo in Washington, D.C. The capital has become a battleground for the companies' differing views on autonomous vehicle regulation.",
+      "tags": [
+        "robotaxis",
+        "policy",
+        "autonomous vehicles"
+      ],
+      "priority": false
+    },
+    {
+      "id": "baa12a1425c1f851",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Waze adds new AI-powered features and customization updates",
+      "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "7fcfb50f4635982a",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Arthur Brooks: Could a Machine Write This Column?",
+      "url": "https://www.thefp.com/p/arthur-brooks-could-ai-machine-write",
+      "summary": "Arthur Brooks considers whether AI could write a column on American self-improvement, linking this cultural drive to historical figures like Benjamin Franklin and modern academics. He contrasts American ambition with European consumption habits.",
+      "tags": [
+        "ai",
+        "culture",
+        "self-improvement"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5926b034e4d777ce",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Ditching Platner May Not Be a Win for Democrats",
+      "url": "https://www.thefp.com/p/graham-platner-withdrawal-senate-democrats",
+      "summary": "Graham Platner withdrew his Senate nomination after weeks of scandal, despite overwhelming Democratic primary support for his policy aspirations. His withdrawal, amidst accusations of misconduct, highlights voter desperation for change and underlying party sentiment.",
+      "tags": [
+        "politics",
+        "democrats",
+        "election"
+      ],
+      "priority": false
+    },
+    {
+      "id": "29fdbfb49949e2c7",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "In Defense of Elites, with Richard Hanania",
+      "url": "https://www.thefp.com/p/conversations-with-coleman-richard-hanania",
+      "summary": "Richard Hanania, a political scientist and writer, is introduced as a critic of woke ideology and populism. His new book, \"Kakistocracy: Why Populism Ends in Disaster,\" explores the failures of populist movements.",
+      "tags": [
+        "politics",
+        "populism",
+        "sociology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3b5e6ecb101d993a",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "I’m a Brown University Professor. Half My Students Are Cheating.",
+      "url": "https://www.thefp.com/p/brown-university-ai-cheating-academic-integrity",
+      "summary": "A Brown University economics professor suspects over half his students cheated on a take-home exam, with ChatGPT matching many answers. The incident highlights concerns about academic integrity with new AI tools and the university's slow response.",
+      "tags": [
+        "education",
+        "cheating",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "449ed7e91b8a19e0",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "What Lindsey Graham Understood",
+      "url": "https://www.thefp.com/p/lindsey-graham-obituary-legacy",
+      "summary": "The republic lost a giant when Lindsey Graham dropped dead on Saturday night at the age of 71. The four-term Republican senator from South Carolina was a throwback and an enigma: a Donald Trump loyalist who maintained friendships with the president’s Democratic opposition, an int…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "17759a66f2712f86",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+      "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "summary": "Apple's unsuccessful self-driving car program inadvertently led to the development of powerful on-device AI processing through its Neural Engine. This technology, which debuted in the iPhone X, now underpins Apple's AI capabilities, primarily for computer vision.",
+      "tags": [
+        "apple",
+        "ai",
+        "self-driving cars"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8d5973126506226f",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Even Nvidia’s head of automotive fights with Nvidia for compute",
+      "url": "https://www.theverge.com/podcast/964614/nvidia-auto-xinzhou-wu-ev-ai-hyperion-autonomy-cars-tesla",
+      "summary": "Nvidia's head of automotive, Xinzhou Wu, discussed the auto industry's shift to \"AI-defined vehicles\" and the internal challenge of securing compute resources amid Nvidia's AI boom. He highlighted that self-driving systems, like those in new Mercedes EVs, are moving away from numerous electronic control units to a few powerful computers.",
+      "tags": [
+        "nvidia",
+        "automotive",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "94d83ff6a55c1b45",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+      "summary": "During a performance, singer Lorde criticized AI smartglasses, likely referencing Ray-Ban Meta AI glasses, calling them \"not sexy.\" Her comments reflected concerns about the increasing difficulty of discerning reality when people might be secretly recording.",
+      "tags": [
+        "ai",
+        "smartglasses",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1c0d7ec21c9af2d2",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Shall We Go On Sinning So That Grace May Increase? is hypnotic, healing, and hopeful",
+      "url": "https://www.theverge.com/entertainment/964532/the-soft-pink-truth-shall-we-go-on-sinning-so-that-grace-may-increase-review",
+      "summary": "The Soft Pink Truth's album, \"Shall We Go On Sinning So That Grace May Increase?\", is reviewed as hypnotic, healing, and hopeful. It showcases Drew Daniel's prolific nature and his diverse musical exploration.",
+      "tags": [
+        "music",
+        "review",
+        "album"
+      ],
+      "priority": false
+    },
+    {
+      "id": "57d8b734aaa6c006",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Social media limits are coming for teens across Europe",
+      "url": "https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules",
+      "summary": "The European Union is considering strict new rules for children and teenagers on social media, potentially including age limits, bans, or phased access to platforms. European Commission President Ursula von der Leyen emphasized the focus on controlling social media's access to children.",
+      "tags": [
+        "eu",
+        "social media",
+        "regulation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "55d9d0bf6f3fba67",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "This free Mac app reveals the truth about your mystery USB-C cables",
+      "url": "https://www.theverge.com/gadgets/963759/whatcable-usb-c-cable-tester-app-mac",
+      "summary": "A new free Mac app called WhatCable allows Apple Silicon Mac users to easily test USB-C cables by accessing existing data about attached devices. This tool provides an intuitive and cost-effective way to identify a cable's capabilities after a popular hardware tester was discontinued.",
+      "tags": [
+        "mac",
+        "usb-c",
+        "utility"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0bf820ae4b322769",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Waze is getting a bunch of new AI-powered features",
+      "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "summary": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more.\nOf the four new updates, only two are being described as involving Gemini. Waze says its updating it…",
+      "tags": [],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 89,
+    "summarized": 69,
+    "skipped_promos": 2,
+    "filtered_by_rules": 18,
+    "sources": 11,
+    "email_items_omitted": 0
+  }
+}
