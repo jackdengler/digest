@@ -1,0 +1,1212 @@
+{
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T15:19:22+00:00",
+  "hot_topics": [
+    {
+      "topic": "New York pauses data center construction",
+      "synthesis": "New York is the first state to implement a one-year moratorium on large data center construction, seeking to establish development standards. This decision, driven by concerns over pollution, energy costs, and water supplies, comes amidst national calls for similar regulations.",
+      "item_ids": [
+        "ebc0ea1d921b0b76",
+        "851098029284f4b4"
+      ]
+    },
+    {
+      "topic": "Apple sues OpenAI over alleged trade secret theft",
+      "synthesis": "Apple has launched a high-profile lawsuit against OpenAI, alleging that former Apple employees stole confidential information for OpenAI's benefit. The lawsuit claims a 'grand scheme' to fast-track AI-powered devices, potentially impacting OpenAI's IPO and the reputations of its leadership.",
+      "item_ids": [
+        "1c200b04132dd870",
+        "a30947fd02db5935",
+        "ea09e0f7b8299e53",
+        "be667943755ccfa4"
+      ]
+    },
+    {
+      "topic": "US reimposes Strait of Hormuz blockade and tolls",
+      "synthesis": "The United States is reinstating a blockade on Iranian ships in the Strait of Hormuz and imposing a 20 percent toll on all traffic, escalating tensions with Iran. This move aims to reassert America's strategic position after a previous ceasefire failed to open the critical waterway.",
+      "item_ids": [
+        "f124d2bc21635c64",
+        "fdd7019d8db5d8f1",
+        "0a2950b5bb3d2dee",
+        "6e89f3ecbc6d6b8c"
+      ]
+    },
+    {
+      "topic": "States challenge Paramount-Warner Bros merger",
+      "synthesis": "Multiple US states are suing to block Paramount's $110 billion acquisition of Warner Bros., arguing the deal would harm competition. This legal action highlights concerns that the massive media merger would negatively impact movie theaters, cable distributors, and audiences.",
+      "item_ids": [
+        "c13d61fee80ce495",
+        "f124d2bc21635c64",
+        "0a2950b5bb3d2dee"
+      ]
+    },
+    {
+      "topic": "ICE agent kills Colombian national in Maine operation",
+      "synthesis": "A Colombian national was fatally shot by an ICE agent during an operation in Maine, marking the second such incident involving an immigration agent within a week. This event has drawn attention to federal law enforcement actions and immigration enforcement.",
+      "item_ids": [
+        "c6858bdc3d985bfe",
+        "f124d2bc21635c64",
+        "0a2950b5bb3d2dee"
+      ]
+    },
+    {
+      "topic": "Lindsey Graham's sister appointed to fill Senate term",
+      "synthesis": "Following Senator Lindsey Graham's death, his sister Darline Graham Nordone has been appointed by South Carolina Governor Henry McMaster to serve the remainder of his term. This interim appointment, supported by President Trump, sets the stage for a new primary election for the full term.",
+      "item_ids": [
+        "eea81fd2eab6c0a0",
+        "c4a2cb0b675f2b4a",
+        "1711e6da69ee9984"
+      ]
+    },
+    {
+      "topic": "Calls for AI regulation and ethical oversight",
+      "synthesis": "Calls for stronger AI regulation are growing, with Google DeepMind CEO Demis Hassabis advocating for a US-led global AI watchdog to evaluate frontier models. Concerns also highlight the 'peril' of AI in childhood, as companies like Microsoft issue warnings about the potential downsides of proprietary AI systems.",
+      "item_ids": [
+        "3f7a1cf814cafbf7",
+        "7a227c461c401ddb",
+        "2cb09abd02c4dddd"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "c9ec9bcf04f6f7ef",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Apple and Samsung benefit as memory shortage pushes smartphone shipments to historic lows",
+      "url": "https://arstechnica.com/gadgets/2026/07/apple-and-samsung-benefit-as-memory-shortage-pushes-smartphone-shipments-to-historic-lows/",
+      "summary": "Smartphone shipments experienced an 11 percent drop in the last quarter, reaching their lowest second-quarter level since 2013, primarily due to increasing DRAM and NAND chip prices. Memory manufacturers are prioritizing the AI computing boom, leading to fewer components for consumer devices and disproportionately affecting budget phone prices.",
+      "tags": [
+        "smartphones",
+        "supply chain",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1c200b04132dd870",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+      "summary": "Apple is gunning for OpenAI, demanding steep penalties after stumbling on a “rare” bug that temporarily allowed a poached employee that joined OpenAI to maintain access to confidential information on Apple servers for weeks after his termination.\nIn a\nlawsuit\nfiled Friday, Apple…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "589b0612285ba0e9",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Boomers, not Gen Z, are the generation cutting back most on alcohol",
+      "url": "https://arstechnica.com/health/2026/07/boomers-not-gen-z-are-the-generation-cutting-back-most-on-alcohol/",
+      "summary": "Baby boomers are reducing their alcohol consumption more significantly than Gen Z, according to market research. Seventy-one percent of boomers drank in the past six months, a 2 percentage point drop from three years ago, while Gen Z's drinking rate rose to 74 percent.",
+      "tags": [
+        "health",
+        "demographics",
+        "lifestyle"
+      ],
+      "priority": false
+    },
+    {
+      "id": "77f12334c6192e25",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "California creates $3,500 rebate for new electric vehicle buyers",
+      "url": "https://arstechnica.com/cars/2026/07/first-time-ev-buyers-in-california-can-now-claim-a-new-rebate/",
+      "summary": "California Governor Gavin Newsom signed a new law providing a $3,500 rebate for first-time electric vehicle buyers in the state. This initiative aims to stimulate EV adoption after a nationwide decline following the abolition of federal tax credits.",
+      "tags": [
+        "ev",
+        "policy",
+        "california"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f6a4f1ce6e5a84bb",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Hackers quickly prove that Neo Geo Doom ports are not \"impossible\"",
+      "url": "https://arstechnica.com/gaming/2026/07/hackers-quickly-prove-that-neo-geo-doom-ports-are-not-impossible/",
+      "summary": "Hackers have made significant progress toward functional Doom ports on stock Neo Geo hardware, despite earlier assertions that it was impossible due to hardware limitations. Two projects demonstrate how clever coding can coax surprising results from legacy hardware, albeit with graphical compromises.",
+      "tags": [
+        "gaming",
+        "hacking",
+        "retrocomputing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ebc0ea1d921b0b76",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "New York bans data center construction for a year, rattling AI industry",
+      "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
+      "summary": "New York became the first state to pause all construction of massive new data centers after Democratic Governor Kathy Hochul announced a one-year moratorium on Tuesday, Reuters\nreported\n.\nThe state-wide ban applies to data centers using 50 megawatts or more, officials told Reuter…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c3b6bf3beee84e13",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Tom Cruise is utterly transformed in Digger trailer",
+      "url": "https://arstechnica.com/culture/2026/07/digger-trailer-is-giving-big-dr-strangelove-vibes/",
+      "summary": "The official trailer for \"Digger,\" a satirical black comedy directed by Alejandro G. Iñárritu, has been released, garnering strong buzz. Tom Cruise is reportedly \"unrecognizable\" in his role as eccentric billionaire oil baron Digger Rockwell, who faces an ecological disaster involving a melting iceberg and nuclear waste.",
+      "tags": [
+        "film",
+        "entertainment",
+        "hollywood"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ecb599fe2ac35de1",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Ukrainian drone strikes forced Russia to stop shipping in vital sea corridor",
+      "url": "https://arstechnica.com/gadgets/2026/07/ukrainian-drone-strikes-forced-russia-to-stop-shipping-in-vital-sea-corridor/",
+      "summary": "Ukrainian drone strikes have halted Russian shipping in the Sea of Azov and Kerch Strait, effectively blockading vital maritime corridors. This action further isolates the Russian-occupied Crimean Peninsula by cutting off seaborne fuel deliveries amidst ongoing Ukrainian drone campaigns.",
+      "tags": [
+        "military",
+        "ukraine",
+        "russia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3dba09870e063387",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "US continues to shun Ebola-infected citizens; second American sent to Germany",
+      "url": "https://arstechnica.com/health/2026/07/us-continues-to-shun-ebola-infected-citizens-second-american-sent-to-germany/",
+      "summary": "A second US citizen infected with the Ebola Bundibugyo strain in the Democratic Republic of Congo has been sent to Germany for care, not the US. The Trump administration has continued an isolationist approach, implementing travel restrictions and blocking repatriation despite available US facilities.",
+      "tags": [
+        "health",
+        "policy",
+        "international relations"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3ad93f334897c663",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
+      "url": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss",
+      "summary": "Svetlana Grković recounted her harrowing experience after her husband was nearly sucked out of a Ryanair plane, stating he is \"seriously injured and in shock.\" The couple faced a terrifying ordeal mid-flight.",
+      "tags": [
+        "aviation",
+        "accident",
+        "news"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fecb519f0f0c294b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Australian police reveal unseen photos 25 years after British backpacker murder",
+      "url": "https://www.bbc.co.uk/news/articles/crlwln0gkzlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Australian police have released previously unseen photos 25 years after the murder of British backpacker Peter Falconio, hoping they will generate new leads to find his body. The images aim to jog public memories for the cold case.",
+      "tags": [
+        "australia",
+        "crime",
+        "investigation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "34e41e6de4a67068",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Bangkok fire investigation finds locked doors and flammable decor as deaths climb to 30",
+      "url": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
+      "summary": "An investigation into a Bangkok fire, which killed 30 people, has revealed locked doors and flammable decor contributed to the high casualty count. Survivors and first responders reported a lack of accessible emergency exits.",
+      "tags": [
+        "thailand",
+        "disaster",
+        "safety"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a51ffc030d72628c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Bison rams grandfather in Yellowstone Park, knocking him metres into the air",
+      "url": "https://www.bbc.co.uk/news/articles/c2dy9krpydlo?at_medium=RSS&at_campaign=rss",
+      "summary": "A bison in Yellowstone Park charged and rammed a grandfather, launching him several meters into the air, despite him and his grandson appearing to be at a safe distance initially. The incident highlights the dangers of wildlife encounters.",
+      "tags": [
+        "yellowstone",
+        "wildlife",
+        "incident"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ddf4d7d05ad922d5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
+      "url": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Malcolm Timbrell recounted surviving a devastating wildfire in Spain by staying in his car, while his wife and friends died attempting to flee on foot. The blaze tore through their village, leading to tragic loss of life.",
+      "tags": [
+        "spain",
+        "wildfire",
+        "tragedy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c6858bdc3d985bfe",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Colombian national killed by ICE agent during operation in Maine",
+      "url": "https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes less than a week after an undocumented migrant was fatally shot in Houston by an immigration agent.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "8a943fe1482a555d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Diamond giant De Beers halts work at flagship South African mine as demand plummets",
+      "url": "https://www.bbc.co.uk/news/articles/cjrgr7lr1ejo?at_medium=RSS&at_campaign=rss",
+      "summary": "De Beers has halted production for two years at its flagship Venetia diamond mine in South Africa, affecting over 4,000 employees. This decision comes amidst a steep decline in diamond demand.",
+      "tags": [
+        "mining",
+        "economy",
+        "south africa"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9fcfb69c4030612c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "EU bans gold imports from Sudan to curb money financing the war",
+      "url": "https://www.bbc.co.uk/news/articles/ce3e3nqwr5do?at_medium=RSS&at_campaign=rss",
+      "summary": "The EU has banned gold imports from Sudan and restricted exports of mercury and cyanide to the country, aiming to curb funding for the ongoing war. These measures target key resources used in Sudan's gold mining sector.",
+      "tags": [
+        "eu",
+        "sudan",
+        "sanctions"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1853864cd1087b21",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How India's Lord's win echoes the legacy of its pioneering women cricketers",
+      "url": "https://www.bbc.co.uk/news/articles/cd0m1rjyxmmo?at_medium=RSS&at_campaign=rss",
+      "summary": "India secured its first women's Test win at Lord's, a victory that resonates with the legacy of its pioneering women cricketers. This achievement follows 142 years after India's first men's Test.",
+      "tags": [
+        "cricket",
+        "india",
+        "sports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "286d5b0a379f09aa",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
+      "url": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss",
+      "summary": "British whistleblower Simon Andriesz uncovered links between US Commerce Secretary Howard Lutnick and Jeffrey Epstein through publicly released files. The discovery shed light on the official's association.",
+      "tags": [
+        "politics",
+        "epstein",
+        "investigation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "53cf52ab19719ffe",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Hungary parliament votes to remove president from office",
+      "url": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hungary's parliament has voted to remove President Tamás Sulyok from office, who was widely considered a loyalist of former Prime Minister Viktor Orbán. This follows Orbán's loss of power in April after 16 years.",
+      "tags": [
+        "hungary",
+        "politics",
+        "government"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0706f9f8d65de682",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Identity of Sydney daycare worker facing 329 child abuse offences revealed",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzy0lpello?at_medium=RSS&at_campaign=rss",
+      "summary": "The identity of Sydney daycare worker Hamish Tait has been revealed; he is accused of 329 child abuse offenses involving 136 children across five facilities over a 16-year period. The extensive charges highlight a long-term pattern of alleged abuse.",
+      "tags": [
+        "australia",
+        "crime",
+        "child abuse"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f1aba33da4964188",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Israeli strike on police post in north Gaza kills seven, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
+      "summary": "An Israeli strike on a police post in north Gaza reportedly killed seven people, including a senior officer in the Hamas-run police force. Israel's military stated it targeted \"terrorists.\"",
+      "tags": [
+        "israel",
+        "gaza",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "eea81fd2eab6c0a0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Lindsey Graham's sister chosen as replacement after senator's death",
+      "url": "https://www.bbc.co.uk/news/articles/c05y3rlvp20o?at_medium=RSS&at_campaign=rss",
+      "summary": "The South Carolina governor chose the senator's little sister to serve out the rest of his term after Graham's death on Saturday.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "ad9e3d9d00803501",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Singapore court orders Bloomberg to pay $356,000 to ministers in defamation case",
+      "url": "https://www.bbc.co.uk/news/articles/cx232p85lp5o?at_medium=RSS&at_campaign=rss",
+      "summary": "A Singapore court ordered Bloomberg to pay $356,000 to several ministers in a defamation case. The ministers successfully argued that an article citing their luxury bungalow deals had damaged their reputations.",
+      "tags": [
+        "singapore",
+        "media",
+        "lawsuit"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d02011f2457c25f9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates",
+      "url": "https://www.bbc.co.uk/news/articles/c621p9yjz1zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK and Switzerland have signed a new services deal that will scrap roaming charges and allow Britons to use e-gates. The agreement is projected to increase UK exports by £5.2 billion annually \"in the long run.\"",
+      "tags": [
+        "uk",
+        "switzerland",
+        "trade"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1d3b561672f3d83d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US burrito giant Chipotle opening first outlet in Mexico",
+      "url": "https://www.bbc.co.uk/news/articles/c0ryr89gp09o?at_medium=RSS&at_campaign=rss",
+      "summary": "US burrito chain Chipotle is opening its first outlet in Mexico, facing the challenge of other American fast-food brands that have struggled in their dishes' countries of origin. This expansion marks a significant step for the company.",
+      "tags": [
+        "chipotle",
+        "business",
+        "mexico"
+      ],
+      "priority": false
+    },
+    {
+      "id": "08fa3d62c63bb8b7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits",
+      "url": "https://www.bbc.co.uk/news/articles/cn8q0e8d4ego?at_medium=RSS&at_campaign=rss",
+      "summary": "A US judge voided Donald Trump's $1.8 billion settlement with the IRS, which had granted him immunity from tax audits, stating the suit was filed for \"improper purposes.\" The judge also referred a Trump attorney for potential disciplinary action.",
+      "tags": [
+        "trump",
+        "legal",
+        "taxes"
+      ],
+      "priority": false
+    },
+    {
+      "id": "535df770c5286754",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Volkswagen planning to cut up to 100,000 jobs globally",
+      "url": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Volkswagen, including brands like Porsche and Audi, plans to cut up to 100,000 jobs worldwide due to a steep fall in profits and fierce competition from China. This major restructuring reflects challenges in the global automotive market.",
+      "tags": [
+        "volkswagen",
+        "automotive",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5f97eabeedd95de7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
+      "url": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&at_campaign=rss",
+      "summary": "Horses were evacuated from a riding center near Paris as a fire in the Fontainebleau forest, described as \"exceptional scale,\" continued to rage for a second day. The blaze threatened local equestrian facilities.",
+      "tags": [
+        "france",
+        "wildfire",
+        "animals"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9c9ba2e93af30755",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
+      "url": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Yemen's Iran-backed Houthis launched missiles at Saudi Arabia's Abha airport, claiming it was in retaliation for Saudi strikes on Sanaa airport. The Houthis blame Saudi Arabia for the attack in Yemen's capital.",
+      "tags": [
+        "yemen",
+        "saudi arabia",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fb1892e80250313c",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Australian energy retailers must provide three hours of free daytime electricity",
+      "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+      "summary": "Australian energy retailers are now required to provide three hours of free daytime electricity to customers. This policy aims to benefit consumers, particularly given how it works in practice.",
+      "tags": [
+        "australia",
+        "energy",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "749ca19771f71f14",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Codex starts encrypting sub-agent prompts",
+      "url": "https://github.com/openai/codex/issues/28058",
+      "summary": "OpenAI's Codex has begun encrypting sub-agent prompts, a development discussed on GitHub. This change likely enhances the privacy and security of interactions within the system.",
+      "tags": [
+        "openai",
+        "security",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1f0e27c42ce4d994",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Fundamentals of Wireless Communication (2005)",
+      "url": "https://web.stanford.edu/~dntse/wireless_book.html",
+      "summary": "\"Fundamentals of Wireless Communication,\" a book from 2005 by David Tse and Pramod Viswanath, is available online via Stanford. It offers foundational knowledge in wireless communication theory.",
+      "tags": [
+        "telecommunications",
+        "education",
+        "science"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7beda594ef41b367",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Germany set to restrict its Freedom of Information Act",
+      "url": "https://www.dw.com/en/germany-freedom-of-information-act/a-77939695",
+      "summary": "Germany is reportedly planning to restrict its Freedom of Information Act, as indicated by discussions around the article's content. This move could impact transparency and public access to government information.",
+      "tags": [
+        "germany",
+        "policy",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "aeacf6383c81ba87",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The git history command",
+      "url": "https://lalitm.com/post/git-history/",
+      "summary": "A blog post by Lalit M. discusses the `git history` command, providing insights into its functionality. This resource aims to help users better understand and navigate Git commit history.",
+      "tags": [
+        "git",
+        "software development",
+        "version control"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6dc52d522d4b5bd0",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "YouTrackDB is a general-use object-oriented graph database",
+      "url": "https://github.com/JetBrains/youtrackdb",
+      "summary": "YouTrackDB, developed by JetBrains, is presented as a general-use object-oriented graph database. Its open-source nature on GitHub suggests it's designed for broad application.",
+      "tags": [
+        "database",
+        "software",
+        "opensource"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7a227c461c401ddb",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "'The Trojan Teddy Bear': The promise and peril of childhood in the age of AI",
+      "url": "https://www.npr.org/sections/planet-money/2026/07/14/g-s1-133066/the-trojan-teddy-bear-the-promise-and-peril-of-childhood-in-the-age-of-ai",
+      "summary": "AI is moving beyond chatbots and into toys, dolls, and robots built to befriend children. A leading child-development expert says the technology offers real promise — but also risks crowding out the human relationships children need most.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "d42853017d1e45bb",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Inflation slowed sharply -- but it may not last",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5893379/inflation-economy-consumer-prices-federal-reserve",
+      "summary": "Annual inflation slowed sharply to 3.5% in June, down from a three-year high in May, but this may not last due to the resumption of conflict with Iran. Renewed tensions threaten to cause energy costs to spike, potentially pushing inflation back up.",
+      "tags": [
+        "economy",
+        "inflation",
+        "energy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0a2950b5bb3d2dee",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5891540/morning-news-brief",
+      "summary": "Trump says the U.S. will collect tolls and impose blockade in the Strait of Hormuz, man killed by federal agents in Maine, states sue to stop Paramount-Warner Bros merger.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f3c334bca7fbd0ca",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Platner's voters are reeling as Maine Democratic Party races to choose his replacement",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5892502/platner-collins-maine-democratic-party-senate",
+      "summary": "Maine Democratic voters are reacting as the party scrambles to choose a replacement for Graham Platner, who withdrew from his Senate race. Platner's progressive policies had generated considerable enthusiasm among his supporters.",
+      "tags": [
+        "politics",
+        "maine",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ef1bb1695377fc01",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Some states will ask voters to make it harder to pass constitutional amendments",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5877715/direct-democracy-state-constitutional-amendment-thresholds",
+      "summary": "Several states are putting ballot measures before voters this year that would increase the thresholds required to pass state constitutional amendments. Advocates critical of such limits argue they undermine direct democracy.",
+      "tags": [
+        "politics",
+        "democracy",
+        "legislation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fdd7019d8db5d8f1",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "The U.S. is set to reinstate a blockade over the Strait of Hormuz",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5893257/us-iran-updates",
+      "summary": "The U.S. military announced it will begin its blockade of Iranian ships over the Strait of Hormuz on Tuesday, as Iran vowed to assert its own control over the critical international waterway.\n(Image credit: AFP via Getty Images)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "8cb1b48d3df21667",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump's National Guard deployment in D.C. has been extended until 2029",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5892498/national-guard-deployment-dc-2029",
+      "summary": "President Trump's deployment of the National Guard to Washington, D.C., has been extended multiple times and is now set to continue until Inauguration Day 2029. This extended deployment has drawn significant attention.",
+      "tags": [
+        "trump",
+        "politics",
+        "national guard"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f124d2bc21635c64",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "U.S. to reinstate Hormuz blockade. And, states sue over Paramount-Warner deal",
+      "url": "https://www.npr.org/2026/07/14/g-s1-133443/up-first-newsletter-iran-strait-hormuz-maine-ice-shooting-paramount-warner-bros-merger",
+      "summary": "The United States plans to reinstate a blockade over the Strait of Hormuz today. And, several states are suing to stop the massive Paramount-Warner Bros. merger.\n(Image credit: -)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "e1eff3964fe9f1fd",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Why your favorite international artist might be reconsidering their next U.S. tour",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5783845/visa-process-artists-us",
+      "summary": "International artists may be reconsidering US tours due to the increasingly complicated and expensive visa process. The current administration's policies have exacerbated these difficulties.",
+      "tags": [
+        "culture",
+        "policy",
+        "immigration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d56e105a318574d5",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Your cheat sheet to the teams headed to the World Cup semi-finals",
+      "url": "https://www.npr.org/2026/07/14/g-s1-133337/world-cup-final-france-england-spain-argentina",
+      "summary": "This cheat sheet provides information on the teams advancing to the World Cup semi-finals. Fans are eagerly following the final stages of the international tournament.",
+      "tags": [
+        "world cup",
+        "sports",
+        "soccer"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c4a2cb0b675f2b4a",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Lindsey Graham’s sister, Darline, will serve out his Senate term",
+      "url": "https://www.politico.com/news/2026/07/13/lindsey-graham-sister-finish-senate-term-00995350",
+      "summary": "Darline Graham Nordone, Lindsey Graham’s younger sister and close confidant, will serve the remainder of the late senator’s term in Washington.\n“It's my honor to ask his little sister Darline Graham to finish his work for him now,” South Carolina Gov. Henry McMaster said Monday,…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "0b8fec4494d63353",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "datasette code-frequency chart on GitHub",
+      "url": "https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything",
+      "summary": "A GitHub code-frequency chart for the Datasette project shows a significant spike in activity, which the author attributes to the impact of coding agents and advanced LLMs like Opus 4.8, GPT-5.5, Fable 5, and GPT-5.6 Sol. This illustrates how AI-assisted programming has boosted development output.",
+      "tags": [
+        "datasette",
+        "ai",
+        "programming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cc2b33e6c5544166",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "DOOMQL",
+      "url": "https://simonwillison.net/2026/Jul/13/doomql/#atom-everything",
+      "summary": "DOOMQL is a unique Doom-like game implemented as a Python terminal script where SQLite acts as the game engine, handling movement, collision, enemies, and rendering. The creator utilized GPT-5.6 Sol to develop the concept, including a ray tracer in SQLite.",
+      "tags": [
+        "gaming",
+        "sqlite",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c207b4470d82bc84",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Using uvx in GitHub Actions in a cache-friendly way",
+      "url": "https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything",
+      "summary": "A cache-friendly method for using `uvx tool-name` in GitHub Actions workflows involves setting a `UV_EXCLUDE_NEWER` environment variable and incorporating it into the cache key. This approach prevents workflows from repeatedly downloading Python tools and their dependencies from PyPI.",
+      "tags": [
+        "github actions",
+        "python",
+        "devops"
+      ],
+      "priority": false
+    },
+    {
+      "id": "40328533602488c4",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Trump hasn’t even tried to pass an immigration bill",
+      "url": "https://www.slowboring.com/p/trump-hasnt-even-tried-to-pass-an",
+      "summary": "Despite strong rhetoric on immigration, the Trump administration has not sought legislative changes to American immigration law, instead relying on temporary executive actions. This disparity between rhetoric and legislative action suggests immigration may be a pretext for other political agendas rather than a genuine policy focus.",
+      "tags": [
+        "trump",
+        "immigration",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1711e6da69ee9984",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Two Grahams, one wild week",
+      "url": "https://www.slowboring.com/p/two-grahams-one-wild-week",
+      "summary": "Senator Lindsey Graham speaks during a press conference at the U.S. Capitol on April 27, 2026. (Photo by\nHeather Diehl\n/Getty Images)\nThe midterm map moved more this week than in most full months this cycle.\nPrediction markets now put Democrats’ odds of retaking the House at roug…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c13d61fee80ce495",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "12 states sue to block Paramount’s $110B Warner Bros. deal",
+      "url": "https://techcrunch.com/2026/07/13/12-states-sue-to-block-paramounts-110b-warner-bros-deal/",
+      "summary": "The states allege that the deal would harm movie theaters, basic cable distributors, and audiences.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "806e3c7ca9f73d2e",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+      "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+      "summary": "Many successful tech industry figures are re-engaging intensely in the current landscape, seemingly driven by a fear of missing out on AI's transformative moment. This renewed effort is also motivated by the prospect of accumulating further wealth.",
+      "tags": [
+        "tech industry",
+        "ai",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3649226087d9fd37",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "summary": "Nous Research, a company known for its Hermes agent, is reportedly in discussions to secure new funding at a $1.5 billion valuation. The funding round is expected to raise at least $75 million, led by Robot Ventures.",
+      "tags": [
+        "ai",
+        "funding",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f2d7822c14f72d26",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Investors send General Fusion soaring in debut as first publicly traded fusion company",
+      "url": "https://techcrunch.com/2026/07/13/investors-send-general-fusion-soaring-in-debut-as-first-publicly-traded-fusion-company/",
+      "summary": "General Fusion debuted on Nasdaq following a reverse merger, becoming the first publicly traded fusion company despite high redemptions. Investors reacted positively, sending its shares soaring.",
+      "tags": [
+        "fusion energy",
+        "investment",
+        "clean energy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8dbb89ad983ec699",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Iran abused mobile networks’ vulnerabilities to locate U.S. military in the Middle East, report says",
+      "url": "https://techcrunch.com/2026/07/14/iran-abused-mobile-networks-vulnerabilities-to-locate-u-s-military-in-the-middle-east-report-says/",
+      "summary": "A report indicates that the Iranian government exploited vulnerabilities in cellphone networks to locate and target US military personnel in the Middle East. This abuse occurred during the lead-up and beginning of the war.",
+      "tags": [
+        "iran",
+        "cybersecurity",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "48c551f177230154",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "I’m de-influencing you from buying the RingConn 3 (even though it’s pretty)",
+      "url": "https://techcrunch.com/2026/07/14/ringconn-3-review/",
+      "summary": "The RingConn 3, despite its appealing design, is not recommended due to disappointing fitness tracking and headache detection features. It resembles jewelry more than a traditional wearable.",
+      "tags": [
+        "wearable tech",
+        "review",
+        "health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "35e1ea66cab3baf5",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Pinwheel launches a retro-inspired landline phone for kids",
+      "url": "https://techcrunch.com/2026/07/14/pinwheel-launches-a-retro-inspired-landline-phone-for-kids/",
+      "summary": "Kid-friendly tech company Pinwheel has introduced a new landline phone designed for children, offering a way to stay connected without smartphone distractions. The retro-inspired device aims to provide a simpler communication tool.",
+      "tags": [
+        "children",
+        "technology",
+        "parenting"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2fb23642f2633f48",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Reflection inks $1B compute deal with Nebius",
+      "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
+      "summary": "Reflection AI, a company founded in 2024 developing open-source AI technology, has secured a $1 billion compute deal with Nebius. This substantial agreement will support its AI development efforts.",
+      "tags": [
+        "ai",
+        "funding",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2cb09abd02c4dddd",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Satya Nadella has issued a shocking warning to companies using AI",
+      "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "summary": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c4d46d8454b33124",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
+      "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+      "summary": "Spotify is launching a new AI-powered conversational music assistant for Premium subscribers, allowing them to interact with the app to discover music, podcasts, and audiobooks. This feature expands Spotify's integration of AI for content discovery.",
+      "tags": [
+        "spotify",
+        "ai",
+        "music"
+      ],
+      "priority": false
+    },
+    {
+      "id": "11d090483ce01f8c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Superhuman’s new auto-draft feature almost makes me like AI replies",
+      "url": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
+      "summary": "Superhuman's latest AI email drafting feature is noted for its convincing reply generation, often requiring minimal editing in testing. This marks a significant improvement in AI-assisted email composition.",
+      "tags": [
+        "ai",
+        "email",
+        "productivity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "917ffe930b1f891a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Telegram’s shortlink domain is back online after day-long suspension",
+      "url": "https://techcrunch.com/2026/07/14/telegrams-shortlink-domain-is-back-online-after-day-long-suspension/",
+      "summary": "Telegram's shortlink domain has been restored after a day-long suspension, which CEO Pavel Durov confirmed had caused shortlinks to the messaging app to stop working. The outage impacted user access to linked content.",
+      "tags": [
+        "telegram",
+        "messaging",
+        "outage"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0ce255974b9d42cb",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The real AI race may no longer be at the frontier",
+      "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+      "summary": "Hugging Face CEO Clem Delangue suggests that the primary AI race is shifting away from frontier models towards open models, which enterprises increasingly prefer. This preference is driven by factors such as cost, accessibility, and ownership.",
+      "tags": [
+        "ai",
+        "open source",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ea09e0f7b8299e53",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+      "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "summary": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "e1c2252b326d2bec",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be ‘everything for everyone’",
+      "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+      "summary": "Uber's Chief Product Officer Sachin Kansal discussed the company's focus on areas like financial services, robotaxis, and integrating AI into rider and driver experiences. He emphasized Uber's strategy of not attempting to be \"everything for everyone.\"",
+      "tags": [
+        "uber",
+        "technology",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0b21a6adf3537533",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "summary": "Video-generation startup PixVerse has raised $439 million, pushing its valuation past $2 billion. The funding will be used to expand its world model offering and reach new customers globally.",
+      "tags": [
+        "ai",
+        "funding",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "33321afb83b2f719",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "X just tweaked its algorithm to make it more friendly, less battleground",
+      "url": "https://techcrunch.com/2026/07/13/x-just-tweaked-its-algorithm-to-make-it-more-friendly-less-battleground/",
+      "summary": "X (formerly Twitter) has adjusted its algorithm to prioritize posts from users' mutual followers, aiming to foster a more communal and less confrontational feed. This change seeks to make the social media site more friendly.",
+      "tags": [
+        "social media",
+        "x",
+        "algorithm"
+      ],
+      "priority": false
+    },
+    {
+      "id": "52be053fe133f588",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "My Grandfather, the Secret War Hero",
+      "url": "https://www.thefp.com/p/my-grandfather-the-secret-war-hero",
+      "summary": "The author recounts their father's journey to uncover details about his unknown father, Milan Janota, who died after being refused emigration from Communist Czechoslovakia. A chance encounter led to finding Milan's grave and documents revealing his life, including his war heroism.",
+      "tags": [
+        "history",
+        "family",
+        "memoir"
+      ],
+      "priority": false
+    },
+    {
+      "id": "85105dde6f431624",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Ro Khanna’s Dishonest Israel Stunt",
+      "url": "https://www.thefp.com/p/ro-khannas-dishonest-israel-stunt",
+      "summary": "Congressman Ro Khanna's trip to the West Bank caused controversy when his group was stopped while entering a purported closed military zone. Reports suggest the designation might have expired, adding complexity to the incident involving Israeli authorities and activists.",
+      "tags": [
+        "israel",
+        "palestine",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c31300351fbebf10",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Humiliation of Prince Harry",
+      "url": "https://www.thefp.com/p/the-humiliation-of-prince-harry",
+      "summary": "Prince Harry's recent court case against the publisher of the Daily Mail has reportedly undermined his \"fairy tale\" narrative of fleeing a predatory British press. This outcome is seen as a cautionary tale, suggesting he defied the royal maxim of \"never complain, never explain\" to his detriment.",
+      "tags": [
+        "royals",
+        "media",
+        "uk"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fe3f0c4cd0262859",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The U.S. Is Losing Venezuela",
+      "url": "https://www.thefp.com/p/the-us-is-losing-venezuela-elliott-abrams",
+      "summary": "Six months after the US removed Nicolás Maduro from power in Venezuela, US policy is perceived as failing to support a return to democracy, instead backing his replacement, Delcy Rodríguez. This stance risks losing Venezuelan goodwill and is seen as counterproductive to US interests, including oil extraction.",
+      "tags": [
+        "venezuela",
+        "foreign policy",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "26f423e1f69939f0",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "This Week in Canada: Trump Gets a Piece of Our New Bridge",
+      "url": "https://www.thefp.com/p/this-week-in-canada-trump-gets-a-bridge",
+      "summary": "The US-Canada economic integration may be at a high-water mark, with recent headlines suggesting shifts like Toyota expanding in Texas. President Trump has cited such developments as proof his tariffs are working, promoting domestic manufacturing.",
+      "tags": [
+        "canada",
+        "us",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6e89f3ecbc6d6b8c",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Trump’s Iran Blockade Is Back",
+      "url": "https://www.thefp.com/p/trumps-iran-blockade-is-back-aaron-maclean",
+      "summary": "In\nmy column\nlast week I argued that a reimposition of the American blockade of Iranian ports was the best path forward in our war against Iran. On Monday, U.S. forces did just that. What I did not argue for—but which was also announced on Monday—was a 20 percent toll on all traf…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "be667943755ccfa4",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Why Apple Declared War on OpenAI",
+      "url": "https://www.thefp.com/p/why-apple-declared-war-on-openai",
+      "summary": "Two tech titans went to war on Friday: mighty Apple and OpenAI. And to judge by the initial news stories, Apple’s lawsuit against OpenAI, which it filed on Friday, looks like one for the ages. “Apple Sues OpenAI Alleging Trade Secret Theft, Says Scheme Was ‘at Every Level’ ”\nread…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f8920e9cc3b45627",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "How to Grow Old: Bertrand Russell on What Makes a Fulfilling Life",
+      "url": "https://www.themarginalian.org/2026/07/13/how-to-grow-old-bertrand-russell/",
+      "summary": "Bertrand Russell's essay \"How to Grow Old\" suggests that a fulfilling life involves expanding one's interests beyond the personal ego, gradually merging into a \"universal life.\" He posits that this perspective can alleviate the fear of death, allowing one to find contentment in continuity and rest.",
+      "tags": [
+        "philosophy",
+        "aging",
+        "life advice"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c6119af4a39729ef",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "How to Help Someone Change: The Samurai Guide to Giving Feedback",
+      "url": "https://www.themarginalian.org/2026/07/13/tsunetomo-feedback/",
+      "summary": "Yamamoto Tsunetomo's \"Hakagure\" offers a samurai-inspired guide to giving effective feedback, emphasizing the importance of trust, careful timing, and praise. He advises against shaming and suggests framing criticism in a way that allows the recipient to self-reflect.",
+      "tags": [
+        "philosophy",
+        "self-improvement",
+        "relationships"
+      ],
+      "priority": false
+    },
+    {
+      "id": "851cbdd21f5f8059",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "EverQuest’s biggest fans are leading its revival",
+      "url": "https://www.theverge.com/games/965112/everquest-legends-project-1999-fan-developers",
+      "summary": "\"EverQuest Legends,\" a reimagining of the 1999 MMORPG \"EverQuest,\" is set for release on July 28th, led by its dedicated fanbase. This revival comes as many modern live-service games and their developers face significant challenges.",
+      "tags": [
+        "gaming",
+        "mmorpg",
+        "nostalgia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3f7a1cf814cafbf7",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
+      "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+      "summary": "Demis Hassabis, during a panel session at the World Economic Forum in Davos, Switzerland. | Image: Bloomberg via Getty Images\nDemis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous.\nWriting in a\nblog post\n, th…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "9fbf387bbe785656",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Let’s build a children’s public internet",
+      "url": "https://www.theverge.com/report/962823/childrens-public-internet-child-safety-proposal",
+      "summary": "Amidst growing concerns over the internet's negative impact on children, a proposal suggests creating a dedicated \"children's public internet.\" This comes as several countries implement age verification or bans for minors, and a Pew Research Center survey indicates strong public support for social media bans for those under 16.",
+      "tags": [
+        "internet safety",
+        "children",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ee49b789da279920",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Microsoft tests Windows Search without all the ads and fluff",
+      "url": "https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads",
+      "summary": "Microsoft is testing a cleaner version of the Windows 11 search menu for Insiders, which removes recommended content and ads. The revamped search homescreen will display only recent searches, aiming to regain user trust by decluttering the interface.",
+      "tags": [
+        "microsoft",
+        "windows",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "851098029284f4b4",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "New York becomes the first state to enact a data center moratorium",
+      "url": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
+      "summary": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legislature that could restrict even more developments still awaits her signature.\nThe…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "43007dfc660c0767",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "OnePlus is reportedly bailing on the US",
+      "url": "https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe",
+      "summary": "OnePlus and its parent company, Oppo, are reportedly planning to exit the US and European markets, following months of rumors about the brand's future. While OnePlus previously stated it would continue operations in North America, this move would mark a significant shift.",
+      "tags": [
+        "oneplus",
+        "smartphones",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6e1571d6960b0d7d",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Pixel Watch 5 leak shows off four different finishes",
+      "url": "https://www.theverge.com/tech/965293/google-pixel-watch-5-leak-finishes",
+      "summary": "Leaked press renders suggest the upcoming Google Pixel Watch 5 will be available in four case finishes: Dark Anthracite, Natural Silver, Warm Gold, and Pyrite. These colors align with earlier leaks for the Pixel 11 phone, indicating a consistent aesthetic.",
+      "tags": [
+        "google",
+        "smartwatch",
+        "leak"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a30947fd02db5935",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Sam Altman didn’t need another lawsuit",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
+      "summary": "OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal actions yet - from Apple. OpenAI's expensive hardware bet is what's on the line.…",
+      "tags": [],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 107,
+    "summarized": 86,
+    "skipped_promos": 1,
+    "filtered_by_rules": 20,
+    "sources": 11,
+    "email_items_omitted": 0
+  }
+}
