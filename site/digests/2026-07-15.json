@@ -1,0 +1,1243 @@
+{
+  "date": "2026-07-15",
+  "generated_at": "2026-07-15T15:21:45+00:00",
+  "hot_topics": [
+    {
+      "topic": "Escalating US-Iran Tensions and the Strait of Hormuz",
+      "synthesis": "Tensions between the US and Iran are escalating, particularly concerning the Strait of Hormuz. The US military recently deployed explosive drone boats against Iranian targets for the first time, while Iran threatened to block regional oil routes. This intensification highlights a faltering ceasefire deal and raises concerns about geopolitical stability and its impact on global trade.",
+      "item_ids": [
+        "6483086e54cede19",
+        "4a1fbe554ddf8f39",
+        "0b8841c4284a0a9a",
+        "0a9ebcf880611b96",
+        "c17099f2ba31948b",
+        "e45b17cba95f17e2"
+      ]
+    },
+    {
+      "topic": "China's Economic Slowdown",
+      "synthesis": "China's economy experienced its slowest growth since late 2022, expanding by only 4.3% in Q2, missing its target. This slowdown is primarily attributed to weak domestic consumer spending and business investment. While strong exports, partly driven by the AI boom, provided some offset, the overall economic performance reflects significant internal challenges.",
+      "item_ids": [
+        "dca0c86201497681",
+        "d4b421c939de36b2"
+      ]
+    },
+    {
+      "topic": "Global World Cup 2026 Discussions and Controversies",
+      "synthesis": "The 2026 World Cup continues to generate headlines, from on-field rivalries like Argentina vs. England, to political figures engaging with the tournament. Controversies include disputes over the sale of MetLife Stadium grass and the French team's travel on an ICE deportation jet. Furthermore, remarks from a former Spanish Prime Minister sparked a debate on racism within Spanish soccer, reflecting broader societal tensions.",
+      "item_ids": [
+        "39d6bd19a877b9bf",
+        "e87c9018519d2628",
+        "69b0f429551635d1",
+        "1e6097586c0e1dca",
+        "5c6ceff309c307bc",
+        "54047603417852e0",
+        "2ce1531504e09cc8",
+        "06e31b09e7d64aac",
+        "d9588833f9e55f2f"
+      ]
+    },
+    {
+      "topic": "The Evolving Economic and Societal Impact of AI",
+      "synthesis": "Debates are intensifying regarding AI's transformative economic impact, with discussions on potential job displacement versus living standard gains. While some economists caution against 'steering' AI development due to unpredictable outcomes, others advocate for regulatory frameworks to ensure AI complements human labor. These discussions highlight the growing need for policymakers to understand and guide AI's integration into the economy and society, alongside new insights into AI chip regulation.",
+      "item_ids": [
+        "dc18712f030969f2",
+        "99513379bf84a24b"
+      ]
+    },
+    {
+      "topic": "Advancements and Challenges in AI Technology",
+      "synthesis": "AI development continues rapidly across various fronts, including enhanced image search, new AI-driven business models, and novel hardware like OpenAI's screenless speaker. However, these advancements also bring challenges such as a lawsuit alleging Meta used AI for discriminatory layoffs, warnings about OpenAI's models deleting files, and the need for identity management in AI agent systems. The high cost of American AI is also leading some startups to consider cheaper Chinese models.",
+      "item_ids": [
+        "b00d38ae2512cd06",
+        "19f5d368d50d41c6",
+        "1c4611ee3d7f1c92",
+        "315ffd9bb180dc78",
+        "740c0b208e930df4",
+        "9279d5f71091a80f",
+        "2bb2364b4fc23d02",
+        "74e7bbce92c304a0",
+        "3e70ad906d61efbd",
+        "09997591fc7b1e0a",
+        "6d52a3d3cd41e244",
+        "f777aa88ff2d3cbe",
+        "3a9e8efe79b19b74",
+        "c2cf5acb32ddda4b",
+        "06ac8760b0015dc3",
+        "2c86b49be48282a4",
+        "27a6c06892ece4c3",
+        "da75fbd95ed989d1",
+        "770c1a22a88667f1",
+        "895e19308248de5e"
+      ]
+    },
+    {
+      "topic": "Legal and Political Developments Involving Donald Trump",
+      "synthesis": "Donald Trump is currently navigating various legal and political challenges, including paying $5 million in damages to E. Jean Carroll. Meanwhile, his acting Attorney General nominee, Todd Blanche, faces a contentious confirmation hearing. Internally, Democrats are divided on the political wisdom of pursuing a third impeachment against Trump, with some arguing it could backfire and strengthen his position.",
+      "item_ids": [
+        "b3d3877c38032fa8",
+        "c37826c374ef6fff",
+        "4f3d5a35097ffb90",
+        "63f5af6bda65005b"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "da75fbd95ed989d1",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "The diffusion pilot",
+      "url": "https://aeon.co/videos/an-animator-ponders-his-purpose-amid-an-ais-infinite-possibilities",
+      "summary": "An animator in \"The Diffusion Pilot\" short film contemplates the meaning of making art in an era dominated by inexhaustible AIs. The film explores an artist's purpose and quest for control amidst AI's infinite possibilities.",
+      "tags": [
+        "ai",
+        "art",
+        "philosophy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "19f5d368d50d41c6",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Google revamps image search for its 25th anniversary with more images and more AI",
+      "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
+      "summary": "Google is revamping its image search for its 25th anniversary, promising a refresh with more images and expanded AI integration. The update aims to enhance the search experience that originated from a user's desire to see Jennifer Lopez's iconic green dress.",
+      "tags": [
+        "google",
+        "ai",
+        "image search"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b00d38ae2512cd06",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
+      "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
+      "summary": "A lawsuit alleges Meta used internal AI tools, including a system called 'Metamate,' to select 8,000 employees for layoffs, reportedly targeting workers with disabilities and those on protected leaves. The complaint claims employees were graded on their use of Meta's AI tools, influencing termination decisions.",
+      "tags": [
+        "ai",
+        "layoffs",
+        "tech ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7129b5cbdedc3e3f",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Trump admin puts Americans in Congo on \"do-not-board\" list, barring return",
+      "url": "https://arstechnica.com/health/2026/07/americans-in-congo-barred-from-returning-home-amid-ebola-outbreak/",
+      "summary": "The Trump administration has barred US citizens in the Democratic Republic of Congo from returning home for 21 days, citing an ongoing Ebola outbreak. This \"do-not-board\" order, issued under transportation authority, has already prevented about two dozen Americans from traveling back to the US.",
+      "tags": [
+        "us policy",
+        "ebola",
+        "travel ban"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6483086e54cede19",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "US military sent explosive drone boats into combat for the first time",
+      "url": "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/",
+      "summary": "The US military has for the first time deployed explosive-laden drone boats in combat, attacking an Iranian midget submarine and ship maintenance facility at Iran’s Bandar Abbas Naval Base. This unprecedented use of kamikaze sea drones marks a new phase in military operations.",
+      "tags": [
+        "military",
+        "drones",
+        "iran"
+      ],
+      "priority": false
+    },
+    {
+      "id": "99513379bf84a24b",
+      "source": "Astral Codex Ten",
+      "source_type": "substack",
+      "title": "AI Chip Regulation Is Not A Dystopian Surveillance State",
+      "url": "https://www.astralcodexten.com/p/ai-chip-regulation-is-not-a-dystopian",
+      "summary": "An argument is made that AI chip regulation, as proposed in \"Plan A,\" is not a dystopian surveillance state but rather akin to existing controlled substance regulations. The proposal involves registration and inspection for factories, buyers, and data centers to ensure \"trustless\" AI regulation between nations.",
+      "tags": [
+        "ai",
+        "regulation",
+        "tech policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "34a17cd5ece48f68",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Air India crash report likely to be ready in October, say investigators",
+      "url": "https://www.bbc.co.uk/news/articles/cjrgrgx2d9qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Investigators expect the report on the Air India crash, which killed 260 people, to be ready in October. The incident involved 241 onboard fatalities, with only one passenger surviving.",
+      "tags": [
+        "aviation",
+        "india",
+        "investigation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9411cceeadfa707c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Boss of fake government agency arrested in Nigeria after weeks on the run",
+      "url": "https://www.bbc.co.uk/news/articles/c17y7ykzgrgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The alleged boss of a fake government agency in Nigeria has been arrested after weeks on the run, following a presidential order for a corruption investigation. The case, involving allegations of widespread fraud, has gripped the nation.",
+      "tags": [
+        "nigeria",
+        "corruption",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1e2aac6a6495435b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Celebrations as Gibraltar-Spain border fence removed",
+      "url": "https://www.bbc.co.uk/news/videos/cpd3d0d6zqzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Celebrations marked the removal of the Gibraltar-Spain border fence, symbolizing a new era of open crossing between the two territories. Large crowds crossed freely following a symbolic midnight ceremony.",
+      "tags": [
+        "gibraltar",
+        "spain",
+        "borders"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7f68749b6c3b21d5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "China detains US scientist who studied North Korea nuclear tests",
+      "url": "https://www.bbc.co.uk/news/articles/cqx1xdn3g4eo?at_medium=RSS&at_campaign=rss",
+      "summary": "China has detained Chen Youlin, a US scientist who studied North Korea's nuclear tests, for nearly two years on spying charges. His family maintains he has been wrongfully detained, raising concerns about international academic freedom.",
+      "tags": [
+        "china",
+        "us",
+        "espionage"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dca0c86201497681",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "China economic growth falls sharply, missing target",
+      "url": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
+      "summary": "China's economic growth fell sharply in Q2, missing its target due to weak domestic demand and the impact of the Iran war on oil prices. This marks the slowest growth since late 2022, signaling economic headwinds.",
+      "tags": [
+        "china",
+        "economy",
+        "geopolitics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a6d2f3217e173b96",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "From Wimbledon towels to Scotch: What India-UK trade deal could mean for shoppers",
+      "url": "https://www.bbc.co.uk/news/articles/c0kymrz0vkgo?at_medium=RSS&at_campaign=rss",
+      "summary": "A free trade agreement between India and the UK, the world's fifth and sixth largest economies, has officially come into effect. The deal aims to boost trade in various sectors, from Wimbledon towels to Scotch.",
+      "tags": [
+        "india",
+        "uk",
+        "trade"
+      ],
+      "priority": false
+    },
+    {
+      "id": "14a0c59a37b6cb7b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How a former 'street kid' is key to South Africa's police corruption inquiry",
+      "url": "https://www.bbc.co.uk/news/articles/cpq3q75y40do?at_medium=RSS&at_campaign=rss",
+      "summary": "A former \"street kid,\" Vusimusi \"Cat\" Matlala, is expected to be a key witness in South Africa's police corruption inquiry. His testimony is central to the ongoing investigation into police misconduct.",
+      "tags": [
+        "south africa",
+        "corruption",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4a1fbe554ddf8f39",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Iran threatens to block more trade routes as US launches fresh strikes",
+      "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+      "summary": "US President Donald Trump threatened to strike Iran's bridges and power plants next week if the country does not return to talks. This comes amid Iran's threats to block more trade routes, escalating tensions.",
+      "tags": [
+        "us",
+        "iran",
+        "geopolitics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "13ac04ef1854ccac",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Italy's Meloni suffers surprise setback in close vote on electoral reform",
+      "url": "https://www.bbc.co.uk/news/articles/c1kykx3vnyyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Italy's Prime Minister Giorgia Meloni suffered a surprise setback in a close parliamentary vote on electoral reform. The defeat has prompted opposition calls for her resignation ahead of next year's general election.",
+      "tags": [
+        "italy",
+        "politics",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "730a576176f6f8bd",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Rastafarians in Kenya fail in bid to get cannabis legalised for religious purposes",
+      "url": "https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Rastafarian groups in Kenya failed in their legal bid to have cannabis legalized for religious purposes. The court acknowledged the need for a broader national debate on cannabis policy in Kenya, despite rejecting the petition.",
+      "tags": [
+        "kenya",
+        "cannabis",
+        "law"
+      ],
+      "priority": false
+    },
+    {
+      "id": "88e963e61bc0fc64",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Russian attacks kill eight as Ukraine hits Black Sea oil tankers",
+      "url": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Russian attacks have killed eight people in Ukraine, while Kyiv claims to have hit 20 Russian vessels in the Black Sea. Civilian casualties were reported across four Ukrainian regions amid the ongoing conflict.",
+      "tags": [
+        "ukraine war",
+        "russia",
+        "military conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "091e9881ae6f9735",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Seven Britons among those killed in Spain wildfires",
+      "url": "https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss",
+      "summary": "Seven Britons are among the 13 victims, all foreign nationals, killed in recent wildfires in Spain. Spanish authorities confirmed the fatalities on Tuesday as emergency efforts continue.",
+      "tags": [
+        "spain",
+        "wildfires",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "64bb1f4745936dc2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Sierra Leone drops treason charge against ex-president over attempted coup",
+      "url": "https://www.bbc.co.uk/news/articles/cx2w2k3vklgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sierra Leone has dropped treason charges against former president Ernest Bai Koroma, who was arrested in 2023 following an attempted coup. The charges related to gunmen breaking into an armory and jails.",
+      "tags": [
+        "sierra leone",
+        "politics",
+        "law"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5ab3135de09d1f52",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Special police team to investigate killing of an anti-migrant leader in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d2qlgj71o?at_medium=RSS&at_campaign=rss",
+      "summary": "South Africa has established a special police team to investigate the killing of a provincial anti-migrant leader who died in hospital days after being shot. The case has drawn significant attention as authorities seek answers.",
+      "tags": [
+        "south africa",
+        "crime",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0a9ebcf880611b96",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Control of the Strait of Hormuz has become a key point of contention between the US and Iran, exposing weaknesses in their ceasefire deal. The strategic waterway's importance continues to drive tensions in the region.",
+      "tags": [
+        "us",
+        "iran",
+        "geopolitics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b3d3877c38032fa8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation",
+      "url": "https://www.bbc.co.uk/news/articles/c2dydj1wp93o?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump has paid $5 million in damages to writer E. Jean Carroll after a judgment for sexual abuse and defamation. Trump had sought to delay the payment while attempting to appeal the decision to the Supreme Court.",
+      "tags": [
+        "trump",
+        "lawsuit",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0b8841c4284a0a9a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
+      "summary": "President Trump's abrupt reversal on Hormuz tolls suggests he is struggling to end the four-month-long conflict with Iran. This policy shift is the latest twist in the ongoing dispute between the two nations.",
+      "tags": [
+        "us",
+        "iran",
+        "geopolitics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9a76dc53f01fa1e7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Tyrannosaurus rex most expensive dinosaur ever sold",
+      "url": "https://www.bbc.co.uk/news/articles/c0qyq800n44o?at_medium=RSS&at_campaign=rss",
+      "summary": "A Tyrannosaurus rex skeleton, dating back 67 million years, has been sold by Sotheby's in New York, becoming the most expensive dinosaur ever. The auction highlights the high value placed on rare paleontological finds.",
+      "tags": [
+        "paleontology",
+        "auction",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0207317130e2b2ea",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Venezuela government to launch formal talks with opposition members",
+      "url": "https://www.bbc.co.uk/news/articles/c1eye5320g5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Venezuela's government is set to begin formal talks with opposition members, aiming to strengthen democratic institutions and the electoral system. These discussions represent a step towards resolving political tensions and fostering dialogue.",
+      "tags": [
+        "venezuela",
+        "politics",
+        "diplomacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c17099f2ba31948b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: The clash between US and Iran for control of the Strait of Hormuz",
+      "url": "https://www.bbc.co.uk/news/videos/cx2425dmpl3o?at_medium=RSS&at_campaign=rss",
+      "summary": "A BBC report examines the latest tensions between the US and Iran over control of the Strait of Hormuz, a crucial international shipping channel. The video highlights the ongoing military and political standoff in the region.",
+      "tags": [
+        "us",
+        "iran",
+        "geopolitics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a4749d5ffefd72b9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Wife describes moment husband nearly sucked out of Ryanair plane",
+      "url": "https://www.bbc.co.uk/news/videos/cd959ygx8g7o?at_medium=RSS&at_campaign=rss",
+      "summary": "A woman recounted how her husband was nearly sucked head-first out of a Ryanair plane's cabin window during a flight. The incident highlights extreme inflight safety concerns and the terrifying experience for passengers.",
+      "tags": [
+        "aviation",
+        "ryanair",
+        "accidents"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3583c099e0c319af",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Jurassic Park computers in excruciating detail",
+      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+      "summary": "An article delves into the intricate details of the computers and technology depicted in the film \"Jurassic Park.\" It provides an in-depth look at the cinematic portrayal of 1990s computing systems.",
+      "tags": [
+        "film",
+        "computing",
+        "nostalgia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6d513266bc3118f4",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
+      "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
+      "summary": "A study indicates that sleep regularity is a stronger predictor of mortality risk than simply the duration of sleep. This finding emphasizes the importance of consistent sleep patterns for long-term health, even more than total hours slept.",
+      "tags": [
+        "health",
+        "sleep",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "60a119fc939d16ce",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
+      "url": "https://vpd.ca/",
+      "summary": "The Vancouver Police Department website features a \"Quick Escape\" button that, when activated, wipes the site from the browser's history. This privacy feature is designed for users needing to quickly hide their browsing activity.",
+      "tags": [
+        "web design",
+        "privacy",
+        "public safety"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dc18712f030969f2",
+      "source": "Noahpinion",
+      "source_type": "substack",
+      "title": "Why I didn't sign the \"We Must Act Now\" statement (yet)",
+      "url": "https://www.noahpinion.blog/p/why-i-didnt-sign-the-we-must-act",
+      "summary": "An economist explains why they declined to sign a vague statement on AI's economic transformation, fearing association with unspecified future policy proposals. They argue that \"steering\" AI to complement humans is difficult, as current macro data doesn't show significant AI-driven job destruction.",
+      "tags": [
+        "ai",
+        "economy",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4f3d5a35097ffb90",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Acting AG Todd Blanche faces a key test. And, ICE pauses most traffic stops",
+      "url": "https://www.npr.org/2026/07/15/g-s1-133652/up-first-newsletter-todd-blanche-iran-strait-of-hormuz-ice-traffic-stops",
+      "summary": "Acting Attorney General Todd Blanche is slated for a crucial Senate confirmation hearing, while Immigration and Customs Enforcement (ICE) has paused most traffic stops following recent deadly shootings. The newsletter also mentions the intensifying US-Iran standoff over the Strait of Hormuz.",
+      "tags": [
+        "us politics",
+        "ice",
+        "law enforcement"
+      ],
+      "priority": false
+    },
+    {
+      "id": "895e19308248de5e",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "American AI is expensive. Some startups are turning to cheap Chinese models",
+      "url": "https://www.npr.org/2026/07/15/nx-s1-5886476/startups-cheap-chinese-ai-models",
+      "summary": "American startups are increasingly turning to cheaper Chinese AI models to cut growing business expenses, as American AI remains costly. This shift indicates a cost-saving trend in the AI industry, impacting global competition.",
+      "tags": [
+        "ai",
+        "startups",
+        "china tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c4802c75b473d1d4",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Cancer disparities researchers say federal funding changes have disrupted their work",
+      "url": "https://www.npr.org/2026/07/15/nx-s1-5893653/cancer-disparities-gaps-research-funding-grant-disruptions",
+      "summary": "A survey revealed that 93% of cancer researchers studying disparities report disruptions due to federal funding changes, making grants harder to secure. This raises concerns about slowing progress in addressing health inequalities and disparities.",
+      "tags": [
+        "cancer",
+        "research",
+        "healthcare policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d4b421c939de36b2",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "China's economy grows 4.3% in Q2, slowest since late 2022",
+      "url": "https://www.npr.org/2026/07/15/g-s1-133672/chinas-economy-grows-4-3-in-q2-slowest-since-late-2022",
+      "summary": "China's economy grew by 4.3% in the second quarter, marking its slowest pace since late 2022 due to lagging consumer spending and business investment. Strong exports, partly from the AI boom, partially offset these domestic weaknesses.",
+      "tags": [
+        "china",
+        "economy",
+        "global trade"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a8b5a14b20bcb292",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Greetings from Paris, where an art installation transformed the Pont Neuf into a rocky cave",
+      "url": "https://www.npr.org/2026/07/15/g-s1-132781/paris-heat-pont-neuf-jr-cave-caverne",
+      "summary": "Artist JR transformed Paris's Pont Neuf bridge into a rocky cave art installation, draping it in fabric to create a striking visual. While impressive, the temporary structure offered no relief from a brutal heat wave in the city.",
+      "tags": [
+        "art",
+        "paris",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "13b00303bc647f4e",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "How to keep cool in this year's extreme summer heat even without air conditioning",
+      "url": "https://www.npr.org/2026/07/15/g-s1-133383/extreme-summer-heat-air-conditioning",
+      "summary": "Amid forecasts for an extreme summer heat, experts offer suggestions on how to stay cool without air conditioning. Tips come from a heat researcher who grew up in an AC-less hot environment, focusing on practical coping strategies.",
+      "tags": [
+        "climate change",
+        "health",
+        "summer"
+      ],
+      "priority": false
+    },
+    {
+      "id": "39d6bd19a877b9bf",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Old rivals, new battle: Argentina and England clash in World Cup Semifinal",
+      "url": "https://www.npr.org/2026/07/15/nx-s1-5893686/old-rivals-new-battle-argentina-and-england-clash-in-world-cup-semifinal",
+      "summary": "Arch-rivals Argentina and England are set to clash in the World Cup Semifinal, with a coveted spot in the final on the line. The match promises high stakes for both teams as the tournament progresses.",
+      "tags": [
+        "world cup",
+        "soccer",
+        "sports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e45b17cba95f17e2",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "The U.S. and Iran standoff over the Strait of Hormuz intensifies",
+      "url": "https://www.npr.org/2026/07/15/nx-s1-5894582/us-iran-updates",
+      "summary": "The standoff between the U.S. and Iran over the Strait of Hormuz has intensified, with Iran threatening to block all regional oil exporting routes. This follows the U.S. maritime blockade of Iranian ports, escalating the conflict.",
+      "tags": [
+        "us",
+        "iran",
+        "geopolitics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c37826c374ef6fff",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Todd Blanche faces high-stakes confirmation hearing for attorney general",
+      "url": "https://www.npr.org/2026/07/15/nx-s1-5891870/todd-blanche-senate-confirmation-attorney-general",
+      "summary": "Todd Blanche, President Trump's nominee, faces a high-stakes confirmation hearing for Attorney General after serving as the Justice Department's No. 2 official. His previous confirmation in Trump's second term was for a lower position, making this a more contentious process.",
+      "tags": [
+        "us politics",
+        "attorney general",
+        "trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1e6097586c0e1dca",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Bastille Day party turns sour in Brussels",
+      "url": "https://www.politico.com/live-updates/2026/07/14/world-cup-2026/brussels-bubble-watch-party-bastille-day-france-spain-00997568",
+      "summary": "A Bastille Day party in Brussels turned somber as Spain scored against France in the World Cup semifinal, dampening the mood of French diplomats and EU officials. The unexpected goals led to palpable disappointment among attendees, despite initial jubilation.",
+      "tags": [
+        "world cup",
+        "france",
+        "spain"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2ce1531504e09cc8",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "French and Spanish parties",
+      "url": "https://www.politico.com/live-updates/2026/07/14/world-cup-2026/france-spain-world-cup-parties-00996702",
+      "summary": "Diplomatic missions in Brussels are hosting celebrations for France's Bastille Day that will double as World Cup semifinal screenings for the France-Spain match. The event will capture the national pride or deflation depending on the outcome of the game.",
+      "tags": [
+        "world cup",
+        "france",
+        "spain"
+      ],
+      "priority": false
+    },
+    {
+      "id": "54047603417852e0",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "French soccer team arrives in Dallas on an ICE deportation jet",
+      "url": "https://www.politico.com/live-updates/2026/07/14/world-cup-2026/france-world-cup-ice-deportation-plane-00996781",
+      "summary": "The French national soccer team arrived in Dallas on an Airbus A320 jet that had been used for an ICE deportation flight the day prior. This dual use by charter airline GlobalX highlights a stark contrast in its operations and has drawn backlash.",
+      "tags": [
+        "world cup",
+        "immigration",
+        "france"
+      ],
+      "priority": false
+    },
+    {
+      "id": "97459b319db6aa39",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Maine Democrats will square off in first Senate debate since Platner's withdrawal",
+      "url": "https://www.politico.com/news/2026/07/14/maine-democrats-senate-debate-platner-00997107",
+      "summary": "Maine Democrats are preparing for their first Senate debate following Graham Platner's withdrawal, with eight candidates invited to contend for the open seat. This race is crucial for Democrats hoping to gain control of the Senate.",
+      "tags": [
+        "us politics",
+        "elections",
+        "maine"
+      ],
+      "priority": false
+    },
+    {
+      "id": "69b0f429551635d1",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Mikie Sherrill confronts FIFA in New Jersey turf battle",
+      "url": "https://www.politico.com/live-updates/2026/07/14/world-cup-2026/new-jersey-turf-battle-fifa-mike-sherrill-metlife-grass-00997102",
+      "summary": "New Jersey Governor Mikie Sherrill is disputing FIFA's plan to sell sod from the World Cup final at MetLife Stadium, arguing taxpayers should get a share of the proceeds. The state subsidized most of the pitch's cost, leading to this conflict.",
+      "tags": [
+        "world cup",
+        "new jersey",
+        "sports business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5c6ceff309c307bc",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Missing in action: King Felipe, Pedro Sánchez and Emmanuel Macron",
+      "url": "https://www.politico.com/live-updates/2026/07/14/world-cup-2026/france-spain-world-cup-leaders-attendance-00997099",
+      "summary": "Key political figures, including Spain's King Felipe VI and Prime Minister Pedro Sánchez, and French President Emmanuel Macron, missed the Spain-France World Cup semifinal due to other commitments. Their absences highlight packed political agendas even during major sporting events.",
+      "tags": [
+        "world cup",
+        "europe",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "06e31b09e7d64aac",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Soccer nut Viktor Orbán has World Cup thoughts",
+      "url": "https://www.politico.com/live-updates/2026/07/14/world-cup-2026/viktor-orbans-world-cup-predictions-00996681",
+      "summary": "Former Hungarian Prime Minister Viktor Orbán, an avid soccer fan, is attending the World Cup semifinals and final, despite his party's recent political setbacks. He offered predictions for the France-Spain match and compared it to a historic upset.",
+      "tags": [
+        "world cup",
+        "hungary",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e87c9018519d2628",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Spot the pol!",
+      "url": "https://www.politico.com/live-updates/2026/07/14/world-cup-2026/spot-the-pol-00997174",
+      "summary": "Egyptian President Abdel Fattah el-Sisi welcomed home national team captain Mohamed Salah, honoring the team's best-ever World Cup performance. Egypt reached the Round of 16 before being eliminated by Argentina.",
+      "tags": [
+        "world cup",
+        "egypt",
+        "sports politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d9588833f9e55f2f",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "‘Intolerable whiff of racism’: Spanish soccer’s never-ending problem",
+      "url": "https://www.politico.com/live-updates/2026/07/14/world-cup-2026/spain-mariano-rajoy-racist-comments-world-cup-00996677",
+      "summary": "Former Spanish Prime Minister Mariano Rajoy's comments about the French team, implying a lack of \"Frenchmen\" due to African heritage, have sparked a racism row ahead of the World Cup semifinal. This reignites a decades-long debate about racism in Spanish soccer and society.",
+      "tags": [
+        "racism",
+        "soccer",
+        "spain"
+      ],
+      "priority": false
+    },
+    {
+      "id": "28f1d963d8d1df75",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "datasette 1.0a37",
+      "url": "https://simonwillison.net/2026/Jul/14/datasette/#atom-everything",
+      "summary": "Datasette 1.0a37 has been released, featuring performance and documentation improvements to its permissions system. The update also reverted a cosmetic API change to maintain compatibility with existing plugins.",
+      "tags": [
+        "datasette",
+        "software release",
+        "databases"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b0caf35c3fbee56a",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "lobste.rs is now running on SQLite",
+      "url": "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything",
+      "summary": "The community site Lobsters successfully migrated its database from MariaDB to SQLite, reporting reduced CPU and memory usage, improved snappiness, and halved VPS costs. This migration serves as a case study demonstrating SQLite's viability for demanding web applications on a single server.",
+      "tags": [
+        "databases",
+        "web development",
+        "devops"
+      ],
+      "priority": false
+    },
+    {
+      "id": "27a6c06892ece4c3",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Armin Ronacher",
+      "url": "https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything",
+      "summary": "Armin Ronacher is quoted on how AI agents could disrupt the \"shared language\" and common understanding within software projects, which traditionally relies on human friction and coordination. This raises questions about the future of software engineering collaboration in an AI-assisted world.",
+      "tags": [
+        "ai",
+        "software engineering",
+        "collaboration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2c86b49be48282a4",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "simonw/pedalican",
+      "url": "https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything",
+      "summary": "A developer created \"Pedalican,\" a custom AI desktop pet, by leveraging GPT-5.6 Sol and gpt-image-2 for sprite generation. The process highlights image generation for game-ready assets and advanced prompt engineering techniques.",
+      "tags": [
+        "ai",
+        "generative ai",
+        "prompt engineering"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1c4611ee3d7f1c92",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "summary": "Anthropic, backed by Blackstone, has launched Ode, a new venture betting that the next trillion-dollar AI business lies in AI implementation by embedding forward-deployed engineers inside enterprises. This strategy aims to accelerate enterprise AI adoption beyond just developing models.",
+      "tags": [
+        "ai",
+        "startups",
+        "enterprise tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c2cf5acb32ddda4b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic’s newest ad is creeping people out",
+      "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
+      "summary": "Anthropic's newest ad campaign is unsettling some viewers, as it leans into criticisms of AI to portray the company as ethically responsible. This marketing approach aims to differentiate Anthropic as aware of its AI development responsibilities.",
+      "tags": [
+        "anthropic",
+        "ai ethics",
+        "marketing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3a9e8efe79b19b74",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+      "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+      "summary": "Apple has released the iOS 27 public beta, giving iPhone users early access to its revamped AI-powered Siri and other new features. This public release precedes the software's official launch later this fall.",
+      "tags": [
+        "apple",
+        "siri",
+        "ios"
+      ],
+      "priority": false
+    },
+    {
+      "id": "74e7bbce92c304a0",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Backed by $60M in funding, Oak steps out of stealth to fix the identity mess that AI agents are making worse",
+      "url": "https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/",
+      "summary": "Oak, an Israeli identity management startup co-founded by Shai Morag, has emerged from stealth with $60 million in seed funding to address the growing identity complexities caused by AI agents. The company aims to fix the \"identity mess\" in AI systems.",
+      "tags": [
+        "ai",
+        "cybersecurity",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ac7d83f6146e116b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "India bets billions on breaking China’s grip on smartphone manufacturing",
+      "url": "https://techcrunch.com/2026/07/15/india-bets-billions-on-breaking-chinas-grip-on-smartphone-manufacturing/",
+      "summary": "India is investing billions, including a $6.5 billion smartphone manufacturing program and a $13.3 billion semiconductor push, to reduce its reliance on China's electronics supply chain. This initiative aims to deepen India's domestic electronics production and break China's manufacturing dominance.",
+      "tags": [
+        "india",
+        "manufacturing",
+        "geopolitics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9279d5f71091a80f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+      "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+      "summary": "Emergent, an Indian AI coding startup, has achieved unicorn status with a $130 million Series C funding round just over a year after its launch. The company boasts over 200,000 paying customers and a $120 million annualized revenue run rate.",
+      "tags": [
+        "ai",
+        "startups",
+        "india"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3e70ad906d61efbd",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Lorde says AI glasses are ‘not sexy’",
+      "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+      "summary": "Musician Lorde commented that AI glasses are \"not sexy,\" reflecting on the increasing difficulty of discerning reality in a world with pervasive AI. Her statement highlights a cultural unease surrounding AI's integration into daily life.",
+      "tags": [
+        "ai",
+        "culture",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "13dc6ae739d0e03c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Lucid Motors denies report it’s considering bankruptcy",
+      "url": "https://techcrunch.com/2026/07/14/lucid-motors-denies-report-its-considering-bankruptcy/",
+      "summary": "Lucid Motors has denied reports that it is considering bankruptcy, calling the rumors \"completely false\" after its stock sank significantly. The electric vehicle company is pushing back against financial speculation.",
+      "tags": [
+        "electric vehicles",
+        "automotive",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6d52a3d3cd41e244",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenAI pushes back on Apple trade secret lawsuit",
+      "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+      "summary": "OpenAI has issued a statement pushing back on Apple's trade secret lawsuit, suggesting the allegations lack merit. This marks a continued legal battle between the two major tech companies.",
+      "tags": [
+        "openai",
+        "apple",
+        "lawsuit"
+      ],
+      "priority": false
+    },
+    {
+      "id": "09997591fc7b1e0a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "summary": "OpenAI is reportedly developing its first hardware device, described as a screenless speaker with mechanical elements that can move independently. This device aims to function as a physical companion and manifestation of OpenAI’s ChatGPT.",
+      "tags": [
+        "openai",
+        "ai hardware",
+        "robotics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f777aa88ff2d3cbe",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+      "summary": "Users are warning that OpenAI's new flagship model, GPT-5.6 Sol, has been deleting files and data without warning, a problem OpenAI had previously acknowledged in June. This issue raises significant concerns about data integrity and AI reliability.",
+      "tags": [
+        "openai",
+        "ai models",
+        "data loss"
+      ],
+      "priority": false
+    },
+    {
+      "id": "740c0b208e930df4",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
+      "url": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
+      "summary": "Reelful, an AI-powered app, transforms camera roll photos and videos into short-form social media videos, aiming to simplify content creation. The app is designed for users who find traditional video editing complex or time-consuming.",
+      "tags": [
+        "ai",
+        "social media",
+        "video editing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "315ffd9bb180dc78",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Rime picks up $24M Series A to help enterprises field customer calls",
+      "url": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
+      "summary": "Rime has secured $24 million in Series A funding to expand its AI-powered solution for handling enterprise customer calls, currently managing over 100 million calls each month. The startup helps companies efficiently field customer inquiries using artificial intelligence.",
+      "tags": [
+        "ai",
+        "customer service",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e94d71ef140f1186",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Spotify expands parent-managed accounts to users on its free tier",
+      "url": "https://techcrunch.com/2026/07/15/spotify-expands-parent-managed-accounts-to-users-on-its-free-tier/",
+      "summary": "Spotify is expanding its parent-managed account feature, previously available only to paid subscribers, to users on its free tier. This allows parental oversight for a broader user base on the music streaming platform.",
+      "tags": [
+        "spotify",
+        "music streaming",
+        "family features"
+      ],
+      "priority": false
+    },
+    {
+      "id": "06ac8760b0015dc3",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
+      "url": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
+      "summary": "Justin McLeod, founder of Hinge, has raised $18 million to launch Overtone, a new voice- and audio-forward AI dating service. The platform aims to provide highly curated introductions enabled by artificial intelligence.",
+      "tags": [
+        "ai",
+        "dating apps",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9b69ff739b08911b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "US charges Russian ‘bulletproof’ web hosts over cyberattacks that netted $62M from cybercrime victims",
+      "url": "https://techcrunch.com/2026/07/15/us-charges-russian-bulletproof-web-hosts-over-cyberattacks-that-netted-62m-from-cybercrime-victims/",
+      "summary": "The US has unsealed a 2024 indictment, charging three Russians and two web hosts with operating \"bulletproof\" web hosting services that aided cyberattacks, netting $62 million from victims. These web hosts allegedly profited from various cybercrimes by providing resilient infrastructure for hackers.",
+      "tags": [
+        "cybersecurity",
+        "russia",
+        "law enforcement"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2bb2364b4fc23d02",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+      "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+      "summary": "Vint Cerf, a \"father of the internet,\" is working on developing a standard for identifying AI agents operating on the open internet. This initiative aims to address potential issues as AI agents become more prevalent online.",
+      "tags": [
+        "ai",
+        "internet",
+        "standards"
+      ],
+      "priority": false
+    },
+    {
+      "id": "23826228a455e808",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Why Realta Fusion is building a fusion reactor at an old hot dog factory",
+      "url": "https://techcrunch.com/2026/07/15/why-realta-fusion-is-building-a-fusion-reactor-at-an-old-hot-dog-factory/",
+      "summary": "Realta Fusion is establishing a fusion reactor research and development hub at a former Oscar Mayer hot dog factory in Wisconsin. This project represents America's latest effort in advancing fusion power technology.",
+      "tags": [
+        "fusion energy",
+        "science",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "63f5af6bda65005b",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "A Third Trump Impeachment? Some Democrats Aren’t So Sure.",
+      "url": "https://www.thefp.com/p/trump-third-impeachment-democrats-divided",
+      "summary": "Democrats are divided over whether to pursue a third impeachment of President Donald Trump, with some arguing it could politically backfire as previous impeachments seemingly strengthened him. This internal debate is occurring despite shared opposition to Trump's policies.",
+      "tags": [
+        "trump",
+        "impeachment",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4486fef8bb714eea",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Douglas Murray: How a Gay Cruise Got Stuck Between Islam and the West",
+      "url": "https://www.thefp.com/p/douglas-murray-gay-cruise-islam",
+      "summary": "A gay Virgin cruise ship, \"Scarlet Lady,\" was barred from docking in Turkey and Egypt, leading to claims of anti-LGBT discrimination. This incident is being framed by some as part of a broader global trend of rolling back LGBTQI+ rights.",
+      "tags": [
+        "lgbtq+",
+        "travel",
+        "international relations"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7197a060932258a8",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Worst Invite a Couple Can Get",
+      "url": "https://www.thefp.com/p/the-worst-invite-a-couple-can-get",
+      "summary": "\"The Invite,\" a new comedy film by Olivia Wilde, is reviewed as a horror story where a polyamorous psychotherapist creates social awkwardness and sexual tension at a dinner party. The film explores the collapse of a marriage in a socially fraught setting.",
+      "tags": [
+        "film",
+        "comedy",
+        "relationships"
+      ],
+      "priority": false
+    },
+    {
+      "id": "770c1a22a88667f1",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Tyler Cowen: The Future Belongs to AI Maniacs",
+      "url": "https://www.thefp.com/p/tyler-cowen-ai-maniacs-future-economy",
+      "summary": "Tyler Cowen describes \"AI maniacs\" as individuals obsessed with mastering and integrating the latest AI models into their workflows and personal lives. He suggests these individuals, leveraging AI, are starting smaller, highly profitable companies at an unprecedented rate.",
+      "tags": [
+        "ai",
+        "economy",
+        "entrepreneurship"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3dd45cebf649cdd1",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Why the Left Hates the Medicine That Made Me a Mom",
+      "url": "https://www.thefp.com/p/restorative-reproductive-medicine-fertility-motherhood",
+      "summary": "An author argues against the politicization of \"restorative reproductive medicine,\" a fertility treatment that helped her conceive. She criticizes left-leaning media for misrepresenting it as \"conservative quackery,\" despite its potential to help many women regardless of beliefs.",
+      "tags": [
+        "healthcare",
+        "fertility",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1b8e1d36dc0928a4",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "How to Get Love Less Wrong: George Saunders on Breaking the Patterns that Break Our Hearts",
+      "url": "https://www.themarginalian.org/2026/07/14/love-chekhov-the-darling-saunders/",
+      "summary": "George Saunders examines Chekhov's \"The Darling\" to explore how ingrained patterns of love often lead to suffering, illustrating love as \"complete absorption in\" rather than \"in full communication with.\" He highlights that relationships are a co-creation influenced by pre-existing emotional patterns.",
+      "tags": [
+        "literature",
+        "psychology",
+        "relationships"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0bf515ae06f51aa3",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Google and Epic give up fighting — third-party Android app stores are coming next week",
+      "url": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play",
+      "summary": "Google and Epic Games have jointly withdrawn their attempt to settle a lawsuit, meaning Google will be forced to carry rival app stores within Google Play in the US. Third-party Android app stores are now expected to launch next week, fundamentally changing the mobile app landscape.",
+      "tags": [
+        "android",
+        "app stores",
+        "tech policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "afa8a8cb3de52e5b",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Home Depot’s viral 12-foot skeleton now talks",
+      "url": "https://www.theverge.com/tech/964051/home-depot-halloween-skelly-skeleton-12-foot-mobile-app-sounds",
+      "summary": "Home Depot's viral 12-foot skeleton, Skelly, is being upgraded for 2026 to include mobile app-controlled talking features and 20 animated LCD eye variations. This new version will be available online soon, along with a new collection of Halloween characters.",
+      "tags": [
+        "retail",
+        "halloween",
+        "novelty tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "96949dec90462dde",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Samsung’s new foldable display is harder to crease and damage",
+      "url": "https://www.theverge.com/tech/965850/samsung-display-flex-titanium-galaxy-foldables",
+      "summary": "Samsung has unveiled Flex Titanium, a new flexible display technology designed for its upcoming Galaxy Z Fold 8 and Z Fold 8 Ultra, promising a slimmer, more durable, and less crease-prone screen. This advancement, also potentially appearing in a rumored iPhone foldable, incorporates titanium-based components to improve strength.",
+      "tags": [
+        "samsung",
+        "foldable phones",
+        "mobile tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "afb1f2a8cd8907f6",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The PS6 sure sounds like a handheld",
+      "url": "https://www.theverge.com/games/963132/sony-playstation-future-handheld-pc-business-meeting-end-of-discs",
+      "summary": "Sony's recent investor Q&A suggests the upcoming PlayStation 6 might be a handheld device, following hints about the console's future and the end of video game discs. Amid industry turmoil, this potential shift indicates Sony's strategy for its next-generation console.",
+      "tags": [
+        "playstation",
+        "gaming",
+        "consoles"
+      ],
+      "priority": false
+    },
+    {
+      "id": "621bd0092f06faa4",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The tiniest MMO",
+      "url": "https://www.theverge.com/entertainment/965621/playdate-mmo-pointlessquest",
+      "summary": "\"PointlessQuest,\" an MMO game developed as a side project, has launched on the Playdate console, reaching a peak of 15 concurrent players. This intentionally tiny game has garnered a small group of dedicated players who collaborate in its early stages.",
+      "tags": [
+        "gaming",
+        "mmo",
+        "indie games"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 112,
+    "summarized": 82,
+    "skipped_promos": 1,
+    "filtered_by_rules": 29,
+    "sources": 13,
+    "email_items_omitted": 0
+  }
+}
