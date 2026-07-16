@@ -1,0 +1,1430 @@
+{
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T15:29:32+00:00",
+  "hot_topics": [
+    {
+      "topic": "Tesla Autopilot Crash Investigation",
+      "synthesis": "Preliminary findings from the NTSB confirm Tesla's claims that a driver involved in a fatal Texas crash manually overrode the Full Self-Driving feature by pressing the accelerator to 100 percent. This directly contradicted the driver's earlier assertion that autopilot was engaged, providing critical data for the ongoing investigation into the accident.",
+      "item_ids": [
+        "c14583cf6dc00d85",
+        "0e797a98f5976057"
+      ]
+    },
+    {
+      "topic": "OnePlus Exits US and European Markets",
+      "synthesis": "Smartphone manufacturer OnePlus has officially confirmed its withdrawal from the US and European markets, with no new product launches planned for these regions. This decision follows a period of declining presence and carrier support in the US, while parent company Oppo has pledged to honor existing support and warranty agreements for current devices.",
+      "item_ids": [
+        "75a84c0ef7c46607",
+        "e6bfac6145db297d",
+        "eb9994d1b48cecac",
+        "cced27835a77d240"
+      ]
+    },
+    {
+      "topic": "OpenAI Introduces Branded Hardware",
+      "synthesis": "OpenAI has introduced its first branded hardware, the $230 Codex Micro, a specialized mini-keyboard designed for interacting with Codex AI agents. This launch comes amidst a legal dispute with Apple concerning hardware trade theft allegations, signaling OpenAI's move into physical devices.",
+      "item_ids": [
+        "39fe5e9b8f0cfa1f",
+        "d5bfc91d2c234fd6"
+      ]
+    },
+    {
+      "topic": "Google Faces Antitrust Challenges and Market Opening",
+      "synthesis": "Google faces significant challenges to its market control, with the European Union ordering greater access for rival AI assistants and search engines to Android and Google Search. Simultaneously, the withdrawal of a settlement with Epic Games will lead to third-party app stores appearing on Google Play, opening its ecosystem to more competition.",
+      "item_ids": [
+        "a2644e3440e28cfe",
+        "96f75c26077cc71b"
+      ]
+    },
+    {
+      "topic": "Falklands Dispute Fuels World Cup Rivalry",
+      "synthesis": "The World Cup semi-final match between England and Argentina has reignited deep-seated political tensions surrounding the Falkland Islands, with Argentinian players and politicians invoking the \"Malvinas\" dispute. This rivalry extends beyond the pitch, influencing regional relations and even discussions about oil drilling rights near the disputed territory, despite some calls from veterans to separate sport from war.",
+      "item_ids": [
+        "0bc4738b471debe3",
+        "1039d807d09538ec",
+        "3eb821cdd86e7eb1",
+        "2617a2e1a1a06966",
+        "15982547039398d7"
+      ]
+    },
+    {
+      "topic": "Advancements and Advocacy in Open Source AI",
+      "synthesis": "There's a growing movement advocating for and implementing open-source AI, with new models like Thinking Machines' Inkling and xAI's Grok Build being released publicly. Calls are also being made for greater investment from governments, companies, and nonprofits into free and open-source AI initiatives, challenging the prevalence of proprietary \"one-size-fits-all\" solutions.",
+      "item_ids": [
+        "d9660a86f77387db",
+        "3aca6737d7c12f8c",
+        "7c65ea358975c921",
+        "8dc37529357ff362"
+      ]
+    },
+    {
+      "topic": "AI Ethics and Societal Impact Concerns",
+      "synthesis": "Concerns about the ethical implications and societal impact of AI are rising, with Meta introducing alerts for parents if teens discuss self-harm with its AI chatbot. Separately, experts warn that algorithms and AI are contributing to a \"death of history\" by allowing antisemitism and other harmful narratives to spread unchecked, prioritizing spectacle over truth.",
+      "item_ids": [
+        "b2001029983019c8",
+        "9e8e256661c678b9"
+      ]
+    },
+    {
+      "topic": "AI Industry Competition and Strategic Moves",
+      "synthesis": "The AI industry is seeing intense competition, with Microsoft reportedly training its salespeople to promote in-house AI models as more efficient and cost-effective than those from OpenAI and Anthropic. Meanwhile, Chinese firms like Moonshot are developing large open AI models to close the performance gap with leading Western counterparts, and a notable number of Y Combinator founders are migrating to companies like OpenAI and Anthropic.",
+      "item_ids": [
+        "13f086bd9f7808ba",
+        "6785bb9a29860dbb",
+        "4672bb0a4dafc92a"
+      ]
+    },
+    {
+      "topic": "US Military Strikes and Iran Tensions",
+      "synthesis": "The US has launched waves of strikes against Iran, including targeting oil tankers, intensifying geopolitical tensions in the region and leading to explosions reported across Iran and neighboring Gulf states. This conflict is also having domestic political implications for the GOP and driving calls in the US to tax the windfall profits of oil companies benefiting from increased prices.",
+      "item_ids": [
+        "4f3710205af5e80c",
+        "2b72827c1cf9deb3",
+        "5278450db40c0d17",
+        "5aca9fabd0bd1e61"
+      ]
+    },
+    {
+      "topic": "Ukraine's Defense Minister Dismissed",
+      "synthesis": "Ukrainian President Volodymyr Zelenskyy has dismissed his popular and tech-savvy Defense Minister, Mykhailo Fedorov, a decision that has sparked protests in Ukrainian cities and caused upset among civil society and the military. The unexpected government reshuffle has not been publicly explained by Zelenskyy.",
+      "item_ids": [
+        "7049b2506030db2e",
+        "c543d88b93499548"
+      ]
+    },
+    {
+      "topic": "Trump Administration's Policy Initiatives",
+      "synthesis": "The Trump administration is pursuing several contentious policies, including proposing permanent fencing around Lafayette Park near the White House and the FCC's plan to repeal the 39% TV ownership cap. These actions, alongside a judge blocking a policy to deport content moderation researchers and public debate about Trump's personal earnings, highlight ongoing political and regulatory efforts.",
+      "item_ids": [
+        "14859e6300b3a36f",
+        "4057a887a8bd8de9",
+        "6cede1ecbf9deef8",
+        "23a7dd478182d21f"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "ea7f0eee8cd07dd6",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Loitering towards war",
+      "url": "https://aeon.co/essays/viennas-cafes-inspired-poets-belgrades-bred-dissent",
+      "summary": "The essay explores how Vienna's coffeehouses fostered modernism while Belgrade's kafanas cultivated dissent and rage, leading to a clash that ultimately consumed Europe. This offers a cultural perspective on the origins of conflict.",
+      "tags": [
+        "history",
+        "culture",
+        "europe"
+      ],
+      "priority": false
+    },
+    {
+      "id": "01ab760dad1e1260",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "What remains",
+      "url": "https://aeon.co/videos/how-oyster-cultivation-protects-louisianas-fragile-coastline",
+      "summary": "An ingenious restoration project in Louisiana is using oyster cultivation to combat coastal erosion. The humble oyster shell is being repurposed into a powerful tool for environmental protection.",
+      "tags": [
+        "environment",
+        "conservation",
+        "louisiana"
+      ],
+      "priority": false
+    },
+    {
+      "id": "46e3a670c7a282b0",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Engineer identifies and explains every '90s computer seen in Jurassic Park",
+      "url": "https://arstechnica.com/gadgets/2026/07/engineer-identifies-and-explains-every-90s-computer-seen-in-jurassic-park/",
+      "summary": "An engineer has meticulously identified and explained the '90s computers featured in the film Jurassic Park, despite the infamous \"Unix system\" meme. The film's production team was noted for its accurate sourcing of technology for the sets.",
+      "tags": [
+        "film",
+        "technology",
+        "retro"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4057a887a8bd8de9",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "FCC to repeal 39% TV ownership cap in boost for Trump-friendly news orgs",
+      "url": "https://arstechnica.com/tech-policy/2026/07/fcc-to-repeal-39-tv-ownership-cap-in-boost-for-trump-friendly-news-orgs/",
+      "summary": "The Federal Communications Commission will vote to repeal the National Television Ownership Rule that is supposed to prevent a single broadcast station owner from reaching more than 39 percent of all TV households in the US. The proposed change sets up a likely court battle over…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c6a4446c8274eed2",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Hundreds rally at Bethesda HQ to protest Xbox layoffs, and Ars was there",
+      "url": "https://arstechnica.com/gaming/2026/07/hundreds-rally-at-bethesda-hq-to-protest-xbox-layoffs-and-ars-was-there/",
+      "summary": "Hundreds of Bethesda and Zenimax employees, supported by unions, rallied outside Zenimax's headquarters to protest recent Xbox layoffs. Organizers emphasized solidarity and a pushback against job cuts they argue have decimated development and quality assurance teams.",
+      "tags": [
+        "xbox",
+        "layoffs",
+        "protest"
+      ],
+      "priority": false
+    },
+    {
+      "id": "14859e6300b3a36f",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Judge: Trump can’t deport researchers just for working in content moderation",
+      "url": "https://arstechnica.com/tech-policy/2026/07/judge-trump-cant-deport-researchers-just-for-working-in-content-moderation/",
+      "summary": "This week, the Coalition for Independent Technology Research (CITR) won a key battle in its fight to reverse a visa-restriction policy that the Trump administration had used to attempt to revoke green cards and deport non-US citizens who work on misinformation, disinformation, fa…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "39fe5e9b8f0cfa1f",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "OpenAI's first branded hardware is... a light-up keyboard?",
+      "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
+      "summary": "As rumors\ncontinue to swirl\nabout OpenAI's work on\na personalized smart speaker\nand other hardware, the company is today rolling out its first branded device. The $230 Codex Micro is a specialized, RGB-lit mini-keyboard designed to let users monitor and quickly interact with mult…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "457f18fc1ca773f9",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Sheetz is quitting VMware, migrating 11,000 virtual machines",
+      "url": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
+      "summary": "Sheetz, a US convenience store chain, is migrating approximately 11,000 virtual machines from VMware vSphere to StorMagic’s SvHCI across its 838 locations. This decision follows increased uncertainty created by Broadcom's management of VMware.",
+      "tags": [
+        "virtualization",
+        "cloud",
+        "it"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c14583cf6dc00d85",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Tesla driver who blamed crash on autopilot pressed accelerator 100%, NTSB finds",
+      "url": "https://arstechnica.com/tech-policy/2026/07/tesla-driver-who-blamed-crash-on-autopilot-pressed-accelerator-100-ntsb-finds/",
+      "summary": "On Wednesday, the National Transportation Safety Board (NTSB) released\npreliminary findings\nverifying Elon Musk’s and Tesla’s claims that a driver involved in a\nfatal Texas crash that killed a grandmother\noverrode Full Self Driving in the moments ahead of impact.\nLast month, 44-y…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "a2644e3440e28cfe",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Third-party app stores coming to Google Play next week as Epic settlement withdrawn",
+      "url": "https://arstechnica.com/gadgets/2026/07/third-party-app-stores-coming-to-google-play-next-week-as-epic-settlement-withdrawn/",
+      "summary": "Big changes are coming to Android apps, but they're not the changes Google wanted. The\nsettlement between Google and Epic\nthat aimed to put to rest the companies' long-running antitrust battle is being withdrawn, and that means third-party app stores are coming to the Play Store.…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "e95cdf9637e9f38f",
+      "source": "Astral Codex Ten",
+      "source_type": "substack",
+      "title": "Six Slightly Skew Boogeymen",
+      "url": "https://www.astralcodexten.com/p/six-slightly-skew-boogeymen",
+      "summary": "The article presents a discussion about \"Six Slightly Skew Boogeymen,\" likely exploring various lesser-known or misinterpreted societal fears or threats. Further details would require accessing the full content.",
+      "tags": [
+        "philosophy",
+        "society",
+        "fear"
+      ],
+      "priority": false
+    },
+    {
+      "id": "83969d923df1797c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'A true miracle of destiny' - Messi and Lamine Yamal's incredible first meeting",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9w0j104rvgo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Sport explores a bond between two world-class footballers from different generations who appear bound by destiny",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "ce358299a6faba14",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'I must get out into the free world', dissident who fled China on boat tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm2j2jw117lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Dong Guangping, a Chinese dissident who fled to South Korea by boat and resettled in Canada, recounted his perilous escape. He expressed a strong desire to live in \"the free world\" in an interview with the BBC.",
+      "tags": [
+        "china",
+        "dissident",
+        "escape"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9f6e99e4b5b6c744",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'Moment of joy' as Uganda discharges last Ebola patient",
+      "url": "https://www.bbc.co.uk/news/articles/cx2myxjv172o?at_medium=RSS&at_campaign=rss",
+      "summary": "Uganda has discharged its last Ebola patient, marking a \"moment of joy\" and a significant step towards containing the outbreak. Most recent cases were linked to travelers from the Democratic Republic of Congo.",
+      "tags": [
+        "uganda",
+        "ebola",
+        "health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f88fd1889bb5b3af",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "A Cold War bunker gets a luxury makeover as 'doomsday' condos",
+      "url": "https://www.bbc.co.uk/news/articles/cn4d3lpjkggo?at_medium=RSS&at_campaign=rss",
+      "summary": "A former Canadian government nuclear bomb shelter in rural Nova Scotia may soon be home to the country’s first large-scale luxury survival shelter.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "9356532703614583",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Actor Sam Neill died from pneumonia, agent confirms",
+      "url": "https://www.bbc.co.uk/news/articles/cddj7e8v767o?at_medium=RSS&at_campaign=rss",
+      "summary": "Actor Sam Neill passed away in Sydney on Monday due to pneumonia, his agent confirmed, describing his death as \"sudden and unexpected.\" Neill was a renowned figure in film and television.",
+      "tags": [
+        "obituary",
+        "celebrity",
+        "actor"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0bc4738b471debe3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Argentina face action over Falklands banner",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
+      "summary": "Argentina face the prospect of disciplinary action from Fifa after their players celebrate the World Cup semi-final win against England with a banner in support of their country's claims to the Falkland Islands.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "d421a2b89c8bf610",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Bangkok's bar fire is the city's latest deadly blaze - will anything ever change?",
+      "url": "https://www.bbc.co.uk/news/articles/cd6e68n3jz5o?at_medium=RSS&at_campaign=rss",
+      "summary": "A deadly bar fire in Bangkok is the city's latest such tragedy, prompting renewed calls for action and safety reforms. The recurring nature of such incidents raises questions about whether meaningful change will occur.",
+      "tags": [
+        "thailand",
+        "fire",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "656dc8b3cf834948",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Blanche apologises on Capitol Hill for Epstein files 'mistakes'",
+      "url": "https://www.bbc.co.uk/news/articles/c62q3g32204o?at_medium=RSS&at_campaign=rss",
+      "summary": "Blanche apologized on Capitol Hill for \"mistakes\" related to the Epstein files, facing bipartisan scrutiny as he seeks to become the permanent US attorney general. His confirmation hearing included questions about his handling of the controversial case.",
+      "tags": [
+        "justice",
+        "epstein",
+        "government"
+      ],
+      "priority": false
+    },
+    {
+      "id": "82a7abdc53fff17d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Children among dead at Algeria foster care home blaze - president",
+      "url": "https://www.bbc.co.uk/news/articles/cvgwd4nz344o?at_medium=RSS&at_campaign=rss",
+      "summary": "Eleven people died, including children, and 19 were injured in an overnight fire at an Algeria foster care home. Authorities are investigating the tragic incident.",
+      "tags": [
+        "algeria",
+        "fire",
+        "tragedy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "692432e4dc1ae667",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Chip giant TSMC pledges another $100bn to expand US production",
+      "url": "https://www.bbc.co.uk/news/articles/c62x8ldxr7eo?at_medium=RSS&at_campaign=rss",
+      "summary": "TSMC has pledged an additional $100 billion to expand its chip production in the US, increasing its total commitment to $265 billion. The company anticipates creating numerous high-tech, high-paying jobs as a result.",
+      "tags": [
+        "tsmc",
+        "semiconductors",
+        "manufacturing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a43046afd2ec3bd5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Crackdown on 'objectionable' books in Indian-administered Kashmir sparks row",
+      "url": "https://www.bbc.co.uk/news/articles/c0jyj292xdgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities in Indian-administered Kashmir have sparked controversy by ordering educational institutions to review all books for \"objectionable\" content. This move has led to concerns about censorship and academic freedom.",
+      "tags": [
+        "kashmir",
+        "india",
+        "censorship"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bb4225fdf101f868",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Dramatic video shows wildfire surround freight train in Canada",
+      "url": "https://www.bbc.co.uk/news/videos/cwy0yyzdqxvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Dramatic video footage captured a freight train in Ontario, Canada, being surrounded by a wildfire, leading to a temporary suspension of operations in the affected area by CN Rail. The incident underscores the severity of the ongoing wildfires.",
+      "tags": [
+        "canada",
+        "wildfires",
+        "freight"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ba3abb0f38058027",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Five arrested after Hong Kong police raid independent bookshops",
+      "url": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hong Kong police arrested five people after raiding independent bookshops suspected of selling \"seditious\" books that incited \"hatred\" against authorities. This action raises concerns about freedom of expression.",
+      "tags": [
+        "hong kong",
+        "censorship",
+        "police"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a67673a518c0d961",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Fraud crackdown on Ghana ID cards makes digital checks compulsory - photocopies banned",
+      "url": "https://www.bbc.co.uk/news/articles/cn4n9q538z2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ghana has mandated compulsory digital verification for ID cards and banned photocopies to combat fraud and forgery. This measure aims to enhance the security and integrity of identity checks.",
+      "tags": [
+        "ghana",
+        "id cards",
+        "fraud"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6f7f2c9b4bbc6d09",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "French MPs approve assisted dying law with strict rules after years of argument",
+      "url": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
+      "summary": "French MPs have approved a strictly regulated assisted dying law for terminally ill adults, following years of debate. The legislation sets stringent criteria for eligibility.",
+      "tags": [
+        "france",
+        "law",
+        "healthcare"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4f3710205af5e80c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Iran targets military bases as US launches wave of strikes",
+      "url": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "3669919f8435e625",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
+      "url": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Italy's former motorway operator head, Giovanni Castellucci, received a 12-year jail term for his role in the 2018 Genoa bridge collapse that killed 43 people. Several other officials also faced jail terms related to the disaster.",
+      "tags": [
+        "italy",
+        "disaster",
+        "infrastructure"
+      ],
+      "priority": false
+    },
+    {
+      "id": "db6709e036895636",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Moment US Navy jet stuns packed Florida beach with low flypast",
+      "url": "https://www.bbc.co.uk/news/videos/cx27ljkngxmo?at_medium=RSS&at_campaign=rss",
+      "summary": "A US Navy Blue Angels jet performed a low-altitude flypast over a crowded Pensacola Beach, Florida, causing beach items to be lifted into the air. The dramatic maneuver captured public attention.",
+      "tags": [
+        "navy",
+        "military",
+        "aviation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e92d53958ffee44a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "More people around the world now favour China over the US, Pew study suggests",
+      "url": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss",
+      "summary": "A Pew study indicates that more people globally now favor China over the US, with greater confidence in Xi Jinping than Donald Trump. This suggests a shift in international public opinion regarding global leadership.",
+      "tags": [
+        "geopolitics",
+        "china",
+        "us"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f21d290ddcc9db51",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "More than 800 Canadian wildfires burning as air quality alerts extend to US",
+      "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Over 800 Canadian wildfires are actively burning, leading to hazardous air quality alerts extending into US states like Michigan, Minneapolis, and Minnesota. The fires are causing widespread environmental and health concerns.",
+      "tags": [
+        "canada",
+        "wildfires",
+        "air quality"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9ade834eefc93906",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "New monkey species with orange lips found 'hiding' in DR Congo forest",
+      "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Scientists have discovered a new monkey species with distinctive orange lips, previously unknown, in a forest in the Democratic Republic of Congo. This finding represents a rare and exciting moment for primatology.",
+      "tags": [
+        "science",
+        "discovery",
+        "animals"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b9338ac56183fc27",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Orange haze from Canada wildfires seen in Ontario and northern US",
+      "url": "https://www.bbc.co.uk/news/videos/c62q3kw126xo?at_medium=RSS&at_campaign=rss",
+      "summary": "An orange haze from Canadian wildfires is visible in Ontario and the northern US, as 838 active fires continue to burn across Canada. This phenomenon highlights the extensive impact of the ongoing fire crisis.",
+      "tags": [
+        "canada",
+        "wildfires",
+        "air quality"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ed5cad0564320d93",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Pakistan resisting UK attempts to deport grooming gang leader",
+      "url": "https://www.bbc.co.uk/news/articles/clyxnvjy706o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pakistan is resisting attempts by the UK to deport Shabir Ahmed, a convicted grooming gang leader, stating it has \"no connection whatsoever\" with his case. This creates a diplomatic challenge for the UK government.",
+      "tags": [
+        "pakistan",
+        "uk",
+        "deportation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7049b2506030db2e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Protests in Ukrainian cities against Zelensky's removal of defence minister",
+      "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president has not explained Mykhailo Fedorov's dismissal, which is causing great upset among civil society and the military.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f6baafaf73124f10",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Russian attacks kill 14 as Ukraine hits Black Sea oil tankers",
+      "url": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Russian attacks in Ukraine resulted in 14 civilian deaths across several regions, while Kyiv struck 20 Russian vessels in the Black Sea. This marks a significant escalation in naval conflict.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "69272c00edf0457a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US military to start screening for testosterone deficiency, Hegseth says",
+      "url": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US military will begin screening for testosterone deficiency to ensure troops operate at their best, according to Hegseth. This new authorization aims to optimize military performance and health.",
+      "tags": [
+        "military",
+        "health",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2b72827c1cf9deb3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US strikes first tanker with missiles as it enforces new blockade",
+      "url": "https://www.bbc.co.uk/news/articles/clyqwkegqk0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US military targeted an unladen oil tanker which it said was heading for the key Iranian oil terminal on Kharg island.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "cfe6c6c3fcb69fb1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Volunteer firefighter suspected of starting devastating France forest fire",
+      "url": "https://www.bbc.co.uk/news/articles/ce97zd8yx1xo?at_medium=RSS&at_campaign=rss",
+      "summary": "A volunteer firefighter is suspected of intentionally starting a devastating forest fire in France, prompting President Macron to declare no leniency for arsonists. France and much of Europe are currently experiencing unusual heatwaves.",
+      "tags": [
+        "france",
+        "wildfires",
+        "arson"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ad879a3d2a154f88",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What if Bluey spoke one of the world's oldest living languages?",
+      "url": "https://www.bbc.co.uk/news/videos/c07y7r91vz9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Five episodes of the children's cartoon \"Bluey\" have been released in an Australian Indigenous language for the first time. This initiative aims to celebrate and promote one of the world's oldest living languages.",
+      "tags": [
+        "bluey",
+        "indigenous language",
+        "australia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bd856b56376a4f7f",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Bluesky Trademarks ATProto",
+      "url": "https://atproto.com/blog/at-protocol-trademark",
+      "summary": "Bluesky has officially trademarked ATProto, the underlying protocol for its decentralized social network. This move secures intellectual property for their foundational technology.",
+      "tags": [
+        "bluesky",
+        "social media",
+        "protocol"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3aca6737d7c12f8c",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "summary": "Article URL:\nhttps://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf\nComments URL:\nhttps://news.ycombinator.com/item?id=48927095\nPoints: 255\n# Comments: 93",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "7c65ea358975c921",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Grok Build is open source",
+      "url": "https://github.com/xai-org/grok-build",
+      "summary": "Article URL:\nhttps://github.com/xai-org/grok-build\nComments URL:\nhttps://news.ycombinator.com/item?id=48926590\nPoints: 541\n# Comments: 569",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "e9cf73f8c6317d82",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "If you want to create a button from scratch, you must first create the universe",
+      "url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
+      "summary": "An article discusses the complex underlying requirements for creating even a simple UI element like a button from scratch, touching upon themes of accessibility. The title uses a hyperbolic phrase to emphasize the depth of dependencies.",
+      "tags": [
+        "software development",
+        "ui",
+        "ux"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8dc37529357ff362",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Inkling: Our Open-Weights Model",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "summary": "Article URL:\nhttps://thinkingmachines.ai/news/introducing-inkling/\nComments URL:\nhttps://news.ycombinator.com/item?id=48924912\nPoints: 1126\n# Comments: 274",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "cced27835a77d240",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "OnePlus halts operations in USA and Europe",
+      "url": "https://community.oneplus.com/thread/2170715118587871237",
+      "summary": "Article URL:\nhttps://community.oneplus.com/thread/2170715118587871237\nComments URL:\nhttps://news.ycombinator.com/item?id=48932539\nPoints: 323\n# Comments: 183",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "d1130b4bae6ab1a7",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Sony Deletes a Bunch More Movies from the Accounts of People Who 'Bought' Them",
+      "url": "https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/",
+      "summary": "Sony has reportedly deleted additional movies from the accounts of users who previously \"bought\" them, sparking concerns about digital ownership rights. The original article from Techdirt discusses this ongoing issue.",
+      "tags": [
+        "sony",
+        "digital rights",
+        "streaming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "71bd436f8515b130",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "SQLite should have (Rust-style) editions",
+      "url": "https://mort.coffee/home/sqlite-editions/",
+      "summary": "An argument is presented for SQLite to adopt \"editions\" similar to Rust, suggesting a versioning scheme for language changes. This proposes a way to manage compatibility and introduce new features incrementally.",
+      "tags": [
+        "sqlite",
+        "rust",
+        "programming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dca151262f805de7",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The lost joy of music piracy",
+      "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+      "summary": "An article reflects on \"the lost joy of music piracy,\" discussing historical methods and cultural aspects of illegal music downloading. It implicitly contrasts past practices with modern streaming services.",
+      "tags": [
+        "music",
+        "piracy",
+        "streaming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4672bb0a4dafc92a",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
+      "url": "https://joinedanthropic.com",
+      "summary": "Article URL:\nhttps://joinedanthropic.com\nComments URL:\nhttps://news.ycombinator.com/item?id=48931588\nPoints: 229\n# Comments: 125",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "2d8e7d345310712e",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "'Gossip' had godly origins. Here's how it gained its sinful reputation",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5884780/gossip-word-origins-etymology",
+      "summary": "An article explores the etymology of the word \"gossip,\" revealing its historical ties to family and friendship before acquiring its current negative connotation. The piece traces the evolution of its reputation.",
+      "tags": [
+        "language",
+        "etymology",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d04f7c06a256fc95",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Bike lanes and speed cameras disappear from the DOT's list of proven safety measures",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5893672/dot-bike-lanes-speed-cameras-safety-measures",
+      "summary": "The Federal Highway Administration quietly stripped bike lanes and other safety recommendations from a key list of best practices. Critics say those measures are proven to cut crashes and save lives.\n(Image credit: Heather Diehl)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "3979a4d07a522bfb",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "DHS pledged body cams for all immigration agents. Months later, that hasn't happened",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5894825/body-cams-ice-shootings",
+      "summary": "The Department of Homeland Security's pledge to equip all immigration agents with body cameras has not been fulfilled months later. This comes after federal officers fatally shot two immigrant fathers without wearing body cameras.",
+      "tags": [
+        "dhs",
+        "immigration",
+        "body cameras"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b40e8b737fc3f3b8",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "No Asian team managed to go far this World Cup (again). What's holding them back?",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5884732/world-cup-asian-football-confederation-korea-japan",
+      "summary": "For the sixth consecutive World Cup, no Asian team advanced past the first knockout round, winning only three out of 29 games. This raises questions about the competitive ceiling for Asian football teams.",
+      "tags": [
+        "football",
+        "world cup",
+        "asia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5aca9fabd0bd1e61",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Oil companies are making billions. In the U.S., calls to tax their windfall are growing",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5845818/oil-prices-windfall-tax-iran-war",
+      "summary": "Higher oil prices since the Iran war began mean many oil companies have brought in excess profits. Some U.S. lawmakers want to tax those windfall profits and give the money to lower-income Americans.\n(Image credit: Brandon Bell)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "5278450db40c0d17",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "The political risks from war in Iran. And, ICE's use of force is rising, report finds",
+      "url": "https://www.npr.org/2026/07/16/g-s1-133918/up-first-newsletter-iran-us-trump-jay-clayton-ice-use-of-force",
+      "summary": "The political implications the war in Iran is having on the GOP. And, a new report has found that ICE officers' use of force is not rare since President Trump took office for his second term.\n(Image credit: -/AFP via Getty Images)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "23a7dd478182d21f",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump earned billions last year. Some Pennsylvania swing voters say they don't care",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5893599/pennsylvania-focus-groups-trump-corruption",
+      "summary": "Key voters in Pennsylvania are split on whether President Trump earning a big windfall last year is a big deal or not. Their reaction reveals a level of cynicism about many in the political class.\n(Image credit: Alex Wong)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "6cede1ecbf9deef8",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump wants to fence off the park closest to the White House, a popular protest spot",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal",
+      "summary": "The Trump administration wants to install permanent fencing around Lafayette Park, directly outside the White House. It's long been a popular spot for protesters, who worry barriers will change that.\n(Image credit: U.S. Commission of Fine Arts)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c543d88b93499548",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Zelenskyy fires Ukraine's tech-savvy defense minister in government reshuffle",
+      "url": "https://www.npr.org/2026/07/16/g-s1-133920/ukraine-defense-minister-fired",
+      "summary": "Ukraine's President Volodymyr Zelenskyy has fired the country's popular defense minister, who pushed for innovation in the battlefield through the use of drones and turned the tables on Russia.\n(Image credit: ROMAN PILIPEY)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "d0ad50efbe25ded4",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "A British diplomat with a diplomatic answer",
+      "url": "https://www.politico.com/live-updates/2026/07/15/world-cup-2026/diplomatic-view-from-d-c-00999880",
+      "summary": "Foreign-affairs columnist Nahal Toosi reported live from the United Kingdom's embassy in Washington. This brief update offered a glimpse into diplomatic activity related to the World Cup.",
+      "tags": [
+        "diplomacy",
+        "politics",
+        "uk"
+      ],
+      "priority": false
+    },
+    {
+      "id": "15982547039398d7",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Beneath the Atlantic seabed, England and Argentina are both losing out",
+      "url": "https://www.politico.com/live-updates/2026/07/15/world-cup-2026/england-argentina-falkland-islands-oil-drilling-00998823",
+      "summary": "It’s win or bust for England and Argentina in Atlanta tonight.\nBut in one area of global affairs — in a part of the world very familiar to leaders in London and Buenos Aires — both are about to lose.\nAs\nfirst reported by the Financial Times\n, developers are prepping to drill the…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "8c3c63d8e7be2ec4",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Big day for a British Overseas Territory (no, not that one)",
+      "url": "https://www.politico.com/live-updates/2026/07/15/world-cup-2026/gibraltar-border-spain-united-kingdom-00998934",
+      "summary": "The 118-year-old border between Gibraltar and Spain is set to disappear, marking the culmination of a decade of negotiations following Brexit. This agreement will largely remove physical border controls, streamlining travel and goods flow between Gibraltar and the Schengen area while maintaining Gibraltar's sovereignty.",
+      "tags": [
+        "gibraltar",
+        "brexit",
+        "spain"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a668786b374a1b1e",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Dems have a big cash advantage in key Senate races",
+      "url": "https://www.politico.com/news/2026/07/16/democrats-senate-map-cash-advantage-elections-01000497",
+      "summary": "Democrats hold significant cash advantages in several pivotal Senate races, out-raising their Republican opponents in states like Georgia, North Carolina, and Texas. However, Republicans maintain a financial edge in some contentious primary states.",
+      "tags": [
+        "elections",
+        "fundraising",
+        "democrats"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b3f57af1bced9173",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "England-Argentina dominates Keir Starmer’s final parliament grilling",
+      "url": "https://www.politico.com/live-updates/2026/07/15/world-cup-2026/england-argentina-world-cup-question-time-keir-starmer-00998896",
+      "summary": "England's World Cup semi-final match against Argentina was a dominant topic during Keir Starmer’s final Prime Minister's Questions, with various MPs making football-related remarks. The Speaker and Starmer himself expressed anticipation for the game.",
+      "tags": [
+        "politics",
+        "uk",
+        "football"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b42d89845444a42d",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Football might be coming home — but Prince William is staying home (for now)",
+      "url": "https://www.politico.com/live-updates/2026/07/15/world-cup-2026/england-world-cup-prince-william-00998906",
+      "summary": "Prince William will only attend the World Cup final if England qualifies, otherwise watching the semi-final with his family. Meanwhile, Queen Máxima of the Netherlands, an Argentine native, supports Argentina when they don't play the Dutch.",
+      "tags": [
+        "royal family",
+        "england",
+        "argentina"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3eb821cdd86e7eb1",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Gathering of Latino-American politicians shows little love for Argentina",
+      "url": "https://www.politico.com/live-updates/2026/07/15/world-cup-2026/latino-pols-pick-england-over-argentina-naleo-los-angeles-00999870",
+      "summary": "LOS ANGELES — Some of the most powerful Latino politicians in the United States were invited to wear their favorite soccer jerseys. But few chose Argentina’s\nAbiceleste.\nMayor Frank Figueroa of Coachella, California said his feelings toward Argentina as a “Latin American country”…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "0c1eff0ece941c60",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Hilton honors England",
+      "url": "https://www.politico.com/live-updates/2026/07/15/world-cup-2026/steve-hilton-root-england-naleo-00999718",
+      "summary": "California gubernatorial candidate Steve Hilton, a British-born Republican, publicly expressed his desire for Americans to support England in the World Cup. His remark at a Latino elected officials conference received mixed reactions.",
+      "tags": [
+        "politics",
+        "world cup",
+        "england"
+      ],
+      "priority": false
+    },
+    {
+      "id": "35bed9ec91bcd58d",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Scottish independents should back England, needles conservative leader",
+      "url": "https://www.politico.com/live-updates/2026/07/15/world-cup-2026/world-cup-england-argentina-kemi-badenoch-00999183",
+      "summary": "Tory Leader Kemi Badenoch playfully urged Scottish independence-supporting MPs to back England in the World Cup semi-final against Argentina. This political jibe highlighted the traditional footballing rivalry within the UK.",
+      "tags": [
+        "uk",
+        "scotland",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "525e94c585e2b921",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Spot the pol!",
+      "url": "https://www.politico.com/live-updates/2026/07/15/world-cup-2026/spot-the-pol-00999739",
+      "summary": "Jamaican Prime Minister Andrew Michael Holness was spotted at a World Cup match, shaking hands with former Liberian president George Weah. The article jokingly challenged readers to identify the political figure.",
+      "tags": [
+        "politics",
+        "world cup",
+        "jamaica"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1039d807d09538ec",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Trading soccer shirts",
+      "url": "https://www.politico.com/live-updates/2026/07/15/world-cup-2026/britain-argentina-trade-relationship-fifa-world-cup-00999890",
+      "summary": "Britain’s Trade Minister Chris Bryant said he was texting his Argentinian counterpart, Fernando Brun, ahead of England’s World Cup clash with the champions on Wednesday — and plans to exchange soccer shirts with him.\nSpeaking to POLITICO in London earlier this week, Bryant said h…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "d6b96267cd699d70",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Wales finds reason to cheer England",
+      "url": "https://www.politico.com/live-updates/2026/07/15/world-cup-2026/world-cup-bank-holiday-in-the-uk-00999322",
+      "summary": "Welsh nationalists in Cardiff, who seek a bank holiday for St. David’s Day, found a reason to support England in the World Cup. They hope an English victory leading to a new UK bank holiday would bring them closer to their own national holiday.",
+      "tags": [
+        "wales",
+        "england",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2617a2e1a1a06966",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "‘Sport is not war.’ Except when Argentina plays England.",
+      "url": "https://www.politico.com/live-updates/2026/07/15/world-cup-2026/world-cup-england-argentina-falkland-islands-00999076",
+      "summary": "“It’s a soccer match. Nothing more to it. Period.”\nThat’s how Argentina coach Lionel Scaloni\ndescribed his team’s upcoming World Cup semifinal\nagainst England to journalists.\nNo one believes him, least of all Argentinians themselves.\nFor many in the South American nation, the mat…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "53d8258781001038",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "Thermodynamic Computers Go With the (Energy) Flow",
+      "url": "https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715/",
+      "summary": "The article explores thermodynamic computers, which aim to operate efficiently by working with, rather than fighting against, the inherent thermal noise of atoms. This approach seeks to overcome challenges to precision in both classical and quantum computing.",
+      "tags": [
+        "computing",
+        "thermodynamics",
+        "physics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a4da7811a517a68a",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Mermaid to Unicode box art (grok-mermaid)",
+      "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything",
+      "summary": "A new tool called grok-mermaid, found within the newly open-sourced Grok CLI coding agent, renders Mermaid diagrams as Unicode box art in the terminal. The creator used Claude Code for web to develop a browser-based version.",
+      "tags": [
+        "tools",
+        "rust",
+        "webassembly"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b26304255ece3cfa",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Linus Torvalds",
+      "url": "https://simonwillison.net/2026/Jul/16/linus-torvalds/#atom-everything",
+      "summary": "Linus Torvalds, the creator of Linux, strongly stated that Linux is not an anti-AI project and views AI as a clearly useful tool. He asserted that those with issues regarding AI's utility can fork the project or leave.",
+      "tags": [
+        "linus torvalds",
+        "linux",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6b135b367925ddce",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "The abundance agenda has arrived",
+      "url": "https://www.slowboring.com/p/the-abundance-agenda-has-arrived",
+      "summary": "A modern apartment building. (Photo by\nxphotoz\nvia Getty Images)\nThe 21st Century ROAD to Housing Act is officially federal law. Congress passed it with bipartisan majorities but, rather than sign it, President Donald Trump let the constitutional clock run out and the bill became…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f4ad644432777959",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "The progressive executive power delusion",
+      "url": "https://www.slowboring.com/p/the-progressive-executive-power-delusion",
+      "summary": "Advocates demand Joe Biden cancel student debt. (Photo by\nPaul Morigi\n/Stringer via Getty Images)\nDonald Trump has wielded executive power in creative and aggressive ways.\nSome of these efforts have failed in court, but he’s also scored important victories. It’s useful and import…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "d5bfc91d2c234fd6",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "cf047f109b705a3a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apple bans home services from its upcoming Maps ads",
+      "url": "https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/",
+      "summary": "Apple has published new policies for its upcoming Maps advertising business, prohibiting home services and other sensitive categories from advertising. This indicates a more curated approach compared to Google's ad strategy.",
+      "tags": [
+        "apple",
+        "ads",
+        "maps"
+      ],
+      "priority": false
+    },
+    {
+      "id": "27ecb4aa1f1f776a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+      "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "summary": "Apple Intelligence has received approval to launch in China through partnerships with Alibaba and Baidu, marking a crucial step for Apple's AI ambitions in the key Chinese market. The collaboration was previously rumored last year.",
+      "tags": [
+        "apple",
+        "ai",
+        "china"
+      ],
+      "priority": false
+    },
+    {
+      "id": "84621d492567b29f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "summary": "Applied Computing raised $20 million in Series A funding to develop a foundational AI model for the oil, gas, and petrochemical industry. This model aims to provide operators with a comprehensive AI solution for entire plants.",
+      "tags": [
+        "ai",
+        "oil and gas",
+        "industrial ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6870eb6e051de23a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Google’s biggest clean power project is 40 miles north of xAI’s unpermitted gas power plant",
+      "url": "https://techcrunch.com/2026/07/15/googles-biggest-clean-power-project-is-40-miles-north-of-xais-unpermitted-gas-power-plant/",
+      "summary": "Google's largest solar and battery project is located 40 miles from xAI's unpermitted gas power plant, highlighting a stark contrast in their energy strategies. This underscores differing approaches to sustainability within the tech industry.",
+      "tags": [
+        "google",
+        "xai",
+        "energy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "73e991bf4ad60ae9",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+      "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+      "summary": "A former DeepMind researcher, instrumental in developing AI systems that influenced ChatGPT, secured a $300 million pre-seed valuation for his new venture focusing on visual AI. He believes visual AI represents a significant frontier in artificial intelligence.",
+      "tags": [
+        "ai",
+        "deepmind",
+        "startup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fce79aabf7782b1f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Lululemon backs nylon-recycling startup Syntetica in $30M Series A",
+      "url": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
+      "summary": "Syntetica, a French startup with a new approach to nylon recycling, has secured a $30 million Series A investment, with Lululemon among its backers. The company has already attracted major partners and investors for its innovative recycling technology.",
+      "tags": [
+        "recycling",
+        "sustainability",
+        "startup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b2001029983019c8",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot",
+      "url": "https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/",
+      "summary": "The updates come as Meta and other tech companies are facing scrutiny from regulators and parents around how AI chatbots respond to users in crisis, particularly teenagers.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "6785bb9a29860dbb",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "030b5cdffab14633",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Microsoft patches bug in video game Age of Empires II",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/",
+      "summary": "Microsoft patched a vulnerability in the decades-old video game Age of Empires II that could have allowed hackers to take over victims’ computers. The exploit was possible through a malicious game invite.",
+      "tags": [
+        "microsoft",
+        "gaming",
+        "security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "13f086bd9f7808ba",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
+      "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+      "summary": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "eb9994d1b48cecac",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Phone maker OnePlus says it won’t release new phones in the US and Europe",
+      "url": "https://techcrunch.com/2026/07/16/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/",
+      "summary": "OnePlus could also wind down its operations in India by 2027.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "6a6a0182fbed8ce4",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Sheryl Sandberg leads $10 million investment in AI-powered vehicle inspection service",
+      "url": "https://techcrunch.com/2026/07/16/sheryl-sandberg-leads-10-million-investment-in-ai-powered-vehicle-inspection-service/",
+      "summary": "Sheryl Sandberg led a $10 million investment round in a startup that offers an AI-powered vehicle inspection service. The 2021-founded company enables enterprise customers to use smartphones to scan and identify vehicle damage.",
+      "tags": [
+        "ai",
+        "investment",
+        "automotive"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0e797a98f5976057",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
+      "url": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/",
+      "summary": "The safety board confirmed Tesla's account of the crash, which the company shared days after it happened last month.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "d9660a86f77387db",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+      "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "summary": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "72692b6807bff84b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Ultrahuman’s former hardware VP raises $5.5M for devices that control AI agents, not just record you",
+      "url": "https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/",
+      "summary": "The former hardware VP of Ultrahuman secured $5.5 million in funding for Aina, a new venture developing devices that control AI agents rather than merely recording user data. Aina plans to pilot its innovative device in the coming weeks.",
+      "tags": [
+        "ai",
+        "hardware",
+        "startup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d1ce6703ee648f1e",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
+      "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
+      "summary": "Alexandre LeBrun, CEO of AMI Labs, a startup focusing on world models, refrains from using terms like \"AGI\" or \"superintelligence\" to describe his AI. This stance contrasts with the broader AI industry's pursuit of such concepts.",
+      "tags": [
+        "ai",
+        "agi",
+        "terminology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f54cc36de52beb52",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
+      "url": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
+      "summary": "Greylock limited its new fund to $1.5 billion, despite being able to raise more, to maintain its strategy of making approximately 25 investments per fund. This approach aims to ensure Greylock remains a crucial partner for its founders.",
+      "tags": [
+        "venture capital",
+        "funding",
+        "investment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9e8e256661c678b9",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Death of History",
+      "url": "https://www.thefp.com/p/the-death-of-history",
+      "summary": "History is no stranger to surges of antisemitism. The world’s oldest hatred has resurfaced in every generation since antiquity—including our own.\nBut this time is different: In the past, the best, and indeed the only, response to antisemitism was the truth. Myths of Jewish malevo…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "0772b9d3ddf608da",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Tough Love: I Hate My Ex-Wife",
+      "url": "https://www.thefp.com/p/tough-love-i-hate-my-ex-wife",
+      "summary": "A person writes about their enduring rage towards their ex-wife five years after a divorce, despite finding new love and happiness. They struggle with forgiving the perceived betrayal and the impact on their children.",
+      "tags": [
+        "relationships",
+        "divorce",
+        "emotions"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5a4ba0113863c980",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Apple&#8217;s OLED iPad Mini upgrade is on the way as prices continue to rise",
+      "url": "https://www.theverge.com/tech/966535/apple-oled-ipad-mini-rumor",
+      "summary": "The iPad Mini is rumored to receive an OLED display upgrade as early as October, representing its most significant refresh since 2021. This upgrade is expected to come with a further price increase, following recent hikes across Apple's product lineup.",
+      "tags": [
+        "apple",
+        "ipad mini",
+        "oled"
+      ],
+      "priority": false
+    },
+    {
+      "id": "35371e7f3a4f39f8",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Computer cops",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
+      "summary": "Artificial intelligence is poised to automate critical and routine aspects of policing, threatening to reshape the legal process in America. This trend was highlighted at the International Association of Chiefs of Police Technology Conference.",
+      "tags": [
+        "ai",
+        "policing",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "96f75c26077cc71b",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Google ordered to open Android and Search to rivals in Europe",
+      "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+      "summary": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules.\nThe two\ndecisions\n, handed down Thursday, could weaken Google's control…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "edd886774ba71880",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Ninja’s microwave air fryer could be the fix for soggy reheated pizza",
+      "url": "https://www.theverge.com/tech/966175/ninja-crispi-microwave-air-fryer-kitchen-appliance",
+      "summary": "Ninja has introduced its first microwave, the Crispi Microwave, which also functions as an air fryer. This $449 appliance aims to provide crispy reheated food and potentially replace two kitchen devices.",
+      "tags": [
+        "appliances",
+        "kitchen",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "75a84c0ef7c46607",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "OnePlus never had a chance in the US",
+      "url": "https://www.theverge.com/tech/966274/oneplus-never-had-a-chance-in-the-us",
+      "summary": "After an eight-year run, OnePlus announced today that it has exited the United States. It's bittersweet, as the brand has been on a comeback tour of sorts with its\nexcellent OnePlus 15\nand widely praised (though still too expensive)\nOnePlus Open\n.\nThe writing has been on the wall…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "e6bfac6145db297d",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "OnePlus officially gives up on the US and Europe",
+      "url": "https://www.theverge.com/tech/966404/oneplus-oppo-us-europe-withdrawal-realme",
+      "summary": "The OnePlus 15 was the company’s final US flagship. | Photo: Allison Johnson / The Verge\nOnePlus has confirmed what industry observers have\nlong expected\n: it's quitting the US and European markets, and will no longer launch new products in either region. Parent company Oppo prom…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "b0f7382edab35759",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Samsung&#8217;s Galaxy Z Flip 8 leaks a week before launch event",
+      "url": "https://www.theverge.com/tech/966492/samsung-galaxy-z-flip-8-design-specs-leaked",
+      "summary": "Leaked images and specifications suggest Samsung's upcoming Galaxy Z Flip 8 will be nearly identical to its predecessor, the Z Flip 7. The main changes appear to be the inclusion of a Samsung Exynos 2600 chip and support for 45W wired charging.",
+      "tags": [
+        "samsung",
+        "galaxy",
+        "smartphone"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b68f0b52910751cb",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Skullcandy’s bass-boosting Crusher headphones now come with Bose’s ANC",
+      "url": "https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones",
+      "summary": "Skullcandy has released a new version of its Crusher wireless headphones, incorporating Bose's QuietControl ANC and head-tracking spatial audio technologies. These headphones feature dedicated bass drivers and are designed to improve audio quality when bass is heavily boosted.",
+      "tags": [
+        "headphones",
+        "audio",
+        "technology"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 128,
+    "summarized": 105,
+    "skipped_promos": 0,
+    "filtered_by_rules": 23,
+    "sources": 13,
+    "email_items_omitted": 0
+  }
+}
