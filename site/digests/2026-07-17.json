@@ -1,0 +1,1324 @@
+{
+  "date": "2026-07-17",
+  "generated_at": "2026-07-17T15:11:41+00:00",
+  "hot_topics": [
+    {
+      "topic": "Advanced AI Model Releases and Benchmarking Debates",
+      "synthesis": "The AI landscape is seeing the launch of powerful new language models, including Moonshot AI's Kimi K3 and Thinking Machines Lab's Inkling, showcasing significant advancements in parameter count and capabilities. While these models are being rigorously benchmarked against existing ones, the utility of older benchmarks like the 'pelican riding a bicycle' test is being questioned for frontier models. Concurrently, the integration of AI coding tools into critical projects like the Linux kernel is advocated by its creator, Linus Torvalds, amidst discussions about potential AI-induced bugs and the necessity of robust sandboxing.",
+      "item_ids": [
+        "8e8d069c405cba7f",
+        "2f06655035b21b48",
+        "f5474a68149464a2",
+        "cd427b459406f0a6",
+        "b905b855ee3d78c0"
+      ]
+    },
+    {
+      "topic": "Escalating US-Iran Conflict and JD Vance's Controversial Stance",
+      "synthesis": "Tensions between the US and Iran have escalated, marked by reciprocal military strikes and heightened fears of an all-out war over the Strait of Hormuz. US Vice President J.D. Vance, who led negotiations for a collapsed peace deal, is drawing sharp criticism for publicly blaming Israel for its failure, rather than acknowledging Iranian violations or the deal's perceived weaknesses. Critics argue that Vance's negotiated agreement was a capitulation that failed to secure US objectives and inadvertently strengthened Iran's position regarding control of the critical strait.",
+      "item_ids": [
+        "42e9d766c504153f",
+        "1067e9ab8845c389",
+        "fed3e6d04edfe01b",
+        "2292ed4520fc5af4",
+        "3e1e37e7c5569950"
+      ]
+    },
+    {
+      "topic": "AI's Environmental Impact and Surging Energy Demands",
+      "synthesis": "The booming demand for AI data centers is causing a significant surge in the energy sector, with initial public offerings for energy companies raising $12.6 billion in the first half of the year as investors capitalize on the need for vast power. This highlights the substantial environmental footprint of AI infrastructure, leading to discussions about sustainability solutions. One such proposal suggests repurposing exclusive golf courses into public parks for birdwatching to help offset the billions of gallons of water consumed by hyperscalers like Google.",
+      "item_ids": [
+        "6cde43d3e972c50a",
+        "714369ef2e257a8b"
+      ]
+    },
+    {
+      "topic": "Insider Trading and Ethics in Prediction Markets",
+      "synthesis": "A White House teleprompter operator for President Trump is under federal investigation for allegedly using insider information to make nearly $100,000 on prediction market platforms like Kalshi, by betting on the content of Trump's speeches. This incident, along with other cases of government insiders reportedly profiting from their work knowledge, raises significant ethical concerns about insider trading. It underscores the ongoing debate over regulating these new betting markets, which the CFTC is attempting to govern federally against varying state gambling laws.",
+      "item_ids": [
+        "bc1c67fe5b9e5064",
+        "efc3c531cb6b97a9",
+        "9a98ee39de6e4e06"
+      ]
+    },
+    {
+      "topic": "Autonomous Vehicle Safety and Regulatory Pressure",
+      "synthesis": "Recent incidents involving autonomous vehicles are intensifying pressure for stricter regulations and prompting software recalls. Zoox issued a software recall for its robotaxis after one became confused by heavy smoke, highlighting challenges in unusual environmental conditions. Concurrently, San Francisco's mayor is pushing for tougher rules for operators like Waymo following a major gridlock event caused by their vehicles, underscoring growing public and governmental concerns about robotaxi reliability and potential urban disruptions.",
+      "item_ids": [
+        "fb3a09742dcc70c8",
+        "6acdcc7d4d89aaf6"
+      ]
+    },
+    {
+      "topic": "Severe Texas Flooding Causes Deaths and Disruption",
+      "synthesis": "Texas is experiencing severe flooding that has claimed at least two lives and is ravaging areas previously devastated by floods that caused over 130 deaths last year. Emergency services are actively conducting rescues, including an airlift of a young girl from a destroyed home, as the intense weather continues to impact the region. The recurring natural disaster highlights the ongoing vulnerability of communities to extreme weather events.",
+      "item_ids": [
+        "d9af7871c4084b74",
+        "1b104dd16c078b0b",
+        "d550177d0df79bca"
+      ]
+    },
+    {
+      "topic": "Canadian Wildfires Lead to Widespread US Air Quality Alerts",
+      "synthesis": "Extensive wildfires in Canada, numbering over 800 blazes, are causing dangerous air quality alerts across major US and Canadian cities, including New York and Toronto. The widespread smoke plumes are impacting broad regions, prompting significant public health concerns. This situation demonstrates the far-reaching environmental and health effects of the fires across national borders.",
+      "item_ids": [
+        "0086dc5b45384aee",
+        "07a257924111e885"
+      ]
+    },
+    {
+      "topic": "AI Misuse and Ethical Concerns in Content Generation",
+      "synthesis": "Recent instances of AI misuse are raising significant ethical and legal concerns globally regarding content generation. xAI is taking legal action against a user for allegedly creating illegal sexualized images using its Grok chatbot, while the Philippines has condemned an AI-generated video on Chinese state media as racist propaganda. These cases highlight the urgent challenges of preventing harmful content and addressing potential geopolitical weaponization of generative AI technologies.",
+      "item_ids": [
+        "dd738973467d8787",
+        "aae50b8fb9f79991"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "f8b3382b97ebd48a",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Transit of wonder",
+      "url": "https://aeon.co/essays/why-has-venus-obsessed-so-many-astronomers",
+      "summary": "The infrequent transit of Venus, a celestial event where Venus crosses the Sun every 122 years, has long inspired awe among astronomers. This rare spectacle appears as a brief, dark teardrop against the solar disc.",
+      "tags": [
+        "astronomy",
+        "science",
+        "history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d92998615ca4fd69",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "2026 Lucid Gravity Touring review: A strong act 2",
+      "url": "https://arstechnica.com/cars/2026/07/2026-lucid-gravity-touring-review-a-strong-act-2/",
+      "summary": "Lucid's 2026 Gravity Touring electric SUV has been released, starting at around $82,000, as the company's second EV offering. The luxury SUV comes with various optional features, following the Air electric sedan.",
+      "tags": [
+        "cars",
+        "ev",
+        "review"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7dcbd437eec6b53c",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "2026 Toyota RAV4 plug-in: Big battery means daily drives are all-electric",
+      "url": "https://arstechnica.com/cars/2026/07/2026-toyota-rav4-plug-in-review-good-but-skip-the-gr-sport/",
+      "summary": "The 2026 Toyota RAV4 is now exclusively electrified, featuring a plug-in hybrid option that enables daily all-electric driving. Its new powertrain integrates a 2.5L four-cylinder engine with electric motors for improved performance.",
+      "tags": [
+        "cars",
+        "ev",
+        "toyota"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6cde43d3e972c50a",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
+      "url": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
+      "summary": "Energy companies are raising money at IPO at their fastest pace this century, taking advantage of investors’ hunt for new ways to bet on the boom in power-intensive AI data centers.\nInitial public offerings for energy firms raised $12.6 billion in the first half of this year, acc…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "de1f9f8417ce32ad",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "FCC took pricey gifts from Paramount as the company needed approval for deals",
+      "url": "https://arstechnica.com/tech-policy/2026/07/fcc-took-pricey-gifts-from-paramount-as-the-company-needed-approval-for-deals/",
+      "summary": "The rich and famous who filed into the Kennedy Center’s opera house in December were there to enjoy one of the nation’s most exclusive celebrations of the performing arts: the center’s annual honors gala.\nThe black-tie event, hosted by President Donald Trump, prioritized tickets…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "796a250787ce5fd2",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
+      "url": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
+      "summary": "Thousands of Hyundai auto workers in South Korea are striking over plans to deploy humanoid robots, marking a major labor protest against automation. Negotiations failed regarding the introduction of Boston Dynamics' Atlas robot at the Ulsan production complex.",
+      "tags": [
+        "robots",
+        "labor",
+        "automation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "86da98eb128d28a2",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "HP fined 1.4 billion rupees for “cartelization” of ink cartridges, toner, PCs",
+      "url": "https://arstechnica.com/gadgets/2026/07/hp-fined-1-4-billion-rupees-for-cartelization-of-ink-cartridges-toner-pcs/",
+      "summary": "HP India and its partners received a 1.4 billion rupee (approximately $14.4 million) fine from the Indian government for colluding to inflate bid prices for government contracts and control prices of printing supplies. The Competition Commission of India deemed this \"cartelization\" aimed at outcompeting rivals and discouraging \"counterfeit\" sales.",
+      "tags": [
+        "hp",
+        "india",
+        "antitrust"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8e8d069c405cba7f",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
+      "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
+      "summary": "The widespread introduction of AI-powered coding tools has\nled to\nsome\ndramatic splits\nbetween those integrating those tools into their workflows and anti-AI absolutists who don't want large language model-generated code anywhere near their projects. When it comes to the Linux ke…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "50fe6f256218ffb5",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Now, even Russia's most elite hackers are using Clickfix to infect devices",
+      "url": "https://arstechnica.com/security/2026/07/now-even-russias-most-elite-hackers-are-using-clickfix-to-infect-devices/",
+      "summary": "Russia's Sandworm hacking group is using \"Clickfix\" attacks, where fake CAPTCHAs trick users into pasting malicious scripts, to compromise Ukrainian organizations. This technique allows for malware installation and data exfiltration from sensitive networks.",
+      "tags": [
+        "cybersecurity",
+        "russia",
+        "ukraine"
+      ],
+      "priority": false
+    },
+    {
+      "id": "66875a49e6f13a6c",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "OnePlus confirms shutdown in the US and Europe, ending months of speculation",
+      "url": "https://arstechnica.com/gadgets/2026/07/oneplus-ends-phone-releases-in-us-and-europe-further-reducing-smartphone-choice/",
+      "summary": "OnePlus is discontinuing new phone releases in North America and Europe as part of a global strategy adjustment to focus on India and integrate further with its parent company, Oppo. This confirms prior speculation about the brand's reduced presence in Western markets.",
+      "tags": [
+        "oneplus",
+        "smartphones",
+        "tech industry"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5786e1e031a47f12",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "T-Mobile bungled forced plan migration, canceling some users' free lines",
+      "url": "https://arstechnica.com/tech-policy/2026/07/t-mobile-bungled-forced-plan-migration-canceling-some-users-free-lines/",
+      "summary": "T-Mobile's recent plan migration mistakenly canceled free-line promotions for some loyal subscribers, causing complaints and potential price hikes. T-Mobile confirmed the technical error and is actively working to rectify the problem for all impacted customers.",
+      "tags": [
+        "t-mobile",
+        "telecom",
+        "customer service"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bc1c67fe5b9e5064",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Trump teleprompter aide made $100,000 betting on what Trump would say, reports say",
+      "url": "https://arstechnica.com/culture/2026/07/trump-teleprompter-aide-made-100000-betting-on-what-trump-would-say-reports-say/",
+      "summary": "Kalshi\nis a high-tech prediction market that allows people to \"forecast the future\" (their term). It is about contracts and information, the company says, making its offerings more like a soybean futures contract than a round of blackjack or a pull on the\none-armed bandit\n.\nStill…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "dd738973467d8787",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
+      "summary": "Facing mounting pressure to acknowledge that Grok can still be used to generate non-consensual sexualized images of adults and minors, xAI filed a\nlawsuit\nTuesday, suing the first user that Elon Musk’s firm has accused of using its chatbot to create illegal content.\nThe complaint…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "d9af7871c4084b74",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "At least two dead in Texas floods ravaging same area where campers died",
+      "url": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The same area devastated by floods last year's floods, which caused more than 130 deaths, is once again being hit.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c7eec102b896e765",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Australia 'deeply frustrated' over Laos methanol poisoning charges",
+      "url": "https://www.bbc.co.uk/news/articles/cy5d4z343wlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Australia expressed \"deep frustration\" with Laos's plan to charge individuals, potentially facing a year in jail, for alleged methanol poisoning deaths. This diplomatic issue underscores international concerns about the justice system.",
+      "tags": [
+        "australia",
+        "laos",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1b104dd16c078b0b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Bodycam footage shows airlift of girl stranded by Texas floods",
+      "url": "https://www.bbc.co.uk/news/videos/c36d1n6g3x9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Footage shows a rescuer reaching a family of three stranded by floods that destroyed their house in Uvalde county.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "0086dc5b45384aee",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Canada fires prompt US air quality alerts as smoke blankets major cities",
+      "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Smoke from more than 800 blazes has filled major cities from Toronto and New York, to parts of the US Midwest and Great Lakes.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "7ba432890b223d56",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "China hits out at British Steel nationalisation",
+      "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
+      "summary": "China has publicly criticized the UK government's nationalization of British Steel, which the UK justified as securing a \"vital national capability.\" This action underscores geopolitical friction regarding industrial policy and state control.",
+      "tags": [
+        "china",
+        "uk",
+        "nationalization"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c54cc3de4608dad9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "He escaped the Bangkok bar inferno - but his girlfriend and three bandmates didn't",
+      "url": "https://www.bbc.co.uk/news/articles/c1k13zj914mo?at_medium=RSS&at_campaign=rss",
+      "summary": "Athipat Wichan escaped a Bangkok bar fire but tragically lost his girlfriend and three bandmates, regretting having brought her into his indie band. The inferno resulted in a devastating personal and professional loss for him.",
+      "tags": [
+        "thailand",
+        "tragedy",
+        "fire"
+      ],
+      "priority": false
+    },
+    {
+      "id": "752e451ad894678b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "I wouldn't marry him until he paid off his debt, now I'm in charge of our money",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz4wnz6jdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sarah mandated her husband clear his debts before marriage, and two decades later, she exclusively handles their shared finances. This showcases their unique long-standing agreement on financial management within their relationship.",
+      "tags": [
+        "personal finance",
+        "relationships",
+        "debt"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42e9d766c504153f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Iran accuses US of hitting civilian infrastructure",
+      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US military says its attacks were intended to \"further degrade Iranian military capabilities\".",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "a57e7c64e6573e0a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Japan relaxes royal succession rules - but ban on female emperors remains",
+      "url": "https://www.bbc.co.uk/news/articles/cy07rz79zg9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Japan has relaxed its royal succession laws, now permitting male distant relatives over 15 to be adopted into the imperial family, yet it maintains the ban on female emperors. This move aims to secure the imperial line while adhering to traditional lineage principles.",
+      "tags": [
+        "japan",
+        "monarchy",
+        "succession"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1067e9ab8845c389",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "JD Vance accuses Israel of 'manipulating' US public opinion to prolong Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/c1m107yj327o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US vice president says he thinks some Israeli politicians are trying to detail efforts to end the conflict.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c2aa37aee5ce9000",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "JD Vance says Welsh castle was 'coolest thing I've ever seen'",
+      "url": "https://www.bbc.co.uk/news/articles/ckg8g5z83glo?at_medium=RSS&at_campaign=rss",
+      "summary": "US Vice-President JD Vance shared in his new book that a 2013 visit to a north Wales castle was a perspective-changing and \"coolest thing\" experience for him. This anecdote highlights a personal moment in his life.",
+      "tags": [
+        "jd vance",
+        "wales",
+        "memoir"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9e59b01b1ed26e8d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Kris Jenner's mother Mary Jo dies aged 91",
+      "url": "https://www.bbc.co.uk/news/articles/c70g35n4518o?at_medium=RSS&at_campaign=rss",
+      "summary": "Kris Jenner's mother, Mary Jo 'MJ' Campbell, a familiar face on \"Keeping Up with the Kardashians,\" has passed away at the age of 91.",
+      "tags": [
+        "celebrity",
+        "death",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "80b9de9e479571e5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "More than 500 Rohingya vanished at sea - what happened?",
+      "url": "https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Approximately 530 Rohingya people aboard two boats have disappeared at sea since leaving Myanmar on June 29, sparking grave humanitarian concerns. The whereabouts and condition of those on board remain unknown.",
+      "tags": [
+        "rohingya",
+        "refugees",
+        "humanitarian crisis"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d61d692b885fa0cf",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Olympic cyclist admits to driving despite ban after crash that killed wife",
+      "url": "https://www.bbc.co.uk/news/articles/c62q3ywep1ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Olympic cyclist Rohan Dennis admitted guilt to driving while disqualified, having been caught by police last month, subsequent to a crash that killed his wife. This confession forms part of his ongoing legal proceedings.",
+      "tags": [
+        "cycling",
+        "legal",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6a36f7fb77dacf07",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Pele's 1958 World Cup final shirt sells for $4.9m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn8n7dejqy2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pele's jersey from the 1958 World Cup final fetched $4.9 million (£3.6m) at a Sotheby's auction in New York. The sale reflects the considerable market value of historic sports memorabilia.",
+      "tags": [
+        "pele",
+        "world cup",
+        "auction"
+      ],
+      "priority": false
+    },
+    {
+      "id": "aae50b8fb9f79991",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Philippines condemns monkey video on Chinese media as racist",
+      "url": "https://www.bbc.co.uk/news/articles/cj632307934o?at_medium=RSS&at_campaign=rss",
+      "summary": "The AI video on China Daily showed a monkey in Philippine garments singing its claims to the South China Sea.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "ab93b6249e750681",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Taco Bell removes lettuce from menu in US after links to explosive diarrhoea",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gnglyv0jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Taco Bell has indefinitely pulled lettuce from a specific supplier in its US locations as a precaution against potential links to explosive diarrhea. The company's action prioritizes customer safety amid health concerns.",
+      "tags": [
+        "taco bell",
+        "food safety",
+        "health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5a6bb46dca4b4043",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump Media to sell instant access to 'market-moving' social posts",
+      "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump Media is introducing a paid, fast feed designed to give Wall Street traders instant access to its most influential social posts. The initiative seeks to profit from the market-moving potential of its platform's content.",
+      "tags": [
+        "trump media",
+        "social media",
+        "finance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5e7cd26f4623de68",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Uganda suspends school trips after 20 pupils die in bus crash",
+      "url": "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Uganda has suspended all school trips following a bus crash that killed 20 pupils, one of the nation's deadliest accidents involving children. This measure addresses widespread road safety concerns, where thousands perish annually.",
+      "tags": [
+        "uganda",
+        "bus crash",
+        "safety"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2aff512cf8523df9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: What to know as Genoa bridge disaster trial ends",
+      "url": "https://www.bbc.co.uk/news/videos/cgewd07ee3go?at_medium=RSS&at_campaign=rss",
+      "summary": "The trial for the 2018 Genoa bridge collapse, which killed 43 people, has ended in Italy with over 50 defendants. This marks a significant development in the lengthy legal proceedings surrounding the infrastructure disaster.",
+      "tags": [
+        "italy",
+        "disaster",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "eb27db618300c9d3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: What we know about newly discovered monkey species",
+      "url": "https://www.bbc.co.uk/news/videos/cx25glwll79o?at_medium=RSS&at_campaign=rss",
+      "summary": "Conservationists are hailing a newly discovered monkey species as an \"amazing discovery,\" emphasizing the ongoing importance of biodiversity research. This highlights continued efforts in wildlife exploration and protection.",
+      "tags": [
+        "wildlife",
+        "discovery",
+        "conservation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "07a257924111e885",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What to know about the Canadian and US wildfires and their impact",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywdl9ne3yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Wildfires in Ontario have blanketed US and Canadian cities with dangerous smoke.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "9a98ee39de6e4e06",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "White House teleprompter operator accused of making $100k from Trump speech bets",
+      "url": "https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss",
+      "summary": "A White House staffer has been accused of using inside knowledge of speeches to make nearly $100,000 on Kalshi.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "4f4a3ca518ee057a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
+      "summary": "President Zelensky's dismissal of Ukraine's popular defense minister, reportedly due to a split with the Commander-in-Chief, has ignited protests. This political upheaval is creating public unrest during a period of conflict.",
+      "tags": [
+        "ukraine",
+        "zelensky",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "58765ead9f79d9c4",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+      "summary": "A blog post compares Claude Fable 5 and GPT-5.6 Sol's ability to create AI music videos for $100, providing a practical evaluation of these models for creative production. The comparison offers insights into their respective strengths for artistic generation.",
+      "tags": [
+        "ai",
+        "music",
+        "video"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a0e2bdf347b97a7c",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Apple targets dozens of OpenAI employees with legal letters",
+      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+      "summary": "Apple is reportedly sending legal letters to numerous OpenAI employees, which could indicate either talent acquisition efforts or emerging disputes between the two tech giants. The specific context of these legal communications is not detailed.",
+      "tags": [
+        "apple",
+        "openai",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5e1a630b396e8fc3",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Ask HN: Any AWS billing issues known? Amazon forecast of 3 billion dollars",
+      "url": "https://news.ycombinator.com/item?id=48945681",
+      "summary": "An AWS user received an alarming $3 billion billing forecast despite having minimal recent usage, with the AWS AI chatbot suggesting a billing or metering error. The user has since disabled all services while awaiting resolution from support.",
+      "tags": [
+        "aws",
+        "billing",
+        "cloud"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c25db977a0e49106",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Decoy Font",
+      "url": "https://www.mixfont.com/experiments/decoy-font",
+      "summary": "Decoy Font is an experimental font project from Mixfont, exploring innovative typographic concepts. Further details about its design or specific functionalities are not provided in the text.",
+      "tags": [
+        "font",
+        "design",
+        "typography"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8f3fc2edfbc9d2a7",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "EEG shows brain can simultaneous encode two speech streams",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+      "summary": "EEG research reveals the human brain's ability to simultaneously encode two speech streams, indicating a more complex auditory processing capacity than previously thought. This finding contributes to understanding how our brains manage multiple sound inputs.",
+      "tags": [
+        "neuroscience",
+        "brain",
+        "speech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a37818e594dcf12f",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Evidence of inconsistencies in evaluation process and selection of winners",
+      "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
+      "summary": "Concerns have emerged on Kaggle regarding inconsistencies in the evaluation process and winner selection for the Measuring AGI competition. These discussions question the fairness and transparency of the competition's outcomes.",
+      "tags": [
+        "kaggle",
+        "ai",
+        "competition"
+      ],
+      "priority": false
+    },
+    {
+      "id": "47362b80731b5177",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
+      "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
+      "summary": "A 1,900-year-old Roman latrine provides clues to the enduring durability of Roman concrete, which has persisted for millennia. Scientists are examining the ancient material to uncover the secrets behind its remarkable longevity.",
+      "tags": [
+        "roman",
+        "concrete",
+        "history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2f06655035b21b48",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "url": "https://www.kimi.com/blog/kimi-k3",
+      "summary": "https://www.kimi.com/en\nKimi K3 Intelligence, Performance & Price Analysis:\nhttps://artificialanalysis.ai/models/kimi-k3\nComments URL:\nhttps://news.ycombinator.com/item?id=48935342\nPoints: 1851\n# Comments: 1095",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "5a24c7a78cd412d9",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "summary": "LM Studio Bionic, a new AI agent for open models, has been launched to enhance user capabilities within LM Studio. This tool aims to simplify and improve the interaction and development experience with diverse AI models.",
+      "tags": [
+        "ai",
+        "llms",
+        "open models"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d67df95cc469520f",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Microsoft Comic Chat is now open source",
+      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+      "summary": "Microsoft Comic Chat, known for its unique comic-strip interface, has been released as open source, allowing developers to access and build upon the classic application. This move enables community-driven development for the vintage chat software.",
+      "tags": [
+        "microsoft",
+        "open source",
+        "chat"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dd9a835945ee9233",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Pebble Mega Update – July 2026",
+      "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
+      "summary": "A \"Mega Update\" for Pebble smartwatches was released in July 2026, signaling ongoing development and support for the legacy platform. This indicates continued commitment to the devices despite their discontinuation by the original manufacturer.",
+      "tags": [
+        "pebble",
+        "smartwatch",
+        "update"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cfb05c76a8a38d63",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "There’s a lot of hype around perimenopause. Don’t buy it.",
+      "url": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
+      "summary": "Perimenopause has entered the chat. Perimenopause—and its better-known relative, menopause—used to be considered taboo. Not anymore, thanks at least in part to TV doctors and social media influencers. Perhaps it’s my age, but these days, both my algorithm and my conversations wit…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "dbba277b4c777c17",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "A bug commonly sold at pet stores is helping scientists with a vexing task",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5896494/superworms-clean-animal-specimens-skeleton-research",
+      "summary": "Superworm larvae, widely available in pet stores, are effectively used by scientists to clean animal skeletons for research purposes. These insects provide a practical solution for preparing specimens.",
+      "tags": [
+        "science",
+        "biology",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "be664e107691ba30",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Federal Reserve looks for 'secret sauce' behind a successful Wisconsin toolmaker",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5894730/federal-reserve-looks-for-secret-sauce-behind-a-successful-wisconsin-tool-maker",
+      "summary": "The Chicago Federal Reserve Bank's head visited Snap-on, a successful Wisconsin toolmaker, to study the factors contributing to its century-long booming business. This visit seeks insights into thriving American manufacturing practices.",
+      "tags": [
+        "economy",
+        "manufacturing",
+        "federal reserve"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2190f010cf09e93f",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Pakistani forces kill 24 militants in border raids near Afghanistan",
+      "url": "https://www.npr.org/2026/07/17/g-s1-134175/pakistani-forces-kill-24-militants-in-border-raids-near-afghanistan",
+      "summary": "Pakistani military forces killed 24 militants in intelligence-led border raids near Afghanistan over 24 hours. These operations were conducted in retaliation for previous militant attacks.",
+      "tags": [
+        "pakistan",
+        "afghanistan",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "530d5bc325a5aa00",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Photos: When the World Cup came to town",
+      "url": "https://www.npr.org/sections/the-picture-show/2026/07/17/g-s1-133556/world-cup-watch-party-photos",
+      "summary": "NPR photographers documented World Cup watch parties, illustrating how the international event briefly integrated into local communities. These images captured widespread public enthusiasm across various settings.",
+      "tags": [
+        "world cup",
+        "photography",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "27e4d77ae0e9858f",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Republican campaigns see immigration as a winning issue for midterms",
+      "url": "https://www.npr.org/2026/07/17/g-s1-133702/midterm-election-ads-immigration-republicans-democrats",
+      "summary": "Republican campaigns are significantly increasing their advertising spending on immigration, outmatching Democrats ahead of the November midterms, seeing it as a pivotal winning issue. An NPR analysis reveals this strategic focus in their election campaigns.",
+      "tags": [
+        "republicans",
+        "immigration",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d550177d0df79bca",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Takeaways from Trump's primetime speech. And, at least 2 dead in major Texas flooding",
+      "url": "https://www.npr.org/2026/07/17/g-s1-134162/up-first-newsletter-trump-speech-illegal-voting-texas-flooding-wildfires-air-quality",
+      "summary": "President Trump gave a primetime speech raising claims of voting vulnerabilities but offered no new evidence. And, at least 2 people have died in major flooding in Texas.\n(Image credit: Saul Loeb)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "a79662e40ee87d04",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump's team says 'no children' died from USAID cuts. Consider these 3 cases",
+      "url": "https://www.npr.org/2026/07/17/g-s1-133651/usaid-elon-musk-rubio-deaths",
+      "summary": "Contrary to claims by Trump's team and prominent figures, parents have shared testimonies suggesting child deaths are linked to USAID funding cuts. These stories dispute the official narrative that the sunsetting of the foreign aid agency had no fatal consequences.",
+      "tags": [
+        "usaid",
+        "foreign aid",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fed3e6d04edfe01b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "U.S. strikes bridges in Iran, Tehran targets U.S. bases in the Gulf",
+      "url": "https://www.npr.org/2026/07/17/g-s1-134158/us-iran-war-updates",
+      "summary": "The U.S. and Iran expanded their targets in the latest round of strikes on Friday, as fighting over the control of the Strait of Hormuz reignites fears of an all-out war.\n(Image credit: AFP)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "d7d3912529c3e914",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Abdul El-Sayed on AIPAC spending, ‘Defund the Police’ and why he’s not a socialist",
+      "url": "https://www.politico.com/video/2026/07/16/abdul-el-sayed-on-aipac-spending-defund-the-police-and-why-hes-not-a-socialist-2121739",
+      "summary": "Abdul El-Sayed articulated his perspectives on AIPAC spending and the \"Defund the Police\" movement, clarifying that he does not identify as a socialist. His discussion provides insight into his political ideology on these contentious topics.",
+      "tags": [
+        "politics",
+        "aipac",
+        "defund the police"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c4867d4d653ecca3",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "Martin Picard’s Mitochondrial Theory of Mind",
+      "url": "https://www.quantamagazine.org/martin-picards-mitochondrial-theory-of-mind-20260717/",
+      "summary": "Martin Picard is exploring his \"Mitochondrial Theory of Mind,\" undertaking a 24-hour blood sampling study to investigate the link between mitochondria and consciousness. His research seeks to understand the influence of cellular components on mental functions.",
+      "tags": [
+        "science",
+        "neuroscience",
+        "consciousness"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d4a9495ad356301d",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Firefox in WebAssembly",
+      "url": "https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything",
+      "summary": "Puter successfully compiled Firefox to WebAssembly, allowing the browser to run within another browser, a technical achievement that relied heavily on AI assistance. All traffic is funneled through a WebSocket proxy to overcome typical browser network restrictions.",
+      "tags": [
+        "firefox",
+        "webassembly",
+        "browsers"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b4dfb7d6151a1262",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Inkling: Our open-weights model",
+      "url": "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything",
+      "summary": "Inkling: Our open-weights model\nMira Murati's Thinking Machines Lab just released their first open-weights model. Inkling is \"a Mixture-of-Experts transformer with 975B total parameters, 41B active\" - an Apache-2.0 licensed multimodal model trained on 45 trillion tokens of text,…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "cd427b459406f0a6",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything",
+      "summary": "Chinese AI lab Moonshot AI\nannounced Kimi K3\nthis morning, describing it as their \"most capable model to date, with 2.8 trillion parameters\". It's currently available via their website and API, but an open weight release is promised \"by July 27, 2026\".\nMoonshot are calling this t…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "b13421d3a8492a84",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Mermaid to ASCII art (mermaid-ascii)",
+      "url": "https://simonwillison.net/2026/Jul/16/mermaid-ascii/#atom-everything",
+      "summary": "A new tool, mermaid-ascii, converts Mermaid diagrams to ASCII art with color support by compiling a Go library to WebAssembly using Claude Fable 5. This project allows for comparison with a similar tool built from Rust code.",
+      "tags": [
+        "tools",
+        "webassembly",
+        "mermaid"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f5474a68149464a2",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Kimi K3",
+      "url": "https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything",
+      "summary": "Is there something I can actually help you with today?\n—\nKimi K3\n, after refusing to leak its system prompt\nTags:\nkimi\n,\nai-personality\n,\ngenerative-ai\n,\nai\n,\nllms",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "b905b855ee3d78c0",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Thibault Sottiaux",
+      "url": "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything",
+      "summary": "On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files.\nWhat we have  found is that this most commonly occurs when:\nFull access mode is enabled and codex is run without sandboxing protections, including without auto review being enable…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "714369ef2e257a8b",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Spot birds not golf",
+      "url": "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything",
+      "summary": "Suggestion for hyperscalers feeling pressure over data center water use:\nBuy up a few exclusive country clubs, convert the golf courses into public parks, pay for guides and binoculars to get the previous members into birdwatching - help them embrace a more sustainable hobby!\nGoo…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "116cf50de217896d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "AI-powered travel agency Fora hits unicorn status, raises $60M",
+      "url": "https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/",
+      "summary": "AI-powered travel agency Fora has reached a $1 billion valuation, attaining unicorn status after securing $60 million in Series D funding. This significant investment validates its AI-driven model for personalized travel services.",
+      "tags": [
+        "ai",
+        "travel",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "69a0868f9a1aed7e",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
+      "url": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
+      "summary": "Coca-Cola has indefinitely suspended dairy production at its Fairlife unit in the US after a ransomware attack. The company is working to resolve the cybersecurity incident that forced the shutdown.",
+      "tags": [
+        "coca-cola",
+        "ransomware",
+        "cybersecurity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c0fa2a3bc93cce42",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
+      "url": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
+      "summary": "Founders Fund welcomed Ryan Beiermeister, a former OpenAI executive, as a new partner, acknowledging her sharp analytical skills. She is known for her contributions to the firm's \"Mafia\" YouTube series.",
+      "tags": [
+        "venture capital",
+        "openai",
+        "hiring"
+      ],
+      "priority": false
+    },
+    {
+      "id": "06475619039c61e9",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Google continues its renaming streak by turning NotebookLM to Gemini Notebook",
+      "url": "https://techcrunch.com/2026/07/16/google-continues-its-renaming-streak-by-turning-notebooklm-to-gemini-notebook/",
+      "summary": "Google is renaming NotebookLM to Gemini Notebook, further consolidating its AI offerings, and will soon allow users to access these notebooks through AI Mode in Search. This rebranding integrates the note-taking tool into the larger Gemini AI suite.",
+      "tags": [
+        "google",
+        "ai",
+        "rebranding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a2762fd4f12a4ab7",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Google Vids now lets you star in your own AI videos",
+      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "summary": "Google Vids now enables users to create videos starring personalized AI avatars of themselves, alongside Gemini Omni-powered tools for generating and editing video content from prompts. This update offers a more customized approach to video creation.",
+      "tags": [
+        "google",
+        "ai",
+        "video"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b22464d4936ff490",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Google’s AI Mode now lets you link and interact with select apps",
+      "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+      "summary": "Google's AI Mode is now integrating with select apps, enabling users to perform tasks directly within applications, not just answer questions. This advancement aims to make AI a more pervasive and productive part of daily app interactions.",
+      "tags": [
+        "google",
+        "ai",
+        "apps"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a60238478d0909c5",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI",
+      "url": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/",
+      "summary": "Beehiiv, a newsletter platform, is introducing subscriber chat and an AI Copilot to help publishers with audience engagement and analytics. These new features aim to bolster community interaction and streamline content management.",
+      "tags": [
+        "newsletter",
+        "ai",
+        "platform"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b1051da9a3d18d2b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "No product? No problem. This Disrupt 2026 session shows how to get pre-seed funding with conviction, storytelling",
+      "url": "https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/",
+      "summary": "A Disrupt 2026 session will teach pre-seed founders how to secure funding through conviction and storytelling, even without a product, a skill made crucial by the current competitive AI startup funding landscape. The goal is to help early-stage companies meet new, higher investor expectations.",
+      "tags": [
+        "startups",
+        "funding",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d687badd64f58db2",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Oil giant BP shutters its corporate venture arm after 20 years",
+      "url": "https://techcrunch.com/2026/07/16/oil-giant-bp-shutters-its-corporate-venture-arm-after-20-years/",
+      "summary": "Oil major BP is shutting down its corporate venture arm, BP Ventures, after nearly 20 years, citing reportedly lackluster returns. This closure ends the company's long-standing program for investing in emerging technologies.",
+      "tags": [
+        "bp",
+        "venture capital",
+        "energy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "444d25473f8698d8",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Remarkable’s new Paper Pure is good. That’s why I wrote this review on it.",
+      "url": "https://techcrunch.com/2026/07/17/remarkables-new-paper-pure-is-good-thats-why-i-wrote-this-review-on-it/",
+      "summary": "The Remarkable Paper Pure, a replacement for the Remarkable 2, received a positive review, with the reviewer commending its quality by using the device itself to write the article.",
+      "tags": [
+        "remarkable",
+        "e-reader",
+        "review"
+      ],
+      "priority": false
+    },
+    {
+      "id": "90781d68a1039f98",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
+      "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "summary": "Roblox has introduced an AI-powered \"Build\" feature in its mobile app, allowing users to generate simple games with just a text prompt. This new tool democratizes game creation for its mobile audience.",
+      "tags": [
+        "roblox",
+        "ai",
+        "gaming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6acdcc7d4d89aaf6",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
+      "url": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
+      "summary": "In the wake of a massive hours-long gridlock event, San Francisco mayor Daniel Lurie has told state regulators it's time to put more requirements on robotaxi operators like Waymo.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "ba4620ce1b71ed91",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Uber’s $14.8B Delivery Hero deal would nearly double its global footprint",
+      "url": "https://techcrunch.com/2026/07/16/ubers-14-8b-delivery-hero-deal-would-nearly-double-its-global-footprint/",
+      "summary": "Uber plans to acquire Delivery Hero in a $14.8 billion all-stock deal, aiming to nearly double its global market reach and establish one of the largest food-delivery platforms outside China. This strategic acquisition will substantially broaden Uber's delivery service.",
+      "tags": [
+        "uber",
+        "acquisition",
+        "food delivery"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5469fa3e2a6aa37b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "UK cops say arrest of two young hackers disrupted the operations of an infamous hacking group",
+      "url": "https://techcrunch.com/2026/07/16/uk-cops-say-arrest-of-two-young-hackers-disrupted-the-operations-of-an-infamous-hacking-group/",
+      "summary": "UK police disrupted the Scattered Spider hacking group by arresting Owen Flowers and Thalha Jubair, who were sentenced to five and a half years in jail for hacking London's transit system. These arrests are believed to have significantly impacted the notorious group's operations.",
+      "tags": [
+        "cybersecurity",
+        "hacking",
+        "uk"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a20be242e9188d65",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "summary": "Initial GPU investors are pivoting towards inference chips, highlighted by a recent $400 million chip-backed loan, indicating a new trend in AI infrastructure financing. This suggests the market is maturing beyond solely focusing on training chips.",
+      "tags": [
+        "ai",
+        "chips",
+        "finance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "11d98288355542cc",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "X cracks down on creators who steal content",
+      "url": "https://techcrunch.com/2026/07/16/x-cracks-down-on-creators-who-steal-content/",
+      "summary": "X is deploying Grok AI to detect stolen content, aiming to redirect payouts to original creators and curb engagement bait. This effort seeks to enhance intellectual property protection and ensure fair compensation for content creators.",
+      "tags": [
+        "x",
+        "grok",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ccdeae90d4991c17",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Yes, you can now order DoorDash from the command line",
+      "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+      "summary": "DoorDash is launching dd-cli, a command-line tool in limited beta, allowing developers and AI agents to manage orders directly from the terminal. This initiative reflects a growing trend towards designing software for AI agent interaction.",
+      "tags": [
+        "doordash",
+        "api",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fb3a09742dcc70c8",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Zoox issues software recall after a robotaxi got confused by heavy smoke",
+      "url": "https://techcrunch.com/2026/07/17/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke/",
+      "summary": "The recall comes as the top automotive safety regulator in the U.S. has warned AV companies about their vehicles interfering with first responders.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "d41c7d2067ee76bf",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Inside the Golden Age of Porn",
+      "url": "https://www.thefp.com/p/inside-the-golden-age-of-porn",
+      "summary": "A discussion explored the 1980s \"golden age\" of the LA adult film industry, tracing pornography's evolution from VHS to OnlyFans. The conversation debated whether porn is empowering or harmful, and if its past forms were superior.",
+      "tags": [
+        "culture",
+        "pornography",
+        "history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3e1e37e7c5569950",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Rod Dreher: J.D. Vance’s Time for Choosing",
+      "url": "https://www.thefp.com/p/rod-dreher-jd-vances-time-for-choosing-israel",
+      "summary": "Let’s start from a position of charity: J.D. Vance is in an extremely difficult position. It is widely assumed that he opposed the U.S. war on Iran—correctly, in my view—but when President Donald Trump chose to launch it, Vance was fully on board. Who can blame him for that? Vice…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "2292ed4520fc5af4",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Real Cause of J.D. Vance’s Failure in Iran",
+      "url": "https://www.thefp.com/p/the-real-cause-of-jd-vances-failure",
+      "summary": "Vice President J.D. Vance has found the real culprit behind the collapse of the Trump administration’s peace deal with Iran, for which he led negotiations. It’s not the lying mullahs who spent the past 40 years murdering Americans and lying to credulous Democrats about their peac…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "206e6bb61a5389eb",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "The Wild Iris: Nobel Laureate Louise Glück on the Door at the End of Your Suffering",
+      "url": "https://www.themarginalian.org/2026/07/16/louse-gluck-wild-iris/",
+      "summary": "Louise Glück's \"The Wild Iris\" describes suffering culminating in a transformative \"door,\" symbolizing a rebirth where consciousness finds its voice after oblivion. The Nobel laureate's poem explores themes of death, surrender, and spiritual emergence.",
+      "tags": [
+        "poetry",
+        "literature",
+        "philosophy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ea4def38903fa4c3",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Ecovacs&#8217; self-cleaning Deebot X11 has hit a new low price",
+      "url": "https://www.theverge.com/gadgets/966651/ecovacs-deebot-x11-robot-vacuum-deal-sale",
+      "summary": "The Ecovacs Deebot X11 robot vacuum and mop hybrid is on sale for $699, a $400 discount and a new record low price. This model, a former top pick, offers powerful suction and self-cleaning capabilities, making it a valuable option.",
+      "tags": [
+        "robot vacuum",
+        "smart home",
+        "deals"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b71e17605f924c42",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Fortnite is getting a bunch of AI-powered ‘personas’",
+      "url": "https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas",
+      "summary": "Fortnite is set to introduce 36 AI-powered \"personas\" with consistent voices for creators to use as NPCs, launching on July 30th. This expansion follows previous AI character tests and will allow for more diverse and engaging in-game interactions.",
+      "tags": [
+        "fortnite",
+        "ai",
+        "gaming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "52ea66b7a87c7b26",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "God Of War TV series is recasting Kratos",
+      "url": "https://www.theverge.com/entertainment/966995/god-of-war-amazon-prime-video-kratos-ryan-hurst-recast",
+      "summary": "Amazon's \"God Of War\" TV series is recasting Kratos due to an on-set bicep injury sustained by actor Ryan Hurst, requiring a production pause and reshoots of four completed episodes. Filming is slated to restart in mid-October with a new lead.",
+      "tags": [
+        "entertainment",
+        "tv series",
+        "god of war"
+      ],
+      "priority": false
+    },
+    {
+      "id": "eb37cc4b5514ebce",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Google is better than Apple at playing the AI regulations game",
+      "url": "https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai",
+      "summary": "The EU has mandated Google to offer rival AI assistants greater access to Android, a ruling that is considered a strategic regulatory victory for Google. This indicates Google has more skillfully engaged with Brussels' regulatory framework than Apple.",
+      "tags": [
+        "google",
+        "eu",
+        "regulation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "efc3c531cb6b97a9",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Kalshi says it caught Trump&#8217;s teleprompter operator insider trading",
+      "url": "https://www.theverge.com/news/966676/trump-teleprompter-operator-kalshi-bets-mention-markets-investigation",
+      "summary": "Kalshi users betting on what President Donald Trump would say during his speeches were reportedly up against tough competition: the president's teleprompter operator.\nABC News\nreports\nthat federal investigators believe Gabriel Perez - Trump's teleprompter operator since 2016 - us…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "fa9088da7ab86985",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Netflix says around 300 titles used generative AI",
+      "url": "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings",
+      "summary": "Netflix reported that around 300 titles on its platform used generative AI, mainly in post-production, for complex sequences such as enhanced crowds and historical battle scenes. The streaming service aims to leverage these tools for quicker, higher-quality, and more cost-effective content creation.",
+      "tags": [
+        "netflix",
+        "ai",
+        "generative ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5e1581351e41414d",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+      "summary": "New York Governor Kathy Hochul is employing AI to analyze all state rules and regulations, aiming to identify and update outdated legislation more efficiently. This approach seeks to significantly speed up a review process that typically takes years for human staff.",
+      "tags": [
+        "new york",
+        "government",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "64b5dab091fd489d",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Why are people buying so many CDs?",
+      "url": "https://www.theverge.com/entertainment/966726/cd-sales-vinyl-physical-media-luminate",
+      "summary": "US CD sales rose 16% in the first half of 2026, reaching 16.3 million units, primarily due to collection building, affordability, and the popularity of K-pop. This trend indicates many consumers are buying CDs as collectibles rather than for listening.",
+      "tags": [
+        "music",
+        "physical media",
+        "k-pop"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 127,
+    "summarized": 96,
+    "skipped_promos": 1,
+    "filtered_by_rules": 30,
+    "sources": 13,
+    "email_items_omitted": 0
+  }
+}
