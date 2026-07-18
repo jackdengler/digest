@@ -1,0 +1,974 @@
+{
+  "date": "2026-07-18",
+  "generated_at": "2026-07-18T14:45:12+00:00",
+  "hot_topics": [
+    {
+      "topic": "San Francisco orders removal of AI \"nudify\" apps",
+      "synthesis": "San Francisco's attorney general has issued cease-and-desist letters to Apple and Google, demanding the removal of AI 'nudification' apps from their app stores. These apps, which can easily transform ordinary photos into explicit deepfakes, are deemed to be in violation of California's laws prohibiting services that create deepfake pornography. Both tech giants were reportedly aware they were hosting these non-compliant applications.",
+      "item_ids": [
+        "69ae03ac54abb6b6",
+        "8bee2984596504eb"
+      ]
+    },
+    {
+      "topic": "Escalation of US-Iran conflict",
+      "synthesis": "The United States and Iran have seen an intensified exchange of strikes, targeting infrastructure and military sites, as their conflict over the Strait of Hormuz escalates. This marks the seventh consecutive night of US strikes on Iran, with Iran reportedly retaliating against US allies in the region, including an attack on a Kuwaiti power and water plant.",
+      "item_ids": [
+        "5658739bc19ccea5",
+        "762f9793a576c182"
+      ]
+    },
+    {
+      "topic": "Ukrainian drone strikes on Russian territory",
+      "synthesis": "Ukrainian forces have continued their aerial campaign, with drone attacks on Russian regions resulting in fatalities and injuries. Drones targeted major logistics facilities near Moscow and in Tambov, identified by Ukraine's leader as sites supplying sanctioned components. These actions are part of Kyiv's effort to undermine Moscow's war operations by striking energy infrastructure and military targets within Russia.",
+      "item_ids": [
+        "9ecc15d566b0c3db",
+        "4d939d5d534b7b70"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "69ae03ac54abb6b6",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
+      "url": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
+      "summary": "This week, San Francisco’s attorney general, David Chiu, sent cease-and-desist letters, demanding that Apple and Google remove 13 so-called nudification apps from their app stores, Wired reported.\nNudification apps can make it trivially easy to transform ordinary photos of real p…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "b681ef1b0ea21f89",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Taco Bell iceberg lettuce identified as source of cyclosporiasis in 5 states",
+      "url": "https://arstechnica.com/health/2026/07/taco-bell-iceburg-lettuce-identified-as-source-of-cyclosporiasis-in-5-states/",
+      "summary": "Federal officials identified shredded iceberg lettuce from a Mexican supplier, served at Taco Bell, as the source of a Cyclospora outbreak in five states. The same supplier, Taylor Farms, was also linked to a 2024 E. coli outbreak and had multiple FDA violations.",
+      "tags": [
+        "food safety",
+        "health",
+        "recall"
+      ],
+      "priority": false
+    },
+    {
+      "id": "627d5b7606a39d77",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Air conditioner sparked deadly blaze at children's orphanage - police",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8ylw60e9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Police reported that an air conditioner sparked a deadly blaze at a children's orphanage, killing eleven people, including children, and injuring nineteen others. The incident tragically highlights a critical safety failure.",
+      "tags": [
+        "fire",
+        "tragedy",
+        "accident"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4ccf26c2fcd92241",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Brad Pitt's children are dropping their dad's surname - here's why I did the same",
+      "url": "https://www.bbc.co.uk/news/articles/cx2ln9l60g5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The article discusses Brad Pitt's children dropping their father's surname, with the author sharing her personal reasons for legally changing her own surname. She highlights her choice to use her mother's maiden name.",
+      "tags": [
+        "celebrity",
+        "family",
+        "identity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d7c8b22bfdfb01ee",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Control, threats, disfiguring surgery: My life inside Jeffrey Epstein's 'cult'",
+      "url": "https://www.bbc.co.uk/news/articles/czek5wl6p2go?at_medium=RSS&at_campaign=rss",
+      "summary": "An individual named \"Anya\" provided a rare BBC account of her life inside Jeffrey Epstein's \"cult,\" detailing experiences of control, threats, and disfiguring surgery. She described how the sex-criminal financier lured and abused his \"assistants.\"",
+      "tags": [
+        "epstein",
+        "crime",
+        "abuse"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43402e8bb9375925",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "EU proposes slowing down cuts to carbon emissions for businesses",
+      "url": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The EU has proposed relaxing its emissions trading system to give businesses more time to reduce their carbon output. This proposal aims to slow down the pace of carbon emission cuts for companies.",
+      "tags": [
+        "climate change",
+        "eu",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "adeae432ffa81f88",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "German politician resigns over surrogacy child controversy",
+      "url": "https://www.bbc.co.uk/news/articles/cq56e9n1ddzo?at_medium=RSS&at_campaign=rss",
+      "summary": "German politician Jens Spahn has resigned amid controversy over his use of a surrogate, a practice he had previously supported banning. His resignation follows widespread criticism of his apparent hypocrisy.",
+      "tags": [
+        "politics",
+        "germany",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "76be36c9668a31d9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "He made history in Congress - then the Supreme Court changed its mind",
+      "url": "https://www.bbc.co.uk/news/articles/cn949jvjxplo?at_medium=RSS&at_campaign=rss",
+      "summary": "Residents fear their federal funding could disappear if Shomari Figures loses his congressional seat, following a Supreme Court decision that impacted his historical election. The ruling created uncertainty about his future in Congress.",
+      "tags": [
+        "politics",
+        "supreme court",
+        "congress"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c35afd9bce3df919",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Helicopters dump water as huge Norway fire destroys homes",
+      "url": "https://www.bbc.co.uk/news/videos/c4gj5944n4ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Helicopters are actively dumping water to combat a massive fire in Norway that has destroyed over 100 homes in Drammen and spread to a nearby forest. Authorities are working to control the widespread blaze.",
+      "tags": [
+        "wildfire",
+        "norway",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4f1f783c51856661",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How these twins' rare growth disorder could provide the key to preventing cancer",
+      "url": "https://www.bbc.co.uk/news/articles/c8jnlmek8reo?at_medium=RSS&at_campaign=rss",
+      "summary": "Researchers have discovered that individuals with Laron syndrome, a rare growth disorder, exhibit a lower incidence of cancer. This finding could provide crucial insights and potentially a key to preventing cancer in the wider population.",
+      "tags": [
+        "medical research",
+        "cancer",
+        "health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "62ae505114eddcca",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Indian activist on hunger strike for 20 days forcibly taken to hospital",
+      "url": "https://www.bbc.co.uk/news/articles/cjej3dxxg2do?at_medium=RSS&at_campaign=rss",
+      "summary": "Abhijeet Dipke, founder of the Cockroach Janta Party, was forcibly taken to a hospital after undertaking a 20-day hunger strike. He began an indefinite fast in place of activist Sonam Wangchuk.",
+      "tags": [
+        "india",
+        "activism",
+        "human rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3e3c51d4ca22187d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Kim Jong Un was meant to be their only idol - then North Koreans discovered K-pop",
+      "url": "https://www.bbc.co.uk/news/articles/c0jygjezvlwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Despite strict government restrictions, K-pop has permeated North Korea, with defectors reporting that it has become popular, challenging the regime's control over cultural influence. This shows a growing impact of foreign culture.",
+      "tags": [
+        "north korea",
+        "culture",
+        "kpop"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4d965ae4aa747500",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Laos says it can't determine cause of  tourist deaths linked to methanol",
+      "url": "https://www.bbc.co.uk/news/articles/cdx8rj99endo?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials in Laos stated they cannot determine the cause of 2024 tourist deaths linked to methanol poisoning, as autopsies were not conducted. This lack of investigation leaves the specific circumstances surrounding the deaths unclear.",
+      "tags": [
+        "health",
+        "tourism",
+        "asia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "54edebfea6fa423e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
+      "url": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss",
+      "summary": "A magnitude 7.3 earthquake struck off the coast of Mexico, generating waves 0.3 meters high in Puerto Madero and Chiapas. The quake's intensity prompted tsunami warnings for coastal regions.",
+      "tags": [
+        "earthquake",
+        "mexico",
+        "natural disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3ee7a460dba5a634",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukrainian soldiers have voiced outrage to the BBC regarding the removal of Defense Minister Mykhailo Fedorov, following public protests that erupted after his dismissal. This indicates significant dissatisfaction within the military ranks.",
+      "tags": [
+        "ukraine",
+        "politics",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "747cbe45306aa30a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "One anti-war critic fined, another held as Russia clamps down on dissent",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia is intensifying its crackdown on dissent, with anti-war critic Boris Nadezhdin barred from running for parliament and blogger Ilya Remeslo remanded in custody. These actions highlight increasing suppression of opposition voices.",
+      "tags": [
+        "russia",
+        "politics",
+        "human rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9ecc15d566b0c3db",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
+      "url": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "bd11708062043b5d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
+      "url": "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss",
+      "summary": "A second tanker in three months has been hijacked off Yemen by suspected Somali pirates, indicating a concerning resurgence of piracy in the region. There have also been several unsuccessful attacks, further highlighting the escalating threat.",
+      "tags": [
+        "piracy",
+        "shipping",
+        "international security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5658739bc19ccea5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US strikes hit Iran for seventh consecutive night",
+      "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c6d20fb15c5e0f00",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What this desert city can teach the world about tackling heat deaths",
+      "url": "https://www.bbc.co.uk/news/articles/cgl3lnpxy6no?at_medium=RSS&at_campaign=rss",
+      "summary": "Maricopa County, Arizona, a desert city experiencing some of the hottest temperatures, has successfully reduced its number of heat-related deaths. Its strategies offer valuable lessons globally for tackling fatalities caused by extreme heat.",
+      "tags": [
+        "public health",
+        "climate adaptation",
+        "heatwave"
+      ],
+      "priority": false
+    },
+    {
+      "id": "91eff9bce241618e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "White House defends Argentina team over Falklands banner",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
+      "summary": "The White House defended the Argentina team concerning a Falklands banner, potentially escalating a diplomatic dispute. Downing Street has called for a Fifa investigation into the incident.",
+      "tags": [
+        "politics",
+        "sports",
+        "international relations"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4e03b71e10d539e6",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+      "summary": "Scientists have discovered the first atmosphere on an Earth-like planet situated within the habitable zone of a distant star. This finding represents a significant step forward in the search for extraterrestrial life and understanding exoplanets.",
+      "tags": [
+        "astronomy",
+        "exoplanets",
+        "space exploration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "664289cf5b9b69ba",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+      "summary": "The discussion focuses on Kimi K3 and the enduring relevance of the \"pelican benchmark,\" suggesting that this benchmark still offers valuable insights for evaluating large language models. It implies ongoing learning from established evaluation methods.",
+      "tags": [
+        "llm",
+        "benchmarks",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "909f9b361b2e0401",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Learning a few things about running SQLite",
+      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+      "summary": "The article shares valuable insights and practical lessons learned about effectively running and managing SQLite databases. It provides guidance for developers and system administrators working with this popular database.",
+      "tags": [
+        "databases",
+        "sqlite",
+        "software development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "aa97355d603d1b4b",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "LG monitors silently install software through Windows Update without consent",
+      "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+      "summary": "LG monitors are reportedly installing software silently through Windows Update without user consent, raising concerns about privacy and system control. This behavior bypassed user authorization for software installation.",
+      "tags": [
+        "privacy",
+        "software",
+        "windows update"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2f2b6608b6c65dd0",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Regressive JPEGs",
+      "url": "https://maurycyz.com/projects/bad_jpeg/",
+      "summary": "This item explores the concept of \"Regressive JPEGs,\" likely delving into a technical aspect or novel approach to JPEG image compression or display. The topic suggests an examination of image rendering techniques.",
+      "tags": [
+        "image compression",
+        "graphics",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7e63b1d926303b4c",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Static search trees: 40x faster than binary search (2024)",
+      "url": "https://curiouscoding.nl/posts/static-search-tree/",
+      "summary": "New research from 2024 indicates that static search trees can achieve search speeds up to 40 times faster than traditional binary search methods. This discovery highlights significant advancements in algorithmic efficiency.",
+      "tags": [
+        "algorithms",
+        "computer science",
+        "performance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c73bbd52bd00c016",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Thanks HN for 15 years of support and helping me find my life's work",
+      "url": "https://news.ycombinator.com/item?id=48949551",
+      "summary": "The founder of Recurse Center expressed gratitude to Hacker News for 15 years of support, crediting the platform with helping them find their life's work in running programming retreats. Hacker News has consistently been a primary source of applicants for their program.",
+      "tags": [
+        "community",
+        "programming",
+        "startup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3ddd3d047e054f4b",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The Zilog Z80 has turned 50",
+      "url": "https://goliath32.com/blog/z80.html",
+      "summary": "The Zilog Z80 microprocessor has reached its 50th anniversary, marking a significant milestone in computer history. This influential component has been widely used in various computing systems over the decades.",
+      "tags": [
+        "computer history",
+        "hardware",
+        "microprocessor"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5ad6264567325dac",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+      "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+      "summary": "TP-Link Kasa cameras contained a vulnerability that leaked home GPS data via unauthenticated UDP for six years. This security flaw exposed users' precise location information without their knowledge or consent.",
+      "tags": [
+        "cybersecurity",
+        "iot",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d8de5a4e2e4270f7",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Why do AI company logos look like buttholes? (2025)",
+      "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+      "summary": "Article URL:\nhttps://velvetshark.com/ai-company-logos-that-look-like-buttholes\nComments URL:\nhttps://news.ycombinator.com/item?id=48956924\nPoints: 328\n# Comments: 105",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "4d939d5d534b7b70",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5898963/8-killed-and-more-than-60-wounded-in-ukrainian-drone-attack-on-russian-regions",
+      "summary": "Kyiv's forces are continuing their aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort.\n(Image credit: Moscow Region Governor Andrei Vo)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "e65f7b6bb7976c6a",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "D'oh! I can't believe I did that! Graceful ways to handle awkward moments",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5896217/how-to-respond-in-awkward-moments",
+      "summary": "This article provides advice on gracefully handling awkward social moments and quickly defusing embarrassing situations. It offers tactics to navigate cringe-inducing encounters with composure.",
+      "tags": [
+        "social skills",
+        "self-help",
+        "etiquette"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8735c52bd3bbfc82",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Ex-wife says ICE agent who killed man in Maine had racist beliefs, violent tendencies",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5897460/maine-ice-shooting-brouillette",
+      "summary": "The ex-wife of an ICE agent involved in a fatal shooting in Maine identified him as David Brouillette, alleging he held racist beliefs and violent tendencies. Her statements link the officer to the death of Joan Sebastián Durán Guerrero.",
+      "tags": [
+        "crime",
+        "police brutality",
+        "immigration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e7583bc6685e89d5",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "ICE shared Medicaid data it wasn't supposed to have with Palantir",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5898504/ice-medicaid-palantir-data",
+      "summary": "Revelations from a federal court case indicate that ICE shared Medicaid data it was not authorized to possess with Palantir. This data sharing was reportedly used to aid in deportation efforts, raising privacy concerns.",
+      "tags": [
+        "data privacy",
+        "government",
+        "immigration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d40692666af14494",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Opinion: The continued courage of Captain Sully",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5882194/opinion-the-continued-courage-of-captain-sully",
+      "summary": "Captain Chesley \"Sully\" Sullenberger, renowned for safely landing an airplane on the Hudson River in 2009, announced this week that he has Alzheimer's disease. An opinion piece praises his continued courage in facing this personal challenge.",
+      "tags": [
+        "aviation",
+        "public figures",
+        "health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "72243ea4fc716785",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Spain could make World Cup history: The first to win men's and women's trophies back-to-back",
+      "url": "https://www.npr.org/2026/07/17/g-s1-134232/spain-world-cup-history-women-men",
+      "summary": "Spain's Men's National Team is poised to potentially make World Cup history by winning both the men's and women's trophies back-to-back. The women's team achieved their first World Cup victory in 2023.",
+      "tags": [
+        "soccer",
+        "sports",
+        "spain"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fdd3cba4aa3f55cb",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "The 2000s called. They want their digital camera back",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5896117/retro-digital-camera-analog-reboot",
+      "summary": "Young people are surprisingly acquiring digital cameras from the 2000s, driven by celebrity influence, trend cycles, nostalgia, and smartphone fatigue. This trend marks a retro resurgence in photography.",
+      "tags": [
+        "photography",
+        "trends",
+        "nostalgia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "762f9793a576c182",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "The U.S. and Iran blow past red lines as they lurch back toward all-out war",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5898916/us-iran-escalate-strikes",
+      "summary": "The United States and Iran exchanged strikes aimed at infrastructure and military targets on Saturday as their battle over the Strait of Hormuz intensified.\n(Image credit: Razieh Poudat/AP Photo)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f3b9cfb495715526",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Why is it so hard for the U.S. to win wars?",
+      "url": "https://www.npr.org/2026/07/18/g-s1-134037/why-is-it-so-hard-for-the-u-s-to-win-wars",
+      "summary": "U.S. presidents have consistently struggled to achieve short, decisive victories in wars in Afghanistan, Iraq, and Iran, which have proven far more complex than advertised. These conflicts often fall short of their initial political objectives.",
+      "tags": [
+        "foreign policy",
+        "military",
+        "history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "17dd312561f5a79f",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Claude make Fable 5 permanent",
+      "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything",
+      "summary": "Claude Fable 5 will be permanently included in Max and Team Premium plans at 50% of limits, a decision influenced by competition from models like GPT-5.6 Sol and Kimi 3. This reverses Anthropic's earlier plan to remove Fable 5 from subscription accounts.",
+      "tags": [
+        "ai",
+        "llm",
+        "pricing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "82b1152e9d62fa9d",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "nascheme/quixote",
+      "url": "https://simonwillison.net/2026/Jul/18/quixote/#atom-everything",
+      "summary": "The Quixote web framework, a vintage Python tool with an oldest commit from 21 years ago, surprisingly received an update just six hours prior to the article. This update delighted long-time Python web enthusiasts.",
+      "tags": [
+        "python",
+        "web development",
+        "computer history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "50d4dc6d2a0c9513",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Vibes are winning, whether you like it or not",
+      "url": "https://www.slowboring.com/p/vibes-are-winning-whether-you-like",
+      "summary": "The article suggests that \"vibes,\" or intuitive and easily digestible content, are increasingly dominant in how people consume information and learn, shifting from traditional structured methods to quick digital searches. This trend highlights a move towards immediate, experiential understanding in culture and social interactions.",
+      "tags": [
+        "culture",
+        "internet",
+        "social trends"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6ad164b13fbbbca9",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
+      "url": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/",
+      "summary": "A recent 600-mile road trip demonstrated significant improvements in DC Fast charging for electric vehicles in the U.S. The trip provided data proving EV charging has become much faster and more reliable.",
+      "tags": [
+        "ev",
+        "charging",
+        "transportation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9b8681064338a98c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Agility Robotics plants its flag in Tesla’s backyard",
+      "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "summary": "Agility Robotics is establishing a new training center for its Digit robots in Fremont, California. This move plants the company's flag close to Tesla's operations, indicating strategic positioning in the robotics sector.",
+      "tags": [
+        "robotics",
+        "manufacturing",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8602d949571c3d75",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "AI-driven memory crunch jolts India’s smartphone market",
+      "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+      "summary": "India's smartphone market is experiencing a slowdown due to an AI-driven memory crunch, which is reshaping pricing, demand, and corporate strategies within consumer electronics. This highlights the broad impact of the AI boom on various sectors.",
+      "tags": [
+        "ai",
+        "smartphones",
+        "market"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9df2e5f2e1786240",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Amazon fixing bug that billed some AWS customers billions of dollars",
+      "url": "https://techcrunch.com/2026/07/17/amazon-fixing-bug-that-billed-some-aws-customers-billions-of-dollars/",
+      "summary": "Amazon is actively fixing a bug that mistakenly billed some AWS customers billions of dollars. This technical error caused significant and surprising bill estimates for users of the tech and cloud giant's services.",
+      "tags": [
+        "aws",
+        "billing",
+        "bug"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8bee2984596504eb",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apple and Google ordered to purge ‘nudify’ apps from App Stores",
+      "url": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
+      "summary": "In letters sent to Apple and Google, San Francisco City Attorney David Chiu said that both companies have long been aware that they are hosting apps in violation of state law.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "8b44112ea009d012",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "summary": "Databricks has achieved a $188 billion valuation, solidifying its position as a leading AI company after successfully rebranding. The company has also released research on the cost savings associated with open-weight AI models for coding.",
+      "tags": [
+        "ai",
+        "valuation",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cf2903372709cbc9",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "FBI arrests man accused of using Steam games to drain victims’ crypto wallets",
+      "url": "https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/",
+      "summary": "The FBI arrested Zyaire Wilkins, a 21-year-old student, for allegedly publishing fake video games on Steam containing malware. This malware reportedly infected thousands of victims and was used to steal cryptocurrency from some.",
+      "tags": [
+        "cybercrime",
+        "gaming",
+        "cryptocurrency"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c292ffe2e8baf753",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "summary": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple employees now work at the company. OpenAI’s…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "5a76002984ad0df9",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "summary": "Venture capitalist Neil Rimer of Index Ventures predicts that the substantial wealth generated by AI in Silicon Valley will eventually need to be redistributed. He suggests this redistribution could be either voluntary or involuntary.",
+      "tags": [
+        "ai",
+        "venture capital",
+        "economics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f493fce53a9df22b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
+      "url": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
+      "summary": "Nuclear startup Valar Atomics is in talks to raise new funding at a $6 billion valuation, reflecting a growing trend of complex, multi-stage funding rounds. This potential deal underscores the increasing investment in the nuclear energy sector.",
+      "tags": [
+        "nuclear energy",
+        "startup",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ced4679d439f511d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Parents want safer phones for kids. These companies are answering the call.",
+      "url": "https://techcrunch.com/2026/07/17/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+      "summary": "As parents increasingly seek alternatives to unrestricted smartphones for their children, a growing number of companies are developing specialized phones for kids. These range from feature-limited mobile devices to minimalist home phones designed with safety in mind.",
+      "tags": [
+        "parental control",
+        "children's tech",
+        "smartphones"
+      ],
+      "priority": false
+    },
+    {
+      "id": "19a2b5e756255a92",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+      "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "summary": "Patreon is strengthening its defenses against AI scraping by partnering with Cloudflare to actively block bots that train AI models on creators’ content without permission. This marks a strategic shift from merely using robots.txt to actively preventing unauthorized data use.",
+      "tags": [
+        "ai",
+        "privacy",
+        "content creation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "afe84167d5594848",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "reMarkable’s new Paper Pure is good. That’s why I wrote this review on it.",
+      "url": "https://techcrunch.com/2026/07/17/remarkables-new-paper-pure-is-good-thats-why-i-wrote-this-review-on-it/",
+      "summary": "The new reMarkable Paper Pure, which replaces the reMarkable 2, has received a positive review, with the author writing the entire review on the device itself. This highlights the device's utility and quality.",
+      "tags": [
+        "e-reader",
+        "review",
+        "gadgets"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d3994891c2a5b1b0",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The Zoom hack that says, ‘Don’t record me’",
+      "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+      "summary": "The article questions the utility of constant transcription and summarization of virtual meetings and casual conversations. It suggests that such pervasive recording might diminish engagement with the actual content.",
+      "tags": [
+        "privacy",
+        "collaboration tools",
+        "productivity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "75c6abf55bdd9ceb",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Don’t Become a Consultant. Start a Business.",
+      "url": "https://www.thefp.com/p/dont-become-a-consultant-start-a-business-ronnen-harary",
+      "summary": "Ronnen Harary, co-founder of Spin Master, advocates for young entrepreneurs to start businesses directly rather than seeking prior consulting or corporate experience. He argues that a lack of traditional experience can be a significant competitive advantage for innovation.",
+      "tags": [
+        "entrepreneurship",
+        "business",
+        "startup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ac7729d640843c41",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Read ‘Catcher in the Rye’ When You’re Young, or Not at All",
+      "url": "https://www.thefp.com/p/read-catcher-in-the-rye-joseph-epstein",
+      "summary": "The author reflects on reading \"Catcher in the Rye\" at a young age, strongly identifying with Holden Caulfield's character and his pervasive use of the word \"phony.\" He suggests the novel's impact is most profound when read during adolescence.",
+      "tags": [
+        "literature",
+        "books",
+        "opinion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ac225ceb65d13043",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Book That Changed How We Think About Thinking",
+      "url": "https://www.thefp.com/p/the-book-that-changed-how-we-think",
+      "summary": "Peter Coy reflects on Douglas Hofstadter’s \"Gödel, Escher, Bach: An Eternal Golden Braid\" (\"GEB\"), a 777-page masterpiece exploring consciousness and self-reference through \"strange loops.\" First read in 1983, the book remains profound in the age of AI.",
+      "tags": [
+        "philosophy",
+        "ai",
+        "books"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4f6a199291879ef4",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "There Is Good and Evil. Christopher Nolan’s ‘The Odyssey’ Isn’t Afraid to Say So.",
+      "url": "https://www.thefp.com/p/there-is-good-and-evil-christopher",
+      "summary": "Christopher Nolan's film adaptation of \"The Odyssey\" is praised for faithfully telling Homer's original story without modern distortions or ironic spins. The movie largely respects the epic's heroic spirit and overarching structure, letting Homer's narrative shine.",
+      "tags": [
+        "film",
+        "literature",
+        "review"
+      ],
+      "priority": false
+    },
+    {
+      "id": "01536215b93cade5",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Two Drinks with . . . The New Yorker’s Master Wordsmith",
+      "url": "https://www.thefp.com/p/two-drinks-with-the-new-yorkers-master",
+      "summary": "The author interviews Rachel Aviv, a New Yorker writer, expressing immense admiration for her clarity, simplicity, and psychological acuity in prose. Aviv is lauded as a master wordsmith, drawing comparisons to literary giants like Susan Sheehan and Janet Malcolm.",
+      "tags": [
+        "journalism",
+        "literature",
+        "interview"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c086620e9a94e995",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Fine, electric mountain bikes don’t suck",
+      "url": "https://www.theverge.com/tech/966964/emtb-riders-are-not-cheaters",
+      "summary": "The author, a former skeptic, now enjoys electric mountain bikes, noting they can compensate for poor technique and are genuinely fun. This shift in perspective was influenced by riding an Amflow PX Carbon Pro with a powerful Avinox M2S motor.",
+      "tags": [
+        "e-bikes",
+        "sports",
+        "review"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f02795b1ab8dc81b",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Pebble founder Eric Migicovsky says his 30-day warranty is all about trust",
+      "url": "https://www.theverge.com/gadgets/967471/pebble-smartwatch-warranty-repairs-migicovsky-interview",
+      "summary": "Pebble founder Eric Migicovsky emphasizes that trust is paramount for buyers of the new e-paper smartwatches, despite a short 30-day warranty. The company, revived in 2025, aims to assure customers of their commitment to resolving issues.",
+      "tags": [
+        "smartwatches",
+        "consumer tech",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b3a7522f73b5c0bd",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Shark&#8217;s versatile ChillPill cooling system is back to its best price",
+      "url": "https://www.theverge.com/gadgets/967512/shark-chillpill-personal-fan-and-cooling-system-deal-sale",
+      "summary": "Shark's versatile ChillPill Personal Fan and Cooling System, which combines a fan with a dry-touch evaporative mister, is back on sale at its lowest price. The device can be worn, clipped, or used on a tabletop, offering up to 11 hours of cooling with USB-C recharging.",
+      "tags": [
+        "gadgets",
+        "cooling",
+        "deal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f492b307630779fe",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Sony’s flagship RGB LED TV is incredible",
+      "url": "https://www.theverge.com/tech/966788/sony-bravia-9-ii-tv-review",
+      "summary": "Sony's flagship Bravia 9 II is lauded as an incredible RGB LED TV, delivering natural landscapes, vibrant colors, and impressive HDR highlights for an exceptional viewing experience. The review highlights its outstanding visual quality for movies.",
+      "tags": [
+        "tv",
+        "electronics",
+        "review"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b54ec6c8f040f824",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Surprise! Facial recognition smart locks are actually good",
+      "url": "https://www.theverge.com/tech/967183/best-facial-recognition-smart-locks-review",
+      "summary": "Facial recognition smart locks offer a frictionless way to unlock doors, similar to phone unlocking, and are seen as the future of smart home security. This technology provides an improvement over less reliable geofencing methods for hands-free entry.",
+      "tags": [
+        "smart home",
+        "security",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fff526ab928d09ef",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The apps, gadgets, and tools every reader needs",
+      "url": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
+      "summary": "This article, part of The Verge's \"Installer\" series, curates a list of essential apps, gadgets, and tools for readers. It also touches on various tech-related topics and personal updates from the author.",
+      "tags": [
+        "tech culture",
+        "apps",
+        "gadgets"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3daac8a5957e500a",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "TikTok is testing an AI likeness detection tool",
+      "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+      "summary": "TikTok is testing an opt-in tool in the US that scans for AI-generated likenesses, allowing creators to report them, similar to a YouTube initiative. Users must verify their identity through Jumio for access to the tool.",
+      "tags": [
+        "ai",
+        "social media",
+        "privacy"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 94,
+    "summarized": 69,
+    "skipped_promos": 2,
+    "filtered_by_rules": 23,
+    "sources": 9,
+    "email_items_omitted": 0
+  }
+}
