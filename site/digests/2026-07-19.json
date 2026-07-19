@@ -1,0 +1,717 @@
+{
+  "date": "2026-07-19",
+  "generated_at": "2026-07-19T14:49:13+00:00",
+  "hot_topics": [
+    {
+      "topic": "Tate Brothers Arrested in US on New UK Charges",
+      "synthesis": "Influencers Andrew and Tristan Tate have been arrested in Miami by US Marshals, facing new rape and sex trafficking charges from British authorities. The UK Crown Prosecution Service has issued numerous charges against them, totaling up to 59, and is actively seeking their extradition to England. Their legal representation maintains their innocence against these allegations.",
+      "item_ids": [
+        "af691181b5838a6d",
+        "a8dfb8645d600c21",
+        "87bfa92105b0e45a"
+      ]
+    },
+    {
+      "topic": "Growing Concerns Over AI's Societal and Business Impact",
+      "synthesis": "Experts and critics are increasingly vocal about the negative societal impacts and potential misuse of AI, ranging from author Dave Eggers' assertion that ChatGPT is 'silencing an entire generation' of educators to concerns about 'AI communism' from China's Kimi model. There's also skepticism within consulting circles regarding 'AI mania' leading to uninformed executive decisions and calls for regulation, such as NYC possibly requiring disclosure of AI use in real estate listings.",
+      "item_ids": [
+        "0395cf0967f69d75",
+        "c17b451e39286a3d",
+        "f32cb31485a4036a",
+        "93619d56b3a30e5f",
+        "d62235327021ed49"
+      ]
+    },
+    {
+      "topic": "Russia Launches Major Missile Attacks on Ukrainian Cities",
+      "synthesis": "Russia has launched deadly ballistic missile and drone attacks on major Ukrainian cities, including the capital, resulting in casualties. These actions come as Ukraine continues its own assaults on Russian infrastructure, intensifying the ongoing conflict. The war's prolonged impact is also manifesting in Russia, with citizens resorting to cash and businesses avoiding taxes, further straining the wartime economy.",
+      "item_ids": [
+        "177d7ac6c4d89e83",
+        "a27715b0852a49eb",
+        "fa5d8967944b1e53"
+      ]
+    },
+    {
+      "topic": "Prominent Cuban Dissident Artist Exiled to United States",
+      "synthesis": "Luis Manuel Otero Alcántara, a renowned Cuban artist and dissident, has arrived in Miami after being released from five years in prison. His release was contingent on his exile from Cuba, following his arrest during the country's largest anti-government protests in decades. This marks a significant development for the activist and artist.",
+      "item_ids": [
+        "b45c39cd310f7931",
+        "bd8cfdb5b268f5f5"
+      ]
+    },
+    {
+      "topic": "World Cup Final Spotlights Global Soccer Excitement and MLS Growth",
+      "synthesis": "The World Cup is culminating with a highly anticipated final between Argentina and Spain, featuring star players Lionel Messi and Lamine Yamal, raising questions about Messi's final tournament appearance. Beyond the field, the tournament's entertainment, including the half-time show, is sparking discussions on music's role in sports, while Major League Soccer aims to leverage this global fever to cultivate a new generation of fans in the US.",
+      "item_ids": [
+        "936fcb19c8040a1b",
+        "82ac3431d16a4fda",
+        "5387b7d353498698",
+        "a2dba62af5ac53f6",
+        "59659a17e00bef3a"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "b45c39cd310f7931",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Cuban dissident Luis Manuel Otero Alcántara has gone into exile in the US after spending five years in prison. He was arrested in 2021 during Cuba's largest anti-government protests in decades.",
+      "tags": [
+        "cuba",
+        "dissident",
+        "human rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8caa0aad83c59def",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ferry carrying 116 passengers sinks off Guyana coast, authorities say",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "summary": "A ferry carrying 116 passengers has sunk off the coast of Guyana between Georgetown and Port Kaituma. Authorities have reported that 53 people have been rescued so far.",
+      "tags": [
+        "guyana",
+        "maritime",
+        "accident"
+      ],
+      "priority": false
+    },
+    {
+      "id": "79ed0e1143a0c31c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Hungary's president agrees to stand down after parliament backs removal",
+      "url": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss",
+      "summary": "Hungary's President Tamás Sulyok has agreed to resign after parliament backed his removal, with his term set to end by Saturday night. Sulyok is considered a loyalist to Prime Minister Orbán.",
+      "tags": [
+        "hungary",
+        "politics",
+        "government"
+      ],
+      "priority": false
+    },
+    {
+      "id": "936fcb19c8040a1b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Messi on the brink of history - will it be his last World Cup game?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cql1xxxpndlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lionel Messi is poised to make history in his 34th World Cup match during Sunday's final, prompting speculation about whether this will be his last appearance in the tournament. The article highlights his significant milestone.",
+      "tags": [
+        "football",
+        "world cup",
+        "messi"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2a96a8bb608baa5b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "New EU border system tripling time at passport control, airport boss says",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+      "summary": "A new EU border system is reportedly tripling passport control times, according to an airport boss, prompting Ryanair to warn passengers of extended waits this summer. The changes are causing significant delays for travelers to Europe.",
+      "tags": [
+        "eu",
+        "travel",
+        "border control"
+      ],
+      "priority": false
+    },
+    {
+      "id": "09e69a003b3b789a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Private jets flock to Montana - but locals can't afford the trailer park",
+      "url": "https://www.bbc.co.uk/news/articles/ckg92d8d40yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Rents in Bozeman, Montana, have skyrocketed due to an influx of wealthy out-of-towners, making housing unaffordable for many locals, including those seeking trailer park options. This migration is significantly altering the city's cost of living.",
+      "tags": [
+        "housing",
+        "montana",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cc0f8d82fb450bc5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Runners take on 'world's coolest marathon' on drifting North Pole ice",
+      "url": "https://www.bbc.co.uk/news/videos/c9q9lw5rql4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Twenty-three runners from seven countries participated in the 'world's coolest marathon' on drifting North Pole ice. The event brought athletes to the Arctic's geographic North Pole for races.",
+      "tags": [
+        "marathon",
+        "arctic",
+        "extreme sports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "177d7ac6c4d89e83",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Russia launches major ballistic missile attack on Ukrainian cities",
+      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia launched a major ballistic missile attack on Ukraine's two largest cities, killing five people and injuring at least 35. This attack comes as Kyiv continues its own assaults on Russian infrastructure.",
+      "tags": [
+        "russia",
+        "ukraine",
+        "war"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fa5d8967944b1e53",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Russians turn to cash, putting more strain on slowing wartime economy",
+      "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Russians are increasingly using cash, adding strain to the country's slowing wartime economy, which has been impacted by mobile internet shutdowns and businesses seeking to avoid taxes. These trends are observed over four years into the war with Ukraine.",
+      "tags": [
+        "russia",
+        "economy",
+        "war"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a8dfb8645d600c21",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Tate brothers arrested in US as further UK charges take total to 59",
+      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Tate brothers have been arrested in the US, facing a total of 59 charges from the UK, including new allegations of rape and sex trafficking. The Crown Prosecution Service has requested their extradition, although their lawyer asserts their innocence.",
+      "tags": [
+        "tate brothers",
+        "arrests",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c6efdc105488ba11",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US and Iran trade fire after two US soldiers killed in Jordan",
+      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "summary": "The US and Iran have traded fire following the killing of two US soldiers in Jordan, with Iran claiming US strikes hit an under-construction nuclear power plant. This escalation occurred after Kuwait reported two electricity and water plant attacks in two days.",
+      "tags": [
+        "us",
+        "iran",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "82ac3431d16a4fda",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why the World Cup half-time show may be a taste of things to come",
+      "url": "https://www.bbc.co.uk/news/articles/cwyr498vqqpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The spectacle of the 2026 World Cup's half-time show is generating debate about the role of music in sports and its potential integration into future tournaments. The event is setting a precedent for entertainment in major sporting events.",
+      "tags": [
+        "world cup",
+        "entertainment",
+        "sports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c17b451e39286a3d",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "AI Mania Is Eviscerating Global Decision-Making",
+      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+      "summary": "An article titled 'AI Mania Is Eviscerating Global Decision-Making' was featured on Hacker News, provoking extensive discussion. It suggests that an overemphasis on AI is negatively impacting strategic choices, particularly within large companies.",
+      "tags": [
+        "ai",
+        "decision-making",
+        "criticism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "35edfc452bc03e54",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Better and Cheaper Than IPTV",
+      "url": "https://github.com/stupside/castor",
+      "summary": "A GitHub project, 'Better and Cheaper Than IPTV,' was highlighted on Hacker News, proposing an alternative solution for media streaming. The repository garnered significant attention and discussion.",
+      "tags": [
+        "streaming",
+        "software",
+        "open source"
+      ],
+      "priority": false
+    },
+    {
+      "id": "29a668ea11196078",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Codex Resets",
+      "url": "https://codex-resets.com/",
+      "summary": "The topic 'Codex Resets' was presented on Hacker News, indicating a discussion or project related to code repositories or programming challenges. It received notable engagement from the community.",
+      "tags": [
+        "programming",
+        "software development",
+        "challenges"
+      ],
+      "priority": false
+    },
+    {
+      "id": "79d5f86b22e592b2",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Goodbye, and Thanks for All the Bikesheds",
+      "url": "https://queue.acm.org/detail.cfm?id=3818307",
+      "summary": "An article titled 'Goodbye, and Thanks for All the Bikesheds' appeared on Hacker News, generating significant engagement. This typically signifies a discussion on software development processes, project management, or organizational dynamics.",
+      "tags": [
+        "software development",
+        "project management"
+      ],
+      "priority": false
+    },
+    {
+      "id": "52aa1c17c458244d",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
+      "url": "https://www.neatnik.net/hardcore-indieweb",
+      "summary": "An article titled 'Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day' was featured on Hacker News, promoting extreme self-hosting for personal websites. The post sparked extensive discussion about web independence.",
+      "tags": [
+        "indieweb",
+        "self-hosting",
+        "web development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f32cb31485a4036a",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
+      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "summary": "New York City may soon require landlords and realtors to disclose the use of AI in property listings. This proposed regulation aims to increase transparency regarding AI-generated content in real estate advertising.",
+      "tags": [
+        "ai",
+        "regulation",
+        "real estate"
+      ],
+      "priority": false
+    },
+    {
+      "id": "632be2e4dc8c230c",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Qwen3.8 is launching and going open-weight soon",
+      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+      "summary": "Alibaba Qwen announced that its Qwen3.8 language model is launching soon and will be released as open-weight. This news generated considerable interest and discussion on Hacker News.",
+      "tags": [
+        "ai",
+        "open source",
+        "large language models"
+      ],
+      "priority": false
+    },
+    {
+      "id": "93619d56b3a30e5f",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The Kimi K3 Moment",
+      "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+      "summary": "An article discussing 'The Kimi K3 Moment' generated substantial debate and comments on Hacker News. This topic likely refers to a significant development or turning point related to the Kimi AI model.",
+      "tags": [
+        "ai",
+        "china",
+        "large language models"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ee2936cbe016d74e",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Transcribe.cpp",
+      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "summary": "The 'Transcribe.cpp' project, a C++ based transcription tool, was featured on Hacker News and generated considerable interest. This tool likely offers efficient speech-to-text capabilities.",
+      "tags": [
+        "speech to text",
+        "c++",
+        "tools"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4233b8e610a25b93",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+      "summary": "An article on Hacker News, titled 'What I learned selling 2,500 MIDI recorders: Hardware is not so hard,' shares insights into the experience of manufacturing and selling hardware products. The post generated significant discussion among the community.",
+      "tags": [
+        "hardware",
+        "entrepreneurship",
+        "midi"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7a0261b64eeeccab",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "An Israeli paraglider tries to save migrating swifts that nest in the Western Wall",
+      "url": "https://www.npr.org/2026/07/19/nx-s1-5870684/israel-swift-birds-jerusalem",
+      "summary": "An Israeli paraglider is working to protect migrating swifts that have nested in Jerusalem's Western Wall since biblical times. His efforts aim to preserve this ancient avian population.",
+      "tags": [
+        "israel",
+        "wildlife",
+        "conservation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "87bfa92105b0e45a",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Andrew and Tristan Tate arrested in Florida on charges of rape and sex trafficking",
+      "url": "https://www.npr.org/2026/07/18/g-s1-134475/tate-brothers-arrested-miami",
+      "summary": "Andrew and Tristan Tate were arrested in Miami after British authorities issued 38 new charges against them, including rape and sex trafficking. British officials are seeking their extradition to face these charges.",
+      "tags": [
+        "tate brothers",
+        "arrests",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a2dba62af5ac53f6",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Argentina, Spain and their stars Lionel Messi and Lamine Yamal meet in World Cup final",
+      "url": "https://www.npr.org/2026/07/19/nx-s1-5899071/2026-world-cup-fifa-argentina-spain-final-championship",
+      "summary": "The World Cup final will feature Argentina and Spain, a highly anticipated match showcasing their transcendent stars, Lionel Messi and Lamine Yamal. This championship game between the two teams is expected to be a classic encounter.",
+      "tags": [
+        "world cup",
+        "football",
+        "argentina"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bd8cfdb5b268f5f5",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Cuban artist and dissident exiled from country after 5 years in prison arrives in US",
+      "url": "https://www.npr.org/2026/07/19/nx-s1-5899494/cuban-artist-exile-us",
+      "summary": "Luis Manuel Otero Alcántara, a renowned Cuban dissident artist and musician, arrived in Miami after being released from a five-year prison sentence on the condition of leaving Cuba. He was a prominent figure in anti-government protests.",
+      "tags": [
+        "cuba",
+        "dissident",
+        "artist"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a27715b0852a49eb",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Deadly overnight Russian attack on Ukraine targets the capital",
+      "url": "https://www.npr.org/2026/07/19/nx-s1-5899518/russia-attack-kyiv",
+      "summary": "Russia launched a deadly overnight attack on Ukraine, targeting the capital with 41 missiles and 125 attack drones. The extensive aerial assault was reported by the Ukrainian air force.",
+      "tags": [
+        "russia",
+        "ukraine",
+        "war"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ee4375314c52f5c4",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Josh Kerr of Britain breaks 27-year-old world record in the mile",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5899057/josh-kerr-mile-world-record-time",
+      "summary": "British runner Josh Kerr successfully broke a 27-year-old world record in the mile race in London on Saturday. He had announced his ambitious goal months in advance, and managed to achieve it.",
+      "tags": [
+        "athletics",
+        "world record",
+        "josh kerr"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5387b7d353498698",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "MLS works to bring in a new generation of fans as the World Cup comes to an end",
+      "url": "https://www.npr.org/2026/07/19/nx-s1-5899020/2026-world-cup-fifa-mls-major-league-soccer",
+      "summary": "Major League Soccer (MLS) is actively working to attract a new generation of fans as the World Cup concludes. The league aims to capitalize on the tournament's excitement, much like the 1994 World Cup spurred MLS's formation.",
+      "tags": [
+        "mls",
+        "soccer",
+        "world cup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3a36d0dbafc23afd",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Violence repeatedly erupts in dementia care despite warnings, inspections show",
+      "url": "https://www.npr.org/2026/07/19/nx-s1-5894692/dementia-violence-warning-supervision-nursing-homes-assisted-living-facility",
+      "summary": "Violence frequently erupts in dementia care facilities, with inspections and court records revealing that safeguards often fall short despite warnings. Nursing homes and assisted living facilities can be sites of violence, including fatal assaults, between residents with dementia.",
+      "tags": [
+        "dementia",
+        "healthcare",
+        "elder care"
+      ],
+      "priority": false
+    },
+    {
+      "id": "59659a17e00bef3a",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Spot the pol!",
+      "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/spot-the-pol-01004351",
+      "summary": "U.K.'s Deputy Prime Minister David Lammy was seen making a good luck gesture before England's World Cup semifinal match against Argentina. The brief article highlights a political figure's engagement with the football event.",
+      "tags": [
+        "politics",
+        "football",
+        "world cup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d62235327021ed49",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "AI Mania Is Eviscerating Global Decision-Making",
+      "url": "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything",
+      "summary": "Simon Willison highlighted an essay on 'AI Mania Is Eviscerating Global Decision-Making,' which critiques companies where executives make AI strategies without understanding the tools. The piece includes anecdotes about sales pressure leading to exaggerated AI capabilities and engineers rewriting code with AI to keep their jobs.",
+      "tags": [
+        "ai",
+        "business",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b5134f7e5471197e",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything",
+      "summary": "Claude Code now uses a Rust-ported version of Bun, as evidenced by a 10% faster startup on Linux and file analysis within the Claude Code installation. This update incorporates Bun v1.4.0, an unreleased canary version.",
+      "tags": [
+        "claude",
+        "bun",
+        "rust"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f10aaef260ac0a47",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "SQLite Query Explainer",
+      "url": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything",
+      "summary": "A new 'SQLite Query Explainer' tool, inspired by Julia Evan's work, helps users understand SQLite query plans by adding explanations to EXPLAIN and EXPLAIN QUERY PLAN results. The tool runs SQLite in Python within Web Assembly in the browser.",
+      "tags": [
+        "sqlite",
+        "sql",
+        "development tools"
+      ],
+      "priority": false
+    },
+    {
+      "id": "866eb189a56d9877",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Saturday discussion post",
+      "url": "https://www.slowboring.com/p/saturday-discussion-post-4a8",
+      "summary": "This is a Saturday discussion post from Slow Boring, intended to generate community conversation. The post contains minimal content beyond its title.",
+      "tags": [
+        "blog",
+        "discussion",
+        "community"
+      ],
+      "priority": false
+    },
+    {
+      "id": "457179cbf5268df3",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "All the EVs that were discontinued or killed off in the U.S. this year",
+      "url": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/",
+      "summary": "The Honda Prologue will no longer be sold in the U.S., joining a growing number of electric vehicle models that have been discontinued this year. This reflects a dynamic and challenging market for EVs.",
+      "tags": [
+        "ev",
+        "automotive",
+        "industry trends"
+      ],
+      "priority": false
+    },
+    {
+      "id": "350d9e19065e7d4f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Federal employees can download TikTok on their work phones again",
+      "url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
+      "summary": "The Department of Justice now permits federal employees to download TikTok on their government-issued work phones. This decision reverses a previous ban on the popular social media application.",
+      "tags": [
+        "tiktok",
+        "government",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e78d9eafc2b722b6",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Kimi: Threat or menace?",
+      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "dce91b5d9b90b055",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Waymo says San Francisco service has resumed after one-hour pause",
+      "url": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
+      "summary": "Waymo's San Francisco autonomous vehicle service has resumed after a temporary one-hour pause, which was attributed to a power outage. This incident highlights how power disruptions can affect Waymo's operations.",
+      "tags": [
+        "autonomous vehicles",
+        "waymo",
+        "outages"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0395cf0967f69d75",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "summary": "Author Dave Eggers reportedly told OpenAI staff that ChatGPT is \"silencing an entire generation\" and causes catastrophic effects for educators. He criticized the company for its significant negative impact on writing and the arts.",
+      "tags": [
+        "ai",
+        "education",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e0c46494246c3c50",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Google is open-sourcing its 3D emoji",
+      "url": "https://www.theverge.com/design/967606/google-open-source-3d-emoji",
+      "summary": "Google is open-sourcing its 3D emoji designs, providing raw .OBJ files for community use in VR worlds and other creative projects. This initiative offers insight into the design process for 3D pictograms, which introduces new considerations compared to 2D.",
+      "tags": [
+        "emoji",
+        "open source",
+        "design"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ee046eca6943bfd3",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Google might not kneecap the Pixel 11a with an old processor",
+      "url": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
+      "summary": "Google's upcoming Pixel 11a is rumored to feature a flagship-grade Tensor G6 processor, a change from the Pixel 10a which used an older chip. The Tensor G6 is also expected to switch from Samsung's Exynos modems to a MediaTek M90 modem.",
+      "tags": [
+        "google",
+        "pixel",
+        "smartphone"
+      ],
+      "priority": false
+    },
+    {
+      "id": "44cfee048c1e6c78",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "GoPro&#8217;s discounted Max 2 bundle includes $100 worth of accessories",
+      "url": "https://www.theverge.com/gadgets/967311/gopro-max2-360-degree-action-cam-accessory-bundle-deal-sale",
+      "summary": "A discounted GoPro Max 2 accessory bundle is available for $369, including the 360-degree action camera, an extension pole, extra batteries, and a microSD card. The camera captures 8K 360-degree video, features a six-mic array with wind noise reduction, and is waterproof up to 16 feet.",
+      "tags": [
+        "gopro",
+        "camera",
+        "deals"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ae413d6f138c87a5",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The Clapper was a bad smart home gadget — and a viral sensation",
+      "url": "https://www.theverge.com/podcast/967642/the-clapper-version-history",
+      "summary": "The Clapper, a smart home gadget, became a viral sensation despite its unreliable functionality and potential to damage electronics. A podcast episode explores its history from \"The Great American Turn-On\" to its iconic advertising campaign.",
+      "tags": [
+        "smart home",
+        "retro tech",
+        "marketing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2c7936ce93cf7b04",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The future of physical games is not looking great",
+      "url": "https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games",
+      "summary": "The future of physical video games looks uncertain, with Grand Theft Auto VI not expected to offer a disc version. This trend reflects a shift away from physical media, disappointing players who value collecting games and their associated manuals.",
+      "tags": [
+        "gaming",
+        "physical media",
+        "industry trends"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e91fddf16c54cfa9",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The grueling, 630-mile road race where the only fuel is sunlight",
+      "url": "https://www.theverge.com/transportation/966701/solar-car-challenge-high-school-student-race-texas",
+      "summary": "High school students will participate in the 30th annual Solar Car Challenge, a 630-mile road race across Texas where they design and build solar-powered vehicles. Teams create cars using off-the-shelf and 3D-printed parts, with the goal to accumulate the most miles driven using only sunlight.",
+      "tags": [
+        "solar power",
+        "student competition",
+        "engineering"
+      ],
+      "priority": false
+    },
+    {
+      "id": "af691181b5838a6d",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "US Marshals arrest the Tate brothers in Miami",
+      "url": "https://www.theverge.com/policy/967651/us-marshals-arrest-the-tate-brothers-in-miami",
+      "summary": "Andrew and Tristan Tate were arrested in Miami by US Marshals in relation to new rape and sex trafficking charges in England. British authorities are seeking the brothers' extradition for new charges including seven counts of rape and three of sex trafficking for Andrew Tate, and two new charges of rape and three of sex trafficking for Tristan Tate.",
+      "tags": [
+        "tate brothers",
+        "arrests",
+        "crime"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 58,
+    "summarized": 47,
+    "skipped_promos": 0,
+    "filtered_by_rules": 11,
+    "sources": 8,
+    "email_items_omitted": 0
+  }
+}
