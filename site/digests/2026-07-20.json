@@ -1,0 +1,1124 @@
+{
+  "date": "2026-07-20",
+  "generated_at": "2026-07-20T15:48:43+00:00",
+  "hot_topics": [
+    {
+      "topic": "AliExpress Fined Over Unsafe Product Sales in Europe",
+      "synthesis": "AliExpress has been hit with the largest fine yet under Europe's Digital Services Act, exceeding $625 million, for failing to remove illegal, unsafe, or counterfeit products. The European Commission found that the platform allocated insufficient staff to mitigate risks and made it easy for bad actors to evade detection, specifically mentioning the prolonged sale of unsafe toys and dangerous cosmetics.",
+      "item_ids": [
+        "253524af72d49810",
+        "b27482a7e81370ed"
+      ]
+    },
+    {
+      "topic": "Avengers: Doomsday Trailer Debuts Amid MCU Reshuffle",
+      "synthesis": "Marvel Studios released the first official trailer for 'Avengers: Doomsday,' the penultimate film in the MCU's Multiverse Saga. The film is expected to feature Robert Downey Jr.'s Doctor Doom, inter-hero conflicts, and Thor's efforts to unite the X-Men, Fantastic Four, and New Avengers against a Latverian enemy. The film's creative direction was retooled following Jonathan Majors' departure, leading to the return of directors the Russo brothers.",
+      "item_ids": [
+        "8433da1fa11761db",
+        "cc4e463830ea765f"
+      ]
+    },
+    {
+      "topic": "Escalating Conflict Between US and Iran",
+      "synthesis": "Tensions between the US and Iran have escalated significantly, with multiple reports of US service members killed in Iranian attacks in Jordan and Iraq, prompting retaliatory US strikes. Iranian ballistic missiles and drones have targeted US bases, and the IRGC has claimed responsibility for some attacks, while collapsed peace talks suggest a return to major combat operations. The conflict is also impacting global economics, contributing to increased fuel costs and airline profit drops.",
+      "item_ids": [
+        "cb30d259d62a31ed",
+        "5685d8b74cc121a9",
+        "2440eedb9a698996",
+        "204bf73c4f94ab52",
+        "54b451874f4fb289",
+        "5b13ad431337ce02",
+        "bba769bb49c2db70",
+        "266f650d005eed76",
+        "78a80bfe8cc8e8af"
+      ]
+    },
+    {
+      "topic": "World Cup Final Highlights and Aftermath",
+      "synthesis": "The World Cup concluded with Spain's victory and a notable focus on the controversial half-time show, featuring stars like Madonna and BTS, which drew mixed reactions, especially in Europe. Host cities like New York and New Jersey are scrutinizing the tournament's economic impact, with questions raised about the return on their half-billion-dollar investment and a New Jersey governor expressing dissatisfaction with FIFA's contributions. The event also spurred discussions on political attendance, local fan celebrations, and the broader engagement with soccer.",
+      "item_ids": [
+        "b0fe73722db991c0",
+        "ec634b5baa04c137",
+        "c7e506a7ac9fe6b4",
+        "727d436c9ff60da2",
+        "96f185091c232f9a",
+        "594a89d4478339c1",
+        "f3b079fcd9fa9961",
+        "cad0d124b68f18ff",
+        "e18ccb70abb23beb",
+        "6afddd056f911482",
+        "78a80bfe8cc8e8af",
+        "44df9f664638b012",
+        "12b32c02eb73fd4f",
+        "21d301e6a0250fb5",
+        "35c2891dbe4897a7",
+        "bd898c40e7ebb618",
+        "02f1f5db663ccd67",
+        "6bee4b76724a221a",
+        "622a1e059e1d4f39",
+        "4b3259775d1c326a",
+        "dcb41b0bcfd6c431",
+        "bba769bb49c2db70"
+      ]
+    },
+    {
+      "topic": "Andy Burnham Appointed UK Prime Minister",
+      "synthesis": "Andy Burnham has been appointed as the new Prime Minister of the United Kingdom, succeeding Keir Starmer in a transition presided over by King Charles. Both Burnham and Starmer belong to the center-left Labour Party.",
+      "item_ids": [
+        "5b13ad431337ce02",
+        "2ed5b4870565f1c2",
+        "bba769bb49c2db70"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "e1feb1a4ec32cf28",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Beyond Greece and Rome",
+      "url": "https://aeon.co/essays/uncovering-a-global-ancient-history-beyond-greece-and-rome",
+      "summary": "A new shift in perspective is broadening the understanding of 'the ancient world' to include a more global and diverse history beyond Greece and Rome.",
+      "tags": [
+        "history",
+        "archaeology",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7500e7908708e9d1",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "The Skinner revolution",
+      "url": "https://aeon.co/videos/how-bf-skinner-upended-our-understanding-of-behaviour-and-control",
+      "summary": "A 1979 documentary delves into the life and controversial behavior experiments of B.F. Skinner, whose ideas profoundly reshaped our understanding of behavior.",
+      "tags": [
+        "psychology",
+        "science",
+        "history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "253524af72d49810",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "AliExpress fined $625M for failing to remove unsafe toys, dangerous cosmetics",
+      "url": "https://arstechnica.com/tech-policy/2026/07/aliexpress-fined-625m-for-failing-to-remove-unsafe-toys-dangerous-cosmetics/",
+      "summary": "Yesterday, the European Commission slapped AliExpress with the largest fine yet under the Digital Services Act (DSA), exceeding $625 million.\nIn a\npress release\n, the EC said that AliExpress failed to “diligently assess and mitigate risks relating to the sale of illegal, unsafe,…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c78276d5ba8f1fd8",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Beyond grep: The case for a context-rich AI coding harness",
+      "url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
+      "summary": "AI coding applications are increasingly focusing on the software that manages large language models, rather than solely the models themselves, as highlighted in a discussion with Anthropic's Claude Code product head.",
+      "tags": [
+        "ai",
+        "coding",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8433da1fa11761db",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "The first trailer for Avengers: Doomsday is finally here",
+      "url": "https://arstechnica.com/culture/2026/07/the-first-trailer-for-avengers-doomsday-is-finally-here/",
+      "summary": "With San Diego Comic-Con kicking off later this week, Marvel Studios has released the first official full trailer for\nAvengers: Doomsday\n, the penultimate film in the MCU's Phase Six and the end of the so-called \"Multiverse Saga.\"\n(Spoilers for prior relevant MCU films below.)\nMa…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "7ecbc66fb282404a",
+      "source": "Astral Codex Ten",
+      "source_type": "substack",
+      "title": "Open Thread 443",
+      "url": "https://www.astralcodexten.com/p/open-thread-443",
+      "summary": "An open thread includes updates on a PFAS-binding product study, MIRI's proposed 100,000-person AI protest, and initiatives for AI safety student groups at universities.",
+      "tags": [
+        "community",
+        "science",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b0fe73722db991c0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Boy, 13, dies during World Cup celebrations in Spain",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss",
+      "summary": "Two other young people were injured after a fountain partially collapsed in Salamanca's Ciudad Rodrigo.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "77f4a7111cff802b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Food delivery rider wins China's top literary prize",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydr3xd0kvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Wang Jibing, a food delivery rider, has won China's top literary prize, bringing wider attention to the literary contributions of blue-collar workers.",
+      "tags": [
+        "china",
+        "culture",
+        "literature"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2ebe450017a8c1f1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "From hundreds to thousands: How India's 'cockroach' protest movement has grown",
+      "url": "https://www.bbc.co.uk/news/videos/c0qvdywj97ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The 'Cockroach Janta Party' led thousands of protesters attempting to march on India's parliament to advocate for education reforms.",
+      "tags": [
+        "india",
+        "protest",
+        "education"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ab7b920f256391f5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Hamas names Khalil al-Hayya as new overall leader",
+      "url": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hamas has appointed Khalil al-Hayya as its new overall leader, succeeding Yahya Sinwar who was killed by Israeli forces in Gaza in 2024.",
+      "tags": [
+        "middle east",
+        "politics",
+        "hamas"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ec634b5baa04c137",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Lamine Yamal celebrates World Cup win with little brother who charmed fans",
+      "url": "https://www.bbc.co.uk/news/articles/c89nvnklkpdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The three-year-old brother of Yamal has been hailed one of Spain's World Cup breakout stars by fans",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "96f185091c232f9a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Moment fans in Madrid celebrate World Cup win",
+      "url": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of spectators watched Spain's victory in central Madrid on late Sunday night.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c4b0f7c0a2fddb13",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Newcastle, Liverpool and England legend Keegan dies",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2lyl82n2e2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Former England captain and manager Kevin Keegan has died at the age of 75, just seven weeks after being diagnosed with stage four cancer.",
+      "tags": [
+        "football",
+        "sports",
+        "obituary"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ca640d57c7d6b4b7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Norway opens new memorial for victims of 2011 massacre",
+      "url": "https://www.bbc.co.uk/news/articles/c07r9m22gyyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Norway has inaugurated a new memorial artwork in its capital, Oslo, commemorating the victims of the 2011 massacre ahead of its 15th anniversary.",
+      "tags": [
+        "norway",
+        "memorial",
+        "history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7dc945f2078d7880",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Police block thousands of 'cockroach' protesters marching on India's parliament",
+      "url": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Police blocked thousands of 'cockroach' protesters marching on India's parliament to demand education reforms, with some participants reporting injuries during clashes.",
+      "tags": [
+        "india",
+        "protest",
+        "education"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4b65e9fe2bfff053",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Rare identical quadruplets born in Australia",
+      "url": "https://www.bbc.co.uk/news/articles/cx2jnj3428lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Parents in Australia were 'immensely surprised' by the natural conception and birth of identical quadruplet girls.",
+      "tags": [
+        "health",
+        "human interest",
+        "australia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "82ec5319010c2f09",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Runners complete 'world's coolest marathon' on drifting North Pole ice",
+      "url": "https://www.bbc.co.uk/news/videos/c9q9lw5rql4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Twenty-three runners from seven countries participated in the 'world's coolest marathon' held on drifting ice at the Arctic's geographic North Pole.",
+      "tags": [
+        "sports",
+        "endurance",
+        "arctic"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5685d8b74cc121a9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
+      "url": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Irish airline said oil prices had increased costs meanwhile Brent crude surpassed $90.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "68bd74e9dfddfe71",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Scores feared dead after passenger ferry capsizes off Guyana",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "summary": "A passenger ferry capsized off Guyana, with 67 people rescued but scores feared dead out of an estimated 130 passengers on board.",
+      "tags": [
+        "disaster",
+        "maritime",
+        "accident"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c7e506a7ac9fe6b4",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Shakira, Madonna, Justin Bieber and BTS perform at colourful World Cup half-time show",
+      "url": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Robbie Williams and Jennifer Hudson also performed, with Kylie Jenner and Timothee Chalamet among the celebrities in the crowds.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "727d436c9ff60da2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Spanish and Argentinian fans react outside World Cup final",
+      "url": "https://www.bbc.co.uk/news/videos/czxqr9rl9r0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ecstatic Spanish spectators and disappointed Argentine fans spoke to the BBC after the World Cup final on Sunday.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "614f65f28d7d9c33",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
+      "url": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Russian attacks on merchant ships in the Black Sea have intensified, with local authorities reporting 28 fatalities in the Odesa region in July.",
+      "tags": [
+        "russia",
+        "ukraine",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b55657ef18c6466a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&at_campaign=rss",
+      "summary": "The 1975's frontman Matty Healy married model Gabbriette Bechtel in Los Angeles, after being first linked in 2023.",
+      "tags": [
+        "celebrity",
+        "entertainment",
+        "music"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0131a897ee33e8c1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "This farmer wanted to quit the cocaine industry - he couldn't",
+      "url": "https://www.bbc.co.uk/news/articles/c0kyml1zxz4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Colombian farmers who cultivate the raw material for cocaine express a desire to leave the industry but lack sufficient support to transition to alternative crops.",
+      "tags": [
+        "colombia",
+        "agriculture",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cb30d259d62a31ed",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
+      "url": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "2440eedb9a698996",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US soldier killed and one injured after Iranian attack in Iraq",
+      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "summary": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "343d231a6ae09c77",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Utah firefighter and four family members killed in flash flooding",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8l88jnwvo?at_medium=RSS&at_campaign=rss",
+      "summary": "A Utah firefighter, his wife, and their three sons were tragically killed in a flash flood, leaving only a daughter who was not on the outing.",
+      "tags": [
+        "usa",
+        "weather",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2276a0c014cd44b8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
+      "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Torrential rain caused flash floods in New York and New Jersey, leading to widespread street flooding and water cascading into subway stations.",
+      "tags": [
+        "usa",
+        "weather",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "07e8fc03e26e6014",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why are thousands of people protesting in Delhi?",
+      "url": "https://www.bbc.co.uk/news/articles/cedj9j911p8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of mostly young people are protesting in Delhi, marching on India's parliament to demand reforms in the education system.",
+      "tags": [
+        "india",
+        "protest",
+        "education"
+      ],
+      "priority": false
+    },
+    {
+      "id": "472586b5b44bbb65",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why are Ukraine's military recruiters facing violence in their own country?",
+      "url": "https://www.bbc.co.uk/news/videos/c0kmjy02rxko?at_medium=RSS&at_campaign=rss",
+      "summary": "The National Police Service in Ukraine reported over 600 assaults on military recruitment officers, indicating a rise in violent aggression towards them.",
+      "tags": [
+        "ukraine",
+        "military",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f3dd9b146197180d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "‘All I think about is her’: Families demand answers as Nigeria's boat disasters keep happening",
+      "url": "https://www.bbc.co.uk/news/articles/c309vzn676go?at_medium=RSS&at_campaign=rss",
+      "summary": "Families in Nigeria are demanding answers as hundreds of lives are lost annually in boat accidents, with calls for meaningful changes to prevent future tragedies.",
+      "tags": [
+        "nigeria",
+        "disaster",
+        "safety"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5d4635db019583a4",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
+      "url": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo?at_medium=RSS&at_campaign=rss",
+      "summary": "In Ukraine, the struggle to recruit soldiers has intensified, with police reporting increasingly threatening aggression and violence against recruitment officers.",
+      "tags": [
+        "ukraine",
+        "military",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f3994f43e2e3bc3d",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Airport Simulator",
+      "url": "https://airport.apunen.com/",
+      "summary": "This item links to an 'Airport Simulator' game or application.",
+      "tags": [
+        "gaming",
+        "simulation",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "782b74ac6e81f67e",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Annoying and alarming things about OpenCode",
+      "url": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
+      "summary": "An article highlights several concerning and 'alarming' aspects associated with OpenCode.",
+      "tags": [
+        "software",
+        "opinion",
+        "development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2ccbac1dfd8d38b0",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+      "summary": "A researcher claimed to have discovered a WordPress Remote Code Execution vulnerability, potentially worth $500,000, using GPT5.6 and a small investment.",
+      "tags": [
+        "cybersecurity",
+        "ai",
+        "wordpress"
+      ],
+      "priority": false
+    },
+    {
+      "id": "df8333eaea3651f3",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Hacker wipes Romania's land registry database",
+      "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+      "summary": "A hacker reportedly managed to wipe Romania's entire land registry database, causing significant disruption.",
+      "tags": [
+        "cybersecurity",
+        "government",
+        "data breach"
+      ],
+      "priority": false
+    },
+    {
+      "id": "954ac7789ef13e39",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+      "url": "https://github.com/hgaiser/moonshine",
+      "summary": "Moonshine is a software that enables users to stream games from their PC to any device running Moonlight.",
+      "tags": [
+        "gaming",
+        "streaming",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "20e231d89c482943",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Orion Browser by Kagi",
+      "url": "https://orionbrowser.com/",
+      "summary": "This item features information about the Orion Browser developed by Kagi.",
+      "tags": [
+        "browser",
+        "software",
+        "internet"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ac5e98c8c728782b",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
+      "url": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
+      "summary": "The EU is reportedly considering a plan to exchange sensitive data with the US in return for visa-free travel.",
+      "tags": [
+        "privacy",
+        "data",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "204bf73c4f94ab52",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "3 U.S. personnel killed in Iran conflict. And, Hunter Biden opens up to NPR",
+      "url": "https://www.npr.org/2026/07/20/g-s1-134553/up-first-newsletter-iran-us-service-members-hunter-biden",
+      "summary": "Three U.S. service members have been killed since Friday amid rising tension between the U.S. and Iran. And, Hunter Biden talks to NPR's Newsmakers about addiction and public scrutiny.\n(Image credit: Atta Kenare)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "594a89d4478339c1",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "A cavalcade of international stars headlined the World Cup's first-ever halftime final show",
+      "url": "https://www.npr.org/2026/07/19/nx-s1-5888626/world-cup-halftime-final-show-bts-madonna-shakira-burna-boy-chris-martin-muppets-bieber",
+      "summary": "With President Trump in attendance, an all-superstar lineup that included Madonna, BTS, Justin Bieber and Burna Boy felt a little more political than it might have otherwise.\n(Image credit: Mauro Pimentel)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "2ed5b4870565f1c2",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Andy Burnham becomes U.K. prime minister",
+      "url": "https://www.npr.org/2026/07/19/nx-s1-5895993/andy-burnham-prime-minister-keir-starmer",
+      "summary": "In a transition of power presided over by King Charles, Andy Burnham has replaced Keir Starmer as the United Kingdom's prime minister. Both are from the center-left Labour Party.\n(Image credit: Kirsty Wigglesworth)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "5b13ad431337ce02",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/07/20/nx-s1-5895962/morning-news-brief",
+      "summary": "The U.S. carries out a wave of strikes against Iran, as fighting between the two escalates, Congress faces long to-do list as August recess approaches, Andy Burnham becomes U.K.'s 7th prime minister.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "973ebe823941d9be",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Putin meets North Korean foreign minister in diplomatic push",
+      "url": "https://www.npr.org/2026/07/20/g-s1-134555/putin-meets-north-korean-foreign-minister-in-diplomatic-push",
+      "summary": "North Korean Foreign Minister Choe Son Hui met with Russian President Vladimir Putin, prompting speculation about a potential visit by Kim Jong Un to Russia.",
+      "tags": [
+        "diplomacy",
+        "north korea",
+        "russia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ab1e05fbd3db922e",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "So distressed you can't think straight? Lower the intensity with these 4 skills",
+      "url": "https://www.npr.org/2026/07/20/nx-s1-5894845/so-distressed-you-cant-think-straight-lower-the-intensity-with-these-4-skills",
+      "summary": "A clinical psychologist suggests four effective strategies, including the mammalian dive reflex by dunking one's head in ice water, to quickly de-escalate stress and anxiety.",
+      "tags": [
+        "mental health",
+        "psychology",
+        "self-care"
+      ],
+      "priority": false
+    },
+    {
+      "id": "54b451874f4fb289",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "U.S. and Iran launch new strikes after 3 U.S. service members are killed",
+      "url": "https://www.npr.org/2026/07/20/nx-s1-5900601/us-iran-updates",
+      "summary": "The U.S. attacks were the ninth consecutive day of bombing since peace talks between the two countries collapsed in dispute over a memorandum of understanding focused on the Strait of Hormuz.\n(Image credit: Atta Kenare)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "02f1f5db663ccd67",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "'They're trying not to pay their bills': Sherrill unhappy with FIFA as World Cup wraps up",
+      "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/mikie-sherrill-trump-fifa-finals-01004560",
+      "summary": "Mikie Sherrill has embraced the World Cup like few other Democratic governors, save perhaps Gov. Josh Shapiro in Pennsylvania.\nShe has been to seven matches, built a tight relationship with the former standout U.S. goalkeeper Tony Meola and will take in today’s final at MetLife S…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "44df9f664638b012",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "A very Infantino-coded show",
+      "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/halftime-show-infantino-shakira-bieber-madonna-bts-01004582",
+      "summary": "Shakira, Madonna, Justin Bieber, BTS and a coitier of other musicians and dancers just wrapped up a very Gianni Infantino coded half-time show at MetLife Stadium. Across the performances, but especially in visual displays on the field, there were snippets of his vision of soccer…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "78a80bfe8cc8e8af",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "All the president's guests",
+      "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/trump-box-sheinbaum-carney-felipe-guests-01004589",
+      "summary": "President Donald Trump is watching the World Cup from a box with First Lady Melania Trump, Eric Trump and Barron Trump, the true soccer fan in the Trump family.\nTrump is with fellow North American leaders Mexican President Claudia Sheinbaum and Canadian Prime Minister Mark Carney…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "4b3259775d1c326a",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Did MAGA ever really fall in love with the world’s game?",
+      "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/maga-soccer-fling-pulisic-country-roads-america-first-01004349",
+      "summary": "Our Adam Wren spent the last six weeks exploring the summer's most unlikely fling: between Donald Trump's MAGA movement and the communitarian, cosmopolitan sport whose flagship event he embraced.\nYou can read Adam's POLITICO Magazine piece, \"America First, Soccer Second\" here\n.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "bd898c40e7ebb618",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Europeans say ugh to half-time show",
+      "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/world-cup-final-half-time-show-polling-01004327",
+      "summary": "Europeans are much less likely than Americans to support the upcoming half-time show, according to recent polling by POLITICO.\nHalf-time shows are a tradition in the Super Bowl, America's flagship sporting encounter, but FIFA is bringing the fête to the World Cup for the first ti…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "21d301e6a0250fb5",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "FIFA's soccer-agent rules survive EU court ruling … for now",
+      "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/fifa-soccer-agent-rules-survive-european-court-justice-ruling-01004328",
+      "summary": "With the World Cup putting soccer firmly in the global spotlight, FIFA has scored an important — if incomplete — victory off the pitch.\nThe EU's top court on Thursday declined to strike down FIFA's rules governing soccer agents. Instead, it handed the final decision back to a Ger…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "e18ccb70abb23beb",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "It's Giuliani (extra) time",
+      "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/its-giuliani-extra-time-01004600",
+      "summary": "White House FIFA Taskforce executive director Andrew Giuliani\ntold me on Friday\nthat he wanted this match to go to overtime.\nYou might have called the overtime, I told him as the players prepared to return to the field after 90 minutes.\n“We can thank Martinez for playing out of h…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "170957d0715e627f",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Maine Democrat Shenna Bellows drops out of race to replace Graham Platner",
+      "url": "https://www.politico.com/news/2026/07/19/shenna-bellows-drops-out-maine-senate-01004452",
+      "summary": "Maine Secretary of State Shenna Bellows exited the Senate race, consolidating support for Troy Jackson after a previous candidate faced sexual assault allegations.",
+      "tags": [
+        "politics",
+        "usa",
+        "election"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6bee4b76724a221a",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Mamdani’s NYC World Cup jerseys beat the bots",
+      "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/mamdani-jerseys-new-york-city-01004552",
+      "summary": "NEW YORK —\nThere’s no bots about it.\nThe New York City-themed World Cup jerseys announced by Mayor Zohran Mamdani in June and released online from July 8 to July 16 sold out every morning within minutes, though the Mamdani administration tells POLITICO there was no foul play invo…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "cad0d124b68f18ff",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "New York, New Jersey to examine whether World Cup funds were money well spent",
+      "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/new-york-new-jersey-costs-hosting-world-cup-01004624",
+      "summary": "New York and New Jersey planned to spend roughly a half billion dollars hosting eight World Cup matches, including today’s final. But once it’s over, lawmakers in both states want to know if they got their money’s worth.\nIn New York City, Councilmember Virginia Maloney, who leads…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "6afddd056f911482",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Spot the pol!",
+      "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/spot-the-pol-diplomat-consular-cases-01004356",
+      "summary": "This Washington-based diplomat had two pieces of good news to celebrate on Saturday: a historically impressive romp in a meaningless third-place game and what his government considered a historically meaningful low number of citizens running afoul of American laws during the tour…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "dcb41b0bcfd6c431",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Spot the pol!",
+      "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/spot-the-pol-mayor-traffic-cone-01004353",
+      "summary": "This big-city boss is topped with an orange traffic cone in recognition of her city's new trans-Atlantic kinship with a not-quite-a-country's visiting fans.\nThat’s Massachusetts Gov. Maura Healey, who arrived at Boston's Logan Airport on July 14 to welcome the globe-trotting traf…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f3b079fcd9fa9961",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "That's a wrap",
+      "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/thats-a-wrap-01004722",
+      "summary": "Final whistle. After six weeks, that’s a wrap on our World Cup coverage and live analysis — tracking not the goals and games, but the power plays, political battles and geopolitical stakes shaping the tournament. Thanks for following along.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "35c2891dbe4897a7",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "The awkward encounters ahead of Trump",
+      "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/trump-sheinbaum-carney-encounters-final-01004577",
+      "summary": "NEW YORK —\nTrump’s first World Cup appearance could double as a diplomatic obstacle course.\nFrom Canada’s Mark Carney to Mexico’s Claudia Sheinbaum, the leaders in attendance could make for some awkward moments after months of clashes with the president.\nSophia Cai reports from t…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "12b32c02eb73fd4f",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "The World Cup final came to town. The town grew 8 times larger.",
+      "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/who-rules-east-rutherford-mayor-jeffrey-lahullier-01004348",
+      "summary": "Forget Zohran Mamdani. The local elected official who really rules MetLife Stadium today is Jeffrey Lahullier, whose 10,000-person town sees its population swell by more than 800 percent whenever there’s an event at the stadium complex in the middle of his turf, writes POLITICO's…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "622a1e059e1d4f39",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Why Spain's right is ready to cheer",
+      "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/why-spains-right-ready-to-cheer-politico-poll-pride-win-01004350",
+      "summary": "66%\nSixty-six percent of Spaniards say they would feel pride if their country won the World Cup, just under Canada’s 67 percent for the highest level recorded in countries covered by the latest cross-border POLITICO Poll. (The United States was lowest, at 50 percent.) As was the…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "cfe50e891c54fa41",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "The Organisms That Make Earth’s Harshest Places Home",
+      "url": "https://www.quantamagazine.org/the-organisms-that-make-earths-harshest-places-home-20260720/",
+      "summary": "Extremophiles are organisms that defy conventional limits by thriving in Earth's harshest environments, such as those with blistering temperatures, crushing pressures, or corrosive acid.",
+      "tags": [
+        "biology",
+        "science",
+        "extremophiles"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1b92df27814c0330",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Sam Altman",
+      "url": "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything",
+      "summary": "A leaked 2022 email from Sam Altman to OpenAI's board revealed intentions to release a GPT-3-level language model capable of running locally on consumer hardware to discourage competitors.",
+      "tags": [
+        "ai",
+        "openai",
+        "strategy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cad51a180e663d72",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Adobe camera app’s new feature will critique your photos using AI",
+      "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+      "summary": "Adobe's Project Indigo now includes an AI-powered feature in its camera app that can critique photos and remove various backgrounds.",
+      "tags": [
+        "ai",
+        "photography",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dc0043e0cef8bf68",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "summary": "An ongoing lawsuit filed by Apple may potentially disrupt OpenAI's ambitions to venture into hardware and become a public company.",
+      "tags": [
+        "ai",
+        "legal",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f2f2924297fadf64",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
+      "url": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
+      "summary": "Hugging Face confirmed a breach impacting internal datasets and credentials and advised users to rotate their access tokens and review account activity.",
+      "tags": [
+        "cybersecurity",
+        "data breach",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "80e237e514c98e1e",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Athropic researchers",
+      "url": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
+      "summary": "AI infrastructure company Infinity successfully raised $15 million in funding at a $100 million valuation, with investment from Touring Capital, Principal VC, and researchers from OpenAI and Anthropic.",
+      "tags": [
+        "ai",
+        "startup",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5b45925f871e4f96",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+      "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+      "summary": "Netflix acquired InterPositive, an AI filmmaking startup co-founded by Ben Affleck, for $587 million in cash.",
+      "tags": [
+        "ai",
+        "film",
+        "acquisition"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8814f6ba0484dd51",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "TechCrunch Mobility: The battle over robotaxi rules",
+      "url": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
+      "summary": "TechCrunch Mobility covers the ongoing debate surrounding robotaxi regulations and explores the increasing role of AI in the future of transportation.",
+      "tags": [
+        "mobility",
+        "ai",
+        "regulation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c598cf2b7ea63b28",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "What to watch for after Jensen Huang’s Japan visit",
+      "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+      "summary": "Jensen Huang's recent visit to Japan concluded with deals spanning the country's entire technology ecosystem.",
+      "tags": [
+        "business",
+        "technology",
+        "international relations"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3773b4f0fc4b73ca",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "YouTube clarifies policies around AI slop and upsetting videos",
+      "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+      "summary": "YouTube has updated its monetization policies to specify that AI-generated and low-quality videos may not be eligible to earn ad revenue.",
+      "tags": [
+        "youtube",
+        "ai",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ebc082a39e172df2",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+      "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "summary": "Director Christopher Nolan characterized artificial intelligence as an 'obvious 'Trojan horse'.'",
+      "tags": [
+        "ai",
+        "film",
+        "opinion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "584d04aa39cbae4e",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Arthur Brooks: The Great Battle Between Ambition and Happiness",
+      "url": "https://www.thefp.com/p/arthur-brooks-the-great-battle-between",
+      "summary": "Arthur Brooks explores the internal conflict between ambition and happiness, using the character of Ryan Bingham from 'Up in the Air' to illustrate a man's simultaneous pursuit of self-discovery and escape.",
+      "tags": [
+        "philosophy",
+        "psychology",
+        "self-improvement"
+      ],
+      "priority": false
+    },
+    {
+      "id": "78cbb9ebe57b77ab",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Charlie Kirk Killing and America’s Forgotten History of Left-Wing Terror",
+      "url": "https://www.thefp.com/p/the-charlie-kirk-killing-and-americas",
+      "summary": "Noah Rothman argues that left-wing political violence has a significant, yet often overlooked, history in America, challenging the perception that such violence is primarily a right-wing phenomenon.",
+      "tags": [
+        "politics",
+        "history",
+        "violence"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bba769bb49c2db70",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "What All the New Fighting with Iran Is About. Plus. . .",
+      "url": "https://www.thefp.com/p/new-fighting-with-iran-front-page",
+      "summary": "It’s Monday, July 20. This is\nThe Front Page\n, your daily window into the world of\nThe Free Press\n—and our take on the world at large. Today: the nuns taking New York to court over its new assisted dying law. Is Canada to blame for wildfires that are spreading smoke across the U.…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "266f650d005eed76",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "What the U.S. and Iran Are Fighting Over",
+      "url": "https://www.thefp.com/p/what-the-us-and-iran-are-fighting-michael-doran",
+      "summary": "General Ahmad Vahidi has a talent for getting under Donald Trump’s skin. “I don’t want to deal with them anymore,” President Trump recently said of the commander of the Islamic Revolutionary Guard Corps (IRGC) and his colleagues. “They’re scum. They’re sick people. . . .As far as…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "b27482a7e81370ed",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "AliExpress fined almost $630 million over illegal product sales",
+      "url": "https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products",
+      "summary": "The fine is more than double the penalty that Temu was slapped with for similar DSA violations. | Illustration: The Verge\nAliExpress has been hit with a €550 million (about $629 million) fine for violating Europe's Digital Services Act (DSA) rules by failing to prevent illegal, u…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "cc4e463830ea765f",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Avengers: Doomsday’s first trailer puts everyone on high alert",
+      "url": "https://www.theverge.com/entertainment/967887/avengers-doomsday-trailer-marvel-release-date",
+      "summary": "After months of\nteasing us with reminders\nabout how large\nAvengers: Doomsday\n's cast is going to be\n, Marvel has finally released a proper trailer for the film.\nThough\nRobert. Downey Jr.'s Doctor Doom\ndefinitely appears to be causing a lot of the chaos in\nDoomsday\n's first traile…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "821c7cc6c0dcd731",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Electric air taxis go to war",
+      "url": "https://www.theverge.com/transportation/967891/archer-evtol-military-anduril-air-taxi-thunder",
+      "summary": "Archer Aviation, in collaboration with defense technology company Anduril, unveiled 'Thunder,' a new electric aircraft designed for both military and commercial vertical takeoff and landing uses.",
+      "tags": [
+        "aviation",
+        "military",
+        "evtol"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2234ac11773eb713",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "I hate that I don’t hate this song made with Suno",
+      "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+      "summary": "Despite a general aversion to generative AI music, the author found enjoyment in 1010Benja's AI-assisted track 'Semiramis' Dream' from his latest EP.",
+      "tags": [
+        "ai",
+        "music",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d46a689239638c3d",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
+      "url": "https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera",
+      "summary": "Reto Project introduced the Kodak EC35, an ultra-affordable $34.99 35mm point-and-shoot film camera with a fixed lens, manual wind, and built-in automatic flash.",
+      "tags": [
+        "photography",
+        "gadget",
+        "film"
+      ],
+      "priority": false
+    },
+    {
+      "id": "861c0d6a0122db78",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The FBI reportedly won’t investigate ICE anymore",
+      "url": "https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults",
+      "summary": "The FBI has reportedly ceased investigating confrontations involving ICE agents, following renewed scrutiny over recent civilian deaths at the hands of ICE.",
+      "tags": [
+        "government",
+        "policy",
+        "law enforcement"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a6e5c796072a4ab9",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)",
+      "url": "https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review",
+      "summary": "Kieran Hebden (Four Tet) has released an album with an unpronounceable and un-Googleable title and artist name, which renders inconsistently across various music platforms.",
+      "tags": [
+        "music",
+        "art",
+        "culture"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 121,
+    "summarized": 84,
+    "skipped_promos": 3,
+    "filtered_by_rules": 34,
+    "sources": 12,
+    "email_items_omitted": 0
+  }
+}
