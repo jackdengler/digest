@@ -1,0 +1,1242 @@
+{
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T15:51:36+00:00",
+  "hot_topics": [
+    {
+      "topic": "Tesla's surging spending strains profitability amidst AI push",
+      "synthesis": "Despite a 25% year-over-year revenue increase, Tesla's second-quarter profit margin dropped to 1.4% due to skyrocketing operating expenses and capital expenditures. This significant spending, partly driven by investments in AI and the push to launch new products like Cybercab and Semi, has led to delays in production timelines for these next-generation offerings.",
+      "item_ids": [
+        "6c108e835e19e092",
+        "a975bba9c36a8cb5"
+      ]
+    },
+    {
+      "topic": "Alphabet/Google's high AI investment costs",
+      "synthesis": "Alphabet's substantial and spiraling investments in AI are leading to significant cash burn, raising concerns among analysts and project forecasts of spending up to $190 billion. While Google justifies this massive outlay by pointing to a booming cloud business fueled by AI and AI infrastructure services, the scale of expenditure signals potential financial strain for the company and the broader tech sector.",
+      "item_ids": [
+        "f5f4243c2c30edff",
+        "2aa3f5abba66cf8c",
+        "95d41edc8222b9bf"
+      ]
+    },
+    {
+      "topic": "US-Saudi nuclear deal linked to Israel recognition by Trump",
+      "synthesis": "The U.S. has signed a landmark nuclear cooperation agreement with Saudi Arabia, a move drawing criticism for abandoning long-standing American demands. President Trump explicitly stated the deal is contingent upon Saudi Arabia normalizing relations with Israel and joining the Abraham Accords, thereby linking nuclear energy development with regional peace efforts.",
+      "item_ids": [
+        "373ac65269ae6eb0",
+        "c2cbfefa55ff752e",
+        "e503190fe98e9297",
+        "7c162c12c4f958fb",
+        "d55953e015093f99"
+      ]
+    },
+    {
+      "topic": "Public backlash against AI data centers",
+      "synthesis": "Across the U.S. South, public unease and organized protests are emerging against the proliferation of hyperscale data centers, often linked to AI infrastructure. Incidents like protests in Florida and online outcry over a town's \"AI Love Irondale Day\" highlight growing local opposition from diverse groups concerned about the environmental and social impacts of these developments.",
+      "item_ids": [
+        "8f8b30ebdf719f8c",
+        "58394c81066aa8b1"
+      ]
+    },
+    {
+      "topic": "Ford integrates Apple Maps into its next-generation electric vehicles",
+      "synthesis": "Ford is partnering with Apple to embed Apple Maps navigation directly into the infotainment systems of its upcoming Universal Electric Vehicle Platform, starting in 2027. This makes Ford the first automaker to leverage new Apple developer tools for seamless in-vehicle integration, providing features like turn-by-turn directions and intelligent EV routing without needing an iPhone.",
+      "item_ids": [
+        "8790732dca8a95a0",
+        "a60208176e8015fc"
+      ]
+    },
+    {
+      "topic": "AI's transformative role in medicine",
+      "synthesis": "AI is rapidly becoming a core component in pharmaceutical R&D, significantly accelerating drug design and development, especially for complex biologics. Beyond shortening timelines and enabling the pursuit of previously untreatable diseases, AI tools are also being evaluated in clinical settings to potentially offer \"second sight of eyes\" to medical workers, aiming to improve patient outcomes.",
+      "item_ids": [
+        "a72990261bb1e351",
+        "5abb1a3bb826081c"
+      ]
+    },
+    {
+      "topic": "Women breaking barriers in Fields Medal",
+      "synthesis": "A Chinese woman, Hong Wang, has achieved a significant milestone by becoming the first Chinese woman and only the third woman ever to win the prestigious Fields Medal in mathematics. This recognition occurs amid broader discussions about Chinese scholars returning home, some citing a challenging academic environment in the U.S., highlighting a notable achievement in global academia.",
+      "item_ids": [
+        "e0a949fc84541595",
+        "c267d65dbb5d4412"
+      ]
+    },
+    {
+      "topic": "Divergent views on AI's future impact on jobs and human labor",
+      "synthesis": "A significant debate surrounds AI's potential to displace human labor, with public anxiety and industry leaders predicting massive disruption, while economists often lean towards a more gradual transformation. The discussion contrasts the historical resilience of labor markets to automation with the unique pace and scope of current AI advancements, prompting questions about managing a future where human toil might become less necessary.",
+      "item_ids": [
+        "cb917e3559cf7294",
+        "2596e6d2cc0182b2"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "b712c272b24c26e8",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "All the Queens houses",
+      "url": "https://aeon.co/videos/tour-the-eclectic-residences-of-new-yorks-most-diverse-borough",
+      "summary": "A video explores the personalized homes in Queens, NYC, which showcase a diverse range of architectural styles and cultural influences. These eclectic residences reflect the borough's rich diversity.",
+      "tags": [
+        "architecture",
+        "new york",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ea2473470acc06eb",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Clayface trailer leans into the body horror",
+      "url": "https://arstechnica.com/culture/2026/07/clayface-trailer-leans-into-the-body-horror/",
+      "summary": "DC Studios and Warner Brothers released the first full trailer for \"Clayface\" at San Diego Comic-Con, a film rooted in body horror and tragic thriller elements. The movie, based on a Mike Flanagan pitch, will explore the origin story of the Matt Hagen incarnation of Clayface within the DC Universe.",
+      "tags": [
+        "film",
+        "dc comics",
+        "horror"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cb917e3559cf7294",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
+      "url": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
+      "summary": "Hyundai Motor Company denies that its plans to deploy humanoid robots by 2028 are a factor in ongoing labor strikes by South Korean autoworkers. The company states that the union's demands focus on compensation issues such as wage increases, bonuses, and retirement age extensions.",
+      "tags": [
+        "hyundai",
+        "robotics",
+        "labor"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bcba0b1f82b4dbf8",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "I wanted a clock that never needed setting. Things escalated.",
+      "url": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
+      "summary": "An individual's frustration with manual clock adjustments led to a quest for a self-setting clock with auto-DST, precise timekeeping, and a specific display, without privacy-invasive apps. This project escalated beyond a simple purchase, driven by a desire for a perfectly functional and private device.",
+      "tags": [
+        "home tech",
+        "personal project",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "22fc3df2f24c1ea4",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "ISPs' long nightmare of having to list all the fees they charge is finally over",
+      "url": "https://arstechnica.com/tech-policy/2026/07/isps-long-nightmare-of-having-to-list-all-the-fees-they-charge-is-finally-over/",
+      "summary": "The FCC has reversed a Biden-era rule that required internet service providers to itemize all \"passthrough\" fees on broadband price labels, allowing them instead to display an aggregate \"up to\" amount. This change was made despite the rule's original intent to prevent bill shock and help consumers compare prices.",
+      "tags": [
+        "fcc",
+        "internet",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e83c7af83c33645a",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Microsoft brings original Xbox backward compatibility to Windows PCs",
+      "url": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
+      "summary": "Microsoft has launched an \"Xbox Backward Compatibility on PC\" program, allowing select original Xbox titles to be officially playable and purchasable on Windows PCs. The program offers enhanced graphical features like resolution scaling and anti-aliasing for the initial batch of four titles.",
+      "tags": [
+        "gaming",
+        "microsoft",
+        "xbox"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6c108e835e19e092",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Sales were up at Tesla but so were costs and spending",
+      "url": "https://arstechnica.com/cars/2026/07/teslas-revenues-are-up-but-profits-squeezed-as-musk-spends-on-ai/",
+      "summary": "Tesla's second-quarter revenues increased by 25% year-over-year, largely due to its EV business, energy storage, and services, including its FSD subscription. However, increased costs and spending led its profit margin to shrink significantly to 1.4 percent.",
+      "tags": [
+        "tesla",
+        "financials",
+        "automotive"
+      ],
+      "priority": false
+    },
+    {
+      "id": "890e7eea7347ce2f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg",
+      "url": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Indian activist Sonam Wangchuk has lost 11kg during his 26-day hunger strike, a prominent part of the \"Cockroach Janta Party\" protest in Delhi. Despite his deteriorating health, Wangchuk continues his demonstration.",
+      "tags": [
+        "india",
+        "activism",
+        "protest"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2a0e6cc9281e79aa",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'Let's enjoy the ride' says Elon Musk, as AI fears mount",
+      "url": "https://www.bbc.co.uk/news/articles/c4gkxppljpyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Elon Musk expressed a dismissive attitude towards public fears about AI, stating he doesn't care if people dislike him. He encouraged \"enjoying the ride\" as AI advances, while also denying accusations of racism.",
+      "tags": [
+        "ai",
+        "elon musk",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e8de4cee3aa33a09",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
+      "url": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss",
+      "summary": "Five months after a strike killed 120 children at a school in Minab, Iran, a BBC visit found grief still raw among a teacher and a mother. The community continues to grapple with the horror and question the attack.",
+      "tags": [
+        "iran",
+        "conflict",
+        "tragedy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5c9e5d42318eaf14",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "A year after deadly jet crash at Bangladesh school, families demand answers",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j7jgg1z1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Families are still seeking answers a year after a military jet crashed into a school in Dhaka, Bangladesh, killing 36 people, mostly children. The anniversary highlights ongoing demands for accountability and clarity regarding the tragic incident.",
+      "tags": [
+        "bangladesh",
+        "accident",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c31abefa07870043",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Blocked by censors, China's animal lovers take fight against abuse offline and overseas",
+      "url": "https://www.bbc.co.uk/news/articles/cqx7wd3x420o?at_medium=RSS&at_campaign=rss",
+      "summary": "Animal welfare advocates in China, facing censorship, are increasingly taking their fight against animal abuse offline and abroad, following public outrage over incidents like the killing of a dog and her puppies. This reflects a growing movement despite domestic restrictions.",
+      "tags": [
+        "china",
+        "animal welfare",
+        "activism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ac264ce7045ed00b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
+      "url": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Canada's dairy supply management system has been singled out by US President Trump as a key trade irritant, leading to new tariffs. This puts the country's influential dairy sector in the spotlight amidst trade disputes.",
+      "tags": [
+        "trade",
+        "canada",
+        "usa"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6469c78e756e7d19",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Even camels can't cope: Africa's ships of the desert hit by rising temperatures",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxvvw06pqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Africa's camels are suffering significantly due to extreme heat, with herders and experts reporting their inability to cope with rising temperatures. This crisis impacts the livelihoods of communities reliant on these animals.",
+      "tags": [
+        "climate change",
+        "africa",
+        "animals"
+      ],
+      "priority": false
+    },
+    {
+      "id": "219abc4953910436",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Fire kills 10 members of same family in Peru, police say",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&at_campaign=rss",
+      "summary": "A fire in Lima, Peru, resulted in the deaths of 10 members of the same family, with authorities investigating the cause, including reports of possible arson. The incident has prompted a police investigation into the tragic loss of life.",
+      "tags": [
+        "peru",
+        "fire",
+        "tragedy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7139e9311a9b2ed9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "France evacuates 20,000 as wildfires spread in south-west",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
+      "summary": "Wildfires spreading in France's Gironde region have led to the evacuation of 20,000 people, primarily tourists from campsites around Arcachon Bay. Authorities are working to control the blazes and ensure public safety.",
+      "tags": [
+        "france",
+        "wildfires",
+        "climate"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d435109b1753e242",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ghanaians' ICC petition over migrant attacks 'opportunistic', says South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cp87qejzy8go?at_medium=RSS&at_campaign=rss",
+      "summary": "South Africa has dismissed a petition by Ghanaians to the International Criminal Court (ICC) concerning violence against migrants as \"opportunistic.\" The petition argues that the attacks could constitute crimes against humanity.",
+      "tags": [
+        "south africa",
+        "ghana",
+        "icc"
+      ],
+      "priority": false
+    },
+    {
+      "id": "95d41edc8222b9bf",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Google burning through cash with spiralling AI costs",
+      "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Google is facing significant cash expenditure due to rapidly increasing costs associated with its AI investments, with projections of spending up to $190 billion. This substantial outlay raises concerns about the financial implications of the company's AI development strategy.",
+      "tags": [
+        "google",
+        "ai",
+        "financials"
+      ],
+      "priority": false
+    },
+    {
+      "id": "148a2f913773f520",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Indian police cracked down on 'cockroach' protesters. They went home and made memes about it",
+      "url": "https://www.bbc.co.uk/news/articles/c3ek3l9gp7go?at_medium=RSS&at_campaign=rss",
+      "summary": "After Indian police cracked down on \"cockroach\" protesters, the activists responded by creating memes and reels to document their experiences, process the violence, and ensure their message persisted. This creative online response served as a form of resistance and coping.",
+      "tags": [
+        "india",
+        "protest",
+        "social media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "94e64c8bf1c33cb2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Liquor store employee narrowly escapes leopard attack",
+      "url": "https://www.bbc.co.uk/news/videos/cly893zrjgdo?at_medium=RSS&at_campaign=rss",
+      "summary": "A liquor store employee in India narrowly escaped a leopard attack, which was captured and released back into the wild after five hours. The incident highlights the challenges of human-wildlife coexistence in certain regions.",
+      "tags": [
+        "india",
+        "wildlife",
+        "accident"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6e00934f217ad25d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Mamdani backs off pledge to arrest Netanyahu citing lack of authority",
+      "url": "https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&at_campaign=rss",
+      "summary": "The New York City mayor, Mamdani, retracted his pledge to arrest Israeli Prime Minister Netanyahu, citing a lack of authority. He instead called on US authorities to act on the International Criminal Court's arrest warrant.",
+      "tags": [
+        "politics",
+        "international relations",
+        "icc"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2d098d484782b3a9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Oil prices hit $100 for the first time since May",
+      "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Brent crude oil prices surged over 6% on Thursday, reaching $100 per barrel for the first time since May. This increase is attributed to the escalating conflict in the Middle East.",
+      "tags": [
+        "oil",
+        "economy",
+        "geopolitics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5f8761383e213cb3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Police formally investigate woman after Brit stabbed to death in French village",
+      "url": "https://www.bbc.co.uk/news/articles/cwye7lv2endo?at_medium=RSS&at_campaign=rss",
+      "summary": "French police are formally investigating a woman after a British national was fatally stabbed in a Dordogne village where she had resided for over a decade. The investigation is underway following the discovery of Karen Carter with stab wounds.",
+      "tags": [
+        "crime",
+        "france",
+        "investigation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "651513aebd3a5f9a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
+      "url": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukrainian drones have repeatedly attacked warehouses belonging to Wildberries, Russia's largest online retailer, putting Russian businesses under strain. These strikes highlight the impact of the conflict on commercial infrastructure.",
+      "tags": [
+        "russia",
+        "ukraine",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "373ac65269ae6eb0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Saudis must recognise Israel for nuclear deal, says Trump",
+      "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Trump stated that a landmark agreement to help Saudi Arabia develop nuclear energy is contingent upon the kingdom recognizing Israel and joining the Abraham Accords. This condition links nuclear cooperation with regional normalization efforts.",
+      "tags": [
+        "foreign policy",
+        "nuclear",
+        "saudi arabia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "84dd74f2c64f16bc",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "South Korea woman acquitted of murdering newborn after hospital delivery",
+      "url": "https://www.bbc.co.uk/news/articles/cwyrj7ww1gko?at_medium=RSS&at_campaign=rss",
+      "summary": "A South Korean woman was acquitted of murdering her newborn, who was killed by doctors after she sought to terminate her 36-week pregnancy. The verdict follows a complex case involving the legality and ethics of late-term pregnancy termination and medical intervention.",
+      "tags": [
+        "south korea",
+        "legal",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c2cbfefa55ff752e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
+      "url": "https://www.bbc.co.uk/news/articles/cz05lx0xpero?at_medium=RSS&at_campaign=rss",
+      "summary": "The Trump administration's nuclear pact with Saudi Arabia has faced criticism in the US and Israel for abandoning long-standing American demands. This bold Middle East initiative marks a significant shift in U.S. non-proliferation policy.",
+      "tags": [
+        "foreign policy",
+        "nuclear",
+        "saudi arabia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6690ddf40fc05f89",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Two Russians handed down jail terms for terrorism and spying in Angola",
+      "url": "https://www.bbc.co.uk/news/articles/c935qpz64xpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two Russian nationals, a political consultant and a translator, have been sentenced to jail terms in Angola for terrorism and spying, charges they denied. They were accused of fomenting protests the previous year.",
+      "tags": [
+        "angola",
+        "russia",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c3b57212b2cc910a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Louvre reopens gallery after jewellery heist",
+      "url": "https://www.bbc.co.uk/news/videos/c1m15l8kgejo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Louvre Museum has reopened its Apollo Gallery nine months after a jewelry heist that shocked France. The reopening marks a return to normalcy after the high-profile robbery.",
+      "tags": [
+        "france",
+        "museum",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e503190fe98e9297",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: What we know about the US-Saudi nuclear deal",
+      "url": "https://www.bbc.co.uk/news/videos/cn5n725lkg7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Sarah Smith provided an overview of the implications of the landmark nuclear cooperation agreement between the US and Saudi Arabia. Her explanation sheds light on the significant aspects of the deal.",
+      "tags": [
+        "foreign policy",
+        "nuclear",
+        "saudi arabia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "def2cfca460de971",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
+      "url": "https://www.bbc.co.uk/news/articles/cdrvyllxj71o?at_medium=RSS&at_campaign=rss",
+      "summary": "The wreckage of the Pan Am Clipper Endeavor, which crashed 74 years ago killing 52 people, has been discovered. This disaster was a pivotal event that led to the implementation of mandatory pre-flight safety briefings in aviation.",
+      "tags": [
+        "aviation",
+        "history",
+        "safety"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4f8adfebc68396ff",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Yemen's Houthi group attacked a Saudi tanker, while claiming to have hit another vessel, in a continuation of their declared \"maritime embargo\" against Saudi Arabia. This occurred as the U.S. conducted additional strikes against Iran.",
+      "tags": [
+        "geopolitics",
+        "middle east",
+        "yemen"
+      ],
+      "priority": false
+    },
+    {
+      "id": "907b10763fcafb1f",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+      "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+      "summary": "A report suggests that AI companies are obscuring substantial amounts of debt through off-balance-sheet arrangements. This practice raises concerns about the true financial health and sustainability of many AI firms.",
+      "tags": [
+        "ai",
+        "finance",
+        "debt"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2aa3f5abba66cf8c",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+      "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
+      "summary": "Alphabet's increasing AI spending is causing concern among analysts regarding its cash burn rate, signaling a potential alarm for other major tech companies. The significant investment in AI development could impact financial stability across the sector.",
+      "tags": [
+        "alphabet",
+        "ai",
+        "financials"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9ff3fc0be987884a",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Everyone should know SIMD",
+      "url": "https://mitchellh.com/writing/everyone-should-know-simd",
+      "summary": "The article advocates for a broader understanding of SIMD (Single Instruction, Multiple Data) processing, emphasizing its importance in modern computing. Understanding SIMD can significantly improve performance for various computational tasks.",
+      "tags": [
+        "programming",
+        "performance",
+        "simd"
+      ],
+      "priority": false
+    },
+    {
+      "id": "766314ed401ef39d",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+      "summary": "The article argues that high-quality non-fiction books stand in stark contrast to \"AI slop,\" implying a distinction in depth, originality, and intellectual value. It suggests that human-crafted, well-researched works offer a superior experience compared to content generated by AI.",
+      "tags": [
+        "ai",
+        "publishing",
+        "quality"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e596daa3713c4f0e",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+      "summary": "A ChatGPT conversation with mathematician Terence Tao delves into a counterexample to the Jacobian Conjecture, a long-standing problem in mathematics. This discussion highlights recent developments where AI models like Claude Fable have been involved in generating such counterexamples.",
+      "tags": [
+        "ai",
+        "mathematics",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a72990261bb1e351",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "How AI helps scientists design the next generation of medicines",
+      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "summary": "AI is revolutionizing drug discovery by accelerating the design and development of new medicines, particularly complex biologics. Companies like AstraZeneca use AI in a build-measure-learn loop to generate, prioritize, and optimize molecular candidates, leading to shorter cycle times and the ability to target previously undruggable diseases.",
+      "tags": [
+        "ai",
+        "medicine",
+        "pharmaceuticals"
+      ],
+      "priority": false
+    },
+    {
+      "id": "58394c81066aa8b1",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "A town renamed its festival 'AI Love Irondale Day.' Then came the comments",
+      "url": "https://www.npr.org/2026/07/23/nx-s1-5896481/data-center-backlash-ai-love-irondale-day",
+      "summary": "The town of Irondale faced online backlash after renaming its summer festival \"AI Love Irondale Day,\" reflecting public unease over the rapid growth of data centers in the South. The incident highlights local resistance to AI infrastructure expansion.",
+      "tags": [
+        "ai",
+        "data centers",
+        "community"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bbe60ff62c622d57",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "DOT cranks up its campaign to strip bike lane references from federal websites",
+      "url": "https://www.npr.org/2026/07/23/nx-s1-5900901/bike-lanes-dot-websites",
+      "summary": "Transportation officials are actively removing mentions of bike lanes from federal safety materials on government websites, a move criticized by safety advocates. Critics warn that undermining proven measures for reducing crashes could result from this campaign.",
+      "tags": [
+        "transportation",
+        "policy",
+        "urban planning"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c16f5f0d88f38ccf",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Get into med school in the graphic memoir 'See One, Do One, Teach One'",
+      "url": "https://www.npr.org/2026/07/23/nx-s1-5901975/med-school-graphic-memoir-grace-farris",
+      "summary": "Grace Farris's graphic memoir, \"See One, Do One, Teach One,\" offers an inside look at med school, covering anxieties over loans, impostor syndrome, and the challenges of balancing work and life. The book provides a personal perspective on the demanding journey of medical education.",
+      "tags": [
+        "books",
+        "memoir",
+        "healthcare"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4f3b2f004765b3b8",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "How predominantly Black areas in 6 states have been split up by redistricting",
+      "url": "https://www.npr.org/2026/07/23/nx-s1-5896335/black-voters-republican-redistricting",
+      "summary": "New maps reveal that redistricting battles initiated by President Trump have particularly impacted largely Black congressional districts in six Republican-led states. This has resulted in the splitting of these areas, affecting political representation.",
+      "tags": [
+        "politics",
+        "redistricting",
+        "civil rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e0a949fc84541595",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "In a first, Chinese woman wins the prestigious Fields Medal",
+      "url": "https://www.npr.org/2026/07/23/g-s1-135032/in-a-first-chinese-woman-wins-the-prestigious-fields-medal",
+      "summary": "A Chinese woman has made history by winning the prestigious Fields Medal, a significant achievement in mathematics. This recognition comes amidst discussions about Chinese scholars returning home from the U.S., some citing a hostile academic environment.",
+      "tags": [
+        "mathematics",
+        "awards",
+        "china"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9a5b7c7c4923999b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Republicans urge Justice Department to investigate former prosecutor Jack Smith",
+      "url": "https://www.npr.org/2026/07/23/g-s1-135121/republicans-justice-department-jack-smith",
+      "summary": "Republicans are calling on the Justice Department to investigate former special counsel Jack Smith, who led two criminal investigations against former President Trump. Smith has been a frequent target of Trump's criticism on social media.",
+      "tags": [
+        "politics",
+        "legal",
+        "usa"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5abb1a3bb826081c",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "This AI tool promises a 'second sight of eyes' to clinicians. Did patients benefit?",
+      "url": "https://www.npr.org/2026/07/23/g-s1-134929/this-ai-tool-promises-a-second-sight-of-eyes-to-clinicians-did-patients-benefit",
+      "summary": "A new study evaluated an AI tool used by medical workers in a Nairobi clinic to check their work, promising clinicians a \"second sight of eyes.\" The study assessed whether this AI assistance translated into patient benefits.",
+      "tags": [
+        "ai",
+        "healthcare",
+        "africa"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d55953e015093f99",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump says Saudi Arabia's nuclear deal hinges on the kingdom normalizing Israel ties",
+      "url": "https://www.npr.org/2026/07/23/nx-s1-5904327/us-saudi-arabia-iran",
+      "summary": "President Trump announced that the U.S. nuclear power deal with Saudi Arabia is conditional on the kingdom normalizing relations with Israel through the Abraham Accords. This statement followed concerns raised in Israel about the arrangement.",
+      "tags": [
+        "foreign policy",
+        "nuclear",
+        "saudi arabia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7c162c12c4f958fb",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "U.S. signs nuclear deal with Saudi Arabia. And, Nolan Wells' independent autopsy results",
+      "url": "https://www.npr.org/2026/07/23/g-s1-135097/up-first-newsletter-saudi-arabia-nuclear-deal-house-bills-peptides-nolan-wells",
+      "summary": "The U.S. has finalized a nuclear cooperation agreement with Saudi Arabia, while independent autopsy results for Nolan Wells have raised further questions about his cause of death. These two unrelated developments were highlighted in a news update.",
+      "tags": [
+        "foreign policy",
+        "nuclear",
+        "saudi arabia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "22d1a08355eafe84",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Amish Shah wins Dem primary in battleground Arizona House race",
+      "url": "https://www.politico.com/news/2026/07/22/shah-wins-arizona-house-primary-01007471",
+      "summary": "Former state Rep. Amish Shah won the Democratic primary for Arizona’s 1st District, defeating an establishment-backed candidate in a battleground seat. Shah will now face Trump-endorsed former NFL kicker Jay Feely in the general election for this key pickup opportunity.",
+      "tags": [
+        "politics",
+        "elections",
+        "usa"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7bcc3796fca07b1b",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "How Fast Is the Universe Really Expanding?",
+      "url": "https://www.quantamagazine.org/how-fast-is-the-universe-really-expanding-20260723/",
+      "summary": "The accelerating expansion of the universe, driven by dark energy, remains one of cosmology's biggest mysteries since its discovery in the 1990s. The challenge of precisely measuring this expansion continues to be a central problem in the field.",
+      "tags": [
+        "cosmology",
+        "physics",
+        "dark energy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c267d65dbb5d4412",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "Living Fully in the Math World Means Threading the Needle",
+      "url": "https://www.quantamagazine.org/hong-wang-wins-2026-fields-medal-the-third-woman-ever-20260723/",
+      "summary": "Hong Wang and Joshua Zahl proved a complex, long-standing conjecture in mathematics, a monumental achievement for which Wang won a Fields Medal. Her experience highlights the dedication and rigor required to navigate the challenging world of advanced mathematical research.",
+      "tags": [
+        "mathematics",
+        "awards",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "88747d6d7e9934e5",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "Sometimes Being First Means Seeing the End Before Anyone Else",
+      "url": "https://www.quantamagazine.org/jacob-tsimerman-wins-2026-fields-medal-for-andre-oort-conjecture-proof-20260723/",
+      "summary": "Jacob Tsimerman, a recipient of the 2026 Fields Medal for his work on the André-Oort conjecture, is driven by the challenge of solving hard problems and being first, rather than a pursuit of beauty. His career exemplifies a goal-oriented approach to mathematics, focused on breakthroughs.",
+      "tags": [
+        "mathematics",
+        "awards",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b916e822ca16e7e1",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Are AI labs pelicanmaxxing?",
+      "url": "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything",
+      "summary": "A study by Dylan Castillo found no evidence that AI labs are \"pelicanmaxxing,\" or specifically training models to draw pelicans riding bicycles better than other animals or vehicles. Extensive testing across multiple models and prompts showed no significant improvement in pelican-on-bicycle depictions compared to other combinations.",
+      "tags": [
+        "ai",
+        "llms",
+        "evaluation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "91762dafca3c47e7",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Orchestrions",
+      "url": "https://simonwillison.net/2026/Jul/22/all-the-orchestrions/#atom-everything",
+      "summary": "The Musée Mécanique in San Francisco offers a unique experience where visitors can activate all Orchestrions for about $15, crafting the museum's soundscape. This allows one to be the sole orchestrator of the self-playing musical instruments.",
+      "tags": [
+        "san francisco",
+        "museum",
+        "music"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b6206b446b226b57",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Seth Larson",
+      "url": "https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything",
+      "summary": "PyPI now prevents uploading new files to releases older than 14 days, a security measure to prevent supply chain attacks. This restriction aims to protect stable releases from compromise, although no such abuse has been detected yet.",
+      "tags": [
+        "pypi",
+        "python",
+        "security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c258e4aaee94598b",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Housing is at the top of everyone’s agenda",
+      "url": "https://www.slowboring.com/p/housing-is-at-the-top-of-everyones",
+      "summary": "Housing affordability is a major concern, with federal law already impacting institutional single-family purchases and states pursuing supply and affordability legislation. New research indicates that the affordability problem may be more severe than previously understood.",
+      "tags": [
+        "housing",
+        "policy",
+        "economics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "48a6d24c9a2c40a5",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Landlords are inevitable",
+      "url": "https://www.slowboring.com/p/landlords-are-inevitable",
+      "summary": "The article argues that landlords, whether private or public, are inevitable as long as people live in homes they don't own, debunking the idea that socialism would eliminate them. It suggests that while public housing could manage property, it wouldn't inherently solve all tenant issues or guarantee better service than large institutional landlords.",
+      "tags": [
+        "housing",
+        "economics",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2596e6d2cc0182b2",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Will A.I. take your job? Mine? Everyone’s?",
+      "url": "https://www.slowboring.com/p/will-ai-take-your-job-mine-everyones",
+      "summary": "The piece explores the debate over AI's impact on the labor market, contrasting public anxiety and industry leaders' predictions of massive disruption with economists' more gradualist views. The author, who leans towards significant disruption, argues against underestimating technological change and for serious consideration of a future where human toil is less necessary.",
+      "tags": [
+        "ai",
+        "labor market",
+        "jobs"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7052eedbc9d6f12e",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+      "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+      "summary": "Following a significant stock crash attributed to poor mainframe sales, IBM's CEO stated that AI temporarily impacted corporate hardware budgets rather than fundamentally killing the mainframe business. IBM is working to reassure investors about the mainframe's future role alongside AI.",
+      "tags": [
+        "ibm",
+        "ai",
+        "enterprise tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5182cd671a1e7753",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+      "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+      "summary": "AI chip startup Etched, founded by three Harvard dropouts, has achieved a $10.3 billion valuation after developing new chips and memory components. These innovations aim to accelerate AI model inference without requiring GPUs.",
+      "tags": [
+        "ai",
+        "semiconductors",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9a0a24b09c60da8e",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Edtech platform raises $4.5M to help teach students how to vibe code",
+      "url": "https://techcrunch.com/2026/07/23/edtech-platform-raises-4-5m-to-help-teach-students-how-to-vibe-code/",
+      "summary": "Edtech platform Imagi secured $4.5 million in seed funding from investors including Brighteye Ventures and artist Wil.i.am. The platform aims to teach students \"vibe code,\" though the specific meaning of this term isn't detailed in the provided text.",
+      "tags": [
+        "education",
+        "edtech",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c0b5ff080ad06fe0",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+      "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+      "summary": "Experts refute claims that Kimi K3 achieved its performance by solely exploiting Anthropic's Fable model through distillation. One expert suggests that such a strong and rapid model development likely involves more than just distillation.",
+      "tags": [
+        "ai",
+        "llms",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a60208176e8015fc",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Ford bets on Apple for its next-generation of EVs",
+      "url": "https://techcrunch.com/2026/07/23/ford-bets-on-apple-for-its-next-generation-of-evs/",
+      "summary": "Ford is integrating Apple Maps navigation directly into its electric vehicles' infotainment systems, becoming the first automaker to utilize new Apple developer tools. This move signifies Ford's strategic reliance on Apple for its next-generation EV software experience.",
+      "tags": [
+        "ford",
+        "apple",
+        "electric vehicles"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f5f4243c2c30edff",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Google justifies its massive AI spending with a booming cloud business",
+      "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "summary": "Google's substantial investments in AI are being justified by the strong performance of its cloud business, which is experiencing record profits. Companies adopting Google's AI and AI infrastructure services are significantly contributing to this growth.",
+      "tags": [
+        "google",
+        "ai",
+        "cloud computing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7b98695be56bc383",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Google’s Gemini nears billion-user milestone",
+      "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+      "summary": "Google's AI model Gemini reported over 750 million monthly users in February and is approaching a milestone of one billion users. This indicates rapid growth and widespread adoption of Google's AI product.",
+      "tags": [
+        "google",
+        "ai",
+        "gemini"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7a7bb69a5b229693",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "MeBeMe’s new ‘interrupter’ app helps you become your best self instead of doomscrolling",
+      "url": "https://techcrunch.com/2026/07/23/mebemes-new-interrupter-app-helps-you-become-your-best-self-instead-of-doomscrolling/",
+      "summary": "MeBeMe has launched an \"interrupter\" app designed to help users combat doomscrolling by delivering small tasks. The app aims to promote personal development and better habits by breaking continuous social media consumption.",
+      "tags": [
+        "apps",
+        "productivity",
+        "mental wellness"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fa4c0a264c8228b6",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Nvidia is sending GPUs to the moon",
+      "url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
+      "summary": "Nvidia is deploying its GPUs to the moon, aiming to extend its presence to celestial bodies. This initiative suggests an expansion of advanced computing capabilities into space environments.",
+      "tags": [
+        "nvidia",
+        "space",
+        "gpus"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5b7334450b0f93c7",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+      "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+      "summary": "ServiceNow has invested $40 million in BusinessNext, an Indian banking software specialist, valuing the company at $700 million. This investment provides BusinessNext with a strategic partner to expand its AI-powered banking software globally, furthering ServiceNow's push into financial services.",
+      "tags": [
+        "investment",
+        "software",
+        "financial services"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b9e9cf3b14c27d42",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Social media addiction lawsuit against Meta is dropped",
+      "url": "https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/",
+      "summary": "A prominent social media addiction lawsuit against Meta, which was nearing trial, has been voluntarily dismissed by the plaintiff. This dismissal means none of the major tech companies involved in similar cases are currently facing trial.",
+      "tags": [
+        "meta",
+        "lawsuit",
+        "social media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ccfed656dc039d7b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "SoundCloud acquires decentralized music platform Nina Protocol months after its shutdown",
+      "url": "https://techcrunch.com/2026/07/22/soundcloud-acquires-decentralized-music-platform-nina-protocol-months-after-its-shutdown/",
+      "summary": "SoundCloud has acquired Nina Protocol, a decentralized music platform that had previously announced its shutdown, integrating Nina's artists, editorial archive, and discovery tools. This acquisition expands SoundCloud's offerings for independent musicians.",
+      "tags": [
+        "soundcloud",
+        "acquisition",
+        "music"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a975bba9c36a8cb5",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips",
+      "url": "https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/",
+      "summary": "Tesla's operating expenses and capital expenditures have surged, outpacing a 26% revenue boost, as it works towards launching new products like Cybercab, Semi, and Megapack. This increased spending has led to delays in the production timelines for these next-generation offerings.",
+      "tags": [
+        "tesla",
+        "financials",
+        "electric vehicles"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2449e96a74f07084",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+      "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+      "summary": "Travis Kalanick's robotics company, Atoms, has raised $1.7 billion in funding, with a16z leading the round and Uber also investing. The company reportedly focuses on using industrial AI to modernize various global sectors.",
+      "tags": [
+        "robotics",
+        "ai",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b90b127409aa87d0",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "summary": "The U.S. Treasury has threatened sanctions following a White House claim that Moonshot distilled Anthropic's Fable, intensifying a debate in Washington over Chinese open models. This development raises concerns about intellectual property and national security implications in AI.",
+      "tags": [
+        "ai",
+        "policy",
+        "sanctions"
+      ],
+      "priority": false
+    },
+    {
+      "id": "34ca88b53f91913e",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+      "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+      "summary": "Yope, a social app focused on private groups, secured $12.3 million in seed funding to build a social network free from algorithms and ads. The startup aims to foster real-world relationships through messaging, photo sharing, and AI features within small communities.",
+      "tags": [
+        "social media",
+        "startups",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6937fdb60a4304ce",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "#MeToo Is Back. This Woman Is Behind It.",
+      "url": "https://www.thefp.com/p/cheyenne-hunt-me-too",
+      "summary": "Democratic activist and lawyer Cheyenne Hunt is instrumental in a resurgence of the #MeToo movement in politics, having orchestrated media rollouts that led to the downfall of two male politicians accused of sexual misconduct. Hunt’s work focuses on preventing women from being \"sacrificed at the altar of our elections.\"",
+      "tags": [
+        "me too",
+        "activism",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a554167b1e361835",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "EXCLUSIVE: Reed College Strikes Sweeping Campus Antisemitism Deal",
+      "url": "https://www.thefp.com/p/exclusive-reed-college-antisemitism",
+      "summary": "Reed College settled federal Title VI complaints by agreeing to implement antisemitism training and other reforms after accusations of failing to protect Jewish students from antisemitic harassment. The settlement follows incidents including the destruction of a mezuzah and anti-Israel protests on campus.",
+      "tags": [
+        "education",
+        "antisemitism",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "afacff345f042746",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Slow Death of Journalism, with Matt Taibbi",
+      "url": "https://www.thefp.com/p/breaking-history-slow-death-journalism",
+      "summary": "When Alex Jones was removed from every major platform in a single coordinated sweep in 2018, most of the press cheered and moved on. Matt Taibbi didn’t. He wanted to know who made the call, how it was coordinated, and what it meant for everyone who wasn’t Alex Jones. That curiosi…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "03da52a1097568fe",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Tough Love: My Girlfriend Depresses Me",
+      "url": "https://www.thefp.com/p/tough-love-should-i-marry-her",
+      "summary": "A man seeks advice about his \"nontoxic\" girlfriend, who, despite being an objectively wonderful partner, leaves him feeling exhausted and depressed due to communication differences. He struggles with her need for focus over constant banter, fearing a trapped marriage as he approaches 40.",
+      "tags": [
+        "relationships",
+        "advice",
+        "communication"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8790732dca8a95a0",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Ford picks Apple Maps for its next EV platform and updated BlueCruise",
+      "url": "https://www.theverge.com/transportation/969919/ford-apple-maps-bluecruise-driver-assist",
+      "summary": "Ford will integrate Apple Maps directly into its upcoming Universal Electric Vehicle Platform, starting with a 2027 midsize pickup truck. This integration will provide turn-by-turn directions, real-time traffic, and intelligent EV routing without requiring an iPhone.",
+      "tags": [
+        "ford",
+        "apple",
+        "electric vehicles"
+      ],
+      "priority": false
+    },
+    {
+      "id": "24d311bd46f2dafb",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Framework’s premium laptop is shipping with less RAM",
+      "url": "https://www.theverge.com/tech/969819/framework-laptop-13-pro-preorder-ram-price-updates",
+      "summary": "Framework has announced pricing and memory configuration adjustments for its upcoming Laptop 13 Pro due to significant cost increases from its memory supplier. Some preordered customers may receive different RAM configurations than initially chosen, though Framework has enough modules for existing orders.",
+      "tags": [
+        "hardware",
+        "laptops",
+        "manufacturing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6c7e3cd20c75c1bf",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Google hit with $1 billion fine for breaking EU antitrust rules",
+      "url": "https://www.theverge.com/tech/943866/google-alphabet-eu-dma-fine-search-services-play-store-steering",
+      "summary": "The European Union has fined Google's parent company Alphabet approximately $1 billion for two Digital Markets Act violations. These penalties were issued for Google's preferential treatment of its own products in search results and for restricting Android developers from offering alternative payment options.",
+      "tags": [
+        "google",
+        "antitrust",
+        "eu"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ad19e98ad64d864c",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Google now lets you sign in to your account using a selfie video",
+      "url": "https://www.theverge.com/tech/969361/google-account-sign-in-selfie-video-security",
+      "summary": "Google has introduced selfie video as a new security option for account access, allowing users to verify their identity with a short video of their face. This feature is designed to help users regain access if they are locked out or forget their password, by comparing new video to a stored one.",
+      "tags": [
+        "google",
+        "security",
+        "authentication"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8f8b30ebdf719f8c",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The right-wing boomers protesting data centers have a lot in common with the left",
+      "url": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans",
+      "summary": "Residents in central Florida, including right-wing groups, are protesting the construction of hyperscale data centers in their community, demanding a ban despite a temporary moratorium. This opposition highlights a growing concern across political lines regarding the environmental and social impact of such developments.",
+      "tags": [
+        "data centers",
+        "protest",
+        "infrastructure"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5391fcb11e1e6690",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The sci-fi movie that imagines AI isn’t so dystopian after all",
+      "url": "https://www.theverge.com/entertainment/969584/hirokazu-kore-eda-sheep-in-a-box-interview",
+      "summary": "Director Hirokazu Kore-eda's new sci-fi drama, \"Sheep in the Box,\" explores a world where AI companies can create robotic doubles of deceased children. The film challenges dystopian AI narratives by focusing on a family coping with grief through an AI replica of their lost son.",
+      "tags": [
+        "film",
+        "ai",
+        "science fiction"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 110,
+    "summarized": 83,
+    "skipped_promos": 1,
+    "filtered_by_rules": 26,
+    "sources": 13,
+    "email_items_omitted": 0
+  }
+}
