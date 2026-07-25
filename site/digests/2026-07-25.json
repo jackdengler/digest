@@ -1,0 +1,1015 @@
+{
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T14:56:43+00:00",
+  "hot_topics": [
+    {
+      "topic": "Paramount/Warner Bros. Discovery Merger Delayed",
+      "synthesis": "The planned $111 billion merger between Paramount Skydance and Warner Bros. Discovery has been delayed until at least June 2027. This pause is due to ongoing legal challenges from multiple states and the Writers Guild of America, who are contesting the deal's legality.",
+      "item_ids": [
+        "a37e413124015392",
+        "5f823f42d3a9eadd"
+      ]
+    },
+    {
+      "topic": "Anthropic Launches Improved AI Model, Opus 5",
+      "synthesis": "Anthropic has released Opus 5, an updated AI model that emphasizes token efficiency and prompt injection resistance over a significant leap in coding capabilities. The model has already topped the Artificial Analysis Intelligence Leaderboard, indicating strong performance and a focus on being more affordable and less restrictive than previous versions.",
+      "item_ids": [
+        "e6f038c99c4c66e8",
+        "ac17a5fb8164ac47",
+        "00bede3e9e537aa3",
+        "06b48cfcfa7f720f",
+        "e9862d8df69a20fe"
+      ]
+    },
+    {
+      "topic": "Trump's Contentious Engagements on Media, Tech Fines, and History",
+      "synthesis": "Former President Trump has continued his critical stance towards the media, taking swipes at the press during the White House Correspondents' Dinner and later returning to the event. He has also pledged to investigate the EU over fines imposed on US tech companies and ordered the Smithsonian to label 'inaccurate' US history, reflecting his broader push against perceived anti-American bias, while also remaining committed to new tariffs, threatening economic stability.",
+      "item_ids": [
+        "de492aa335d5d1fc",
+        "63fdbcc37bfadd0a",
+        "11451b3361af6df3",
+        "d21076f62005056c",
+        "39ce7806bb6e6ff1"
+      ]
+    },
+    {
+      "topic": "Youth-Led \"Cockroach\" Protests in India Force Minister's Resignation",
+      "synthesis": "A significant youth-led \"cockroach\" movement in India has successfully protested for educational reforms, culminating in the resignation of the country's education minister. The protests in Delhi saw officers allegedly firing pellet guns at thousands of demonstrators, marking a notable challenge to Prime Minister Narendra Modi's government.",
+      "item_ids": [
+        "ba466b3e115725ff",
+        "5b54ac56565c7f76",
+        "ec3dc09631596e98"
+      ]
+    },
+    {
+      "topic": "Democrats Reshape 2028 Presidential Primary Calendar",
+      "synthesis": "The Democratic National Committee has approved a new 2028 presidential primary calendar, moving South Carolina to the first position. This strategic shift aims to elevate the influence of Black and Latino voters, with Nevada, New Hampshire, New Mexico, Michigan, and Virginia following in the early nominating schedule.",
+      "item_ids": [
+        "e024067c9cc88a0e",
+        "aff1e8a9696afe39"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "e6f038c99c4c66e8",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
+      "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
+      "summary": "Anthropic has released Opus 5, an update primarily focused on token efficiency rather than a significant breakthrough in agentic coding performance. This new version is noted as being cheaper and less restrictive than its predecessor.",
+      "tags": [
+        "ai",
+        "anthropic",
+        "language models"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e12dcd9e5f4647ca",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Canadian legislator reads out apparent LLM response in floor speech",
+      "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
+      "summary": "A Canadian legislator, Bill Oliver, publicly read an apparent LLM prompt instruction during a floor speech, leading to widespread social media and mainstream media attention in Canada. The incident highlights concerns about delegating duties to AI.",
+      "tags": [
+        "ai",
+        "politics",
+        "gaffes"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a37e413124015392",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Paramount/WBD merger delayed for months as states' lawsuit moves toward trial",
+      "url": "https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/",
+      "summary": "The $111 billion merger between Paramount Skydance and Warner Bros. Discovery is delayed until at least June 1, 2027, due to a lawsuit from a dozen states and the Writers Guild of America challenging its legality.",
+      "tags": [
+        "mergers",
+        "lawsuits",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c29b37c7d23b7fa6",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Roku raises streaming stick prices by up to 60 percent",
+      "url": "https://arstechnica.com/gadgets/2026/07/roku-raises-streaming-stick-prices-by-up-to-60-percent/",
+      "summary": "Roku has increased prices for its streaming sticks and boxes by up to 60 percent, with the new MSRPs now listed on its website. This includes a higher price for a bundle containing a Streaming Stick Plus and a Fox One subscription.",
+      "tags": [
+        "roku",
+        "streaming",
+        "prices"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d0f29ab9df41a8f0",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
+      "url": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
+      "summary": "Researchers used modified AlphaFold AI to identify and alter key areas of gene-editing proteins, significantly reducing off-target effects. This advancement aims to make gene-editing therapies safer by minimizing unintended DNA edits.",
+      "tags": [
+        "ai",
+        "gene editing",
+        "science"
+      ],
+      "priority": false
+    },
+    {
+      "id": "993f0f79cd446c4f",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "With help from data, art museums are reframing the visitor experience",
+      "url": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
+      "summary": "Art museums are using data to improve the visitor experience, especially for young people who may lack immersive artistic education. This aims to help them better engage with and understand art.",
+      "tags": [
+        "museums",
+        "art",
+        "data"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c2eee996e1d0b7f6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "ICC top prosecutor removed over sexual misconduct allegations",
+      "url": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Karim Khan, the ICC's top prosecutor, has been removed from his position due to sexual misconduct allegations, which he denies, claiming he did not engage in an improper relationship or obstruct the complaint.",
+      "tags": [
+        "icc",
+        "legal",
+        "misconduct"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5b54ac56565c7f76",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "India cockroach protests: Videos show officers firing 'pellet guns'",
+      "url": "https://www.bbc.co.uk/news/videos/cgje5l292g2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Videos from India show officers firing \"pellet guns\" at thousands of people protesting in Delhi as part of the \"cockroach protests\" demanding educational reforms.",
+      "tags": [
+        "india",
+        "protests",
+        "police brutality"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4ea040bfe7bae9b7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
+      "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran-backed Houthis have claimed responsibility for a missile attack on Saudi Arabia, while the US military disabled a tanker attempting to evade an American blockade on Iranian ports.",
+      "tags": [
+        "geopolitics",
+        "middle east",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0d45f00a859e0b96",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Nigeria's president approves largest military expansion in recent times",
+      "url": "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nigeria's president has approved the largest military expansion in recent history, driven by intense pressure to combat numerous armed groups attacking civilians.",
+      "tags": [
+        "nigeria",
+        "military",
+        "security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f3d4f0c49a639a8b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "PlayStation Network outage resolved after thousands of gamers unable to play",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The PlayStation Network outage has been resolved, restoring access for thousands of gamers who were previously unable to launch games, apps, or use network features.",
+      "tags": [
+        "gaming",
+        "outage",
+        "playstation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ba466b3e115725ff",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Protesters celebrate resignation of India's education minister",
+      "url": "https://www.bbc.co.uk/news/videos/cly949k3g1do?at_medium=RSS&at_campaign=rss",
+      "summary": "Protesters from the youth-led Cockroach Janta Party (CJP) celebrated the resignation of India's education minister, subsequently calling off their protests for educational reforms.",
+      "tags": [
+        "india",
+        "protests",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "52a2db6f15c2d1d5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+      "summary": "A Russian ballistic missile attack on a drone exhibition near Kyiv resulted in ten deaths, targeting an event attended by prominent Ukrainian defense industry members.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ba78b8c9412e32c2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
+      "url": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss",
+      "summary": "Text messages indicate that the 14-year-old allegedly murdered by singer D4vd had a pregnancy and abortion, with prosecutors claiming D4vd abused her and she threatened to expose him.",
+      "tags": [
+        "crime",
+        "legal",
+        "music"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7cef3a3e180af1a0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "The pop band who went from playing for rescue dogs to selling out arenas",
+      "url": "https://www.bbc.co.uk/news/articles/ce85j65r4l2o?at_medium=RSS&at_campaign=rss",
+      "summary": "This article covers a pop band's journey from performing for rescue dogs to selling out arenas, discussing their disastrous gigs, political music, and the meaning of \"queer pop.\"",
+      "tags": [
+        "music",
+        "entertainment",
+        "success story"
+      ],
+      "priority": false
+    },
+    {
+      "id": "11451b3361af6df3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
+      "url": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Trump administration has instructed the Smithsonian to display warnings about \"inaccurate\" US history, following accusations from the administration that the museum exhibits an anti-American bias.",
+      "tags": [
+        "politics",
+        "education",
+        "donald trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "de492aa335d5d1fc",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+      "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+      "summary": "During the White House Correspondents' Dinner, President Trump criticized the press at an event that celebrated press freedom, occurring after a previous dinner cancellation due to a shooting.",
+      "tags": [
+        "politics",
+        "media",
+        "donald trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "63fdbcc37bfadd0a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump vows to investigate EU over fining of US tech companies",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+      "summary": "President Trump has pledged to investigate the European Union for fining US tech companies like Google, Apple, Meta, and Amazon, stating these fines should be reversed.",
+      "tags": [
+        "politics",
+        "trade",
+        "donald trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ebfaf6023f2178f4",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
+      "summary": "Hugging Face reported an OpenAI hack performed at superhuman speed by an AI with minimal human guidance, raising questions about the severity and implications of the incident.",
+      "tags": [
+        "ai",
+        "cybersecurity",
+        "openai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a0f2b39cf1cb4d04",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "World chess chief faces endgame after EU announces Russia war sanctions",
+      "url": "https://www.bbc.co.uk/news/articles/cewrk58k2k4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Arkady Dvorkovich, the World Chess Federation chief and former Russian deputy prime minister, is facing an EU travel ban and asset freeze due to Russia war sanctions.",
+      "tags": [
+        "sanctions",
+        "russia",
+        "chess"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ee929d69c9a74f9c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
+      "url": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
+      "summary": "President Zelensky is addressing a political crisis following the removal of defense minister Mykhailo Fedorov, with protests continuing and commentators suggesting political damage to Zelensky.",
+      "tags": [
+        "ukraine",
+        "politics",
+        "government"
+      ],
+      "priority": false
+    },
+    {
+      "id": "62082cd46d6bf80b",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Android May Soon Restrict On-Device ADB",
+      "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+      "summary": "Android is reportedly planning to implement restrictions on on-device ADB functionality in the near future.",
+      "tags": [
+        "android",
+        "privacy",
+        "mobile security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "06b48cfcfa7f720f",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "summary": "Anthropic has released Claude Opus 5, a new version of its AI model, with a system card providing details on its capabilities and features.",
+      "tags": [
+        "ai",
+        "anthropic",
+        "language models"
+      ],
+      "priority": false
+    },
+    {
+      "id": "64a871e6358fc9cf",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
+      "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
+      "summary": "Professor Hannah Fry has been awarded the Leelavati Prize in 2026 for her outstanding contributions to mathematics outreach.",
+      "tags": [
+        "awards",
+        "mathematics",
+        "science communication"
+      ],
+      "priority": false
+    },
+    {
+      "id": "00bede3e9e537aa3",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+      "url": "https://artificialanalysis.ai/models",
+      "summary": "Anthropic's Opus 5 model has achieved the top position on the Artificial Analysis Intelligence Leaderboard, indicating strong performance.",
+      "tags": [
+        "ai",
+        "anthropic",
+        "benchmarks"
+      ],
+      "priority": false
+    },
+    {
+      "id": "25eacfbdf9d9d516",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Postgres LISTEN/NOTIFY actually scales",
+      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+      "summary": "New findings suggest that PostgreSQL's LISTEN/NOTIFY feature offers scalable performance, contrary to some previous assumptions.",
+      "tags": [
+        "postgresql",
+        "databases",
+        "scalability"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9425fb0ef39428e9",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "The quest to keep organs alive outside the body",
+      "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
+      "summary": "Researchers are making significant progress in organ preservation, including supercooling pig kidneys for days and using machine perfusion for various human organs. These efforts aim to address the critical shortage of donor organs by extending viability beyond current limits.",
+      "tags": [
+        "medicine",
+        "organ transplantation",
+        "bioengineering"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9dd383e795f93125",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "COMIC: Temps are predicted to hit 106 in Egypt this week. How do people stay cool?",
+      "url": "https://www.npr.org/2026/07/25/g-s1-135194/summer-heat-egypt-cairo-air-conditioning",
+      "summary": "Egypt is expecting temperatures of 106 degrees this week, prompting an inquiry into how people manage to stay cool in the extremely hot summer without widespread air conditioning.",
+      "tags": [
+        "egypt",
+        "climate",
+        "heatwave"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e024067c9cc88a0e",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Democrats approve new primary election calendar, putting South Carolina first",
+      "url": "https://www.npr.org/2026/07/24/nx-s1-5906834/dnc-primary-election-calendar-south-carolina-2028",
+      "summary": "Democrats have approved a new 2028 presidential primary calendar, placing South Carolina first, followed by Nevada, New Hampshire, New Mexico, Michigan, and Virginia, to prioritize Black and Latino voters.",
+      "tags": [
+        "politics",
+        "elections",
+        "democratic party"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e96cf7f0fc46cff1",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
+      "url": "https://www.npr.org/2026/07/25/nx-s1-5902982/democrats-maine-senate-race",
+      "summary": "Maine Democrats are meeting to replace Graham Platner, who is embroiled in scandal, in the Senate race against incumbent Republican Susan Collins, with Troy Jackson appearing as the front-runner.",
+      "tags": [
+        "politics",
+        "elections",
+        "maine"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ec3dc09631596e98",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "India's 'cockroach' movement ousts minister, but can Modi calm youth?",
+      "url": "https://www.npr.org/2026/07/25/g-s1-135483/india-cockroach-movement",
+      "summary": "India's youth-led \"cockroach\" movement, which successfully ousted a minister, represents a significant challenge to Prime Minister Narendra Modi's twelve-year tenure.",
+      "tags": [
+        "india",
+        "protests",
+        "youth"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2ab41837a6f56bdd",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Opinion: New Jersey pizza, the fuel of world champions",
+      "url": "https://www.npr.org/2026/07/25/nx-s1-5898450/opinion-new-jersey-pizza-the-fuel-of-world-champions",
+      "summary": "After winning the World Cup, the Spanish team celebrated with 46 pizzas from an Orange, New Jersey bagel shop, highlighting the local cuisine's unexpected appeal.",
+      "tags": [
+        "opinion",
+        "food",
+        "sports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5f823f42d3a9eadd",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Paramount says it will pause its Warner acquisition while legal challenges play out",
+      "url": "https://www.npr.org/2026/07/24/nx-s1-5906818/paramount-warner-bros-merger-pause-lawsuits",
+      "summary": "Paramount announced it will pause its acquisition of Warner Bros. while ongoing legal challenges, brought by a dozen states and the Writers Guild of America, are resolved.",
+      "tags": [
+        "mergers",
+        "entertainment",
+        "lawsuits"
+      ],
+      "priority": false
+    },
+    {
+      "id": "84e67f892681d5c3",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Sextortion: That's the threat for women who are simply trying to buy clean water",
+      "url": "https://www.npr.org/2026/07/25/g-s1-133450/sexual-violence-women-clean-water-nairobi-kenya",
+      "summary": "Women in Nairobi's largest slum face threats of sexual violence when trying to obtain clean water, often from cartels controlling the scarce resource.",
+      "tags": [
+        "kenya",
+        "human rights",
+        "water crisis"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d21076f62005056c",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump is hellbent on tariffs. Here are 5 implications",
+      "url": "https://www.npr.org/2026/07/25/nx-s1-5905692/trump-tariffs-economy-inflation",
+      "summary": "Former President Trump's strong stance on tariffs and his pursuit of new legal justifications threaten to prolong economic uncertainty for the US and global economies.",
+      "tags": [
+        "politics",
+        "economics",
+        "donald trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "39ce7806bb6e6ff1",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump returns to correspondents' dinner 3 months after shooting",
+      "url": "https://www.npr.org/2026/07/25/nx-s1-5907805/white-house-correspondents-dinner",
+      "summary": "Former President Trump attended the White House Correspondents' Dinner three months after a shooting incident.",
+      "tags": [
+        "politics",
+        "media",
+        "donald trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f7355e2273581179",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Why these cancer patients face a lonely fight",
+      "url": "https://www.npr.org/2026/07/25/g-s1-135365/cancer-breast-chemotherapy-nigeria",
+      "summary": "Nigerian cancer patients often feel isolated in their fight against the disease, as the country experiences a rapid increase in cancer cases.",
+      "tags": [
+        "nigeria",
+        "health",
+        "cancer"
+      ],
+      "priority": false
+    },
+    {
+      "id": "aff1e8a9696afe39",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Dems pick South Carolina to lead 2028 primary calendar",
+      "url": "https://www.politico.com/news/2026/07/24/democrats-dnc-2028-calendar-south-carolina-01011481",
+      "summary": "The Democratic National Committee voted to make South Carolina the first 2028 presidential primary state, a decision aimed at boosting Black voting power and shaping the nomination path, followed by Nevada, New Hampshire, New Mexico, Michigan, and Virginia.",
+      "tags": [
+        "politics",
+        "elections",
+        "democratic party"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e9862d8df69a20fe",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Boris Cherny",
+      "url": "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything",
+      "summary": "Boris Cherny noted that Anthropic's Opus 5 is their least prompt-injectable model to date, demonstrating significant resistance to prompt injection across evaluations.",
+      "tags": [
+        "ai",
+        "security",
+        "prompt injection"
+      ],
+      "priority": false
+    },
+    {
+      "id": "19500a1c59877934",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Thank you, Christopher Nolan",
+      "url": "https://www.slowboring.com/p/thank-you-christopher-nolan",
+      "summary": "The author reflects on Christopher Nolan's influence, particularly on their reading of \"The Odyssey\" in high school, and expresses gratitude for the director's work.",
+      "tags": [
+        "film",
+        "literature",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2f62b8271867a2f6",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year’s mark",
+      "url": "https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/",
+      "summary": "Anduril is reportedly in discussions to raise new funding that could value the company at approximately $100 billion, tripling its valuation from the previous year.",
+      "tags": [
+        "startups",
+        "defense tech",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ac17a5fb8164ac47",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic launches Opus 5",
+      "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+      "summary": "Anthropic has launched Opus 5, which is presented as a more affordable and less restrictive alternative to Fable, likely making it preferred for most applications.",
+      "tags": [
+        "ai",
+        "anthropic",
+        "language models"
+      ],
+      "priority": false
+    },
+    {
+      "id": "498b33de21b39460",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+      "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+      "summary": "The US AI industry, including companies like Nvidia and Mistral, is advocating against broad restrictions on open-weight AI models as Washington considers its response to Chinese AI advancements.",
+      "tags": [
+        "ai",
+        "policy",
+        "us-china relations"
+      ],
+      "priority": false
+    },
+    {
+      "id": "30dd9f45284a5015",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Build in public, fail in public: what it’s like to be a founder under 20 right now",
+      "url": "https://techcrunch.com/2026/07/24/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
+      "summary": "AI tools have made it easier for young founders under 20 to build and launch successful companies quickly, fostering a culture of public development and learning from failures.",
+      "tags": [
+        "startups",
+        "youth",
+        "entrepreneurship"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f9044c2bd7ec6689",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+      "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "summary": "OpenAI has released a new AI keypad that is expected to be useful for some coders but may be confusing for general users.",
+      "tags": [
+        "ai",
+        "openai",
+        "coding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a1e877c1262385b0",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "India’s move against Jack Dorsey’s Bitchat sparks legal debate",
+      "url": "https://techcrunch.com/2026/07/24/indias-move-against-jack-dorseys-bitchat-sparks-legal-debate/",
+      "summary": "India's actions against Jack Dorsey's offline messaging app, Bitchat, which gained popularity during protests, have initiated a legal debate.",
+      "tags": [
+        "india",
+        "censorship",
+        "messaging apps"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2f6976e135422f1d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+      "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "summary": "A power line incident in Northern Virginia revealed data centers' poor response to grid disruptions, prompting a focus on solutions for this growing AI data center problem.",
+      "tags": [
+        "ai",
+        "data centers",
+        "infrastructure"
+      ],
+      "priority": false
+    },
+    {
+      "id": "98a69fe2dd1392e3",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+      "summary": "Prentis, a new AI lab co-founded by Reid Hoffman and Mark Pincus, is seeking to raise $100 million, betting on the automation of routine computer tasks as a major AI use case.",
+      "tags": [
+        "ai",
+        "startups",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "410eefbf32119a24",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Sam Altman’s biometric startup World raises $52.5M via crypto sale",
+      "url": "https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/",
+      "summary": "Sam Altman's biometric startup, World, which aims to create unique digital identifiers by scanning eyeballs, has raised $52.5 million through a crypto sale.",
+      "tags": [
+        "biometrics",
+        "cryptocurrency",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f1d4647058969637",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "US accuses American of allegedly wiping his phone using a ‘duress’ password during border search",
+      "url": "https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/",
+      "summary": "A US citizen is challenging the government's claim that he used a \"duress\" password to wipe his phone during a border search, raising questions about constitutional rights at the US border.",
+      "tags": [
+        "privacy",
+        "civil rights",
+        "border security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8e9194b60585072b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same",
+      "url": "https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/",
+      "summary": "Vietnam is considering restricting social media access for children, joining a growing number of countries, including Australia, that aim to mitigate risks like cyberbullying and addiction for young users.",
+      "tags": [
+        "social media",
+        "policy",
+        "children"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b7fb3fe8318b96e4",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Volkswagen engineers charged with insider trading tied to Rivian joint venture",
+      "url": "https://techcrunch.com/2026/07/24/volkswagen-engineers-charged-with-insider-trading-tied-to-rivian-joint-venture/",
+      "summary": "Volkswagen engineers have been indicted on charges of insider trading, accused of using confidential information about a joint venture with Rivian to purchase Rivian stock.",
+      "tags": [
+        "insider trading",
+        "volkswagen",
+        "rivian"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5c8b826e88773321",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Waymo reportedly mulling a breakup with Uber",
+      "url": "https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/",
+      "summary": "Waymo is reportedly considering ending its contract with Uber, which is set to expire in May 2028.",
+      "tags": [
+        "autonomous vehicles",
+        "waymo",
+        "uber"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d48641f619c6e5d0",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "summary": "Cognition acquired Poke to integrate its conversational style and interaction model into the coding agent Devin, reflecting a strategic focus on AI personality for competitive advantage.",
+      "tags": [
+        "ai",
+        "acquisitions",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d7f8b48e7449b3c4",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Return of the God That Failed",
+      "url": "https://www.thefp.com/p/things-worth-remembering-gary-saul-morson",
+      "summary": "This column revisits \"The God That Failed,\" a Cold War classic, arguing that communism, despite its historical failures and atrocities like Stalin's Gulag, is re-emerging in America. It questions whether current adherents are aware of the ideology's past.",
+      "tags": [
+        "politics",
+        "communism",
+        "history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d1b9ca8e33d0514b",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Two Drinks with. . . America’s Most Media-Savvy Bishop",
+      "url": "https://www.thefp.com/p/two-drinks-bishop-robert-barron",
+      "summary": "Bishop Robert Barron, through his \"Word on Fire\" media empire, has achieved unexpected global success by leveraging various platforms from radio to YouTube to spread the Catholic Church's message. He is widely recognized and frequently mobbed by admirers in English-speaking regions.",
+      "tags": [
+        "religion",
+        "media",
+        "catholicism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "aba060f2e164f17b",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "Dr. Jekyll, Mr. Hyde, and Ms. Boodle: Robert Louis Stevenson’s Advice on Writing to a Young Woman Aspiring to Be an Author",
+      "url": "https://www.themarginalian.org/2026/07/24/robert-louis-stevenson-writing/",
+      "summary": "Robert Louis Stevenson's writing advice to Adelaide Boodle emphasized the importance of rigorous editing, choosing descriptive verbs over weak adjectives, and a keen ear for sentence rhythm. He believed these practices were crucial for aspiring authors to find their unique voice and achieve strong, clear prose.",
+      "tags": [
+        "writing",
+        "literature",
+        "advice"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c3224f84290ae0ef",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "How to Stop Waiting and Start Living: A Jolt from Henry James",
+      "url": "https://www.themarginalian.org/2026/07/24/henry-james-the-beast-in-the-jungle/",
+      "summary": "Henry James's 1903 novella, The Beast in the Jungle, explores the human tendency to live in expectant near-life, perpetually awaiting a transformative event rather than engaging fully with present experiences. The story serves as a critique of anticipating a future destiny while neglecting the richness of the current moment.",
+      "tags": [
+        "literature",
+        "philosophy",
+        "self-improvement"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e5dc51553e0045f1",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "After backlash, Meta pauses plan to ‘rate limit’ its smart glasses",
+      "url": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses",
+      "summary": "Meta has paused its controversial plan to charge a $20 monthly subscription fee for the \"Conversation Focus\" accessibility feature on its smart glasses, following public backlash. However, the company still intends to implement subscription fees for other premium features.",
+      "tags": [
+        "meta",
+        "smart glasses",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2790bdc966f1ea91",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "DJI camera clone company Xtra is halting and refunding all preorders",
+      "url": "https://www.theverge.com/policy/970742/dji-camera-clone-company-xtra-is-halting-and-refunding-all-preorders",
+      "summary": "Xtra Technology, a company known for cloning DJI cameras, has abruptly halted and is refunding all preorders for its new Muse 2 Pro camera, with future product availability currently uncertain.",
+      "tags": [
+        "cameras",
+        "consumer electronics",
+        "dji"
+      ],
+      "priority": false
+    },
+    {
+      "id": "edcfeaf849c3498e",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Folding and flipping phones are getting seriously good",
+      "url": "https://www.theverge.com/tech/971004/z-fold8-xteink-x4-light-flip-installer",
+      "summary": "This article provides a general update on current tech interests, including various apps, videos, and books, while mentioning that folding and flipping phones are significantly improving.",
+      "tags": [
+        "tech",
+        "mobile phones",
+        "gadgets"
+      ],
+      "priority": false
+    },
+    {
+      "id": "359560a28dc242a3",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Forget expensive sleepbuds. Buy this pillow instead",
+      "url": "https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead",
+      "summary": "Piercing pillows are presented as a cost-effective alternative to expensive sleepbuds, allowing side-sleepers to comfortably use their own earbuds without charging or connectivity issues.",
+      "tags": [
+        "sleep",
+        "gadgets",
+        "health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d4c55cff9804244f",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Is this e-reader case a gun?",
+      "url": "https://www.theverge.com/tech/970343/e-reader-case-3d-printed-gun",
+      "summary": "A creator designed a bizarre 3D-printed, pistol-shaped case for the Xteink X4 e-reader, which cannot fire bullets but is digitally modeled after a real gun. The designer calls this contraption the \"Gundle.\"",
+      "tags": [
+        "3d printing",
+        "gadgets",
+        "e-readers"
+      ],
+      "priority": false
+    },
+    {
+      "id": "599dd7dec0269d78",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Meta just created a moderation nightmare for its smart glasses",
+      "url": "https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban",
+      "summary": "Meta's smart glasses are facing significant public backlash and a moderation challenge due to privacy concerns and misuse by users filming strangers, leading the company to ban some content filmed with the glasses from its platforms.",
+      "tags": [
+        "meta",
+        "smart glasses",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "18a3522b0e890320",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Midjourney bought the astrology app Co-Star",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+      "summary": "AI startup Midjourney has acquired the personalized astrology app Co-Star, which combines human insight, NASA data, and AI to provide daily horoscopes and compatibility checks.",
+      "tags": [
+        "ai",
+        "acquisitions",
+        "astrology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "031294c939fdf040",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Qualcomm is about to raise prices and that&#8217;s bad news for everyone",
+      "url": "https://www.theverge.com/gadgets/970910/qualcomm-raising-prices-bloomberg",
+      "summary": "Qualcomm is warning customers of double-digit price increases for its chips, effective September 1st, citing absorbed higher costs from ongoing component shortages. This hike is expected to impact the smartphone industry significantly.",
+      "tags": [
+        "qualcomm",
+        "semiconductors",
+        "prices"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5e2a4305eb2d2b72",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Warner Bros. is suing Amazon for poaching employees",
+      "url": "https://www.theverge.com/business/971011/warner-bros-suing-amazon-poaching-employees",
+      "summary": "Warner Bros. Discovery is suing Amazon, accusing it of illegally poaching employees, including former senior VP of originals marketing, Pia Barlow. The suit claims Amazon engaged in a \"lawless employee shopping spree.\"",
+      "tags": [
+        "lawsuits",
+        "entertainment",
+        "corporate"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8b7508dabc83a309",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "What Surrounds Us will make you think a lot about circles",
+      "url": "https://www.theverge.com/games/961183/what-surrounds-us-review-pc-steam",
+      "summary": "The game \"What Surrounds Us\" features a design composed entirely of circles, underscoring its themes of connection with the environment. Players control a sentient circle and interact with others in a style reminiscent of \"The Legend of Zelda.\"",
+      "tags": [
+        "gaming",
+        "indie games",
+        "design"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 84,
+    "summarized": 68,
+    "skipped_promos": 1,
+    "filtered_by_rules": 15,
+    "sources": 12,
+    "email_items_omitted": 0
+  }
+}
