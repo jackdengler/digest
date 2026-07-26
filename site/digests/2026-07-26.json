@@ -1,0 +1,623 @@
+{
+  "date": "2026-07-26",
+  "generated_at": "2026-07-26T14:57:43+00:00",
+  "hot_topics": [
+    {
+      "topic": "Python Linting Tool Ruff Gets Major Update",
+      "synthesis": "The Ruff Python linting tool has released version 0.16.0, dramatically increasing its default enabled rules from 59 to 413. This update helps catch numerous severe issues, including syntax and runtime errors, without requiring explicit configuration. Projects like Datasette, sqlite-utils, and LLM have already seen hundreds of minor issues identified by the new rule set, highlighting the update's significant impact on code quality and developer workflows.",
+      "item_ids": [
+        "65302b249aae355c",
+        "aee7f892c6644a23"
+      ]
+    },
+    {
+      "topic": "Deadly Vehicle Attack at Berlin Pride Event",
+      "synthesis": "A vehicle was rammed into a crowd at a Pride event in Berlin, Germany, resulting in one fatality and several injuries. Police have launched a manhunt for a 21-year-old suspect, Abdul Ballout, who was identified with Lebanese roots. Germany's interior minister has described the incident as a likely \"Islamic terror attack,\" prompting ongoing investigations into the motive.",
+      "item_ids": [
+        "379208d68bec1ac7",
+        "288091827b4b3fc4"
+      ]
+    },
+    {
+      "topic": "Extensive Wildfires Force Mass Evacuations in Europe",
+      "synthesis": "Wildfires are raging across parts of France and Spain, leading to the evacuation of over 300,000 people. Firefighters are actively battling the blazes, particularly near Bordeaux in France. The extensive fires have also resulted in at least one reported death in Spain, underscoring the severity of the situation.",
+      "item_ids": [
+        "b9311e01ed5073c2",
+        "d0c5d1eceb4a8ce6"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "b9311e01ed5073c2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+      "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Firefighters are battling wildfires near Bordeaux, France, leading to the evacuation of over 330,000 people across France and Spain.",
+      "tags": [
+        "wildfires",
+        "europe",
+        "climate"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e9b1287e46c49af2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "India's 'cockroach' protest called off after education minister quits",
+      "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+      "summary": "India's \"cockroach\" protest has been called off following the resignation of the education minister, marking a significant public expression of anger against the Modi government.",
+      "tags": [
+        "india",
+        "politics",
+        "protest"
+      ],
+      "priority": false
+    },
+    {
+      "id": "daef120cd3f9af31",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+      "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+      "summary": "Palestinians report that Israeli settlers set fire to mosques, cars, and farmland in the West Bank, two days after clashes left six people dead.",
+      "tags": [
+        "israel",
+        "palestine",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8c0073a9e8693790",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Left-wing Democrats are on a winning run - but can they lure back crucial swing voters?",
+      "url": "https://www.bbc.co.uk/news/articles/c5y3rrd32jlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Left-wing Democrats have achieved several recent wins but face a test in Michigan to see if they can attract crucial working-class swing voters.",
+      "tags": [
+        "politics",
+        "us",
+        "democrats"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0080b37254f85fc3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Smash hit: How Alex Eala's Wimbledon run made everyday Filipinos fall in love with tennis",
+      "url": "https://www.bbc.co.uk/news/articles/c3v0lyrndn7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Alex Eala's Wimbledon performance has sparked a tennis boom in the Philippines, a country traditionally dominated by basketball and boxing.",
+      "tags": [
+        "tennis",
+        "sports",
+        "philippines"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ef6a63fb77b92b97",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "The notorious Cameroonian prison with its own record label",
+      "url": "https://www.bbc.co.uk/news/articles/czxqlkrlj7no?at_medium=RSS&at_campaign=rss",
+      "summary": "A notorious Cameroonian prison, New Bell, has its own record label, where inmates record songs and music videos, becoming \"mini stars.\"",
+      "tags": [
+        "africa",
+        "music",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "379208d68bec1ac7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: At the scene of Berlin Pride attack as manhunt continues",
+      "url": "https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&at_campaign=rss",
+      "summary": "This news item presents a video report from the scene of the Berlin Pride attack, where a 21-year-old suspect has been identified but remains at large.",
+      "tags": [
+        "berlin",
+        "attack",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e34202889f330884",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What we know so far about the Berlin Pride ramming attack",
+      "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+      "summary": "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "b4bd82a69a1625e6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Would you pay $58.5m to live in this iconic New York building?",
+      "url": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The iconic Flatiron building in New York, nearly renovated, is offering an apartment for $58.5 million for its next phase of life.",
+      "tags": [
+        "real estate",
+        "new york",
+        "architecture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a604438194c88850",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "A shell colon does nothing. Use it anyway",
+      "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
+      "summary": "Despite a shell colon doing nothing on its own, its use can be beneficial for specific scripting patterns and readability.",
+      "tags": [
+        "shell",
+        "programming",
+        "linux"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3d4bd5690bf3accd",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "An ESP32 based plane radar for my desk",
+      "url": "https://blog.ktz.me/esp32-plane-radar/",
+      "summary": "A user created an ESP32-based plane radar for their desk, providing a personal flight tracking solution using the microcontroller.",
+      "tags": [
+        "hardware",
+        "electronics",
+        "diy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a2197a74a61d1eba",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Cloudflare's new AI traffic options for customers",
+      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+      "summary": "Cloudflare has introduced new AI traffic options for its customers, offering enhanced control and management for AI-related network activities.",
+      "tags": [
+        "cloudflare",
+        "ai",
+        "networking"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d2b43b5e72010621",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "summary": "DeepSeek has reportedly paused its fundraising efforts after a transcript of comments regarding a compute gap with the US was leaked, impacting investor confidence.",
+      "tags": [
+        "ai",
+        "investment",
+        "geopolitics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ae60d55cafded761",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "GrapheneOS protections against data extraction from locked devices",
+      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+      "summary": "GrapheneOS offers protections against data extraction from locked devices, enhancing privacy and security for its users.",
+      "tags": [
+        "mobile security",
+        "privacy",
+        "android"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3b1cdeb99b6edefe",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
+      "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+      "summary": "Inflect-Micro-v2 is a voice model capable of complete voice synthesis using only 9.36 million parameters, showcasing efficiency in AI voice technology.",
+      "tags": [
+        "ai",
+        "voice synthesis",
+        "machine learning"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7b452c47f2489ec4",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "LLM Usage in Debian: Three Proposals",
+      "url": "https://www.debian.org/vote/2026/vote_002",
+      "summary": "Debian is considering three proposals regarding the usage of Large Language Models (LLMs) within its projects and community.",
+      "tags": [
+        "linux",
+        "open source",
+        "llm"
+      ],
+      "priority": false
+    },
+    {
+      "id": "65302b249aae355c",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
+      "url": "https://astral.sh/blog/ruff-v0.16.0",
+      "summary": "Ruff, a Python linting tool, released version 0.16.0, significantly expanding its default enabled rules from 59 to 413, now catching many severe issues without explicit configuration.",
+      "tags": [
+        "python",
+        "development",
+        "tools"
+      ],
+      "priority": false
+    },
+    {
+      "id": "36d8183b3c15b3e1",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "summary": "An experiment demonstrates running a 28.9 million parameter Large Language Model (LLM) on an inexpensive $8 microcontroller like the ESP32.",
+      "tags": [
+        "llm",
+        "embedded",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4a7ae9bd39c586d1",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Show HN: I mapped every US golf course",
+      "url": "https://golfcoursebrowser.com/",
+      "summary": "A free, ad-free directory mapping every US golf course has been created using OpenStreetMap, aiming to be the most complete and current worldwide directory with user contributions.",
+      "tags": [
+        "mapping",
+        "sports",
+        "osm"
+      ],
+      "priority": false
+    },
+    {
+      "id": "408af1a40d22451f",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "summary": "New rules for context engineering have been released for Claude 5 generation models, providing guidelines for optimizing interactions with the advanced AI.",
+      "tags": [
+        "ai",
+        "nlp",
+        "claude"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1b5e18f1333e015a",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "What is happening to jobs? Separating AI hype from reality",
+      "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+      "summary": "A Stanford SIEPR policy brief examines the reality of AI's impact on jobs, seeking to separate the hype from actual changes in employment.",
+      "tags": [
+        "ai",
+        "economics",
+        "jobs"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2f4436d5c9f3f4f6",
+      "source": "Noahpinion",
+      "source_type": "substack",
+      "title": "What will more intelligence actually do for us?",
+      "url": "https://www.noahpinion.blog/p/what-will-more-intelligence-actually",
+      "summary": "Despite AI models achieving \"superintelligence\" in fields like mathematics and coding, the world has not seen the dramatic \"singularity\" transformation many expected, suggesting that intelligence itself might be subject to diminishing returns, resulting in incremental rather than explosive economic impact.",
+      "tags": [
+        "ai",
+        "intelligence",
+        "economics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "db3743a7461f7f53",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Biden ghostwriter tapes to be released",
+      "url": "https://www.npr.org/2026/07/25/nx-s1-5906749/biden-ghostwriter-tapes-justice-department-trump-debate",
+      "summary": "Former President Joe Biden will not appeal a court ruling allowing the Justice Department to release recordings of his conversations with a ghostwriter for his memoir.",
+      "tags": [
+        "politics",
+        "us",
+        "biden"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d0c5d1eceb4a8ce6",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "France and Spain fires force more than 300,000 to flee homes",
+      "url": "https://www.npr.org/2026/07/25/nx-s1-5907963/wildfires-spain-france-evacuations",
+      "summary": "Wildfires in France and Spain have forced over 300,000 people to evacuate their homes, with at least one fatality reported in Spain.",
+      "tags": [
+        "wildfires",
+        "europe",
+        "climate"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b3b5014e66fb7fd7",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Lebanese displaced by war turn to satellites to check their homes",
+      "url": "https://www.npr.org/2026/07/26/g-s1-124672/lebanon-israel-war-homes-satellite",
+      "summary": "Lebanese citizens displaced by Israel's invasion of southern Lebanon are purchasing satellite images to check the status of their homes, unable to return.",
+      "tags": [
+        "lebanon",
+        "israel",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "faae43a2990b10c3",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Meet the robots programmed by kids to speak their Indigenous languages",
+      "url": "https://www.npr.org/2026/07/26/nx-s1-5825798/robot-speaks-endangered-native-american-languages",
+      "summary": "Children are programming robots to speak endangered Native American languages, such as Anishinaabemowin, as a method of language preservation.",
+      "tags": [
+        "indigenous languages",
+        "robbotics",
+        "education"
+      ],
+      "priority": false
+    },
+    {
+      "id": "288091827b4b3fc4",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "One dead, several injured after vehicle plows through crowd at Berlin Pride event",
+      "url": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride",
+      "summary": "One person died and several were injured after a vehicle plowed through a crowd at a Berlin Pride event; Germany's interior minister described it as a likely \"Islamic terror attack,\" naming suspect Abdul Ballout.",
+      "tags": [
+        "berlin",
+        "attack",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1dcd5a14b8551209",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Rage-giving, innovation and cuts: How public media has survived without federal funds",
+      "url": "https://www.npr.org/2026/07/26/nx-s1-5884022/pbs-npr-public-radio-tv-funding-trump",
+      "summary": "A year after federal funding for public media ended, stations nationwide are undergoing reinvention and innovation amidst anxiety, highlighting their survival without government support.",
+      "tags": [
+        "media",
+        "public radio",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "aee7f892c6644a23",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Ruff v0.16.0",
+      "url": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything",
+      "summary": "Ruff Python linting tool's v0.16.0 update significantly increased default enabled rules from 59 to 413, revealing hundreds of minor issues in major projects and highlighting how AI coding agents can utilize the detailed output to fix identified problems.",
+      "tags": [
+        "python",
+        "development",
+        "tools"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3a9c97caa4a40f24",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Saturday discussion post",
+      "url": "https://www.slowboring.com/p/saturday-discussion-post-62d",
+      "summary": "The article notes the hot weather in D.C. and expresses a desire to be back on the West Coast, serving as a general discussion prompt rather than a substantive news item.",
+      "tags": [
+        "casual",
+        "opinion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2d7fa313d6b22fac",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
+      "url": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
+      "summary": "Elon Musk's tunneling startup, The Boring Company, is reportedly seeking a new funding round at a $20 billion valuation.",
+      "tags": [
+        "elon musk",
+        "startup",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7d1198d417b45169",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
+      "url": "https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/",
+      "summary": "Kalshi has demanded that Netflix remove the trailer for its \"Prediction Games\" documentary, alleging it contains defamatory, fabricated, and false statements.",
+      "tags": [
+        "legal",
+        "documentary",
+        "tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7ddb6d230b4c0085",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+      "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "summary": "Librarians nationwide are experiencing unprecedented demand for \"Avoiding AI\" workshops, catering to people frustrated with \"Big Tech.\"",
+      "tags": [
+        "ai",
+        "technology",
+        "education"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5f8c416467b09dd8",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "summary": "Monday.com is the latest tech company to announce layoffs, citing AI as a factor, joining a list of 20 other major tech firms that have made similar claims in 2026.",
+      "tags": [
+        "tech",
+        "layoffs",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "30a0209605f973f5",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The hacker who humiliated spyware makers and was never caught",
+      "url": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
+      "summary": "Phineas Fisher, an awe-inspiring hacktivist, is believed to be the most prolific hacker never caught, having successfully breached two controversial government spyware makers.",
+      "tags": [
+        "cybersecurity",
+        "hacker",
+        "activism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a290ca26cd232c62",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
+      "url": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
+      "summary": "Warner Bros. is suing Amazon, accusing the company of illegally poaching executives, which is expected to reignite debates about the enforceability of term employment agreements in California.",
+      "tags": [
+        "lawsuit",
+        "entertainment",
+        "tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5db76c9c1b86e9a3",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "How Two Souls Can Interact with One Another: Simone de Beauvoir on Love and Friendship",
+      "url": "https://www.themarginalian.org/2026/07/25/simone-de-beauvoir-love-friendship/",
+      "summary": "Simone de Beauvoir's early journal entries explore the nature of love and friendship, questioning traditional romantic ideals and emphasizing \"absolute reciprocity\" and \"identity of consciousness\" as the basis for ideal relationships.",
+      "tags": [
+        "philosophy",
+        "relationships",
+        "simone de beauvoir"
+      ],
+      "priority": false
+    },
+    {
+      "id": "696d4e248d53814d",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Google basically confirms the Pixel 11 is getting a price hike",
+      "url": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
+      "summary": "Google's VP of Devices and Services indicated the Pixel 11 will have a price hike due to ongoing RAM supply issues, similar to other tech companies responding to increased memory costs from AI data centers.",
+      "tags": [
+        "google",
+        "pixel",
+        "price hike"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5fce71fac04c81ff",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Marvel announces Ryan Gosling as Ghost Rider, a new Black Panther, and more",
+      "url": "https://www.theverge.com/entertainment/971071/marvel-ryan-gosling-ghost-rider-black-panther-comic-con",
+      "summary": "Marvel announced Ryan Gosling as Ghost Rider, a new Black Panther (T'Chala's son, played by David Jonsson) for Black Panther III in 2028, and showed an Avengers: Doomsday trailer at Comic-Con.",
+      "tags": [
+        "marvel",
+        "mcu",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "71a6160d96d28e06",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Synth historian Oli Freke will spend big on a good bicycle",
+      "url": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
+      "summary": "Musician and journalist Oli Freke, known for his work on synthesizers, has released \"Beat Gems,\" a visual history of drum machines from publisher Bjooks.",
+      "tags": [
+        "music",
+        "synthesizers",
+        "drum machines"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d7b89ad7d8cb4216",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Teenage Engineering’s unique music machines are 30 percent off",
+      "url": "https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale",
+      "summary": "Teenage Engineering's unique music devices, including synthesizers and loopers, are currently 30 percent off at various retailers like Guitar Center, Amazon, and B&H Photo.",
+      "tags": [
+        "music gear",
+        "electronics",
+        "sale"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e7c27cbf17319c78",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The vertical video takeover is here",
+      "url": "https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook",
+      "summary": "Vertical video is becoming dominant across social and media platforms, reshaping how content is consumed after years of platforms having distinct content identities.",
+      "tags": [
+        "vertical video",
+        "social media",
+        "tech trends"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 51,
+    "summarized": 42,
+    "skipped_promos": 0,
+    "filtered_by_rules": 9,
+    "sources": 9,
+    "email_items_omitted": 0
+  }
+}
