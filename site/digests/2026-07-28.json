@@ -1,0 +1,1252 @@
+{
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T16:03:00+00:00",
+  "hot_topics": [
+    {
+      "topic": "AI Infrastructure Faces Power Challenges Amid Expansion",
+      "synthesis": "The rapid expansion of AI infrastructure, including new data centers, is driving significant energy demand, prompting a major US grid operator to plan power cuts to prevent blackouts. Verizon is investing heavily in dark fiber deals to connect Google data centers and converting central offices into smaller AI-supporting facilities. Meanwhile, a $100 billion data center project in Utah faces local opposition over environmental concerns and lack of public input.",
+      "item_ids": [
+        "e705838e4370a139",
+        "7c26cc115499c1f0",
+        "4c5e7bf5d722dafd"
+      ]
+    },
+    {
+      "topic": "AI Writing Models Refuse Author Style Mimicry",
+      "synthesis": "OpenAI's ChatGPT now refuses direct requests to imitate the writing styles of famous authors, instead aiming to capture broad qualities while maintaining its own distinct voice. Despite ongoing skepticism and the emergence of AI detection tools, experts predict that as AI-generated writing improves, people will increasingly accept and even appreciate it, making it harder to distinguish from human work.",
+      "item_ids": [
+        "3f20a1171c2eef1d",
+        "69ea999f1097c9f6"
+      ]
+    },
+    {
+      "topic": "Open-Source AI Platforms Grapple with Deepfake Misuse",
+      "synthesis": "Hugging Face, a popular open-source AI model repository, is under scrutiny for failing to prevent its image editing models from creating nonconsensual sexualized deepfakes, particularly of women and children. This issue has reignited intense debate within the AI community regarding the critical need for better alignment and control mechanisms for increasingly capable AI systems, as many open-source models lack robust ethical guardrails.",
+      "item_ids": [
+        "42e09255d28c83a7",
+        "97c386d02a13ac7f"
+      ]
+    },
+    {
+      "topic": "X Launches New Financial Services Platform in the US",
+      "synthesis": "Elon Musk's \"X Money\" platform is rolling out in the US, offering a digital wallet, peer-to-peer payments similar to Venmo, and a metal Visa card. This financial service is a core component of Musk's vision to transform X into an \"everything app,\" with initial access for X Premium and Premium+ subscribers who can also benefit from boosted APY rates.",
+      "item_ids": [
+        "e9dd97bac13e32a9",
+        "eb2cab949fe137b1"
+      ]
+    },
+    {
+      "topic": "Apple Introduces New Leasing Program for Devices",
+      "synthesis": "Apple has officially launched its \"Apple Upgrade\" device leasing program in the US, in partnership with Klarna, making iPhones, Macs, iPads, and Apple Watches more accessible. This program allows users to lease devices with options to keep, pay off, or upgrade them early, addressing the rising prices of some Apple products.",
+      "item_ids": [
+        "9556489be67bddde",
+        "a1045986c9bf86a0"
+      ]
+    },
+    {
+      "topic": "AI Policy, Open-Weight Models & Geopolitical Competition",
+      "synthesis": "The release of open-weight AI models, such as Moonshot AI's Kimi K3 with its restrictive commercial license, is intensifying debates over AI policy and control. Anthropic's CEO, Dario Amodei, has weighed in, expressing concerns about China's growing AI capabilities while not opposing open-weight models outright. Discussions revolve around the risks and benefits of making powerful AI model weights publicly available.",
+      "item_ids": [
+        "eab0e336e5f3b89c",
+        "fb8875ea83c150c7",
+        "77f97565bb7827b0"
+      ]
+    },
+    {
+      "topic": "Major Earthquake Strikes Japan's Kyushu Island",
+      "synthesis": "A powerful 7.1 magnitude earthquake struck Japan's southern main island of Kyushu, causing significant damage and injuries. Reports indicate people were trapped in a collapsed shopping mall. Authorities are assessing the full extent of the disaster.",
+      "item_ids": [
+        "ac6133e695840cc4",
+        "38cb3b43dcde49cd",
+        "bb98fb00e9ade777"
+      ]
+    },
+    {
+      "topic": "US Military Munitions Shortage Amid Iran Conflict",
+      "synthesis": "The US has paused its war with Iran, facing questions about critically low munitions stockpiles after just five months of intermittent conflict. This shortage highlights a broader issue of military unpreparedness to deter or engage in a larger-scale war, such as with China. Experts suggest the crisis reveals that past war plans might have relied on unrealistic assumptions about conflict duration and resource needs.",
+      "item_ids": [
+        "cb59422e74066497",
+        "2b0f0e5f10b38ada",
+        "a049c4d230a30e6f"
+      ]
+    },
+    {
+      "topic": "Trump Holds Separate High-Stakes Meetings with Zelenskyy and Netanyahu",
+      "synthesis": "President Trump is set to hold separate high-stakes meetings with Ukrainian leader Volodymyr Zelenskyy and Israeli Prime Minister Benjamin Netanyahu in Washington. The meetings come amidst signs of friction between Trump and Netanyahu, who both face domestic pressures, including an unpopular war for Trump and re-election challenges for Netanyahu. Discussions will likely focus on their respective regional conflicts.",
+      "item_ids": [
+        "bb22a634e9d9939e",
+        "7c9bb1d2d5e5f0f1",
+        "8e95811168692e6e",
+        "28ea9d4e96a2ed35"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "838c3a01cb909b16",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "The light narrows",
+      "url": "https://aeon.co/essays/what-kind-of-strength-did-i-chase-with-a-cojones-cheat-code",
+      "summary": "The author describes how his father's death led him to jiu-jitsu, followed by experiences of defeat, low testosterone, and the temptation of performance-enhancing chemicals.",
+      "tags": [
+        "personal essay",
+        "health",
+        "jiu-jitsu"
+      ],
+      "priority": false
+    },
+    {
+      "id": "41f30be78b137469",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "5th Circuit blocks Texas law requiring websites to filter \"harmful\" speech",
+      "url": "https://arstechnica.com/tech-policy/2026/07/5th-circuit-blocks-texas-law-requiring-websites-to-filter-harmful-speech/",
+      "summary": "The 5th Circuit Court of Appeals blocked a Texas law requiring websites to filter \"harmful\" speech for minors, ruling that the monitoring and filtering requirement is preempted by Section 230 of the federal Communications Decency Act. Tech lobby groups successfully challenged portions of the SCOPE Act.",
+      "tags": [
+        "free speech",
+        "tech policy",
+        "law"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8ad15af5a83899ed",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "A missing underscore sent innocent man to prison for 18 months",
+      "url": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
+      "summary": "A single missing underscore in a username led to an innocent Nova Scotia man being imprisoned for 18 months during a 2018 child-luring investigation. Police mistakenly requested records for \"fus_ro_dah\" instead of the perpetrator's \"fus__ro_dah.\"",
+      "tags": [
+        "law enforcement",
+        "error",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b0984c9ee58428cf",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "As US measles cases rise, biotech firms start developing new treatments",
+      "url": "https://arstechnica.com/health/2026/07/as-us-measles-cases-rise-biotech-firms-start-developing-new-treatments/",
+      "summary": "As US measles cases reach a 35-year high due to declining vaccination rates, biotech firms and academic groups are developing new treatments and short-term protections for infected or vulnerable individuals. However, these countermeasures are years away from availability and their acceptance by vaccine-refusers is uncertain.",
+      "tags": [
+        "measles",
+        "health",
+        "biotech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3f20a1171c2eef1d",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "ChatGPT starts blocking direct requests to copy an author's style",
+      "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+      "summary": "OpenAI's ChatGPT is now refusing direct requests to generate text in the exact style of famous authors, instead offering responses that capture broad qualities while maintaining its own distinct voice. This behavior applies to both living and deceased authors, contrasting with earlier findings.",
+      "tags": [
+        "ai",
+        "chatgpt",
+        "language models"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e705838e4370a139",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
+      "url": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
+      "summary": "Verizon announced a $1 billion deal to connect Google data centers using its dark fiber routes and is converting central offices into small data centers for AI inference workloads. This is part of a new \"AI Connect\" initiative, with Verizon anticipating additional multi-billion dollar AI-related deals.",
+      "tags": [
+        "ai",
+        "data centers",
+        "telecom"
+      ],
+      "priority": false
+    },
+    {
+      "id": "320266958dce6176",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
+      "url": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
+      "summary": "Google lost a court case against web scraper SerpApi but intends to continue its fight to block AI bots from scraping its search results, citing copyright protection and potential disruption to relationships with rights holders. SerpApi was accused of circumventing anti-scraping technology and selling scraped content.",
+      "tags": [
+        "ai",
+        "web scraping",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6aa96e169c7d26eb",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+      "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Families in Seattle paid tribute to the three victims killed in a shooting at a food festival, expressing their grief.",
+      "tags": [
+        "shooting",
+        "crime",
+        "seattle"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8c2affe50d120d2d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'A narcissist': Victim's family hits out at Kohberger for challenging murder conviction",
+      "url": "https://www.bbc.co.uk/news/articles/cgewg57rq2ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The family of a victim criticized Bryan Kohberger, accused of killing four Idaho students, for challenging his murder conviction after initially entering a plea to avoid the death penalty.",
+      "tags": [
+        "crime",
+        "legal",
+        "murder"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2dc618ddd2f32988",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'It's a hell of a situation': Spain grapples with devastating wildfires",
+      "url": "https://www.bbc.co.uk/news/articles/c235m71mrreo?at_medium=RSS&at_campaign=rss",
+      "summary": "Spain is facing devastating wildfires, with particular concerns over three fires in the Madrid region and a new heatwave expected to exacerbate the situation from Wednesday.",
+      "tags": [
+        "wildfires",
+        "spain",
+        "climate"
+      ],
+      "priority": false
+    },
+    {
+      "id": "449b87a85b717492",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ariana Grande sues hackers who leaked music and videos",
+      "url": "https://www.bbc.co.uk/news/articles/c1l1de9gjj6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pop star Ariana Grande is suing to uncover the identities of hackers who leaked unreleased music and videos, seeking legal recourse for the breach of privacy.",
+      "tags": [
+        "music",
+        "cybercrime",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cb59422e74066497",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "As the US pauses the war with Iran, is Trump really running out of weapons?",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvnk2ezp7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US has paused its war with Iran after firing thousands of hard-to-replace missiles, raising questions about whether its \"arsenal of freedom\" is running dangerously low.",
+      "tags": [
+        "military",
+        "defense",
+        "iran"
+      ],
+      "priority": false
+    },
+    {
+      "id": "681b37c962f74c59",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "BBC outside court as judge rules singer D4vd will face murder trial",
+      "url": "https://www.bbc.co.uk/news/videos/cy745x171rjo?at_medium=RSS&at_campaign=rss",
+      "summary": "A judge has ruled that singer D4vd will face trial for the murder of 14-year-old Celeste Rivas Hernandez, whose body was found in his Tesla trunk.",
+      "tags": [
+        "crime",
+        "legal",
+        "music"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a65edbab820ac66d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "China's new challenge as natural disasters strike - fake AI videos",
+      "url": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss",
+      "summary": "China is facing a new challenge as fake AI-generated videos depicting storms and flooding are inundating social media, complicating responses to natural disasters.",
+      "tags": [
+        "ai",
+        "disinformation",
+        "china"
+      ],
+      "priority": false
+    },
+    {
+      "id": "94d84a0c187e0c35",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Confronting gang members at the heart of Ecuador's drug battle",
+      "url": "https://www.bbc.co.uk/news/videos/c1l1d429m8eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC interviewed a gang leader in Ecuador, gaining insight into the violence, drug trade, and infiltration of police that characterize the country's drug battle.",
+      "tags": [
+        "drug trade",
+        "ecuador",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5d92515e2e8d42d6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "European wildfires in maps - and how they're being tackled",
+      "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
+      "summary": "Wildfires across Europe, including a massive blaze near Bordeaux and the worst fires ever in the Madrid region, are being mapped to show their scale and ongoing containment efforts.",
+      "tags": [
+        "wildfires",
+        "europe",
+        "climate"
+      ],
+      "priority": false
+    },
+    {
+      "id": "88c6ec81e7b3a1a6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "French Navy carries out 'shooting drill' mid interview",
+      "url": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss",
+      "summary": "The French Navy conducted a shooting drill mid-interview with Shadow Home Secretary Chris Philp, who reported that the vessel fired 17 shots.",
+      "tags": [
+        "navy",
+        "france",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bcdf2c78af19cbdd",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Gironde wildfires pick up as French region braces for new 40C heatwave",
+      "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
+      "summary": "Firefighters in France's Gironde region are preparing for a sharp rise in temperatures, which is expected to complicate efforts to contain ongoing wildfires.",
+      "tags": [
+        "wildfires",
+        "france",
+        "climate"
+      ],
+      "priority": false
+    },
+    {
+      "id": "60b1bf366d4695ee",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Hong Kong activist allowed to stay in UK after deportation threat",
+      "url": "https://www.bbc.co.uk/news/articles/cpd74e0yy12o?at_medium=RSS&at_campaign=rss",
+      "summary": "A Hong Kong activist, Wu, was allowed to stay in the UK after being detained for hours at London's Heathrow Airport and initially refused entry.",
+      "tags": [
+        "immigration",
+        "human rights",
+        "uk"
+      ],
+      "priority": false
+    },
+    {
+      "id": "38cb3b43dcde49cd",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Japan earthquake: What we know so far",
+      "url": "https://www.bbc.co.uk/news/articles/cgewgxlpj3po?at_medium=RSS&at_campaign=rss",
+      "summary": "A major 7.1 magnitude earthquake hit Japan's Kyushu island, causing damage and injuries. The article summarizes the known information about the disaster.",
+      "tags": [
+        "earthquake",
+        "japan",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bd54855970ef983b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
+      "url": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Johnson & Johnson has offered up to $5.5 billion to settle thousands of lawsuits claiming its talc products cause cancer, aiming to conclude a years-long legal battle.",
+      "tags": [
+        "legal",
+        "health",
+        "class action"
+      ],
+      "priority": false
+    },
+    {
+      "id": "96f7be046cab2c1d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Mancini reappointed Italy boss after Pirlo controversy",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0ly412r412o?at_medium=RSS&at_campaign=rss",
+      "summary": "Roberto Mancini has been reappointed as Italy's football manager for a second time, a day after Andrea Pirlo ruled himself out and Paolo Maldini resigned as technical director.",
+      "tags": [
+        "football",
+        "italy",
+        "sports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "39dafa52d174c735",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Number of suspects in fatal Seattle food festival shooting rises to three",
+      "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The number of suspects in the fatal Seattle food festival shooting has increased to three, with one in custody, a second sought, and a third believed to have died at the scene.",
+      "tags": [
+        "shooting",
+        "crime",
+        "seattle"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d19ca6ab8dfb3264",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Odyssey translator writes scathing review of Nolan film adaptation",
+      "url": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
+      "summary": "A translator of Homer's \"Odyssey\" wrote a scathing review of Christopher Nolan's film adaptation, despite the movie receiving rave reviews from other film critics.",
+      "tags": [
+        "film",
+        "literature",
+        "review"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4be7ea2f338d945e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Shots fired at US consulate in Toronto for a second time this year",
+      "url": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Shots were fired at the US consulate in Toronto for the second time this year, leading to a police chase but no arrest of the suspect. Three people were arrested in a similar previous attack.",
+      "tags": [
+        "diplomacy",
+        "crime",
+        "canada"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9cb45d98acc4cec0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
+      "url": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC reports on Ecuador's police grappling with a huge surge in drug crime, highlighting the country's role as a \"cocaine superhighway\" to Europe.",
+      "tags": [
+        "drug trade",
+        "ecuador",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5b79a2c2491a24a5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Uefa reacts with fury to Infantino World Cup plan",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
+      "summary": "European football's governing body, Uefa, reacted furiously to Fifa's proposals to seek private investment in its competitions, including the World Cup.",
+      "tags": [
+        "football",
+        "fifa",
+        "sports business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "160f3051acc1385b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
+      "url": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
+      "summary": "US singer D4vd is set to go on trial for the murder of a 14-year-old whose remains were found in a Tesla registered to his address.",
+      "tags": [
+        "crime",
+        "legal",
+        "music"
+      ],
+      "priority": false
+    },
+    {
+      "id": "28ea9d4e96a2ed35",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What to expect from Zelensky and Netanyahu's visit to Washington",
+      "url": "https://www.bbc.co.uk/news/videos/cd0xlnz2yk1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukrainian leader Volodymyr Zelenskyy and Israeli Prime Minister Benjamin Netanyahu are visiting Washington for Senator Lindsay Graham's funeral, with separate White House meetings planned to discuss their respective regional conflicts.",
+      "tags": [
+        "us politics",
+        "diplomacy",
+        "ukraine"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8e95811168692e6e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why Netanyahu's visit with Trump at the White House is high-stakes",
+      "url": "https://www.bbc.co.uk/news/videos/c98v94dmmz0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Benjamin Netanyahu's White House visit with Donald Trump is high-stakes due to signs of friction between the two leaders and decreasing public support for Israel in the US.",
+      "tags": [
+        "us politics",
+        "israel",
+        "diplomacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2a5192a50de59401",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Zidane confirmed as France head coach",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Zinedine Zidane, former Real Madrid manager, has been confirmed as the new head coach of the France national football team.",
+      "tags": [
+        "football",
+        "france",
+        "sports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e676682854f9a59d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Zoo staff rescue near-extinct snails from remote rock",
+      "url": "https://www.bbc.co.uk/news/articles/cwyq7e5d1gko?at_medium=RSS&at_campaign=rss",
+      "summary": "Conservationists rescued just 21 near-extinct Madeiran land snails clinging to a rock on Portugal's Bugio Island, bringing them to a zoo for protection.",
+      "tags": [
+        "conservation",
+        "wildlife",
+        "environment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ac6133e695840cc4",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "7.1 Earthquake in Japan",
+      "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+      "summary": "A 7.1 magnitude earthquake struck Japan, with details available from the Japan Meteorological Agency.",
+      "tags": [
+        "earthquake",
+        "japan",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "71d9f946477dc11d",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+      "url": "https://fermisense.com/when-machines-take-the-wheel/",
+      "summary": "A $500 reinforcement learning fine-tune of a 9B open model surprisingly outperformed frontier models on catalog review tasks. This demonstrates that cost-effective fine-tuning can achieve impressive results on specific benchmarks.",
+      "tags": [
+        "ai",
+        "machine learning",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c45ed2dd7fa44590",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Benchmarking Opus 5 on SlopCodeBench",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+      "summary": "Benchmarking results for Opus 5 on SlopCodeBench have been published, providing insights into the performance of this model for coding agents.",
+      "tags": [
+        "ai",
+        "benchmarking",
+        "coding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d6fee01ac82202e1",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "New HIV vaccine shows unprecedented success in preclinical study",
+      "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
+      "summary": "A new HIV vaccine has demonstrated unprecedented success in a preclinical study, offering significant progress in the ongoing efforts to combat the virus.",
+      "tags": [
+        "health",
+        "vaccines",
+        "hiv"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fb8875ea83c150c7",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Our position on open-weights models",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "summary": "Anthropic has released its official position on open-weight AI models, contributing to the ongoing discussion within the AI community regarding the risks and benefits of making model weights publicly available.",
+      "tags": [
+        "ai",
+        "policy",
+        "open models"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ddb9514e039b2e64",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Vehicle Motion Cues",
+      "url": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
+      "summary": "Apple support provides information on \"Vehicle Motion Cues,\" a feature designed to enhance comfort for iPhone users while riding in a vehicle.",
+      "tags": [
+        "apple",
+        "iphone",
+        "accessibility"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c7a3bfe04a77e058",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+      "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+      "summary": "Samsung's chip workers are moving to rival SK Hynix, driven by significantly larger bonuses at SK Hynix resulting from record profits in high-bandwidth memory (HBM) chips for AI. This talent war threatens Samsung's position in the HBM market, especially as SK Hynix actively recruits Samsung engineers.",
+      "tags": [
+        "semiconductors",
+        "ai",
+        "labor"
+      ],
+      "priority": false
+    },
+    {
+      "id": "faab12a8f2b5fdf1",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "'Ricochet' explores how the right to bear arms expands -- while gun laws contract",
+      "url": "https://www.npr.org/2026/07/28/nx-s1-5910517/ricochet-explores-how-the-right-to-bear-arms-expands-while-gun-laws-contract",
+      "summary": "Reporter Mike McIntire's book \"Ricochet\" examines how gun companies and the NRA are expanding the scope of the Second Amendment, influencing youth, and promoting a new brand of masculinity related to guns.",
+      "tags": [
+        "gun control",
+        "politics",
+        "society"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bb98fb00e9ade777",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "A 7.1 quake hits Japan's Kyushu, trapping people in a collapsed shopping mall",
+      "url": "https://www.npr.org/2026/07/28/nx-s1-5910498/japan-earthquake",
+      "summary": "A 7.1 magnitude earthquake struck Japan's southern main island of Kyushu, causing damage, injuries, and trapping people in a collapsed shopping mall.",
+      "tags": [
+        "earthquake",
+        "japan",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e9493360f3815d5f",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "AI tokens could become the kilowatt-hour of the AI age",
+      "url": "https://www.npr.org/sections/planet-money/2026/07/28/g-s1-135475/ai-tokens-could-become-the-kilowatt-hour-of-the-ai-age",
+      "summary": "AI companies use \"tokens\" to track usage and bill customers for AI services, and economists are now employing these tokens to monitor the spread of AI through the economy, suggesting they could become a fundamental metric like the kilowatt-hour.",
+      "tags": [
+        "ai",
+        "economics",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "564b47c477cacf94",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Amid U.S. funding cuts, the International AIDS Conference faces an uncertain future",
+      "url": "https://www.npr.org/2026/07/28/nx-s1-5909368/international-aids-conference-hiv",
+      "summary": "The International AIDS Conference faces an uncertain future due to US funding cuts, despite significant scientific advances in combating HIV. Dr. Kenneth Ngure notes that these cuts are hindering progress.",
+      "tags": [
+        "health",
+        "hiv",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "17b6741cb561b95f",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Here are the 13 books that made the Booker Prize longlist",
+      "url": "https://www.npr.org/2026/07/28/nx-s1-5874638/2026-booker-prize-longlist-fiction",
+      "summary": "The 2026 Booker Prize longlist features 13 books, including new works from established authors like Douglas Stuart, Marlon James, and Elizabeth Strout, alongside several debut authors.",
+      "tags": [
+        "literature",
+        "booker prize",
+        "awards"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7c9bb1d2d5e5f0f1",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Netanyahu to meet Trump in a first encounter since the Iran war began",
+      "url": "https://www.npr.org/2026/07/28/g-s1-135833/trump-netanyahu-iran-war",
+      "summary": "Israeli Prime Minister Netanyahu is set to meet President Trump for the first time since the Iran war began, a high-pressure encounter for both leaders facing domestic challenges and an unpopular war.",
+      "tags": [
+        "us politics",
+        "israel",
+        "iran"
+      ],
+      "priority": false
+    },
+    {
+      "id": "07df5a8eb936f7b9",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump shattered ethics norms. Will voters trust Democrats to fix them?",
+      "url": "https://www.npr.org/2026/07/28/nx-s1-5869808/family-trump-profit-corruption-voters-ethics-democrats",
+      "summary": "Democrats are advocating for anti-corruption reforms to address perceived ethical breaches by Donald Trump and overhaul a political system that voters believe is co-opted against their interests.",
+      "tags": [
+        "us politics",
+        "ethics",
+        "corruption"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bb22a634e9d9939e",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump to meet with Zelenskyy, Netanyahu. And, TPS holders could soon face deportation",
+      "url": "https://www.npr.org/2026/07/28/g-s1-135845/up-first-newsletter-trump-zelenskyy-netanyahu-lindsey-graham-tps-political-corruption",
+      "summary": "President Trump is scheduled to hold separate meetings today with Ukrainian leader Volodymyr Zelenskyy and Israeli Prime Minister Benjamin Netanyahu, while Temporary Protected Status (TPS) holders may soon face deportation.",
+      "tags": [
+        "us politics",
+        "diplomacy",
+        "ukraine"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6a7eafef4480da4c",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Yes, it's possible to save money while paying off credit card debt. Here's how",
+      "url": "https://www.npr.org/2026/07/28/nx-s1-5866642/yes-its-possible-to-save-money-while-paying-off-credit-card-debt-heres-how",
+      "summary": "Financial experts recommend simultaneously saving money while paying off credit card debt to avoid a \"hamster wheel\" of debt, offering strategies to allocate funds effectively in a budget.",
+      "tags": [
+        "personal finance",
+        "debt",
+        "savings"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d0bf8ef498935183",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "‘I've never lost:’ Rahm Emanuel makes his case for the White House",
+      "url": "https://www.politico.com/video/2026/07/27/ive-never-lost-rahm-emanuel-makes-his-case-for-the-white-house-2123533",
+      "summary": "Rahm Emanuel is making his case for the White House, asserting his track record by stating, \"I've never lost.\"",
+      "tags": [
+        "us politics",
+        "elections",
+        "campaign"
+      ],
+      "priority": false
+    },
+    {
+      "id": "659b7d7ca25b893b",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "An opinionated guide to which AI to use to do stuff",
+      "url": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything",
+      "summary": "Ethan Mollick's updated guide to AI usage now emphasizes \"agentic systems\" capable of extensive human-like work, noting a shift away from pure chat models and highlighting the confusing naming conventions for AI app modes. The guide also reveals that ChatGPT Work on mobile can access the internet, unlike its Code Interpreter container.",
+      "tags": [
+        "ai",
+        "generative ai",
+        "llms"
+      ],
+      "priority": false
+    },
+    {
+      "id": "77f97565bb7827b0",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "moonshotai/Kimi-K3",
+      "url": "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything",
+      "summary": "Moonshot AI has released the 2.8 trillion parameter Kimi K3 model weights, which come with a new \"open weight\" license requiring separate agreements for large \"Model as a Service\" businesses exceeding $20 million in annual revenue.",
+      "tags": [
+        "ai",
+        "open models",
+        "licensing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b68f607f4f8726dd",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "A great idea that everyone hates",
+      "url": "https://www.slowboring.com/p/a-great-idea-that-everyone-hates",
+      "summary": "Charging household electricity users spot prices, while politically unpopular, is proposed as a straightforward solution to meaningfully impact electricity prices and incentivize new investment. This contrasts with current annualized average pricing which masks real-time fluctuations and higher overall costs.",
+      "tags": [
+        "energy",
+        "economics",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "92c3f7d44568fc1d",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "The midterms, 100 days out",
+      "url": "https://www.slowboring.com/p/the-midterms-100-days-out",
+      "summary": "With fewer than 100 days until Election Day, both Democratic and Republican parties face challenges, including a cash-poor DNC and an unmotivated GOP base, as they navigate primary season and work to keep candidates on course.",
+      "tags": [
+        "us politics",
+        "elections",
+        "midterms"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e41f499e2077c49d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Antares raises $470M to build nuclear reactors for the US military",
+      "url": "https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/",
+      "summary": "Antares has raised $470 million to develop small modular nuclear reactors, ranging from 100 kW to 1 MW, specifically for deployment at U.S. Air Force bases. This funding aims to provide advanced energy solutions for military infrastructure.",
+      "tags": [
+        "nuclear energy",
+        "military",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "eab0e336e5f3b89c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "summary": "Anthropic CEO Dario Amodei has clarified his stance on open-weight AI models, stating he doesn't oppose them but expresses concerns about China's growing AI capabilities. This reflects ongoing debates about AI development and international competition.",
+      "tags": [
+        "ai",
+        "anthropic",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a1045986c9bf86a0",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apple launches ‘Upgrade’ device leasing program in partnership with Klarna",
+      "url": "https://techcrunch.com/2026/07/28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klarna/",
+      "summary": "Apple has launched its \"Upgrade\" device leasing program in the US, in partnership with Klarna, offering monthly prices for iPhones, Apple Watches, Macs, and iPads. This initiative aims to make Apple devices more accessible to consumers.",
+      "tags": [
+        "apple",
+        "leasing",
+        "consumer finance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a43b70174bd7a6a9",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apple sued after alleged App Store crypto scam cost users $1.8M",
+      "url": "https://techcrunch.com/2026/07/27/apple-sued-after-alleged-app-store-crypto-scam-cost-users-1-8m/",
+      "summary": "Apple is facing a lawsuit from three users who lost over $1.8 million to a fraudulent crypto wallet app downloaded from the App Store, challenging Apple's claims about its app review process ensuring user safety.",
+      "tags": [
+        "apple",
+        "app store",
+        "scam"
+      ],
+      "priority": false
+    },
+    {
+      "id": "13a8c02628f77556",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "As rivals chase acquisitions, Peacock bets on bundles through a new deal with YouTube",
+      "url": "https://techcrunch.com/2026/07/27/as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-a-new-deal-with-youtube/",
+      "summary": "Peacock is focusing on content bundles, signing a new deal with YouTube to integrate its content into the YouTube experience, allowing viewers to discover and watch Peacock content directly within the platform.",
+      "tags": [
+        "streaming",
+        "media",
+        "youtube"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7c26cc115499c1f0",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
+      "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
+      "summary": "The largest US grid operator plans to implement temporary power cuts to large data centers starting next year to prevent blackouts. This measure addresses increasing energy demands from data centers, particularly those supporting AI workloads.",
+      "tags": [
+        "data centers",
+        "energy",
+        "infrastructure"
+      ],
+      "priority": false
+    },
+    {
+      "id": "eb2cab949fe137b1",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Elon Musk’s X Money app is rolling out in the U.S.",
+      "url": "https://techcrunch.com/2026/07/28/elon-musks-x-money-app-is-rolling-out-in-the-u-s/",
+      "summary": "Elon Musk's X Money app, a payment platform, is rolling out in the U.S. and is currently available to X Premium and Premium+ subscribers. This expands X's features as Musk aims to transform it into an \"everything app.\"",
+      "tags": [
+        "x corp",
+        "fintech",
+        "payments"
+      ],
+      "priority": false
+    },
+    {
+      "id": "59301363272a890c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+      "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "summary": "Fish Audio has raised a $52 million seed round to develop AI voice models for creators and enterprises, having already gained over 8 million users and generating $21 million in annual recurring revenue since its launch last year.",
+      "tags": [
+        "ai",
+        "startups",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "50cc950baf8460f7",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Granola launches an Apple Watch app",
+      "url": "https://techcrunch.com/2026/07/28/granola-launches-an-apple-watch-app/",
+      "summary": "Granola has launched an Apple Watch app designed for in-person notetaking, expanding its utility for users seeking convenience and quick information capture.",
+      "tags": [
+        "apple watch",
+        "apps",
+        "productivity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ba383570898207c6",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Lyft and Baidu enter London’s robotaxi battleground as testing begins",
+      "url": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/",
+      "summary": "Lyft and Baidu are introducing their robotaxi services to London, with Baidu's Apollo Go autonomous vehicles becoming available through the Freenow mobility network, which Lyft acquired in 2025. This marks an expansion of autonomous vehicle testing into a major European city.",
+      "tags": [
+        "autonomous vehicles",
+        "robotaxi",
+        "london"
+      ],
+      "priority": false
+    },
+    {
+      "id": "97c386d02a13ac7f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+      "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+      "summary": "An \"OpenAI's Hugging Face breach\" has intensified the debate over AI alignment and control, raising questions about whether increasingly capable AI systems need better alignment, containment, or both.",
+      "tags": [
+        "ai",
+        "ethics",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8b6e5dad405e9d43",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "PayPal leaves the door open to a higher takeover offer following earnings beat",
+      "url": "https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/",
+      "summary": "Following better-than-expected Q2 results, PayPal indicated it is open to a higher takeover offer if it creates more value for shareholders, while remaining focused on its AI-driven turnaround strategy.",
+      "tags": [
+        "paypal",
+        "finance",
+        "acquisitions"
+      ],
+      "priority": false
+    },
+    {
+      "id": "142202099c5028ff",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "summary": "Users' shared Claude chats and Artifacts may have inadvertently ended up on Google, reportedly due to an issue with Claude's \"share chat\" feature which creates publicly accessible URLs.",
+      "tags": [
+        "ai",
+        "privacy",
+        "data leak"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bbeb9826a5b5dc39",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Recursive Superintelligence signs $410 million compute deal with Amazon",
+      "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+      "summary": "Recursive Superintelligence has signed a $410 million compute deal with Amazon, which represents the majority of the company's total fundraising to date. This substantial agreement highlights the high demand for computing resources in advanced AI development.",
+      "tags": [
+        "ai",
+        "cloud computing",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "609672d086ffa6d3",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+      "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "summary": "Microsoft CEO Satya Nadella cautions that companies relying solely on one AI model for everything may not survive, emphasizing the importance of having proprietary models or AI gateways to separate prompts from the core model.",
+      "tags": [
+        "ai",
+        "business strategy",
+        "microsoft"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4c326fee045c781f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
+      "url": "https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/",
+      "summary": "Fusion power startup Thea Energy received a $20 million federal grant from ARPA-E to scale the production of its high-temperature superconducting magnets, essential components for fusion reactors.",
+      "tags": [
+        "energy",
+        "fusion",
+        "clean tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e688a71e48515c7b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "WhatsApp now lets you make calls using its web app",
+      "url": "https://techcrunch.com/2026/07/28/whatsapp-now-lets-you-make-calls-using-its-web-app/",
+      "summary": "WhatsApp has enabled calling features, including screen-sharing and reactions, on its web application, bringing its functionality closer to its smartphone and desktop apps.",
+      "tags": [
+        "whatsapp",
+        "messaging",
+        "web app"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4c5e7bf5d722dafd",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "A Peace Plan for the Data Center Wars",
+      "url": "https://www.thefp.com/p/how-to-build-a-data-center-joe-nocera",
+      "summary": "A proposed $100 billion data center project in Box Elder County, Utah, is facing opposition despite its remote location, use of recycled water, and tax contributions, primarily due to concerns about environmental impact and lack of public consultation. The project highlights growing conflicts over data center development.",
+      "tags": [
+        "data centers",
+        "environment",
+        "local politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a049c4d230a30e6f",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "America’s Munitions Mess Is Even Worse Than You Think",
+      "url": "https://www.thefp.com/p/our-munitions-mess-is-even-worse",
+      "summary": "The US military is facing severe munitions shortages after only five months of intermittent warfare with Iran, revealing an unpreparedness to deter or fight a larger conflict with China. This crisis suggests that prior war plans were based on unrealistic assumptions about the length and intensity of engagements.",
+      "tags": [
+        "military",
+        "defense",
+        "iran"
+      ],
+      "priority": false
+    },
+    {
+      "id": "32c4082543a3d6aa",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Douglas Murray: Europe Spins Another Islamist Attack",
+      "url": "https://www.thefp.com/p/douglas-murray-europe-spins-another-islamist-attack",
+      "summary": "Douglas Murray criticizes media reporting on Islamist attacks in Europe, specifically a Berlin Pride parade incident, for downplaying the perpetrator's motivations and referring to the vehicle as if it acted independently. He highlights the repetitive nature of these events and the perpetrator's history of radicalization.",
+      "tags": [
+        "terrorism",
+        "media bias",
+        "europe"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2c8a192bf56dd45c",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "How to Make a Racist a Free-Speech Martyr",
+      "url": "https://www.thefp.com/p/how-to-make-a-racist-a-free-speech-martyr",
+      "summary": "Prosecutors in Rochester, Minnesota, have turned a woman who used a racial slur against a Black child and a man into a free-speech martyr by charging her with misdemeanor disorderly conduct. This legal action, following public outcry and far-right crowdfunding, has amplified the woman's platform.",
+      "tags": [
+        "free speech",
+        "racism",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2b0f0e5f10b38ada",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Dangerous Pause in Iran, with Mark Montgomery",
+      "url": "https://www.thefp.com/p/the-dangerous-pause-in-iran-with-mark-montgomery",
+      "summary": "Mark Montgomery analyzes the dangerous and uncertain phase of the Iran war, discussing the role of the Strait of Hormuz and military developments.",
+      "tags": [
+        "iran",
+        "military",
+        "foreign policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6a9a7c6abb7dba5e",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "This Week in Canada: There Are No Winners in a Trade War",
+      "url": "https://www.thefp.com/p/this-week-in-canada-trade-war",
+      "summary": "Welcome back to This Week in Canada, where we insist that everyone else makes trade concessions—just as long as we don’t have to; the protection of dairy cartels is called patriotism; and bourbon is causing an international incident. Let’s jump in!\nIf you’ve lost track of where C…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "69ea999f1097c9f6",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Tyler Cowen: You’ll Learn to Love AI Writing",
+      "url": "https://www.thefp.com/p/tyler-cowen-youll-learn-to-love-ai-writing",
+      "summary": "Tyler Cowen predicts that people will learn to appreciate AI-generated writing as it improves, despite current skepticism and tools like Substack's Scan for AI. He anticipates AI writing will become more indistinguishable from human writing and overcome its current clichés.",
+      "tags": [
+        "ai",
+        "writing",
+        "content"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3de8737ffc28227c",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Welcome to Secular Sharia",
+      "url": "https://www.thefp.com/p/welcome-to-secular-sharia",
+      "summary": "A TikToker's video exposing a kissing couple in Central Park went viral, leading to the public identification of a married law firm partner and an associate, sparking a workplace scandal.",
+      "tags": [
+        "social media",
+        "privacy",
+        "scandal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9556489be67bddde",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Apple launches ‘Upgrade’ program to lease new devices",
+      "url": "https://www.theverge.com/tech/971220/apple-upgrade-program-iphone-mac-ipad-lease-launch",
+      "summary": "Apple has launched \"Apple Upgrade,\" a new leasing program in the US for iPhones, Macs, iPads, and Apple Watches, allowing users to keep, pay off, or upgrade devices. This program aims to make new devices more accessible following recent price hikes on some Apple products.",
+      "tags": [
+        "apple",
+        "leasing",
+        "consumer finance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42e09255d28c83a7",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Hugging Face is being used to easily undress women and children",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+      "summary": "A report by AI Forensics reveals that Hugging Face, an open-source AI model repository, is doing little to prevent its hosted image editing models from creating nonconsensual sexualized deepfakes of women and children. Unlike mainstream AI models, these models lack sufficient guardrails against such prompts.",
+      "tags": [
+        "ai",
+        "ethics",
+        "deepfake"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ad0558d0611bf492",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Smart rings are looking like my kind of AI gadget",
+      "url": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+      "summary": "The author finds smart rings appealing as AI gadgets, noting the significant improvements in dictation technology that allow for efficient speech-to-text for emails and messages. While current AI dictation has minor quirks, its usefulness for quick communication is highlighted.",
+      "tags": [
+        "ai",
+        "smart rings",
+        "gadgets"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e9dd97bac13e32a9",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "X Money is launching in the US starting today",
+      "url": "https://www.theverge.com/tech/971649/x-money-launch-elon-musk",
+      "summary": "X Money, a payment platform and digital wallet, is rolling out in the US, offering peer-to-peer payments, a metal Visa card, Apple Wallet support, and free money transfers. Premium Plus subscribers are eligible for a 6 percent APY, a core part of Elon Musk's vision for X as an \"everything app.\"",
+      "tags": [
+        "x corp",
+        "fintech",
+        "payments"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f2468b6b0907f244",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "You don’t need to splurge on an expensive handheld fan to beat the heat",
+      "url": "https://www.theverge.com/tech/970092/jisulife-10s-handheld-personal-fan",
+      "summary": "Affordable JisuLife handheld fans are recommended over expensive alternatives like Dyson's HushJet Mini Cool or Shark's ChillPill, offering long battery life and tolerable noise levels for effective personal cooling. Despite basic features, the JisuLife Life10 S outperformed pricier models in practical use.",
+      "tags": [
+        "consumer tech",
+        "review",
+        "gadgets"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 109,
+    "summarized": 83,
+    "skipped_promos": 0,
+    "filtered_by_rules": 26,
+    "sources": 12,
+    "email_items_omitted": 0
+  }
+}
