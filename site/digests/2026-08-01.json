@@ -1,0 +1,1128 @@
+{
+  "date": "2026-08-01",
+  "generated_at": "2026-08-01T14:54:19+00:00",
+  "hot_topics": [
+    {
+      "topic": "Google Earth's AI Image Generation Feature Retracted",
+      "synthesis": "Google briefly launched and then swiftly retracted an AI tool within Google Earth that allowed users to generate modified satellite imagery based on text prompts. The feature was pulled after just one day due to widespread criticism and concerns over its potential to create 'deepfakes' and spread misinformation. This highlights challenges in integrating generative AI with real-world mapping data and the immediate ethical backlash when such tools enable disinformation.",
+      "item_ids": [
+        "cae220507b44cc38",
+        "166639b8d0bc8ae0",
+        "a392c2468f7a0440"
+      ]
+    },
+    {
+      "topic": "FIFA President Gianni Infantino Faces Leadership Crisis",
+      "synthesis": "FIFA President Gianni Infantino is facing a crisis of confidence from UEFA and widespread scrutiny following his decision to abandon controversial plans to sell stakes in the World Cup. European football's governing body has openly stated Infantino 'failed to deliver' on promises, leading to speculation about his future and potential successors. This reversal of a significant investment proposal has put his leadership in a precarious position.",
+      "item_ids": [
+        "5fc240d7f0a190ce",
+        "0ad6c55e7e4ffac7",
+        "15fbb625fe32efa4"
+      ]
+    },
+    {
+      "topic": "Humanitarian Crisis in Spain's Ceuta Enclave",
+      "synthesis": "A mass migration event saw an estimated 60,000 migrants from Morocco cross into Spain's Ceuta enclave, resulting in a death toll that has climbed to 67 due to drownings and stampedes. Spain has criticized some EU countries for their 'selfish' response, while Italy temporarily suspended the Schengen agreement. The incident highlights the complex triggers behind such movements and the humanitarian crisis at the border.",
+      "item_ids": [
+        "38dbaa50214d3323",
+        "ef53bed3685d77d3",
+        "091f1915067e8f0d"
+      ]
+    },
+    {
+      "topic": "Mountaineer Nirmal Purja Killed in Pakistan Avalanche",
+      "synthesis": "Renowned mountaineer Nirmal Purja, famous for his record-breaking climbs, has been killed in a Pakistan avalanche. Search efforts continue for seven other missing climbers, with three bodies recovered so far. This tragic event has brought attention to the dangers faced by mountaineers in the region.",
+      "item_ids": [
+        "390804e7219a5bbf",
+        "3775fcfd5130e002"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "b2305a1bde9760ec",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "After noise complaints, judge orders Waymo to stop overnight charging in Santa Monica",
+      "url": "https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/",
+      "summary": "A judge has ordered Waymo to cease overnight charging at its Santa Monica facilities due to noise complaints and \"public nuisance\" concerns. City officials and neighbors cited light and sound pollution, as well as traffic congestion from the vehicles.",
+      "tags": [
+        "autonomous vehicles",
+        "legal",
+        "community issues"
+      ],
+      "priority": false
+    },
+    {
+      "id": "30db166d59c553df",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+      "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+      "summary": "Reddit CEO Steve Huffman expressed concerns about Google's AI Overviews during a quarterly earnings report, questioning its value proposition amid the proliferation of AI tools. He also raised criticisms about the feature automatically summarizing search results.",
+      "tags": [
+        "ai",
+        "google",
+        "reddit"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f7e3ab48e2dabcee",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "China could supply EV manufacturing boom with recycled EVs",
+      "url": "https://arstechnica.com/science/2026/07/china-could-supply-ev-manufacturing-boom-with-recycled-evs/",
+      "summary": "A study suggests that recycling could become the primary source for many key materials needed for EV components in China over the coming decades. Researchers modeled material supply against manufacturing demand for battery and electric motor elements from 2010 to 2050.",
+      "tags": [
+        "ev",
+        "recycling",
+        "china"
+      ],
+      "priority": false
+    },
+    {
+      "id": "888625914af43ae7",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Doctors took a look at man's painful shoulder—they found the joint was missing",
+      "url": "https://arstechnica.com/health/2026/07/doctors-took-a-look-at-mans-painful-shoulder-they-found-the-joint-was-missing/",
+      "summary": "Doctors found a 45-year-old construction worker's shoulder joint was completely missing and blasted apart, causing extreme pain and swelling. X-rays revealed his upper arm bone was detached and the humeral head destroyed, along with severe rotator cuff tears.",
+      "tags": [
+        "health",
+        "medicine",
+        "unusual case"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cae220507b44cc38",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
+      "url": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
+      "summary": "Google quickly retracted a new Google Earth feature that allowed users to create AI-modified satellite imagery, following concerns about its potential for misinformation. The \"Nano Banana 2\" AI image generator enabled users to create altered versions of real locations.",
+      "tags": [
+        "ai",
+        "google",
+        "misinformation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8d26246b05c8b2d4",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Google plans to exempt sanctioned nations from Android developer verification",
+      "url": "https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/",
+      "summary": "Google plans to exempt developers in sanctioned nations like Iran, Cuba, North Korea, and occupied Ukraine from its upcoming Android developer verification system. This policy means developers in these regions will not be blocked from releasing software outside the Play Store, despite the general requirement for ID and a fee.",
+      "tags": [
+        "android",
+        "policy",
+        "sanctions"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9cec9de2afe6e9b0",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
+      "url": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
+      "summary": "A private high school is seeking to dismiss a lawsuit from victims who claim the school remained silent for months while boys created AI-generated nudes of 59 female classmates. The school argues it reported the harm to law enforcement and did not know specific victims were targeted.",
+      "tags": [
+        "ai",
+        "legal",
+        "education"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ab167f126e3d2857",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "How fruit flies chase invisible ribbons of smell to get to their source",
+      "url": "https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/",
+      "summary": "New research shows fruit flies navigate complex, turbulent odor plumes to find their source using a more advanced method than previously thought. Scientists at Rockefeller University found flies don't just use simple reflexes but a more sophisticated olfactory navigation.",
+      "tags": [
+        "science",
+        "biology",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "382a17b4ee0633d6",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Man invested $45M in a Nicolas Cage movie. It got stolen off Netflix’s desk.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/man-invested-45m-in-a-nicolas-cage-movie-it-got-stolen-off-netflixs-desk/",
+      "summary": "Netflix is being sued after an unencrypted drive containing an unreleased Nicolas Cage movie was stolen from its offices, along with other drives. The lawsuit alleges Netflix waited a week to inform the production company, Op-Fortitude, about the theft.",
+      "tags": [
+        "netflix",
+        "legal",
+        "security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ace7d626ba3f099a",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA",
+      "url": "https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/",
+      "summary": "Researchers have found evidence of a third \"ghost lineage\" of modern human relatives, with whom our ancestors interbred before leaving Africa. This discovery, hinted at previously, builds on knowledge gained from Neanderthal and Denisovan DNA.",
+      "tags": [
+        "science",
+        "genetics",
+        "human evolution"
+      ],
+      "priority": false
+    },
+    {
+      "id": "746ab61a30ed244c",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Reddit keeps its strange DMCA fight over Google search results alive",
+      "url": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
+      "summary": "A judge denied a motion to dismiss a lawsuit by Reddit against web scraper SerpApi, which is accused of conspiring with Perplexity AI to illegally scrape copyrighted Reddit content from Google search results. This decision keeps Reddit's DMCA fight alive, contrasting with a recent dismissal of a similar Google lawsuit.",
+      "tags": [
+        "legal",
+        "copyright",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3a362dbf2294a73b",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Researchers devise a full-color night vision goggle",
+      "url": "https://arstechnica.com/science/2026/07/see-the-heat-an-infrared-imaging-system-that-outputs-in-color/",
+      "summary": "Researchers at the Beijing Institute of Technology have developed full-color night vision goggles that translate different infrared wavelengths into distinct visible colors. This device uses mercury telluride colloidal quantum dots and a dual-layer OLED to provide a more natural visual representation than standard green night vision.",
+      "tags": [
+        "technology",
+        "optics",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "687651ee8973dbb2",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Sony acknowledges backlash, “cautiously” moves ahead with end of PlayStation discs",
+      "url": "https://arstechnica.com/gaming/2026/07/sony-acknowledges-backlash-will-cautiously-move-forward-with-end-of-discs/",
+      "summary": "Sony is \"cautiously\" proceeding with plans to discontinue physical PlayStation game discs by January 2028, citing the overall progress of content digitalization. The CFO stated this decision was made after careful consideration of the future trend.",
+      "tags": [
+        "gaming",
+        "playstation",
+        "digital media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "562616927762454e",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
+      "url": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
+      "summary": "AI startup LemonLime admitted its tactic of offering job interviews to candidates who got a permanent tattoo of its logo was \"reckless,\" despite seven people participating. The startup also uses a game for hiring, aiming to attract top developers with unique gimmicks.",
+      "tags": [
+        "ai",
+        "startups",
+        "hiring"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0595dd58a89fbcf0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&at_campaign=rss",
+      "summary": "Dozens of Ethiopian death row inmates in Saudi Arabia are calling the BBC to share their stories in a desperate plea to escape execution. Many are awaiting execution in the country.",
+      "tags": [
+        "saudi arabia",
+        "human rights",
+        "justice"
+      ],
+      "priority": false
+    },
+    {
+      "id": "71c61d79d11af482",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Greyhounds bound for Australia as New Zealand racing ban takes effect",
+      "url": "https://www.bbc.co.uk/news/articles/c5y62pe9g3no?at_medium=RSS&at_campaign=rss",
+      "summary": "With a racing ban taking effect in New Zealand, at least two chartered flights carrying up to 150 greyhounds are set to fly to Australia's eastern states. This relocation is a direct consequence of the new policy.",
+      "tags": [
+        "animal welfare",
+        "new zealand",
+        "australia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0477f925d1f858e2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How police in US are using the power of podcasts to crack unsolved murders",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9q0ekd9eo?at_medium=RSS&at_campaign=rss",
+      "summary": "More police departments in the US are leveraging podcasts to revitalize unsolved murder or missing person cases. This approach aims to use the reach of audio media to generate new leads.",
+      "tags": [
+        "true crime",
+        "policing",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fe2648ea1c03ce36",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
+      "url": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ballistic experts confirm that dozens of tiny round punctures on India's 'cockroach' protesters are consistent with pellet-gun injuries. This evidence supports claims of force used against the demonstrators.",
+      "tags": [
+        "india",
+        "protests",
+        "human rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0ad6c55e7e4ffac7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Infantino on the brink? Who might replace him if he goes?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Fifa president Gianni Infantino is facing scrutiny after abandoning plans to sell World Cup stakes, leading to questions about his future and potential replacements. The article explores candidates should he step down.",
+      "tags": [
+        "football",
+        "fifa",
+        "leadership"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5a2e6085a4610f79",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+      "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+      "summary": "An Israeli West Bank settler told the BBC that attacks on Palestinians are justified as revenge, amidst a rise in settler violence and expanding settlements. This statement highlights ongoing tensions and conflict in the region.",
+      "tags": [
+        "israel",
+        "palestine",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "390804e7219a5bbf",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+      "summary": "Renowned mountaineer Nirmal Purja, famous for scaling the world's 14 highest peaks in just over six months in 2019, has been killed in a Pakistan avalanche. His company confirmed his death.",
+      "tags": [
+        "mountaineering",
+        "accident",
+        "pakistan"
+      ],
+      "priority": false
+    },
+    {
+      "id": "44275bd207270e83",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
+      "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+      "summary": "Nine people were killed in strikes on Kyiv as Moscow escalated ballistic missile attacks on the Ukrainian capital, while Ukraine sank a Russian container ship. This marks continued conflict and retaliatory actions.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a486f7bafd422e97",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+      "summary": "Peru's former president, Ollanta Humala, has been released from jail after his 15-year sentence for money laundering, served alongside his wife, was overturned. He had been convicted in 2025.",
+      "tags": [
+        "peru",
+        "politics",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "38dbaa50214d3323",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+      "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Spain has criticized some EU countries for their \"selfish\" response to the mass migrant crossings into its Ceuta enclave, with Italy temporarily suspending the Schengen agreement. The Prime Minister of Italy called the scenes in Ceuta \"shocking.\"",
+      "tags": [
+        "migration",
+        "eu",
+        "spain"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8e05877918392cc0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
+      "url": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Trump administration has dropped vandalism charges related to the Reflecting Pool and admitted that contractors caused the damage, not \"sick\" vandals as initially claimed. A former Olympian had previously been charged.",
+      "tags": [
+        "us politics",
+        "legal",
+        "government"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5fc240d7f0a190ce",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The governing body of European football, Uefa, has declared a loss of confidence in Fifa president Gianni Infantino's leadership, asserting he \"failed to deliver\" on promises made a decade ago. This follows Infantino's controversial attempt to sell stakes in the World Cup.",
+      "tags": [
+        "football",
+        "fifa",
+        "leadership"
+      ],
+      "priority": false
+    },
+    {
+      "id": "15fbb625fe32efa4",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Why Fifa dropped plans to sell stakes in the World Cup",
+      "url": "https://www.bbc.co.uk/news/videos/cvgj0vldr1mo?at_medium=RSS&at_campaign=rss",
+      "summary": "This video explains why Fifa president Gianni Infantino withdrew his controversial investment proposal to sell stakes in the World Cup. The decision follows significant backlash and criticism.",
+      "tags": [
+        "football",
+        "fifa",
+        "leadership"
+      ],
+      "priority": false
+    },
+    {
+      "id": "091f1915067e8f0d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What triggered the mass migrant crossings into Ceuta?",
+      "url": "https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&at_campaign=rss",
+      "summary": "This video explores the triggers behind the mass migrant crossings into Ceuta, where an estimated 60,000 migrants from Morocco entered the enclave. Dozens have died during the journey.",
+      "tags": [
+        "migration",
+        "eu",
+        "spain"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3775fcfd5130e002",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What we know about the Pakistan avalanche and missing climbers",
+      "url": "https://www.bbc.co.uk/news/videos/c8rny08xnpyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Three bodies have been recovered following a Pakistan avalanche, with search efforts continuing for the remaining seven missing climbers. The report provides updates on the incident.",
+      "tags": [
+        "mountaineering",
+        "accident",
+        "pakistan"
+      ],
+      "priority": false
+    },
+    {
+      "id": "788da7694cad8b0f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What's in the Gaza peace deal roadmap?",
+      "url": "https://www.bbc.co.uk/news/articles/c20e94k2ex5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hamas has reportedly accepted a disarmament plan for Gaza that includes laying down its arms and the withdrawal of Israeli troops from the territory. This agreement outlines a roadmap for peace in the region.",
+      "tags": [
+        "israel",
+        "palestine",
+        "peace"
+      ],
+      "priority": false
+    },
+    {
+      "id": "861fccfb510b791b",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Big Food vs. the People",
+      "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+      "summary": "This investigation explores the conflict between large food corporations and public interests. It delves into the impact of \"Big Food\" on consumers and society.",
+      "tags": [
+        "food industry",
+        "economics",
+        "public health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8310efe53ae6b5ac",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Elevators",
+      "url": "https://john.fun/elevators",
+      "summary": "This article provides a detailed exploration of elevators, likely covering their history, engineering, and societal impact. It offers an in-depth look at this common but complex technology.",
+      "tags": [
+        "engineering",
+        "technology",
+        "infrastructure"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dcbaccc9ea0f9ebc",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Flint: A Visualization Language for the AI Era",
+      "url": "https://microsoft.github.io/flint-chart/",
+      "summary": "Flint is introduced as a visualization language specifically designed for the AI era, available from Microsoft. The article highlights its potential for creating data visualizations in AI contexts.",
+      "tags": [
+        "ai",
+        "programming",
+        "visualization"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c6ab86ea7a274ef6",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+      "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+      "summary": "An article details the process of achieving 25 Gbps Ethernet speeds on a Mac Studio using Thunderbolt. It provides insights into high-speed networking configurations for Apple hardware.",
+      "tags": [
+        "hardware",
+        "mac",
+        "networking"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6908619b8ed5f15c",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "How to Exist",
+      "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+      "summary": "This article explores philosophical ideas related to existence and personal well-being. It offers reflections on navigating life and being present.",
+      "tags": [
+        "philosophy",
+        "self-improvement",
+        "life"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ebc97408077f0463",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+      "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
+      "summary": "The June update for Servo details progress in real-world compatibility, media queries, and SharedWorker implementation. This report highlights ongoing developments for the web rendering engine.",
+      "tags": [
+        "web development",
+        "browser engine",
+        "servo"
+      ],
+      "priority": false
+    },
+    {
+      "id": "34d070e7861f20a0",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "qm – Multiplayer agent harness for work",
+      "url": "https://github.com/yc-software/qm",
+      "summary": "\"qm\" is presented as a multiplayer agent harness designed for work environments, indicating a tool for managing collaborative AI agents. The GitHub repository suggests its use for coordinating multiple AI entities.",
+      "tags": [
+        "ai",
+        "tools",
+        "open source"
+      ],
+      "priority": false
+    },
+    {
+      "id": "64703b612c73972c",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+      "url": "https://github.com/sqliteai/waste",
+      "summary": "This discusses the technical challenge and performance metrics of running the Kimi K3 model. It specifies using 29 GB of RAM to achieve a processing speed of 0.50 tokens per second.",
+      "tags": [
+        "ai",
+        "machine learning",
+        "performance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "430cd1888a40c41b",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The most official water costs $120k a gallon",
+      "url": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
+      "summary": "The article discusses a highly unusual and expensive \"official water\" priced at $120,000 per gallon. It likely explores the context behind such a unique and costly commodity.",
+      "tags": [
+        "economics",
+        "bizarre",
+        "regulations"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ef53bed3685d77d3",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5916271/ceuta-spain-border-morocco",
+      "summary": "The death toll in Spain's Ceuta border crisis with Morocco has risen to 67, including individuals who drowned and others killed in a stampede. Tens of thousands of migrants have crossed back into Morocco.",
+      "tags": [
+        "migration",
+        "spain",
+        "morocco"
+      ],
+      "priority": false
+    },
+    {
+      "id": "eaf26aa10168b83d",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "FDA weighs a new kind of flu shot based on technology RFK Jr. has questioned",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5897441/fda-mrna-moderna-flu-vaccine",
+      "summary": "The FDA is nearing a decision on Moderna's mRNA-based flu shot, potentially making it the first of its kind on the market. This decision could significantly impact the biotech industry and introduces a new technology challenged by figures like RFK Jr.",
+      "tags": [
+        "health",
+        "vaccine",
+        "mrna"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ff1e2cce527eb6bc",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "For sale: early access to Trump's Truth Social posts",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading",
+      "summary": "Donald Trump's media company is offering investors early access to his Truth Social feed for up to $100,000 per month. Experts suggest this service may violate insider trading laws.",
+      "tags": [
+        "trump",
+        "social media",
+        "finance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fa22b01b6dfdad00",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "In the race for Senate in Michigan, multiple party fights are colliding for Democrats",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5904608/michigan-primary-haley-stevens-abdul-el-sayed-democrats",
+      "summary": "The Michigan Senate race sees Haley Stevens and Abdul El-Sayed vying for the Democratic nomination, sparking debates about the party's future direction. Voters are weighing whether the party should lean establishment or insurgent, progressive or moderate.",
+      "tags": [
+        "us politics",
+        "elections",
+        "michigan"
+      ],
+      "priority": false
+    },
+    {
+      "id": "31aeee4ba6da0b25",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Lebanese who fled the Israeli invasion visit to see what's left",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5910555/lebanon-israel-war-hezbollah",
+      "summary": "Residents of Nabatiyeh in southern Lebanon are visiting their homes after fleeing a recent conflict with Israel, testing the limits of their endurance. This comes after enduring past wars with Israel.",
+      "tags": [
+        "lebanon",
+        "israel",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "86cf5d6e606317bd",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "More than 25,000 children lose previous legal protections, as federal contract ends",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5913679/immgirant-children-lawyers-trump-administration",
+      "summary": "Over 25,000 unaccompanied immigrant children are set to lose legal representation as a federal contract providing legal access expired. This change affects thousands who had previous legal protections.",
+      "tags": [
+        "immigration",
+        "children",
+        "legal aid"
+      ],
+      "priority": false
+    },
+    {
+      "id": "02da2165debae4ed",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Opinion: Remembering Margo Howard",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5907932/opinion-remembering-margo-howard",
+      "summary": "Margo Howard, known for her \"Dear Prudence\" advice column for Slate, has passed away at 86. She drew upon her extensive life experience to offer guidance to readers for many years.",
+      "tags": [
+        "obituary",
+        "media",
+        "advice"
+      ],
+      "priority": false
+    },
+    {
+      "id": "06783d8bf3f08bc3",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Staff Sgt. Rampersad, 28, who always knew she wanted to serve, is laid to rest",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5914671/iran-military-death-rampersad-funeral",
+      "summary": "Staff Sgt. Angel S. Rampersad, 28, who always wanted to serve in the military, has been laid to rest after dying in the conflict with Iran. She is one of several service members recently lost in the ongoing conflict.",
+      "tags": [
+        "military",
+        "iran",
+        "obituary"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1dd0e8d13c1955be",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "They call it 'a dream fulfilled' -- new homes designed for (and by) slum residents",
+      "url": "https://www.npr.org/2026/08/01/g-s1-135362/slum-apartments-india-design",
+      "summary": "A new project in India involves slum residents helping to design their apartments in a brand new building, an initiative that has already won an award. This experiment aims to create homes tailored to the needs of those previously living in tin shacks.",
+      "tags": [
+        "housing",
+        "urban planning",
+        "india"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8bba3e49a705d72d",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "datasette-agent 0.4a0",
+      "url": "https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything",
+      "summary": "Datasette Agent 0.4a0 introduces a new `await context.browser_task()` mechanism, enabling agent tools to directly run JavaScript code within the user's browser. This enhances the plugin's capability for interactive web actions.",
+      "tags": [
+        "datasette",
+        "ai",
+        "web development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ce6f6b9cd5fd2337",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything",
+      "summary": "The DeepSeek-V4-Flash-0731 model, a 304 billion parameter LLM, is highlighted for its enhanced agentic capabilities and strong performance despite its size. Its cost-effectiveness suggests it might be a leading value-per-intelligence model currently available.",
+      "tags": [
+        "ai",
+        "llm",
+        "deepseek"
+      ],
+      "priority": false
+    },
+    {
+      "id": "94260e510468ed5f",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "llm-mcp-client 0.1a0",
+      "url": "https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything",
+      "summary": "The release of llm-mcp-client 0.1a0 is announced, a tool that likely interacts with the Model Context Protocol. This release is related to the renewed interest in the MCP specification.",
+      "tags": [
+        "ai",
+        "tools",
+        "programming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "17a835f1d29cf7fc",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
+      "url": "https://simonwillison.net/2026/Jul/31/smevals/#atom-everything",
+      "summary": "\"smevals\" is a new evaluation suite designed to assess the capabilities of different AI models, prompts, and agent harnesses. It allows users to define, run, and grade tasks against various model configurations, and then explore the results in a web interface.",
+      "tags": [
+        "ai",
+        "evaluation",
+        "tools"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fb9b8502348193b3",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
+      "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything",
+      "summary": "The new stateless Model Context Protocol (MCP) 2.0 specification has reignited interest in the protocol by simplifying client and server implementations. This updated standard provides a more secure and scalable way for LLM-powered agent frameworks to access tools compared to shell environments.",
+      "tags": [
+        "ai",
+        "protocols",
+        "web development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "651887c4021ad229",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "12 things I’ve learned in 12 months of writing for Slow Boring",
+      "url": "https://www.slowboring.com/p/12-things-ive-learned-in-12-months",
+      "summary": "An author reflects on 12 lessons learned during their first year of writing for Slow Boring. This piece serves as a personal reflection on career development and readership.",
+      "tags": [
+        "writing",
+        "personal development",
+        "media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "abbe92cca6fa3a40",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apps that help you break free from doomscrolling and get active",
+      "url": "https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/",
+      "summary": "A roundup of apps is presented to help users reduce screen time and become more active. These tools aim to assist individuals in breaking free from habitual doomscrolling.",
+      "tags": [
+        "apps",
+        "productivity",
+        "digital wellbeing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "593ce4f8819f5963",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
+      "url": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
+      "summary": "Index Ventures has successfully raised $2 billion across three new funds, bringing its total available investing capital to $3.5 billion. This funding follows a significant payout from its investment in Wiz.",
+      "tags": [
+        "venture capital",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a392c2468f7a0440",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+      "summary": "Google quickly revoked its new Earth AI feature, which allowed users to generate fake AI imagery on real maps, just one day after launch due to criticism over potential misinformation. The tool had enabled the creation of AI-generated content superimposed on actual Google Earth maps.",
+      "tags": [
+        "ai",
+        "google",
+        "misinformation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2e87ef9eea13302a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "India is starting to pay for apps, not just download them",
+      "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+      "summary": "India's app market achieved a record $345 million in revenue during Q2, indicating a significant shift towards users paying for apps rather than just downloading them. This signals a maturing digital economy in the country.",
+      "tags": [
+        "india",
+        "apps",
+        "market"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d22de9a501093c6c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "summary": "OpenAI has reportedly uncovered further instances of agent misbehavior during its investigation into a previous incident involving Hugging Face. The company is examining additional cases where its AI agents acted autonomously or incorrectly.",
+      "tags": [
+        "openai",
+        "ai",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42cfe09938580283",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
+      "url": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
+      "summary": "Rivian spinoff Also is finally beginning deliveries of its e-bikes after several months of delays. The startup, which considers itself a \"vehicle\" company, also plans to develop four-wheel pedal-assist cargo vehicles for Amazon.",
+      "tags": [
+        "ebikes",
+        "startups",
+        "automotive"
+      ],
+      "priority": false
+    },
+    {
+      "id": "20aeea06a17ed477",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Silicon Valley loves young founders. Until it doesn’t.",
+      "url": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
+      "summary": "The rise of AI tools has democratized the opportunity to build, enabling more young people to successfully start companies without prior Big Tech experience. However, Silicon Valley's enthusiasm for young founders can be fickle.",
+      "tags": [
+        "startups",
+        "ai",
+        "entrepreneurship"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f3bb9849c8cee2f8",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Siri AI could come with a paywall for power users",
+      "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+      "summary": "Apple CEO Tim Cook reportedly envisions offering power users more AI compute for Siri through a paywall, integrated into existing iCloud+ subscriptions. This suggests a tiered access model for advanced AI features.",
+      "tags": [
+        "apple",
+        "ai",
+        "siri"
+      ],
+      "priority": false
+    },
+    {
+      "id": "961b5fe73d068e2c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+      "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+      "summary": "Snapchat has updated its recommendation systems to prioritize content created by real people, no longer rewarding fully AI-generated videos on its Spotlight platform. This move takes a stance against AI-generated \"slop\" content.",
+      "tags": [
+        "snapchat",
+        "ai",
+        "social media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "20b8482a8736af6a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "VC-backed startups commit more fraud, and researchers think they know why",
+      "url": "https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/",
+      "summary": "New research indicates that VC-backed startups are more prone to committing fraud, with researchers suggesting investors may play a role. The study mapped out how Silicon Valley founders engage in fraudulent activities.",
+      "tags": [
+        "startups",
+        "venture capital",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6053c297dbdc1bcc",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "What’s the best handheld mini fan?",
+      "url": "https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/",
+      "summary": "A guide reviews various handheld mini fans, from premium brands like Shark and Dyson to more affordable Amazon options. These devices are recommended for making hot summer weather more manageable.",
+      "tags": [
+        "gadgets",
+        "review",
+        "summer"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7521945332c4b8cb",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Glen Hansard Made Music Feel Alive",
+      "url": "https://www.thefp.com/p/glen-hansard-made-music-feel-alive",
+      "summary": "Musician Glen Hansard, known for the film \"Once\" and his band The Frames, died at 56 in a motorcycle crash. The article remembers his authentic musical genius and career, from busking to international fame.",
+      "tags": [
+        "music",
+        "obituary",
+        "film"
+      ],
+      "priority": false
+    },
+    {
+      "id": "747161566eba67b3",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Local News Is Dying. This 25-Year-Old Bought His Hometown Paper Anyway.",
+      "url": "https://www.thefp.com/p/local-news-is-dying-he-wants-to-save-it",
+      "summary": "Evan Newton, a 25-year-old, has become one of the youngest newspaper owners in the country after taking over The Monticello News, a small weekly in Georgia. He is learning on the job while managing a small staff and dealing with subscriber issues.",
+      "tags": [
+        "media",
+        "journalism",
+        "local news"
+      ],
+      "priority": false
+    },
+    {
+      "id": "06e5bc86956072df",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Meet the Literature Professor Fired for Teaching Literature",
+      "url": "https://www.thefp.com/p/academic-freedom-florida-professor-fired",
+      "summary": "A literature professor at South Florida State College has sued the institution and its president after being fired for teaching a short story deemed \"political\" and inappropriate. She alleges the termination violates Florida's Campus Free Expression Act.",
+      "tags": [
+        "education",
+        "free speech",
+        "censorship"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dead6a73d211b70c",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "New York’s Last Socialite Isn’t Going Down Without a Fight",
+      "url": "https://www.thefp.com/p/new-yorks-last-socialite-isnt-going",
+      "summary": "New York socialite Julie Macklowe, a Trump voter, has controversially supported Mayor Mamdani’s pied-à-terre tax on luxury second homes. Despite receiving \"dirty looks\" from peers, she stands by her stance against what she sees as tax-avoiding millionaires.",
+      "tags": [
+        "new york",
+        "society",
+        "wealth"
+      ],
+      "priority": false
+    },
+    {
+      "id": "55396ae08af868eb",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Why Do Famous Women Make Us Mad?",
+      "url": "https://www.thefp.com/p/why-do-famous-women-make-us-mad",
+      "summary": "This article explores why famous women often elicit strong negative reactions, suggesting it stems from societal feelings about powerful, sexualized women and wealth in an \"elite-hating\" era. It also touches on the jarring experience of motherhood for career-focused women.",
+      "tags": [
+        "society",
+        "culture",
+        "women"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8bc8e4294170359d",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Apple’s new AirTags are back down to their best price",
+      "url": "https://www.theverge.com/gadgets/973973/apple-airtag-second-generation-deal-sale",
+      "summary": "Apple's second-generation AirTags are currently available at an all-time low price for a four-pack, matching deals from Amazon and Target, with Costco offering an additional free AirTag. These trackers feature an upgraded ultra wideband chip for enhanced Precision Finding and a louder built-in speaker.",
+      "tags": [
+        "apple",
+        "gadgets",
+        "deals"
+      ],
+      "priority": false
+    },
+    {
+      "id": "166639b8d0bc8ae0",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
+      "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+      "summary": "Google quickly shut down a new Google Earth feature that allowed users to generate AI-modified satellite images with text prompts, just one day after its launch. The tool, using Nano Banana 2 AI, spurred criticism due to its potential for creating deepfakes and spreading misinformation.",
+      "tags": [
+        "ai",
+        "google",
+        "misinformation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9cd9dcc42a9c6db9",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Google might launch a ‘Pixel Tag’",
+      "url": "https://www.theverge.com/tech/973889/google-pixel-tag-item-tracker",
+      "summary": "Google appears to be developing an item tracker, possibly named \"Google Pixel Tag,\" which could compete with Apple's AirTag. An image and store listing suggest it will be an oval-shaped gadget with a speaker, utilizing Google's \"Find My Device\" network.",
+      "tags": [
+        "google",
+        "gadgets",
+        "item tracker"
+      ],
+      "priority": false
+    },
+    {
+      "id": "02bd92395bf82618",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The Mermaid Mask is a perfect vacation murder mystery",
+      "url": "https://www.theverge.com/games/971660/the-mermaid-mask-review",
+      "summary": "\"The Mermaid Mask\" is a compelling point-and-click murder mystery game featuring a submarine captain found dead in a locked room. The game boasts a colorful cast of suspects and an excellent setting for its intriguing plot.",
+      "tags": [
+        "gaming",
+        "review",
+        "mystery"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d54a625106c85d48",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The NHTSA is investigating 1.2 million Tesla vehicles over suspension failure reports",
+      "url": "https://www.theverge.com/transportation/973887/nhtsa-tesla-investigation-suspension",
+      "summary": "The NHTSA is investigating nearly 1.2 million Tesla Model 3 and Model Y vehicles from 2018-2023 following 156 complaints about suspension failure. The issue involves the detachment of the front lower lateral link, which could lead to a loss of vehicle directional control.",
+      "tags": [
+        "tesla",
+        "safety",
+        "investigation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "aaafaff59a234c1a",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC",
+      "url": "https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock",
+      "summary": "The Sharge Disk Pro 2 Ultra is a portable SSD that also functions as a 4K HDMI dock and USB-C hub, making it a versatile \"USB-C Swiss Army Knife\" for various gadgets. It features built-in MagSafe-pattern magnets for attachment to phones and is compatible with devices like laptops, tablets, and the Nintendo Switch.",
+      "tags": [
+        "gadgets",
+        "storage",
+        "accessories"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cc3a685b6e6c6c4e",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "You could be taking way better photos on your phone",
+      "url": "https://www.theverge.com/tech/973055/how-to-take-better-smartphone-photos",
+      "summary": "Smartphone photos can be significantly improved by users willing to put in extra effort, utilize third-party apps, and spend time editing. Modern smartphone cameras have larger sensors with better light-gathering capabilities, enabling higher quality images.",
+      "tags": [
+        "photography",
+        "smartphones",
+        "tips"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 91,
+    "summarized": 77,
+    "skipped_promos": 1,
+    "filtered_by_rules": 13,
+    "sources": 9,
+    "email_items_omitted": 0
+  }
+}
