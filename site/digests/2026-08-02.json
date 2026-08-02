@@ -1,0 +1,742 @@
+{
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02T14:55:45+00:00",
+  "hot_topics": [
+    {
+      "topic": "AI Ethics and Policy Debates",
+      "synthesis": "The rapidly evolving landscape of artificial intelligence continues to raise significant ethical and policy concerns. Debates range from artist compensation for AI training data and the legality of \"nudify\" apps, to broader discussions on open versus closed AI models and the pace of AI development. Experts also ponder AI's impact on human relationships and workplace interactions, underscoring the need for careful regulation and thoughtful integration.",
+      "item_ids": [
+        "74d21a62927f8d30",
+        "159a806d28be3398",
+        "a1e64c5cf8893215",
+        "3139c53dc4dc4d8e"
+      ]
+    },
+    {
+      "topic": "Middle East Geopolitical Tensions",
+      "synthesis": "Tensions in the Middle East remain high, with ongoing developments in the Iran-US relationship and the Israeli-Palestinian conflict. US President Trump announced the cancellation of planned strikes on Iran, citing a pending deal and requests from regional countries. Concurrently, Israeli strikes in Gaza killed several people, despite reports of Hamas agreeing to a disarmament deal, indicating continued instability in the region.",
+      "item_ids": [
+        "07ffdb24e5a737cc",
+        "89f88477410bd4a1",
+        "62102bc87eb056d5"
+      ]
+    },
+    {
+      "topic": "Global Wildfires and Extreme Weather",
+      "synthesis": "Extreme weather events, particularly widespread wildfires, are impacting multiple regions globally. Washington state is experiencing extensive wildfires leading to thousands of evacuations and emergency declarations, mirroring severe fire seasons elsewhere. As Europe grapples with its worst wildfires in decades, Australia's integration of modern technology and Indigenous knowledge for wildfire management offers critical lessons for disaster preparedness.",
+      "item_ids": [
+        "4d2bfb02b6c37908",
+        "9b31fbfc6c213473",
+        "2b2d7b6fc97c3222",
+        "e378a00210a85777",
+        "c20bc39edf32dfcc"
+      ]
+    },
+    {
+      "topic": "Notable Deaths",
+      "synthesis": "The news reports the deaths of two prominent figures: actor Vincent Pastore and mountaineer Nirmal Purja. Pastore, best known for his role as \"Big Pussy\" Bonpensiero in \"The Sopranos,\" passed away at 80. Meanwhile, Purja, renowned for his rapid ascent of the world's 14 highest peaks, was killed in an avalanche in Pakistan.",
+      "item_ids": [
+        "e15d308d5cf89ee0",
+        "9bb14ad429eda2bc",
+        "a45d88fe0b085276",
+        "fff4dfb65b795032"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "82c970fcd9d66792",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Review: Yes, we're still arguing about Nolan's The Odyssey",
+      "url": "https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/",
+      "summary": "Christopher Nolan's film adaptation of \"The Odyssey\" continues to spark debate, despite critical acclaim and financial success. The reviewer found the IMAX scale epic but the storytelling intimate, offering a fresh perspective on Odysseus, though the magic fades after viewing.",
+      "tags": [
+        "film",
+        "review",
+        "christopher nolan"
+      ],
+      "priority": false
+    },
+    {
+      "id": "264215d17f2d162e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pressure is mounting on Fifa president Gianni Infantino following the collapse of a controversial World Cup investment plan. Questions are being raised about his leadership and ability to remain in charge.",
+      "tags": [
+        "sports",
+        "fifa",
+        "football"
+      ],
+      "priority": false
+    },
+    {
+      "id": "89f88477410bd4a1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "At least eight killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+      "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+      "summary": "Israeli strikes on Gaza killed at least eight people after Hamas reportedly agreed to a disarmament deal. Israel stated its targets were military operatives in Gaza City, Khan Younis, and Deir el-Balah.",
+      "tags": [
+        "conflict",
+        "israel",
+        "gaza"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9bb14ad429eda2bc",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
+      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+      "summary": "The body of renowned mountaineer Nirmal Purja, famous for scaling the world's 14 highest peaks in record time, has been recovered after an avalanche in Pakistan.",
+      "tags": [
+        "mountaineering",
+        "accident",
+        "pakistan"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f777f3277de9cce4",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Crowds line Amsterdam's canals for Pride boat parade",
+      "url": "https://www.bbc.co.uk/news/videos/cp3rqd9kp91o?at_medium=RSS&at_campaign=rss",
+      "summary": "Crowds gathered along Amsterdam's canals for the Pride boat parade, where costumed participants danced and waved from 80 decorated vessels. The event showcased a colorful celebration through the city's waterways.",
+      "tags": [
+        "pride",
+        "amsterdam",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e378a00210a85777",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Fastest runner to cross the Alps says it was an incredible experience",
+      "url": "https://www.bbc.co.uk/news/videos/crk5j6g8lmko?at_medium=RSS&at_campaign=rss",
+      "summary": "Sophie Woods, the fastest runner to cross the Alps, described her journey as incredible despite enduring storms, 37C heat, floods, and wildfires across eight countries.",
+      "tags": [
+        "running",
+        "adventure",
+        "alps"
+      ],
+      "priority": false
+    },
+    {
+      "id": "21de97013d7f4f49",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
+      "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
+      "summary": "A ferry carrying at least 250 people caught fire off Madura island in Indonesia, resulting in five deaths and 41 people missing.",
+      "tags": [
+        "indonesia",
+        "accident",
+        "maritime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c91983aae8575e83",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
+      "url": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Photographer Kieran Dodds has spent over a decade capturing portraits of people with red hair, finding an unexpected \"golden thread\" connecting Americans. This obsession explores the unique visual and cultural aspects of red hair.",
+      "tags": [
+        "photography",
+        "culture",
+        "art"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2b2d7b6fc97c3222",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How Australia combines modern tech and Indigenous knowledge to fight wildfires",
+      "url": "https://www.bbc.co.uk/news/articles/czdmvr984yyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Australia is offering lessons in disaster preparedness by combining modern technology with Indigenous knowledge to fight wildfires. This approach is highlighted as Europe faces its worst wildfires in decades.",
+      "tags": [
+        "wildfires",
+        "australia",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "22fbc0c822cbbb60",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+      "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ceuta crossings have triggered a political storm across Europe, highlighting divisions over migration policies, with social media exacerbating the debate.",
+      "tags": [
+        "migration",
+        "europe",
+        "spain"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c20bc39edf32dfcc",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Italy putting nearly all major cities on highest heat alert",
+      "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
+      "summary": "Italy is placing nearly all its major cities, including Rome, Milan, and Naples, under the highest heat alert due to extreme temperatures. By Monday, only two major cities will not be on red alert.",
+      "tags": [
+        "weather",
+        "italy",
+        "heatwave"
+      ],
+      "priority": false
+    },
+    {
+      "id": "85bbe54f5535985d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Solitude as a new aspirational lifestyle: 'We are not lonely'",
+      "url": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo?at_medium=RSS&at_campaign=rss",
+      "summary": "A growing trend of \"loneliness influencers\" is promoting solitude as an aspirational lifestyle without children or close friends, sparking public debate. These influencers emphasize that they are not lonely, despite living alone.",
+      "tags": [
+        "social trends",
+        "lifestyle",
+        "solitude"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e15d308d5cf89ee0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "The Sopranos star Vincent Pastore dies aged 80",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Vincent Pastore, known for his role as Salvatore \"Big Pussy\" Bonpensiero in \"The Sopranos,\" has died at age 80. He was found at his home in New York City.",
+      "tags": [
+        "obituary",
+        "actor",
+        "television"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ac6d8dc30a1a409a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Tourist plane crashes in Peru, killing 13",
+      "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+      "summary": "A small tourist plane crashed over Peru's Nazca Lines archaeological site, killing all 13 people on board.",
+      "tags": [
+        "accident",
+        "peru",
+        "aviation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "07ffdb24e5a737cc",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president stated he canceled strikes against Iran because Iran and other Middle Eastern countries requested a delay, claiming \"the perimeters\" of a deal had been agreed upon.",
+      "tags": [
+        "politics",
+        "international relations",
+        "iran"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5e7efbc91c99bcb4",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo",
+      "url": "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Uganda appears to be successfully combating Ebola, discharging its last patient roughly two weeks ago, even as the virus spreads in the Democratic Republic of Congo.",
+      "tags": [
+        "health",
+        "ebola",
+        "uganda"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4d2bfb02b6c37908",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
+      "url": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Wildfires scorching over 250,000 acres in Washington state have led to thousands of evacuations and widespread power outages, prompting an emergency declaration.",
+      "tags": [
+        "wildfires",
+        "washington state",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2501f831e3799bb1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
+      "url": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
+      "summary": "The \"Foxtrot Network\" is believed to be responsible for approximately 35 murders in Europe, employing \"violence-as-a-service\" tactics with recruited teenage hitmen.",
+      "tags": [
+        "crime",
+        "europe",
+        "violence"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c35f0292f087e38b",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Diátaxis",
+      "url": "https://diataxis.fr/",
+      "summary": "Diátaxis, a framework for technical documentation, is presented, likely offering improved methods for structuring and creating clear and effective documentation.",
+      "tags": [
+        "documentation",
+        "technical writing",
+        "software development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "85198e409324e7aa",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Go 1.27 Interactive Tour",
+      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+      "summary": "An interactive tour is available for Go 1.27, providing a guided experience for developers to explore the new features and updates in this programming language version.",
+      "tags": [
+        "programming",
+        "go",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b616a86e20ba0de4",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+      "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+      "summary": "The Kimi K3 AI model is reportedly achieving better performance per dollar on MI355X hardware compared to B300. This indicates a significant efficiency advantage for specific AI deployments.",
+      "tags": [
+        "ai",
+        "hardware",
+        "performance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1ee0a7910376bd1c",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Seedance 2.5",
+      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+      "summary": "Seedance 2.5 has been introduced, offering new features like one-take creation and flexible referencing. This update indicates advancements in the platform's capabilities for content generation.",
+      "tags": [
+        "software",
+        "update",
+        "content creation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "846b0e86fcdd822a",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+      "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+      "summary": "A 15-year-old aspiring engineer built a cycloidal gearbox, showcasing an impressive technical project. This \"Show HN\" entry highlights young talent in mechanical engineering.",
+      "tags": [
+        "engineering",
+        "project",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b90a75afa1edcbab",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
+      "summary": "The Wikimedia Foundation has reportedly refused to recognize a union and hired a union-busting law firm. This development suggests a contentious labor relations environment within the organization.",
+      "tags": [
+        "wikimedia",
+        "labor",
+        "union"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5a408b42935ff6ed",
+      "source": "Noahpinion",
+      "source_type": "substack",
+      "title": "Slopulism is taking over America",
+      "url": "https://www.noahpinion.blog/p/slopulism-is-taking-over-america",
+      "summary": "The concept of \"slopulism\" describes policies, like requiring self-checkout discounts, that seem populist but would actually achieve the opposite of their intended results. In competitive industries like groceries, such a policy would likely lead to higher overall prices and more self-checkout machines, rather than protecting cashier jobs.",
+      "tags": [
+        "economics",
+        "policy",
+        "populism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a45d88fe0b085276",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "'Sopranos' actor Vincent Pastore, known for playing mobsters and tough guys, dead at 80",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5916418/vincent-pastore-sopranos-obit",
+      "summary": "Vincent Pastore, an actor known for his roles as mobsters and tough guys, including Salvatore \"Big Pussy\" Bonpensiero in \"The Sopranos,\" has died at 80. He also appeared in films like \"Goodfellas\" and \"Awakenings.\"",
+      "tags": [
+        "obituary",
+        "actor",
+        "television"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fff4dfb65b795032",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Avalanche in Pakistan kills famed mountaineer Nirmal Purja and his fellow climbers",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche",
+      "summary": "Famed mountaineer Nirmal Purja and his climbing team, including members from around the world, were killed in an avalanche in Pakistan while attempting to summit one of the Earth's tallest peaks.",
+      "tags": [
+        "mountaineering",
+        "accident",
+        "pakistan"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e33611470b9314f9",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Idaho fast food restaurant shooting leaves 3 dead, city spokesman says",
+      "url": "https://www.npr.org/2026/08/02/nx-s1-5917121/idaho-fast-food-restaurant-shooting-3-dead",
+      "summary": "A shooting at an Idaho fast food restaurant resulted in three deaths, including the suspected gunman, whose body was found nearby.",
+      "tags": [
+        "crime",
+        "shooting",
+        "idaho"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c089cf573c7f0521",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "New video evidence upends the unsolved killing of a Black teen at a Seattle protest",
+      "url": "https://www.npr.org/2026/08/02/g-s1-133360/seattle-shooting-capitol-hill-occupied-protest",
+      "summary": "New video evidence from an 18-month investigation has revealed the true circumstances of Antonio Mays Jr.'s shooting death at the Capitol Hill Occupied Protest. The findings show that protesters mistakenly identified him as a threat.",
+      "tags": [
+        "investigation",
+        "protest",
+        "seattle"
+      ],
+      "priority": false
+    },
+    {
+      "id": "18f87a19146b88b6",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
+      "summary": "An overnight Russian ballistic missile barrage killed nine people across five districts of Kyiv, Ukraine. This attack occurred as President Trump reportedly scaled back a promised boost to Ukraine's missile defense systems.",
+      "tags": [
+        "conflict",
+        "ukraine",
+        "russia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9b31fbfc6c213473",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Thousands of people under evacuation order from wildfires in Spokane, Wash.",
+      "url": "https://www.npr.org/2026/08/02/g-s1-136814/washington-state-wildfires-old-trails-fire-spokane",
+      "summary": "Multiple wildfires around Spokane, Washington, have led to Level 3 evacuation orders for large parts of the city, requiring residents to leave immediately.",
+      "tags": [
+        "wildfires",
+        "washington state",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "62102bc87eb056d5",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump says he's cancelling Iran strikes, deal pending",
+      "url": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending",
+      "summary": "President Trump announced the cancellation of planned strikes on Iran, stating that Iran and other Middle Eastern countries requested the delay due to a nascent agreement on a deal's \"perimeters.\"",
+      "tags": [
+        "politics",
+        "international relations",
+        "iran"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c9a83b2e6b67af90",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "What Cyclospora does inside the gut and how it gets there",
+      "url": "https://www.npr.org/2026/08/02/nx-s1-5914624/cyclospora-michigan-infection-lettuce-parasite-outbreak",
+      "summary": "Cyclospora, a parasite responsible for sickening thousands in the U.S. this summer, requires a period in the human digestive tract to reproduce. Understanding its lifecycle is crucial for addressing outbreaks.",
+      "tags": [
+        "health",
+        "parasites",
+        "outbreak"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7acb87de3a8a771f",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Why is the rate of premature births so high in this community?",
+      "url": "https://www.npr.org/2026/08/02/g-s1-135946/premature-birth-slum-pakistan",
+      "summary": "Researchers are investigating why approximately one in four babies in Pakistan's Rehri Goth fishing settlement are born prematurely. They are working to find solutions to reduce these high numbers.",
+      "tags": [
+        "health",
+        "pakistan",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a733bc7206efd824",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "datasette-apps 0.2a0",
+      "url": "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything",
+      "summary": "Datasette-apps 0.2a0 introduces new tools for improved debugging and listing of apps when used with Datasette Agent. A notable feature is `app_debug()`, which allows the agent to invisibly test apps using JavaScript within a sandboxed iframe.",
+      "tags": [
+        "datasette",
+        "software",
+        "development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a1e64c5cf8893215",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Open letters about AI development",
+      "url": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
+      "summary": "Recent open letters highlight varied perspectives on AI development and regulation, with one from Microsoft-backed companies advocating for open-weight models and distillation, while Anthropic's CEO expressed concerns about misuse and authoritarian AI. A third letter from frontier AI company employees calls for government support in pacing AI development due to rapid advancements.",
+      "tags": [
+        "ai",
+        "policy",
+        "regulation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3139c53dc4dc4d8e",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Greg Brockman",
+      "url": "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything",
+      "summary": "OpenAI President Greg Brockman noted that people dislike being contacted by a coworker's ChatGPT for tasks, preferring human interaction. He suggests this reinforces the importance of human relationships and AI's role in enhancing, not replacing, them.",
+      "tags": [
+        "ai",
+        "ethics",
+        "workplace"
+      ],
+      "priority": false
+    },
+    {
+      "id": "da1e3acaf2ccd3ae",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Inside the London hacker house taking a stand against founder burnout",
+      "url": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+      "summary": "A London founder house is promoting work-life balance as a strategy to combat startup founder burnout. The initiative aims to rewrite traditional founder house rules by prioritizing well-being.",
+      "tags": [
+        "startups",
+        "burnout",
+        "work-life balance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "159a806d28be3398",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "summary": "A judge denied xAI's request to block a Minnesota ban on \"nudify\" apps, allowing the state law to proceed. The ban targets applications that enable users to create \"nudified\" images.",
+      "tags": [
+        "ai",
+        "policy",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "80c78c7f39e62c45",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "summary": "OpenAI CEO Sam Altman continues to advocate for ChatGPT as a valuable tool for parents, highlighting a \"cool use case\" for the AI. He seems enthusiastic about its potential applications in parenting.",
+      "tags": [
+        "ai",
+        "chatgpt",
+        "parenting"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bf4e80e80e3a95af",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Should you still buy your next smartphone — or subscribe to it instead?",
+      "url": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
+      "summary": "Apple's new Upgrade program signals a shift in smartphone ownership, suggesting a move towards subscription models instead of outright purchases. This trend may change how consumers acquire their next device.",
+      "tags": [
+        "smartphones",
+        "apple",
+        "subscription"
+      ],
+      "priority": false
+    },
+    {
+      "id": "92045e292a141f23",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "This $9 key physically locks your most addictive apps",
+      "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+      "summary": "A new $9 NFC key offers a physical method to lock distracting apps on smartphones, requiring a scan to unlock them. This device aims to help users combat app addiction and improve focus.",
+      "tags": [
+        "productivity",
+        "apps",
+        "addiction"
+      ],
+      "priority": false
+    },
+    {
+      "id": "163f865b6b2e6f8f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it",
+      "url": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
+      "summary": "Uber has partnered with and invested in approximately 30 autonomous vehicle companies over the last two years, building an extensive self-driving empire. This strategy reveals Uber's significant push into the autonomous vehicle sector.",
+      "tags": [
+        "uber",
+        "autonomous vehicles",
+        "partnerships"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f46753676467d3f9",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Angela Nissel faces down grief with a laugh",
+      "url": "https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead",
+      "summary": "Angela Nissel's new memoir, \"Good Grief, Pass the Bread, Mom Is Dead,\" offers an emotional yet humorous take on caring for a terminally ill parent. Nissel is known for her dark humor, previously seen in \"The Broke Diaries\" and her work on shows like \"Scrubs.\"",
+      "tags": [
+        "memoir",
+        "books",
+        "humor"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a2d78dacdcb76a63",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Foldables are sort of boring now — and that’s great news for Apple",
+      "url": "https://www.theverge.com/column/972937/foldable-phones-boring-apple",
+      "summary": "Foldable phones, once novel with early issues, have become routine, with even the first commercial model being \"charmingly awful.\" This normalization of foldable technology is seen as good news for Apple, as the market matures.",
+      "tags": [
+        "smartphones",
+        "foldables",
+        "tech industry"
+      ],
+      "priority": false
+    },
+    {
+      "id": "74d21a62927f8d30",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Is paying artists enough to convince them to embrace AI?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+      "summary": "Generative AI startups face legal battles and ethical concerns from illustrators whose work is used for training without permission. This has led to the emergence of \"ethical\" AI startups like Pippa, which aim to offer services that compensate artists fairly.",
+      "tags": [
+        "ai",
+        "art",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "29ff85932848df8f",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Is this Billboard Hot 100 hit AI slop?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+      "summary": "Fenix Flexin's solo hit \"Rubberz\" has sparked speculation that it was largely AI-generated, despite his denials. The song's '80s UK sound is a significant departure from his usual trap-influenced West Coast rap style.",
+      "tags": [
+        "music",
+        "ai",
+        "controversy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7a298c3dfd63e69f",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Pixel 11 specs and price leak with no surprises",
+      "url": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
+      "summary": "Leaked specs and pricing for the Pixel 11 lineup align with previous rumors, indicating a $100 price increase for the base model, now with 256GB storage. The Pro and Pro XL versions are expected to have reduced RAM and further price hikes.",
+      "tags": [
+        "pixel",
+        "smartphones",
+        "leaks"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dedaa605d124fb81",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Spider-Man: Brand New Day leak racks up millions of views",
+      "url": "https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records",
+      "summary": "A bootleg of \"Spider-Man: Brand New Day\" was leaked on X, garnering millions of views before being removed by Disney. Despite the leak, the film is a box office success, already breaking preview records set by \"Avengers: Endgame.\"",
+      "tags": [
+        "film",
+        "leak",
+        "box office"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 59,
+    "summarized": 49,
+    "skipped_promos": 2,
+    "filtered_by_rules": 8,
+    "sources": 8,
+    "email_items_omitted": 0
+  }
+}
