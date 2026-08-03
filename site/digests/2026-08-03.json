@@ -1,0 +1,931 @@
+{
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T16:16:52+00:00",
+  "hot_topics": [
+    {
+      "topic": "Former President Trump's Ongoing Political Influence and Policy Stances",
+      "synthesis": "Former President Trump continues to shape the political discourse, both domestically and internationally. Domestically, his proposed 'anti-weaponization fund' was withdrawn, while he pushes for the elimination of the legislative filibuster to pass the SAVE America Act, which would curb citizen lawsuits against polluters. Globally, his past foreign policy actions, such as brokering the Abraham Accords and engaging with Iran, continue to resonate, despite Iran's denial of current direct talks with the US.",
+      "item_ids": [
+        "9b8d5406bea96e2c",
+        "39d24398ceb3feca",
+        "94f0447342851d00",
+        "bb9bc774460cfebb",
+        "77e3113dc2c099f5",
+        "6ca796c488f238a1",
+        "fb75fada51705c2a"
+      ]
+    },
+    {
+      "topic": "Advancements and Societal Impact of AI",
+      "synthesis": "The field of AI is marked by both significant technological progress and emerging ethical and practical challenges. Chinese tech giant Alibaba has launched a new AI model, Qwen3.8-Max, that is said to rival top Western systems, while AI has demonstrated its capability by solving complex mathematical problems. However, the rapid development sparks debates about pacing AI growth, the potential for AI to 'hallucinate' false information, and the need for human oversight when using AI-generated code. Despite these concerns, AI also offers substantial benefits, such as assisting individuals with criminal records in securing employment.",
+      "item_ids": [
+        "d5ffc7bab7f9131e",
+        "085115fdf2d9be7f",
+        "af5b21671469a79a",
+        "45f6b597b1bb7b0e",
+        "f283aabcad98d1c7",
+        "418607907b49caca",
+        "f61db67125d96d04",
+        "b9c8a9c43ad733fd",
+        "64f0bdf0d591d94f",
+        "5ed24ae536c1848a",
+        "2a6fe89f0a8620dc"
+      ]
+    },
+    {
+      "topic": "Competitive Primary Elections in Michigan",
+      "synthesis": "Michigan is emerging as a critical state in upcoming primary elections, with both Democratic and Republican races drawing national attention. In the Democratic Senate primary, progressive Abdul El-Sayed and moderate Haley Stevens are in a closely watched contest where Black voters may be a decisive factor. Meanwhile, the Republican governor's primary is characterized by an intense and 'hyper-online' battle between Trump-endorsed John James and challenger Perry Johnson.",
+      "item_ids": [
+        "a25ef05646ab6040",
+        "270e16caaba7eaea",
+        "4db58e1f1f7334f6"
+      ]
+    },
+    {
+      "topic": "Deadly Bomb Blast in Moscow",
+      "synthesis": "A severe incident in Moscow involved a bomb blast at an Italian restaurant that killed three people and injured 21 others. Russian media reported on the event, and a BBC editor visited the scene. This event highlights a significant security concern in the capital.",
+      "item_ids": [
+        "9cea76911d5634f0",
+        "a6555cff0420fd70"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "061d289d3d7618fc",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Ani Liu: eye heart womb",
+      "url": "https://aeon.co/videos/transforming-scientific-enquiry-and-human-bodies-into-visceral-art",
+      "summary": "Artist, scientist, and mother Ani Liu explores how power and control shape the body through her \"taboo-breaking\" artworks. Her work transforms scientific inquiry and human bodies into visceral art.",
+      "tags": [
+        "art",
+        "science",
+        "feminism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6758029aa731b293",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Thucydides the perspicacious",
+      "url": "https://aeon.co/essays/thucydides-account-of-war-is-as-timely-as-it-is-misunderstood",
+      "summary": "Thucydides' analysis of war, often misunderstood as endorsing \"might makes right,\" actually identifies a common vice among all states. The essay argues his account remains timely and relevant for understanding conflict.",
+      "tags": [
+        "history",
+        "philosophy",
+        "war"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6eb841d5fb47ed4f",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "2026 Volkswagen Jetta Sport: The cheap car isn't completely extinct yet",
+      "url": "https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/",
+      "summary": "The 2026 Volkswagen Jetta Sport review starts with a difficult first impression, as the reviewer describes an arduous journey to drive the car home in bad weather. The article notes the Jetta Sport is distinct from the more powerful Jetta GLI.",
+      "tags": [
+        "automotive",
+        "car review"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0abbdeb1aeaad7ca",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "How headlights got brighter, whiter, and more blinding after dark",
+      "url": "https://arstechnica.com/cars/2026/08/how-headlights-got-brighter-whiter-and-more-blinding-after-dark/",
+      "summary": "Modern automotive headlights have become significantly brighter and whiter, leading to a \"lumen arms race\" that can be blinding to oncoming drivers at night. This change is more complex than simply drivers using high beams, evolving from early oil lanterns to today's powerful lights.",
+      "tags": [
+        "automotive technology",
+        "safety"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9b8d5406bea96e2c",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Trump wants the power to stop the public from suing polluters",
+      "url": "https://arstechnica.com/tech-policy/2026/08/trump-wants-the-power-to-stop-the-public-from-suing-polluters/",
+      "summary": "Former President Trump seeks to eliminate \"citizen suit provisions\" in environmental laws, which currently allow individuals and advocacy groups to sue polluters or federal agencies failing to enforce environmental regulations. These provisions, used in over 2,000 lawsuits since the 1970s, have been crucial for environmental law enforcement.",
+      "tags": [
+        "environmental policy",
+        "us politics",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "149179c3ab104814",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'What was my fault?': How India's exam paper leak ended young lives",
+      "url": "https://www.bbc.co.uk/news/articles/crl7jl1d95eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two families reveal the devastating human toll of India's medical entrance examination paper leak, which led to young lives being cut short. This incident highlights the severe pressure and consequences within India's competitive education system.",
+      "tags": [
+        "india",
+        "education",
+        "scandal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dc5af53148b5a138",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'Your legacy will live forever': Nepal mourns climber Nirmal Purja",
+      "url": "https://www.bbc.co.uk/news/articles/c07rvy4e7mno?at_medium=RSS&at_campaign=rss",
+      "summary": "Nepal is mourning the death of renowned climber Nirmal Purja, who was killed in an avalanche, along with some of the country's best mountaineers. Tributes are pouring in for his legacy in the mountaineering community.",
+      "tags": [
+        "nepal",
+        "mountaineering",
+        "accident"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9bf6af2be054ab61",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+      "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+      "summary": "Israeli strikes on Gaza City, Khan Younis, and Deir el-Balah killed at least 13 people, with Israel claiming to target military operatives, following Hamas's agreement to a disarmament deal. This comes amid ongoing tensions in the region.",
+      "tags": [
+        "israel",
+        "gaza",
+        "hamas"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a6555cff0420fd70",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "At the scene of deadly Moscow bomb blast",
+      "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Three people have been killed and 21 injured after an explosive device detonated at an Italian restaurant, Russian media reports.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c649edbc54bd945c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war",
+      "url": "https://www.bbc.co.uk/news/articles/cdrv6r3xgyeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of people are fleeing renewed fighting in northern Ethiopia, raising fears of a return to full-scale civil war as a peace deal has not been fully implemented. This underscores the fragility of peace efforts in the region.",
+      "tags": [
+        "ethiopia",
+        "conflict",
+        "civil war"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bb9bc774460cfebb",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran denies direct talks with the US, stating it is only in discussions with Oman, following Donald Trump's assertion that negotiations would resume. This prompted a strong condemnation from Trump regarding Iran's leadership.",
+      "tags": [
+        "iran",
+        "us politics",
+        "diplomacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6ff110a3bca989af",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Malaysian boy on trial for allegedly murdering girl in school",
+      "url": "https://www.bbc.co.uk/news/articles/cgewq549988o?at_medium=RSS&at_campaign=rss",
+      "summary": "A high-profile case in Malaysia involves a boy on trial for the alleged murder of a girl in school, which has shocked the nation and sparked debate about social media's impact on children. This reflects societal concerns about youth violence and digital influence.",
+      "tags": [
+        "malaysia",
+        "crime",
+        "social media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cad5f49a272ba63e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Massive Attack respond after Singapore ban over Palestine display",
+      "url": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK band Massive Attack expressed surprise and disappointment after being banned in Singapore for shouting \"free Palestine\" at a concert. This incident highlights the intersection of artistic expression and political sensitivities.",
+      "tags": [
+        "music",
+        "singapore",
+        "palestine"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6ca796c488f238a1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Moroccan king's letter confirms naming of major highway in honour of Trump",
+      "url": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss",
+      "summary": "A letter from the Moroccan king confirms that a major highway entering the disputed territory of Western Sahara, claimed by Morocco, has been named in honor of Donald Trump. This gesture follows Morocco's normalization of relations with Israel under the U.S.-brokered Abraham Accords.",
+      "tags": [
+        "morocco",
+        "trump",
+        "diplomacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9cea76911d5634f0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Outside the Moscow restaurant where bomb killed three",
+      "url": "https://www.bbc.co.uk/news/articles/cdx8qp451lko?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Russia editor reports from Kudrinskaya Square, where the blast took place.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "bbc0c2eb5b92002a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+      "url": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Europe's major rivers, including the Rhine, Danube, and Po, are experiencing record low water levels due to drought, impacting goods transport and electricity production. This highlights the severe consequences of climate change on infrastructure and economy.",
+      "tags": [
+        "drought",
+        "europe",
+        "climate change"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ccd04b014af302ff",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Russian anti-war politician says he has fled the country",
+      "url": "https://www.bbc.co.uk/news/articles/c70gjw60033o?at_medium=RSS&at_campaign=rss",
+      "summary": "Boris Nadezhdin, a Russian anti-war politician recently designated as a foreign agent, has announced his departure from the country. He posted a video in front of the Eiffel Tower, indicating his exile.",
+      "tags": [
+        "russia",
+        "politics",
+        "exile"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9b9150d5f34758ad",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Sudan army drone strike on court session kills 35, rights group says",
+      "url": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
+      "summary": "A human rights group reports that a Sudan army drone strike on a court session in a paramilitary-held village killed 35 people, with the army yet to comment on civilian casualties. This highlights the ongoing violence and its impact on civilians in Sudan.",
+      "tags": [
+        "sudan",
+        "conflict",
+        "human rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c7d9e249349fbfa8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
+      "url": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
+      "summary": "Analysts report that the threat to oil tankers in the Middle East is at its highest level since the beginning of the Iran war, with new attacks on alternative shipping routes complicating the situation. This raises concerns for global energy security.",
+      "tags": [
+        "iran",
+        "middle east",
+        "oil"
+      ],
+      "priority": false
+    },
+    {
+      "id": "39d24398ceb3feca",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Todd Blanche formally withdraws Trump's 'anti-weaponisation' fund plan",
+      "url": "https://www.bbc.co.uk/news/articles/c3w05gx32d4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Todd Blanche formally withdrew President Trump's controversial \"anti-weaponisation\" fund plan after two Republican senators requested a written guarantee against its revival. This move addresses concerns within the Republican party about the proposal.",
+      "tags": [
+        "trump",
+        "us politics",
+        "campaign finance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bd640410c1044d3b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+      "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Two crew members, a Danish and a Greek national, died after firefighting helicopters collided in Greece, while a British pilot and another Greek crew member survived. The incident occurred during firefighting operations.",
+      "tags": [
+        "greece",
+        "accident",
+        "aviation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "145b21596f426b35",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
+      "url": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
+      "summary": "In Japan, two women workers were killed in a blast after their employer ordered them to re-enter a quake-damaged Aeon Mall to secure cash. The employer has since apologized for this fatal decision.",
+      "tags": [
+        "japan",
+        "disaster",
+        "workplace safety"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d6ff66ba05b357e9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US and Japan take action to prop up yen in rare joint move",
+      "url": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US and Japan have taken rare joint action to support the yen, stating they are prepared to conduct future interventions. This move signals concerns over the yen's value and international financial stability.",
+      "tags": [
+        "currency",
+        "japan",
+        "us"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8406bea3f64de06e",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Bonsai: Janestreet's UI Library",
+      "url": "https://github.com/janestreet/bonsai",
+      "summary": "\"Bonsai\" refers to Janestreet's UI Library, indicating a new or notable tool for user interface development. This suggests continued innovation in programming frameworks.",
+      "tags": [
+        "ui library",
+        "software development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f61db67125d96d04",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Critical CVE issued for hallucinated SQLite vulnerability",
+      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+      "summary": "A critical CVE was reportedly issued for a \"hallucinated SQLite vulnerability,\" implying an AI model generated a non-existent security flaw. This highlights the potential for AI to produce misleading information in technical contexts.",
+      "tags": [
+        "cybersecurity",
+        "ai",
+        "sqlite"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dd440842c150bdb8",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Don't be a meat proxy",
+      "url": "https://gruhn.me/blog/2026-08-03/",
+      "summary": "This article, titled \"Don't be a meat proxy,\" likely discusses the role of humans in an increasingly automated or AI-driven world. It possibly explores themes of autonomy, critical thinking, or resisting passive compliance.",
+      "tags": [
+        "philosophy",
+        "automation",
+        "tech culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b9c8a9c43ad733fd",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+      "summary": "An article suggests manually retyping code generated by large language models (LLMs) to prevent \"cognitive debt.\" This practice aims to improve understanding and retention for developers when using AI-assisted coding.",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "085115fdf2d9be7f",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+      "url": "https://qwen.ai/blog?id=qwen3.8",
+      "summary": "Qwen3.8-Max sets a new standard for coding and collaborative work, indicating advancements in AI's capabilities for programming assistance and team-based tasks. The article likely details its features and performance.",
+      "tags": [
+        "ai",
+        "coding",
+        "large language models"
+      ],
+      "priority": false
+    },
+    {
+      "id": "afa9137061343a29",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Rust project goals: Immobile types and guaranteed destructors",
+      "url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
+      "summary": "The Rust project goals for 2026 include \"immobile types and guaranteed destructors,\" outlining key language features and safety guarantees. These goals reflect ongoing development to enhance Rust's reliability and performance.",
+      "tags": [
+        "rust",
+        "programming language",
+        "software development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "89cbcecda67134bf",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Show HN: Isopolis – Isometric pixel map of SF",
+      "url": "https://sf.isopolis.city/",
+      "summary": "Isopolis is a \"Show HN\" project featuring an isometric pixel map of San Francisco. This demonstrates a creative application of pixel art and mapping technology.",
+      "tags": [
+        "pixel art",
+        "mapping",
+        "san francisco"
+      ],
+      "priority": false
+    },
+    {
+      "id": "32a348d94650f3c1",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Bedbugs, bad Wi-Fi: Federal workers say forced summer relocations have been chaos",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5896088/forced-federal-relocations-haphazard",
+      "summary": "Federal workers describe chaotic forced summer relocations into new buildings, reporting issues like bedbugs and bad Wi-Fi, which are significantly disrupting their work. These rushed moves are impacting hundreds of employees.",
+      "tags": [
+        "federal government",
+        "workplace",
+        "logistics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "93b4c4e98e90c791",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "For Republicans planning post-Trump future, one race in Washington is worth watching",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5902154/2026-primaries-washington-state-republican-party-trump",
+      "summary": "Republicans looking to the post-Trump future are closely watching a primary race in Washington state to replace Rep. Dan Newhouse, as candidates from different party wings test Trump's influence. This contest serves as a barometer for the party's direction.",
+      "tags": [
+        "us politics",
+        "republican party",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f283aabcad98d1c7",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "For those with criminal records, AI is breaking down barriers to employment",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5892484/ai-legal-tech-jobs-clean-slate",
+      "summary": "An AI-powered app is significantly helping millions of Americans with criminal records to expunge them, thereby breaking down barriers to employment. This technology is accelerating the \"clean slate\" process.",
+      "tags": [
+        "ai",
+        "employment",
+        "social justice"
+      ],
+      "priority": false
+    },
+    {
+      "id": "870ab40a65f8dd1f",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Over 4 million people are no longer receiving food aid amid sweeping changes to SNAP",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5906797/snap-food-stamp-federal-changes-what-to-know",
+      "summary": "Over 4 million Americans have stopped receiving food aid as participation in the SNAP program has rapidly declined since July, following historic cuts and changes. This indicates a significant impact on food assistance for vulnerable populations.",
+      "tags": [
+        "snap",
+        "food aid",
+        "social policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7e91104abd7590ef",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Rare photos of ex-Myanmar leader Aung San Suu Kyi give her family hope",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5917915/aung-san-suu-kyi-myanmar-rare-photos-kim-aris",
+      "summary": "Rare photographs of former Myanmar leader Aung San Suu Kyi meeting a foreign official have offered her son, Kim Aris, a renewed sense of hope. These are the first such images since her ousting in the 2021 military coup.",
+      "tags": [
+        "myanmar",
+        "politics",
+        "human rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b33b91bbd092e930",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "She protested ICE raids. Then agents showed up at her door",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5886263/ice-dhs-immigration-enforcement-conspiracy-arrests",
+      "summary": "The Justice Department is using federal conspiracy charges to prosecute ICE protesters, leading to concerns among legal experts that the agency is overreaching in prosecuting political activists. This raises questions about civil liberties and freedom of protest.",
+      "tags": [
+        "ice",
+        "protest",
+        "civil liberties"
+      ],
+      "priority": false
+    },
+    {
+      "id": "94f0447342851d00",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Todd Blanche rescinds 'anti-weaponization fund'. And, Trump calls off striking Iran",
+      "url": "https://www.npr.org/2026/08/03/g-s1-136892/up-first-newsletter-iran-war-todd-blanche-capital-one-bank-accounts-trump-conspiracy",
+      "summary": "Acting Attorney General Todd Blanche has rescinded President Trump's \"anti-weaponization fund\" ahead of his confirmation hearing, while the president also called off strikes on Iran over a potential deal. These actions reflect significant political and foreign policy decisions.",
+      "tags": [
+        "us politics",
+        "trump",
+        "iran"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9c6c5ac3c2c73e48",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "U.S. men's national team coach Mauricio Pochettino will stay through 2030 World Cup",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5917999/us-soccer-mauricio-pochettino-coach-2030",
+      "summary": "Mauricio Pochettino, coach of the U.S. men's national team, will remain in his position through the 2030 World Cup after leading the team to a record three wins in the recent World Cup. His tenure has ignited significant fan enthusiasm despite a Round of 16 exit.",
+      "tags": [
+        "soccer",
+        "usmnt",
+        "sports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e91212569f4f35ca",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Washington wildfires destroy homes, force thousands to evacuate",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5918018/washington-spokane-wildfires-evacuations",
+      "summary": "Washington state wildfires have destroyed homes and forced thousands to evacuate, with Spokane Mayor Lisa Brown reporting nearly half of the city's neighborhoods are at risk or evacuated due to uncontained fires. This signifies a major regional disaster.",
+      "tags": [
+        "wildfires",
+        "washington",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c44a5a9525820800",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "What would it take to get peptides on the shelf?",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5913381/health-fda-peptides-product-regulation",
+      "summary": "An FDA advisory panel's vote to green-light some popular peptides has brought attention to their market and raised concerns about unregulated supply. This highlights the challenges in regulating emerging health products.",
+      "tags": [
+        "health",
+        "fda",
+        "regulation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4db58e1f1f7334f6",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Michigan’s GOP governor primary is getting weird",
+      "url": "https://www.politico.com/news/2026/08/03/michigans-gop-governor-primary-john-james-01020176",
+      "summary": "Michigan's GOP governor primary has devolved into an \"ugly, hyper-online brawl\" as Rep. John James, backed by Trump, faces strong grassroots resistance from Perry Johnson, who has launched caustic personal attacks. Despite Johnson's significant spending, typical party support mechanisms are moving towards James, while Democrats are poised to elevate Jocelyn Benson.",
+      "tags": [
+        "us politics",
+        "republican party",
+        "michigan"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a25ef05646ab6040",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "We’re about to find out how powerful progressives really are",
+      "url": "https://www.politico.com/news/2026/08/03/progressives-michigan-senate-house-test-01021095",
+      "summary": "Michigan's upcoming primary elections, including a marquee Senate race and two House primaries, will test the power of progressives to win in both safe and battleground seats. A strong progressive showing, especially a victory by Abdul El-Sayed, would bolster arguments for their broader appeal and influence the Democratic Party's ideological direction for 2028.",
+      "tags": [
+        "us politics",
+        "elections",
+        "progressives"
+      ],
+      "priority": false
+    },
+    {
+      "id": "418607907b49caca",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "Why the Legendary Erdős Problems Are Falling to AI",
+      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
+      "summary": "OpenAI announced an internal AI model found a counterexample to the \"unit distance\" problem, a 1946 conjecture by mathematician Paul Erdős, shaking the mathematical world. This demonstrates AI's growing capability in complex mathematical problem-solving.",
+      "tags": [
+        "ai",
+        "mathematics",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "77e3113dc2c099f5",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Democrats should seize the chance to end the filibuster",
+      "url": "https://www.slowboring.com/p/democrats-should-seize-the-chance",
+      "summary": "Donald Trump is pressuring Republicans to scrap the legislative filibuster to pass the SAVE America Act, while GOP leaders resist this move despite the bill's popular photo ID component. The author argues Democrats should seize this moment to end the filibuster, highlighting the political dynamics around legislative strategy.",
+      "tags": [
+        "us politics",
+        "filibuster",
+        "legislation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "af5b21671469a79a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "summary": "June, a new startup backed by Marc Benioff, has emerged from stealth with $20 million in pre-seed funding, aiming to simplify AI adoption. The company believes AI itself can address the complexities of AI deployment.",
+      "tags": [
+        "ai",
+        "startup",
+        "enterprise software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "40f6ad41b3798f12",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
+      "url": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
+      "summary": "Balaji Srinivasan's \"Network School,\" described as a \"frontier community for techno-optimists,\" is reportedly being shut down by Malaysia. The article alludes to its performance or challenges.",
+      "tags": [
+        "education",
+        "startup",
+        "malaysia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "45f6b597b1bb7b0e",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Sam Altman and AI’s decel debate",
+      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "summary": "The latest episode of Equity discusses Sam Altman's call for the AI industry to \"pace the rate of AI development.\" This highlights an ongoing debate within the tech community about the speed and control of AI advancements.",
+      "tags": [
+        "ai ethics",
+        "ai policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5ed24ae536c1848a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
+      "url": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
+      "summary": "The latest edition of TechCrunch Mobility explores the evolving landscape of robotaxis, emphasizing the significant role AI plays in the future of transportation. It suggests a divergence in approaches or challenges for autonomous vehicle development.",
+      "tags": [
+        "mobility",
+        "robotaxis",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7f9fb7d29b7f6db0",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The global memory shortage hits the MacBook Air",
+      "url": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+      "summary": "The global memory chip shortage is reportedly impacting the availability of Apple's popular MacBook Air. This indicates broader supply chain challenges affecting consumer electronics.",
+      "tags": [
+        "macbook",
+        "chip shortage",
+        "supply chain"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2a6fe89f0a8620dc",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+      "url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+      "summary": "Despite predictions that AI agents could make traditional apps obsolete, new App Store finds demonstrate that developers are still creating innovative software at a rapid pace. These \"hidden gems\" include smarter bookmarking tools and digital pen pals, proving value beyond AI-centric solutions.",
+      "tags": [
+        "app development",
+        "ai impact",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4466e90cca04931c",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "He Made Videos for Mamdani and Piker—and Loves the CCP",
+      "url": "https://www.thefp.com/p/mamdani-videographer-china-eric-hovagim",
+      "summary": "Eric Hovagim, a videographer for far-left figures like Zohran Mamdani and Hasan Piker, is known for online posts espousing extreme anti-American and anti-Israel views, glorifying political violence, and supporting the CCP. His content, disseminated across social media, reflects a blend of conspiracy theories and radical political positions.",
+      "tags": [
+        "us politics",
+        "media",
+        "extremism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "270e16caaba7eaea",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Black Voters Who Could Decide the Country’s Biggest Democratic Primary",
+      "url": "https://www.thefp.com/p/michigan-senate-race-black-voters",
+      "summary": "In Michigan's Senate primary, moderate Representative Haley Stevens is gaining ground among Black voters, who could be crucial in the race against progressive Abdul El-Sayed. This dynamic highlights the importance of diverse voter blocs in competitive elections.",
+      "tags": [
+        "us politics",
+        "elections",
+        "michigan"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fb75fada51705c2a",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "What Really Happened in Ceuta",
+      "url": "https://www.thefp.com/p/ceuta-migration-crisis-morocco-islamism",
+      "summary": "The recent migrant surge into Spain's Ceuta territory was influenced by fierce domestic divisions in Morocco between its government and radical Islamist actors, intensified by Morocco's normalization of relations with Israel. This complex interplay of factors, rather than simple open-border policies or external blame, explains the crisis.",
+      "tags": [
+        "morocco",
+        "spain",
+        "migration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7eef7506793fdf2a",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "Enchantment and the Courage of Joy: René Magritte on the Antidote to the Banality of Pessimism",
+      "url": "https://www.themarginalian.org/2026/08/02/rene-magritte-enchantment/",
+      "summary": "René Magritte believed that creating \"enchantment\" and celebrating joy is a courageous counter-offensive against the \"routine ugliness\" and cultural tyranny of pessimism. Having lived through significant hardship, he saw his art as a battle to transform the mental universe into something more valuable and joyful.",
+      "tags": [
+        "philosophy",
+        "art",
+        "magritte"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5d8cd1291f9d3365",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Big Walk is like co-op Breath of the Wild",
+      "url": "https://www.theverge.com/games/973166/big-walk-review",
+      "summary": "Big Walk, the new co-op multiplayer game from the creators of Untitled Goose Game, offers a radical departure, focusing on exploring a large island and solving puzzles together. The reviewer and their wife have spent over 13 hours enjoying the game.",
+      "tags": [
+        "gaming",
+        "indie game",
+        "co-op"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d711b8842111df81",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Bluesky’s new CEO wants a big tent, not a bubble",
+      "url": "https://www.theverge.com/podcast/974387/bluesky-toni-schneider-interview-ai-atproto-atmosphere",
+      "summary": "Bluesky's new CEO, Toni Schneider, aims to expand the social platform beyond its current user base by focusing on its open AT Protocol, which allows other apps to interoperate with Bluesky. Schneider envisions a future for social media that serves the public good, drawing parallels to the early days of the open web and WordPress.",
+      "tags": [
+        "social media",
+        "tech",
+        "web protocol"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d5ffc7bab7f9131e",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+      "summary": "Chinese tech giant Alibaba has released Qwen3.8-Max, its largest and most capable AI model to date, claiming performance comparable to top US AI labs like Anthropic and OpenAI. This open release intensifies global tensions in the AI industry.",
+      "tags": [
+        "ai",
+        "china",
+        "large language models"
+      ],
+      "priority": false
+    },
+    {
+      "id": "64f0bdf0d591d94f",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+      "summary": "Fender CEO Edward \"Bud\" Cole's resurfaced comments, comparing bandmates and cover songs to \"analog AI,\" have sparked controversy, adding to recent negative PR for the company over copyright claims on Stratocaster body shapes. These remarks follow influential guitar YouTubers boycotting Fender gear.",
+      "tags": [
+        "music industry",
+        "ai",
+        "fender"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3ce9a06ad70a5fa8",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Lenovo Googlebook leaks reveal a laptop and 2-in-1 tablet",
+      "url": "https://www.theverge.com/tech/974377/lenovo-googlebook-google-image-leaks-laptops",
+      "summary": "Leaked images from Digital Citizen and Android Headlines reveal potential Lenovo Googlebook models, including a laptop and a 2-in-1 tablet, ahead of their anticipated Fall 2026 release. These devices feature Googlebook branding and are successors to Google's Chromebook platform.",
+      "tags": [
+        "laptops",
+        "tablets",
+        "googlebook"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fa45b36cdcc39ac6",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Palworld’s expanding to mobile with a new MMORPG",
+      "url": "https://www.theverge.com/games/974450/palworld-online-mobile-mmo",
+      "summary": "Palworld is expanding to mobile with a new open-world MMORPG, Palworld Online, launching later this year for iOS and Android. Developed by Garena, the mobile version promises to reimagine the original PC game's depth, freedom, and scale with core features like crafting and creature collecting.",
+      "tags": [
+        "gaming",
+        "mobile game"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e978f733300f8388",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing",
+      "url": "https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review",
+      "summary": "Rachika Nayar's Heaven Come Crashing marks a departure from her previous percussion-free work with a surprising drum and bass beat on its title track, although the album largely remains drum-free. The album explores themes of desperate longing through its instrumental soundscapes.",
+      "tags": [
+        "music review",
+        "instrumental"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3cf12a30449d6137",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Spider-Man and The Odyssey are splitting up IMAX screens after a record-breaking weekend",
+      "url": "https://www.theverge.com/entertainment/974411/spider-man-the-odyssey-imax",
+      "summary": "After a record-breaking box office weekend, Spider-Man: Brand New Day will join The Odyssey in select digital IMAX locations in North America. Spider-Man debuted with $355 million, making it the second-biggest box office debut since Avengers: Endgame.",
+      "tags": [
+        "film",
+        "box office",
+        "imax"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f9eb04ea521b2c62",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Xbox prices are increasing by up to €200 or £170",
+      "url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
+      "summary": "Microsoft is significantly increasing Xbox prices in the EU and UK, with some models rising by up to €200 or £170, marking a 30-43% jump. This price hike is attributed to skyrocketing RAM and storage costs driven by AI industry demand, making it one of the most dramatic console price increases.",
+      "tags": [
+        "xbox",
+        "gaming hardware",
+        "pricing"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 77,
+    "summarized": 63,
+    "skipped_promos": 1,
+    "filtered_by_rules": 13,
+    "sources": 12,
+    "email_items_omitted": 0
+  }
+}
