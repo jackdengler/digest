@@ -1,0 +1,1157 @@
+{
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T16:11:44+00:00",
+  "hot_topics": [
+    {
+      "topic": "Apple and OpenAI's intensifying trade secrets lawsuit",
+      "synthesis": "OpenAI has described Apple's trade secrets lawsuit as 'careless, aggressive and oddly personal,' denying claims of stealing confidential information. Apple, however, is widening its investigation, alleging that more former employees might have taken sensitive data to the AI startup. This escalating dispute highlights growing tensions surrounding AI development and corporate intellectual property.",
+      "item_ids": [
+        "d942ea4831fa2c00",
+        "40c401689fbff79f"
+      ]
+    },
+    {
+      "topic": "Texas implements new audits for data centers impacting grid stability",
+      "synthesis": "Texas Governor Greg Abbott has ordered a halt on new data center developments, mandating audits for all facilities seeking to connect to the state's energy grid. This move, aimed at ensuring grid stability and reliability, requires data centers to disclose details on incentives, grid reliance, water consumption, and community impact.",
+      "item_ids": [
+        "1ca8304bcf233d17",
+        "ff1d1478b2243bd0"
+      ]
+    },
+    {
+      "topic": "Ceuta migrant crisis and EU border calls",
+      "synthesis": "Spain has returned 70,000 migrants to Morocco following a recent crisis in Ceuta, a Spanish exclave in North Africa. The EU has praised Spain's swift response while also calling for stronger border controls in the wake of the mass crossings. Migrants, often misinformed about asylum prospects, attempted to reach Europe through Ceuta.",
+      "item_ids": [
+        "bec71b9180b875d5",
+        "df323c1137d9bffe",
+        "693049b640e0db39"
+      ]
+    },
+    {
+      "topic": "Arson arrest made in Spokane wildfires",
+      "synthesis": "Authorities in Washington state have made an arson arrest in connection with the devastating wildfires in Spokane, which have destroyed hundreds of homes and displaced a significant portion of the city's residents. The fires have prompted evacuations and led to widespread destruction, with investigations ongoing into their cause.",
+      "item_ids": [
+        "698bab755eeeb610",
+        "feca0f5eeafccffd",
+        "fe62c99c06aa8379",
+        "5f467b8c446e4595"
+      ]
+    },
+    {
+      "topic": "US water systems face cyberattack threats",
+      "synthesis": "Concerns are rising over the cybersecurity of US water systems, with reports of potential hacks in seven states, possibly linked to Iran. While the US President dismisses Iranian involvement, cyber experts suggest otherwise. The incidents highlight America's vulnerability to cyberattacks on critical infrastructure, posing risks of widespread water contamination and public panic.",
+      "item_ids": [
+        "812cd8d0e2fd7fe9",
+        "33243c3ae7476254"
+      ]
+    },
+    {
+      "topic": "Midwest primaries test progressive electability",
+      "synthesis": "Several US states, particularly in the Midwest, are holding primary elections today, serving as a critical testing ground for progressive candidates. Races in Michigan, Wisconsin, and Minnesota are being closely watched to gauge the electability of progressives in competitive states, influencing the future direction for both Democrats and Republicans.",
+      "item_ids": [
+        "feca0f5eeafccffd",
+        "752c7981bc51229c",
+        "401f671706326a05",
+        "089b015659f87bc0"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "bef2bf5ab5f19e05",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Towards an AI for Africa",
+      "url": "https://aeon.co/essays/an-ai-for-africa-would-be-built-on-hunhu-ubuntu-ethics",
+      "summary": "Western-developed AI often disregards the Ubuntu values of connection and community central to African ethical life, suggesting a need for an AI developed with African principles in mind. This essay argues for an AI approach that aligns with \"hunhu (ubuntu) ethics.\"",
+      "tags": [
+        "ai ethics",
+        "africa",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d1fac96bca3c60e9",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "2027 Chevrolet Corvette Grand Sport X proves code is as important as hardware",
+      "url": "https://arstechnica.com/cars/2026/08/2027-chevrolet-corvette-grand-sport-x-proves-code-is-as-important-as-hardware/",
+      "summary": "Chevrolet's new Grand Sport X replaces the E-Ray, re-imagining its hybrid system with significant software tweaks, new drive modes, and a different engine. This creates a more edgy and exciting performance car, addressing past customer confusion about the E-Ray's identity.",
+      "tags": [
+        "automotive",
+        "hybrid",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b8e9261d9849dc46",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
+      "url": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+      "summary": "A remote entrance exam for UNAM, Mexico's largest university, supervised by AI-powered proctoring software, resulted in significantly inflated scores and a disaster requiring 58,000 students to retake it. This was the first time the exam was conducted entirely remotely using such technology.",
+      "tags": [
+        "ai",
+        "education",
+        "remote learning"
+      ],
+      "priority": false
+    },
+    {
+      "id": "89ddb29d79d74ec6",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Can Trump FCC repeal 39% TV ownership cap? Republican who wrote cap into law says no.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/can-trump-fcc-repeal-39-tv-ownership-cap-republican-who-wrote-cap-into-law-says-no/",
+      "summary": "Former House majority leader Tom DeLay contends the FCC lacks the legal authority to repeal the 39% National Television Ownership Rule, asserting that only Congress can change the law he helped write. Despite this warning, the Trump FCC is scheduled to vote on eliminating the cap this week.",
+      "tags": [
+        "fcc",
+        "media",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d942ea4831fa2c00",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
+      "url": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/",
+      "summary": "OpenAI has accused Apple of a \"careless, aggressive and oddly personal lawsuit,\" denying claims of stealing trade secrets in a recent blog post. This is the latest escalation in a dispute initiated by Apple, which claims OpenAI stole hardware designs for its own AI-focused consumer devices.",
+      "tags": [
+        "ai",
+        "lawsuit",
+        "tech policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9039cdcf68891331",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
+      "url": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
+      "summary": "Ukrainian forces are upgrading thousands of $400 Shrike drones with a US-developed AI system, enabling them to autonomously track and home in on moving targets. This \"fire-and-forget\" terminal guidance mode allows human operators to designate targets and then disengage.",
+      "tags": [
+        "ai",
+        "drones",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d8325a4746227ef7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'Digital lifeline' - Gaza tech workers give glimpse of possible future",
+      "url": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of young people in Gaza are pursuing careers in the digital economy, offering a glimpse of a potential future as the territory's wider recovery struggles. This growing tech sector provides a \"digital lifeline\" and new opportunities for its workforce.",
+      "tags": [
+        "gaza",
+        "tech",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b8de93e11f5efa6d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
+      "url": "https://www.bbc.co.uk/news/articles/c3ek7g857q4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ariana Grande has \"taken a step back\" from the spotlight due to \"endless, ongoing public scrutiny\" over her body comments, but media attention on such topics is expected to persist. The star has expressed her frustration with the constant public examination of her appearance.",
+      "tags": [
+        "celebrity",
+        "media",
+        "mental health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "698bab755eeeb610",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Arson arrest made over largest of Washington state's wildfires",
+      "url": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&at_campaign=rss",
+      "summary": "An arson suspect has been arrested in connection with the largest of three wildfires in the Spokane area of Washington state, which forced 60,000 residents to evacuate their homes. The fires have caused extensive damage and prompted a major emergency response.",
+      "tags": [
+        "wildfires",
+        "arson",
+        "washington state"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5f467b8c446e4595",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Before and after images show Spokane wildfire destruction",
+      "url": "https://www.bbc.co.uk/news/videos/c70gjkxel0zo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Verify utilized before-and-after imagery to visually assess the extensive destruction caused by the wildfires in Washington state's Spokane area. This comparison highlights the significant damage inflicted by the blazes.",
+      "tags": [
+        "wildfires",
+        "visuals",
+        "washington state"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3a85403cf4ef381d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Charity cyclist, 82, dies a day after 3,300 mile ride across Australia",
+      "url": "https://www.bbc.co.uk/news/articles/c4gkpwj2je9o?at_medium=RSS&at_campaign=rss",
+      "summary": "82-year-old Bob Montgomery, a charity cyclist, unexpectedly died just one day after completing his 3,300-mile \"One Last Ride\" across Australia. His death occurred shortly after achieving his significant fundraising feat.",
+      "tags": [
+        "charity",
+        "cycling",
+        "obituary"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5eff6ca176864d6c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Deadly landslide hits Ethiopia mountain monastery during prayer service",
+      "url": "https://www.bbc.co.uk/news/articles/c2lqpx1qd8lo?at_medium=RSS&at_campaign=rss",
+      "summary": "A deadly landslide struck an Ethiopian mountain monastery during an overnight prayer service, sending rocks and earth crashing onto worshippers. Authorities reported multiple fatalities from the unexpected disaster.",
+      "tags": [
+        "ethiopia",
+        "disaster",
+        "landslide"
+      ],
+      "priority": false
+    },
+    {
+      "id": "812cd8d0e2fd7fe9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Did Iran hack water systems in seven US states?",
+      "url": "https://www.bbc.co.uk/news/articles/c934dq95zpgo?at_medium=RSS&at_campaign=rss",
+      "summary": "While US President Donald Trump denies Iranian responsibility, cyber experts suggest Iran likely hacked water systems in seven US states. This cyber incident raises concerns about critical infrastructure security and international cyber warfare.",
+      "tags": [
+        "cybersecurity",
+        "iran",
+        "us infrastructure"
+      ],
+      "priority": false
+    },
+    {
+      "id": "df323c1137d9bffe",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "EU calls for stronger borders after Ceuta migrant crossings",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
+      "summary": "Ursula von der Leyen has called for enhanced border security measures ahead of an urgent EU interior ministers meeting, following recent mass migrant crossings in Ceuta. The EU aims to discuss and implement actions to address the ongoing migration challenges.",
+      "tags": [
+        "eu",
+        "borders",
+        "migration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bec71b9180b875d5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
+      "url": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
+      "summary": "The EU has praised Spain's rapid handling of the Ceuta migrant crisis, noting that approximately 70,000 of the 72,000 individuals who illegally entered last week have been returned to Morocco. This response followed a large influx of people into the Spanish enclave.",
+      "tags": [
+        "migration",
+        "eu",
+        "spain"
+      ],
+      "priority": false
+    },
+    {
+      "id": "60c1528f00e18874",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "France wildfires reveal hundreds of WW2 shells in village",
+      "url": "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Wildfires in Le Porge, France, have uncovered hundreds of World War II shells, with explosions heard during the blazes attributed to these old munitions. The discovery poses additional risks and complicates firefighting efforts.",
+      "tags": [
+        "wildfires",
+        "france",
+        "ww2"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dc7a4faa8beabc4a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Guatemala volcano eruption sends lava spewing into the air",
+      "url": "https://www.bbc.co.uk/news/articles/c2lqpvv1wlxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Guatemala's Fuego stratovolcano, one of Central America's most active and a popular hiking spot, has erupted, sending lava spewing into the air. The eruption highlights the volcano's ongoing activity and potential hazards.",
+      "tags": [
+        "volcano",
+        "guatemala",
+        "natural disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6e1f63ae7fcb2781",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "I left my wife and twins behind - why this Nigerian man fled South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/c4gx2y454w5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nigerian Richard Itoro is among tens of thousands who have abandoned their lives in South Africa, fleeing the country and leaving behind families like his wife and twins. His story illustrates the broader trend of Nigerians departing South Africa.",
+      "tags": [
+        "nigeria",
+        "south africa",
+        "migration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f0bd67699d73b8a4",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
+      "summary": "A mass funeral was held in Gaza for 112 Palestinians from two extended families, whose bodies were recently recovered from rubble in Gaza City after being killed in a 2023 Israeli strike. The delayed recovery underscores the ongoing challenges in the region.",
+      "tags": [
+        "gaza",
+        "conflict",
+        "humanitarian"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f14c470ee64e61c6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Moment pilot caught with 70,000 ecstasy pills at Indonesian airport",
+      "url": "https://www.bbc.co.uk/news/videos/c9d8662gyx5o?at_medium=RSS&at_campaign=rss",
+      "summary": "A Malaysian pilot was apprehended at Jakarta airport after being discovered with approximately 26kg of ecstasy pills hidden in his luggage. This incident led to his arrest on drug trafficking charges.",
+      "tags": [
+        "crime",
+        "drugs",
+        "indonesia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d485cc8c33f9ceef",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "More than 150 migrants rescued after boat catches fire in Channel",
+      "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+      "summary": "French authorities rescued over 150 migrants after their boat's engine caught fire while attempting to cross the Channel to the UK. The incident highlights the dangers faced by migrants undertaking such journeys.",
+      "tags": [
+        "migration",
+        "channel",
+        "rescue"
+      ],
+      "priority": false
+    },
+    {
+      "id": "91c54482c7236272",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Oil prices have decreased amid expectations that the Strait of Hormuz may reopen, following announcements from US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent about progress in talks. Resumed shipments through the strait would ease supply concerns.",
+      "tags": [
+        "oil",
+        "geopolitics",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "785ea5d321edf587",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Soldier kills four in gun rampage in Russian-occupied Crimea",
+      "url": "https://www.bbc.co.uk/news/articles/c80n33lrnm5o?at_medium=RSS&at_campaign=rss",
+      "summary": "A soldier in Russian-occupied Crimea killed four people in a gun rampage, firing at fellow soldiers and civilians before being detained. The incident was reported by the region's Moscow-installed governor.",
+      "tags": [
+        "crimea",
+        "russia",
+        "violence"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f6b211b0e7092910",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "There's a reason child vaccination rates are falling - and it's not social media",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvlw2dd0no?at_medium=RSS&at_campaign=rss",
+      "summary": "Child immunisation rates are declining across the UK, and while social media is often blamed, a clinic in West Yorkshire is taking proactive steps to boost vaccinations, suggesting other underlying issues. The article implies that the reasons for falling rates are more complex than just social media influence.",
+      "tags": [
+        "health",
+        "uk",
+        "vaccination"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dfef3057ef4c3eb8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Tokenomics: Why making AI pay is tricky",
+      "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Both buyers and sellers in the AI services market are struggling with \"tokenomics,\" finding it difficult for buyers to control costs and for sellers to determine appropriate pricing. The complexities of AI usage and value make establishing fair compensation mechanisms challenging.",
+      "tags": [
+        "ai",
+        "economy",
+        "business models"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0e1785d545cc79c8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
+      "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine has reportedly struck additional Wildberries sites, Russia's largest online retailer, including facilities in St Petersburg and Tver, following a strike that killed five people in the Moscow region. These attacks target Russian logistical and commercial infrastructure.",
+      "tags": [
+        "ukraine war",
+        "russia",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "23e460783be70f91",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US states sue to block Trump tariffs impacting dozens of countries",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+      "summary": "Several US states are suing to block Trump-era tariffs imposed on dozens of countries, which were justified by claims that 60 US trading partners failed to address forced labor. The lawsuit challenges the legality and impact of these duties.",
+      "tags": [
+        "trade",
+        "us politics",
+        "tariffs"
+      ],
+      "priority": false
+    },
+    {
+      "id": "68a4b50e1c1a59a8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Wild police chase in Queensland, Australia ends in two arrests",
+      "url": "https://www.bbc.co.uk/news/videos/c5y0d96qgg3o?at_medium=RSS&at_campaign=rss",
+      "summary": "A high-speed police pursuit across Ipswich and Brisbane in Queensland, Australia, concluded with two arrests. The chase involved authorities pursuing suspects across multiple locations.",
+      "tags": [
+        "police",
+        "australia",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6888965eb7c41fbe",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why India's youth anger has become Modi's biggest challenge",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gv4dgqv4o?at_medium=RSS&at_campaign=rss",
+      "summary": "India's massive youth population, despite increasing education levels, struggles to find good jobs, making youth anger a significant challenge for Prime Minister Modi. This widespread unemployment among educated youth poses a serious sociopolitical issue.",
+      "tags": [
+        "india",
+        "politics",
+        "youth unemployment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e94586fdc0a29651",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
+      "url": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump Media & Technology Group's new paid service, offering Wall Street firms rapid access to influential Truth Social accounts, is facing controversy. Critics question the ethics and market implications of selling early access to potentially market-moving social media content.",
+      "tags": [
+        "trump media",
+        "social media",
+        "finance ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ade4f8ff692d4f02",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Zinc dresses and ice creams - how to survive a heatwave wedding",
+      "url": "https://www.bbc.co.uk/news/articles/cgr7qrdx4qwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The wedding industry is adapting to heatwaves by facing last-minute costs and seeing a rise in October bookings. Couples and planners are seeking creative solutions like zinc dresses and ice creams to ensure comfort during hot weather celebrations.",
+      "tags": [
+        "weather",
+        "weddings",
+        "lifestyle"
+      ],
+      "priority": false
+    },
+    {
+      "id": "eec32fca9946bdd6",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "13 new books in August will get you through the dog days of summer",
+      "url": "https://www.npr.org/2026/08/04/nx-s1-5905346/new-books-august-2026",
+      "summary": "A list of 13 new books released in August offers diverse narratives, including stories about dogs, Hollywood stars, small towns, and characters facing various challenges beyond summer heat. These selections aim to provide engaging reads during the warmer months.",
+      "tags": [
+        "books",
+        "literature",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "752c7981bc51229c",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "5 states have primary elections on Tuesday. These are the races to watch",
+      "url": "https://www.npr.org/2026/08/04/nx-s1-5918643/five-states-polls-what-to-know",
+      "summary": "Five states are holding primary elections on Tuesday, with key races in Michigan (Senate and governor primary) and Missouri (1st Congressional District) expected to indicate future trends for Democrats and Republicans. These elections serve as important political indicators.",
+      "tags": [
+        "elections",
+        "politics",
+        "primaries"
+      ],
+      "priority": false
+    },
+    {
+      "id": "feca0f5eeafccffd",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "5 states hold primaries today. And, Spokane police arrest man connected to wildfire",
+      "url": "https://www.npr.org/2026/08/04/g-s1-137277/up-first-newsetter-michigan-primaries-todd-blanche-spokane-wildfires-chuck-edwards",
+      "summary": "Five states are holding primary elections today, with Michigan being a key focus for Democrats interested in progressive candidate performance. Additionally, a man has been arrested in connection with a wildfire in Spokane.",
+      "tags": [
+        "elections",
+        "politics",
+        "wildfires"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2835f278f7fbc8a7",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "A veteran was detained by the National Guard in her front yard. Now she's suing",
+      "url": "https://www.npr.org/2026/08/04/nx-s1-5918354/national-guard-dc-veteran-detained",
+      "summary": "Military veteran Anna King has filed a $3 million lawsuit against the Idaho National Guard, alleging three members assaulted her during detention in front of her home. The lawsuit claims wrongful actions by the National Guard.",
+      "tags": [
+        "lawsuit",
+        "military",
+        "civil rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fe62c99c06aa8379",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Authorities arrest an arson suspect in connection with wildfires in Spokane",
+      "url": "https://www.npr.org/2026/08/04/g-s1-137274/suspect-arrested-wildfires-spokane",
+      "summary": "Authorities have arrested an arson suspect linked to one of three wildfires in Spokane, Washington, which have destroyed hundreds of homes and displaced many residents. The arrest marks a significant development in investigating the devastating blazes.",
+      "tags": [
+        "wildfires",
+        "arson",
+        "spokane"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cf4d5ae5a1fc012f",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Medicaid work rule leaves homeless people in the cold",
+      "url": "https://www.npr.org/2026/08/04/nx-s1-5918346/medicaid-work-requirement-montana-homeless",
+      "summary": "A new Medicaid work requirement, despite conservative assurances that vulnerable populations would be exempt, does not include homeless people on its federal list of exemptions. This oversight leaves a critical gap in support for homeless individuals.",
+      "tags": [
+        "medicaid",
+        "healthcare",
+        "social policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "401f671706326a05",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Primaries in the Midwest have become a high stakes proving ground for progressives",
+      "url": "https://www.npr.org/2026/08/04/nx-s1-5918682/2026-primary-elections-michigan-wisconsin",
+      "summary": "Democratic primary elections in Michigan, Wisconsin, and Minnesota are positioning the Midwest as a crucial test for progressive candidates' electability in competitive states. These races are determining what \"electability\" means for the progressive movement.",
+      "tags": [
+        "elections",
+        "progressives",
+        "midwest"
+      ],
+      "priority": false
+    },
+    {
+      "id": "70da6800156d520a",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Why Texas is betting 'Y'all Street' can take on Wall Street",
+      "url": "https://www.npr.org/2026/08/04/nx-s1-5697067/texas-banking-goldman-sachs-wall-street",
+      "summary": "Dallas's financial industry is experiencing significant growth amid a broader Texas business boom, leading some to wonder if \"Y'all Street\" can challenge New York's Wall Street dominance. This expansion reflects Texas's increasing economic influence.",
+      "tags": [
+        "texas",
+        "finance",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1d474dfd8d3fdf89",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Devtools must be open source (exe.dev)",
+      "url": "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything",
+      "summary": "The author argues that LLMs are making the ideal of open-source software more accessible, allowing even non-expert programmers to easily understand and potentially modify tools. AI's ability to quickly build and explain code reduces friction for engaging with open-source projects.",
+      "tags": [
+        "open source",
+        "ai",
+        "software development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "392369e757165867",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Don't be a meat proxy",
+      "url": "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything",
+      "summary": "The term \"meat proxy\" describes individuals who uncritically copy and paste AI-generated output without understanding or validating it. The author advocates for users to read, comprehend, and validate AI responses before formulating their own words, thereby adding value.",
+      "tags": [
+        "ai ethics",
+        "communication",
+        "productivity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "23e51af6540e1578",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting David Crawshaw's prompt",
+      "url": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything",
+      "summary": "David Crawshaw proposes a nightly cron job prompt for developers: \"fetch upstream changes... rebase local changes... check that the software works... replace current version.\" This highlights a vision for automated software maintenance and continuous integration.",
+      "tags": [
+        "prompt engineering",
+        "devops",
+        "automation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "496bab506661493f",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Steve Yegge",
+      "url": "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything",
+      "summary": "Steve Yegge recounted how his \"Gas Town\" software project, intended for reusability, failed to converge due to an incessant \"just two more things\" tic introduced in version 4.7. This constant fiddling prevented the software from ever being ready for real work, leading to its effective demise.",
+      "tags": [
+        "software development",
+        "programming",
+        "quotation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "089b015659f87bc0",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Democrats are winning the polls but losing the plot",
+      "url": "https://www.slowboring.com/p/democrats-are-winning-the-polls-but",
+      "summary": "Despite Democrats leading in generic ballot polls and having a better chance to flip the Senate with a net four-seat gain, the article suggests they are \"losing the plot.\" It hints at a discrepancy between polling data and effective political strategy, using the Michigan primary campaign as context.",
+      "tags": [
+        "politics",
+        "democrats",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "08dff4a8e2f71479",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Mamdani’s not the first to try to bring cheap groceries to N.Y.C.",
+      "url": "https://www.slowboring.com/p/mamdanis-not-the-first-to-try-to",
+      "summary": "State Assemblymember Zohran Mamdani's plan for low-cost government-run grocery stores in NYC is not a new idea, as Walmart previously attempted to enter the market in 2004 to offer cheaper options. Walmart's efforts to provide lower prices and serve thrifty customers in dense urban areas like Rego Park were ultimately thwarted by a coordinated labor union campaign.",
+      "tags": [
+        "nyc",
+        "groceries",
+        "retail"
+      ],
+      "priority": false
+    },
+    {
+      "id": "765d0631aa547558",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+      "summary": "Following a highly profitable quarter for Palantir, CEO Alex Karp criticized the AI frontier labs, labeling the AI industry as \"Marxist\" and deeming them untrustworthy for enterprises. He has previously warned about the risks associated with such AI developments.",
+      "tags": [
+        "palantir",
+        "ai",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "895feb21344dd0f8",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apple challenges UK government’s latest demand for iCloud backdoor: report",
+      "url": "https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/",
+      "summary": "Apple has appealed a new legal demand from the U.K. government for an iCloud backdoor, a move critics warn could undermine the privacy rights of users worldwide. This challenge continues Apple's stance against government-mandated access to encrypted data.",
+      "tags": [
+        "apple",
+        "privacy",
+        "government policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "15b25427370dfca7",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "summary": "Apple's long-anticipated AI overhaul has finally made Siri the capable assistant it was always intended to be, yet the achievement feels anticlimactic in today's rapidly evolving AI landscape. The update arrives at a time when merely being a competent AI assistant is no longer revolutionary.",
+      "tags": [
+        "apple",
+        "siri",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "40c401689fbff79f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "summary": "Apple's trade secrets investigation into OpenAI has broadened, with the company alleging in a new court filing that additional former staff might have retained or accessed confidential information. This expands the ongoing legal dispute between the two tech giants.",
+      "tags": [
+        "apple",
+        "openai",
+        "trade secrets"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3d3e87b051bfea14",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "summary": "AWS is now enabling its customers to embed the vibe-coding tool Superblocks into their private clouds, marking a significant step towards decoupling applications from models. This collaboration could have major implications for how enterprise software is developed and deployed.",
+      "tags": [
+        "aws",
+        "cloud",
+        "software development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d63c591d4388f7f9",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Bending Spoons to buy Airtable for $1.28B",
+      "url": "https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/",
+      "summary": "Bending Spoons is set to acquire Airtable for $1.28 billion, a significant valuation drop from Airtable's peak of over $11 billion in 2021. Earlier this year, Airtable's shares were trading on secondary markets at a $4 billion valuation.",
+      "tags": [
+        "acquisition",
+        "software",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5fbc0cfeccf090db",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "summary": "The creators of Design Arena, a platform used by 5.3 million people for human evaluations, have raised $7.9 million to integrate \"taste\" into AI models. This funding aims to enhance AI's ability to understand and apply nuanced human preferences.",
+      "tags": [
+        "ai",
+        "design",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "49d3460de17b56da",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+      "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+      "summary": "An analysis of Tesla earnings calls over the past seven years reveals that Elon Musk dedicates approximately half his time to discussing robots and AI. This indicates a significant shift in his focus away from Tesla's core car business.",
+      "tags": [
+        "elon musk",
+        "tesla",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "83ce670e2f2f2b7c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "India moves to give its instant payments network a business model",
+      "url": "https://techcrunch.com/2026/08/04/india-moves-to-give-its-instant-payments-network-a-business-model/",
+      "summary": "India is introducing legislation that could overhaul its zero-merchant-discount-rate regime, which has allowed businesses to accept UPI payments without fees since 2020. This move lays the groundwork for establishing a business model for India's instant payments network.",
+      "tags": [
+        "india",
+        "payments",
+        "finance policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9cb23e7c33eb49e3",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+      "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+      "summary": "OpenAI's inaugural luxury trip for influencers has sparked online backlash, intensifying tensions surrounding the use and perception of AI. The event has drawn criticism amid ongoing debates about AI's societal impact.",
+      "tags": [
+        "openai",
+        "social media",
+        "ai ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6736f00f374d78c3",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Is the future of data centers portable? Runware builds a pod to find out",
+      "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+      "summary": "AI infrastructure company Runware has launched its new modular data center, the Sonic Inference Pod, exploring the potential for portable data center solutions. This initiative aims to determine if modularity and portability are viable future directions for data center design.",
+      "tags": [
+        "data centers",
+        "ai",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f1323ddbb25319ec",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Outernet turns your saved posts into real-world adventures",
+      "url": "https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/",
+      "summary": "Outernet, an app created by the founders of viral offline events, helps users transform saved online posts about places and events into real-world adventures. The app encourages users to actually visit and experience the locations they've bookmarked.",
+      "tags": [
+        "app",
+        "social media",
+        "lifestyle"
+      ],
+      "priority": false
+    },
+    {
+      "id": "63fb1cdf3ec23ead",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
+      "url": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/",
+      "summary": "Snap CEO Evan Spiegel avoided questions regarding Specs preorders during the Q2 earnings call, instead stating that mass-market consumer adoption of such devices is not expected until the end of the decade. This suggests a long-term outlook for AR/VR hardware.",
+      "tags": [
+        "snap",
+        "ar/vr",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f3901ffa2f325c8e",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Spotify expands AI remix and covers project with Merlin partnership",
+      "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+      "summary": "Spotify is expanding its AI-powered remix and covers product by partnering with Merlin, which represents over 30,000 independent labels, in addition to Universal Music Group. This paid tool will allow fans to create AI-generated music covers and remixes, ensuring artists opt-in, receive credit, and are compensated.",
+      "tags": [
+        "spotify",
+        "ai",
+        "music"
+      ],
+      "priority": false
+    },
+    {
+      "id": "703d3ebf33f97ddf",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Spotify now has over 300M subscribers",
+      "url": "https://techcrunch.com/2026/08/04/spotify-now-has-over-300m-subscribers/",
+      "summary": "Spotify has announced that its subscriber base has grown to over 300 million users. This 9% increase in the second quarter occurred despite the company raising prices in several regions.",
+      "tags": [
+        "spotify",
+        "streaming",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ff1d1478b2243bd0",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Texas halts new data centers as governor calls for audits",
+      "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+      "summary": "Texas Governor Greg Abbott has implemented a pause on new data center developments until a comprehensive audit is completed. This action aims to address concerns regarding the impact of these facilities on the state's energy grid.",
+      "tags": [
+        "texas policy",
+        "data centers",
+        "energy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b0a58ecff4704b8b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Walmart completes its acquisition of TV advertising company Vibe.co",
+      "url": "https://techcrunch.com/2026/08/04/walmart-completes-its-acquisition-of-tv-advertising-company-vibe-co/",
+      "summary": "Walmart has finalized its acquisition of Vibe.co, a TV advertising company, integrating it into Walmart Connect, the retailer's connected TV advertising platform. This acquisition, initially announced in June, strengthens Walmart's advertising capabilities.",
+      "tags": [
+        "walmart",
+        "acquisition",
+        "advertising"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f6d61266c39f5af3",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
+      "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+      "summary": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the two AI frontier labs? Can victims sue them? We spoke to lawyers who specialize…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "33243c3ae7476254",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "America Is Not Prepared for a War on Our Water",
+      "url": "https://www.thefp.com/p/america-is-not-prepared-for-a-war",
+      "summary": "This article warns that America is unprepared for cyberattacks on its drinking water utilities, describing a hypothetical scenario where an adversary like Iran could manipulate water systems, leading to illness, panic, and societal breakdown. It stresses the vulnerability of critical infrastructure and the potential for negligence to be mistaken for sabotage initially.",
+      "tags": [
+        "cybersecurity",
+        "water systems",
+        "national security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "693049b640e0db39",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Dispatch from Ceuta: Inside the 48-Hour Migration Crisis",
+      "url": "https://www.thefp.com/p/dispatch-from-ceuta-inside-the-48",
+      "summary": "This report from Ceuta details the rapid migration crisis where thousands of young Moroccan men, misinformed about asylum prospects, crossed into the Spanish enclave before being informed they needed to return home. The event highlighted the swift actions taken by Spanish military authorities.",
+      "tags": [
+        "migration",
+        "ceuta",
+        "morocco"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e5e26b72aca71dd7",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "How to Lose $35 Billion",
+      "url": "https://www.thefp.com/p/how-to-lose-35-billion",
+      "summary": "Leopold Aschenbrenner's hedge fund, Situational Awareness, lost $35 billion in two weeks by \"going full Kelly\" and making highly concentrated, debt-leveraged bets on AI-related stocks and shorting software companies. Despite early success and being hailed as an \"AI Nostradamus,\" his aggressive strategy collapsed when AI stocks fell.",
+      "tags": [
+        "finance",
+        "ai",
+        "hedge fund"
+      ],
+      "priority": false
+    },
+    {
+      "id": "18abe94bdf0e7c72",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Should I Get a Gun?",
+      "url": "https://www.thefp.com/p/should-i-get-a-gun",
+      "summary": "A British journalist reflects on her evolving perspective on gun ownership after moving from liberal Brooklyn to rural upstate New York, sharing her journey from being vehemently anti-gun to considering buying a handgun. She explores the cultural shift and personal reasons behind her changing views, initially sparked by a D.C. active-shooter situation.",
+      "tags": [
+        "gun control",
+        "culture",
+        "personal narrative"
+      ],
+      "priority": false
+    },
+    {
+      "id": "45b9239cd1e7c72e",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Ukraine’s Top Drone Commander on What the Pentagon Keeps Missing",
+      "url": "https://www.thefp.com/p/ukraines-top-drone-commander-interview",
+      "summary": "Yuri Fedorenko, Ukraine's top drone commander, discusses how the battlefield has evolved since Russia's full-scale invasion, detailing the improvisation with commercial drones in 2022 and scaling up units for target hunting. He shares insights on the critical role of drones in modern warfare.",
+      "tags": [
+        "ukraine war",
+        "drones",
+        "military strategy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "180e44dd381fee3a",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Will Republicans Renounce Max Miller?",
+      "url": "https://www.thefp.com/p/will-republicans-renounce-max-miller",
+      "summary": "Ohio Senator Bernie Moreno has publicly called for his former son-in-law, Congressman Max Miller, to resign from Congress, citing concerns about Miller's psychological state and a history of alleged abuse against his daughter. This statement marks a new turn in a nasty child custody dispute, with Miller denying all allegations and filing a defamation suit.",
+      "tags": [
+        "politics",
+        "lawsuit",
+        "scandal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b17dd43b0d981737",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "How to Live and How to Die",
+      "url": "https://www.themarginalian.org/2026/08/03/emily-levine-cold-solace-anna-belle-kaufman/",
+      "summary": "This reflective essay shares personal memories of friendship and grief, centered on the author's late friend Emily Levine, and features Levine's reading of Anna Belle Kaufman's poem \"Cold Solace.\" The piece contemplates themes of life, death, and leaving a lasting legacy of \"sweetness and substance.\"",
+      "tags": [
+        "grief",
+        "poetry",
+        "philosophy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4ef6314372cd7626",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Apple is working on iPhone-to-Windows copy-paste",
+      "url": "https://www.theverge.com/tech/975020/apple-windows-pc-copy-paste-eu",
+      "summary": "Apple is developing a feature for users in the European Union to enable seamless copy-paste functionality between iPhones and Windows PCs. This move responds to Microsoft's interoperability request under the EU's Digital Markets Act to open up Apple's Universal Clipboard feature.",
+      "tags": [
+        "apple",
+        "interoperability",
+        "eu policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "de19746f9caa899c",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Nothing CMF is launching its first open earbuds",
+      "url": "https://www.theverge.com/gadgets/974933/nothing-cmf-clip-pro-open-ear-buds-price-launch",
+      "summary": "Nothing's budget sub-brand, CMF, has launched its first open earbuds, the CMF Clip Pro, priced at $99, designed for comfort and situational awareness. These new earbuds are available in three color options, matching the price of Nothing's other Ear series buds.",
+      "tags": [
+        "audio",
+        "earbuds",
+        "product launch"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b854c290c76f7ea9",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Our favorite memories at the movies",
+      "url": "https://www.theverge.com/entertainment/974920/verge-favorite-movie-memories",
+      "summary": "This article shares various staff members' fondest memories of going to the movies, sparked by recent record-breaking box office success and IMAX experiences. It highlights the enduring appeal of the cinematic experience, despite the power of modern films like \"Spider-Man.\"",
+      "tags": [
+        "movies",
+        "culture",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "81182a9b4d4d6cd6",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Peak Design’s latest bags have clever integrated hooks",
+      "url": "https://www.theverge.com/tech/973624/peak-design-city-line-details-price",
+      "summary": "Peak Design's new City Line collection features six lightweight bags for everyday carry, including backpacks, totes, and slings, all equipped with a \"BagLev\" hook. This innovative hook allows users to suspend their bags from tables or chairs, keeping them clean.",
+      "tags": [
+        "design",
+        "accessories",
+        "bags"
+      ],
+      "priority": false
+    },
+    {
+      "id": "db275b8a60e570d2",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Samsung’s HDR10 Plus Advanced is launching this month on Prime Video",
+      "url": "https://www.theverge.com/gadgets/975085/samsung-hdr-10-plus-advanced-prime-video",
+      "summary": "Samsung's HDR10 Plus Advanced, a new HDR specification, is launching globally this month on Amazon's Prime Video, supported initially by Samsung's 2026 TV lineup. This technology offers more precise HDR by optimizing tone mapping for specific screen areas using extra metadata.",
+      "tags": [
+        "tv",
+        "hdr",
+        "streaming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a12933a3b798b3a9",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "T-Mobile’s $0-down financing plan bundles taxes and fees",
+      "url": "https://www.theverge.com/tech/975115/t-mobile-financing-eip-flex-36-plan",
+      "summary": "T-Mobile is introducing a new Equipment Installment Plan (EIP) Flex 36, allowing eligible customers to finance a device, taxes, and fees over 36 months with no upfront payment and 0 percent APR for a limited time. This plan aims to eliminate common upfront costs associated with device financing.",
+      "tags": [
+        "telecom",
+        "finance",
+        "consumer tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1ca8304bcf233d17",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Texas says data centers must pass an audit before connecting to the grid",
+      "url": "https://www.theverge.com/policy/975071/texas-data-center-audit",
+      "summary": "Texas Governor Greg Abbott has mandated new audits for data centers seeking to connect to the state's energy grid, potentially slowing new facility approvals. Data centers must now provide details on incentives, grid reliance, water consumption, and community impact to ensure grid stability.",
+      "tags": [
+        "energy",
+        "data centers",
+        "texas policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a78eee14b0f39f52",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The Asus Chromebook Plus CX34 is at one of its lowest prices",
+      "url": "https://www.theverge.com/gadgets/974732/asus-chromebook-plus-cx34-igloo-playmate-kooltunes-14-quart-cooler-deal-sale",
+      "summary": "The Asus Chromebook Plus CX34 is currently available at significant discounts across various retailers, offering solid performance for its price with different processor and storage options. This dependable laptop includes access to Gemini and a free year of Google AI Pro due to its Chromebook Plus designation.",
+      "tags": [
+        "laptops",
+        "deals",
+        "chromebook"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 100,
+    "summarized": 78,
+    "skipped_promos": 3,
+    "filtered_by_rules": 19,
+    "sources": 10,
+    "email_items_omitted": 0
+  }
+}
