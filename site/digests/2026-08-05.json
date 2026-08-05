@@ -1,0 +1,1085 @@
+{
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T15:56:50+00:00",
+  "hot_topics": [
+    {
+      "topic": "Google Assistant Retirement",
+      "synthesis": "Google is phasing out its mobile Assistant service starting September 4, urging users to switch to Gemini. This transition, which impacts Android phones, tablets, smartwatches, headphones, and cars with Android Auto, marks the end of the pre-AI assistant after previous delays.",
+      "item_ids": [
+        "e03306dadbb6a427",
+        "e624225738ecf847"
+      ]
+    },
+    {
+      "topic": "Michigan Democratic Primary Outcomes",
+      "synthesis": "Progressives achieved a significant win in Michigan as Abdul El-Sayed secured the Democratic Senate primary, a victory that has sent ripples through the party. Despite this, other races showed mixed results for progressives, and the narrow margins sparked debate about the movement's broader appeal in battleground states. The outcome sets up a high-stakes general election, with some arguing moderate candidates offer a more reliable path to victory.",
+      "item_ids": [
+        "46e2ec372b743236",
+        "19c9b2da765f2ca5",
+        "be37bc2ef2e7f5a9",
+        "b6c0317db6435ba9",
+        "91e3f507214a7ba7",
+        "b440d8203e9596c1"
+      ]
+    },
+    {
+      "topic": "Renewed Russian Strikes in Ukraine",
+      "synthesis": "Recent Russian missile and drone attacks on the Kyiv region have resulted in significant civilian casualties, with reports of 17 to 21 deaths. Ukraine is calling for more missile interceptors to counter these strikes, which Russia claims targeted logistics hubs. One incident involved a Russian drone pursuing and exploding near a Ukrainian street vendor.",
+      "item_ids": [
+        "c1ccd3f7043f9bcb",
+        "886d9d53d41303dc",
+        "114794136ad80725"
+      ]
+    },
+    {
+      "topic": "Disney+ Integrates TikTok Creator Content",
+      "synthesis": "Disney+ is partnering with TikTok to bring fan-created content into its Verts short-form video feed, granting creators access to assets from hundreds of Disney films and shows. This move is part of Disney's strategy to engage with fan communities and compete with social media for viewer attention.",
+      "item_ids": [
+        "bbdd16009bc97eaa",
+        "b36654555a2e7dbb"
+      ]
+    },
+    {
+      "topic": "Open-Weight AI Progress and Safety Gaps",
+      "synthesis": "A new report highlights that open-weight AI models are rapidly approaching frontier capabilities, exemplified by Z.ai's GLM-5.2. However, these advanced models often lack crucial safety mitigations, raising significant concerns that powerful AI development could outpace necessary governance and safeguards. This comes amidst ongoing discussions about the inherent limitations of large language models in certain reasoning tasks.",
+      "item_ids": [
+        "2792199f4e5e830d",
+        "f954af5e23e2977f"
+      ]
+    },
+    {
+      "topic": "AI's Dual Impact on Industries and Labor",
+      "synthesis": "AI is increasingly integrating into the physical world, driving innovations in robotics and automated factories, as highlighted by upcoming tech conferences. However, this rapid transition is creating significant anxiety and displacement for workers in industries like outsourcing, particularly in the Philippines, where many fear their jobs are being eliminated by AI.",
+      "item_ids": [
+        "f8d654227db66845",
+        "3690058f1e2d9e47"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "cbc9df1b4acb48a4",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "China is Tesla's cash cow, but for how much longer?",
+      "url": "https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/",
+      "summary": "Tesla's Shanghai factory had its best June ever in production, but over half of the cars built were for export as Chinese sales decline. Despite its importance for profit margins, Tesla is reportedly contemplating separating its Chinese and non-Chinese operations, though the company denies such plans.",
+      "tags": [
+        "tesla",
+        "china",
+        "manufacturing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e03306dadbb6a427",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Google plans to kill Assistant on your phone on September 4",
+      "url": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
+      "summary": "Google will retire Assistant on mobile devices starting September 4, moving all users to Gemini. This transition also impacts other gadgets connected to phones, like smartwatches and car systems.",
+      "tags": [
+        "google",
+        "assistant",
+        "gemini"
+      ],
+      "priority": false
+    },
+    {
+      "id": "249b984ea403ee69",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Senators demand crackdown on wildfire \"prediction market\" bets",
+      "url": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
+      "summary": "Several US senators have\nwritten\na letter to the Commodity Futures Trading Commission (CFTC), inquiring about the agency’s “plans to crack down on prediction markets” that offer “contracts for individuals to bet on wildfires.”\n“Offering bets on destructive wildfires threatens to…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "50c84997d6ba438e",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Texas halts data center connections to power grid amid overwhelming demand",
+      "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
+      "summary": "Texas Governor Greg Abbott has halted new power grid connections for data centers until developers provide more information on their projects' impact. This moratorium comes less than a year after Texas was declared an \"epicenter of AI development\" due to overwhelming demand on the Electric Reliability Council of Texas (ERCOT).",
+      "tags": [
+        "texas",
+        "data centers",
+        "energy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "62a90df6f3666056",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "The Pixel 11's \"glow\" feature is actually called HiLight—here's what it does",
+      "url": "https://arstechnica.com/gadgets/2026/08/the-pixel-11s-glow-feature-is-actually-called-hilight-heres-what-it-does/",
+      "summary": "Leaks confirm Google's upcoming Pixel 11 series will feature a new LED flash called HiLight within its smaller camera module. This feature will reportedly produce a range of colors in addition to functioning as a standard camera flash and flashlight.",
+      "tags": [
+        "pixel",
+        "smartphone",
+        "google"
+      ],
+      "priority": false
+    },
+    {
+      "id": "90f430e0a9f8f444",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Tom DeLay helped create TV ownership cap—he says Trump FCC has no authority to repeal it",
+      "url": "https://arstechnica.com/tech-policy/2026/08/can-trump-fcc-repeal-39-tv-ownership-cap-republican-who-wrote-cap-into-law-says-no/",
+      "summary": "Former House majority leader Tom DeLay contends that the Trump FCC lacks the authority to repeal the National Television Ownership Rule, which caps a single owner's reach at 39% of US TV households. DeLay, who helped write the law, argues only Congress can change this specific limit.",
+      "tags": [
+        "fcc",
+        "media",
+        "regulation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dad5f10aa4435669",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Trump killed the Digital Equity Act but US was forced to bring part of it back",
+      "url": "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/",
+      "summary": "The Trump administration will reinstate a broadband grant program to comply with a court ruling related to the Digital Equity Act, accepting applications in December. However, the judge ruled the government cannot allocate funds based on race or ethnicity, only on factors like income, age, and disability.",
+      "tags": [
+        "broadband",
+        "policy",
+        "government"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3690058f1e2d9e47",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
+      "url": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
+      "summary": "AI is transforming the Philippines' outsourcing industry, leading to concerns among workers about their future roles and job security. Many feel they are \"digging their own grave\" by facilitating the transition.",
+      "tags": [
+        "ai",
+        "philippines",
+        "jobs"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1c23fb5c5e60b3b7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'I was slut-shamed' - Indian women 'cockroach' protesters doxxed and abused",
+      "url": "https://www.bbc.co.uk/news/articles/c4g43l251vyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Indian women participating in \"cockroach\" protests reported being doxxed, slut-shamed, and abused online for their involvement and related social media posts.",
+      "tags": [
+        "india",
+        "social issues",
+        "online harassment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6ffca13fab78f583",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'My grandmother subjected my baby to female genital mutilation behind my back'",
+      "url": "https://www.bbc.co.uk/news/articles/c3r0vp7n0pro?at_medium=RSS&at_campaign=rss",
+      "summary": "In Colombia, a landmark bill banning female genital mutilation has been enacted after a grandmother subjected a baby to the practice behind the mother's back, highlighting its continued practice among some indigenous groups.",
+      "tags": [
+        "human rights",
+        "colombia",
+        "law"
+      ],
+      "priority": false
+    },
+    {
+      "id": "839edfcaeedeaceb",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Afghan boxer appears in court in connection with death of Scottish woman",
+      "url": "https://www.bbc.co.uk/news/articles/cq56qejll6vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Afghan boxer Sharif Ahmadzai, 26, has appeared in court in connection with the death of Scottish woman Elisabeth Ross from Edinburgh.",
+      "tags": [
+        "crime",
+        "afghanistan",
+        "scotland"
+      ],
+      "priority": false
+    },
+    {
+      "id": "05f43e6e2a04c066",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Armed man arrested near Trump's golf course ahead of president's visit",
+      "url": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
+      "summary": "An armed man was arrested near Trump's golf course in California shortly before the president was scheduled to host a fundraising dinner there.",
+      "tags": [
+        "security",
+        "politics",
+        "california"
+      ],
+      "priority": false
+    },
+    {
+      "id": "94a523ebbeecbb3a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Drone carrying explosives found at German airport, police say",
+      "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
+      "summary": "German police reported finding a drone carrying explosives near Ukrainian cargo planes at an airport, shortly before another object collided with a cargo aircraft mid-air.",
+      "tags": [
+        "security",
+        "drones",
+        "germany"
+      ],
+      "priority": false
+    },
+    {
+      "id": "19c9b2da765f2ca5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "El-Sayed's victory sends tremors through Democratic Party",
+      "url": "https://www.bbc.co.uk/news/articles/cp309ng0xq1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Abdul El-Sayed's victory in the Michigan primary has caused significant impact within the Democratic Party, setting up a high-stakes contest in November to test a left-wing candidate's appeal in a swing state.",
+      "tags": [
+        "politics",
+        "michigan",
+        "election"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e9137728dccaef7d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How to avoid the worst of the Italian heat",
+      "url": "https://www.bbc.co.uk/news/articles/c05q1gz0p1yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Experts are offering advice on how to manage the latest heatwave in Italy, suggesting ways to make the most of the country through activities like supermarket visits and night-time tours.",
+      "tags": [
+        "italy",
+        "weather",
+        "travel"
+      ],
+      "priority": false
+    },
+    {
+      "id": "46e2ec372b743236",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Left-wing political outsider wins Democratic Senate primary in Michigan",
+      "url": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Abdul El-Sayed, the son of Egyptian immigrants, has won the Democratic Senate primary in Michigan and would be the first Muslim US senator if elected in November.",
+      "tags": [
+        "politics",
+        "michigan",
+        "election"
+      ],
+      "priority": false
+    },
+    {
+      "id": "714438569b5af67e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Mexican influencer shot dead during livestream",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kg709qd9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Mexican influencer César Gastélum, known for comedy and lifestyle posts, was shot dead at close range by a man on a motorbike during a livestream.",
+      "tags": [
+        "mexico",
+        "crime",
+        "social media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0e5b1185cda94996",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Mysterious elephant deaths in Kenya raise questions around pesticides",
+      "url": "https://www.bbc.co.uk/news/articles/cx27p32jzj2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Mysterious elephant deaths in Kenya have been attributed to pesticides, though experts express doubt about this explanation.",
+      "tags": [
+        "kenya",
+        "wildlife",
+        "pesticides"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1bed0ff08b4f33d1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Pakistan restricts international media reporting",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n9w95n70o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pakistan has imposed new restrictions on international media reporting, requiring all foreign media workers, including Pakistanis, to obtain permission to report outside of three major cities.",
+      "tags": [
+        "pakistan",
+        "media",
+        "press freedom"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f994a8d94cfb2a69",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Perez Hilton recovering in hospital after reports he self-harmed during livestream",
+      "url": "https://www.bbc.co.uk/news/articles/cly5kvdkyjro?at_medium=RSS&at_campaign=rss",
+      "summary": "Celebrity blogger Perez Hilton is recovering in hospital after reports he self-harmed during a livestream, with Miami police confirming he was safely recovered from his home.",
+      "tags": [
+        "celebrity",
+        "mental health",
+        "social media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e4191389500a162f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco",
+      "url": "https://www.bbc.co.uk/news/articles/c0kmd4xpr46o?at_medium=RSS&at_campaign=rss",
+      "summary": "Police have raided Starbucks Korea headquarters following complaints that the company trivialized the deadly Gwangju Uprising with its \"Tank Day\" fiasco.",
+      "tags": [
+        "south korea",
+        "business",
+        "con"
+      ],
+      "priority": false
+    },
+    {
+      "id": "73599071254f6b22",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Record heatwave in South Korea as temperatures soar to 42.5C",
+      "url": "https://www.bbc.co.uk/news/videos/c935ng9n2klo?at_medium=RSS&at_campaign=rss",
+      "summary": "South Korea is experiencing a record heatwave with temperatures soaring to 42.5C, resulting in at least 19 heat-related deaths and marking the country's hottest day on record.",
+      "tags": [
+        "south korea",
+        "heatwave",
+        "climate"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c1ccd3f7043f9bcb",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
+      "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+      "summary": "A Russian strike on Kyiv and its surrounding region killed 21 people, prompting Ukraine to request more missile interceptors. Russia's defense ministry stated it targeted logistics hubs and supply centers.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7095a930cea849ba",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "South Africa plans new rules on ex-leaders' foreign trips after Zuma's visit to India",
+      "url": "https://www.bbc.co.uk/news/articles/c1e14lj7vg7o?at_medium=RSS&at_campaign=rss",
+      "summary": "South Africa is planning new rules for former leaders' foreign trips after Jacob Zuma was photographed with a businessman linked to a corruption scandal in India.",
+      "tags": [
+        "south africa",
+        "politics",
+        "corruption"
+      ],
+      "priority": false
+    },
+    {
+      "id": "44293eb0eee1d525",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "The avalanche that killed a climbing legend - and a generation of record-setting guides",
+      "url": "https://www.bbc.co.uk/news/articles/cm2ge4dnj80o?at_medium=RSS&at_campaign=rss",
+      "summary": "An avalanche resulted in the deaths of a climbing legend and a generation of record-setting guides in Pakistan, dealing a devastating blow to Nepal's mountaineering community.",
+      "tags": [
+        "disaster",
+        "mountaineering",
+        "nepal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b91edb728c027939",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump stated that Iran would face severe consequences if the Strait of Hormuz is not reopened soon, as oil prices have fallen. US officials have announced progress in talks to resume shipments.",
+      "tags": [
+        "iran",
+        "trump",
+        "oil"
+      ],
+      "priority": false
+    },
+    {
+      "id": "114794136ad80725",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ukrainian vegetable seller targeted in 'human safari' drone attack",
+      "url": "https://www.bbc.co.uk/news/videos/clye173d533o?at_medium=RSS&at_campaign=rss",
+      "summary": "A video captured a Russian drone pursuing and then exploding near a street vendor in Ukraine's Kherson region, described as a \"human safari\" drone attack.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6e64b1a6a1e1cf1d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Waste workers help winner find binned €1m lottery ticket in Italy",
+      "url": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&at_campaign=rss",
+      "summary": "Waste workers in Italy helped a lottery winner retrieve a binned €1 million lottery ticket after the player realized the winning numbers had been drawn.",
+      "tags": [
+        "italy",
+        "lottery",
+        "human interest"
+      ],
+      "priority": false
+    },
+    {
+      "id": "58aef41624c3148b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Evacuations as Guatemala volcano erupts",
+      "url": "https://www.bbc.co.uk/news/videos/c9q91dnljpeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Evacuations are underway as Guatemala's Fuego volcano erupts, located near the departments of Escuintla, Chimaltenango, and Sacatepéquez.",
+      "tags": [
+        "guatemala",
+        "volcano",
+        "natural disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "634e4d44e88951eb",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
+      "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+      "summary": "A civilian plane crash in New Mexico is being investigated for potential ties to military GPS blocking. The Wired article explores whether military technology interference could be to blame for the incident.",
+      "tags": [
+        "aviation",
+        "gps",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "afb25245baa85ba9",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Cloudflare OS: an open platform for agents, apps, and work",
+      "url": "https://blog.cloudflare.com/cloudflare-os/",
+      "summary": "Cloudflare has introduced Cloudflare OS, an open platform designed to support agents, applications, and various work processes.",
+      "tags": [
+        "cloudflare",
+        "platform",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "febbfcd998d668a9",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Pi's Minimalism Is Its Advantage",
+      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+      "summary": "The article posits that the minimalist approach of the Pi auto-research framework offers a significant advantage, particularly in comparison to more complex systems like Databricks.",
+      "tags": [
+        "ai",
+        "research",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f954af5e23e2977f",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Position: LLMs Can't Jump",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+      "summary": "Research suggests that Large Language Models (LLMs) have inherent limitations in certain reasoning tasks, highlighted by the position paper \"LLMs Can't Jump.\"",
+      "tags": [
+        "llm",
+        "ai",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b1f06b1268d7b7bc",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "Puzzle Corner",
+      "url": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
+      "summary": "This column presents a new set of puzzles for September/October 2026 and provides solutions to the previous May/June issue. Readers are invited to submit problems, solutions, and comments.",
+      "tags": [
+        "puzzles",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e1b89c7c4e637f6b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Black lung rates in Appalachia are high as the 1970s, with thousands of miners sick",
+      "url": "https://www.npr.org/2026/08/05/nx-s1-5894884/appalachia-black-lung-coal-miners-silica-dust",
+      "summary": "Black lung disease rates among veteran coal miners in Appalachia are at their highest in nearly 50 years, with mining experts attributing the resurgence to increased exposure to toxic silica dust.",
+      "tags": [
+        "health",
+        "labor",
+        "appalachia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dd4dd1eb0fb3c85c",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "House Ethics Committee opens investigation into Ohio Republican Max Miller",
+      "url": "https://www.npr.org/2026/08/05/nx-s1-5918342/house-ethics-committee-opens-investigation-into-ohio-republican-max-miller",
+      "summary": "The House Ethics Committee has launched an investigation into Ohio Republican Rep. Max Miller following his request for a probe into domestic abuse allegations surrounding his reelection campaign.",
+      "tags": [
+        "politics",
+        "ethics",
+        "investigation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c5843d81bc38b359",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "MLS named LAFC co-owner Larry Berg as its next commissioner. Here's what to know",
+      "url": "https://www.npr.org/2026/08/05/nx-s1-5919621/mls-commissioner-larry-berg-major-league-soccer",
+      "summary": "MLS owners have appointed LAFC co-owner Larry Berg as the league's next commissioner, a choice reflecting his team's strong management and his embrace of rule changes to modernize the league.",
+      "tags": [
+        "mls",
+        "soccer",
+        "sports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "be37bc2ef2e7f5a9",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Progressives see biggest win yet in Michigan while Trump flexes power over GOP",
+      "url": "https://www.npr.org/2026/08/05/g-s1-137422/primary-elections",
+      "summary": "Progressives achieved significant victories in Michigan primaries, while voters in Missouri and Washington rejected insurgent Democrats, demonstrating mixed results for the progressive movement. Meanwhile, Donald Trump maintained his influence over the Republican Party.",
+      "tags": [
+        "politics",
+        "michigan",
+        "election"
+      ],
+      "priority": false
+    },
+    {
+      "id": "886d9d53d41303dc",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Russian missile and drone barrage in Ukrainian capital region kills 17",
+      "url": "https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage",
+      "summary": "Russian missile and drone attacks on Kyiv and its surrounding areas resulted in 17 deaths and 44 injuries overnight. Ukrainian President Volodymyr Zelenskyy reported the casualties.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5b9cb8275a40c72f",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "U.S. missile stockpiles dwindle. And, FDA weighs approval of flu shots with mRNA tech",
+      "url": "https://www.npr.org/2026/08/05/g-s1-137429/up-first-newsletter-us-missiles-iran-war-michigan-primaries-moderna-flu-shot-black-lung",
+      "summary": "The US Army's missile stockpile is dwindling and could take years to replenish, raising concerns about national defense. Additionally, the FDA is considering approving a flu vaccine developed with mRNA technology.",
+      "tags": [
+        "defense",
+        "military",
+        "fda"
+      ],
+      "priority": false
+    },
+    {
+      "id": "91e3f507214a7ba7",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Progressives didn’t get the big election night they wanted",
+      "url": "https://www.politico.com/news/2026/08/05/michigan-senate-primary-progressives-unclear-01025096",
+      "summary": "Progressives did not achieve the decisive election night they anticipated in Michigan, with the razor-thin margin in the Democratic Senate primary leaving the strength of the progressive movement in battleground states unresolved. Abdul El-Sayed's narrow lead, despite strong polling, has ignited internal party debate and calls for unity ahead of the general election.",
+      "tags": [
+        "politics",
+        "michigan",
+        "election"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3bcd2f255aae4447",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Progressives' anti-AIPAC wave hits a snag in St. Louis",
+      "url": "https://www.politico.com/live-updates/2026/08/04/michigan-missouri-primary-democrats-test/cori-bush-wesley-bell-primary-analysis-01024982",
+      "summary": "Rep. Cori Bush lost her Missouri primary to Rep. Wesley Bell by a significant margin, signaling a setback for Democratic progressives campaigning on ending military aid to Israel and opposing AIPAC. Bell, who supports Israel, received substantial backing from establishment Democrats and a reduced but still significant AIPAC-backed super PAC spend.",
+      "tags": [
+        "politics",
+        "missouri",
+        "israel"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4b188188b984b607",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "South Dakota Democrat exits Senate race, clears way for independent",
+      "url": "https://www.politico.com/news/2026/08/04/south-dakota-democrat-julian-beaudion-withdraws-01024746",
+      "summary": "South Dakota Democratic Senate nominee Julian Beaudion withdrew from the race, clearing the path for independent candidate Brian Bengs to challenge Republican Sen. Mike Rounds one-on-one. This follows a pattern of Democrats stepping aside to boost independents in deep-red states.",
+      "tags": [
+        "politics",
+        "south dakota",
+        "election"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b6c0317db6435ba9",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Thanedar becomes latest incumbent to fall to a progressive challenger",
+      "url": "https://www.politico.com/news/2026/08/05/thanedar-loses-michigan-house-primary-01025173",
+      "summary": "Michigan Rep. Shri Thanedar lost his primary to democratic socialist Donavan McKinney, marking another victory for progressives ousting incumbents in safe-blue districts. McKinney, backed by groups like Justice Democrats, is expected to win the safe Democratic seat in November.",
+      "tags": [
+        "politics",
+        "michigan",
+        "election"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e57993f12a26f9cc",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Trump-backed candidate in battleground Michigan district loses to opponent who dropped out",
+      "url": "https://www.politico.com/news/2026/08/05/hassan-loses-michigan-house-primary-tom-smith-01025316",
+      "summary": "President Donald Trump’s endorsed candidate, Amir Hassan, lost a Michigan Republican primary to Tom Smith, a candidate who had previously suspended his campaign. This marks the first congressional candidate loss for Trump's endorsement this cycle, despite his support.",
+      "tags": [
+        "trump",
+        "politics",
+        "election"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7a46ce79f8f9029b",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "llm 0.32",
+      "url": "https://simonwillison.net/2026/Aug/4/llm/#atom-everything",
+      "summary": "LLM 0.32 has been released, bringing significant new features and updates to the LLM project.",
+      "tags": [
+        "llm",
+        "software",
+        "release"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8e0d8c702b32cf9a",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "llm-anthropic 0.26",
+      "url": "https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything",
+      "summary": "LLM-Anthropic 0.26 is released, adding support for Claude 5 models and server-side tools like WebSearch, WebFetch, CodeExecution, and AnthropicMCP. The update integrates with LLM 0.32's new streaming events system and streamlines reasoning display options.",
+      "tags": [
+        "llm",
+        "anthropic",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "66da9814940eb75a",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging",
+      "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything",
+      "summary": "LLM 0.32 has been released, introducing support for reasoning traces, server-side tools including OpenAI's Code Interpreter and WebSearch, and redesigned content-addressable SQLite logs. It also adds new models like GPT-5.6 Luna and enhances the Python API for stream events and message histories.",
+      "tags": [
+        "llm",
+        "ai",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f9c359bf08e02c1a",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "PipeNetwork/minimax-h3-mlx",
+      "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything",
+      "summary": "The PipeNetwork/minimax-h3-mlx Python package ports MiniMax-H3, an omni-modal generative system, to MLX for Apple Silicon, allowing the generation of 15-second video clips with audio from text, images, audio, and video inputs. Initial tests showed impressive video output but required specific prompting for better audio results.",
+      "tags": [
+        "ai",
+        "generative ai",
+        "video"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7862be8bb997fb04",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Tuesday discussion post",
+      "url": "https://www.slowboring.com/p/tuesday-discussion-post-f1f",
+      "summary": "This is a discussion post for readers on the Slow Boring website.",
+      "tags": [
+        "community",
+        "discussion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b47bfd07fc3511cc",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+      "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+      "summary": "WindBorne Systems raised $37 million in a Series B round to scale its weather balloons and AI forecasts, aiming to make AI-enhanced weather prediction a lucrative business.",
+      "tags": [
+        "ai",
+        "weather",
+        "climate tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9edbba5a1bddb320",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Android app developers may be unwittingly sharing their users’ location data with advertisers",
+      "url": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
+      "summary": "New findings from the Electronic Frontier Foundation warn Android app developers that third-party code in their apps may be unknowingly sharing users' location data with advertisers. This occurs even when users grant permission only to the primary app.",
+      "tags": [
+        "android",
+        "privacy",
+        "data security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e34760696b58a16b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic is hiring an AI chip design team",
+      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+      "summary": "Anthropic, the creator of the Claude AI, is establishing a team dedicated to designing its own custom AI chips. This initiative aims to co-design hardware and models to improve the speed and efficiency of its technology.",
+      "tags": [
+        "anthropic",
+        "ai",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8c2f57d65dc6737a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "As Gen Z reconsiders dating apps, Tinder’s IRL events expand to dozens more cities",
+      "url": "https://techcrunch.com/2026/08/05/as-gen-z-reconsiders-dating-apps-tinders-irl-events-expand-to-dozens-more-cities/",
+      "summary": "Tinder is expanding its in-person events feature to 26 additional cities worldwide by the end of September, as Gen Z users reconsider traditional dating apps.",
+      "tags": [
+        "tinder",
+        "dating",
+        "social media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b36654555a2e7dbb",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Disney+ looks to TikTok creators to bring fan content to its short-form video feed",
+      "url": "https://techcrunch.com/2026/08/05/disney-looks-to-tiktok-creators-to-bring-fan-content-to-its-short-form-video-feed/",
+      "summary": "Disney+ is partnering with TikTok to integrate fan-created content into its short-form video feed, Verts, as streaming services compete with social media for viewer attention.",
+      "tags": [
+        "disney",
+        "tiktok",
+        "streaming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e2c1692f855d94e6",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Hark previews its browser use agent for completing tasks",
+      "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+      "summary": "Hark has unveiled its new browser use agent, which aims to complete tasks faster and more cost-effectively than competing solutions.",
+      "tags": [
+        "ai",
+        "browser",
+        "automation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "50523f168e973e4b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Indian EV startup River raises $120M Series C to scale production, launch more models",
+      "url": "https://techcrunch.com/2026/08/05/indian-ev-two-wheeler-startup-river-raises-120m-after-scaling-with-one-model/",
+      "summary": "Indian EV startup River has secured $120 million in Series C funding to scale production and launch additional models starting in 2027. The company aims for profitability as it expands its manufacturing capacity.",
+      "tags": [
+        "ev",
+        "startups",
+        "india"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7c1a881dff546d07",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis",
+      "url": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/",
+      "summary": "Lucid's new CEO, Silvio Napoli, has outlined a turnaround plan centered on achieving $1.4 billion in cash savings and focusing on robotaxis. Other priorities include the successful launch of its midsize EV and completing a factory in Saudi Arabia.",
+      "tags": [
+        "lucid",
+        "ev",
+        "robotaxis"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cb5c381e25abcb17",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+      "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+      "summary": "MacPaw is collaborating with Liquid AI to develop a local version of its Eney AI assistant, utilizing Liquid AI's models to offer on-device inference to developers within its app store.",
+      "tags": [
+        "macpaw",
+        "ai",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2792199f4e5e830d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "summary": "A SaferAI report indicates that Z.ai's open-weight GLM-5.2 model approaches frontier AI capabilities but lacks essential safety mitigations. This raises concerns about powerful open models advancing faster than governance and safeguards.",
+      "tags": [
+        "ai",
+        "safety",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f08eac97c1ee057a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Robinhood to list a fund that lets anyone back Y Combinator startups",
+      "url": "https://techcrunch.com/2026/08/05/robinhood-to-list-a-fund-that-lets-anyone-back-y-combinator-startups/",
+      "summary": "Robinhood plans to list a new fund designed to allow retail investors to back startups from Y Combinator. This financial instrument aims to provide broader access to venture capital opportunities.",
+      "tags": [
+        "robinhood",
+        "investment",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cae5e860514c78c7",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Saudi Aramco backs India’s Mitti Labs to make Asia’s rice farming more water-resilient",
+      "url": "https://techcrunch.com/2026/08/05/saudi-aramco-backs-indias-mitti-labs-to-make-asias-rice-farming-more-water-resilient/",
+      "summary": "Saudi Aramco is backing India's Mitti Labs to enhance water resilience in Asia's rice farming and expand its carbon credits and agricultural data businesses. Mitti Labs intends to grow beyond India into the Philippines and Indonesia.",
+      "tags": [
+        "agriculture",
+        "investment",
+        "sustainability"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f8d654227db66845",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+      "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+      "summary": "TechCrunch Disrupt 2026 will feature a \"Real World AI Stage\" focusing on the intersection of digital and physical AI applications, including robots, automated factories, and technologies related to extinct animals.",
+      "tags": [
+        "ai",
+        "robotics",
+        "events"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ed23eeab88e050a3",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Wispr Flow launches a Granola-styled meeting notetaker",
+      "url": "https://techcrunch.com/2026/08/05/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/",
+      "summary": "Wispr Flow is preparing to launch a new meeting notetaker application, styled similarly to Granola, according to updated terms.",
+      "tags": [
+        "software",
+        "productivity",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "59f1fa4e390ed7cd",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Zoox to start charging for robotaxi rides in Las Vegas",
+      "url": "https://techcrunch.com/2026/08/05/zoox-to-start-charging-for-robotaxi-rides-in-las-vegas/",
+      "summary": "Zoox is set to commence charging for its robotaxi services in Las Vegas, marking the official launch of its commercial operations.",
+      "tags": [
+        "zoox",
+        "robotaxi",
+        "autonomous vehicles"
+      ],
+      "priority": false
+    },
+    {
+      "id": "020d6b076f8f066c",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Former Democratic Operative Evan Barker Tells All",
+      "url": "https://www.thefp.com/p/former-democratic-operative-evan",
+      "summary": "Evan Barker, a former insider in the progressive Democratic political machine, has shared her experiences after years as a fundraising strategist who raised approximately $50 million for various candidates.",
+      "tags": [
+        "politics",
+        "democrats",
+        "fundraising"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b440d8203e9596c1",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Roy Cooper, Sherrod Brown, and the Road to Democratic Victory",
+      "url": "https://www.thefp.com/p/roy-cooper-sherrod-brown-moderate-democrats",
+      "summary": "The article argues that focusing on moderate Democratic candidates like Roy Cooper and Sherrod Brown offers a more viable path to victory than backing left-wing candidates who risk losing winnable races. It cites Abdul El-Sayed's tight Michigan primary as an example of a progressive candidate polling behind his Republican opponent in the general election.",
+      "tags": [
+        "politics",
+        "democrats",
+        "election strategy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ae4dcde09fed463f",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Who Had to Lose for Jason Arday to Win?",
+      "url": "https://www.thefp.com/p/jason-arday-cambridge-plagiarism",
+      "summary": "The article contrasts a struggling scholar with Jason Arday, the youngest black person to hold a full professorship at Cambridge, whose remarkable life story includes not speaking until age 11 and learning to read at 18.",
+      "tags": [
+        "academia",
+        "education",
+        "social issues"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bbdd16009bc97eaa",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Disney gives TikTok creators official access to Marvel, Star Wars, and Pixar characters",
+      "url": "https://www.theverge.com/streaming/975520/disney-tiktok-partnership-verts-streaming",
+      "summary": "Disney is partnering with TikTok to integrate curated fan-created content into its Disney Plus app's Verts video feed. This initiative allows TikTok creators access to assets from hundreds of Disney movies and TV shows, with a pilot launching in the US.",
+      "tags": [
+        "disney",
+        "tiktok",
+        "streaming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c91a6d8691fc38b2",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Disney says it&#8217;s &#8216;exploring&#8217; adding a free tier to Disney Plus",
+      "url": "https://www.theverge.com/streaming/975543/disney-plus-free-tier-q3-2026-earnings",
+      "summary": "Disney CEO Josh D'Amaro confirmed the company is \"exploring a free product for consumers\" for Disney Plus, a free, ad-supported streaming option. This move aims to drive growth and reach more price-sensitive customers.",
+      "tags": [
+        "disney",
+        "streaming",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e624225738ecf847",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Google Assistant will disappear from your phone next month",
+      "url": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
+      "summary": "Google Assistant will be removed from Android phones, tablets, and paired devices like smartwatches and headphones starting September 4. This change forces users to transition to Google's newer AI, Gemini.",
+      "tags": [
+        "google",
+        "assistant",
+        "gemini"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b70b26fb4e37e85a",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Ring upgraded its peephole doorbell camera to 2K",
+      "url": "https://www.theverge.com/tech/975538/amazon-ring-peephole-cam-2k-smart-doorbell-preorder-easy-install",
+      "summary": "Ring has released the Peephole Cam 2K, an upgraded smart doorbell camera offering 2K video recording, tracking improvements, and a lower price. Designed for easy installation in existing peepholes, it replaces the 2019 Door View Cam.",
+      "tags": [
+        "ring",
+        "smart home",
+        "security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2acf2941b9c6cc0b",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Traveling this summer? Don’t go without these essential gadgets",
+      "url": "https://www.theverge.com/gadgets/974436/summer-travel-tech-gadget-gift-guide",
+      "summary": "This article recommends a selection of gadgets at various price points to enhance summer and early autumn travel experiences. Suggestions include wearable reading lights, belt bags, sunglasses, and item trackers.",
+      "tags": [
+        "travel",
+        "gadgets",
+        "recommendations"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 102,
+    "summarized": 73,
+    "skipped_promos": 1,
+    "filtered_by_rules": 28,
+    "sources": 11,
+    "email_items_omitted": 0
+  }
+}
