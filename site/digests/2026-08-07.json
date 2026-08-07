@@ -1,0 +1,1101 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T14:47:37+00:00",
+  "hot_topics": [
+    {
+      "topic": "AI Model Development and Hardware Innovation",
+      "synthesis": "The AI sector is rapidly advancing with companies like ByteDance training massive new models potentially tripling the size of existing ones, aiming to compete with leading US labs. Concurrently, there's a strong push for specialized hardware, with Anthropic designing its own chips for its Claude models and AMD acquiring startups to etch AI models directly into silicon for better inference performance. OpenAI is also enhancing its models like GPT-5.6 Sol and Luna, while developing consumer-facing AI hardware, such as a smart speaker with former Apple designer Jony Ive.",
+      "item_ids": [
+        "22687fd5820e1d83",
+        "bb0f2fb7b9adf432",
+        "bbe569461ba34f45",
+        "44e7368b8ea738bb",
+        "10780541b58e9e4b",
+        "0f7072d420723396",
+        "ea14bff8354581c3"
+      ]
+    },
+    {
+      "topic": "AI Content Transparency and Watermarking",
+      "synthesis": "With the proliferation of AI-generated content, companies like Suno, a major producer of AI music, are moving to implement watermarking technologies and policy changes. These efforts aim to meet emerging industry standards for identifying AI-created audio and combat its potential misuse and fraud across streaming platforms.",
+      "item_ids": [
+        "ae34ed337322c8bd",
+        "49dff96f6381fc88"
+      ]
+    },
+    {
+      "topic": "German Airport Drone Incident",
+      "synthesis": "A significant security incident occurred at Leipzig airport where German police disarmed an explosive-laden drone near Ukrainian cargo aircraft. Authorities are investigating the possibility of a second drone and examining evidence from past cases, suggesting potential involvement of Russian-linked proxies in delivering such devices to Germany.",
+      "item_ids": [
+        "6e6422eb20d58146",
+        "c38a7bc36404ecf4"
+      ]
+    },
+    {
+      "topic": "Meta Fined for Child Safety Violations",
+      "synthesis": "Meta has been ordered to pay substantial fines totaling $942 million in a child safety case in New Mexico, including an additional $567 million ruling. This marks a significant penalty against a social media giant for issues related to child safety on its platforms.",
+      "item_ids": [
+        "b6bfba8a482eefcc",
+        "a8639d665a0463c4"
+      ]
+    },
+    {
+      "topic": "July US Job Losses",
+      "synthesis": "The US labor market experienced an unexpected reversal in July, with employers cutting 23,000 jobs, a figure reported by the Labor Department that also included downward revisions for previous months. This indicates a potential weakening in the national economy.",
+      "item_ids": [
+        "ab148054527e2528",
+        "e773cadb27bc5aa8"
+      ]
+    },
+    {
+      "topic": "Trump Administration Policy Actions",
+      "synthesis": "The Trump administration has taken multiple notable policy actions, including signing new executive orders aimed at limiting birthright citizenship by addressing \"birth tourism.\" Additionally, the administration struck a $1.2 billion deal to halt offshore wind projects with a German firm, continuing a trend of canceling wind energy initiatives.",
+      "item_ids": [
+        "d926a410e4928327",
+        "08275ebcf45584ea",
+        "16e81a6cd65b33b6",
+        "0e39ed2f4ea8cc58"
+      ]
+    },
+    {
+      "topic": "Ford Fathom EV Truck Debut",
+      "synthesis": "Ford has unveiled its new affordable electric pickup truck, named the \"Ford Fathom,\" which will start at $28,350. Built on a redesigned UEV platform with a new zonal electronics architecture, the truck represents Ford's second attempt at a comprehensive EV strategy, though some analysts question its potential to be a true mass-market game-changer.",
+      "item_ids": [
+        "0eab9d43c0915974",
+        "8c21a171be75f365"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "bb0f2fb7b9adf432",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Anthropic will design its own hardware to power Claude",
+      "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+      "summary": "Anthropic confirmed plans to build an in-house \"custom silicon team\" to design chips specifically for running its AI models, signaling a move towards proprietary hardware development.",
+      "tags": [
+        "ai",
+        "hardware",
+        "anthropic"
+      ],
+      "priority": false
+    },
+    {
+      "id": "22687fd5820e1d83",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "ByteDance trains massive AI model in bid to rival Anthropic",
+      "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+      "summary": "ByteDance is in the early stages of training a massive AI model, potentially approaching Anthropic's Mythos system in size with up to 10 trillion parameters, as Chinese tech companies aim to compete with top US labs.",
+      "tags": [
+        "ai",
+        "bytedance",
+        "machine learning"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6e6422eb20d58146",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
+      "url": "https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/",
+      "summary": "German police disarmed a drone carrying plastic explosives near Ukrainian cargo aircraft at Leipzig airport, with authorities also investigating a possible second drone involved in a mid-air collision.",
+      "tags": [
+        "germany",
+        "drone",
+        "security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0eab9d43c0915974",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Ford picks \"Fathom\" for its affordable truck name, starts at $28,350",
+      "url": "https://arstechnica.com/cars/2026/08/ford-picks-fathom-for-its-affordable-truck-name-starts-at-28350/",
+      "summary": "Ford has named its new affordable, four-door electric pickup truck the \"Ford Fathom,\" built on a new UEV platform designed to rethink EV architecture with a zonal electronics system.",
+      "tags": [
+        "ford",
+        "ev",
+        "trucks"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4ec028b6b6e1be18",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Remembering the pre-Google web, when search was an experiment",
+      "url": "https://arstechnica.com/gadgets/2026/08/remembering-the-pre-google-web-when-search-was-an-experiment/",
+      "summary": "This article reminisces about the pre-Google internet era, where finding information involved a diverse ecosystem of proto-search engines and human-curated directories, reflecting a web still small enough for varied discoverability methods.",
+      "tags": [
+        "internet",
+        "history",
+        "search engines"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9c18e3370dba01a5",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Report: White House drafting executive order linking vaccines and autism",
+      "url": "https://arstechnica.com/health/2026/08/report-white-house-drafting-executive-order-linking-vaccines-and-autism/",
+      "summary": "The White House is reportedly drafting an executive order concerning the childhood vaccine schedule, autism research, and parental vaccination choice, despite numerous high-quality studies consistently finding no link between vaccines and autism.",
+      "tags": [
+        "white house",
+        "vaccines",
+        "autism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ae34ed337322c8bd",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Suno hopes to go legit with watermarks for AI-generated music",
+      "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
+      "summary": "Suno, a major producer of AI-generated music, plans to implement watermarks on all its audio outputs and adopt policy changes to meet emerging industry standards for labeling AI content and combat misuse.",
+      "tags": [
+        "ai",
+        "music",
+        "watermarking"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e177a5526d9b264b",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Trump FCC kills TV ownership cap, claiming authority over limit set by Congress",
+      "url": "https://arstechnica.com/tech-policy/2026/08/trump-fcc-kills-tv-ownership-cap-claiming-authority-over-limit-set-by-congress/",
+      "summary": "The FCC, under Chairman Brendan Carr, voted to eliminate the National Television Ownership Rule, which limited a single owner to 39% of US TV households, opting instead for a \"case-by-case review\" of mergers.",
+      "tags": [
+        "fcc",
+        "media",
+        "regulation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "08ac3742b3ab2d36",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "X wants to keep suing advertisers, asks 5th Circuit to overrule district judge",
+      "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-x-isnt-done-suing-advertisers-asks-court-to-revive-boycott-case/",
+      "summary": "X is attempting to revive a lawsuit against advertisers accused of an illegal boycott, despite a prior settlement with an ad-industry trade group and a district judge ruling against its antitrust claims.",
+      "tags": [
+        "x",
+        "lawsuit",
+        "advertising"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c6e8bbec1df48f78",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'Put your phone down': K-pop band weighs in on concert etiquette",
+      "url": "https://www.bbc.co.uk/news/articles/c39ep3p0ld1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The K-pop band Cortis has issued a plea for concert-goers to \"put your phone down,\" sparking mixed reactions among fans regarding concert etiquette and the desire to capture moments.",
+      "tags": [
+        "music",
+        "k-pop",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "705f6719547aec60",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "A new youth agitation grips an Indian state after 'cockroach' protests",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
+      "summary": "A new youth-led movement is gaining momentum in Jharkhand, India, focused on issues of jobs and recruitment, following earlier protests in Delhi.",
+      "tags": [
+        "india",
+        "protests",
+        "youth"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5da2ce7f315dfc19",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
+      "url": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
+      "summary": "An Australian aviation crew successfully conducted a challenging midwinter rescue mission in Antarctica, evacuating a patient from McMurdo Station in total darkness and extreme cold.",
+      "tags": [
+        "australia",
+        "antarctica",
+        "rescue"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f85a5ce76a81b770",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Does Africa still back Infantino as Fifa president?",
+      "url": "https://www.bbc.co.uk/news/articles/c78g3glpl8wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The article questions whether the African confederation continues to support Gianni Infantino as FIFA president, noting that it has not yet taken an official stance despite various African footballing nations having their own positions.",
+      "tags": [
+        "football",
+        "fifa",
+        "africa"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1beb35ad585d9adc",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Doge overstated claims to have saved Americans $110bn, watchdog finds",
+      "url": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo?at_medium=RSS&at_campaign=rss",
+      "summary": "A review by a watchdog found that Doge, a body previously tasked with reducing government spending, overstated its claims of saving Americans $110 billion and had issues with its calculations.",
+      "tags": [
+        "government",
+        "finance",
+        "watchdog"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c38a7bc36404ecf4",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "German airport drone-bomb: Could Russia be involved?",
+      "url": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Following the discovery of an explosive drone at a German airport, evidence from previous cases suggests Russian-linked proxies have handled and delivered drones and explosives to Germany.",
+      "tags": [
+        "germany",
+        "russia",
+        "drone"
+      ],
+      "priority": false
+    },
+    {
+      "id": "94d0cb3291ae3e15",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "India is a nation of walkers - but its cities forgot them",
+      "url": "https://www.bbc.co.uk/news/articles/ce3e4enkrqro?at_medium=RSS&at_campaign=rss",
+      "summary": "India's top court has highlighted the issue of unsafe footpaths in Indian cities, drawing attention to the neglected needs of pedestrians in urban planning.",
+      "tags": [
+        "india",
+        "urban planning",
+        "infrastructure"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d65eb1ee53b46398",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film",
+      "url": "https://www.bbc.co.uk/news/articles/cn4n1e8159yo?at_medium=RSS&at_campaign=rss",
+      "summary": "An Israeli settler, Yinon Levy, has been charged with reckless manslaughter in the July 2025 shooting death of Odeh Hathaleen, a Palestinian involved in an Oscar-winning film.",
+      "tags": [
+        "israel",
+        "palestine",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f691f03708e15d55",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Livestreamer's murder raises questions over relations between Mexico's creators and cartels",
+      "url": "https://www.bbc.co.uk/news/articles/ckg9dwz8p30o?at_medium=RSS&at_campaign=rss",
+      "summary": "The murder of content creator César Gastélum in Mexico raises concerns about the interactions and vulnerabilities of influencers in relation to cartels.",
+      "tags": [
+        "mexico",
+        "crime",
+        "influencers"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a8639d665a0463c4",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Meta fined $567m in largest child safety ruling against social media giant",
+      "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Meta has been fined an additional $567 million in a child safety case, bringing its total penalties to $942 million in what is described as the largest ruling against a social media giant for such issues.",
+      "tags": [
+        "meta",
+        "child safety",
+        "fine"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7635d2a8f929820f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+      "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Saudi Arabia, Turkey, and Pakistan have signed a defense pact, with Pakistan stating that an attack on any member would be considered an attack against all.",
+      "tags": [
+        "international relations",
+        "defense",
+        "middle east"
+      ],
+      "priority": false
+    },
+    {
+      "id": "22e9e3208bcb0c46",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Seven killed after Thai teen shooter opens fire at home and school",
+      "url": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
+      "summary": "A Thai teenager killed his grandparents at home before proceeding to gun down five teachers at his school, resulting in seven fatalities.",
+      "tags": [
+        "thailand",
+        "shooting",
+        "violence"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8900bf8ad95ac0be",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Sudan's invisible children - born in war with no legal identity",
+      "url": "https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&at_campaign=rss",
+      "summary": "Babies born from rape in war-torn Sudan often lack birth certificates, leading to a lifetime of legal identity issues and challenges.",
+      "tags": [
+        "sudan",
+        "human rights",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "82487cccc9f9e5ae",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Thousands of migrants still in Ceuta after border crisis, local leader says",
+      "url": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The mayor-president of Ceuta reported that thousands of migrants remain in the Spanish territory after 78,000 people crossed from Morocco, with 100 deaths occurring during the crisis.",
+      "tags": [
+        "migration",
+        "spain",
+        "morocco"
+      ],
+      "priority": false
+    },
+    {
+      "id": "16e81a6cd65b33b6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
+      "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Trump administration will pay a German firm $1.2 billion to cancel US wind energy projects, consistent with the administration's stance against wind power.",
+      "tags": [
+        "trump administration",
+        "energy",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d926a410e4928327",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+      "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Trump has signed new executive orders aimed at limiting US birthright citizenship by banning \"birth tourism\" and expanding the definition of people whose children are ineligible.",
+      "tags": [
+        "trump administration",
+        "immigration",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "85d2a5cd94fa7532",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
+      "summary": "President Trump denied reports of a US weapons shortage and stated that \"leakers\" providing information to the press were being pursued, despite public data suggesting significant depletion of difficult-to-manufacture weapons.",
+      "tags": [
+        "trump administration",
+        "defense",
+        "national security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e16ce3d2c29a553e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Two people convicted in relation to death of French streamer",
+      "url": "https://www.bbc.co.uk/news/articles/c8rnmdy4enpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two individuals have been convicted in connection with the death of French streamer Raphaël Graven, whose death in August 2025 was broadcast live on Kick.",
+      "tags": [
+        "crime",
+        "streaming",
+        "france"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6486368dd8c77215",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Where is Jackie? Beloved live cam eagle in critical condition",
+      "url": "https://www.bbc.co.uk/news/videos/c2el1dz7ge9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Jackie, a bald eagle famous from a live-stream in California, is in critical condition after being diagnosed with anemia.",
+      "tags": [
+        "wildlife",
+        "eagles",
+        "california"
+      ],
+      "priority": false
+    },
+    {
+      "id": "865b5e86a5297db1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why was Taiwan’s president evacuated in the middle of the night?",
+      "url": "https://www.bbc.co.uk/news/videos/cly83vm923go?at_medium=RSS&at_campaign=rss",
+      "summary": "Taiwan's President William Lai participated in an emergency evacuation drill as part of military exercises designed to prepare for a potential Chinese invasion.",
+      "tags": [
+        "taiwan",
+        "china",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e5f7a6f84fac3c53",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "‘Wiped out’ - BBC reports from Spokane neighbourhood devastated by fires",
+      "url": "https://www.bbc.co.uk/news/videos/cvg01dy7yn9o?at_medium=RSS&at_campaign=rss",
+      "summary": "A Spokane neighborhood has been \"wiped out\" by fires, with at least 860 buildings, including hundreds of homes, burned down as officials work to contain the blazes.",
+      "tags": [
+        "fires",
+        "disaster",
+        "us"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bbe569461ba34f45",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "summary": "AMD has acquired AI chip startup Taalas, aiming to enhance inference performance by integrating AI models directly into silicon hardware.",
+      "tags": [
+        "amd",
+        "ai",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f87c82ada5fcec81",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "GitHub Actions and Pages are experiencing degraded availability",
+      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+      "summary": "GitHub Actions and Pages are currently experiencing degraded availability, impacting users relying on these services.",
+      "tags": [
+        "github",
+        "outage",
+        "cloud services"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6d69e97297d52735",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Herdr is joining Y Combinator. The runtime stays open",
+      "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+      "summary": "Herdr announced its participation in Y Combinator, confirming that its runtime environment will remain open source.",
+      "tags": [
+        "startup",
+        "open source",
+        "y combinator"
+      ],
+      "priority": false
+    },
+    {
+      "id": "44e7368b8ea738bb",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+      "summary": "OpenAI is enhancing GPT-5.6 Sol within ChatGPT and expanding access to GPT-5.6 Luna for free users, improving its AI model offerings.",
+      "tags": [
+        "openai",
+        "chatgpt",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c770cc39b32c4263",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "My phone detects going on a run as “someone snatching my phone and running off”",
+      "url": "https://mastodon.gamedev.place/@rygorous/117047697255584965",
+      "summary": "A user's phone frequently misinterprets their running activity as the device being snatched, highlighting a humorous yet frustrating flaw in motion detection algorithms.",
+      "tags": [
+        "technology",
+        "user experience",
+        "bugs"
+      ],
+      "priority": false
+    },
+    {
+      "id": "86cd954ee6fdc4a9",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Taste Is All That's Left",
+      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+      "summary": "This article explores the evolving landscape of creative work and the increasing importance of \"taste\" as a distinguishing factor in an age of abundant information and automated content generation.",
+      "tags": [
+        "creativity",
+        "culture",
+        "internet"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ab148054527e2528",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "U.S. economy lost 23,000 jobs in July, a sudden reversal",
+      "url": "https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138",
+      "summary": "The U.S. economy unexpectedly lost 23,000 jobs in July, indicating a sudden reversal in the labor market and weaker job gains for the prior two months.",
+      "tags": [
+        "economy",
+        "jobs",
+        "labor market"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0e39ed2f4ea8cc58",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+      "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
+      "summary": "The US government has agreed to a $1.2 billion deal with a German firm to halt offshore wind projects, which is part of a trend of canceling wind energy initiatives.",
+      "tags": [
+        "energy",
+        "policy",
+        "offshore wind"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fdeb8153ff21f95c",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+      "summary": "The Nepalese government's data has been integrated into \"Have I Been Pwned,\" allowing individuals to check if their information from government breaches has been compromised.",
+      "tags": [
+        "cybersecurity",
+        "data breach",
+        "nepal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bc5de03b0587ac4a",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "A new vaccine could vanquish a major cause of deadly diarrheal disease",
+      "url": "https://www.npr.org/2026/08/07/g-s1-137456/diarrhea-disease-vaccine-childhood-deaths-shigella",
+      "summary": "A new vaccine in trials offers significant hope in combating diarrheal disease, which causes over 1 million deaths annually, nearly half of which are children under five.",
+      "tags": [
+        "health",
+        "vaccine",
+        "disease"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fb2605e1f6383e42",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Amid cost of living stress, many parents are supporting children well into adulthood",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5876223/cost-of-living-parents-adult-children-financial-support",
+      "summary": "Many American parents are financially supporting their adult children due to cost-of-living pressures, often at the expense of their own finances, as most believe younger generations face greater financial challenges.",
+      "tags": [
+        "economy",
+        "family",
+        "finance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "190fcee26fb1f626",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Besieged Sudanese city faces relentless drone strikes and risk of mass atrocities, U.N. warns",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5921212/el-obeid-sudan-war",
+      "summary": "The UN warns that the besieged city of el-Obeid in Sudan is suffering relentless drone strikes, critical water shortages, a worsening cholera outbreak, and high rates of sexual violence against women and girls.",
+      "tags": [
+        "sudan",
+        "conflict",
+        "humanitarian crisis"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e773cadb27bc5aa8",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5924786/employers-economy-labor-jobs-federal-reserve",
+      "summary": "U.S. employers cut 23,000 jobs in July, a figure released by the Labor Department that also revised down job gains for the two preceding months, signaling a weakening labor market.",
+      "tags": [
+        "economy",
+        "jobs",
+        "labor market"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2dd3050973bbffbf",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Everyone's talking about hormone therapy for menopause. Should I be on it?",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5922746/menopause-hormone-therapy-hrt-heart",
+      "summary": "This article addresses the renewed interest in hormone therapy for menopause, questioning its benefits and suitability for all women after previous medical advisories against it.",
+      "tags": [
+        "health",
+        "women's health",
+        "menopause"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2e9fdc4aecf9c27f",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Kalshi and Polymarket bets on clinical trials criticized as 'ghastly'",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials",
+      "summary": "Researchers are criticizing Kalshi and Polymarket for allowing betting on clinical trials, warning it could incentivize insider trading and interfere with drug development, while the platforms claim to provide valuable patient information.",
+      "tags": [
+        "finance",
+        "healthcare",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5f2d756f9ec0670a",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Murkowski will oppose Blanche nomination, narrowing his path to confirmation",
+      "url": "https://www.npr.org/2026/08/07/g-s1-137773/lisa-murkowski-todd-blanche-attorney-general",
+      "summary": "Senator Lisa Murkowski announced her opposition to Todd Blanche's nomination for Attorney General, stating she lacks confidence he would check the administration's impulses, thereby narrowing his confirmation path.",
+      "tags": [
+        "politics",
+        "us senate",
+        "nominations"
+      ],
+      "priority": false
+    },
+    {
+      "id": "08275ebcf45584ea",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz",
+      "url": "https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell",
+      "summary": "President Trump has signed new orders targeting birthright citizenship, while Iran is seeking to ban US ships from the Strait of Hormuz.",
+      "tags": [
+        "trump administration",
+        "immigration",
+        "iran"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b3625da1d2d8ce09",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "When tragedy strikes, America's wildland firefighters ask, was it 'somebody that we loved?'",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5920418/firefighters-mourn-deaths-intense-wildfire-season",
+      "summary": "Wildland firefighters are experiencing strain from deaths and close calls during an intense wildfire season, raising questions about current policies and priorities.",
+      "tags": [
+        "wildfires",
+        "emergency services",
+        "us"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d7e1d6eb9c0e112f",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "Neutrinos From Deep Inside Earth Provide a New Picture of the Mantle",
+      "url": "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/",
+      "summary": "Scientists are using neutrinos detected kilometers underground to gain new insights into the Earth's mantle, providing a novel way to study our planet's interior.",
+      "tags": [
+        "science",
+        "geology",
+        "neutrinos"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1c7f18cbad794705",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Simon Willison on Technical Blogging",
+      "url": "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/#atom-everything",
+      "summary": "Simon Willison shares his insights on technical blogging, emphasizing the importance of lowering standards to publish more consistently and accepting imperfections in writing.",
+      "tags": [
+        "blogging",
+        "writing",
+        "tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d93b09dad870d689",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Thursday discussion post",
+      "url": "https://www.slowboring.com/p/thursday-discussion-post-302",
+      "summary": "This entry serves as a general discussion post for the blog, inviting reader engagement on various topics.",
+      "tags": [
+        "blog",
+        "discussion",
+        "general"
+      ],
+      "priority": false
+    },
+    {
+      "id": "87cfba5f051ce233",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "summary": "Airbnb is leveraging AI to accelerate feature development and is testing a new AI-powered search experience for its platform.",
+      "tags": [
+        "airbnb",
+        "ai",
+        "product development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "73ebfcfb0aade97e",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Bumble teases a swipe-free future as it doubles down on IRL meetups",
+      "url": "https://techcrunch.com/2026/08/06/bumble-teases-a-swipe-free-future-as-it-doubles-down-on-irl-meetups/",
+      "summary": "Bumble is moving beyond its traditional swipe-based interface to focus on real-world social experiences, aiming to attract Gen Z users.",
+      "tags": [
+        "bumble",
+        "dating app",
+        "social media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "10780541b58e9e4b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "ChatGPT brings unlimited text chats to free users",
+      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+      "summary": "OpenAI has introduced unlimited text chats for free and Go users of ChatGPT, alongside a new \"think button\" feature for complex queries.",
+      "tags": [
+        "openai",
+        "chatgpt",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "67b02233094fa06f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "China-linked LightSpy spyware caught targeting victims in 13 countries, including the US",
+      "url": "https://techcrunch.com/2026/08/06/china-linked-lightspy-spyware-caught-targeting-victims-in-13-countries-including-the-us/",
+      "summary": "Researchers have identified China-linked LightSpy spyware targeting victims in 13 countries, including the US, with recent malicious activity traced to a Chinese company.",
+      "tags": [
+        "spyware",
+        "cybersecurity",
+        "china"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7378ba9725be6afa",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Defense tech Hadrian raises $1.37B at $8B valuation",
+      "url": "https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/",
+      "summary": "Defense technology company Hadrian, which builds automated factories for defense vehicle parts, has raised $1.37 billion, valuing the company at $8 billion.",
+      "tags": [
+        "defense",
+        "manufacturing",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8c21a171be75f365",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Ford needs another Taurus, and the $30K Fathom EV pickup isn’t it",
+      "url": "https://techcrunch.com/2026/08/06/ford-needs-another-taurus-and-the-30k-fathom-ev-pickup-isnt-it/",
+      "summary": "The article suggests that while Ford's new Fathom EV pickup is presented as a \"Model T moment,\" it may not meet lofty expectations for a mass-market, affordable vehicle akin to the original Taurus.",
+      "tags": [
+        "ford",
+        "ev",
+        "trucks"
+      ],
+      "priority": false
+    },
+    {
+      "id": "45344ba5f249f77b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Hacker pleads guilty to stealing data from more than 165 Snowflake customers",
+      "url": "https://techcrunch.com/2026/08/06/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-customers/",
+      "summary": "Connor Moucka pleaded guilty to hacking over 165 Snowflake customers and stealing data, resulting in more than $2.5 million in ransom payments for him and his accomplices.",
+      "tags": [
+        "cybersecurity",
+        "data breach",
+        "hacking"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b6e6dd3bb434ef55",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+      "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+      "summary": "Naïve secured $28.5 million in funding for its infrastructure that aims to automate most of the administrative work involved in establishing and operating a business.",
+      "tags": [
+        "startup",
+        "funding",
+        "automation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b6bfba8a482eefcc",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+      "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+      "summary": "A New Mexico court ordered Meta to pay an additional $567 million in a child safety case, bringing the total fine to $942 million.",
+      "tags": [
+        "meta",
+        "lawsuit",
+        "child safety"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0f7072d420723396",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "summary": "OpenAI's upcoming AI smart speaker, developed with Jony Ive, is rumored to be a battery-powered, hockey puck-sized device without a display, expected to retail for $300-$400.",
+      "tags": [
+        "openai",
+        "ai",
+        "smart speaker"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d74d22a1acf650e6",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "TikTok lays off 250 employees, shutters its Nashville office",
+      "url": "https://techcrunch.com/2026/08/06/tiktok-lays-off-250-employees-shutters-its-nashville-office/",
+      "summary": "TikTok has laid off 250 employees and closed its Nashville office, which previously housed some members of its content moderation team.",
+      "tags": [
+        "tiktok",
+        "layoffs",
+        "content moderation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3f6346b304b0f21e",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Vogue just gave another nod of approval to the tech world",
+      "url": "https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/",
+      "summary": "Vogue World is scheduled to come to San Francisco next year, indicating the growing presence of tech culture in the fashion zeitgeist.",
+      "tags": [
+        "fashion",
+        "tech",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "200047464f3dd90c",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Ted Cruz’s Plan to Bring Down Iran’s Regime—and Tucker Carlson",
+      "url": "https://www.thefp.com/p/school-of-war-ted-cruz",
+      "summary": "Senator Ted Cruz outlines a plan to confront Iran's regime, also addressing the issue of politicians appeasing extreme voices in their coalitions that flirt with antisemitism.",
+      "tags": [
+        "politics",
+        "foreign policy",
+        "iran"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a82602396948caad",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "TGIF: With the Exception of Pearl Harbor",
+      "url": "https://www.thefp.com/p/tgif-with-the-exception-of-pearl",
+      "summary": "This opinion piece discusses political commentary, including concerns about Truth Social reportedly selling early access to market-moving White House announcements and former President Trump's remarks on US-Japanese relations.",
+      "tags": [
+        "politics",
+        "commentary",
+        "trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ea14bff8354581c3",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+      "summary": "OpenAI, in collaboration with former Apple designer Jony Ive, is reportedly developing a battery-powered, doughnut-shaped smart speaker the size of a hockey puck, expected to launch in 2027 for over $300.",
+      "tags": [
+        "openai",
+        "ai",
+        "smart speaker"
+      ],
+      "priority": false
+    },
+    {
+      "id": "49dff96f6381fc88",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Suno shares plans to combat spammy AI music",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
+      "summary": "Suno announced new watermarking and fingerprinting technology, along with download policy changes, to increase transparency and combat the spread of spammy or fraudulent AI-generated music.",
+      "tags": [
+        "ai",
+        "music",
+        "watermarking"
+      ],
+      "priority": false
+    },
+    {
+      "id": "687d6cafdb165b36",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The AirPods Pro are $60 off, their best price since late June",
+      "url": "https://www.theverge.com/gadgets/976276/apple-airpods-pro-3-best-buy-apple-deal-sale",
+      "summary": "Best Buy is offering Apple's latest AirPods Pro for $189.99, a $60 discount matched by other retailers, marking their lowest price since late June.",
+      "tags": [
+        "apple",
+        "airpods",
+        "deal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "23fc5f60d04a0376",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The best classic slasher movie you&#8217;ll never watch",
+      "url": "https://www.theverge.com/entertainment/975850/teenage-sex-and-death-at-camp-miasma-production-design",
+      "summary": "This article discusses \"Camp Miasma,\" a fictional horror franchise from 1980 that never actually existed, exploring its imagined impact on horror culture through sequels, merchandise, and knockoffs.",
+      "tags": [
+        "entertainment",
+        "movies",
+        "horror"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2450f88ede525a11",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The Zelda movie’s Ganondorf casting hints at more movies",
+      "url": "https://www.theverge.com/entertainment/976337/the-legend-of-zelda-movie-ganondorf-multi-picture-deal",
+      "summary": "Actor Uli Latukefu has reportedly signed a multi-picture deal to play Ganondorf in the upcoming Legend of Zelda movie, suggesting Nintendo and Sony may be planning a film trilogy.",
+      "tags": [
+        "zelda",
+        "movies",
+        "nintendo"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a2e26ae1775b316f",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Trevor Noah is hosting Google’s Pixel 11 launch event",
+      "url": "https://www.theverge.com/tech/976454/made-by-google-2026-event-pixel-11-trevor-noah",
+      "summary": "Trevor Noah will host Google's upcoming Made by Google hardware launch event on August 12th, featuring the Pixel 11 and other celebrities and influencers.",
+      "tags": [
+        "google",
+        "pixel",
+        "launch event"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2cfc6f7da29e869b",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Werewolf transformed my old gadgets into USB-C powered ones",
+      "url": "https://www.theverge.com/gadgets/975965/werewolf-vflex-usb-c-dc-barrel-jack-preview-hands-on",
+      "summary": "A programmable dongle from Werewolf allows old gadgets that lack USB-C ports to be powered by USB-C, making them compatible with modern USB battery packs without internal modifications.",
+      "tags": [
+        "gadgets",
+        "usb-c",
+        "power"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b484ecc2e33675a1",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Why does Apple keep banning Telegram, but never X?",
+      "url": "https://www.theverge.com/tech/976405/apple-telegram-ban-x-app-store-violations",
+      "summary": "Apple temporarily removed Telegram from its App Store due to child sexual abuse material, prompting questions about the consistency of its content moderation policies compared to platforms like X.",
+      "tags": [
+        "apple",
+        "app store",
+        "content moderation"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 115,
+    "summarized": 73,
+    "skipped_promos": 5,
+    "filtered_by_rules": 37,
+    "sources": 10,
+    "email_items_omitted": 0
+  }
+}
