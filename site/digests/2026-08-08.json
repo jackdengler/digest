@@ -1,0 +1,982 @@
+{
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T14:25:11+00:00",
+  "hot_topics": [
+    {
+      "topic": "AI's Expanding Reach and Cost Concerns",
+      "synthesis": "Artificial intelligence is demonstrating diverse applications, from enhancing hurricane forecasting and powering customized streaming searches to generating complex video games and browser agents for AI. However, its widespread adoption also brings significant challenges, including concerns over high operational costs, with companies reporting millions spent on AI consumption, and ethical considerations surrounding its use in creative works. Companies are actively seeking ways to manage and track these escalating AI expenditures.",
+      "item_ids": [
+        "6c04cb7a0c9f099d",
+        "6ee036c4ad3f1b16",
+        "5445a842303c48d7",
+        "68393822614837a5",
+        "6ed5a49d8a364282",
+        "bcc14a82f3d0e368",
+        "733894b6b6eaee14",
+        "893d5f58a730def1",
+        "9fa7df9521e75c94",
+        "c1bdb32602573508",
+        "e91c9dd24580fd52"
+      ]
+    },
+    {
+      "topic": "Trump Administration's Ongoing Political Impact and Policies",
+      "synthesis": "The Trump administration continues to shape US politics and policy, exemplified by the narrow confirmation of former lawyer Todd Blanche as Attorney General and renewed attempts to remove Federal Reserve Governor Lisa Cook. Policy initiatives include efforts to restrict birthright citizenship and end birth tourism, as well as controversial decisions like spending billions to cancel offshore wind farm leases and prohibiting federal funds for distributing drug test strips.",
+      "item_ids": [
+        "5d5da5d26154faf8",
+        "9772c26dd24fe5e1",
+        "c01aa48a929a294d",
+        "49bb2d548d434f25",
+        "083513a0f4d6b345",
+        "698a63a2df236784",
+        "8633833be2119648"
+      ]
+    },
+    {
+      "topic": "The Rise of Data Centers as a Contentious Political Issue",
+      "synthesis": "Data center construction has become a polarizing bipartisan issue across the U.S., with growing public opposition and calls for moratoriums from political candidates. While states like New York and Texas have already paused construction due to local concerns, experts warn that widespread bans could significantly harm the U.S. economy. This debate also ties into long-term discussions about AI's energy consumption.",
+      "item_ids": [
+        "eacf422b4af0c2da",
+        "05ff4795a17b15bc"
+      ]
+    },
+    {
+      "topic": "K-Pop's Global Influence and Industry Shifts",
+      "synthesis": "K-pop's global impact is evident as it inspires new local music scenes, such as in Chile where young creatives are remixing the genre to create their own pop stars. Concurrently, the industry experiences internal shifts, highlighted by Sophia Laforteza's departure from the group Katseye, making her the second member to leave this year.",
+      "item_ids": [
+        "f1130bad0909a3e6",
+        "acd39d34a54d92d2"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "6c04cb7a0c9f099d",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+      "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+      "summary": "Google's DeepMind developed WeatherNext, an AI model that accurately predicted Hurricane Melissa's Category 5 landfall in Jamaica five days in advance. This model provides an average of one extra day of lead time for forecasters compared to existing models.",
+      "tags": [
+        "ai",
+        "weather",
+        "deepmind"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5d5da5d26154faf8",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "DOGE's wild, unverifiable savings claims discredited in US government report",
+      "url": "https://arstechnica.com/tech-policy/2026/08/doges-inflated-wall-of-receipts-96-of-grant-savings-unverifiable-gao-says/",
+      "summary": "A US Government Accountability Office (GAO) report discredited claims by Trump's Department of Government Efficiency (DOGE), finding 96% of its reported $49.2 billion in grant savings unverifiable. The GAO stated DOGE's \"Wall of Receipts\" lacked sufficient information to confirm savings methods or composition for most terminated grants.",
+      "tags": [
+        "government",
+        "audit",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "504e74ba55fc6a69",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
+      "url": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
+      "summary": "Bethesda released \"Dawn of the Machine,\" a new official campaign chapter for Quake's 30th anniversary, developed by MachineGames' \"Quake Club\" using modern tools like TrenchBroom. The new maps offer greater ambition and scope than original Quake maps.",
+      "tags": [
+        "gaming",
+        "anniversary",
+        "quake"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6ee036c4ad3f1b16",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+      "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+      "summary": "OpenAI's upcoming smart speaker is rumored to cost over $300, potentially up to $400, and aims to replace smartphones. It will reportedly use moving parts to appear \"more alive.\"",
+      "tags": [
+        "ai",
+        "hardware",
+        "openai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a855156b1a30f6fb",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+      "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+      "summary": "NASA's Perseverance rover is set to break the distance record for any vehicle on another world, surpassing the Opportunity rover's 45.16 km on Mars. It achieved this milestone in only a third of the time, having landed in February 2021.",
+      "tags": [
+        "space",
+        "nasa",
+        "mars"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4e6ca0a521a90981",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Volkswagen plans to win America back with a pickup, report says",
+      "url": "https://arstechnica.com/cars/2026/08/volkswagen-plans-to-win-america-back-with-a-pickup-report-says/",
+      "summary": "Volkswagen Group reportedly plans to introduce a US-made pickup truck by 2030 as part of its strategy to revive its American business. Entering the competitive high-margin pickup and large SUV segments, currently ignored by VW, is seen as a path forward in the $200 billion US pickup market.",
+      "tags": [
+        "automotive",
+        "volkswagen",
+        "market strategy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c2bcaec877e25d0c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukrainian emergency workers are reporting an increase in Russian drone attacks targeting hospitals and ambulances, leading medics to fear for their lives.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "war crimes"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ef79fffc9961af90",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Book hidden in fireplace returned to Australian library 150 years overdue",
+      "url": "https://www.bbc.co.uk/news/articles/c39eprxln0go?at_medium=RSS&at_campaign=rss",
+      "summary": "A book hidden in a fireplace was returned to an Australian library 150 years overdue, believed to have been borrowed by an apprentice stonemason who worked on London's Houses of Parliament.",
+      "tags": [
+        "history",
+        "library",
+        "curiosity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4f69066ba0474b72",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Child among three killed in Russian missile attacks near Kyiv",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Russian missile attacks near Kyiv killed three people, including a child, after President Zelensky warned of Ukraine's diminishing missile interceptor supplies. Russia continued its overnight aggression.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2f09f22f64ad8dd7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "He's been frozen on Everest for 30 years, now 'Green Boots' may finally be coming home",
+      "url": "https://www.bbc.co.uk/news/articles/cz05xn35xj7o?at_medium=RSS&at_campaign=rss",
+      "summary": "\"Green Boots,\" the body of an Indian man frozen on Everest for 30 years and used as a grim trail marker, may finally be brought home.",
+      "tags": [
+        "everest",
+        "mountaineering",
+        "tragedy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "16adde3c9bf45f43",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Hunter Biden tells BBC his pardon was 'not good' for US or his father's legacy",
+      "url": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hunter Biden stated in a BBC interview that his pardon was \"not good\" for the US or his father's legacy, while denying interest in running for office and revealing his father's cancer had spread.",
+      "tags": [
+        "us politics",
+        "biden family",
+        "interview"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0cb8e57763e93a0d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
+      "url": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
+      "summary": "A Thai pupil recounted witnessing her teacher being shot during an attack that killed five teachers, expressing fear of never seeing her mother again.",
+      "tags": [
+        "thailand",
+        "school shooting",
+        "violence"
+      ],
+      "priority": false
+    },
+    {
+      "id": "571a3ac15eea9ec3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
+      "url": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
+      "summary": "Feliks, a rare Serbian eagle kidnapped as a fledgling and held for ransom by poachers in the Middle East, has been rescued and freed back into the wild.",
+      "tags": [
+        "wildlife",
+        "conservation",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ef1256df6a9931ab",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Mexico and Peru restore diplomatic relations after asylum row",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
+      "summary": "Mexico and Peru have restored diplomatic relations, which had broken down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025.",
+      "tags": [
+        "diplomacy",
+        "mexico",
+        "peru"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a3c55fa9711d4d89",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "NBA forward Clarke's death due to effects of drugs",
+      "url": "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss",
+      "summary": "Memphis Grizzlies forward Brandon Clarke's death was determined by the Los Angeles medical authority to be due to the effects of heroin and cocaine.",
+      "tags": [
+        "nba",
+        "drugs",
+        "health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2a4bcff574de362d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Scale of devastation shocks US city's fire-seasoned residents",
+      "url": "https://www.bbc.co.uk/news/articles/cvglpvgljzdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Spokane residents, accustomed to fire season, are shocked by the scale of devastation after a fire jumped the river, highlighting the immense danger.",
+      "tags": [
+        "wildfire",
+        "disaster",
+        "spokane"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f1130bad0909a3e6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Sophia Laforteza steps away from Katseye, the second member to depart this year",
+      "url": "https://www.bbc.co.uk/news/articles/c4g305dz0y9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Sophia Laforteza has stepped away from the K-pop group Katseye, becoming the second member to depart this year, following Manon Bannerman's hiatus.",
+      "tags": [
+        "k-pop",
+        "music industry",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dec1d240eab3157f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Spain imposed border controls against Italy due to an intensifying dispute over an influx of approximately 78,000 migrants from Morocco into the Spanish exclave of Ceuta.",
+      "tags": [
+        "migration",
+        "spain",
+        "italy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ebcdf3c19f65b726",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
+      "url": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Spanish police arrested 78 people in a bust of \"one of the largest\" smuggling networks, which moved synthetic drugs from Spain to Algeria and smuggled migrants and weapons on return journeys.",
+      "tags": [
+        "crime",
+        "spain",
+        "drug trafficking"
+      ],
+      "priority": false
+    },
+    {
+      "id": "de4e025febb19e59",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+      "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+      "summary": "Thailand's Prime Minister vowed to introduce stricter gun laws after eight people were killed, including five teachers, in a shooting carried out by a 14-year-old.",
+      "tags": [
+        "thailand",
+        "gun control",
+        "violence"
+      ],
+      "priority": false
+    },
+    {
+      "id": "565d924c9af9f715",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "The phone book that led us to Assad's spy chief in hiding",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
+      "summary": "This article details the process of tracking down \"The Spider,\" once one of Syria's most feared men, Assad's spy chief, who was found in hiding.",
+      "tags": [
+        "syria",
+        "journalism",
+        "intelligence"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c01aa48a929a294d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+      "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump's former criminal defense lawyer, Todd Blanche, was narrowly confirmed as US attorney general, cementing his role despite rare Republican opposition.",
+      "tags": [
+        "politics",
+        "us government",
+        "trump administration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "214c2c7e9d25f061",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US gifts $1bn to Colombia on new right-wing president's first day of office",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US gifted $1 billion to Colombia on the first day of its new right-wing president, Abelardo de la Espriella, who promised an \"all-out war\" on \"narco-terrorism.\"",
+      "tags": [
+        "us foreign policy",
+        "colombia",
+        "aid"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dec0133bdab64c7a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
+      "url": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
+      "summary": "FIFA president Gianni Infantino is facing multiple calls to resign after his unsuccessful attempt to sell private stakes in the World Cup, a move questioned by the BBC.",
+      "tags": [
+        "fifa",
+        "football",
+        "corruption"
+      ],
+      "priority": false
+    },
+    {
+      "id": "49bb2d548d434f25",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What is birthright citizenship and how common is birth tourism in the US?",
+      "url": "https://www.bbc.co.uk/news/articles/cn9nz5qwl8jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Trump administration is attempting to restrict access to US citizenship by ending birth tourism and tightening other criteria, raising questions about birthright citizenship.",
+      "tags": [
+        "us immigration",
+        "citizenship",
+        "trump administration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d1af45c8f4896a76",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What we know so far about the deadly Thailand shooting",
+      "url": "https://www.bbc.co.uk/news/videos/c70glx1ww78o?at_medium=RSS&at_campaign=rss",
+      "summary": "At least seven people have died after a teenage boy shot his grandparents before opening fire on a school in Bangkok.",
+      "tags": [
+        "thailand",
+        "school shooting",
+        "violence"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7b2555c48edf56a9",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "An all-sky map of half a million supermassive black holes",
+      "url": "https://www.sdss.org/black-hole-mapper-release-20/",
+      "summary": "Researchers have created an all-sky map of half a million supermassive black holes, representing a significant astronomical achievement.",
+      "tags": [
+        "astronomy",
+        "space",
+        "black holes"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ccb4df942283b16c",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+      "url": "https://ancientlibrary.net/",
+      "summary": "Ancient Library offers a collection of 1,060 Greek/Latin texts, allowing users to click any word for parsing, providing a valuable resource for classical studies.",
+      "tags": [
+        "education",
+        "history",
+        "classics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7bd1b5f7508eae1e",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Assembly Hall of Shame",
+      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "summary": "The \"Assembly Hall of Shame\" is a GitHub repository cataloging notable or humorous examples of assembly code, drawing attention and comments from the developer community.",
+      "tags": [
+        "programming",
+        "assembly",
+        "github"
+      ],
+      "priority": false
+    },
+    {
+      "id": "893d5f58a730def1",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "DeepSeek V4 Flash 0731",
+      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "summary": "DeepSeek V4 Flash 0731 is a topic discussed on ARCPrize, generating many comments and points, likely concerning a new AI model or benchmark.",
+      "tags": [
+        "ai",
+        "llm",
+        "deepseek"
+      ],
+      "priority": false
+    },
+    {
+      "id": "66afab7ab8ca7bf2",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Hardware backdoors in some x86 CPUs",
+      "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+      "summary": "The article discusses the presence of hardware backdoors in some x86 CPUs, a topic of significant interest and discussion among the Hacker News community.",
+      "tags": [
+        "hardware",
+        "security",
+        "cpu"
+      ],
+      "priority": false
+    },
+    {
+      "id": "733894b6b6eaee14",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Managing AI Coding Costs at Scale",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "summary": "This Databricks blog post addresses the challenges and strategies for managing the costs associated with AI coding at scale.",
+      "tags": [
+        "ai",
+        "coding",
+        "costs"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9fa7df9521e75c94",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+      "summary": "OpenAI has published an article discussing its response to the evolving frontier of critical cyber capabilities, indicating its engagement in cybersecurity issues.",
+      "tags": [
+        "openai",
+        "cybersecurity",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a423b6340b6f6910",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The Nixpkgs core team has disbanded",
+      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+      "summary": "The core team responsible for Nixpkgs, a set of packages for the Nix package manager, has disbanded, sparking considerable discussion within the NixOS community.",
+      "tags": [
+        "nixos",
+        "open-source",
+        "community"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4b9b5a1339bce339",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+      "url": "https://genesisopenmodels.anl.gov/",
+      "summary": "The U.S. Department of Energy has launched the Genesis Open Models Initiative, an effort to promote open models, which has generated significant interest and comments.",
+      "tags": [
+        "government",
+        "energy",
+        "open models"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9044b770fb2acef1",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "summary": "This article explores the phenomenon of tech workers losing faith in their careers, discussing the reasons behind the widespread sadness in the tech industry.",
+      "tags": [
+        "tech industry",
+        "careers",
+        "well-being"
+      ],
+      "priority": false
+    },
+    {
+      "id": "05ff4795a17b15bc",
+      "source": "Noahpinion",
+      "source_type": "substack",
+      "title": "Banning data centers would blow up the U.S. economy",
+      "url": "https://www.noahpinion.blog/p/banning-data-centers-would-blow-up",
+      "summary": "Noah Smith argues that banning data centers, a bipartisan movement with growing public opposition, would severely harm the US economy in the short term, despite long-term arguments for limiting AI's energy consumption. States like New York and Texas have already imposed moratoriums, raising concerns about economic growth and job loss.",
+      "tags": [
+        "data centers",
+        "economy",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "eacf422b4af0c2da",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Data centers are a political issue crossing party lines, driving voters to candidates",
+      "url": "https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms",
+      "summary": "Data centers have become a significant bipartisan political issue, with candidates like Francesca Hong and Vivek Ramaswamy calling for moratoriums on their construction. Public opposition to data centers is growing, with surveys showing high percentages against building them in local communities.",
+      "tags": [
+        "data centers",
+        "politics",
+        "infrastructure"
+      ],
+      "priority": false
+    },
+    {
+      "id": "083513a0f4d6b345",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Federal funds can't be used to give test strips to drug users, raising overdose fears",
+      "url": "https://www.npr.org/2026/08/08/nx-s1-5874719/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears",
+      "summary": "Trump officials have stated that federal grants cannot be used by drug addiction groups to distribute test strips, raising concerns about potential overdose increases. These strips help users detect dangerous adulterants in street drugs.",
+      "tags": [
+        "drug policy",
+        "public health",
+        "trump administration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "acd39d34a54d92d2",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "K-pop's global wave inspires Chile's next pop stars",
+      "url": "https://www.npr.org/2026/08/08/nx-s1-5899791/k-pop-chile-bts",
+      "summary": "K-pop's global influence is inspiring young creatives in Chile to remix the movement and develop their own unique pop music scene.",
+      "tags": [
+        "k-pop",
+        "music",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d70dc747c93539e6",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Opinion: Europe's summer of heat",
+      "url": "https://www.npr.org/2026/08/08/nx-s1-5916351/opinion-europes-summer-of-heat",
+      "summary": "Europe is experiencing another severe heat wave, which has already caused crop damage, wildfires, and increased deaths earlier in the summer.",
+      "tags": [
+        "climate change",
+        "europe",
+        "heatwave"
+      ],
+      "priority": false
+    },
+    {
+      "id": "698a63a2df236784",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Senate votes to confirm Todd Blanche as attorney general",
+      "url": "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general",
+      "summary": "The Senate confirmed Todd Blanche as attorney general in a 50-49 vote, elevating President Trump's former personal lawyer to head the Justice Department.",
+      "tags": [
+        "politics",
+        "us government",
+        "trump administration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "377b96df29a4ed8a",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Switzerland is a neutral nation but has more nuclear bunkers than any country in the world",
+      "url": "https://www.npr.org/2026/08/08/g-s1-137635/switzerland-nuclear-bunkers",
+      "summary": "Switzerland maintains more nuclear bunkers than any other country, with over 370,000 shelters, some now repurposed to house migrants, reflecting a post-Cold War commitment to civil defense.",
+      "tags": [
+        "switzerland",
+        "cold war",
+        "nuclear defense"
+      ],
+      "priority": false
+    },
+    {
+      "id": "78bc1fa714adb49f",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "The Women's Professional Baseball League makes its historic debut",
+      "url": "https://www.npr.org/sections/the-picture-show/2026/08/08/nx-s1-5923371/womens-professional-baseball-league-debut",
+      "summary": "The Women's Professional Baseball League has made its historic debut in Springfield, Illinois, featuring teams like the Los Angeles Queens and New York Heights for its inaugural season.",
+      "tags": [
+        "sports",
+        "baseball",
+        "women's league"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8633833be2119648",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump renews push to fire Fed Governor Lisa Cook",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve",
+      "summary": "Trump is again threatening to fire Fed Governor Lisa Cook over unsubstantiated allegations of mortgage fraud, despite a previous attempt to remove her being struck down by the Supreme Court.",
+      "tags": [
+        "trump administration",
+        "federal reserve",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3a6122220cd11ff6",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Women in Maine may choose the victor in this year's Senate race",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5915655/women-in-maine-may-choose-the-victor-in-this-years-senate-race",
+      "summary": "Women in Maine are identified as a powerful voting bloc that may determine the victor in the high-profile Senate race between Susan Collins and Troy Jackson this year.",
+      "tags": [
+        "us politics",
+        "elections",
+        "maine"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c1bdb32602573508",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
+      "url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything",
+      "summary": "Using GPT-5.6 Sol Ultra, a \"Raccoon Heist\" game named \"Moonlight & Mayhem\" was generated, proving much better than a version by Claude Fable 5, despite an initial bug with enlarged raccoon eyeballs. The AI spent 52 minutes on the project, demonstrating aggressive use of sub-agents.",
+      "tags": [
+        "ai",
+        "game-design",
+        "generative-ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dbd104db3606c336",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting John Gruber",
+      "url": "https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything",
+      "summary": "John Gruber, in response to blogging tips, advises treating writing like a live music performance rather than a studio album to ensure consistent output. He emphasizes professionalism and concentration while aiming for steady content flow over making every post a \"hall-of-famer.\"",
+      "tags": [
+        "blogging",
+        "writing",
+        "john gruber"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e91c9dd24580fd52",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
+      "url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything",
+      "summary": "Companies are scrambling to reduce high AI spending, with an Accenture anecdote revealing non-engineers are driving significant token consumption, particularly from converting PDFs to markdown. This highlights PDFs as a poor medium for information communication in the context of AI costs.",
+      "tags": [
+        "ai",
+        "costs",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e020c09dc1d59536",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Theater is weird, and that’s the point.",
+      "url": "https://www.slowboring.com/p/theater-is-weird-and-thats-the-point",
+      "summary": "The author reflects on the inherent \"weirdness\" of theater, drawing from a student production of \"Twelfth Night,\" and suggests that this quality is central to its appeal and purpose.",
+      "tags": [
+        "theater",
+        "arts",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6ed5a49d8a364282",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "summary": "Rippling launched its AI Spend Console, a product designed to track individual and team employee AI spending, after the company itself experienced significant AI-related costs.",
+      "tags": [
+        "ai",
+        "business",
+        "costs"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bcc14a82f3d0e368",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "summary": "Cloudflare introduced Kitesurf, a cloud-hosted browser specifically built for AI agents, which aims to reduce computing power for automation tasks compared to Chromium. This enables developers to build browser-based AI agents more efficiently.",
+      "tags": [
+        "ai",
+        "browser",
+        "cloudflare"
+      ],
+      "priority": false
+    },
+    {
+      "id": "87e88b4087ff369a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Computer maker Framework notifies ‘all customers’ of a data breach",
+      "url": "https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/",
+      "summary": "Computer manufacturer Framework notified all its customers of a data breach where hackers accessed names, email addresses, phone numbers, and physical addresses.",
+      "tags": [
+        "data breach",
+        "security",
+        "framework"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9772c26dd24fe5e1",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Trump administration has spent nearly $4B to cancel offshore wind farms",
+      "url": "https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/",
+      "summary": "The Trump administration has spent nearly $4 billion to cancel 12 offshore wind leases, with the latest cancellation costing taxpayers $1.2 billion.",
+      "tags": [
+        "trump administration",
+        "energy policy",
+        "offshore wind"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8237a4c24a5d510a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists",
+      "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
+      "summary": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "6142cb0d7dec48be",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Josh Gottheimer: The Democratic Party Is Being Hijacked by Socialists",
+      "url": "https://www.thefp.com/p/josh-gottheimer-the-democratic-party",
+      "summary": "Representative Josh Gottheimer argues that the Democratic Party is being \"hijacked by socialists\" and normalizing hate, citing the Michigan Democratic Senate primary winner Abdul El-Sayed's focus on the U.S.-Israel relationship and association with figures like Hasan Piker.",
+      "tags": [
+        "us politics",
+        "democratic party",
+        "socialism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8d5eb5ec422ee899",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Book That Saved Me from Wasting My Life",
+      "url": "https://www.thefp.com/p/vagabonding-young-money-jack-raines-travel-young",
+      "summary": "Jack Raines credits Rolf Potts' \"Vagabonding\" as the one book that inspired him to quit his demanding financial analyst job at 24 and buy a one-way ticket to Barcelona, deeming it the best decision he ever made. The excerpt highlights his struggle with work-life balance before this transformative decision.",
+      "tags": [
+        "memoir",
+        "travel",
+        "book recommendation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "73d56e335a41c305",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Joyless Return of ‘Ted Lasso’",
+      "url": "https://www.thefp.com/p/the-joyless-return-of-ted-lasso",
+      "summary": "The new season of \"Ted Lasso\" is described as a \"joyless\" return, with the previous season's finale, where Ted Lasso returned home to his son, being remembered as a delightful, whimsical conclusion. The reviewer notes that the initial excitement for the new season quickly faded upon viewing.",
+      "tags": [
+        "tv show",
+        "review",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cdd6567f0ebfabf8",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Nobel Laureate Who’d Buy Your Kidney",
+      "url": "https://www.thefp.com/p/two-drinks-with-the-nobel-laureate",
+      "summary": "Nobel Prize-winning economist Al Roth explores \"moral economics\" in his new book, \"Moral Economics: From Prostitution to Organ Sales,\" provocatively questioning societal prohibitions and restrictions on controversial transactions like organ sales. He examines whether markets can be designed to preserve freedom while protecting those unwilling to participate.",
+      "tags": [
+        "economics",
+        "ethics",
+        "philosophy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "22a7502a8c1a3238",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "Thank You, Everything: An Illustrated Love Letter to the World",
+      "url": "https://www.themarginalian.org/2026/08/07/thank-you-everything-icinori/",
+      "summary": "\"Thank You, Everything\" by Icinori is an illustrated book that invites readers to cultivate gratitude for the world, inspired by the Japanese concept of \"tsuumogami.\" It encourages a deeper appreciation for the existence of every small and large thing through a meditative journey.",
+      "tags": [
+        "book review",
+        "gratitude",
+        "philosophy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "68393822614837a5",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Disney Plus tries a new AI-powered search",
+      "url": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
+      "summary": "Disney is beta testing an AI-powered search tool for Disney Plus that allows natural language queries, voice input, or suggested prompts to generate customized content recommendations. This feature aims to provide content that \"fits the moment\" beyond basic viewing history.",
+      "tags": [
+        "ai",
+        "streaming",
+        "disney"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5445a842303c48d7",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+      "summary": "LA rapper Fenix Flexin appears to have admitted using AI for his song \"Rubberz,\" after earlier denials and claims by producer Medasin regarding the use of the Treblo AI tool. This follows a similar admission from Tyga about his AI-influenced album.",
+      "tags": [
+        "ai",
+        "music",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "90cc1e4d983ac3b1",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Is this $450 laptop from an unknown brand too good to be true?",
+      "url": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
+      "summary": "The Chuwi UniBook, a $450 Windows laptop advertised with an aluminum build and a new Intel Wildcat Lake processor, is reviewed as \"too good to be true\" and ultimately a disappointment. It fails to match the performance and build quality of more expensive competitors like the MacBook Neo.",
+      "tags": [
+        "laptops",
+        "review",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4c3acb51e52d78cc",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
+      "url": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
+      "summary": "Microsoft Edge is ending support for Manifest V2 extensions, which will disable popular ad blockers like uBlock Origin, similar to Google Chrome's earlier move. While most affected extensions have MV3 alternatives, users can also switch to browsers like Opera that continue to support MV2.",
+      "tags": [
+        "browsers",
+        "extensions",
+        "ad blockers"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1da5dd566b4f9e19",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "My favorite feel-good show is back",
+      "url": "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
+      "summary": "This is an introductory segment for the \"Installer\" newsletter, guiding readers to the best and \"Verge-iest stuff in the world.\" It covers various topics including celebrity news, Google Zero, the history of the bicycle, and book recommendations.",
+      "tags": [
+        "newsletter",
+        "culture",
+        "recommendations"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6d03d509b791732a",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Nitecore’s latest power bank is the lightest and most compact yet",
+      "url": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
+      "summary": "The Nitecore NB10000 Gen 4 is lauded as the lightest and most compact 10,000mAh power bank, weighing just 146 grams and costing $83.95. It is presented as an ideal option for endurance athletes and backpackers who prioritize minimal gear weight.",
+      "tags": [
+        "gadgets",
+        "review",
+        "power bank"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 91,
+    "summarized": 66,
+    "skipped_promos": 1,
+    "filtered_by_rules": 24,
+    "sources": 11,
+    "email_items_omitted": 0
+  }
+}
