@@ -1,0 +1,559 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T14:26:31+00:00",
+  "hot_topics": [
+    {
+      "topic": "X's Creator Program Overhaul",
+      "synthesis": "X is revamping its content creator compensation strategy by ending its previous revenue-sharing program and launching a new 'Original Content Rewards' initiative. This new program, set to begin on September 8th, will require creators to meet specific criteria, including follower counts and impression thresholds, and will base earnings on 'qualified impressions' from Premium subscribers.",
+      "item_ids": [
+        "e37c42ec1841de94",
+        "8db36e20f509515a"
+      ]
+    },
+    {
+      "topic": "Strait of Hormuz Tensions",
+      "synthesis": "Diplomatic efforts regarding the Strait of Hormuz show some positive signs, according to Oman, yet a clear breakthrough remains elusive as Iran has presented new demands and warned a deal might not guarantee the strait's full opening. Meanwhile, tanker sailors continue to face significant dangers, with many vessels in limbo and transit through the crucial waterway still considered perilous.",
+      "item_ids": [
+        "15762afd0e09ea0c",
+        "c72bad58670fa9c8",
+        "e759e5cc852d0842"
+      ]
+    },
+    {
+      "topic": "Upcoming Solar Eclipse",
+      "synthesis": "Enthusiasts are preparing for an upcoming solar eclipse, expected next Wednesday, which will be visible in parts of the U.S. An open-source interactive map has been released to help people track and understand the August 12 total solar eclipse.",
+      "item_ids": [
+        "9c0e83c99e0ffa5e",
+        "dd959ffda54be1c5"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "8a34bafaaccce958",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "An unbearable rotting stench is plaguing an LA neighbourhood",
+      "url": "https://www.bbc.co.uk/news/articles/c2elpz33zp2o?at_medium=RSS&at_campaign=rss",
+      "summary": "A Los Angeles neighborhood is suffering from an unbearable rotting stench caused by large quantities of meat festering in the sun after a fire destroyed a food warehouse.",
+      "tags": [
+        "disaster",
+        "public health",
+        "environment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f8419d98a30a54e6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
+      "url": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Australia, identified as the planet's extinction hotspot for its rapidly declining unique species, finds a glimmer of hope for conservation in one particular animal.",
+      "tags": [
+        "australia",
+        "conservation",
+        "biodiversity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "21e9d89dc64e61ca",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Fifa criticises campaign to oust president Infantino",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
+      "summary": "Fifa has strongly criticized what it describes as a \"concerted and ongoing effort\" to undermine both the organization and its president, Gianni Infantino.",
+      "tags": [
+        "sports",
+        "football",
+        "fifa"
+      ],
+      "priority": false
+    },
+    {
+      "id": "15762afd0e09ea0c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+      "url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Oman reported positive discussions regarding the Strait of Hormuz, with both sides indicating progress on a potential new shipping route, though a breakthrough remains uncertain as Iran warned a deal would not automatically open the strait.",
+      "tags": [
+        "international relations",
+        "shipping",
+        "middle east"
+      ],
+      "priority": false
+    },
+    {
+      "id": "58f54238841cf8e5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How a schoolteacher's son became Kashmir's first India Test cricketer",
+      "url": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Auqib Nabi, a schoolteacher's son, has become the first cricketer from Jammu and Kashmir to receive an India Test call-up, inspiring millions.",
+      "tags": [
+        "sports",
+        "india",
+        "human interest"
+      ],
+      "priority": false
+    },
+    {
+      "id": "703a22b7660d0ba2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Hundreds arrested over French wildfires, but who is to blame?",
+      "url": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of individuals have been arrested in connection with the unprecedented wildfires that ravaged France last month, as the government seeks to attribute blame for the devastating events.",
+      "tags": [
+        "wildfire",
+        "france",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "371f77a466000a5c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
+      "url": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel is facing accusations of \"weaponising archaeology\" as it plans extensive land expropriations in historic Palestinian areas of the West Bank.",
+      "tags": [
+        "israel",
+        "west bank",
+        "archaeology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4e5a694a6b78c0fc",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+      "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel's Prime Minister stated that the military would not withdraw from Gaza until Hamas is \"genuinely\" disarmed, rejecting former US President Trump's proposed 15-point plan for the region.",
+      "tags": [
+        "israel",
+        "gaza",
+        "foreign policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "54e69469ddaef95f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Nigeria's mass wedding - and how telling lovers from fraudsters is proving tricky",
+      "url": "https://www.bbc.co.uk/news/articles/cqx7q17531do?at_medium=RSS&at_campaign=rss",
+      "summary": "Nigeria's mass wedding scheme, intended for couples unable to afford traditional marriage costs, is encountering difficulties in distinguishing genuine participants from fraudsters.",
+      "tags": [
+        "nigeria",
+        "society",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c26c217d72044bef",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
+      "url": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
+      "summary": "US blogger Perez Hilton is reported to be in a \"serious but stable\" condition in hospital, facing a long recovery following reports of self-harm during a livestream.",
+      "tags": [
+        "celebrity",
+        "mental health",
+        "news"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ec07e850c140c8f1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
+      "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Residents in British Columbia are advised to prepare for the worst as the Bald Range wildfire continues to rage \"out of control,\" having spread across more than 39 square miles (103 sq km).",
+      "tags": [
+        "wildfire",
+        "canada",
+        "environment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1921e82efa82cc92",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+      "url": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Typhoon Dolphin has battered Japan's Okinawa, cutting power to at least 44,000 buildings and injuring five people, and is now moving towards China.",
+      "tags": [
+        "typhoon",
+        "japan",
+        "natural disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "101d4574eaa48d9e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+      "summary": "On his first day in office, Colombia's new right-wing president, who vowed an \"all-out war\" on \"narco-terrorism,\" received a $1 billion offer from the United States.",
+      "tags": [
+        "colombia",
+        "foreign aid",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ece169c1b3aa47cd",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
+      "url": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
+      "summary": "An opposition MP from the Alliance party, Time Kadrijaj, threw at least four eggs at Kosovo's acting Prime Minister Albin Kurti, prompting intervention from lawmakers and police.",
+      "tags": [
+        "kosovo",
+        "politics",
+        "protest"
+      ],
+      "priority": false
+    },
+    {
+      "id": "57794f94b50781e2",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "_for-sale DNS records",
+      "url": "https://specification.website/spec/foundations/for-sale-dns/",
+      "summary": "The article explores the concept and specification of `_for-sale` DNS records.",
+      "tags": [
+        "dns",
+        "web development",
+        "networking"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4ab236966b92ddc4",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Dithered QR Codes",
+      "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
+      "summary": "This item discusses the concept and implementation of dithered QR codes.",
+      "tags": [
+        "technology",
+        "qrcode",
+        "design"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4a87f385c2e0c299",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Fastmail offers EU data region",
+      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+      "summary": "Fastmail has expanded its services to include a new data region located within the European Union, offering users more choice in data residency.",
+      "tags": [
+        "privacy",
+        "cloud services",
+        "eu"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9c0e83c99e0ffa5e",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Open-source interactive map for the Aug 12 total solar eclipse",
+      "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
+      "summary": "An open-source interactive map has been developed to provide detailed information for the upcoming August 12 total solar eclipse.",
+      "tags": [
+        "astronomy",
+        "open source",
+        "map"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f678011615585b03",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
+      "url": "https://os8088.com/",
+      "summary": "Os8088 is presented as a powerful, Mac-like operating system designed for vintage IBM XT, 286, and 386 computers.",
+      "tags": [
+        "operating system",
+        "retrocomputing",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "87887737259dcd80",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
+      "url": "https://shopify.engineering/scaling-inventory-reservations",
+      "summary": "Shopify successfully transitioned its inventory reservation system from Redis to MySQL, demonstrating that the new setup scaled effectively.",
+      "tags": [
+        "database",
+        "engineering",
+        "shopify"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3d2f04ad6fa2ff44",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Haunted by Hoover, Trump searches for an endgame in Iran",
+      "url": "https://www.npr.org/2026/08/09/nx-s1-5925960/trump-hoover-iran",
+      "summary": "President Trump grapples with the historical challenge of how a war, protracted beyond initial predictions, can redefine a presidency, specifically in the context of his policy towards Iran.",
+      "tags": [
+        "trump",
+        "iran",
+        "foreign policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dd959ffda54be1c5",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Solar eclipse to occur next week. Here is what to know",
+      "url": "https://www.npr.org/2026/08/08/nx-s1-5925939/solar-eclipse-august-2026",
+      "summary": "A solar eclipse is expected to occur next Wednesday, offering visibility in certain regions of the United States.",
+      "tags": [
+        "astronomy",
+        "science",
+        "usa"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e759e5cc852d0842",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Tanker sailors still face danger in the Strait of Hormuz",
+      "url": "https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz",
+      "summary": "An agreement concerning the Strait of Hormuz remains distant, with tanker ships stranded and transit through the waterway still posing significant dangers for sailors.",
+      "tags": [
+        "shipping",
+        "middle east",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "758b4d4874d7763e",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "This rising painter reimagines Renaissance art in a cocoa plantation in Cameroon",
+      "url": "https://www.npr.org/2026/08/09/g-s1-137636/paintings-religious-renaissance-old-masters-marc-padeu-african-cameroon-artist",
+      "summary": "A new gallery exhibition in London showcases the work of painter Marc Padeu, who reinterprets Renaissance art themes within the setting of a cocoa plantation in his native Cameroon.",
+      "tags": [
+        "art",
+        "culture",
+        "cameroon"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a5d3e70c1509ad33",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Ukraine mourns 'collector of souls' Oleksiy Yukov, killed recovering war dead",
+      "url": "https://www.npr.org/2026/08/08/nx-s1-5925887/ukraine-mourns-oleksiy-yukov",
+      "summary": "Ukraine is mourning Oleksiy Yukov, known as a \"collector of souls,\" who spent two decades recovering the bodies of soldiers but was tragically killed by a landmine during a recovery mission.",
+      "tags": [
+        "ukraine",
+        "war",
+        "humanitarian"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c72bad58670fa9c8",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
+      "url": "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news",
+      "summary": "Yemen's Houthis claimed responsibility for an attack on an Aramco oil facility in Saudi Arabia, while Iran presented new demands regarding the Strait of Hormuz negotiations. Meanwhile, the Pentagon is urging the U.S. defense industry to accelerate weapons production.",
+      "tags": [
+        "yemen",
+        "saudi arabia",
+        "iran"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ac69df59c591f6a6",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Google’s top hacker hunter explains why hacking groups get codenames",
+      "url": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
+      "summary": "Google has revised its approach to naming hacking groups, with a top expert explaining the strategic reasons why companies assign codenames to these entities for tracking purposes.",
+      "tags": [
+        "cybersecurity",
+        "google",
+        "hacking"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dc712e6d718a23a3",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "summary": "OpenAI has acquired presentation startup NextSlide, with its team members now contributing to the development of ChatGPT.",
+      "tags": [
+        "ai",
+        "acquisition",
+        "openai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f0d22468b9de5814",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have",
+      "url": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
+      "summary": "The Kindle Scribe Colorsoft is described as an aesthetically pleasing and lightweight device, though its high price and specialized features make it non-essential for the average consumer.",
+      "tags": [
+        "e-reader",
+        "product review",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5ddc76b3fe84e072",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "This former notorious red-light district is now one of the world’s top AI hubs",
+      "url": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
+      "summary": "King's Cross in London has transformed over the past two decades from a notorious red-light district into one of the world's leading AI innovation hubs.",
+      "tags": [
+        "ai",
+        "urban development",
+        "london"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8db36e20f509515a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
+      "url": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
+      "summary": "X is discontinuing its current Revenue Sharing program, signaling a shift in its content creator compensation strategy.",
+      "tags": [
+        "social media",
+        "creator economy",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "90f8bbed17ccce03",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "AI detectors are creating a new era of distrust",
+      "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+      "summary": "AI writing detectors are fostering a new era of distrust, mirroring past concerns with plagiarism tools by prompting suspicion among educators and editors. These tools compare written work against vast content databases to identify potential AI generation.",
+      "tags": [
+        "ai",
+        "ethics",
+        "education"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d53d83fb96ea8a09",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "An Amazon data center could have the worst polluting power plant in the country",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+      "summary": "Amazon is investing in a new gas-burning power plant in West Texas to power its data center, which could become one of the largest single producers of greenhouse gases in the US. This 35-turbine plant is initially planned to primarily supply electricity directly to the data center, not the state's main power grid.",
+      "tags": [
+        "environment",
+        "amazon",
+        "data center"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a0eadde272517cfd",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Buc-ee’s dodges John Oliver to sue another small business",
+      "url": "https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart",
+      "summary": "Buc-ee's, a large convenience store chain, has a history of suing small businesses over trademark issues and recently targeted a small Ohio establishment after sidestepping a public challenge from John Oliver to sue him. Oliver had provoked the company by selling merchandise featuring a squirrel mascot with \"Buc-Off\" branding.",
+      "tags": [
+        "business",
+        "legal",
+        "trademark"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e60a62c0fae4c824",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Dropbox is a PC builder’s best friend",
+      "url": "https://www.theverge.com/tech/976092/pc-building-dropbox-backup",
+      "summary": "A PC builder shares how Dropbox became an essential tool for backing up critical work for a large crowdfunded game design project, mitigating the risk of local data loss. The service provided necessary off-site redundancy beyond local backups.",
+      "tags": [
+        "cloud storage",
+        "backup",
+        "personal story"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a306a1a062fb0a51",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro",
+      "url": "https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview",
+      "summary": "Musician and entrepreneur Tom Vek is developing a digital music player named Sleevenote, drawing inspiration from vinyl records but designed for a modern user experience. Vek has continued releasing music for over 15 years, with Sleevenote representing his latest venture.",
+      "tags": [
+        "music",
+        "technology",
+        "entrepreneurship"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e37c42ec1841de94",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
+      "url": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
+      "summary": "X is discontinuing its previous revenue-sharing program and introducing 'Original Content Rewards' on September 8th, requiring creators to meet new eligibility criteria such as 500 verified followers and 500,000 Home Timeline impressions. This new program will base creator earnings on \"qualified impressions\" from Premium subscribers on original content.",
+      "tags": [
+        "social media",
+        "creator economy",
+        "policy"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 48,
+    "summarized": 37,
+    "skipped_promos": 2,
+    "filtered_by_rules": 9,
+    "sources": 5,
+    "email_items_omitted": 0
+  }
+}
