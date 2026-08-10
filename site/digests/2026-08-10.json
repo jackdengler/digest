@@ -1,0 +1,802 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T14:53:36+00:00",
+  "hot_topics": [
+    {
+      "topic": "Data Breach at Shipping Giant CEVA Logistics",
+      "synthesis": "A recent cyberattack on CEVA Logistics, a key European shipping partner, has led to a widespread data breach impacting various companies and their customers. Valve reported that personal information, including names and addresses of Steam hardware customers, was likely compromised. TechCrunch further highlighted that this incident's repercussions are extensive, affecting banks, retailers, and gamers alike.",
+      "item_ids": [
+        "ae0b96464efa60c4",
+        "592e33f28fc40992"
+      ]
+    },
+    {
+      "topic": "Advancements in AI Agent Automation and Tools",
+      "synthesis": "The development of AI agents is seeing strides in automation and specialized tools. Anthropic is making Claude Code's auto mode a default feature to reduce human oversight in programming tasks. Concurrently, Docker has introduced isolated Sandboxes, providing dedicated environments for the efficient development and testing of AI agents.",
+      "item_ids": [
+        "bb521f4c1a6fadef",
+        "1915c023bb9829a2"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "a21d020a63cf4e61",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "How we meet the future",
+      "url": "https://aeon.co/essays/when-is-stereotyping-a-handy-tool-and-when-is-it-a-sin",
+      "summary": "An essay examines the fine line between helpful generalizations, which are necessary to navigate the world's complexity, and harmful stereotyping. It questions when making broad assumptions is excusable.",
+      "tags": [
+        "philosophy",
+        "psychology",
+        "society"
+      ],
+      "priority": false
+    },
+    {
+      "id": "33a6192c3964b127",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Khosheutovsky khurul",
+      "url": "https://aeon.co/videos/the-strange-circuitous-history-of-europes-oldest-buddhist-temple",
+      "summary": "The video explores the Khosheutovsky khurul, identified as Europe's oldest Buddhist temple, an architectural anomaly built in memory of the Kalmyk regiment that fought Napoleon. It delves into the temple's unique history and cultural significance.",
+      "tags": [
+        "history",
+        "buddhism",
+        "architecture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0f56dc8bb1542f85",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "2026 Subaru Outback Limited review: Boxy outside, almost premium inside",
+      "url": "https://arstechnica.com/cars/2026/08/2026-subaru-outback-limited-review-boxy-outside-almost-premium-inside/",
+      "summary": "The 2026 Subaru Outback has transitioned from a wagon silhouette to a more SUV-like two-box shape, continuing its legacy as an adventure-minded crossover. This new design prioritizes function, marking a significant evolution in the model's history since its inception in 1995.",
+      "tags": [
+        "subaru",
+        "car review",
+        "automotive"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e38b476008bfe1a4",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'Body in suitcase' found in Australia turns out to be lifelike doll",
+      "url": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Australian authorities discovered a \"body in a suitcase\" that was later identified by forensics as a highly realistic, lifelike doll. The initial finding prompted an investigation before the true nature of the discovery was revealed.",
+      "tags": [
+        "australia",
+        "incident",
+        "forensics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "176e2e36ca3a0dc2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
+      "url": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hernando Forero Mosquera, an alleged rebel leader, was killed in a military operation in Colombia shortly after the new president took office. This operation signals the president's focus on targeting armed groups.",
+      "tags": [
+        "colombia",
+        "conflict",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "deb760ee22a0a6cd",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+      "summary": "Russian officials reported that a Ukrainian drone attack deep inside Russia killed at least 13 people and injured 75 others. This incident marks one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "40c6f4c85faa15ff",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Battle for Mali base has killed dozens of militants, army says",
+      "url": "https://www.bbc.co.uk/news/articles/cly8j7ygwvlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Malian army reported fierce fighting at a base, stating that dozens of militants were killed, while disputing claims that Islamists took control of the garrison. The conflict highlights ongoing instability in the region.",
+      "tags": [
+        "mali",
+        "conflict",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4da24aca8b454f21",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "China evacuates one million from homes as massive storm arrives",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
+      "summary": "China has evacuated one million people from their homes as Typhoon Dolphin made landfall, bringing strong winds and heavy rain to eastern China, including Shanghai. The storm poses a significant threat to the region.",
+      "tags": [
+        "china",
+        "typhoon",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2c5e8c22e7e5a87a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Drones spotted over German base days after Leipzig bomb incident",
+      "url": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Police are investigating drone sightings over a German military base, which reportedly houses parts for the Patriot missile system, occurring days after a bomb incident in Leipzig. The incidents raise security concerns.",
+      "tags": [
+        "germany",
+        "security",
+        "drones"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a6ce3220f960e443",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ecuador charges ex-minister over presidential candidate assassination case",
+      "url": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ecuador has charged a former minister and six other individuals, including the leader of the Los Lobos cartel, in connection with the assassination of presidential candidate Fernando Villavicencio. Prosecutors allege an indirect role in the murder for these individuals.",
+      "tags": [
+        "ecuador",
+        "politics",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e6cb21984da937e0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Evidence that South African special forces murdered top detective shared with BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Evidence supporting claims that South African special forces murdered detective Frans Mathipa has been shared with the BBC. The prosecution's case against eight accused men alleges Mathipa was shot while driving.",
+      "tags": [
+        "south africa",
+        "crime",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "771c4a6f2a857df7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Former Thai MP allegedly kills official and confesses on YouTube",
+      "url": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
+      "summary": "A former Thai Member of Parliament, Chalong Riewrang, allegedly killed a government official and then confessed to the act during a live YouTube broadcast. Police are investigating the incident.",
+      "tags": [
+        "thailand",
+        "crime",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8ba79a88e0b85e86",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How Kinahan's hearing unfolded inside the courtroom in Dublin",
+      "url": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Suspected crime boss Daniel Kinahan appeared in a Dublin courtroom after his extradition from Dubai and was formally charged with directing the activities of a criminal organization. The report details the proceedings of his initial hearing.",
+      "tags": [
+        "ireland",
+        "crime",
+        "extradition"
+      ],
+      "priority": false
+    },
+    {
+      "id": "240cbfe4a748a167",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Suspected crime boss Kinahan spends first night in custody in Ireland",
+      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Suspected crime boss Daniel Kinahan spent his first night in custody in Ireland following his extradition from Dubai, with a specially equipped van used for his transport to court. He faces charges related to directing a criminal organization.",
+      "tags": [
+        "ireland",
+        "crime",
+        "extradition"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7388ccb5fbe3efb9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: What we know about suspected crime boss Daniel Kinahan",
+      "url": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss",
+      "summary": "This item summarizes available information about suspected crime boss Daniel Kinahan, who is one of the world's most wanted men and recently spent his first night in Irish custody after extradition from Dubai. It provides context on the charges against him.",
+      "tags": [
+        "ireland",
+        "crime",
+        "extradition"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2017aa82ac930867",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "World's oceans hit record-high July temperatures",
+      "url": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Global oceans experienced their hottest July on record, a phenomenon partly attributed to developing El Niño conditions. This record temperature comes as wildfires continue to devastate parts of western Europe.",
+      "tags": [
+        "climate change",
+        "oceans",
+        "environment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b8dcf484ec041bbf",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Cool URIs Don't Change (1998)",
+      "url": "https://www.w3.org/Provider/Style/URI",
+      "summary": "This article, originally published in 1998, discusses the principle of \"Cool URIs Don't Change,\" advocating for stable and persistent Uniform Resource Identifiers. It highlights the importance of unchanging URLs for long-term web stability.",
+      "tags": [
+        "web development",
+        "uri",
+        "internet history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1915c023bb9829a2",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "url": "https://www.docker.com/products/docker-sandboxes/",
+      "summary": "Docker has introduced Sandboxes, offering disposable and isolated environments specifically designed for developing and running AI agents. This tool aims to provide secure and efficient testing grounds for AI applications.",
+      "tags": [
+        "docker",
+        "ai",
+        "development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "91dc4e80899a2557",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "How I use LLMs to learn complex topics",
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+      "summary": "An article details a personal methodology for leveraging Large Language Models (LLMs) to effectively learn and comprehend complex subjects. It outlines strategies for using AI as a learning aid.",
+      "tags": [
+        "llm",
+        "education",
+        "learning"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4dd295bd44a81d79",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Meta Muse Glimmer – open weights 30B local coding model",
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "summary": "Meta has introduced Muse Glimmer, an open-weights 30B coding model designed for local use. This development provides a powerful, accessible tool for code generation and analysis.",
+      "tags": [
+        "meta",
+        "ai",
+        "coding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b003f187c6f10537",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
+      "url": "https://bobdahacker.com/blog/tldv-hack",
+      "summary": "A note-taking application reportedly exposed over 181,000 AI meeting recordings, leaving them publicly accessible. This security oversight raises significant privacy concerns for users.",
+      "tags": [
+        "data breach",
+        "ai",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "31e233e8d9a0ae4e",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "url": "https://www.whodunnitai.com/",
+      "summary": "A new voice-driven murder mystery game allows players to interview AI suspects using their own voice, utilizing OpenAI's gpt-realtime-2.1 for speech-to-speech interaction. The game assesses player accusations and evidence presented via a gpt-5-mini judge.",
+      "tags": [
+        "ai",
+        "gaming",
+        "voice tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "766bdb24f62facbf",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Taxi drivers rarely die of Alzheimer's",
+      "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+      "summary": "An article explores the theory that taxi drivers exhibit a lower incidence of Alzheimer's disease due to their complex mental mapping and spatial reasoning skills. This suggests a protective effect of such cognitive activities on brain health.",
+      "tags": [
+        "health",
+        "neuroscience",
+        "cognition"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1a9ce8379b7e8d34",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "What Happened to HackerOne?",
+      "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+      "summary": "The article 'What Happened to HackerOne?' explores recent developments or challenges concerning the HackerOne bug bounty platform. It discusses changes or issues that have impacted the company.",
+      "tags": [
+        "cybersecurity",
+        "bug bounty",
+        "hackerone"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e87e1a5c12f7d214",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "An arts school where Epstein allegedly preyed on students reveals decades of abuse",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5924901/michigan-students-jeffrey-epstein-sexual-abuse-interlochen-center-arts",
+      "summary": "A new report from Interlochen Center for the Arts details approximately 70 allegations of sexual abuse against students by nearly 50 adults affiliated with the school. The report includes a former student's account of abuse at the institution, where Jeffrey Epstein allegedly also preyed on students.",
+      "tags": [
+        "abuse",
+        "education",
+        "sexual assault"
+      ],
+      "priority": false
+    },
+    {
+      "id": "98f65729c15e3d9b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Decades of abuse revealed at Michigan art school. And, the Iran war's impact on midterms",
+      "url": "https://www.npr.org/2026/08/10/g-s1-138013/up-first-newsletter-epstein-interlochen-center-for-the-arts-trump-iran-midterms-wildfires",
+      "summary": "A new report has exposed decades of alleged abuse at an elite Michigan art school, with NPR interviewing a victim. The article also touches on the potential impact of Iran's negotiations on upcoming midterms.",
+      "tags": [
+        "abuse",
+        "education",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bbe6cb5c13a3b464",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Does spending money make you feel bad? Read this comic",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5860936/does-spending-money-make-you-feel-bad-read-this-comic",
+      "summary": "This comic addresses financial guilt, explaining its three types and providing strategies for dealing with feelings of shame or regret related to spending or saving money. Financial planner Lauryn Williams offers insights into this common emotional challenge.",
+      "tags": [
+        "personal finance",
+        "psychology",
+        "wellbeing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "34396d77de620f93",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Flood death toll in India's Assam reaches 100 as thousands lose their homes",
+      "url": "https://www.npr.org/2026/08/10/g-s1-138015/flood-death-toll-in-indias-assam-reaches-100-as-thousands-lose-their-homes",
+      "summary": "Heavy monsoon rains in India's Assam state have caused rivers to overflow, leading to a flood death toll of 100 and displacing thousands of residents. The widespread inundation has disrupted livelihoods and damaged critical infrastructure.",
+      "tags": [
+        "india",
+        "floods",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ae5e904ebde3e35a",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "In a competitive Maine Senate race, women voters could be the deciders",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5925349/maine-senate-race-susan-collins-troy-jackson-women-voters",
+      "summary": "In Maine's competitive Senate race between Susan Collins and Troy Jackson, women voters are identified as a powerful and potentially decisive voting bloc. Both candidates are seeking their support to secure a victory.",
+      "tags": [
+        "politics",
+        "elections",
+        "maine"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d28b60b367caaf6d",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump",
+      "summary": "Mike Lindell is emphasizing his connections to Donald Trump in his campaign for governor of Minnesota, despite Trump's past losses in the state. Lindell received Trump's endorsement for the primary, but the state Republican convention backed an opponent.",
+      "tags": [
+        "politics",
+        "elections",
+        "minnesota"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f9fcb9a37f3d5179",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Some disabled people want to advance their careers. They say Medicaid rules stop them",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5910791/disabilities-people-work-requirements-medicaid-income-caps-buy-in",
+      "summary": "Some people with disabilities express concerns that Medicaid rules, including new work requirements, prevent them from advancing their careers due to the risk of losing coverage if their income exceeds certain caps. They advocate for changes that allow for greater earnings without sacrificing essential healthcare.",
+      "tags": [
+        "disability",
+        "medicaid",
+        "employment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bd2822798a1ed6c3",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Voters are sick of the 2-party system. A new poll shows they're open to big changes",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll",
+      "summary": "A recent poll indicates significant public dissatisfaction with the two-party system, revealing strong support for a move towards proportional representation in the US. This system would elect multiple representatives in a single district, based on a party's vote share.",
+      "tags": [
+        "politics",
+        "elections",
+        "reform"
+      ],
+      "priority": false
+    },
+    {
+      "id": "316528d8d57f0d11",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Who really needs testosterone?",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5920359/health-men-safety-testosterone-fda-hormone-therapy",
+      "summary": "This article explores the medical necessity of testosterone therapy, prompted by the military's plan to screen service members for low testosterone and social media claims. It examines who truly benefits from such treatment.",
+      "tags": [
+        "health",
+        "medicine",
+        "hormones"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1439763102e7ae1a",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Wisconsin’s Dem establishment is scrambling to stop a democratic socialist Tuesday",
+      "url": "https://www.politico.com/news/2026/08/09/wisconsin-governor-race-hong-crowley-electability-01030198",
+      "summary": "Wisconsin's Democratic establishment is working to prevent democratic socialist State Rep. Francesca Hong from becoming the gubernatorial nominee, despite her leading in polls due to a populist campaign. Concerns about her electability in a battleground state against the presumptive Republican nominee, Tom Tiffany, are central to the efforts to back her opponent.",
+      "tags": [
+        "wisconsin",
+        "politics",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fb7282cb4331d933",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "GitHub Models is now retired",
+      "url": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything",
+      "summary": "GitHub Models, a tool offering a model playground and unified API for LLM providers, has been retired, potentially due to the high cost of supporting coding agent patterns. The author adapted their workflow by switching to an OpenAI API key for generating folder summaries.",
+      "tags": [
+        "github",
+        "ai",
+        "llms"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e68c6fbbb7ca7ff4",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Claude Opus 5 system prompt",
+      "url": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything",
+      "summary": "The article quotes the Claude Opus 5 system prompt, which instructs the AI on how to accurately and factually respond to questions about its temporary suspension due to US Department of Commerce export controls. This prompt ensures Claude does not provide incorrect information about the situation.",
+      "tags": [
+        "ai",
+        "system prompt",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "080be2c0c8b4924c",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "SQLite compressed text-history prototypes",
+      "url": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything",
+      "summary": "Research explores storing revision histories of text in SQLite using zlib or zstd compressed JSON arrays of all prior versions. This method significantly reduced storage, compressing 20.4 MB of raw text to 80.3 KB in a prototype.",
+      "tags": [
+        "sqlite",
+        "compression",
+        "databases"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c4613f8c4f826e5a",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "A strange gifted education success story",
+      "url": "https://www.slowboring.com/p/a-strange-gifted-education-success",
+      "summary": "The article questions the effectiveness of selective education programs, noting that while smart kids in \"Smart Kids Rooms\" perform better, this often reflects initial sorting rather than instructional value. It then considers the dilemma of gating access to truly effective gifted programs.",
+      "tags": [
+        "education",
+        "policy",
+        "gifted"
+      ],
+      "priority": false
+    },
+    {
+      "id": "592e33f28fc40992",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "A data breach at shipping giant Ceva Logistics is rippling across banks, retailers, Steam gamers, and beyond",
+      "url": "https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/",
+      "summary": "A recent cyberattack on shipping giant Ceva Logistics has resulted in the theft of personal data from companies that use its services to ship physical goods to customers. This breach impacts various sectors, including banks, retailers, and Steam gamers.",
+      "tags": [
+        "data breach",
+        "cybersecurity",
+        "logistics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bb521f4c1a6fadef",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "summary": "Anthropic is set to enable Claude Code's auto mode by default, which will significantly reduce the need for human oversight in programming tasks. This change aims to make programming with Claude Code more autonomous.",
+      "tags": [
+        "anthropic",
+        "ai",
+        "coding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0d8718a8ff488659",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "summary": "Discovered Materials secured $9 million in funding to pursue the development of novel materials aimed at creating more efficient chips. The company utilizes AI in its efforts to find these advanced materials.",
+      "tags": [
+        "ai",
+        "materials science",
+        "semiconductors"
+      ],
+      "priority": false
+    },
+    {
+      "id": "18e33cbfbe97bf64",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "summary": "Situational Awareness, an AI-focused hedge fund currently facing challenges, has made a significant $400 million investment in Source Foundry, a chip startup. This move indicates the fund is still making substantial bets despite its embattled status.",
+      "tags": [
+        "investment",
+        "venture capital",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "36e87f3c3ea9e680",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Google Play adds Venmo as a payment option",
+      "url": "https://techcrunch.com/2026/08/10/google-play-adds-venmo-as-a-payment-option/",
+      "summary": "Google Play has integrated Venmo as a new payment option, reflecting a trend of increased consumer spending on apps and games. This addition provides users with more flexibility in how they make purchases on the platform.",
+      "tags": [
+        "google play",
+        "venmo",
+        "payments"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dcf5933c20d29764",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Signed up for Klaviyo? Dozens of advertisers may have seen your password",
+      "url": "https://techcrunch.com/2026/08/10/signed-up-for-klaviyo-dozens-of-advertisers-may-have-seen-your-password/",
+      "summary": "A bug on Klaviyo's website mistakenly exposed users' sign-up information, including personal data and passwords, to third-party companies. This security flaw means numerous advertisers may have had access to sensitive user credentials.",
+      "tags": [
+        "data privacy",
+        "security",
+        "saas"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e4b54f156dce8cbd",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
+      "url": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
+      "summary": "The TechCrunch Mobility segment focuses on the future of transportation, highlighting Zoox's preparations for launch and Uber's expanding autonomous vehicle (AV) empire. It emphasizes the increasing role of AI in this sector.",
+      "tags": [
+        "mobility",
+        "autonomous vehicles",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "50ae3b81f5bb452b",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Give Your Kid Real Work",
+      "url": "https://www.thefp.com/p/give-your-kid-real-work",
+      "summary": "The author advocates for giving children real responsibilities, not just busy work, using examples like preparing food or doing laundry with his 3.5-year-old son. This approach aims to teach responsibility and free up parental time, valuing effort over perfection.",
+      "tags": [
+        "parenting",
+        "education",
+        "child development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2667d3a0b002cb28",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Rep. Ro Khanna on Progressive Capitalism, Gaza, and 2028",
+      "url": "https://www.thefp.com/p/ro-khanna-progressive-israel-gaza",
+      "summary": "Rep. Ro Khanna discusses his political platform, which includes \"progressive capitalism,\" and his views on issues like Gaza, framing himself as a politician who understands the working class. He is also considering a potential presidential run in 2028.",
+      "tags": [
+        "politics",
+        "ro khanna",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "84c9a6a6dbedfffc",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "What Do Young People Really Want? The Suburbs.",
+      "url": "https://www.thefp.com/p/what-do-young-people-really-want",
+      "summary": "A recent Pew Research poll indicates that young people are largely seeking the suburban lifestyle their parents enjoyed, including homeownership and good jobs, which they find increasingly hard to achieve. Politicians are responding to affordability concerns, with new legislation aiming to address housing issues.",
+      "tags": [
+        "housing",
+        "youth",
+        "economics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e25ac68dac040b7c",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "How to Be a Good Explorer on the Lifelong Expedition to Yourself",
+      "url": "https://www.themarginalian.org/2026/08/09/pessoa-explorer/",
+      "summary": "This article, drawing on Fernando Pessoa's \"The Book of Disquiet,\" emphasizes that life is an ongoing exploration of oneself, distinct from experiments that prove existing theories. It advocates for total receptivity to experience to foster discovery and revelation.",
+      "tags": [
+        "philosophy",
+        "self-discovery",
+        "psychology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7e7e5344a60016b8",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Boeing is selling its air taxi startups to Archer Aviation",
+      "url": "https://www.theverge.com/transportation/977306/boeing-selling-evtol-archer-wisk-air-taxi",
+      "summary": "Boeing is selling three electric vertical takeoff and landing (eVTOL) subsidiaries, including Wisk Aero and SkyGrid, to Archer Aviation while also taking an undisclosed stake in the company. As part of the deal, Boeing will share technology with Archer and maintain access to Wisk's autonomous flight systems.",
+      "tags": [
+        "boeing",
+        "air taxi",
+        "acquisition"
+      ],
+      "priority": false
+    },
+    {
+      "id": "045ed634018d0b13",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+      "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+      "summary": "Ford is launching a new AI-powered assistant for its Ford and Lincoln mobile apps that can answer questions about a vehicle's capabilities and service needs. This chatbot can provide details like fuel levels and towing capacity, with a voice-powered version planned for future rollout.",
+      "tags": [
+        "ford",
+        "ai",
+        "automotive"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ae0b96464efa60c4",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Steam hardware shipper breach leaks customer data, including names and addresses",
+      "url": "https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach",
+      "summary": "Valve announced that a data breach at its European shipping partner, CEVA Logistics, may have exposed personal information of customers who ordered Steam hardware. The compromised data likely includes names, addresses, phone numbers, and email addresses.",
+      "tags": [
+        "data breach",
+        "cybersecurity",
+        "gaming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "01b3b32f8fe3c1e8",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The first rival Android app store just arrived in the US Play Store",
+      "url": "https://www.theverge.com/tech/977269/google-play-store-third-party-app-aptoide-games",
+      "summary": "Aptoide, a third-party app store specializing in mobile games, is now available for download directly within Google's Play Store for US Android users. This marks a new era for app distribution on Android, making rival storefronts much easier to access than through pre-installation or sideloading.",
+      "tags": [
+        "android",
+        "app store",
+        "mobile"
+      ],
+      "priority": false
+    },
+    {
+      "id": "77a983fca6206f93",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "This great retro-inspired keyboard now comes preassembled",
+      "url": "https://www.theverge.com/tech/976262/novelkeys-classic-tkl-underscore-edition-review",
+      "summary": "The Classic-TKL Underscore Edition, a retro-looking wired keyboard, is now available preassembled, a shift from its previous bare-bones kit format. This makes the keyboard accessible to a wider audience who prefer a ready-to-use product.",
+      "tags": [
+        "keyboard",
+        "tech",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "316853eed2b23ca0",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Zuckerberg&#8217;s yacht was closer, but someone else saved a stranded boat",
+      "url": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
+      "summary": "Mark Zuckerberg's super yacht, Launchpad, reportedly refused to respond to a distress call from a stranded skiff near Farragut Bay, despite being the closest vessel. Another Alaskan cruise ship, Wilderness Legacy, ultimately performed the rescue.",
+      "tags": [
+        "zuckerberg",
+        "incident",
+        "maritime"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 76,
+    "summarized": 55,
+    "skipped_promos": 2,
+    "filtered_by_rules": 19,
+    "sources": 12,
+    "email_items_omitted": 0
+  }
+}
