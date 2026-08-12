@@ -1,0 +1,1120 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T14:52:26+00:00",
+  "hot_topics": [
+    {
+      "topic": "Google's 2026 Pixel Hardware Lineup",
+      "synthesis": "Google unveiled its 2026 Pixel hardware, including the Pixel 11 series, Pixel Watch 5, and the new Pixel Tag. The Pixel 11 phones emphasize software improvements and feature a 'Creator Suite' for content creators, alongside minor hardware refinements like a new notification LED on Pro models. The Pixel Tag enters the device tracking market, leveraging both UWB and Bluetooth technology.",
+      "item_ids": [
+        "7c1fa0958a1aa608",
+        "8a8a4ddb1f3c31e3",
+        "0cd4b9ca399d423b",
+        "7779bed0a435a355",
+        "a64bd06e0852184a",
+        "6eaf529490a33350",
+        "9249e7d5a9edffad",
+        "eb1430c2cb40a3b4"
+      ]
+    },
+    {
+      "topic": "Google Gemini's Rapid User Growth",
+      "synthesis": "Google's AI assistant, Gemini, has rapidly reached 1 billion monthly active users, marking it as the fastest-growing Google product ever. This milestone is attributed to direct engagement with the Gemini app and web interface, with a significant portion of users utilizing its voice features and image generation capabilities.",
+      "item_ids": [
+        "0068ad3ef477b695",
+        "48b2d8cccf8274d9"
+      ]
+    },
+    {
+      "topic": "Trump's Secret Plane Switch Amid Iran Threat",
+      "synthesis": "Following a NATO summit, President Trump secretly switched planes due to an alleged threat from Iran, deceiving even the press pool. This elaborate ruse, where he was reportedly smuggled out in a catering truck, highlights the high personal stakes involved in the ongoing conflict with Iran and is an unusual level of deception compared to typical presidential decoys.",
+      "item_ids": [
+        "1b8dbc63e86373a5",
+        "1e59488aca9dff3b",
+        "62eed8532800ec19",
+        "f433c9a94105361c",
+        "e19fc356f3dbe645",
+        "763335d51aa0c71d"
+      ]
+    },
+    {
+      "topic": "Easing US Inflation in July",
+      "synthesis": "Annual US inflation eased to 3.4% in July, a smaller year-over-year increase than in previous months. This moderation was primarily driven by cooling costs for food and fuel, making a September interest rate hike by the Federal Reserve less likely.",
+      "item_ids": [
+        "46e7a057896a22d2",
+        "460d66b504db70e9"
+      ]
+    },
+    {
+      "topic": "Death of Former Chinese Premier Zhu Rongji",
+      "synthesis": "Zhu Rongji, China's former premier, has died at the age of 97. He was a pivotal figure in the 1990s, renowned for leading significant economic reforms that transitioned China towards a more global, market-oriented financial system and for bringing the country into the WTO.",
+      "item_ids": [
+        "cb1a4cd2cc94676c",
+        "618dc925cab0f2a5"
+      ]
+    },
+    {
+      "topic": "Android Quick Share Gains Tap-to-Share Feature",
+      "synthesis": "Android's Quick Share feature is being updated to include a new tap-to-share mode, allowing users to exchange files and contact information by tapping compatible devices together. This functionality, which uses NFC and proximity, is rolling out to newer Pixel phones immediately and will extend to select Samsung devices soon.",
+      "item_ids": [
+        "1b979791f9ca9a57",
+        "108252dec5448120"
+      ]
+    },
+    {
+      "topic": "Trump's Move Towards an Unchecked FCC Republican Majority",
+      "synthesis": "President Trump's recent FCC nomination is set to give Republicans a 3-1 majority, breaking a historical norm of maintaining only a one-vote majority. This move raises concerns about an unchecked Republican FCC, departing from the traditional 3-2 party split.",
+      "item_ids": [
+        "6e1b869d15f2862a",
+        "ae998bf0368d6efe"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "88cd9d7427431aeb",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Bouncy brothers",
+      "url": "https://aeon.co/videos/a-tale-of-brotherhood-bouncy-castles-and-the-american-dream",
+      "summary": "A video portrays two brothers in their struggle to keep a bouncy house business afloat, offering a nuanced look into family dynamics and the pursuit of the American dream.",
+      "tags": [
+        "documentary",
+        "small business",
+        "family"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6bc81116090547c5",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "A Google insider spills the tea on how the company forsook its founding ideals",
+      "url": "https://arstechnica.com/gadgets/2026/08/a-google-insider-spills-the-tea-on-how-the-company-forsook-its-founding-ideals/",
+      "summary": "A former Google communications specialist, Claire Stapleton, details her disillusionment and alleged retaliation by the company in her new memoir, \"Don't Be Evil.\" Stapleton was a key organizer of a 2018 employee walkout protesting Google's handling of sexual misconduct allegations.",
+      "tags": [
+        "google",
+        "workplace",
+        "memoir"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c1c4e4f90594f20e",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Chrome adopts what may be the best protection yet against account takeovers",
+      "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
+      "summary": "Google Chrome has implemented device-bound session credentials (DBSCs) to significantly enhance protection against account takeovers by preventing session cookie theft. This feature stores unique encryption keys in secure hardware fortresses built into devices.",
+      "tags": [
+        "security",
+        "chrome",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f06907f40d604462",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Did poop enable the evolution of complex animals?",
+      "url": "https://arstechnica.com/science/2026/08/feces-fueled-a-flurry-of-evolution-during-the-cambrian-study-suggests/",
+      "summary": "A new study suggests that the Cambrian explosion and subsequent evolution of complex animals were potentially fueled by the emergence of animal feces spreading nutrients in ancient oceans. This bizarre new ability to poop may have been a key factor in the diversification of early life forms.",
+      "tags": [
+        "science",
+        "evolution",
+        "paleontology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0068ad3ef477b695",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+      "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+      "summary": "Google has been all-in with Gemini for the last several years, and despite some animosity online, the bet is paying off. CEO Sundar Pichai\nannounced\ntoday that Gemini has reached 1 billion monthly active users (MAUs), an important milestone for any Google product. While 13 other…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "7c1fa0958a1aa608",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
+      "url": "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
+      "summary": "Google has revealed its Pixel phone hardware for 2026, and you won't be surprised. The Pixel 11 series looks a lot like\nlast year's lineup\n, featuring an evolution of the design Google adopted with the Pixel 9. There are some minor tweaks, a few new hardware goodies, and yes, eve…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "7d6eadebd6a177d5",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Less than 2.5% of Taylor Farms' recalled lettuce went to Taco Bells",
+      "url": "https://arstechnica.com/health/2026/08/less-than-2-5-of-taylor-farms-recalled-lettuce-went-to-taco-bells/",
+      "summary": "An FDA report reveals that less than 2.5% of Taylor Farms' recalled cyclospora-contaminated lettuce, linked to an outbreak, was sold to Taco Bell's parent company, Yum. The vast majority of the tainted produce was distributed elsewhere, affecting over 23,000 people.",
+      "tags": [
+        "food safety",
+        "recall",
+        "health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "77306d4b7d670ef4",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
+      "url": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/",
+      "summary": "An appeals court has rejected Meta's attempt to dismiss social media addiction lawsuits based on Section 230 immunity, clearing the way for a $1.4 trillion case against the company to proceed to trial. The ruling impacts thousands of similar lawsuits against Meta and TikTok.",
+      "tags": [
+        "meta",
+        "lawsuit",
+        "tech policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0a6713c7eba73e2a",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Russian drones found near vital European offshore gas site, get blown up",
+      "url": "https://arstechnica.com/gadgets/2026/08/romania-destroys-russian-drones-drifting-near-vital-european-offshore-gas-site/",
+      "summary": "Romanian army divers used explosives to destroy two Russian-made drones found floating near Romania's Neptun Deep offshore gas project in the Black Sea. The incident highlights potential threats to vital European energy infrastructure.",
+      "tags": [
+        "romania",
+        "drones",
+        "security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6e1b869d15f2862a",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Trump to give Republicans a 3-1 FCC majority, isn't filling empty Democratic seat",
+      "url": "https://arstechnica.com/tech-policy/2026/08/trump-to-give-republicans-a-3-1-fcc-majority-isnt-filling-empty-democratic-seat/",
+      "summary": "The Federal Communications Commission has been shorthanded throughout President Trump's second term, but it's about to get a new commissioner. Unsurprisingly, Trump is breaking a historical norm with a nomination that would give Republicans a 3-1 advantage on the FCC.\nHistoricall…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "e8155d08fbe30068",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Used EV buying guide: The $30,000 edition",
+      "url": "https://arstechnica.com/cars/2026/08/used-ev-buying-guide-the-30000-edition/",
+      "summary": "The used EV market is experiencing rising prices despite increased supply, with strong sales driven by demand for more affordable models. Used EVs are selling much faster than new ones, indicating a shift in consumer interest.",
+      "tags": [
+        "evs",
+        "market",
+        "automotive"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ef9e9a814b90fd6b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "At least 44 die as ferry sinks in Zimbabwe's Lake Kariba",
+      "url": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 44 people have died after a ferry overturned in Zimbabwe's Lake Kariba, reportedly after being hit by strong waves. Rescue efforts are underway following the tragic maritime disaster.",
+      "tags": [
+        "zimbabwe",
+        "disaster",
+        "accident"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a923f6547f67f4c8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Baby Shark boy set to make K-pop debut",
+      "url": "https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&at_campaign=rss",
+      "summary": "The boy who starred in the massively popular \"Baby Shark\" YouTube video, now 17, is preparing to make his K-pop debut. He aims to launch a career as a K-pop star.",
+      "tags": [
+        "k-pop",
+        "celebrity",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b269aabff55445a5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Bondi Beach shooting hero's assault charges dropped by police",
+      "url": "https://www.bbc.co.uk/news/articles/crk51ky7xzlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Police have dropped assault charges against Ahmed al Ahmed, hailed as a hero during the Bondi Beach shooting, following an alleged incident with his father at a Sydney home. The decision clears his name after public scrutiny.",
+      "tags": [
+        "crime",
+        "australia",
+        "news"
+      ],
+      "priority": false
+    },
+    {
+      "id": "99a6a1cc9ea28428",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Brother of man trapped under rubble in Colombian quake clings on to hope",
+      "url": "https://www.bbc.co.uk/news/articles/czxerlglgw5o?at_medium=RSS&at_campaign=rss",
+      "summary": "In Cali, Colombia, a brother of a man trapped under rubble after the recent earthquake clings to hope as rescue workers continue their desperate search for survivors. Efforts are focused on collapsed buildings, offering glimpses of both devastation and resilience.",
+      "tags": [
+        "colombia",
+        "earthquake",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6a700f8fa264692e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
+      "url": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Football superstar Cristiano Ronaldo has married his long-time partner Georgina Rodríguez, after he recently played in his final World Cup. The couple officially tied the knot.",
+      "tags": [
+        "celebrity",
+        "sports",
+        "lifestyle"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4db353b6db09f0a2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Exceptionally low water levels in the Danube river have uncovered the remains of World War II soldiers, along with a remarkably well-preserved motorcycle and identification tags. The discovery provides a poignant glimpse into wartime history.",
+      "tags": [
+        "history",
+        "archaeology",
+        "wwii"
+      ],
+      "priority": false
+    },
+    {
+      "id": "62eed8532800ec19",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Decoys to hide presidents are common - but elaborate Trump ruse was different level",
+      "url": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Deceptions of varying complexity are often used to thwart potential threats, former Secret Service agents say.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "1cdb8bd3ec54eb6d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "France bans unsolicited telemarketing calls",
+      "url": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
+      "summary": "France has enacted a ban on unsolicited telemarketing calls, a move lauded by consumer groups as a \"small revolution\" against cold calling. This new law aims to protect citizens from unwanted commercial outreach.",
+      "tags": [
+        "france",
+        "consumer rights",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c331b02f8c967148",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How a 97-year-old escaped deadly Indian floods on a banana log raft",
+      "url": "https://www.bbc.co.uk/news/articles/clye8332d63o?at_medium=RSS&at_campaign=rss",
+      "summary": "A 97-year-old individual was dramatically rescued on a banana log raft during severe floods in Assam, India, highlighting the extreme and widespread impact of the disaster. The floods are reaching areas previously considered safe.",
+      "tags": [
+        "india",
+        "floods",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ec5371b1febfe718",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "In shattered Cali, residents search for loved ones and signs of hope",
+      "url": "https://www.bbc.co.uk/news/videos/ckge0e0g95no?at_medium=RSS&at_campaign=rss",
+      "summary": "Residents in Cali, Colombia, are searching for loved ones and signs of hope amidst the shattered city after a magnitude-7.4 earthquake caused most deaths there. Rescue crews are actively searching collapsed buildings for trapped survivors.",
+      "tags": [
+        "colombia",
+        "earthquake",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "18b9e87084fe0d9b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Lebanon parliament votes to abolish death penalty",
+      "url": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lebanon's parliament has voted to abolish the death penalty, a historic move that, if approved by the cabinet, would make it the first country in the Middle East to end capital punishment. The decision represents a significant step in human rights.",
+      "tags": [
+        "lebanon",
+        "human rights",
+        "law"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cf79c25e8f6b27fb",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "New Zealand PM survives second leadership challenge ahead of election",
+      "url": "https://www.bbc.co.uk/news/articles/cx2ve2jk5qeo?at_medium=RSS&at_campaign=rss",
+      "summary": "New Zealand Prime Minister Christopher Luxon has successfully survived a second leadership challenge, confirming he has his party's full support just 12 weeks before a general election. This outcome solidifies his position ahead of the crucial vote.",
+      "tags": [
+        "new zealand",
+        "politics",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9ffda5d2053ef1ca",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
+      "url": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Singapore and South Korea have recalled Trader Joe's \"Everything But the Bagel\" seasoning because it contains poppy seeds, which are banned in both countries. The recall highlights differing regulations on common food ingredients across borders.",
+      "tags": [
+        "food safety",
+        "international law",
+        "consumer"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8ed0fb5aae3c7f59",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Tata Group Chairman N Chandrasekaran to step down in February",
+      "url": "https://www.bbc.co.uk/news/articles/c1512909pgpo?at_medium=RSS&at_campaign=rss",
+      "summary": "N Chandrasekaran, Chairman of Tata Group, is set to step down in February, stating he will not seek reappointment due to a lack of support from the Tata Sons board. This marks a significant leadership change for the major Indian conglomerate.",
+      "tags": [
+        "business",
+        "india",
+        "leadership"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6b746bbf68ad1734",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "These seaside apartments were a ghost city - then police say scammers moved in",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kvlye1k5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Malaysia's \"Forest City,\" once promoted as a luxury \"paradise,\" has become a \"ghost city,\" leading police to raid it last month over alleged scam operations. The development was largely unoccupied before the raids.",
+      "tags": [
+        "malaysia",
+        "crime",
+        "real estate"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1b8dbc63e86373a5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump confirms he switched planes after Nato summit because of possible threat",
+      "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Journalists and White House staff who were on board the jet were unaware the president had left.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "1e59488aca9dff3b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
+      "summary": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "46e7a057896a22d2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US inflation eases as food and fuel costs cool",
+      "url": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "4177abe0568f5a41",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
+      "url": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Central Command states its helicopter fired missiles to disable the engine room of a Panama-flagged cargo vessel in the Gulf of Oman, alleging the ship was breaking an Iran blockade. This action highlights ongoing tensions in the region.",
+      "tags": [
+        "middle east",
+        "military",
+        "iran"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f91d81cffed82723",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Tide of rubbish blankets Philippines river",
+      "url": "https://www.bbc.co.uk/news/videos/c5y3vzvnnkro?at_medium=RSS&at_campaign=rss",
+      "summary": "Workers in Manila are battling a \"tide of rubbish\" that has blanketed a Philippines river, collecting massive amounts of waste washed in by days of heavy rain. The scene highlights severe environmental challenges.",
+      "tags": [
+        "philippines",
+        "environment",
+        "pollution"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f433c9a94105361c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: What is it like to travel on Air Force One with Trump?",
+      "url": "https://www.bbc.co.uk/news/videos/cy4k1jldxnwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump secretly swapped planes as he left a Nato summit in Turkey last month, deceiving even the press pool who flew on board without him.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "e19fc356f3dbe645",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Why was Trump smuggled out of Air Force One in a catering truck?",
+      "url": "https://www.bbc.co.uk/news/videos/cj3672ljgzro?at_medium=RSS&at_campaign=rss",
+      "summary": "US media reports say the president secretly left via a catering truck to avoid a threat to his life from Iran.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "b18702a1b2aa418a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Wisconsin result dents winning streak for Democratic Party's left wing",
+      "url": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss",
+      "summary": "Centrist Democrat David Crowley has won in Wisconsin, defeating democratic socialist Francesca Hong, which dents a recent winning streak for the Democratic Party's left wing nationwide. This outcome signals a potential shift in voter preferences for local elections.",
+      "tags": [
+        "politics",
+        "elections",
+        "wisconsin"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2274b1ef12ce9d69",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
+      "url": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
+      "summary": "A woman was pulled alive from rubble 36 hours after a Colombia earthquake following a 10-hour rescue operation. Emergency workers successfully freed the 32-year-old from beneath concrete slabs.",
+      "tags": [
+        "colombia",
+        "earthquake",
+        "rescue"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cb1a4cd2cc94676c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
+      "url": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The former premier brought China into the WTO and championed reforms that fuelled growth.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "889d7e0972260e33",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "2026 Eclipse Webcams",
+      "url": "https://jonty.github.io/2026_eclipse_webcams/",
+      "summary": "A webpage has been created to track webcams for the 2026 solar eclipse, offering a resource for those interested in observing the celestial event remotely. The site compiles various camera feeds related to the eclipse.",
+      "tags": [
+        "astronomy",
+        "webcams",
+        "events"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e746b021d096153e",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Facebook is paying controversial creators to produce rage-bait content",
+      "url": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
+      "summary": "An article reports that Facebook is reportedly compensating controversial creators to generate \"rage-bait\" content. This practice raises concerns about the platform's content moderation and its impact on online discourse.",
+      "tags": [
+        "facebook",
+        "content moderation",
+        "social media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2041a0b51fcec83c",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+      "url": "https://woxi.ad-si.com",
+      "summary": "Woxi is an open-source, fast-starting interpreter for the Wolfram Language, written in Rust, which offers a Mathematica-like GUI and various integration options. It is designed to be embeddable and practical for short-lived processes, with conformance ensured by extensive testing.",
+      "tags": [
+        "open source",
+        "programming",
+        "mathematica"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5be4cce1efae60f9",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "What sort of maths are LLMs good at?",
+      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+      "summary": "An article explores the specific types of mathematical problems that Large Language Models (LLMs) are adept at solving. This discussion delves into the strengths and limitations of current AI in mathematical reasoning.",
+      "tags": [
+        "ai",
+        "mathematics",
+        "llms"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bced4330e61fa63f",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "How the “censorship-industrial complex” is changing the internet and US policy",
+      "url": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
+      "summary": "The concept of a \"censorship-industrial complex,\" alleging a conspiracy between government, academia, civil society, and Big Tech to suppress conservative speech, has moved from fringe to mainstream. This narrative is now influencing US domestic and foreign policy and reshaping online interaction for billions globally.",
+      "tags": [
+        "censorship",
+        "tech policy",
+        "disinformation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "37dec5aa42461259",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Andrew Tate's extradition fight tests his influence with Trump's America",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5902974/andrew-tate-tristan-extradition-maga-trump-political-ties",
+      "summary": "Andrew Tate is currently in federal prison following a U.K. extradition request, as his extradition fight tests his perceived influence with Trump's America. His arrest follows previous claims of impending freedom under the Trump administration.",
+      "tags": [
+        "politics",
+        "legal",
+        "celebrity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6301821fe48968c0",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Are hacks of U.S. water facilities a new front in the Iran war?",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5927437/cyberattack-water-iran-war",
+      "summary": "A recent series of cyberattacks targeting U.S. water systems has exposed significant vulnerabilities within critical infrastructure during the ongoing Iran war. These incidents raise concerns about national security and vital services.",
+      "tags": [
+        "cybersecurity",
+        "iran",
+        "infrastructure"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3ebc68911185b1f6",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Feel so busy you don't even realize you're busy? Try doing a time audit",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5896356/find-time-for-things-that-matter-time-audit",
+      "summary": "Psychotherapist Niro Feliciano suggests conducting a \"time audit\" to identify time-wasting activities and create space for more meaningful pursuits. This exercise can help individuals gain clarity on how they spend their time.",
+      "tags": [
+        "self-improvement",
+        "productivity",
+        "wellness"
+      ],
+      "priority": false
+    },
+    {
+      "id": "79d98a3975d1cb8e",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Greetings from a surreal expanse of sand dunes dotted with freshwater lagoons in Brazil",
+      "url": "https://www.npr.org/2026/08/12/g-s1-138022/brazil-sand-dunes-lagoons-lencois-maranhenses-national-park",
+      "summary": "Brazil's Lençóis Maranhenses National Park features pristine white sand dunes dotted with thousands of freshwater lagoons that fill up after the rainy season. This surreal landscape is bordered by thick jungle and the Atlantic Ocean.",
+      "tags": [
+        "brazil",
+        "travel",
+        "nature"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5f3e659ddff7c180",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Here's how gyms, salons and ice cream are changing America's Main Streets",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street",
+      "summary": "Shifting consumer habits are leading to a major transformation of America's Main Streets, with businesses like gyms, salons, and ice cream parlors increasingly occupying storefronts. This change reflects a move towards service-oriented retail.",
+      "tags": [
+        "economy",
+        "retail",
+        "urban development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "460d66b504db70e9",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Inflation eases in July as gasoline and grocery prices fall",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5929122/inflation-cpi-economy-gas-grocery",
+      "summary": "Consumer prices in July were up 3.4% from a year ago — a smaller annual increase than in May or June. The news makes it less likely the Fed will feel the need to raise interest rates in September.\n(Image credit: Justin Sullivan)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "763335d51aa0c71d",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Takeaways from Tuesday primaries. And, Iran threat prompted Trump's secret plane swap",
+      "url": "https://www.npr.org/2026/08/12/g-s1-138337/up-first-newsletter-primaries-wisconsin-minnesota-south-carolina-trump-air-force-one-iraq-iran-militias",
+      "summary": "Yesterday's primaries provided more insight into what voters in both parties want from their new leaders. And, Trump secretly switched planes in Turkey last month amid a foreign threat\n(Image credit: Scott Olson)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "618dc925cab0f2a5",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Zhu Rongji, who drove China's 1990s economic reforms, has died at 97",
+      "url": "https://www.npr.org/2026/08/12/1196705508/zhu-rongji-china-former-premier-dead",
+      "summary": "Zhu was renowned for reforms that sought to transition China from the post-Maoist years to a more global market-oriented financial system, without ceding party control over the economy.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "e95a1f8e7448c96a",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "Graduate Student Proves a Quantum Uncertainty Principle for Fractals",
+      "url": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
+      "summary": "A graduate student has proven a new quantum uncertainty principle for fractals, which describes how these complex shapes maintain their complexity at any scale. This rare upgrade to the uncertainty principle advances understanding of quantum particles.",
+      "tags": [
+        "physics",
+        "quantum",
+        "mathematics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9e657209e9fa6f7a",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "datasette-upload-dbs 0.5a0",
+      "url": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/#atom-everything",
+      "summary": "Datasette-upload-dbs 0.5a0 has been released, enabling users to upload and atomically replace SQLite databases on hosted Datasette instances via a new formalized API. This update streamlines the process of deploying and updating databases in production environments.",
+      "tags": [
+        "databases",
+        "datasette",
+        "tools"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6d5868056519bf7c",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything",
+      "summary": "A research paper exposed a vulnerability allowing the extraction of hidden reasoning traces from proprietary LLM APIs like Anthropic and OpenAI. The method involved replaying encrypted chain-of-thought blocks into weaker models to \"jailbreak\" them, a flaw that has since been patched.",
+      "tags": [
+        "ai security",
+        "llms",
+        "vulnerability"
+      ],
+      "priority": false
+    },
+    {
+      "id": "86eeeb48fc70b76f",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "There are no lossless transformations of natural-language text",
+      "url": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything",
+      "summary": "An article argues that natural-language text transformations are never lossless, meaning every rewrite inherently alters the original meaning. It advises engineers to take full responsibility for AI-assisted writing, ensuring all content accurately reflects their own thoughts.",
+      "tags": [
+        "ai",
+        "writing",
+        "communication"
+      ],
+      "priority": false
+    },
+    {
+      "id": "577e8f73aa36b691",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+      "summary": "Accel has swiftly closed an oversubscribed $550 million India fund within weeks, just 19 months after its previous one, demonstrating strong investor confidence in the Indian market. The U.S. VC firm still retains over 55% of its prior $650 million fund for deployment.",
+      "tags": [
+        "venture capital",
+        "india",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b52a16e2068bb29d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+      "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+      "summary": "AI code-testing startup Blacksmith has seen its valuation increase by almost tenfold to $550 million in less than a year, driven by a substantial growth in revenue. This surge reflects the increasing demand for AI-powered software validation.",
+      "tags": [
+        "ai",
+        "startups",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "763f38cba319371c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "summary": "An unreleased Anthropic AI model has reportedly made progress on the Riemann hypothesis, one of mathematics' most challenging unsolved problems, demonstrating advanced capabilities in mathematical reasoning. While not a full solution, this represents a notable step forward.",
+      "tags": [
+        "ai",
+        "mathematics",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9e48b44d36400c80",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Bluesky’s active user base is shrinking as its focus expands beyond the app",
+      "url": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
+      "summary": "Bluesky's mobile app has seen a decline in active users, though its remaining community continues to be engaged, as the platform's focus is reportedly expanding beyond just the app itself.",
+      "tags": [
+        "social media",
+        "bluesky",
+        "tech trends"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bd1aeb6ef4f99e5b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "summary": "Brad Lightcap, OpenAI's long-serving COO, is leaving the company to pursue new ventures, although he expressed a desire to continue supporting OpenAI's mission from a different capacity. His departure marks a significant executive change for the AI firm.",
+      "tags": [
+        "openai",
+        "leadership",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a64bd06e0852184a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+      "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+      "summary": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "ded1d9d248fb8cf8",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures",
+      "url": "https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/",
+      "summary": "The FBI has issued an alert warning that cybercriminals are hacking into victims' online accounts to steal intimate pictures, which are then used in extortion campaigns targeting both adults and minors. The agency urges vigilance against these privacy invasions.",
+      "tags": [
+        "cybersecurity",
+        "extortion",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a463be2a9e2f5823",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "summary": "River AI, a new startup co-founded by an xAI co-founder, has secured a massive $1.1 billion funding round just two months after its inception. The company aims to develop personal agents, attracting major investment from General Catalyst.",
+      "tags": [
+        "ai",
+        "startups",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9249e7d5a9edffad",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Google takes on AirTag with the new $29 Pixel Tag",
+      "url": "https://techcrunch.com/2026/08/12/google-takes-on-airtag-with-the-new-29-pixel-tag/",
+      "summary": "Google’s new Pixel Tag taps into its Find Hub network to help users track lost keys, bags, and other items.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "48b2d8cccf8274d9",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Google’s Gemini app surges to 1 billion users",
+      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "eb1430c2cb40a3b4",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Google’s new Pixel 11 Pro Fold offers a stronger build and brighter screens",
+      "url": "https://techcrunch.com/2026/08/12/google-launches-the-pixel-11-pro-fold-with-a-stronger-build-and-brighter-screens/",
+      "summary": "The Pixel 11 Pro Fold will cost $1,899",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "6eaf529490a33350",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Google’s Pixel 11 lineup offer fewer hardware changes, but much more Gemini",
+      "url": "https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/",
+      "summary": "Google Pixel 11 Series starts $100 costlier than the last year, but offers 256GB base storage",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "108252dec5448120",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Google’s Quick Share adds a tap-to-share mode",
+      "url": "https://techcrunch.com/2026/08/12/googles-quick-share-adds-a-tap-to-share-mode/",
+      "summary": "Google's Quick Share feature is getting a tap-to-share mode for quickly exchanging contacts, photos, videos, and more.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "5b7365dc26fb280c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
+      "url": "https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/",
+      "summary": "India's Yulu has raised $93 million, with its e-bike demand fueled by the booming quick-commerce sector. The company plans to expand its fleet to 200,000 bikes and introduce faster electric two-wheelers for new logistics applications.",
+      "tags": [
+        "e-bikes",
+        "india",
+        "logistics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f291d0ebc5b55d49",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "summary": "OpenAI has released a dedicated ChatGPT desktop app for Linux operating systems, extending its popular AI chatbot's availability to a wider user base. This move brings the convenience of a native application to Linux users.",
+      "tags": [
+        "ai",
+        "linux",
+        "openai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3272b1cc2407b8be",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
+      "url": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/",
+      "summary": "Phia, a shopping startup co-founded by Phoebe Gates and Sophia Kianni, is facing renewed scrutiny over allegations of \"cookie stuffing\" business practices. Reports suggest the co-founders were aware of these practices for months.",
+      "tags": [
+        "startups",
+        "e-commerce",
+        "controversy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c4c18dda37b0d642",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Reservoir raises $8M to make water heaters that people — and the grid — will actually want",
+      "url": "https://techcrunch.com/2026/08/12/reservoir-raises-8m-to-make-water-heaters-that-people-and-the-grid-will-actually-want/",
+      "summary": "Reservoir has raised $8 million for its ultra-efficient water heater that integrates smart features like predicting hot water demand, storing energy, and detecting plumbing leaks. The company aims to create water heaters that appeal to both consumers and the electrical grid.",
+      "tags": [
+        "energy",
+        "startups",
+        "home tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3187f6a2f088d562",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Uber surprised robotics company Serve by selling its entire stake",
+      "url": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/",
+      "summary": "Uber unexpectedly sold its entire stake in robotics company Serve, a move that surprised Serve and signals a growing divergence in business strategies between the two companies. This divestiture comes after a period of close collaboration.",
+      "tags": [
+        "robotics",
+        "uber",
+        "investments"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e866c9725b4f85d2",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "What’s Scaleup Europe, the $5.7B fund that just backed satellite company ICEYE?",
+      "url": "https://techcrunch.com/2026/08/11/whats-scaleup-europe-the-5-7b-fund-that-just-backed-satellite-company-iceye/",
+      "summary": "Scaleup Europe, a public-private fund with a $5.7 billion target, has made its inaugural investment by backing Finnish satellite company ICEYE. This marks the fund's first step in supporting European scaling companies.",
+      "tags": [
+        "venture capital",
+        "europe",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2e0bed9b849ce378",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "This High School Wouldn’t Fix Its Antisemitism Problem",
+      "url": "https://www.thefp.com/p/virginia-high-school-antisemitism-investigation",
+      "summary": "An investigation revealed that Yorktown High School and Arlington County Public Schools failed to adequately address a hostile antisemitic environment, ignoring numerous complaints from Jewish students. The report concluded that the school district was \"deliberately indifferent\" to the issue.",
+      "tags": [
+        "education",
+        "antisemitism",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1b979791f9ca9a57",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Android now has a tap-to-share feature",
+      "url": "https://www.theverge.com/tech/978613/android-quick-share-tap-update-pixels-samsung",
+      "summary": "Android's AirDrop-like Quick Share feature will now let some devices exchange files and contact information when tapped together. The update is coming to Pixel 6 series phones and newer starting today, according to\nGoogle's announcement\n, and will roll out to Samsung's\nGalaxy Z F…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "ae998bf0368d6efe",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Brendan Carr is one firing away from an unchecked FCC",
+      "url": "https://www.theverge.com/policy/978783/trump-fcc-nominee-quorum",
+      "summary": "President Donald Trump already holds a Republican majority in the agency tasked with regulating America's communications systems. But with a\nnew nomination\nto the Federal Communications Commission, he could move to shut out opposing voices altogether - albeit at a legal risk.\nThe…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "8a8a4ddb1f3c31e3",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Google aims for influencers with the Pixel 11 Creator Suite",
+      "url": "https://www.theverge.com/tech/977888/pixel-creator-suite-influencer-camera-features",
+      "summary": "The settings page for the Pixel 11 series’ “Creator Suite.”\nGoogle knows creators are a big audience. The occupation is growing fast, and landing some influential names could be a major turning point for the Pixel's market share. This year, Google is building features directly in…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "db5b19fc7701f497",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Google is making the Pixel cameras better by making them worse",
+      "url": "https://www.theverge.com/tech/978084/google-camera-looks-interview-computational-photography",
+      "summary": "Google is reportedly making Pixel cameras \"worse\" in some technical aspects to better align with diverse user preferences, acknowledging that flawless technical photos aren't always what people desire. This approach aims to bridge the growing gap between what different users want from their smartphone cameras.",
+      "tags": [
+        "photography",
+        "pixel",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0cd4b9ca399d423b",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Google’s Pixel 11 series pairs a little new hardware with a lot of new software",
+      "url": "https://www.theverge.com/tech/978013/google-pixel-11-series-hands-on-hardware-software",
+      "summary": "When I first picked up the Pixel 11 Pro this week, it was clear to me that this was one of those refinement years - at least when it comes to hardware. Aesthetically, the phones are as beautiful as ever, with Google's signature camera bar and bright, colorful backing glass. There…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "ab5a39367591b71f",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Insta360’s next 360-degree action cam puts bigger sensors in a smaller design",
+      "url": "https://www.theverge.com/tech/978211/insta360-x6-360-degree-action-camera-8k-price-availability",
+      "summary": "Insta360 has unveiled its new X6 360-degree action camera, which boasts a smaller design with larger custom 1/1.1-inch Sony sensors, enabling 8K video capture at up to 50fps. The camera also features five times more scratch-resistant and cheaper replaceable lenses.",
+      "tags": [
+        "camera",
+        "action camera",
+        "gadgets"
+      ],
+      "priority": false
+    },
+    {
+      "id": "21fac337272f37c5",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Jaguar offers a first look inside the all-electric Type 01",
+      "url": "https://www.theverge.com/transportation/978793/jaguar-type-01-interior",
+      "summary": "Jaguar has provided a first look at the interior of its all-electric Type 01, which features a beige design with a central \"spine\" dividing the four seats. The vehicle replaces traditional rear-view mirrors with a \"ClearSight Rear View Display\" at the bottom of the windshield.",
+      "tags": [
+        "jaguar",
+        "electric vehicles",
+        "design"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7779bed0a435a355",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The Pixel Tag is Google’s answer to the AirTag",
+      "url": "https://www.theverge.com/tech/978713/google-pixel-tag-uwb-bluetooth-channel-finding-news",
+      "summary": "The Pixel Tag is longer but thinner than Apple’s AirTags.\nMore than two years after launching its own device-tracking network, Google has finally followed up with its own tracker. The Pixel Tag, which goes on sale in November, looks like one of the more capable trackers too: It c…",
+      "tags": [],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 104,
+    "summarized": 81,
+    "skipped_promos": 1,
+    "filtered_by_rules": 22,
+    "sources": 11,
+    "email_items_omitted": 0
+  }
+}
