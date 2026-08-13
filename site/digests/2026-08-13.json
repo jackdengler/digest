@@ -1,0 +1,1299 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T14:52:40+00:00",
+  "hot_topics": [
+    {
+      "topic": "AI Watermarking Sparks Controversy",
+      "synthesis": "Anthropic is implementing invisible watermarks on all AI-processed content, exceeding EU regulatory requirements, to identify AI-generated or manipulated outputs. This move has generated controversy among users of its Claude AI, who are concerned these watermarks could expose their use of the technology in academic or professional settings.",
+      "item_ids": [
+        "b640d4dc8cd8c69a",
+        "156be202b0807922"
+      ]
+    },
+    {
+      "topic": "Battle Over AI Data Sourcing and Consent",
+      "synthesis": "Concerns are mounting over how AI models acquire training data, leading to various countermeasures and controversies. New tools like ShieldFont aim to disrupt AI scrapers by feeding them distorted web content, while booksellers fear AI companies are destroying physical books for scanning. Simultaneously, Amazon's decision to use Twitch streamer content for AI training by default, rather than requiring opt-in consent, has sparked significant outrage among users.",
+      "item_ids": [
+        "ab60b6840ef44fb4",
+        "c5423352baff1fa6",
+        "96c57b7c0daa9db7",
+        "15526b59b81afbb8"
+      ]
+    },
+    {
+      "topic": "Surveillance Tech Firm Flock Responds to Abuse Backlash",
+      "synthesis": "Surveillance technology company Flock is implementing new rules and features, including mandatory audit assistance and requiring criminal case numbers for searches, in response to growing criticism. This move follows numerous reports of police officers misusing Flock's nationwide network of license plate readers to stalk or harass individuals, prompting the CEO to acknowledge the need for stronger guardrails.",
+      "item_ids": [
+        "6dd58f5f6cb4ef5e",
+        "7f73dc3d2ea03758"
+      ]
+    },
+    {
+      "topic": "ICE to Deploy Electric Shock Gloves",
+      "synthesis": "The US immigration agency, ICE, is planning to spend $20 million to equip its agents with gloves capable of delivering electric shocks, intended to compel subjects to comply. This initiative has been noted in news reports, raising concerns about the use of force by law enforcement.",
+      "item_ids": [
+        "99aa4238dcda29fa",
+        "d8a9cf5f2a894d16"
+      ]
+    },
+    {
+      "topic": "Enterprise AI Expansion and Investment",
+      "synthesis": "The adoption of AI agents in enterprises is rapidly increasing, with significant investments like OpenAI-backed Thrive Holdings raising $2 billion to accelerate AI integration. However, effectively scaling these AI agents depends on overcoming the limitations of legacy data systems, requiring robust infrastructure and trustworthy data for optimal decision-making and return on investment.",
+      "item_ids": [
+        "ae53294be7071ed6",
+        "74cd84e21281c98d"
+      ]
+    },
+    {
+      "topic": "DeepSeek Releases New AI Models and Tools",
+      "synthesis": "DeepSeek has rolled out new AI models and developer tools, including DeepSeek V4 Pro 0813 and DeepSeek Harness, drawing attention from the AI community. While the V4 Pro model is available via API on platforms like OpenRouter and showing varied performance, an official announcement page from DeepSeek is not immediately evident.",
+      "item_ids": [
+        "719ffab3cf6f19bc",
+        "0b9a7b286529fb31",
+        "f16bbf8c639120a6"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "3c3be8137f61a851",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Mecca and the mall",
+      "url": "https://aeon.co/essays/my-pilgrimage-to-mecca-in-the-age-of-the-golf-cart-and-mall",
+      "summary": "The author recounts a pilgrimage to Islam's holy city of Mecca for spiritual renewal, where they found many expected sights replaced by modern developments like golf carts and malls. The essay explores the transformation of the sacred journey in a contemporary context.",
+      "tags": [
+        "culture",
+        "religion",
+        "travel"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2e7c921e88e94af3",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Where the earth meets the sky",
+      "url": "https://aeon.co/videos/in-the-remote-desert-an-awe-inspiring-artwork-collapses-time-and-space",
+      "summary": "An awe-inspiring artwork located in the remote New Mexico desert, after half a century in the making, functions as an observatory that allows viewers to perceive time spanning 13,000 years into the future and past. This piece collapses time and space for its observers.",
+      "tags": [
+        "art",
+        "observatory",
+        "philosophy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c5423352baff1fa6",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Booksellers suspect AI firms are buying and then destroying rare books",
+      "url": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
+      "summary": "Booksellers fear that AI companies are purchasing and destroying rare books to quickly scan their high-quality long-form texts for AI model training. This practice raises concerns about the potential loss of physical copies and cultural heritage.",
+      "tags": [
+        "ai",
+        "data",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b640d4dc8cd8c69a",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Claude's new Scarlet Letter watermark is invisible—for now",
+      "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+      "summary": "Anthropic will watermark all content processed by its AI models, globally, to comply with the EU's AI Act. These embedded watermarks, invisible to users, will apply even to assistive functions, exceeding EU requirements.",
+      "tags": [
+        "ai",
+        "watermarking",
+        "regulation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "98ac5c9eea2e0483",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Have physicists finally discovered glueballs? New evidence points to yes.",
+      "url": "https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/",
+      "summary": "Physicists with the BES III experiment have found convincing new evidence for glueballs, elusive composite particles made entirely of gluons, as predicted by quantum theory. This discovery addresses one of the remaining unanswered questions in the Standard Model of Particle Physics.",
+      "tags": [
+        "science",
+        "physics",
+        "quantum"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ab60b6840ef44fb4",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "The web’s newest weapon against AI scrapers is a font",
+      "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+      "summary": "Designers have created ShieldFont, a new font that displays readable text to users but presents a subtly edited, nonsensical version in the underlying HTML to disrupt AI scrapers seeking training data. This uses ligatures to replace words, altering text only when rendered on screen.",
+      "tags": [
+        "ai",
+        "scraping",
+        "copyright"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c5d2a8478b9ff36e",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Trump sued over \"brazen\" scheme to sell Truth Social API access for $100K a month",
+      "url": "https://arstechnica.com/tech-policy/2026/08/trump-sued-over-brazen-scheme-to-sell-truth-social-api-access-for-100k-a-month/",
+      "summary": "President Trump's company, Truth Social, is being sued by nonprofit news groups for allegedly selling real-time API access to posts from top users, including Trump himself, for up to $100,000 monthly. The lawsuit claims this scheme allows Trump to profit by giving market-moving government information preferentially to paying customers.",
+      "tags": [
+        "politics",
+        "social media",
+        "lawsuit"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7ea106d9bc6578d0",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Two hydrogen-burning engines powered this car to a new land speed record",
+      "url": "https://arstechnica.com/cars/2026/08/jcb-sets-a-new-406-mph-speed-record-for-hydrogen-powered-cars/",
+      "summary": "The JCB Hydromax, powered by two hydrogen combustion engines, set a new land speed record for hydrogen-powered cars on the Bonneville Salt Flats. This achievement highlights JCB's pivot to hydrogen combustion for heavy equipment as an alternative to diesel, despite previous challenges with hydrogen engine efficiency.",
+      "tags": [
+        "automotive",
+        "hydrogen",
+        "engineering"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c833d85024bfa8b8",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "US tries to override New York gambling laws, orders Kalshi to keep operating",
+      "url": "https://arstechnica.com/tech-policy/2026/08/us-tries-to-override-new-york-gambling-laws-orders-kalshi-to-keep-operating/",
+      "summary": "The Trump administration, through the CFTC, has ordered prediction market Kalshi to continue operating in New York, exercising emergency authority against the state's gambling laws. This action follows a lawsuit by the NY Attorney General seeking to enjoin Kalshi for operating an unlawful gambling business.",
+      "tags": [
+        "regulation",
+        "gambling",
+        "finance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "81ea030bf8d0b64a",
+      "source": "Astral Codex Ten",
+      "source_type": "substack",
+      "title": "The Quest For Caffeine You Can Have At Night",
+      "url": "https://www.astralcodexten.com/p/the-quest-for-caffeine-you-can-have",
+      "summary": "The article explores methods to rapidly metabolize caffeine, enabling consumption later in the day without sleep disruption, focusing on the enzyme CYP1A2. It details how rutaecarpine, derived from Tetradium ruticarpum, can induce this enzyme, effectively shortening caffeine's half-life, but cautions about potential side effects.",
+      "tags": [
+        "health",
+        "science",
+        "caffeine"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7bc7145eecdd4679",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Australia's game-changing disability support is in crisis – what went wrong?",
+      "url": "https://www.bbc.co.uk/news/articles/c20d8g0qze0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Australia's National Disability Insurance Scheme (NDIS), once lauded as game-changing, is now in crisis as ballooning costs threaten its sustainability despite its benefits to users. The program's success has inadvertently led to its financial challenges.",
+      "tags": [
+        "australia",
+        "social policy",
+        "disability"
+      ],
+      "priority": false
+    },
+    {
+      "id": "304ccd5b14fba227",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Australian army whistleblower released on parole after more than two years in jail",
+      "url": "https://www.bbc.co.uk/news/articles/c5yw7vdwjxyo?at_medium=RSS&at_campaign=rss",
+      "summary": "David McBride, an Australian army whistleblower, has been released on parole after serving over two years in jail for leaking military secrets about Afghanistan. His release follows a guilty plea related to the disclosure of classified information.",
+      "tags": [
+        "australia",
+        "whistleblower",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6d9b257a568b3e23",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "BTS star V reveals hearing loss battle during livestream",
+      "url": "https://www.bbc.co.uk/news/articles/cx2v1893n3eo?at_medium=RSS&at_campaign=rss",
+      "summary": "BTS member V publicly disclosed during a livestream that he has been suffering from hearing issues for over two years. His revelation offers insight into personal health struggles faced by the K-pop star.",
+      "tags": [
+        "celebrity",
+        "k-pop",
+        "health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1ad204e7c0c5556a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
+      "url": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The WHO chief announced that a current Ebola outbreak, declared on May 15, is on track to become the deadliest ever, with over 2,000 deaths and thousands more reported cases. This emphasizes the severe and expanding nature of the health crisis.",
+      "tags": [
+        "health",
+        "ebola",
+        "global crisis"
+      ],
+      "priority": false
+    },
+    {
+      "id": "110cedb686b04cf7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
+      "url": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Eurovision Song Contest 2027 will take place in Burgas, Bulgaria, following Bulgarian singer Dara's victory in this year's competition. The Black Sea city was selected as the host location.",
+      "tags": [
+        "culture",
+        "music",
+        "event"
+      ],
+      "priority": false
+    },
+    {
+      "id": "99aa4238dcda29fa",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "ICE plans to equip agents with gloves that can deliver electric shocks",
+      "url": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US immigration agency, ICE, plans to spend $20 million on gloves capable of delivering sharp electric shocks, intended to compel subjects to comply. This initiative raises concerns about the use of force by agents.",
+      "tags": [
+        "ice",
+        "law enforcement",
+        "human rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ce420b405995cebf",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Indian actor's video with endangered gibbon sparks investigation",
+      "url": "https://www.bbc.co.uk/news/articles/c9q9351yp1xo?at_medium=RSS&at_campaign=rss",
+      "summary": "A deleted video featuring Tamil actor Vikram cuddling an endangered gibbon has prompted an investigation into how the animal came to be in India. The incident raises concerns about wildlife trafficking and protection.",
+      "tags": [
+        "wildlife",
+        "india",
+        "celebrity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9aafb2b6e6dd1b94",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Iran has shaken Trump's support - is his loyal base sticking with him?",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n8nd6645o?at_medium=RSS&at_campaign=rss",
+      "summary": "The situation with Iran has challenged President Trump's support, particularly in places like Kingsport, Tennessee, where a munitions plant supplies the US military. Voters there, traditionally loyal to Trump, are grappling with higher prices amidst tensions over the Iran war.",
+      "tags": [
+        "politics",
+        "trump",
+        "iran"
+      ],
+      "priority": false
+    },
+    {
+      "id": "13f7ad35cae3941c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
+      "url": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Japan's Prime Minister stated that President Putin's visit to the disputed Kuril Islands was \"absolutely unacceptable,\" marking the first time the Russian leader had visited them according to state media. This visit escalates tensions between Russia and Japan over territorial claims.",
+      "tags": [
+        "geopolitics",
+        "japan",
+        "russia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5a8c4c2d93c135cd",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+      "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+      "summary": "Major Russian grain export terminals were struck in an attack on a Black Sea port, as both Russia and Ukraine target each other's shipping facilities. This escalation contributes to falling grain exports from both countries.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "maritime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "332cacb3c55ad53a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "summary": "More troops are being deployed to the West Bank village of Qusra, where two Palestinian families report being trapped in their homes by Israeli settlers since Sunday, with utilities cut off. The situation highlights escalating tensions and humanitarian concerns in the region.",
+      "tags": [
+        "israel",
+        "palestine",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7217477dec72ac3a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Nobel Peace Prize winner Dmitry Muratov stated in a BBC interview that Vladimir Putin can only destroy Ukraine, not conquer it, as the war enters its fifth year. This assessment suggests a shift in the perceived objectives or capabilities of the Kremlin.",
+      "tags": [
+        "geopolitics",
+        "ukraine",
+        "russia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8b138ba7ff77d9f2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Thousands of Canadians call for US ambassador's expulsion",
+      "url": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss",
+      "summary": "An online petition with over 60,000 signatures is calling for the expulsion of US Ambassador Pete Hoekstra from Canada, accusing him of diplomatic interference in Canadian domestic affairs. The petition reflects public discontent with his actions.",
+      "tags": [
+        "canada",
+        "usa",
+        "diplomacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b537178f13a4f1ce",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Three men will be executed on the same day as death penalties rise in US",
+      "url": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Three men are scheduled for execution on the same day in one US state, contributing to a rising trend in death penalties despite growing opposition. This particular state is identified as a primary driver behind the increase in executions.",
+      "tags": [
+        "justice system",
+        "death penalty",
+        "usa"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d9b4af6a51662fb5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
+      "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
+      "summary": "Travis Kelce revealed details from his wedding to Taylor Swift, calling her his \"wife\" for the first time and describing the event at Madison Square Garden as a \"childhood dream.\" This public announcement confirms their marriage.",
+      "tags": [
+        "celebrity",
+        "marriage",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b723bde10fffb170",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+      "url": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+      "summary": "President Trump announced that White House press secretary Karoline Leavitt will be departing her role to spend time with her young children and family. Her departure marks a change in the administration's communications team.",
+      "tags": [
+        "politics",
+        "trump administration",
+        "white house"
+      ],
+      "priority": false
+    },
+    {
+      "id": "15526b59b81afbb8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
+      "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Twitch users are expressing outrage over Amazon's decision to use their content for AI training by default, requiring an opt-out rather than opt-in consent. Streamers criticized the policy, which allows Amazon to utilize their data unless specifically refused.",
+      "tags": [
+        "twitch",
+        "ai",
+        "data privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "056bb9848be2a1c5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "UK defends seizing shadow fleet tanker after Putin threat",
+      "url": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK government defended its seizure of a \"shadow fleet\" tanker, asserting it is legally disrupting and deterring such vessels, following a threat from Putin. This action targets ships operating outside conventional regulations, often associated with sanctioned oil trade.",
+      "tags": [
+        "geopolitics",
+        "maritime",
+        "sanctions"
+      ],
+      "priority": false
+    },
+    {
+      "id": "35a76b257b19481d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
+      "url": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Vulture populations are declining in Nigeria due to perceptions of them as sinister or their use in rituals, but an individual known as the 'Vulture King' is working to reverse this trend. These birds play a crucial ecological role in nature's cycle.",
+      "tags": [
+        "wildlife",
+        "conservation",
+        "nigeria"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5b5efe840e5707bb",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why are 'human fridges' being sold in Japan?",
+      "url": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Japan is seeing the sale of \"human fridges\" as a novel way for people to cool down amidst extreme summer heatwaves. This unique product reflects a creative response to intense environmental conditions.",
+      "tags": [
+        "japan",
+        "innovation",
+        "climate"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cdee65ab2aeeecf8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why Japanese firms are being so slow to use AI",
+      "url": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Japanese businesses are reportedly slow to adopt AI technology, primarily attributed to the country's prevailing risk aversion and conservative corporate culture. This cautious approach hinders their integration of advanced AI solutions.",
+      "tags": [
+        "japan",
+        "ai",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7f92e660cacd5478",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Zambians voting as president bids for second term",
+      "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Zambians are voting as President Hakainde Hichilema seeks a second term amidst challenges from continued cost of living pressures that have diminished his public appeal. The election will determine the country's leadership for the next five years.",
+      "tags": [
+        "politics",
+        "zambia",
+        "election"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c10550b6ff92ba58",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran",
+      "url": "https://www.bbc.co.uk/news/videos/cgewp4ep9dro?at_medium=RSS&at_campaign=rss",
+      "summary": "Voters in Kingsport, Tennessee, home to a munitions plant, are divided over the US military's involvement in the Iran war, with some questioning its justification despite their loyalty to President Trump. This local sentiment reflects broader national debate on the conflict.",
+      "tags": [
+        "politics",
+        "iran",
+        "public opinion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "40c808cdc41dd01f",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+      "url": "https://openai.com/codex/",
+      "summary": "OpenAI has released a ChatGPT Desktop application, also referred to as Codex Desktop, for Linux users. The article points to the OpenAI website for more information on this new tool.",
+      "tags": [
+        "ai",
+        "software",
+        "linux"
+      ],
+      "priority": false
+    },
+    {
+      "id": "719ffab3cf6f19bc",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "DeepSeek Harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "summary": "DeepSeek Harness is a new project or tool, likely related to AI models, recently highlighted on Hacker News. The article points to its GitHub repository for details.",
+      "tags": [
+        "ai",
+        "open source",
+        "developer tools"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0b9a7b286529fb31",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "DeepSeek V4 Pro 0813",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+      "summary": "DeepSeek V4 Pro 0813, a new AI model from DeepSeek, has been released and is generating discussion regarding its performance and availability. Information points to its API documentation and artificial analysis benchmarks.",
+      "tags": [
+        "ai",
+        "llm",
+        "deepseek"
+      ],
+      "priority": false
+    },
+    {
+      "id": "120354b4c552117e",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Delta",
+      "url": "https://zed.dev/blog/introducing-delta",
+      "summary": "Zed.dev has introduced \"Delta,\" a new feature or product, generating significant discussion on Hacker News. The provided URL directs to the official announcement on their blog.",
+      "tags": [
+        "software development",
+        "tools",
+        "zed"
+      ],
+      "priority": false
+    },
+    {
+      "id": "78aa56df571df325",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
+      "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
+      "summary": "Deutsche Bank has become the first foreign bank in Europe to be authorized as a yuan clearing bank. This development marks a significant step for the internationalization of China's currency in the European market.",
+      "tags": [
+        "finance",
+        "banking",
+        "china"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f89a37e1f38cfa6e",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Principia Mathematica is modern and insightful",
+      "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+      "summary": "The article argues that \"Principia Mathematica\" remains modern and insightful, suggesting its principles are relevant even in contemporary computational thought. The piece encourages a re-evaluation of the classic work.",
+      "tags": [
+        "philosophy",
+        "mathematics",
+        "history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6d2f87f674b8af39",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Qwen3.8-2.4T",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+      "summary": "Qwen3.8-2.4T, another new AI model, has been released and is available on Hugging Face. This model release is generating interest within the AI community, as indicated by its high points and comments on Hacker News.",
+      "tags": [
+        "ai",
+        "llm",
+        "open source"
+      ],
+      "priority": false
+    },
+    {
+      "id": "88f3529b96e5a5f2",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "summary": "The article details the process of identifying and tracking down a persistent 16-year-old bug related to WAL-reset in SQLite. This technical deep-dive was shared on the Tailscale blog.",
+      "tags": [
+        "software engineering",
+        "database",
+        "bug fix"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7f73dc3d2ea03758",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+      "summary": "Flock is implementing changes to officers' access to its license plate reader network, including requiring criminal case numbers for searches and expanding automatic auditing, in response to growing backlash over mass surveillance and police abuse. These measures aim to address concerns about officers misusing the technology for stalking and other unauthorized purposes.",
+      "tags": [
+        "surveillance",
+        "privacy",
+        "police tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ae53294be7071ed6",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "Scaling AI agents with trustworthy data",
+      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "summary": "A report highlights that scaling AI agents effectively in enterprises depends on overcoming limitations of legacy data systems, as inadequate infrastructure and data act as major blockers. Data leaders, who ensure agents have broad access to enterprise data and strong governance, achieve greater success and trust in AI agent decisions.",
+      "tags": [
+        "ai",
+        "enterprise",
+        "data management"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d8a9cf5f2a894d16",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Inflation eased slightly in July. And, ICE plans to give officers electric shock gloves",
+      "url": "https://www.npr.org/2026/08/13/g-s1-138578/up-first-newsletter-inflation-colombia-earthquake-ice-gloves-migrant-children-karolina-leavitt",
+      "summary": "Inflation showed a slight decrease in July according to a Labor Department report, while ICE announced plans to equip its officers with electric shock gloves. The two unrelated announcements cover economic news and law enforcement policy.",
+      "tags": [
+        "economy",
+        "inflation",
+        "ice"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9ee560d89c4e55d7",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Millions crowd cities to see Spain's first total solar eclipse in over a century",
+      "url": "https://www.npr.org/2026/08/13/g-s1-138556/spain-solar-eclipse",
+      "summary": "Millions gathered in Spanish cities to witness the country's first total solar eclipse in over a century, responding with applause and cheers as the sky darkened. The event was a significant astronomical and public spectacle.",
+      "tags": [
+        "science",
+        "spain",
+        "astronomy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6a90e8ff7e219704",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/08/13/nx-s1-5927061/morning-news-brief",
+      "summary": "This morning news brief covers primary results showing divisions within the Democratic Party, a new inflation report suggesting potential relief for the Fed, and ongoing rescue efforts following the Colombia earthquake. It combines several top news stories.",
+      "tags": [
+        "news",
+        "politics",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8189dc5589fc7823",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "New indictment alleges Nick Reiner was lying in wait before killing his parents",
+      "url": "https://www.npr.org/2026/08/13/g-s1-138566/reiner-indictment",
+      "summary": "A grand jury has indicted Nick Reiner on murder charges for the killings of his parents, Rob Reiner and Michele Singer Reiner, adding the allegation that he was lying in wait before the attack. This new indictment provides further details on the circumstances of the alleged crime.",
+      "tags": [
+        "crime",
+        "legal",
+        "celebrity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "661eaa88b00f1307",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Primary voters send mixed signals about what they want from the Democratic Party",
+      "url": "https://www.npr.org/2026/08/13/nx-s1-5929473/primary-voters-send-mixed-signals-about-what-they-want-from-the-democratic-party",
+      "summary": "Recent primary results in Michigan, Minnesota, and Wisconsin indicate that Democratic voters are sending mixed signals about the ideological direction they desire for their candidates in upcoming midterm elections. This suggests a muddled picture for the party's strategic positioning.",
+      "tags": [
+        "politics",
+        "democratic party",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "87573d793cef8909",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Sailors and their families have lives on pause, uncertain if they'll return to Mideast",
+      "url": "https://www.npr.org/2026/08/13/nx-s1-5929463/evacuation-bahrain-troops-iran-war",
+      "summary": "Sailors and their families evacuated months ago from US bases in the Middle East face uncertainty about returning, with their lives on hold. The military is still determining their future assignments following the evacuations.",
+      "tags": [
+        "military",
+        "middle east",
+        "geopolitics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6be4f6cfcadff963",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill",
+      "url": "https://www.npr.org/2026/08/13/g-s1-138581/taiwan-briefly-slows-its-mobile-internet-to-text-only-speed-as-part-of-defense-drill",
+      "summary": "Taiwan temporarily reduced its mobile internet speed to text-only during a defense drill, amid heightened tensions with China. This exercise simulated conditions for maintaining communication during potential conflict.",
+      "tags": [
+        "taiwan",
+        "china",
+        "defense"
+      ],
+      "priority": false
+    },
+    {
+      "id": "eab94a8d78396375",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "The drug lenacapavir is a mighty weapon against HIV. Its rollout gets mixed reviews",
+      "url": "https://www.npr.org/2026/08/13/g-s1-137742/hiv-prevention-lenacapavir-uganda",
+      "summary": "Lenacapavir, an HIV prevention drug administered twice-yearly, is highly effective but its distribution is receiving mixed reviews, particularly regarding access in areas most in need. Questions are being raised about ensuring equitable global rollout.",
+      "tags": [
+        "health",
+        "hiv",
+        "medicine"
+      ],
+      "priority": false
+    },
+    {
+      "id": "640e96bdec65a0ad",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "These swing voters in Nevada say they are not dismissing socialist candidates",
+      "url": "https://www.npr.org/2026/08/13/nx-s1-5929406/nevada-economy-socialism-focus-groups",
+      "summary": "Online focus groups in Nevada revealed that a majority of Biden-to-Trump swing voters would not automatically view a politician identifying as socialist negatively. This finding suggests a shifting perception of socialist candidates among a key demographic.",
+      "tags": [
+        "politics",
+        "voters",
+        "nevada"
+      ],
+      "priority": false
+    },
+    {
+      "id": "87108b032338687c",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "U.S. ambassador calls settler siege of Palestinian homes a 'horrific act of terror'",
+      "url": "https://www.npr.org/2026/08/13/g-s1-138574/us-west-bank-settlers",
+      "summary": "U.S. Ambassador to Israel Mike Huckabee condemned the siege of an American Palestinian family's home in the Israeli-occupied West Bank by Jewish settlers as a \"horrific act of terror.\" This statement highlights international concern over escalating violence in the region.",
+      "tags": [
+        "israel",
+        "palestine",
+        "diplomacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e879a8437cf4e598",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Adam Schiff on Democrats’ ‘losing message,’ AOC and AIPAC",
+      "url": "https://www.politico.com/video/2026/08/12/adam-schiff-on-democrats-losing-message-aoc-and-aipac-2135214",
+      "summary": "Adam Schiff discussed the Democratic Party's \"losing message\" and touched on figures like AOC and organizations like AIPAC. The video likely delves into current political strategy and internal party dynamics.",
+      "tags": [
+        "politics",
+        "democratic party",
+        "aoc"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0ca5687789aed893",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "alchemy-utils 0.1a0",
+      "url": "https://simonwillison.net/2026/Aug/12/alchemy-utils/",
+      "summary": "Simon Willison released `alchemy-utils 0.1a0`, a new Python library and CLI utility designed as a database-agnostic version of `sqlite-utils`. Developed with AI assistance, it uses SQLAlchemy to support multiple database engines like PostgreSQL, SQLite, and DuckDB.",
+      "tags": [
+        "python",
+        "databases",
+        "developer tools"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f16bbf8c639120a6",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "DeepSeek V4 Pro 0813 (on OpenRouter)",
+      "url": "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/",
+      "summary": "The latest DeepSeek Pro model, V4 Pro 0813, is now accessible via API on OpenRouter, with its release generating discussion about its benchmark performance and the absence of an official announcement page from DeepSeek. The article notes its varied responses across different reasoning levels.",
+      "tags": [
+        "ai",
+        "llm",
+        "deepseek"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ede0ad005c653ed0",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Florian Herrengt",
+      "url": "https://simonwillison.net/2026/Aug/12/florian-herrengt/",
+      "summary": "Florian Herrengt's quote critiques the over-reliance on AI in software engineering, describing projects becoming so complex that human understanding is lost, and teams depend on AI for answers, often without verifying accuracy. This leads to increased cognitive debt and potential unfixable bugs.",
+      "tags": [
+        "ai",
+        "software engineering",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "df43c1318ae52328",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "From “Bowling Alone” to scrolling alone",
+      "url": "https://www.slowboring.com/p/from-bowling-alone-to-scrolling-alone",
+      "summary": "This podcast discussion analyzes Robert Putnam's \"Bowling Alone,\" noting how its forecasts about declining social capital and the internet's inability to replace in-person interaction have been vindicated. The hosts debate the book's arguments, particularly the role of television and video content in diminishing social engagement.",
+      "tags": [
+        "society",
+        "sociology",
+        "media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bbc7a48794b1115f",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "New York is building. But where?",
+      "url": "https://www.slowboring.com/p/new-york-is-building-but-where",
+      "summary": "New York City Mayor Zohran Mamdani's plan to tax homeowners with high-value secondary residences has been paused by a Staten Island judge. This decision creates a hurdle for the proposed \"pied-à-terre tax\" aimed at addressing affordable housing.",
+      "tags": [
+        "nyc",
+        "housing",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a9a4f7d0c0fbebb0",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "summary": "AI coding startup Cognition is reportedly seeking to raise another significant funding round at a $40 billion valuation, mere months after securing $1 billion at a $26 billion valuation. This indicates rapid growth and investor interest in the company.",
+      "tags": [
+        "ai",
+        "startup",
+        "investment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1b406188a8a8ab07",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "AI nuclear power firm Fermi finally has a new CEO",
+      "url": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
+      "summary": "Fermi, an AI nuclear power firm, has appointed Lee McIntire as its new CEO, over three months after co-founder Toby Neugebauer was fired. McIntire, previously an independent board member, steps into the top role.",
+      "tags": [
+        "energy",
+        "ai",
+        "leadership"
+      ],
+      "priority": false
+    },
+    {
+      "id": "96c57b7c0daa9db7",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "summary": "Amazon will use Twitch streamers' content to train its AI models by default, requiring users to actively opt-out if they do not wish their data to be used. A Twitch CPO admitted that an opt-in system would likely result in no one consenting.",
+      "tags": [
+        "twitch",
+        "ai",
+        "data privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2328ee589eecca98",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
+      "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
+      "summary": "Apple is reportedly in discussions to pay publishers for providing current news content to Siri, considering a nine-figure budget for these payments. This initiative aims to enhance Siri's ability to deliver up-to-date information.",
+      "tags": [
+        "apple",
+        "ai",
+        "news"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d5543c519297ffc6",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "summary": "At the Ai4 conference, prominent AI experts Geoffrey Hinton, Fei-Fei Li, and Andrew Ng debated key issues surrounding AI safety, regulation, and open-source access. They argued for an open approach to AI development amidst growing concerns.",
+      "tags": [
+        "ai",
+        "ethics",
+        "open source"
+      ],
+      "priority": false
+    },
+    {
+      "id": "208c267984060075",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Can social media start over? Bluesky’s CEO and COO deliver their case at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/08/13/can-social-media-start-over-blueskys-ceo-and-coo-deliver-their-case-at-techcrunch-disrupt-2026/",
+      "summary": "Bluesky's CEO Toni Schneider and COO Rose Wang presented their vision for a potential reboot of social media at TechCrunch Disrupt 2026. They discussed whether new platforms like Bluesky can offer a fresh start for the industry.",
+      "tags": [
+        "social media",
+        "bluesky",
+        "tech conference"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5dca3fe3f44afe96",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Facebook officially rolls out its stand-alone Creator Studio app with AI tools for creators",
+      "url": "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/",
+      "summary": "Facebook has officially launched its standalone Creator Studio app, now integrated with an AI creator assistant offering personalized content recommendations. This app aims to support creators based on their content style, performance, and engagement goals.",
+      "tags": [
+        "facebook",
+        "ai",
+        "creators"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1fb76c53323a1fdd",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Form Energy raises $750M to build more 100-hour batteries for the grid",
+      "url": "https://techcrunch.com/2026/08/12/form-energy-raises-750m-to-build-more-100-hour-batteries-for-the-grid/",
+      "summary": "Form Energy secured $750 million in funding from investors like Google and Crusoe to expand manufacturing of its 100-hour grid-scale batteries. The investment will help the company deliver its long-duration energy storage solutions to customers.",
+      "tags": [
+        "energy storage",
+        "batteries",
+        "investment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dff9f84fe9b86135",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Grubhub’s $24M FTC settlement is finally reaching diners and drivers",
+      "url": "https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/",
+      "summary": "Checks are now being mailed to diners and drivers as part of Grubhub's $23.8 million settlement with the FTC, resolving allegations about its business practices. This distribution follows a fine imposed by the FTC.",
+      "tags": [
+        "grubhub",
+        "settlement",
+        "ftc"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8a929a25ddc0b998",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+      "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
+      "summary": "A $250 million acquisition has reportedly collapsed amid allegations of fraud and forged signatures, with VideoVerse co-founder Vinayak Shrivastav at the center of multiple legal cases. Investors are still awaiting their share of the expected windfall.",
+      "tags": [
+        "business",
+        "fraud",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8eae634dd959442f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+      "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+      "summary": "Lovable has confirmed a new valuation of $13.3 billion and raised an additional $400 million in funding. This follows the startup reaching $500 million in annualized run rate revenue in June.",
+      "tags": [
+        "startup",
+        "investment",
+        "valuation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fc681e694fd3a72a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
+      "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+      "summary": "Automattic's AI-powered contacts app and relationship manager, Mesh, is now available on Android. The app aims to provide a comprehensive CRM solution for a wider user base.",
+      "tags": [
+        "software",
+        "crm",
+        "android"
+      ],
+      "priority": false
+    },
+    {
+      "id": "74cd84e21281c98d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "summary": "Thrive Holdings, supported by OpenAI, has successfully raised $2 billion in new funding at a $12 billion valuation from investors including SoftBank and D1 Capital Partners. The company aims to accelerate the integration of AI into enterprise solutions.",
+      "tags": [
+        "ai",
+        "enterprise",
+        "investment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "156be202b0807922",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "summary": "Some users of Anthropic's Claude AI are expressing anger over its new watermarking system, fearing it will expose their use of the AI in academic or professional settings. The watermarks are designed to identify AI-processed content.",
+      "tags": [
+        "ai",
+        "watermarking",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "602b76a36d9b1e9c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Tesla wants to build a $10B solar factory in Texas",
+      "url": "https://techcrunch.com/2026/08/12/tesla-wants-to-build-a-10b-solar-factory-in-texas/",
+      "summary": "Tesla plans to construct a $10 billion solar factory in Texas, contingent on the state providing financial contributions to offset the costs. This factory would represent a significant investment in solar energy production.",
+      "tags": [
+        "tesla",
+        "solar energy",
+        "manufacturing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "16a25ab42a58c37c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Uber Freight reportedly investigating after hacking group claims data breach",
+      "url": "https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/",
+      "summary": "Uber Freight is reportedly investigating claims of a data breach by an extortion hacking group known for targeting transportation companies. The hacking group has taken credit for the alleged breach.",
+      "tags": [
+        "cybersecurity",
+        "uber freight",
+        "data breach"
+      ],
+      "priority": false
+    },
+    {
+      "id": "61d09e3167afabb4",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+      "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+      "summary": "Sandbar, creator of the Stream ring, posits that voice interaction is the future of AI wearables, allowing users to capture thoughts and ideas without screens. This aligns with a trend of AI notetaking hardware for transcribing and summarizing.",
+      "tags": [
+        "ai",
+        "wearables",
+        "voice tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "44b43956ebe7aeb3",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Caitlin Flanagan: Must Egg Freezing Be ‘Normalized’ by AOC?",
+      "url": "https://www.thefp.com/p/caitlin-flanagan-aoc-freezing-eggs-normalized",
+      "summary": "Caitlin Flanagan discusses Alexandria Ocasio-Cortez's public decision to freeze her eggs, analyzing it within the context of women's reproductive choices and societal pressures. The article reflects on the personal and public implications of \"normalizing\" egg freezing.",
+      "tags": [
+        "politics",
+        "social issues",
+        "aoc"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0e704f8491b274d5",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "I Went No Contact with My Parents. I Regret It.",
+      "url": "https://www.thefp.com/p/i-went-no-contact-with-my-parents",
+      "summary": "The author reflects on her five-year estrangement from her parents, initiated at 19 based on a therapist's advice, and now deeply regrets it. She highlights a growing trend of \"no contact\" influenced by therapeutic language and its potential destructiveness to family relationships.",
+      "tags": [
+        "relationships",
+        "mental health",
+        "family"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c4d501f66d4480a0",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Why Democrats Said No to Francesca Hong",
+      "url": "https://www.thefp.com/p/democrats-wisconsin-dsa-francesca-hong-david-crowley-establishment-primary",
+      "summary": "Moderate Democrats in Wisconsin successfully campaigned to block Francesca Hong, a Democratic Socialist, from winning the gubernatorial primary, despite her earlier lead in polls. Milwaukee executive David Crowley secured a narrow victory, signaling a blow to the party's insurgent socialist wing.",
+      "tags": [
+        "politics",
+        "democratic party",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cdad2bb9310ab84c",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Cats and dogs are missing meals after a popular smart feeder went down",
+      "url": "https://www.theverge.com/tech/979295/petlibro-outage-smart-pet-feeders",
+      "summary": "A Petlibro outage has caused smart pet feeders and other devices to go offline, preventing them from performing scheduled tasks like dispensing food. Despite the company's claims, many users report their pets are missing meals, creating a major problem for owners away from home.",
+      "tags": [
+        "iot",
+        "outage",
+        "pets"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7324b12bfb30faa3",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Does Google even want to win at AI?",
+      "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
+      "summary": "Google's recent reorganization of its AI division, with key leaders departing or shifting roles, has raised questions about its competitive standing in the AI race despite its immense resources. Analysts debate whether Google is losing its bleeding-edge efforts or if its existing power and integrations provide a sufficient safety net.",
+      "tags": [
+        "ai",
+        "google",
+        "tech industry"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6dd58f5f6cb4ef5e",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Flock CEO: ‘We got this one wrong’",
+      "url": "https://www.theverge.com/policy/979339/flock-ceo-audits-data-retention",
+      "summary": "Flock CEO Garrett Langley acknowledged misuse of its surveillance technology and announced updates, including mandatory Audit Assistance for abnormal search behavior and stricter data retention policies. These changes aim to address reports of police abusing its tools to stalk individuals.",
+      "tags": [
+        "surveillance",
+        "privacy",
+        "police tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ad2249a025dc9f99",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
+      "url": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
+      "summary": "Microsoft is consolidating its consumer and commercial Copilot AI assistants into a single unified \"super app\" interface, moving both personal and work accounts to the new app. This aims to streamline the user experience by eliminating separate Copilot icons and integrating chat and image creation with Microsoft 365.",
+      "tags": [
+        "microsoft",
+        "ai",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "45d0f2c5248c8fea",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Nintendo’s next Fire Emblem has a bold new structure",
+      "url": "https://www.theverge.com/games/977955/fire-emblem-fortunes-weave-preview-impressions-nintendo-switch-2",
+      "summary": "Nintendo's upcoming Fire Emblem game, \"Fortune's Weave,\" for the Switch 2 introduces an ambitious structure allowing players to swap between four heroes and their storylines simultaneously. This design aims to enable experiencing multiple narratives in a single playthrough, unlike previous iterations.",
+      "tags": [
+        "gaming",
+        "nintendo",
+        "fire emblem"
+      ],
+      "priority": false
+    },
+    {
+      "id": "97f32c3dec08dcfa",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Pixel 11 event live blog: Let&#8217;s watch Trevor Noah introduce Google&#8217;s new phones",
+      "url": "https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah",
+      "summary": "Google is hosting a \"Made by Google\" keynote event, hosted by Trevor Noah, to unveil new Pixel hardware including the Pixel 11 phones and Pixel Watch 5. Despite the live broadcast, many details about the new devices were already public prior to the event.",
+      "tags": [
+        "google",
+        "hardware",
+        "smartphone"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8bb4928438a129de",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Rivian is finally getting a long-requested feature — and no, it’s not CarPlay",
+      "url": "https://www.theverge.com/transportation/978093/rivian-r1s-r1t-2027-captains-chairs",
+      "summary": "Rivian R1S owners will finally get second-row captain's chairs, a long-requested feature to improve accessibility to the third row and ease for parents. Many owners had expressed significant frustration over the previous bench seat design.",
+      "tags": [
+        "automotive",
+        "rivian",
+        "suv"
+      ],
+      "priority": false
+    },
+    {
+      "id": "89a6dff63aa9c55a",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Samsung&#8217;s $1,900 Z Fold 8 is still vulnerable to pocket lint",
+      "url": "https://www.theverge.com/tech/979421/ifixit-samsung-galaxy-z-fold-8-hinge",
+      "summary": "iFixit gave Samsung's Galaxy Z Fold 8 a low repairability score of 4 out of 10, primarily due to its hinge's vulnerability to dust and sand. The phone's IP48 ingress rating means particles can enter the hinge mechanism, leading to damage that is difficult to repair.",
+      "tags": [
+        "smartphone",
+        "repairability",
+        "samsung"
+      ],
+      "priority": false
+    },
+    {
+      "id": "87baa5bb2e6510d7",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Wearables are getting a taste of much-needed minimalism",
+      "url": "https://www.theverge.com/column/978295/optimizer-screenless-wearables-fitness-trackers-smart-rings",
+      "summary": "The article discusses a trend towards screenless, minimalist wearables like the Fitbit Air, Garmin Cirqa, and Oura Ring, which focus on collecting extensive health data without constant visual interaction. This shift offers a new approach to wearable technology, emphasizing data over display.",
+      "tags": [
+        "wearables",
+        "tech",
+        "health"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 109,
+    "summarized": 88,
+    "skipped_promos": 0,
+    "filtered_by_rules": 21,
+    "sources": 13,
+    "email_items_omitted": 0
+  }
+}
