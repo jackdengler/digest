@@ -1,0 +1,1199 @@
+{
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T14:46:09+00:00",
+  "hot_topics": [
+    {
+      "topic": "AI Model Advancements and Price Wars",
+      "synthesis": "Leading AI developers like OpenAI, Anthropic, and Google are engaged in a price war, releasing cheaper and faster models to attract cost-conscious customers. This competition has led to significant price reductions for existing models and the rapid introduction of new, more efficient versions, including Google's Gemini 3.7 Flash and OpenAI's Ultrafast mode for GPT-5.6 Sol, sometimes at lower introductory prices. The goal is to retain users who might otherwise turn to more affordable Chinese alternatives.",
+      "item_ids": [
+        "f13d522983cc997a",
+        "1deb55a90e544614",
+        "179281b69d018994",
+        "98f2477a699969de",
+        "232004cbe3354507",
+        "12f8bc8ae851de26",
+        "6545de303f03228e"
+      ]
+    },
+    {
+      "topic": "Flock Safety's ALPR System Faces Misuse and Privacy Concerns",
+      "synthesis": "Flock Safety is facing scrutiny over its automatic license plate reader (ALPR) cameras due to concerns about police misuse and privacy violations. The company has made an \"Audit Assistance\" tool mandatory for agencies to detect abnormal activity, acknowledging past mistakes, but experts question its effectiveness and the system's inherent design flaws that enable stalking. Dozens of communities have already canceled contracts or pushed for stricter limits on data access and usage.",
+      "item_ids": [
+        "cf2940ce07eee66c",
+        "6e38a9f93c659baa",
+        "a7d1f6d893f488c8"
+      ]
+    },
+    {
+      "topic": "Alarms Raised Over Conditions on USS Abraham Lincoln",
+      "synthesis": "Thousands of sailors aboard the USS Abraham Lincoln have reportedly endured poor conditions, including food shortages and broken plumbing, during an extended deployment of over 250 days. These reports have led to widespread concern and calls from Democratic lawmakers and families for an investigation into the living and operational circumstances on the aircraft carrier.",
+      "item_ids": [
+        "c9a5488c21519eb7",
+        "e3abbdd68dd47915",
+        "de36253651d94cc8"
+      ]
+    },
+    {
+      "topic": "Instagram Unveils Redesigned Wordmark",
+      "synthesis": "Instagram has introduced a refresh of its wordmark logo, described by its head as \"leaner and more modern\" to reflect simplicity and craft. However, the redesign has drawn critical feedback, with some observers likening it to \"AI slop.\"",
+      "item_ids": [
+        "b1936b7d21a65e29",
+        "8fda3825434e779a"
+      ]
+    },
+    {
+      "topic": "US Drone & Trade Tariffs",
+      "synthesis": "Former President Donald Trump has announced significant 100 percent tariffs on various imported drones and all aircraft parts weighing over 25kg, expanding previous import bans. Simultaneously, a new US report claims that dozens of countries assisted China in circumventing Trump-era tariffs by rerouting goods through nations with lower levies.",
+      "item_ids": [
+        "b59f2b3c7b49e161",
+        "3889d85ca9faba6f"
+      ]
+    },
+    {
+      "topic": "Global Impact of Severe Weather Events",
+      "synthesis": "Various regions worldwide are experiencing extreme weather, including \"unprecedented\" heavy rains in Japan that killed eight people, caused power outages, and stranded thousands. Concurrently, Europe is grappling with its fifth heatwave of the summer, leading to firefighters battling blazes from Britain to Croatia.",
+      "item_ids": [
+        "4a92423b9ab20e71",
+        "6a279199e989beae"
+      ]
+    },
+    {
+      "topic": "Microsoft Copilot Streamlining",
+      "synthesis": "Microsoft is consolidating its consumer and business Copilot apps to simplify the AI assistant experience. As part of this streamlining, the company is retiring several unsuccessful AI features, including the Clippy-like Mico character from Copilot's voice mode, AI-generated podcasts, Group Chats, and Deep Research.",
+      "item_ids": [
+        "7814799d1a9bfbb7",
+        "dcb8b3baed64222f"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "e667092ccae2e814",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "The neverending house",
+      "url": "https://aeon.co/essays/the-art-of-dwelling-in-santiagos-self-built-homes",
+      "summary": "The article examines the self-built homes in Santiago, describing them as precarious and constantly evolving structures that are always in a state of being and becoming. It explores the unique art of dwelling within these ever-changing residences.",
+      "tags": [
+        "architecture",
+        "urbanism",
+        "housing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cf2940ce07eee66c",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Flock “can’t tech its way out” of the stalker cop problem, experts say",
+      "url": "https://arstechnica.com/tech-policy/2026/08/flock-cant-tech-its-way-out-of-the-stalker-cop-problem-experts-say/",
+      "summary": "On Thursday, Flock\nannounced\nplans to require all agencies with access to license plate reader data to use a safety tool that automatically detects abnormal activity and locks out cops who abuse their access to stalk people they know in their personal lives.\nFlock’s audit assista…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "1deb55a90e544614",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "summary": "Google is\nannouncing\na new Gemini model today, but it's not the long-awaited 3.5 Pro. Gemini 3.7 Flash is now rolling out to replace 3.6 Flash, which itself was released\nonly three weeks ago\n. This new \"workhorse\" model is supposedly the product of core optimizations and develope…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f13d522983cc997a",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "summary": "Leading US AI labs such as OpenAI and Anthropic are releasing cheaper models as they fight to retain cost-conscious customers who are switching to cut-price alternatives from Chinese rivals.\nThe price war comes as rising AI bills push companies to curb usage and seek cheaper mode…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "e53eb4b80727fc5c",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Pet owners say smart pet feeder outage led to furry ones going unfed",
+      "url": "https://arstechnica.com/gadgets/2026/08/pet-owners-say-smart-pet-feeder-outage-led-to-furry-ones-going-unfed/",
+      "summary": "A recent outage at smart pet feeder company Petlibro left many pets unfed, highlighting the risks of relying on internet-connected devices. The CEO stated the issue was related to the app's communication with devices through online servers.",
+      "tags": [
+        "smart home",
+        "iot",
+        "outage"
+      ],
+      "priority": false
+    },
+    {
+      "id": "13e41b37ed5cbfbf",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Samsung Galaxy Z Fold 8 Ultra review: The ultra foldable with an ultra price",
+      "url": "https://arstechnica.com/gadgets/2026/08/samsung-galaxy-z-fold-8-ultra-review-the-ultra-foldable-with-an-ultra-price/",
+      "summary": "The Samsung Galaxy Z Fold 8 Ultra continues Samsung's iterative improvements in foldable phones, largely erasing previous compromises except for its high price. While slimmer than previous models, the difference is barely perceptible, and it maintains the company's established form factor.",
+      "tags": [
+        "foldable phone",
+        "samsung",
+        "gadget"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b1936b7d21a65e29",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "The new Instagram logo is the perfect embodiment of AI slop",
+      "url": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
+      "summary": "Today, Instagram unveiled a refresh of its wordmark, accompanied by the usual bland corporate platitudes these kinds of announcements are always packaged with.\nHead of Instagram Adam Mosseri\ncalled it\n“leaner and more modern, with references to the original and the simplicity and…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "8656540785dc79e6",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Ukrainian drones wipe out entire US tank brigade in live war game",
+      "url": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-wipe-out-entire-us-tank-brigade-in-live-war-game/",
+      "summary": "During a live war game in Germany, Ukrainian drone teams effectively destroyed a US Army tank brigade, demonstrating the evolving threat of modern drone warfare. US soldiers received \"respawn\" attempts to learn from the experience, which mimicked bomb drops and kamikaze strikes.",
+      "tags": [
+        "military",
+        "drones",
+        "warfare"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7d558981c372f19b",
+      "source": "Astral Codex Ten",
+      "source_type": "substack",
+      "title": "The Foothills Of Bay Area House Party",
+      "url": "https://www.astralcodexten.com/p/the-foothills-of-bay-area-house-party",
+      "summary": "This piece satirically depicts a \"Bay Area house party\" where guests engage in \"startup dick-measuring\" and explore unusual spiritual groups that turn out to be investment firms. The narrative uses the party setting to critique aspects of Bay Area culture, including its unique blend of tech ambition and search for meaning.",
+      "tags": [
+        "culture",
+        "silicon valley",
+        "satire"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4a92423b9ab20e71",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'Unprecedented' rain in Japan kills eight people",
+      "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "32f41e84293ba1c6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Air India to test all pilots for banned substances",
+      "url": "https://www.bbc.co.uk/news/articles/c2352jyvm5xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Air India plans to test all its pilots for banned substances after one of its planes experienced a sudden loss of altitude last week, injuring several passengers. The airline is implementing comprehensive screening measures.",
+      "tags": [
+        "aviation",
+        "safety",
+        "air india"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b77fb981abbf1a62",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "BBC Verify speaks to woman who filmed ICE agent pointing gun at her",
+      "url": "https://www.bbc.co.uk/news/videos/c1m12m12nzzo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Verify interviewed a Virginia woman who filmed an ICE agent pointing a gun at her, with the footage having been verified by the BBC. The incident raises concerns about law enforcement conduct.",
+      "tags": [
+        "law enforcement",
+        "immigration",
+        "video"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c04d494ec84d9e09",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Builders unearth €9m gold loot sealed in walls of Belgian property",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Construction workers in Belgium discovered €9 million in gold sealed within the walls of a cellar while drilling for sewage pipes. The unexpected find represents a significant hidden treasure.",
+      "tags": [
+        "discovery",
+        "treasure",
+        "europe"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c9a5488c21519eb7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "6f1213c5ed86e754",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+      "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+      "summary": "A preliminary report by US investigators indicates that an engine fan blade broke on a Ryanair flight, causing engine parts to smash a window. This incident led to a passenger's head being sucked out during the flight from Greece to Germany.",
+      "tags": [
+        "aviation",
+        "accident",
+        "investigation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a6d011d930e84192",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Four Canadian hockey stars remain suspended after sexual assault acquittal",
+      "url": "https://www.bbc.co.uk/news/articles/cj9dpdmr77do?at_medium=RSS&at_campaign=rss",
+      "summary": "Four Canadian hockey stars remain suspended despite being acquitted of sexual assault charges, while a fifth has been reinstated. An appeals board concluded that the entire group violated Hockey Canada's code of conduct.",
+      "tags": [
+        "sports",
+        "canada",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "da3e117a4e6bb537",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Indian solar mission's new findings throw light on enduring Sun mysteries",
+      "url": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss",
+      "summary": "India's solar mission has yielded new findings that provide insights into long-standing mysteries about the Sun, such as why its corona is millions of degrees hotter than its surface. The discoveries aim to explain the Sun's inexplicably high temperature.",
+      "tags": [
+        "space",
+        "science",
+        "astronomy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0a4f949f20bd1a86",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
+      "url": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
+      "summary": "A BBC podcast uncovered Instagram profiles that are allegedly glamourising the swim across the Morocco-Ceuta border and offering paid advice for crossing. These accounts are contributing to the Ceuta crisis by encouraging dangerous migration attempts.",
+      "tags": [
+        "instagram",
+        "migration",
+        "border crisis"
+      ],
+      "priority": false
+    },
+    {
+      "id": "28d806f0065972a4",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The mayor of Qusra reports that Israeli troops are ordering Palestinian families to evacuate their homes, with some houses being used as barracks, after Israeli settlers besieged the village. This action follows heightened tensions in the area.",
+      "tags": [
+        "israel",
+        "palestine",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a6570012f85b21ab",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Person fined after using foghorn to wake sleeping polar bear",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
+      "summary": "An individual was fined for using a foghorn to wake a sleeping polar bear, violating local regulations against needlessly disturbing or attracting polar bears. The incident occurred in a region where such actions are prohibited.",
+      "tags": [
+        "wildlife",
+        "environment",
+        "law"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ca92a5b9505620de",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Presidential vote counting halted in Zambia over alleged attacks on polling staff",
+      "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Vote counting for the presidential election in Zambia has been suspended due to alleged attacks on polling staff, which resulted in the theft of marked ballot papers. The electoral commission cited violence as the reason for the halt.",
+      "tags": [
+        "election",
+        "zambia",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "539b806a496f85b1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+      "summary": "Romania has shut down its sole nuclear power plant, Cernavodă, which generates 20% of the country's electricity, due to a significant drop in the Danube River level caused by heat. The plant is expected to remain offline for at least 10 days.",
+      "tags": [
+        "energy",
+        "climate change",
+        "romania"
+      ],
+      "priority": false
+    },
+    {
+      "id": "063d02c49f9a2f0f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Stolen Matisse artworks recovered by police in Brazil",
+      "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Police in Brazil recovered eight stolen artworks by French artist Henri Matisse at a home in greater São Paulo, leading to an arrest. The recovery highlights international efforts to combat art theft.",
+      "tags": [
+        "art",
+        "crime",
+        "brazil"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ff95a4eb0a73cf15",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Teens who fled Venezuela after deadly quakes caught in another disaster in Colombia",
+      "url": "https://www.bbc.co.uk/news/articles/c9v42m3430vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two brothers who fled Venezuela after an earthquake killed their mother have now been caught in another deadly disaster in Colombia. Their story highlights the ongoing challenges faced by those displaced by natural catastrophes.",
+      "tags": [
+        "disaster",
+        "migration",
+        "venezuela"
+      ],
+      "priority": false
+    },
+    {
+      "id": "db7030348242cb43",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US missionary released following kidnap in Niger, Christian group says",
+      "url": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Kevin Rideout, a US missionary kidnapped last October outside his home in Niger's capital, has been released and is now with US officials. A Christian group confirmed his release.",
+      "tags": [
+        "international relations",
+        "kidnapping",
+        "niger"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3889d85ca9faba6f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US says dozens of countries helped China dodge Trump's tariffs",
+      "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+      "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "559b36e978d9e2da",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Who could replace White House Press Secretary Karoline Leavitt?",
+      "url": "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The role of White House Press Secretary requires managing a complex relationship with the media and meeting high expectations from figures like Trump. The article speculates on potential replacements for Karoline Leavitt in this demanding position.",
+      "tags": [
+        "politics",
+        "white house",
+        "media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "232004cbe3354507",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "summary": "Article URL:\nhttps://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai\nComments URL:\nhttps://news.ycombinator.com/item?id=49289844\nPoints: 665\n# Comments: 262",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "56c48b06e616ec64",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Bluesky Protocol Services",
+      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+      "summary": "This announcement details the introduction of Bluesky Protocol Services, indicating developments in the underlying technology for the decentralized social networking platform. It points to efforts in building out the protocol's infrastructure.",
+      "tags": [
+        "social media",
+        "bluesky",
+        "protocol"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f87a22ffa3b96d03",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Choose Boring Technology (2015)",
+      "url": "https://mcfunley.com/choose-boring-technology",
+      "summary": "This article from 2015 advocates for the adoption of \"boring technology,\" promoting stability and proven solutions over trendy or experimental approaches. It suggests a philosophy for technology choices focused on reliability and maintainability.",
+      "tags": [
+        "technology",
+        "software engineering",
+        "best practices"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5c69775ce7d7ef29",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "DeepSeek Harness developer preview",
+      "url": "https://deepseek.com/harness/en/",
+      "summary": "This entry announces the developer preview of DeepSeek Harness, a tool or platform aimed at providing a framework for AI development. It signals an effort to support more efficient and capable AI model deployment.",
+      "tags": [
+        "ai",
+        "deepseek",
+        "development tools"
+      ],
+      "priority": false
+    },
+    {
+      "id": "22af152d5fb2e012",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
+      "url": "https://donkeybas.com/",
+      "summary": "The article celebrates Donkey.bas, an early computer game written in just 131 lines of code, marking its 45th anniversary. It highlights the historical significance and elegance of this foundational piece of software.",
+      "tags": [
+        "programming",
+        "history",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "12f8bc8ae851de26",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Gemini 3.7 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "summary": "https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flas...\nComments URL:\nhttps://news.ycombinator.com/item?id=49289112\nPoints: 914\n# Comments: 462",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "e84a489fc75cd587",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+      "url": "https://z.ai/blog/glm-5.3",
+      "summary": "The article introduces GLM-5.3, an AI model that showcases advanced coding abilities and emergent cyber capabilities. It highlights advancements in AI's capacity for complex technical tasks.",
+      "tags": [
+        "ai",
+        "coding",
+        "glm"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2f5dc5be0a5b2d38",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Hello, me. It's been a while",
+      "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
+      "summary": "This article appears to be a personal reflection or update, possibly after a period of absence. The title suggests a focus on self-reflection or a return to blogging/activity.",
+      "tags": [
+        "personal",
+        "reflection",
+        "blog"
+      ],
+      "priority": false
+    },
+    {
+      "id": "88fd38434f835c26",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "How Compaction Works in Pi",
+      "url": "https://earendil.com/posts/compaction-in-pi/",
+      "summary": "The article explains the mechanism of \"compaction\" within the Pi system, detailing how data or processes are organized and optimized. This suggests a technical deep dive into system architecture or data management.",
+      "tags": [
+        "technical",
+        "system design",
+        "data management"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ffe8574b24cdfcda",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Mistral OCR 4.1",
+      "url": "https://docs.mistral.ai/models/ocr-4-1",
+      "summary": "This announcement introduces Mistral OCR 4.1, indicating an update to Mistral AI's optical character recognition model. It implies improved capabilities in text extraction from images.",
+      "tags": [
+        "ai",
+        "ocr",
+        "mistral"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ce98126ec0a8db24",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
+      "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
+      "summary": "Nine PBS is suing Iron Mountain, alleging blocked access to its archival data, a critical issue for preserving and retrieving historical media. The lawsuit highlights challenges in digital archiving and data accessibility.",
+      "tags": [
+        "legal",
+        "data",
+        "archives"
+      ],
+      "priority": false
+    },
+    {
+      "id": "73bf737db962f703",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Spaghettifying DRAM",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "summary": "The article describes \"spaghettifying DRAM,\" likely referring to a technical vulnerability or an experimental manipulation of dynamic random-access memory. It suggests a low-level exploration of hardware security or performance.",
+      "tags": [
+        "hardware",
+        "security",
+        "memory"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8fa5d1657026dfd4",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Understanding is the new bottleneck",
+      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+      "summary": "The article posits that \"understanding\" has become the primary bottleneck in various processes, suggesting a shift in challenges related to complex information processing and comprehension. It implies that generating or accessing information is less of an issue than truly making sense of it.",
+      "tags": [
+        "knowledge",
+        "data",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c1adaea47ebf2bc2",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Why does Opus 5 feel worse to work with?",
+      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+      "summary": "This article discusses user perceptions that Anthropic's Claude Opus 5 model feels less effective or intuitive in practice, despite its advertised capabilities. The linked comments suggest a broader user discussion around its performance.",
+      "tags": [
+        "ai",
+        "anthropic",
+        "user experience"
+      ],
+      "priority": false
+    },
+    {
+      "id": "634327095a7c6b38",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
+      "url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+      "summary": "This article explores the concept of a \"censorship-industrial complex\"—the idea that government, tech, and research groups collaborate to suppress conservative online speech. It examines how this fringe idea has influenced US policy and its implications for democracy and the internet.",
+      "tags": [
+        "censorship",
+        "policy",
+        "free speech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "988c6edd46629e1f",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "2 workers share how helping kids at a community center has changed their lives",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5927231/2-workers-share-how-helping-kids-at-a-community-center-has-changed-their-lives",
+      "summary": "Two workers from a Louisiana community center share personal accounts of how their involvement in helping children has significantly enriched their own lives. The narrative focuses on the positive impact of community service.",
+      "tags": [
+        "community",
+        "social work",
+        "personal story"
+      ],
+      "priority": false
+    },
+    {
+      "id": "aebd611a0d381a4f",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "At Big Bend National Park, bulldozers begin clearing pristine desert land for border barrier work",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5927276/big-bend-border-texas-rio-grande",
+      "summary": "Bulldozers have begun clearing pristine desert land in Big Bend National Park for border barrier construction, sparking opposition from a coalition of landowners, enthusiasts, and business owners. Critics argue the work would permanently alter the park, often called \"Texas' gift to the nation.\"",
+      "tags": [
+        "environment",
+        "border",
+        "usa"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e3abbdd68dd47915",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Feds probe 'mention markets.' And, lawmakers call for investigation into USS Lincoln",
+      "url": "https://www.npr.org/2026/08/14/g-s1-138735/up-first-newsletter-mention-markets-kalshi-pentagon-uss-lincoln-ukraine-russia-crimea-kennedy-center",
+      "summary": "Federal regulators are reviewing 'mention markets' that allow wagers on what public figures will say. And, Democratic lawmakers call for an investigation into conditions on the long-deployed USS Lincoln.\n(Image credit: Martin Lelievre)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "2e686d50cf807c91",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Fill in the blank on this week's quiz: Rep. AOC is documenting ____ on Instagram",
+      "url": "https://www.npr.org/2026/08/14/g-s1-138426/trump-aoc-primaries-comedy-kalshi-pope-news-quiz",
+      "summary": "This item is a news quiz question asking about what Rep. AOC is documenting on Instagram, alongside other current events. It is a prompt for audience engagement rather than a news summary.",
+      "tags": [
+        "quiz",
+        "aoc",
+        "instagram"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6a279199e989beae",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "From Europe to Asia, floods to heatwaves, world experiences weather shocks",
+      "url": "https://www.npr.org/2026/08/14/g-s1-138727/europe-asia-floods-heatwaves-world-weather",
+      "summary": "At least eight people died in Japan as heavy rains flooded roads and disrupted traffic while firefighters from Britain to France and Croatia struggled to contain blazes in Europe's fifth heatwave this summer\n(Image credit: PHILIP FONG)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "d21e7af5f4a52976",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "ICE uses controversial program to boost deportations. Here's how it works in 1 county",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5911838/ice-immigration-enforcement-local-police",
+      "summary": "NPR investigated how ICE cooperation agreements operate in Walton County, Florida, where sheriff's deputies conduct immigration-related arrests. The article details a controversial program used by ICE to increase deportations, with specific examples of its local implementation.",
+      "tags": [
+        "immigration",
+        "ice",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "908b1fbb40233f37",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Judge dismisses Trump administration lawsuit alleging antisemitism at Harvard University",
+      "url": "https://www.npr.org/2026/08/14/g-s1-138721/trump-antisemitism-harvard",
+      "summary": "A US District Judge dismissed a Trump administration lawsuit that alleged antisemitism at Harvard University, ruling that the administration failed to prove an ongoing violation of federal civil rights laws. The decision concludes a case brought by the previous presidential administration.",
+      "tags": [
+        "legal",
+        "education",
+        "antisemitism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "de36253651d94cc8",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5927062/morning-news-brief",
+      "summary": "Lawmakers and families raise concerns about conditions aboard USS Lincoln, as the U.S.-Iran war drags on, Iranians seek a break from the conflict, Russian-held Crimea faces Ukrainian drone campaign.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "8d68f6373936a358",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Bernie Sanders has a response for progressives upset over Hong’s loss in Wisconsin",
+      "url": "https://www.politico.com/news/2026/08/13/bernie-sanders-wisconsin-progressives-hong-01037121",
+      "summary": "Senator Bernie Sanders addressed criticism from progressives upset about Francesca Hong's loss in Wisconsin's gubernatorial primary, stating he has limited resources and cannot endorse every candidate. He defended his record by highlighting other progressive wins in the same primary season.",
+      "tags": [
+        "politics",
+        "bernie sanders",
+        "progressives"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1b95a7ae5325a6e4",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Crowley zeroes in on ‘MAGA extremism’ to rebuild a fractured Wisconsin coalition",
+      "url": "https://www.politico.com/news/2026/08/13/david-crowley-wisconsin-governor-election-strategy-01036209",
+      "summary": "David Crowley, the Milwaukee County executive, plans to unite Wisconsin Democrats and appeal to independents by framing the gubernatorial race as a defense against \"MAGA extremism\" and GOP Rep. Tom Tiffany. He aims to secure a governing trifecta for Democrats in the battleground state, focusing on the cost of living and the Iran war.",
+      "tags": [
+        "politics",
+        "elections",
+        "wisconsin"
+      ],
+      "priority": false
+    },
+    {
+      "id": "40bd793a8962f763",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Platner announced as speaker for activist-led event in Maine",
+      "url": "https://www.politico.com/news/2026/08/13/graham-platner-maine-event-speaker-01036207",
+      "summary": "Former Maine Senate candidate Graham Platner, who withdrew from his race last month due to sexual assault allegations, is slated to speak at a Labor Day event in Ellsworth, Maine. The event, organized by activist groups, has prompted questions regarding the local Democratic Party's unofficial association after its social media posts about it were deleted.",
+      "tags": [
+        "politics",
+        "maine",
+        "activism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5f8e2295712dc7b6",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "Why Aging May Be a Program, Not a Breakdown",
+      "url": "https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/",
+      "summary": "The article explores the debate surrounding the biology of aging, presenting the theory that aging might be a programmed process rather than merely an inevitable degradation of molecules and organelles. This alternative perspective challenges the traditional view of aging as simple decay.",
+      "tags": [
+        "biology",
+        "aging",
+        "science"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6545de303f03228e",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "llm-gemini 0.33",
+      "url": "https://simonwillison.net/2026/Aug/13/llm-gemini/",
+      "summary": "Release:\nllm-gemini 0.33\nIt's been a while since the last\nllm-gemini\nrelease. This version of the plugin adds support for today's\nGemini 3.7 Flash\nrelease, plus\ngemini-3.6-flash\n,\ngemini-3.5-flash-lite\nand two embedding models\ngemini-embedding-2\nand\ngemini-embedding-001\n.\nThe plu…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "de1e1fa8b156b9a0",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "sqlite-utils 4.2",
+      "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils/",
+      "summary": "SQLite-utils 4.2 introduced significant improvements to its `table.transform()` feature, enhancing support for complex alter table operations and preserving more schema definitions. The update also added new introspection properties and included contributions from multiple developers, though it contained a crashing bug later fixed in version 4.2.1.",
+      "tags": [
+        "sqlite",
+        "software update",
+        "database tools"
+      ],
+      "priority": false
+    },
+    {
+      "id": "70eb52762228e845",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "sqlite-utils 4.2.1",
+      "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/",
+      "summary": "SQLite-utils version 4.2.1 was released to fix a critical crashing bug present in the prior 4.2 version, which was caused by a missing `typing-extensions` dependency. The fix included adding a smoke test to ensure CLI functionality even without dev dependencies.",
+      "tags": [
+        "sqlite",
+        "software update",
+        "bug fix"
+      ],
+      "priority": false
+    },
+    {
+      "id": "564e730a71c3a82f",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "History often hinges on boring technical questions",
+      "url": "https://www.slowboring.com/p/history-often-hinges-on-boring-technical",
+      "summary": "The article argues that historical outcomes often depend on seemingly mundane technical decisions, such as monetary policy choices during the Grant administration. It explores how a different economic decision could have altered major political events like the 1876 presidential election and the trajectory of Reconstruction.",
+      "tags": [
+        "history",
+        "economics",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6751c84829976bce",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "summary": "Anthropic researchers observed AI agents clashing, colluding, and coordinating in unexpected ways when assigned the same task, initiating a \"turf war.\" This behavior raises new questions regarding whether current safety tests adequately assess the risks of multi-agent AI systems.",
+      "tags": [
+        "ai research",
+        "ai safety",
+        "multi-agent systems"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cb41fe5bd92f33e5",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "summary": "Databricks successfully raised $5 billion in funding at a $190 billion valuation, despite initially seeking $1 billion, as investors showed strong demand. CEO Ali Ghodsi attributed this to the high costs associated with AI development, leading to a larger investment round than planned.",
+      "tags": [
+        "fundraising",
+        "startups",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a7d1f6d893f488c8",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
+      "url": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
+      "summary": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool works in detail, raising questions about its effectiveness.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "0f06966a8a86da75",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Ford on track to complete $2B factory overhaul for Fathom EV truck",
+      "url": "https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/",
+      "summary": "Ford is nearing completion of a $2 billion factory overhaul, anticipating the start of prototype builds for its Fathom EV truck in the first quarter of 2027. This investment underscores the company's commitment to expanding its electric vehicle lineup.",
+      "tags": [
+        "ford",
+        "electric vehicles",
+        "manufacturing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "077780684826d7c7",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "summary": "Natural gas prices are predicted to triple in certain parts of the U.S., potentially leading to massive power bills for hyperscalers operating AI data centers. This forecast suggests that companies relying on natural gas for energy may face significant cost challenges.",
+      "tags": [
+        "energy",
+        "ai",
+        "data centers"
+      ],
+      "priority": false
+    },
+    {
+      "id": "df88fce5d6980ea5",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "summary": "IBM is partnering with OpenAI to enhance its enterprise AI initiatives, with plans to train and certify tens of thousands of consultants on OpenAI's technologies. This collaboration aims to accelerate the adoption of advanced AI solutions within businesses.",
+      "tags": [
+        "ibm",
+        "openai",
+        "enterprise ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43d8a58320657194",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
+      "url": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
+      "summary": "Apple now sends push notifications to iPhone lock screens to alert users when the company detects government spyware targeting their devices. Users are advised to take these alerts seriously as they indicate sophisticated surveillance threats.",
+      "tags": [
+        "apple",
+        "security",
+        "spyware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8fda3825434e779a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Instagram introduces a redesigned wordmark",
+      "url": "https://techcrunch.com/2026/08/13/instagram-introduces-a-redesigned-wordmark/",
+      "summary": "The social media giant says it was time for a sharper and more modern look after a decade.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "dcb8b3baed64222f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "3ffedd0e30248465",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+      "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+      "summary": "Nvidia has devised a $500 billion plan to preserve the value of its GPUs and encourage further lending for AI infrastructure development. The strategy aims to ensure that even aging GPUs retain their worth, supporting continued investment in AI buildouts.",
+      "tags": [
+        "nvidia",
+        "gpus",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e36fc31045d44237",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenAI hires new CRO as executive shake-up continues",
+      "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "summary": "OpenAI has appointed Dali Rajic, former Wiz president and COO, as its new chief revenue officer, replacing Denise Dresser after nine months. This hiring is part of an ongoing executive shake-up at the frontier AI lab.",
+      "tags": [
+        "openai",
+        "leadership",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "98f2477a699969de",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f7dcb68a68677ebc",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
+      "url": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
+      "summary": "Uber and Pony.ai are expanding their partnership to deploy 2,000 robotaxis across Europe, building on their initial market launch in Zagreb, Croatia. This initiative aims to bring autonomous ride-hailing services to four additional European cities.",
+      "tags": [
+        "autonomous vehicles",
+        "robotaxis",
+        "uber"
+      ],
+      "priority": false
+    },
+    {
+      "id": "25461920ea3ab30d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "US courts will start publishing how often the government uses spyware",
+      "url": "https://techcrunch.com/2026/08/14/us-courts-will-start-publishing-how-often-the-government-uses-spyware/",
+      "summary": "The Administrative Office of the U.S. Courts announced it will begin disclosing the frequency with which judges authorize the use of spyware for wiretapping suspected criminals. This move aims to increase transparency regarding government surveillance practices.",
+      "tags": [
+        "surveillance",
+        "privacy",
+        "government"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a926626b4e7cd73c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Who really needs a cocktail robot?",
+      "url": "https://techcrunch.com/2026/08/13/bartesian-duet-cocktail-maker-review/",
+      "summary": "Bartesian's cocktail makers are described as similar to Keurig or Nespresso machines, but designed for alcoholic beverages. The article questions the necessity of such a cocktail robot.",
+      "tags": [
+        "gadgets",
+        "home appliances",
+        "review"
+      ],
+      "priority": false
+    },
+    {
+      "id": "179281b69d018994",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "0e4a96a489011593",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
+      "url": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
+      "summary": "X (formerly Twitter) is open-sourcing its \"For You\" feed ranking algorithm and introducing new transparency tools, allowing users to see if its systems have impacted their accounts or posts. This initiative aims to provide greater insight into how content is prioritized and distributed on the platform.",
+      "tags": [
+        "social media",
+        "x",
+        "algorithms"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5aa7e09f23e626a0",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "AOC’s Egg Freeze and Why You’re Not Having a Baby",
+      "url": "https://www.thefp.com/p/aoc-egg-freeze-babies-fertility-love",
+      "summary": "Representative Alexandria Ocasio-Cortez shared her egg-freezing journey on Instagram, aiming to normalize depictions of women pursuing full lives. The article uses this as a springboard to discuss broader societal factors influencing fertility and family planning.",
+      "tags": [
+        "aoc",
+        "fertility",
+        "social issues"
+      ],
+      "priority": false
+    },
+    {
+      "id": "13b175e58f65d0a6",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "It’s Your Right to Get a Face Tattoo",
+      "url": "https://www.thefp.com/p/its-your-right-to-get-a-face-tattoo",
+      "summary": "A lawsuit is challenging South Carolina's strict tattoo laws, which prohibit tattoos above the neck and impose location restrictions on parlors. Tattoo artist Tyler Hall, who has multiple face tattoos obtained out-of-state, believes the laws infringe on individual expression and economic opportunity.",
+      "tags": [
+        "legal",
+        "civil rights",
+        "tattoos"
+      ],
+      "priority": false
+    },
+    {
+      "id": "17448a3d73f8aead",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Tanks vs. Drones",
+      "url": "https://www.thefp.com/p/tanks-drones-armored-vehicles-army-commanders-school-of-war-aaron-maclean",
+      "summary": "This piece debates whether tanks are becoming obsolete on modern battlefields due to the rise of drones and precision strikes. It presents the opposing view, arguing for the continued relevance of armored vehicles based on military experience.",
+      "tags": [
+        "military",
+        "warfare",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6c99038cddd90a7b",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Apple and Epic argue over how much Apple should get from purchases made outside the App Store",
+      "url": "https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing",
+      "summary": "In its ongoing legal battle with Epic Games, Apple has proposed a fee structure for digital purchases made via external links, a request Epic deems \"far outside of the bounds\" of court guidance. This follows a ruling that prevented Apple from taking commission on such external purchases.",
+      "tags": [
+        "apple",
+        "epic games",
+        "app store"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3d77adf25867c1fd",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Apple trained its own AI model for China with help from Alibaba",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "summary": "Apple has reportedly partnered with Alibaba to train a custom AI model specifically for the Chinese market. This collaboration signifies a shift from Apple's previous strategy of using domestic Chinese AI providers and gives them more control over their products in the competitive region.",
+      "tags": [
+        "apple",
+        "ai",
+        "china"
+      ],
+      "priority": false
+    },
+    {
+      "id": "31aa1eb1363b32d6",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "CMF hit the balance between cheap and good clip earbuds",
+      "url": "https://www.theverge.com/tech/979928/cmf-clip-pro-review",
+      "summary": "CMF's Clip Pro earbuds, priced under $100, are a budget-friendly option that balances the inherent compromises of clip-style earbuds well. They offer comfort for users who dislike in-ear devices, though sound response and potential sound leakage remain design challenges for the form factor.",
+      "tags": [
+        "audio",
+        "earbuds",
+        "review"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6865a4204e8d7a2e",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Hoto’s new cordless soldering iron heats up in three seconds",
+      "url": "https://www.theverge.com/tech/979576/hoto-i-a06-cordless-soldering-iron-snapbloq-rechargeable",
+      "summary": "Hoto has released its I-A06 Cordless Soldering Iron, part of its modular Snapbloq collection, which heats to over 200 degrees Celsius in about three seconds. The tool offers an adjustable temperature range of 100 to 450 degrees with customizable presets, available for $99.99 for the full kit.",
+      "tags": [
+        "tools",
+        "hardware",
+        "electronics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7814799d1a9bfbb7",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+      "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+      "summary": "Mico is headed to Learn Live. | Image: Microsoft\nMicrosoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a\nsupport page\n, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "6e38a9f93c659baa",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The fight over Flock and other ALPRs",
+      "url": "https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy",
+      "summary": "There are\nover 120,000\nof Flock’s automatic license plate reader (ALPR) cameras installed all over the US. Flock’s cameras, and others like them, use AI to identify and track vehicles based on their license plate number, make, model, color, and other info, networked together to t…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "b59f2b3c7b49e161",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
+      "url": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts",
+      "summary": "The United States has already\nbanned future foreign drones\nfrom entering the United States unless their companies kiss the ring - as well as\nrouters\n,\nrobots\n,\nand Roombas\n. Now, President Donald Trump is targeting existing drone imports and parts, too. He's going to try to make…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "335d4625ea543715",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
+      "url": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
+      "summary": "A San Francisco judge has ordered Google to simplify the installation process for rival app stores on Android, nearly three years after a jury found Google had an illegal monopoly. This ruling aims to crack open Android app distribution, requiring Google to carry competing stores within Google Play and provide them full access.",
+      "tags": [
+        "google",
+        "app store",
+        "antitrust"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 114,
+    "summarized": 86,
+    "skipped_promos": 2,
+    "filtered_by_rules": 26,
+    "sources": 14,
+    "email_items_omitted": 0
+  }
+}
