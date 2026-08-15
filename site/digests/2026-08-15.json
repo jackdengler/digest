@@ -1,0 +1,813 @@
+{
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T14:15:06+00:00",
+  "hot_topics": [
+    {
+      "topic": "X-Files Film Gets R-Rated Director's Cut",
+      "synthesis": "The X-Files' 2008 standalone film, 'I Want to Believe,' has received an R-rated director's cut released by Hulu, restoring creator Chris Carter's original, darker vision. This release follows Carter's previous struggles with 20th Century Fox executives, who pushed for a PG-13 rating. The new version offers fans a more horrific take on the story, aligning with Carter's initial intentions for the sequel.",
+      "item_ids": [
+        "5d9535f640bdf193",
+        "39e5627cdd6184af"
+      ]
+    },
+    {
+      "topic": "Google Offers Option to Remove Visible AI Watermarks",
+      "synthesis": "Google is now allowing users to remove visible 'sparkle' watermarks from AI-generated images, videos, and music created using tools like Gemini and Flow. While the visible marks can be toggled off, the company will continue to embed invisible SynthID watermarks and C2PA metadata in the background. This move provides users with more control over the aesthetics of their AI-generated content while maintaining identification measures.",
+      "item_ids": [
+        "228cf81c0450c281",
+        "21d5919bdad578b1"
+      ]
+    },
+    {
+      "topic": "Powerful Earthquake Strikes Indonesia",
+      "synthesis": "A powerful magnitude 7.7 earthquake has struck off the coast of Indonesia, causing significant damage and loss of life. Reports indicate dozens of fatalities and collapsed buildings, with search and rescue operations underway in affected areas like Flores. The region is known for its seismic activity, and the quake has caused widespread panic among residents.",
+      "item_ids": [
+        "f7fd002a71831997",
+        "2258f2695bdf42f1"
+      ]
+    },
+    {
+      "topic": "Mark Zuckerberg's Stance on Open AI and Meta's Strategy",
+      "synthesis": "Mark Zuckerberg recently published a comprehensive letter advocating for AI to be 'for everyone,' coinciding with Meta's release of Glimmer, an open-weight AI model. This strategy, offering accessible AI alongside more powerful, API-locked models like Muse Spark, highlights Meta's approach to AI development and its contrast with other industry players. Discussions surrounding this have also touched on Instagram's recent redesign.",
+      "item_ids": [
+        "2d14de96ae4d768b",
+        "302efc26eefc3c28"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "cf3ca8a7fd6a1310",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Judge gives Google one week to fix \"anticompetitive\" app store download in Google Play",
+      "url": "https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/",
+      "summary": "A judge has ordered Google to improve its implementation of third-party app store downloads in the Play Store, citing \"anticompetitive friction.\" This action follows Google's 2023 antitrust case loss, which mandated easier access to non-Google app sources.",
+      "tags": [
+        "antitrust",
+        "app store",
+        "google"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7e02cf3f6872ed8f",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+      "url": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+      "summary": "Nine PBS is suing Iron Mountain Data Centers to recover 50TB of irreplaceable historical data after its cloud storage provider became unresponsive. The data was stored in an Iron Mountain facility, which has refused to release it to the PBS affiliate.",
+      "tags": [
+        "data loss",
+        "cloud storage",
+        "legal dispute"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5d9535f640bdf193",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "R-rated director's cut of X-Files film restores Chris Carter's original horror vision",
+      "url": "https://arstechnica.com/culture/2026/08/r-rated-directors-cut-of-x-files-film-restores-chris-carters-original-horror-vision/",
+      "summary": "Hulu released an R-rated director's cut of \"The X-Files: I Want to Believe,\" restoring creator Chris Carter's original, darker vision for the 2008 film. This release precedes Ryan Coogler's new X-Files reboot currently in production for the streaming service.",
+      "tags": [
+        "entertainment",
+        "film",
+        "x-files"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8da58588b45e3ecd",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "So much solar: Digging into the list of every US power plant that went online this year",
+      "url": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
+      "summary": "The US power sector saw 368 new utility-scale plants go online in the first half of the year, primarily solar, with New Mexico's SunZia Wind farms becoming the country's largest. Onshore wind development in the US has recently dwindled due to regulatory and public opinion factors.",
+      "tags": [
+        "energy",
+        "renewables",
+        "wind power"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ed5fe292a19d8673",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
+      "url": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss",
+      "summary": "During a court hearing, Mangione for the first time detailed how he committed a crime that had previously attracted widespread global attention.",
+      "tags": [
+        "crime",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3161256b9f55d2e7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+      "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+      "summary": "Activists attempted to deliver essential aid to Palestinian families who have been besieged in their West Bank homes by Israeli settlers for several days.",
+      "tags": [
+        "palestine",
+        "israel",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3ff77d7c9f42a46a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+      "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC is seeking to subpoena members of Donald Trump's family in a Panorama lawsuit, asserting they possess personal knowledge of his intentions regarding the January 6, 2021 Capitol speech.",
+      "tags": [
+        "legal",
+        "politics",
+        "donald trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0963535f2784c30a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Builders unearth €9m gold stash sealed in walls of Belgian property",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Construction workers discovered a €9 million gold stash hidden within the walls of a Belgian property's cellar during the installation of sewage pipes.",
+      "tags": [
+        "discovery",
+        "treasure",
+        "belgium"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4d5c33a1f5c5d06c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Dozens injured and thousands evacuated in Croatia wildfire",
+      "url": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
+      "summary": "A major wildfire near Omis, Croatia, has caused dozens of injuries and necessitated the evacuation of thousands of people, making it one of the country's most severe blazes ever.",
+      "tags": [
+        "croatia",
+        "wildfire",
+        "natural disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9bd1796026bcdc6a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Israeli strikes on southern Lebanon killed eleven people, with Israel's military stating it targeted \"Hezbollah terror infrastructure\" in retaliation for an earlier attack on its soldiers.",
+      "tags": [
+        "israel",
+        "lebanon",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "531bf867a4b66096",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
+      "url": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
+      "summary": "A father and his two young sons were rescued off the coast of Thailand after being stranded at sea for 16 hours when their jet ski capsized.",
+      "tags": [
+        "thailand",
+        "rescue",
+        "accident"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5eddeeaed03a01d1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "France's top court blocks social media ban for under-15s",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
+      "summary": "France's Constitutional Council blocked a proposed social media ban for children under 15, deeming it an infringement on freedom of expression. President Macron, however, has vowed to prepare a new draft of the legislation.",
+      "tags": [
+        "france",
+        "social media",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d3748c2dadc519aa",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "I wish I had been a more rebellious teenager, says Bella Ramsey",
+      "url": "https://www.bbc.co.uk/news/articles/c87nwq9qe24o?at_medium=RSS&at_campaign=rss",
+      "summary": "Actress Bella Ramsey shared her desire to have been a more rebellious teenager while discussing her new film, which centers on a cancer survivor discovering friendship, love, and freedom.",
+      "tags": [
+        "film",
+        "celebrities",
+        "mental health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5f1e23b094a7b931",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Many Canadians are boycotting the US, so this is where they're travelling instead",
+      "url": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
+      "summary": "Numerous Canadians are opting to boycott travel to the US, instead visiting other locations to convey a message to the American president.",
+      "tags": [
+        "canada",
+        "us",
+        "travel"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e8da5d783b588f29",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Moment family rescued after 16 hours floating on jet ski off Thailand",
+      "url": "https://www.bbc.co.uk/news/videos/cj4kg74ndggo?at_medium=RSS&at_campaign=rss",
+      "summary": "This video captures the moment a 50-year-old father and his two sons were rescued off Koh Samui island, Thailand, after their jet ski capsized and left them floating for 16 hours.",
+      "tags": [
+        "thailand",
+        "rescue",
+        "accident"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7b2290542b117161",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Moment €9m worth of art stolen from Italy museum",
+      "url": "https://www.bbc.co.uk/news/videos/cddjlrzd26eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Police released CCTV footage showing the theft of €9 million worth of art from an Italian museum in March, which has since been successfully recovered.",
+      "tags": [
+        "crime",
+        "art",
+        "italy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f7fd002a71831997",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
+      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+      "summary": "A powerful magnitude 7.7 earthquake off Indonesia's coast has killed at least 47 people, prompting search and rescue operations on Flores island.",
+      "tags": [
+        "earthquake",
+        "indonesia",
+        "natural disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a487aecb2ce6eccb",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "South Korea proposes talks to officially end war with North",
+      "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+      "summary": "South Korea's Lee Jae Myung has proposed talks to officially end the Korean War, which has remained in a state of armistice since 1953.",
+      "tags": [
+        "south korea",
+        "north korea",
+        "diplomacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4a34e74911a174e6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "The Polygamist's creator says women see themselves reflected in her Netflix hit",
+      "url": "https://www.bbc.co.uk/news/articles/cd0xk82mrpyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Zimbabwean novelist Sue Nyathi, author of the Netflix hit \"The Polygamist,\" explores how her work resonates with women and addresses the financial barriers writers face.",
+      "tags": [
+        "books",
+        "netflix",
+        "zimbabwe"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bd3d2d3d7711abaf",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
+      "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+      "summary": "A US aircraft carrier is deploying to relieve the USS Lincoln following reports of severe issues like food shortages and broken plumbing affecting its sailors. These conditions have reportedly led some crew members to consider drastic actions.",
+      "tags": [
+        "military",
+        "us navy",
+        "logistics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "89aafbb671ab12cf",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why is Selena Gomez being sued?",
+      "url": "https://www.bbc.co.uk/news/videos/cly58dnde5yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Investors behind Wondermind Global are suing pop star Selena Gomez, alleging she did not honor promises made, a case being investigated by BBC journalist Ana Guerra-Moore.",
+      "tags": [
+        "legal",
+        "celebrities",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1ee62a56c6bfe823",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Zambia vote counting resumes after pause over alleged attacks on polling staff",
+      "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Vote counting in Zambia has resumed following a temporary halt caused by alleged attacks on polling staff and the reported theft of marked ballot papers.",
+      "tags": [
+        "zambia",
+        "elections",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e4a0e271ec221b77",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "5 exercises that can prevent (and relieve!) pregnancy pain",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5930423/strength-exercises-to-relieve-prevent-pregnancy-pain",
+      "summary": "Five specific exercises are recommended to help prevent and alleviate common physical discomforts during pregnancy, including issues like hemorrhoids, leg cramps, and sciatica.",
+      "tags": [
+        "health",
+        "pregnancy",
+        "exercise"
+      ],
+      "priority": false
+    },
+    {
+      "id": "40efcf49c3022eeb",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "As speed cameras spread to more states, so does the backlash from drivers",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5927506/speed-cameras-ticket-backlash",
+      "summary": "As speed cameras become more widespread across US states, they are encountering resistance from drivers, despite advocates arguing that the cameras demonstrably improve road safety.",
+      "tags": [
+        "traffic",
+        "policy",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "eb3ba19ff6023dd2",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "How Americans deceive ourselves about slavery",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5928227/how-americans-deceive-ourselves-about-slavery",
+      "summary": "Clint Smith's books, including \"How the Word Is Passed,\" examine how Americans perceive and teach slavery, and include poems about his ancestors' struggles and escape.",
+      "tags": [
+        "history",
+        "slavery",
+        "us"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1a6f4bddf8eb3b09",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5928322/ice-detained-a-venezuelan-soccer-pro-his-case-shows-the-immigration-backlog-crisis",
+      "summary": "The detention of Venezuelan soccer player Homero Calderón by ICE underscores the extensive backlog and inefficiencies within the U.S. immigration system.",
+      "tags": [
+        "immigration",
+        "us",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2258f2695bdf42f1",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
+      "summary": "A powerful magnitude 7.7 earthquake struck off the coast of Indonesia early Saturday, killing at least 38 people, collapsing buildings as well as causing panic in a region prone to deadly quakes.\n(Image credit: BASARNAS via AP)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "e117c1341e01e375",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "The Taliban has taken a terrible toll on the education of girls -- and boys as well",
+      "url": "https://www.npr.org/2026/08/14/g-s1-138584/taliban-afghanistan-boys-girls-education-school",
+      "summary": "The five-year rule of the Taliban in Afghanistan has profoundly damaged the educational prospects for both girls and boys across the country.",
+      "tags": [
+        "afghanistan",
+        "taliban",
+        "education"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ffd2e94fb6bd5e7c",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "They fought for the U.S. in Afghanistan. Now they worry about losing their green cards",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5897606/afghanistan-visa-green-card-deport",
+      "summary": "Thousands of Afghans who assisted US troops during the Afghanistan withdrawal five years ago now face the fear of deportation, as some worry about losing their green cards.",
+      "tags": [
+        "afghanistan",
+        "immigration",
+        "us policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "faa83cdf88a48c64",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "We learned 5 important things about the economy this week",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5929422/inflation-spending-economy-groceries-gas",
+      "summary": "This week's economic news highlighted key insights regarding inflation, credit card debt, and consumer spending habits.",
+      "tags": [
+        "economy",
+        "finance",
+        "inflation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "91fd2a45529bcd7a",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Don't classify. Hallucinate!",
+      "url": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/",
+      "summary": "A new method proposes using Large Language Models to \"hallucinate\" tags for untagged blog content, then matching these imagined tags to existing vocabulary using vector embeddings. This approach avoids feeding an extensive list of existing tags to the LLM directly.",
+      "tags": [
+        "ai",
+        "llms",
+        "tagging"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c736b3024ea10465",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Northern Gannet",
+      "url": "https://simonwillison.net/2026/Aug/15/sighting-391300422/",
+      "summary": "Morris, a Northern Gannet, is a local celebrity in Pillar Point Harbor, CA, as he is the only known individual of his species in the entire Pacific Ocean. He has resided there for 14 years, easily identifiable by his unique appearance among smaller cormorants.",
+      "tags": [
+        "wildlife",
+        "california",
+        "nature"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1ba4b6507e855bda",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "What is college worth?",
+      "url": "https://www.slowboring.com/p/what-is-college-worth",
+      "summary": "The University of Tulsa announced a significant reduction in its annual undergraduate tuition and fees from $54,000 to $25,000 starting in fall 2027. This move suggests a shift in higher education pricing strategies.",
+      "tags": [
+        "education",
+        "tuition",
+        "economics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1811bec51441be7f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
+      "url": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/",
+      "summary": "Apple is seeking court approval to impose a commission of up to 15% on purchases made through external links in iOS applications. This proposal addresses ongoing debates about app store fees and alternative payment methods.",
+      "tags": [
+        "apple",
+        "app store",
+        "fees"
+      ],
+      "priority": false
+    },
+    {
+      "id": "302efc26eefc3c28",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "summary": "Meta released Glimmer, an open-weight AI model, complementing a letter from Mark Zuckerberg asserting that AI should be accessible \"for everyone.\" This contrasts with the company's more powerful, API-locked Muse Spark model.",
+      "tags": [
+        "ai",
+        "meta",
+        "open source"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b8064bd4a7601e13",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Every fusion startup that has raised over $100M",
+      "url": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
+      "summary": "Fusion startups have accumulated $7.1 billion in funding thus far, with the majority of this capital concentrated among a select group of companies.",
+      "tags": [
+        "startups",
+        "fusion energy",
+        "venture capital"
+      ],
+      "priority": false
+    },
+    {
+      "id": "21d5919bdad578b1",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "summary": "Google is introducing an option for users to disable visible watermarks on AI-generated content, while still embedding invisible benchmarks to identify these files.",
+      "tags": [
+        "ai",
+        "google",
+        "watermarks"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cbeb090672003ebf",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "summary": "French startup Kog is challenging the perception that GPUs are ill-suited for agentic workflows, focusing on maximizing inference capabilities from these processors.",
+      "tags": [
+        "gpu",
+        "ai",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ef5dae60118f9088",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Read-it-later app Pocket shut down — here are the best alternatives",
+      "url": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/",
+      "summary": "The read-it-later application Pocket is closing, with users having until October 8, 2025, to export their saved articles and other personal data.",
+      "tags": [
+        "apps",
+        "productivity",
+        "shutdown"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a02275c9d6829ed8",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Self-driving trucks are officially testing on California highways",
+      "url": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
+      "summary": "Self-driving truck developers Aurora Innovation and Kodiak AI have been granted permits to commence testing their autonomous vehicles on California's highways.",
+      "tags": [
+        "autonomous vehicles",
+        "trucking",
+        "california"
+      ],
+      "priority": false
+    },
+    {
+      "id": "90a8833b438bb61f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Talks to sell PayPal to Stripe and Advent are heating up",
+      "url": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+      "summary": "PayPal is reportedly engaged in discussions regarding a potential acquisition by Stripe and private equity firm Advent. These talks are part of the fintech firm's new CEO's strategy to revitalize the company.",
+      "tags": [
+        "paypal",
+        "fintech",
+        "acquisitions"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b9a1d2b3dccf86db",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+      "url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
+      "summary": "Joshua Kushner, from Thrive Capital, cautioned Silicon Valley venture capitalists about the risks of allowing AI enthusiasm to compromise their investment discipline.",
+      "tags": [
+        "venture capital",
+        "ai",
+        "investment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "839373232a4665df",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Unforgetful is a new reminders app for people who can’t stop hitting snooze",
+      "url": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/",
+      "summary": "Indie developer Marco Arment launched \"Unforgetful,\" a new reminders app aimed at users who struggle to heed notifications. The app is designed to make reminders harder to ignore or accidentally dismiss.",
+      "tags": [
+        "apps",
+        "productivity",
+        "reminders"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4efc167797129f04",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "What we know about the alleged Iranian hacks on US water utilities",
+      "url": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
+      "summary": "Systems of multiple US water plants have been targeted and breached by hackers, with allegations pointing to the Iranian government as responsible for this wave of attacks.",
+      "tags": [
+        "cybersecurity",
+        "hacking",
+        "infrastructure"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d3b27e3c14ddb269",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "A Time Capsule of Free-Range Childhood",
+      "url": "https://www.thefp.com/p/a-time-capsule-of-free-range-childhood",
+      "summary": "Rob Reiner's film \"Stand by Me\" is presented as a \"time capsule\" illustrating a free-range childhood of a bygone era. The article contrasts this depiction with contemporary parenting norms and neighborhood expectations.",
+      "tags": [
+        "film",
+        "nostalgia",
+        "parenting"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a6ce080e447ab8c0",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Just Say It: Plastic Surgery Is Bad for Us",
+      "url": "https://www.thefp.com/p/just-say-it-plastic-surgery-is-bad",
+      "summary": "A growing number of women are reversing plastic surgery procedures due to painful and traumatic experiences, including sepsis and severe physical side effects. However, many who have suffered complications still express interest in future cosmetic enhancements, hoping for a better outcome with different practitioners.",
+      "tags": [
+        "plastic surgery",
+        "beauty",
+        "health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d00ff3e09b9666fa",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Women Reversing Their Plastic Surgery. Plus. . .",
+      "url": "https://www.thefp.com/p/the-women-reversing-their-plastic",
+      "summary": "A trend is emerging where women are reversing plastic surgery procedures like breast implants and fillers, often due to negative experiences. Despite these issues, many still express interest in future cosmetic enhancements.",
+      "tags": [
+        "plastic surgery",
+        "beauty",
+        "social trends"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fb261364606feaa5",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Two Drinks with . . . One of Russia’s Most Wanted",
+      "url": "https://www.thefp.com/p/two-drinks-with-one-of-russias-most",
+      "summary": "Egor Cherniuk, a Russian activist and former campaign manager for Alexei Navalny, is on Vladimir Putin's most-wanted list and now lives in Brooklyn. He discusses the differences between classic Russian liberalism and contemporary American liberalism.",
+      "tags": [
+        "russia",
+        "politics",
+        "activism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e754ca1a5cc15592",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Google&#8217;s best new camera feature is only for the Pixel 11 series",
+      "url": "https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones",
+      "summary": "Google's new \"Camera Looks\" feature, exclusive to the Pixel 11 series, processes image data at the sensor level to create distinct photographic styles. One style, \"Digi,\" mimics the aesthetic of older digital cameras, providing a unique smartphone look.",
+      "tags": [
+        "google",
+        "pixel",
+        "camera"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3a4f0ad91e3d79d6",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Lamborghini’s flagship Revuelto levels up with SV trim",
+      "url": "https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance",
+      "summary": "Lamborghini's new Revuelto SV model, dubbed \"the quantum of driving,\" aims to create a singular experience where the driver and vehicle become one. This flagship V12-powered supercar emphasizes minimizing distractions for a rewarding and safe drive.",
+      "tags": [
+        "automotive",
+        "luxury",
+        "cars"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2d14de96ae4d768b",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Mark Zuckerberg has an Instagzam",
+      "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+      "summary": "Instagram's new wordmark has sparked debate over its redesign, while Mark Zuckerberg's extensive letter on the future of AI also garnered significant attention. Both topics were discussed on The Vergecast.",
+      "tags": [
+        "instagram",
+        "branding",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8b08e1acabce3060",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Samsung has new Galaxy headphones in the works",
+      "url": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
+      "summary": "Samsung's Galaxy Wearable app code indicates the development of new \"Galaxy H1\" over-ear headphones, potentially launching in 2027 to compete with AirPods Max. These would be the company's first over-ear headphones since the Level On in 2015.",
+      "tags": [
+        "samsung",
+        "headphones",
+        "gadgets"
+      ],
+      "priority": false
+    },
+    {
+      "id": "39e5627cdd6184af",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The X-Files creator Chris Carter wanted to make a more horrific movie",
+      "url": "https://www.theverge.com/entertainment/979925/the-x-files-chris-carter-vrach-frankenshteyn-interview-hulu",
+      "summary": "X-Files creator Chris Carter revealed that his original, darker concept for the 2008 film \"I Want to Believe\" was deemed too intense by 20th Century Fox. Hulu's new director's cut now reflects his initial vision for a grisly story about faith and the supernatural.",
+      "tags": [
+        "entertainment",
+        "film",
+        "x-files"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a6d6616dea295e07",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "When housing is unaffordable, this artist’s device makes pedaling harder",
+      "url": "https://www.theverge.com/tech/980359/ground-truth-justin-blinder-housing-affordable-bike-pedal",
+      "summary": "Artist Justin Blinder developed \"Ground Truth,\" a device that increases pedaling difficulty on a bicycle when traversing areas with unaffordable housing. The project aims to highlight economic disparities noticed by Blinder while working as a food delivery cyclist.",
+      "tags": [
+        "art",
+        "housing",
+        "social commentary"
+      ],
+      "priority": false
+    },
+    {
+      "id": "228cf81c0450c281",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
+      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "summary": "Google now offers users the option to remove visible \"sparkle\" watermarks from AI-generated content produced by Gemini and Flow. Despite this, invisible SynthID watermarks and C2PA metadata will remain embedded in the background of these files.",
+      "tags": [
+        "ai",
+        "google",
+        "watermarks"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 85,
+    "summarized": 55,
+    "skipped_promos": 10,
+    "filtered_by_rules": 20,
+    "sources": 8,
+    "email_items_omitted": 0
+  }
+}
