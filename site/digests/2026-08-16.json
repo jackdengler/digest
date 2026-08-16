@@ -1,0 +1,637 @@
+{
+  "date": "2026-08-16",
+  "generated_at": "2026-08-16T14:15:09+00:00",
+  "hot_topics": [
+    {
+      "topic": "Disney's D23 Event Unveils Major Marvel and Star Wars Projects",
+      "synthesis": "The D23 fan event in Anaheim brought a wave of announcements from Disney's major franchises. Marvel Studios released the first trailer for \"VisionQuest\" and provided a new look at \"Avengers: Doomsday,\" alongside casting news for the MCU's X-Men movie. Star Wars fans received teasers for \"Ahsoka\" season 2 and the \"Star Wars: Starfighter\" film, with additional updates for Pixar, The Simpsons, and Kingdom Hearts.",
+      "item_ids": [
+        "5f67cc4af0df2631",
+        "b8f23ec61413f873",
+        "c2110e730095a03a",
+        "40f498fbda1cf85a"
+      ]
+    },
+    {
+      "topic": "Ukraine-Russia Conflict Sees Increased Aerial Attacks",
+      "synthesis": "Both Ukraine and Russia have launched significant aerial attacks, indicating an escalation in the ongoing conflict. Russia's fresh aerial attacks across Ukraine have killed five people, with a market in Kyiv being hit. Meanwhile, Ukraine launched one of its largest aerial offensives, deploying hundreds of drones across Russia and resulting in at least six deaths.",
+      "item_ids": [
+        "3e6c88276586a1df",
+        "f061e1f967878ce5",
+        "8a2d1a325ab88289"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "5f67cc4af0df2631",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "VisionQuest trailer kicks off Disney's D23 fan event",
+      "url": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
+      "summary": "It was a busy first day at D23: The Ultimate Disney Fan Event, in Anaheim, California, with Marvel Studios releasing the first trailer for\nVisionQuest\n. We also got the first teaser for\nAhsoka\nS2; the public release of the\nAvengers: Doomsday\nspecial footage featured last month fo…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f538063ec61f00e3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Australian state to launch gun buyback after Bondi Beach attack",
+      "url": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Australian state of New South Wales will launch a gun buyback program following the recent Bondi Beach attack. The initiative will offer cash incentives for gun owners to surrender their firearms.",
+      "tags": [
+        "gun control",
+        "australia",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "da4ce5d3a1c11248",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "BBC seeks to subpoena family members in Panorama lawsuit",
+      "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC is seeking to subpoena family members in a Panorama lawsuit, a move that Trump's legal team criticized as an attempt to harass the president's family. This adds a new dimension to the legal proceedings.",
+      "tags": [
+        "media",
+        "legal",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f061e1f967878ce5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "BBC visits smouldering Kyiv market after Russian strikes",
+      "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "1879a7e1dd7af864",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
+      "url": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Europe's tallest statue of the Virgin Mary, a 55.6-meter (182ft) concrete figure, has been unveiled in rural Poland. It surpasses the height of Rio de Janeiro's Christ the Redeemer.",
+      "tags": [
+        "culture",
+        "poland",
+        "religion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "485e6c77a7c49f97",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
+      "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Firefighters are battling a wildfire described as Belgium's worst in recent years, which is tearing through a major nature reserve. Efforts are focused on containing the extensive blaze.",
+      "tags": [
+        "disaster",
+        "environment",
+        "belgium"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3e6c88276586a1df",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "e04bd23c397d3a8a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+      "url": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Four \"extraordinary\" Renaissance paintings were stolen overnight from an Italian museum without triggering alarms, suggesting a professional operation. Investigations are underway into the high-profile theft.",
+      "tags": [
+        "art",
+        "crime",
+        "italy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b7124159e4b15b8b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
+      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hurricane Lala has triggered flash floods in Hawaii, with strong winds and persistent rain. Officials report that homes, potentially with people inside, may have been swept away in the hardest-hit areas.",
+      "tags": [
+        "disaster",
+        "weather",
+        "hawaii"
+      ],
+      "priority": false
+    },
+    {
+      "id": "13ca40185196174e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
+      "url": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Liechtenstein has amended its succession rule to permit women to ascend the throne, a significant change announced on the central European country's national day. This marks a shift in the tiny nation's royal protocol.",
+      "tags": [
+        "policy",
+        "royalty",
+        "liechtenstein"
+      ],
+      "priority": false
+    },
+    {
+      "id": "797c925e0e090c5d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Multiple suspects at large after five shot at Virginia State University, police say",
+      "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Multiple suspects remain at large after five individuals were shot outside a residence hall at Virginia State University early Saturday morning. Police are investigating the incident.",
+      "tags": [
+        "crime",
+        "usa",
+        "shooting"
+      ],
+      "priority": false
+    },
+    {
+      "id": "760e36be6940dcc0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+      "summary": "Qatar has denied claims by Iran that it captured three Iranian pilots after downing two fighter jets at the start of the US-Iran war. The denial addresses ongoing tensions and allegations.",
+      "tags": [
+        "international relations",
+        "conflict",
+        "qatar"
+      ],
+      "priority": false
+    },
+    {
+      "id": "439bb632f0647093",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+      "summary": "A deadly earthquake in Indonesia has killed at least 53 people and severely damaged hundreds of homes and public buildings. Thousands of residents have been displaced as rescue efforts continue.",
+      "tags": [
+        "disaster",
+        "earthquake",
+        "indonesia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42528ef89a964f72",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Twelve killed as Polish bus veers off Hungarian motorway",
+      "url": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
+      "summary": "Twelve people were killed and dozens seriously injured when a Polish tourist bus overturned on a Hungarian motorway in the early hours of Sunday morning. Authorities are investigating the cause of the accident.",
+      "tags": [
+        "accident",
+        "poland",
+        "hungary"
+      ],
+      "priority": false
+    },
+    {
+      "id": "57d36d18355353a0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why is Australia's mushroom killer back in court this week?",
+      "url": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
+      "summary": "Australia's triple-murderer Erin Patterson is back in court this week to appeal her conviction, as explained by the BBC’s Katy Watson. The case, involving mushroom poisoning, continues to draw public attention.",
+      "tags": [
+        "crime",
+        "legal",
+        "australia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a8d6aee4c93a5c56",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "World's Ugliest Dog contest crowns 2026 winner",
+      "url": "https://www.bbc.co.uk/news/videos/c39eekgv79ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The annual World's Ugliest Dog contest recently crowned its 2026 winner in Santa Rosa, California. This popular event celebrates unique canine companions.",
+      "tags": [
+        "culture",
+        "animals",
+        "event"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7b2ae025c8de1fd6",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "A spectre is haunting Unicode",
+      "url": "https://www.dampfkraft.com/ghost-characters.html",
+      "summary": "An article titled \"A spectre is haunting Unicode\" discusses subtle or \"ghost\" characters within the Unicode standard. It delves into the complexities and sometimes unexpected behaviors of these rarely seen elements.",
+      "tags": [
+        "unicode",
+        "programming",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "99f1b408430e0abb",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Abdominal fat predicts heart disease risk better than BMI",
+      "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+      "summary": "Research indicates that abdominal fat is a more accurate predictor of heart disease risk than the traditional Body Mass Index (BMI). This suggests a need for re-evaluating diagnostic criteria.",
+      "tags": [
+        "health",
+        "research",
+        "heart disease"
+      ],
+      "priority": false
+    },
+    {
+      "id": "10077421c91b35cc",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "summary": "This article examines the current state and future prospects of artificial intelligence in drug discovery. It outlines what AI entails in this field, where progress stands, and the path forward for innovation.",
+      "tags": [
+        "ai",
+        "healthcare",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0b78098b69acc5af",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+      "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+      "summary": "The development of the first at-home test for infected ticks could significantly improve the diagnosis of Lyme disease. This innovation offers a quicker and more accessible way to detect the illness.",
+      "tags": [
+        "health",
+        "innovation",
+        "diagnostics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ea13a889f5665cfa",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Cultivating a state of mind where new ideas are born (2023)",
+      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+      "summary": "An article from 2023 discusses methods for cultivating a mental state conducive to generating new ideas. It offers insights into fostering creativity and innovation.",
+      "tags": [
+        "creativity",
+        "self-improvement",
+        "ideas"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0fe068d31a898377",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Semaglutide linked to lower predicted dementia risk",
+      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+      "summary": "Semaglutide, a medication, has been linked to a lower predicted risk of dementia in a recent study. This finding opens avenues for further research into its potential neurological benefits.",
+      "tags": [
+        "health",
+        "medicine",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "363d2f500bf8f11b",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Software Engineering fundamentals matter more",
+      "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
+      "summary": "An article asserts that software engineering fundamentals are more important than ever in the current technological landscape. It suggests a renewed focus on core principles for robust development.",
+      "tags": [
+        "software",
+        "engineering",
+        "development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cb0e1bf37183a51a",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
+      "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
+      "summary": "New forecasts predict a \"Super El Niño\" is continuing to grow, reaching record territory ahead of the winter season. This phenomenon is expected to have significant impacts across the United States, Canada, and Europe.",
+      "tags": [
+        "climate",
+        "weather",
+        "el niño"
+      ],
+      "priority": false
+    },
+    {
+      "id": "628e230067599078",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "What happens when an LLM never sees material beyond fifth grade?",
+      "url": "https://littlelearner-ll.github.io/",
+      "summary": "The article explores the effects on a large language model (LLM) if its training material is limited to content suitable for a fifth-grade reading level. This investigates how data constraints influence AI capabilities.",
+      "tags": [
+        "llm",
+        "ai",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6f11bd0f230d1199",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Are robotaxis finally here?",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5918065/are-robotaxis-finally-here",
+      "summary": "Fully self-driving robotaxis, long anticipated as a future technology, have finally become a reality, though their availability is currently limited to specific cities. This marks a significant milestone in autonomous vehicle development.",
+      "tags": [
+        "autonomous vehicles",
+        "technology",
+        "transportation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "001da61484440cd7",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "As Trump blocks Medicaid funds, one trans teen's mom asks: What's next?",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz",
+      "summary": "A Republican mother in California reports that the Trump administration's actions targeting transgender youth, specifically blocking Medicaid funds, are taking a significant personal toll. This highlights the impact of political decisions on families.",
+      "tags": [
+        "politics",
+        "healthcare",
+        "lgbtq+"
+      ],
+      "priority": false
+    },
+    {
+      "id": "830c67bfa476e460",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Billions of sea stars have died. A Northwest tribe is trying to save the species",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5928398/endangered-sea-stars-release-pacific-ocean",
+      "summary": "Billions of sunflower sea stars are critically endangered in the Pacific Ocean, leading University of Washington researchers and the Samish Indian Nation to collaborate on efforts to save the species. They are working to bring back the 24-armed creatures from extinction.",
+      "tags": [
+        "environment",
+        "conservation",
+        "science"
+      ],
+      "priority": false
+    },
+    {
+      "id": "09f589d177c2d973",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Doctors and women who've had it call for more attention on postpartum psychosis",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5931964/lindsay-clancy-trial-postpartum-psychosis-diagnosis",
+      "summary": "The high-profile murder trial of Lindsay Clancy has brought increased attention to postpartum psychosis, prompting doctors and affected women to advocate for more research and understanding of the mental illness. This calls for greater awareness and support.",
+      "tags": [
+        "health",
+        "mental health",
+        "awareness"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c4f8764ccbde1a17",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
+      "summary": "Families of the USS Abraham Lincoln crew have expressed shame over President Trump's comments that the ship's deployment was \"not nearly long enough,\" given the dire conditions reported on board. This highlights concerns about military welfare and political remarks.",
+      "tags": [
+        "military",
+        "politics",
+        "usa"
+      ],
+      "priority": false
+    },
+    {
+      "id": "39682e20e96dc5bf",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "State Department spokesperson on Iran war and U.S. visa revocations",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5931811/state-department-spokesperson-on-iran-war-and-u-s-visa-revocations",
+      "summary": "NPR spoke with State Department spokesperson Tommy Pigott regarding the ongoing conflict with Iran and the revocation of hundreds of thousands of U.S. visas for foreign nationals. The interview covers critical foreign policy and immigration issues.",
+      "tags": [
+        "international relations",
+        "politics",
+        "foreign policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "69622bfdb2fff47e",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5932552/midwest-flooding-indiana-fema",
+      "summary": "The Midwest, including Indiana and Illinois, is bracing for another period of heavy flooding expected through the weekend. Indiana is seeking federal aid to cope with the ongoing natural disaster.",
+      "tags": [
+        "disaster",
+        "weather",
+        "usa"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8a2d1a325ab88289",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
+      "summary": "Ukraine launched hundreds of drones across Russia Sunday, killing at least six people in one of Kyiv's largest aerial attacks of the war.\n(Image credit: Francisco Seco)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "1c8adb799006b213",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "CORS Chat",
+      "url": "https://simonwillison.net/2026/Aug/15/cors-chat/",
+      "summary": "Simon Willison developed \"CORS Chat\" with GPT-5.6-Sol xhigh, a web UI for testing OpenAI-Responses-compatible chat endpoints. The tool features progressive rendering of SVG images and persistent browser conversations.",
+      "tags": [
+        "ai",
+        "development",
+        "tools"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ea107c050a67ae55",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "summary": "Anthropic has provided further details on the implementation of watermarks for its Claude AI models. The information covers how the watermarking will function, its resistance to editing, and its implications for code.",
+      "tags": [
+        "ai",
+        "security",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "54ef3866604c96da",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "How to tell if your AI platforms’ accounts have been hacked",
+      "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+      "summary": "A guide has been published to help users determine if their accounts on popular AI platforms have been compromised by hackers. This provides crucial steps for identifying security breaches.",
+      "tags": [
+        "ai",
+        "security",
+        "guide"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e36e2fbebdf960c7",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "summary": "A woman has alleged that her stepfather utilized Grok, an AI tool, to transform a childhood photograph into explicit imagery. She stated that AI tools are converting everyday life into child sexual abuse.",
+      "tags": [
+        "ai",
+        "ethics",
+        "abuse"
+      ],
+      "priority": false
+    },
+    {
+      "id": "40f498fbda1cf85a",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Disney D23 2026: Everything announced for Star Wars, Marvel, and more",
+      "url": "https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23",
+      "summary": "Shawn Levy, Ryan Gosling | Image: The Walt Disney Company/Image Group LA\nThe annual Disney fan event showed off the cast of Marvel’s X-Men movie, plus a new trailer for\nAvengers: Doomsday,\nand our first look at the\nVisionQuest\nTV show for Disney Plus. For Star Wars fans, there wa…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c743a4819c0055ff",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Don&#8217;t overlook Elektron&#8217;s budget electronic music instruments",
+      "url": "https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review",
+      "summary": "Elektron's budget-friendly Model:Samples and Model:Cycles grooveboxes are highly recommended for those starting in electronic music due to their power and fun, despite often being overlooked. These instruments continue to be valuable even among more expensive gear.",
+      "tags": [
+        "music",
+        "instruments",
+        "electronics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9ee930e07bdd2da1",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+      "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+      "summary": "\"Your AI Slop Bores Me\" is a simple game where humans roleplay as an AI chatbot, responding to prompts in 150 seconds. Players earn credits by acting as the AI, allowing them to submit their own requests.",
+      "tags": [
+        "ai",
+        "game",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f913ee9baa6d35fb",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "I finally found a magnetic phone grip I never want to remove",
+      "url": "https://www.theverge.com/tech/979850/ohsnap-snap-grip-stand-review",
+      "summary": "The OhSnap Snap Grip Stand is praised as a highly useful phone accessory due to its reliable vertical stand and grip functionality. Despite previous reservations about OhSnap products, this $50 model is considered the best yet.",
+      "tags": [
+        "phone",
+        "accessories",
+        "review"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b8f23ec61413f873",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Matt Groening lets slip that Simpsons: Hit &#038; Run might be making a comeback",
+      "url": "https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23",
+      "summary": "Doh! | Image: Activision / 20th Century Fox\nAt D23,\nwhen asked\nabout the potential for a sequel to the cult classic\nThe Simpsons: Hit & Run\ngame, Matt Groening replied, \"I think the original game is coming back in some form,\" before current showrunner Matt Selman added, \"or not.\"…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "bc875b1acc771128",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Polaroid’s tiny instant camera is $72 and includes a free pack of film",
+      "url": "https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale",
+      "summary": "Amazon is offering the second-generation Polaroid Go instant camera with a 16-photo film pack for $71.99, which is its lowest price ever for the bundle. The compact camera shoots on smaller film, making it ideal for travel and carrying.",
+      "tags": [
+        "camera",
+        "photography",
+        "deal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c2110e730095a03a",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Star Wars: Ahsoka season 2 and Starfighter get teased at D23",
+      "url": "https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23",
+      "summary": "Season two of\nStar Wars: Ahsoka\nis still months away, but Lucasfilm still took the opportunity to tease it a bit at\nD23\n. The company dropped the first trailer for the new season ahead of its January 20th, 2027 debut. The clip shows a darker,\nwitchcraft-filled\ntake on the Star Wa…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "7461dca054891729",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals",
+      "url": "https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview",
+      "summary": "Switched on Pop, co-hosted by Nate Sloan and Charlie Harding, is a leading music podcast that dissects pop songs from musical theory to production techniques. Sloan is a composer and musicology professor, while Harding is a songwriter and music journalist.",
+      "tags": [
+        "podcast",
+        "music",
+        "entertainment"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 59,
+    "summarized": 45,
+    "skipped_promos": 3,
+    "filtered_by_rules": 11,
+    "sources": 7,
+    "email_items_omitted": 0
+  }
+}
