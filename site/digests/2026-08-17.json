@@ -1,0 +1,764 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T14:20:34+00:00",
+  "hot_topics": [
+    {
+      "topic": "AI Governance and Public Trust",
+      "synthesis": "Anthropic is implementing invisible watermarks for its Claude AI to comply with EU regulations, a move that garners regulatory acceptance but also ethical criticism. Simultaneously, OpenAI reportedly dissolved its internal AI risk preparedness team, raising concerns about safety oversight. Anthropic CEO Dario Amodei suggests public distrust in tech, rather than risk warnings, is the fundamental cause of AI backlash, highlighting ongoing debates about AI safety, transparency, and public perception.",
+      "item_ids": [
+        "c4f25a0c52d68841",
+        "0450f16005957aa3",
+        "d4bddeb239a5badd",
+        "d83d6cf8736a728f",
+        "1bdeb030350156db",
+        "d2bebc94c6b2588b"
+      ]
+    },
+    {
+      "topic": "Middle East Peace Efforts",
+      "synthesis": "Jared Kushner, acting as a Trump envoy, is engaging in Middle East diplomacy, including meetings with Israeli Prime Minister Netanyahu. These discussions aim to garner Israeli support for a US-backed Gaza peace plan, following prior talks with Hamas. These efforts highlight ongoing international attempts to broker peace in the region.",
+      "item_ids": [
+        "f9172f1eda55a927",
+        "880b05d9fe879f6a"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "8fceead3a9cee83a",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "The World Famous Gopher Hole Museum",
+      "url": "https://aeon.co/videos/torrington-has-some-240-residents-and-one-unusual-tourist-attraction",
+      "summary": "This video provides a poignant look at 'The World Famous Gopher Hole Museum' in Torrington, Canada, where taxidermied gophers depict scenes of local life. The museum serves as a unique cultural attraction, preserving the essence of a small farm town.",
+      "tags": [
+        "culture",
+        "museum",
+        "canada"
+      ],
+      "priority": false
+    },
+    {
+      "id": "596e38e7c45ae121",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Meet the only known trebuchet casualty in history",
+      "url": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
+      "summary": "Archaeologists have identified what is believed to be the only known trebuchet casualty in history, a defender at Scotland's Stirling Castle whose skeleton showed severe trauma from a high-speed projectile. The individual, known as Skeleton 150, sustained shattered bones across his upper body during a medieval siege.",
+      "tags": [
+        "archaeology",
+        "history",
+        "science"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0a6947509dd4d969",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'Ghana was the crime scene': The country leading the demand for slavery reparations",
+      "url": "https://www.bbc.co.uk/news/articles/cy0j2r15dr1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ghana is leading the global demand for slavery reparations from Western nations, asserting that it was a primary \"crime scene\" of the transatlantic slave trade. The country is advocating for historical justice and compensation.",
+      "tags": [
+        "ghana",
+        "reparations",
+        "history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "619ff3d1e94bddfd",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'I want my brother back' - Tupac’s brother tells BBC murder trial won’t bring justice",
+      "url": "https://www.bbc.co.uk/news/videos/cj4kglpl55lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tupac Shakur's brother, Mopreme Shakur, expressed to the BBC that the upcoming murder trial for his late brother's 1996 killing will not bring him justice. His comments reflect ongoing sentiments surrounding the long-unresolved case.",
+      "tags": [
+        "crime",
+        "tupac",
+        "justice"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8734487a5c2bba2b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
+      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hurricane Lala swept away approximately 100 homes in Hawaii, though the state's governor noted that there was \"amazingly\" no reported loss of life apart from a single car crash. The devastation highlights the impact of severe weather events.",
+      "tags": [
+        "hurricane",
+        "hawaii",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fe956b4474effeac",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
+      "url": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Indonesia is grappling with aid shortages and the threat of starvation after a deadly earthquake killed 53 people and displaced thousands on Saturday. Humanitarian efforts are challenged by the widespread destruction and urgent needs of the affected population.",
+      "tags": [
+        "disaster",
+        "indonesia",
+        "humanitarian"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fc6bc0101b2806bf",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Aussie rules footy players under investigation as police probe sexual assault claim",
+      "url": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Australian rules football players are under investigation by police after a sexual assault claim emerged following the Sydney Swans' recent win. The team confirmed an incident occurred in the hours after the game.",
+      "tags": [
+        "sports",
+        "australia",
+        "investigation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b2f6c6d54f85e8cc",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
+      "url": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ebola outbreak in the Democratic Republic of Congo has become the deadliest in its history, driven by a rare Bundibugyo species of the virus. This outbreak is also recognized as the fastest-growing on record.",
+      "tags": [
+        "health",
+        "ebola",
+        "dr congo"
+      ],
+      "priority": false
+    },
+    {
+      "id": "267fbe3bbf88d57d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ferrari's first ever electric car sold for record $40m",
+      "url": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
+      "summary": "Ferrari's inaugural electric vehicle, the Luce, sold for a record-breaking $40 million, yet its launch faced criticism for deviating from the brand's iconic dramatic styling. This sale marks a significant moment for the luxury automotive brand's entry into the electric market.",
+      "tags": [
+        "automotive",
+        "electric vehicles",
+        "luxury"
+      ],
+      "priority": false
+    },
+    {
+      "id": "69e4833b87d706d7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Movie that went viral for terrible animation becomes China box office hit",
+      "url": "https://www.bbc.co.uk/news/articles/c4g4r0mrmlpo?at_medium=RSS&at_campaign=rss",
+      "summary": "A Chinese movie, initially viral for its terrible animation and confusing plot, unexpectedly became a box office hit in China. Its ironic popularity on the internet drove audiences to see the film.",
+      "tags": [
+        "film",
+        "china",
+        "viral"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4d102a06608059f9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Record rains drench South Korean city as landslide kills one",
+      "url": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss",
+      "summary": "A South Korean city was deluged by record rains, causing a landslide that killed one person, amid widespread heavy rainfall across East and South East Asia. The severe weather has led to significant damage and loss of life in the region.",
+      "tags": [
+        "weather",
+        "south korea",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "48466568bbe56f3d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Russia and Ukraine trade more deadly strikes",
+      "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia and Ukraine have continued to exchange deadly strikes, with Moscow reporting nine fatalities and Kyiv reporting four deaths in the past 24 hours. The ongoing conflict results in persistent casualties on both sides.",
+      "tags": [
+        "ukraine war",
+        "conflict",
+        "geopolitics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "aa608105de8b530c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Teen suspect in Virginia campus shooting found hiding in closet",
+      "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+      "summary": "A teenage suspect in a Virginia campus shooting, which left five people injured outside a residence hall, was apprehended hiding in a closet. Authorities confirmed the suspect was not a student at the institution.",
+      "tags": [
+        "shooting",
+        "virginia",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "08273b0facd5e612",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Thailand has a gun problem - 10 million of them",
+      "url": "https://www.bbc.co.uk/news/articles/cevml4701emo?at_medium=RSS&at_campaign=rss",
+      "summary": "Thailand faces a significant gun problem, with an estimated 10 million firearms in circulation, as recent shootings underscore the ineffectiveness of existing laws in curbing violence. The country grapples with a troubled relationship with gun ownership and its consequences.",
+      "tags": [
+        "thailand",
+        "gun violence",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cc8e3649b1e9855e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Top Zambian opposition figures arrested days after presidential vote",
+      "url": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Leading opposition figures in Zambia were arrested days after the presidential vote, facing allegations of a planned insurrection which they dismiss as \"total fabrications.\" The arrests raise concerns about political stability and democratic processes in the country.",
+      "tags": [
+        "zambia",
+        "politics",
+        "arrests"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f9172f1eda55a927",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "summary": "US President Trump's son-in-law, Jared Kushner, met with Israeli Prime Minister Netanyahu to seek Israeli backing for a US-supported Gaza peace plan. This meeting follows earlier talks with Hamas representatives regarding the proposed peace initiative.",
+      "tags": [
+        "middle east",
+        "diplomacy",
+        "israel"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9a0b5e76e5bd3a90",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Former US President Trump announced a reduction in military drills with South Korea, citing its non-involvement in an Iran war and his positive relationship with North Korea's leader. This decision signals a shift in military cooperation with allies in the region.",
+      "tags": [
+        "geopolitics",
+        "trump",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e91396ed416576b1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
+      "url": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+      "summary": "Twin fires on a Greek island resulted in two deaths and the evacuation of hundreds of residents. About 200 firefighters worked to prevent the fires from merging, with one now under control.",
+      "tags": [
+        "wildfires",
+        "greece",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f7e0e90c8df86995",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "A third world engineer responds to “RISC-V: They should have known better”",
+      "url": "https://rvembedded.com/blog_post/12/",
+      "summary": "A blog post titled 'A third world engineer responds to “RISC-V: They should have known better”' was shared and discussed on Hacker News.",
+      "tags": [
+        "risc-v",
+        "engineering",
+        "opinion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1bdeb030350156db",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "summary": "A Daring Fireball article criticizing Anthropic's 'watermark' text adulteration in Claude as a 'perversion of writing' was shared on Hacker News, sparking discussion.",
+      "tags": [
+        "ai",
+        "watermarking",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "51c261701ef66542",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Claude: System Prompts",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "summary": "Claude's system prompts documentation was a topic on Hacker News, drawing significant attention and comments regarding AI model interaction.",
+      "tags": [
+        "ai",
+        "claude",
+        "documentation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "eed0cf1c84af7d7f",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Incident with Github.com",
+      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+      "summary": "An incident affecting Github.com was reported, with users discussing the issue on Hacker News.",
+      "tags": [
+        "github",
+        "incident",
+        "status"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d83d6cf8736a728f",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "On A.I. regulation and messaging",
+      "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+      "summary": "A discussion on AI regulation and messaging, linking to a tweet by Dario Amodei, garnered significant comments on Hacker News.",
+      "tags": [
+        "ai",
+        "regulation",
+        "trust"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fd3f613ad2801326",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "summary": "A Hacker News post highlighted that the Qwen 3.8 27B AI model, though excellent, tends to overthink things by default, based on Simon Willison's review.",
+      "tags": [
+        "ai",
+        "llm",
+        "qwen"
+      ],
+      "priority": false
+    },
+    {
+      "id": "77cca40dde5b11c0",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Reticulum – Decentralized Mesh Network",
+      "url": "https://reticulum.network/",
+      "summary": "Reticulum, a decentralized mesh network, was featured on Hacker News, sparking user discussion about its capabilities.",
+      "tags": [
+        "networking",
+        "decentralized",
+        "tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "eb9ff8474e297ac4",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Advocates worry new bans on student IDs will trip up young voters",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5791740/college-student-voting-voter-id",
+      "summary": "New bans preventing the use of student IDs for voting in Indiana and New Hampshire have sparked lawsuits, with advocates concerned these measures create new obstacles for young voters. Such policies disproportionately affect college students, who are already the least likely voting-age demographic to cast ballots.",
+      "tags": [
+        "voting rights",
+        "students",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9048d6a790657739",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "As wildfires get worse, some states are struggling to pass fire protection rules",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5923975/wildfires-western-community-protection",
+      "summary": "Despite worsening wildfires, some states are struggling to pass fire protection rules that would require homeowners to take preventive measures like managing flammable plants. Many homeowners could prepare for wildfires by using fire-resistant building materials, but mandates are proving difficult to implement.",
+      "tags": [
+        "wildfires",
+        "policy",
+        "environment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9d1e61f2ad09cd41",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
+      "summary": "Tadalafil, an erectile dysfunction drug, is being promoted in some wellness circles as a longevity drug, with evidence suggesting a link to a lower risk of death in men. However, there are currently no well-controlled human trials to definitively support its use for longevity.",
+      "tags": [
+        "health",
+        "medicine",
+        "longevity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1d3b38ac444d561c",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "DHS defends investigating agency critics and giving them warning notices",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5934692/dhs-free-speech-investigations",
+      "summary": "The Department of Homeland Security (DHS) is defending its practice of investigating agency critics and issuing them warning notices. Federal officials acknowledged that ICE agents tracked a New York man to question him about a critical email sent to a former ICE head.",
+      "tags": [
+        "government",
+        "privacy",
+        "civil liberties"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9a146e90b7cdbde8",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Hayden Panettiere, who starred in 'Heroes' and 'Nashville,' dies at 36",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5935226/hayden-panettiere-dies",
+      "summary": "Hayden Panettiere, known for her roles in 'Heroes' and as country music star Juliette Barnes in 'Nashville,' has passed away at the age of 36. She had been a child actor, beginning her career at 11 months old.",
+      "tags": [
+        "celebrity",
+        "obituary",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5df75704ce5eb5e5",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
+      "summary": "For a decade, a Catholic-run home offered affordable living for young women in Washington D.C. as they pursued their studies and careers, but this community is now closing. The initiative provided a crucial low-rent option for those priced out of the city.",
+      "tags": [
+        "housing",
+        "community",
+        "social issues"
+      ],
+      "priority": false
+    },
+    {
+      "id": "06fd759bbd57f6dc",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Missed shifts were costly to this McDonald's. An app has fixed the problem",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
+      "summary": "An app designed to assist workers with last-minute transportation, food, and childcare has significantly reduced costly missed shifts at a McDonald's location. Unexpected employee absences can lead to tens of thousands of dollars in monthly losses for employers, making this a valuable solution.",
+      "tags": [
+        "labor",
+        "technology",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "880b05d9fe879f6a",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "USS Washington to relieve USS Lincoln. And, Jared Kushner to meet with Netanyahu",
+      "url": "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia",
+      "summary": "The USS Washington is deploying to the Middle East to relieve the USS Lincoln, amid concerns about conditions on board the latter. Concurrently, Jared Kushner is scheduled to meet with Prime Minister Netanyahu to advance Gaza peace talks.",
+      "tags": [
+        "middle east",
+        "diplomacy",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b0ccfc3ac6405bf0",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Markdown SVG upgrades",
+      "url": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/",
+      "summary": "A Markdown SVG renderer tool has received significant upgrades, now allowing animated SVGs to be rendered to PNG, JPEG, and MP4 formats directly in the browser. This enhances sharing capabilities for SVG content across various platforms.",
+      "tags": [
+        "web development",
+        "svg",
+        "tools"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d2bebc94c6b2588b",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Dario Amodei",
+      "url": "https://simonwillison.net/2026/Aug/16/dario-amodei/",
+      "summary": "Dario Amodei, CEO of Anthropic, articulated his view that public skepticism towards AI stems from a deep-seated crisis of trust in corporations and the tech industry. He asserted that genuine progress and delivering on promises are key to rebuilding this trust, rather than marketing campaigns.",
+      "tags": [
+        "ai",
+        "trust",
+        "anthropic"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ed2569a9154ff646",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "summary": "The Qwen 3.8 27B LLM from Alibaba is praised for its excellent performance on local machines, but its default \"xhigh\" reasoning effort often leads to excessive processing time and over-thinking. Users are advised to adjust this setting for more efficient results.",
+      "tags": [
+        "ai",
+        "llm",
+        "qwen"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d4bddeb239a5badd",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "summary": "Anthropic CEO Dario Amodei stated that the backlash against AI is fundamentally a \"crisis of trust\" in companies, governments, and the tech industry, rather than a result of warnings about AI risks. He emphasizes that AI companies need to deliver on their promises to truly benefit the world.",
+      "tags": [
+        "ai",
+        "anthropic",
+        "trust"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fc26941706a50208",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "summary": "Stripe is reportedly planning to acquire OpenRouter, an AI gateway startup, for over $7 billion, with OpenRouter's CEO having previously described the company as \"Stripe for AI.\"",
+      "tags": [
+        "acquisition",
+        "stripe",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2816e31a383a6b47",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
+      "url": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
+      "summary": "This entry welcomes readers to TechCrunch Mobility, providing a central hub for news and insights on the evolving landscape of transportation, particularly focusing on electric air taxis.",
+      "tags": [
+        "mobility",
+        "transportation",
+        "evtol"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e868506ba9cf4a2e",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Uber adds Zipline drones to its Eats delivery network",
+      "url": "https://techcrunch.com/2026/08/17/uber-adds-zipline-drones-to-its-eats-delivery-network/",
+      "summary": "Uber is expanding its Eats delivery network by integrating Zipline drones, with Uber also investing in Zipline as part of this new partnership.",
+      "tags": [
+        "uber",
+        "delivery",
+        "drones"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8d4aebdbd959b79f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "summary": "A podcast episode discusses public skepticism regarding Mark Zuckerberg's vision for an AI future. The conversation explores reasons why audiences may not be receptive to his proposed developments.",
+      "tags": [
+        "ai",
+        "meta",
+        "public perception"
+      ],
+      "priority": false
+    },
+    {
+      "id": "20ee2c5e4edec447",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+      "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+      "summary": "Wispr has successfully raised $280 million in new funding, bringing its total funding to over $361 million and valuing the company at $2 billion.",
+      "tags": [
+        "startup",
+        "funding",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f7b8b6971ece4bdf",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Douglas Murray: The Tragedy of Jason Arday",
+      "url": "https://www.thefp.com/p/douglas-murray-tragedy-jason-arday",
+      "summary": "Douglas Murray discusses the death of academic Jason Arday amidst accusations of plagiarism and biographical fabrication, criticizing those on the left who immediately blamed racism for his public shaming. Murray argues that white academics have also faced similar public hounding and backlash, suggesting the claims of racial bias are unfounded.",
+      "tags": [
+        "media",
+        "controversy",
+        "social commentary"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3abef20fc725933a",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "The Art of Looking: Eleven Ways of Viewing the Multiple Realities of Our Everyday Wonderland",
+      "url": "https://www.themarginalian.org/2026/08/16/on-looking-eleven-walks-with-expert-eyes/",
+      "summary": "Alexandra Horowitz's book 'On Looking' explores how our ingrained concentration leads to inattention to the everyday world, proposing that we can learn to truly see through intentional observation. By walking with various experts, Horowitz reveals the multiple realities hidden in familiar surroundings, encouraging a more present way of experiencing life.",
+      "tags": [
+        "philosophy",
+        "perception",
+        "books"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9b14c079dbf8633b",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Amazon is trying to crush class action suits before they get started",
+      "url": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
+      "summary": "Amazon has updated its terms and conditions, now requiring disputes to be resolved through arbitration and including a class action waiver for customers. While framed as a \"fast and efficient\" method, this change restricts customers from seeking judicial or jury involvement in most cases.",
+      "tags": [
+        "amazon",
+        "legal",
+        "consumer rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c4f25a0c52d68841",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "summary": "Anthropic clarified its plan to apply invisible watermarks to Claude-generated text, using a version of Google DeepMind's SynthID-Text approach, to comply with the European Union's AI Act. This feature, along with C2PA support for images, aims to meet transparency obligations for synthetic media.",
+      "tags": [
+        "ai",
+        "regulation",
+        "anthropic"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6cebfce427e2d930",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "summary": "ChatGPT's new 'Computer History' feature on its macOS desktop app is an opt-in system that tracks user clicks and keystrokes to create training data. This timeline of activity helps ChatGPT and Codex learn user workflows and suggest automations, while offering exclusions for certain apps and private browsing.",
+      "tags": [
+        "ai",
+        "privacy",
+        "chatgpt"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d7c3e2ea75a667b2",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "How to take better photos of your pets",
+      "url": "https://www.theverge.com/tech/970021/how-to-take-better-pet-photos",
+      "summary": "This article offers tips on how to take better photos of pets, acknowledging the challenges of photographing small, fast animals that don't take direction. It provides advice for improving pet photography skills for common social media and personal use.",
+      "tags": [
+        "photography",
+        "pets",
+        "tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "40b4542dd88fc0b0",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "It’s about ethics in journalism, with Ben Smith",
+      "url": "https://www.theverge.com/podcast/980759/ben-smith-semafor-ethics-journalism-ai-events-buzzfeed-media-news",
+      "summary": "Semafor editor-in-chief Ben Smith discussed the company's shift to an \"anti-scale\" business model, focusing on quality journalism and large-scale convening events for profitability. He also addressed navigating ethical challenges in modern media, including AI integration and the optics of hosting covered subjects at their conferences.",
+      "tags": [
+        "media",
+        "journalism",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f3941cd922924b61",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "I’m hooked on Peak Design’s new City bags",
+      "url": "https://www.theverge.com/tech/980137/peak-design-city-line-review",
+      "summary": "Peak Design's new City Line of bags features an integrated \"BagLev\" hook, designed to keep bags off dirty surfaces. This clever feature allows users to hang their bags from chairs or tables, addressing common hygiene concerns.",
+      "tags": [
+        "product review",
+        "accessories",
+        "design"
+      ],
+      "priority": false
+    },
+    {
+      "id": "65c97ac0a310373b",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Open Mike Eagle and Kenny Segal crafted a hip-hop breakup masterpiece",
+      "url": "https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review",
+      "summary": "Open Mike Eagle and Kenny Segal's album, DOOMED!, is reviewed as a hip-hop breakup masterpiece, featuring Eagle's most intimate and personal subject matter to date. Segal's production is highlighted as crafting a unique soundscape for the record's introspective themes.",
+      "tags": [
+        "music",
+        "hip-hop",
+        "review"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0450f16005957aa3",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "OpenAI reportedly disbanded its preparedness team",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "summary": "OpenAI reportedly disbanded its preparedness team last month, which was responsible for assessing and mitigating serious AI risks like models going rogue. The responsibilities have now been divided among existing teams for specific areas such as bio and cyber risks.",
+      "tags": [
+        "ai",
+        "openai",
+        "risk management"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 67,
+    "summarized": 52,
+    "skipped_promos": 1,
+    "filtered_by_rules": 14,
+    "sources": 10,
+    "email_items_omitted": 0
+  }
+}
