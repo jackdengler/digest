@@ -1,0 +1,1155 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T14:26:12+00:00",
+  "hot_topics": [
+    {
+      "topic": "Amazon and Google acquire data for AI, raising ethical questions",
+      "synthesis": "Major tech companies are controversially acquiring and, in some cases, destroying vast amounts of physical and digital data for AI training. An investigation using an AirTag revealed Amazon is scanning rare books and then trashing them, while Google reportedly purchased data from a bankrupt airline specifically for AI development. These actions highlight the extensive and ethically questionable lengths to which firms are going to secure diverse training datasets.",
+      "item_ids": [
+        "163852c7c53a04af",
+        "dfed3adce26ab662",
+        "d499f1cdda13522a"
+      ]
+    },
+    {
+      "topic": "Emerging ethical and security risks of AI technologies",
+      "synthesis": "The ethical and security risks of AI are emerging as critical concerns across various sectors. Reports indicate a woman confided suicidal thoughts to ChatGPT before her death, prompting questions about AI's role in mental health support. Additionally, a GitHub Copilot 'Autofix' led to a security compromise of Snowflake's Jira, and Israel reportedly created a fake think tank to potentially influence AI chatbots, highlighting vulnerabilities in information integrity and misuse.",
+      "item_ids": [
+        "777235bd2c65ff64",
+        "29a54fbb63028dd1",
+        "8e4906df6c08fd62"
+      ]
+    },
+    {
+      "topic": "Rapid growth and evolving landscape of the AI industry",
+      "synthesis": "The AI industry is experiencing rapid growth and transformation, marked by significant funding rounds for startups like Higgsfield and substantial revenue surges for companies like Anthropic. OpenAI has released a safer ChatGPT for teens, while other models like GPT-5.6 Sol are seeing price cuts and Qwen 3.8 27B demonstrates impressive performance for its size. However, the path to AI's recursive self-improvement faces challenges, and debates persist over AI music profits and its impact on the job market for recent graduates.",
+      "item_ids": [
+        "070eac110e9c7a5c",
+        "055ca2c20041c43c",
+        "23daba7a9549aaf0",
+        "a3ea335b2694ecf5",
+        "c2ac53918c3879e8",
+        "f9d805a33456674f",
+        "7b13900f6d29465e",
+        "37bc1e63e3a501b5",
+        "4cf8e2f1e04b345e",
+        "06be1ccf25259c94",
+        "d7b59a1c5e43dd42",
+        "57b62349026fe639"
+      ]
+    },
+    {
+      "topic": "Tupac Shakur murder trial begins with conflicting narratives",
+      "synthesis": "The long-awaited trial for Tupac Shakur's 1996 murder has begun, with opening statements revealing a focus on the conflict between established facts and various narratives. Witness testimony described chaos on the night of the shooting, and the prosecution highlighted a key defendant's prior willingness to speak about the events, setting the stage for a contentious legal battle.",
+      "item_ids": [
+        "f7f94cdd35b39063",
+        "c98f343e25863532",
+        "28e80440209dd17c"
+      ]
+    },
+    {
+      "topic": "US-Iran tensions escalate amid missed peace talks and political shifts",
+      "synthesis": "Tensions between the US and Iran remain high, with peace talks deadlines missed and a US focus on the region drawing resources from Asia. Former President Trump reportedly threatened Oman for its involvement in Iran deals, while the broader strategy involves a race against economic pressures and a looming shift in US political power, impacting regional stability and US foreign policy.",
+      "item_ids": [
+        "5b48d9ab5daebd45",
+        "da572407c5719379",
+        "1ab5809f58c57eac",
+        "53d270ea481a02c2"
+      ]
+    },
+    {
+      "topic": "Growing backlash against Flock Safety surveillance cameras",
+      "synthesis": "Flock Safety's automated license plate camera networks are facing increasing backlash from communities across the US, leading cities to withdraw their participation. Residents and privacy advocates cite concerns over pervasive surveillance, data access by agencies like ICE, and instances of incorrect police stops, which in turn diminishes the value and effectiveness of the shared network. This resistance highlights a broader public demand for greater privacy and accountability in the deployment of surveillance technology.",
+      "item_ids": [
+        "1312173989ffa74a",
+        "e4e14a0450ef6c6e"
+      ]
+    },
+    {
+      "topic": "Concerns over conditions and media coverage of the USS Abraham Lincoln",
+      "synthesis": "Concerns are mounting over the harsh conditions and mental health challenges faced by sailors aboard the USS Abraham Lincoln during its extended deployment, including a reported suicide attempt. While some media outlets highlight these issues, critics argue that the coverage often misrepresents these systemic Navy challenges as unique to the current administration's policies, overlooking the broader strains of long deployments and their impact on service members.",
+      "item_ids": [
+        "e45b34b8f2b5cc07",
+        "7f44a006530a6632"
+      ]
+    },
+    {
+      "topic": "Fairphone expands market presence and open-source support for repairable smartphones",
+      "synthesis": "Fairphone is expanding its reach by bringing its latest repairable smartphone, the Fairphone 6+, to the US market, emphasizing sustainable tech. Concurrently, advancements in open-source support are being made, with the Fairphone 6 now having its main camera functional with PostmarketOS, demonstrating growing ecosystem support for these modular devices and their community.",
+      "item_ids": [
+        "3dee38bdbee35aa5",
+        "47853ec27cc7c426"
+      ]
+    },
+    {
+      "topic": "Unpredictable outcomes and crowded fields in US primary elections",
+      "synthesis": "Multiple US states are holding primary elections, featuring crowded and unpredictable races. Florida's 19th District Republican primary, for instance, includes a diverse set of candidates, from newcomers to pardoned individuals. Meanwhile, a recent Democratic primary for governor in Wisconsin delivered a surprising outcome, defying polls and indicating the volatile nature of current political contests and voter sentiment.",
+      "item_ids": [
+        "da572407c5719379",
+        "9fc13b534f0e4c48",
+        "1ab5809f58c57eac",
+        "be9798370ae96598"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "172040691f925acd",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "In praise of zealotry",
+      "url": "https://aeon.co/essays/polite-debate-has-privilege-the-marginalised-need-zealotry",
+      "summary": "Early feminists like Mary Astell and Catharine Macaulay refused their male peers’ advice to remain polite in debate. Why?\n- by Geertje Bol\nRead on Aeon",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "1312173989ffa74a",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
+      "url": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
+      "summary": "Perhaps it's the local summer diet of\ndeep-fried cheese curds\n, corn on the cob, and\nSpotted Cow\n, but Wisconsin residents have been feeling pretty dyspeptic about Flock's automated license plate cameras.\nOver the past few months, a spate of Wisconsin towns and cities have withdr…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "163852c7c53a04af",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
+      "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+      "summary": "For the past year or so,\nbooksellers have suspected that AI firms\nare buying up huge lots of rare books, then destroying them after scanning them to train AI. But this was hard to prove until now, as 404 Media\nreports\nthat an Airtag hidden in a rare book shows that at least one t…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "99467a1b4235b70b",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Petlibro accused of “gaslighting” users over smart pet feeder outage",
+      "url": "https://arstechnica.com/gadgets/2026/08/petlibro-accused-of-gaslighting-users-over-smart-pet-feeder-outage/",
+      "summary": "Petlibro users experienced an outage that prevented control of their smart pet feeders via the app, with some reporting hungry pets. The CEO confirmed problems with Petlibro's cloud server caused the disruption, though some users continued to report issues after the company announced resolution.",
+      "tags": [
+        "tech",
+        "iot",
+        "customer service"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2bcc45ae66270a15",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
+      "url": "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
+      "summary": "The Supreme Court denied Verizon's request for a $47 million refund from the FCC without explanation, ending its challenge to a fine for selling mobile user location data. AT&T and T-Mobile continue to contest similar fines totaling $196 million for the same violation.",
+      "tags": [
+        "legal",
+        "fcc",
+        "telecom"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1d75c0fd5c0cc9de",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Theban tomb reveals how Egyptian burial trends evolved in time",
+      "url": "https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/",
+      "summary": "Research on Theban tomb 209 suggests ancient Egyptian burial trends shifted from individual elaborate coffins to reusing earlier sites, increasing burial density. This integrated archaeothanatological approach provides insight into the chronological sequence of interments.",
+      "tags": [
+        "archaeology",
+        "egypt",
+        "history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2d86e3fe0217c77c",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
+      "url": "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/",
+      "summary": "CDC data for the 2025–2026 school year shows a continued decline in US kindergarten vaccination rates, with MMR and DTaP coverage falling further from the 95 percent threshold needed to prevent disease outbreaks. This trend has been ongoing since the 2019-2020 school year.",
+      "tags": [
+        "health",
+        "vaccination",
+        "cdc"
+      ],
+      "priority": false
+    },
+    {
+      "id": "19a56b8ced732554",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "China censors public mourning as it holds former premier's funeral",
+      "url": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
+      "summary": "China is censoring public mourning during the funeral of a former premier, wary that widespread nostalgia for his legacy could translate into criticism of current leader Xi Jinping's rule. Authorities are carefully managing public sentiment surrounding the event.",
+      "tags": [
+        "china",
+        "politics",
+        "censorship"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0a3336b7d151434d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Doctors remove 3.1kg stone from man's bladder and claim record",
+      "url": "https://www.bbc.co.uk/news/articles/cg5l9n7d803o?at_medium=RSS&at_campaign=rss",
+      "summary": "Doctors have surgically removed a 3.1kg bladder stone, equivalent to the weight of a full-term baby, from a man, claiming it to be the largest on record. This rare medical case highlights an extraordinary surgical feat.",
+      "tags": [
+        "health",
+        "medicine",
+        "record"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9131f1a4bd11b28e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "French PM heckled over wildfire response as blazes continue across Europe",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
+      "summary": "France's Prime Minister was heckled over the government's wildfire response as blazes persist across Europe, prompting an announcement of €12 million in aid for affected French regions. The incident reflects public dissatisfaction with the disaster response.",
+      "tags": [
+        "france",
+        "wildfires",
+        "climate"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f2b76e7f78d3aa62",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
+      "summary": "Wladimir Klitschko, ex-partner of Hayden Panettiere, expressed his family's profound shock and grief following the death of the \"Heroes\" actress on Sunday. Klitschko shares a child with Panettiere.",
+      "tags": [
+        "celebrity",
+        "news",
+        "grief"
+      ],
+      "priority": false
+    },
+    {
+      "id": "836ed0a7bef31be0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How a goat given as a graduation gift went viral",
+      "url": "https://www.bbc.co.uk/news/articles/c3w03y2wgxeo?at_medium=RSS&at_campaign=rss",
+      "summary": "A goat named Promise Okoro, given as a graduation gift, gained viral local celebrity for its calm demeanor and fondness for fried rice. The unique gift became a talking point in its community.",
+      "tags": [
+        "viral",
+        "culture",
+        "animals"
+      ],
+      "priority": false
+    },
+    {
+      "id": "db2d46a65e1f076f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Indian student leader ends hunger strike after 16 days",
+      "url": "https://www.bbc.co.uk/news/articles/cly8m31nvmgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Devendra Nath Mahto, an Indian student leader, has ended a 16-day hunger strike that was part of a larger protest demanding exam reforms in Jharkhand state. His action drew attention to educational grievances.",
+      "tags": [
+        "india",
+        "protest",
+        "education"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ea1bcab953d73d34",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Inside secret police warehouse as Germany targets small boats gangs",
+      "url": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
+      "summary": "German authorities conducted their first raids under a new law targeting smuggling, seizing dinghies and life jackets from a secret police warehouse. This action aims to crack down on gangs involved in illegal migration.",
+      "tags": [
+        "germany",
+        "crime",
+        "migration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f19708dae9f13227",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+      "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+      "summary": "IVF staff are accused of misinforming UK parents about the identity of sperm and egg donors used in northern Cyprus, leading to fears that multiple children were conceived using incorrect donors. This raises serious ethical and legal concerns.",
+      "tags": [
+        "health",
+        "ethics",
+        "scandal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "19786ceb66e240da",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&at_campaign=rss",
+      "summary": "The death toll from the Kariba ferry disaster has climbed to 93, making it Zimbabwe's deadliest transport accident. Recovery efforts are ongoing following the catastrophic event.",
+      "tags": [
+        "disaster",
+        "zimbabwe",
+        "accident"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c2750e1d6fcde22b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
+      "url": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Erin Patterson, known as the \"mushroom murderer\" for poisoning family members, is appealing her conviction in Australia. The appeal seeks to overturn the verdict in the high-profile case.",
+      "tags": [
+        "crime",
+        "australia",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7ad26576b8937578",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Norway's king admitted to hospital and put on sick leave",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&at_campaign=rss",
+      "summary": "Norway's 89-year-old King has been admitted to the hospital and granted sick leave after being diagnosed with a rare blood condition. The monarch is one of Europe's longest-serving.",
+      "tags": [
+        "monarchy",
+        "norway",
+        "health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "68f0049c6803a2e8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Russia's prominent anti-war politician jailed for 11 years",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lev Schlosberg, a prominent Russian anti-war politician, has been sentenced to 11 years in jail for \"discrediting\" Russia's army, a verdict he condemned as politically motivated. This highlights the severe repression of dissent in Russia.",
+      "tags": [
+        "russia",
+        "politics",
+        "repression"
+      ],
+      "priority": false
+    },
+    {
+      "id": "792c84a22d3928ea",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Student killed in Philippines Catholic school shooting",
+      "url": "https://www.bbc.co.uk/news/articles/c1e154qjw96o?at_medium=RSS&at_campaign=rss",
+      "summary": "A student was killed in a shooting at a Catholic school in the Philippines, with the alleged shooter, also a student, subsequently taking his own life. The incident is a tragic event involving student violence.",
+      "tags": [
+        "crime",
+        "philippines",
+        "shooting"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5b48d9ab5daebd45",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f7f94cdd35b39063",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
+      "url": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
+      "summary": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer \"we'll take care of it\", an officer testified.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "6599e0a555a3dcba",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia accused the UK of escalating the Ukraine war by supplying British-made drones, while the prime minister reiterated Britain's full support for Kyiv. This follows a drone warning from Russia amid ongoing conflict.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "geopolitics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c98f343e25863532",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: What we learned from opening statements in Tupac murder trial",
+      "url": "https://www.bbc.co.uk/news/videos/cevmw1pl9kvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Shaimaa Khalil breaks down the key arguments as the long-awaited trial gets under way.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "33e80b70d36e4abd",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Why has Trump shifted on North Korea?",
+      "url": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump has indicated a significant shift in US policy towards North Korea, stating the US will \"substantially reduce\" joint military exercises with South Korea due to his \"very good relationship\" with Kim Jong Un. This move alters long-standing defense cooperation in the region.",
+      "tags": [
+        "trump",
+        "north korea",
+        "geopolitics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e45b34b8f2b5cc07",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What it's like to be on a warship like the USS Abraham Lincoln",
+      "url": "https://www.bbc.co.uk/news/articles/c5y6z4krrx3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Concerns have mounted about conditions aboard the USS Abraham Lincoln, which has been deployed since 11 December.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "bc931987e3897577",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why Indian law students don't want top judge at their graduation ceremony",
+      "url": "https://www.bbc.co.uk/news/articles/c171j0k74d8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Law students from two top Indian universities are protesting the attendance of Chief Justice Surya Kant at their graduation ceremonies. This opposition reflects student grievances or concerns regarding the judicial figure.",
+      "tags": [
+        "india",
+        "education",
+        "protest"
+      ],
+      "priority": false
+    },
+    {
+      "id": "62c80525ef6bdcac",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
+      "url": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hakainde Hichilema has been re-elected as Zambia's president, pledging to work for all Zambians, while his main rival remains in hiding due to alleged threats. The election results confirm Hichilema's continued leadership amidst political tension.",
+      "tags": [
+        "zambia",
+        "politics",
+        "election"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d715f7348d8c24ad",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "A Preview of DuckDB v2.0",
+      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+      "summary": "A preview of DuckDB v2.0 highlights upcoming features and improvements for the in-process SQL OLAP database. This release promises advancements for users in data analysis and querying.",
+      "tags": [
+        "database",
+        "software",
+        "development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "29a54fbb63028dd1",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "summary": "Article URL:\nhttps://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug\nComments URL:\nhttps://news.ycombinator.com/item?id=49331423\nPoints: 404\n# Comments: 150",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "47853ec27cc7c426",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Fairphone 6 and PostmarketOS working main camera",
+      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+      "summary": "Article URL:\nhttps://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera\nComments URL:\nhttps://news.ycombinator.com/item?id=49338285\nPoints: 255\n# Comments: 61",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "d499f1cdda13522a",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Google buys crashed airline Spirit's data at auction, because AI",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+      "summary": "Article URL:\nhttps://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962\nComments URL:\nhttps://news.ycombinator.com/item?id=49343559\nPoints: 304\n# Comments: 200",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "37bc1e63e3a501b5",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "GPT-5.6 Sol Pricing Cut by 50%",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "summary": "Article URL:\nhttps://openrouter.ai/openai/gpt-5.6-sol\nComments URL:\nhttps://news.ycombinator.com/item?id=49337602\nPoints: 550\n# Comments: 362",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "e6bc13816446f214",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "How Bluesky draws its logo on screenshots",
+      "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+      "summary": "This article details the method Bluesky uses to incorporate its logo onto screenshots, providing insight into a specific technical or design implementation.",
+      "tags": [
+        "design",
+        "bluesky",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "777235bd2c65ff64",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+      "summary": "Article URL:\nhttps://responsiblestatecraft.org/israel-influence-chatgpt/\nComments URL:\nhttps://news.ycombinator.com/item?id=49337392\nPoints: 812\n# Comments: 466",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "030f751e5b509676",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Linux 7.3 improves performance when running out of vRAM",
+      "url": "https://pixelcluster.dev/VRAM-Overcommit/",
+      "summary": "Linux 7.3 introduces performance improvements specifically designed to enhance system efficiency when virtual RAM (vRAM) resources are depleted. This update aims to provide more stable operation under memory-intensive conditions.",
+      "tags": [
+        "linux",
+        "performance",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7122995e597e4a40",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Quake Shareware, a CD-ROM just a little too full",
+      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+      "summary": "The article discusses the classic Quake Shareware CD-ROM, noting its capacity was pushed to the limit, indicating challenges or interesting decisions in its production.",
+      "tags": [
+        "gaming",
+        "history",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "06be1ccf25259c94",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "AI’s recursive self-improvement might not come so quickly after all",
+      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on.\nForecasts\nof explosive AI progress predict tha…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "93ddfa3d1a2e6f95",
+      "source": "Noahpinion",
+      "source_type": "substack",
+      "title": "Where to eat in San Francisco",
+      "url": "https://www.noahpinion.blog/p/where-to-eat-in-san-francisco",
+      "summary": "Moriawase at An\nThere’s actually a tradition of economics bloggers giving recommendations about where (and how) to eat out. Tyler Cowen\nwrote a whole book on the subject\n, as well as various\nblog posts\n, and maintains an\nEthnic Dining Guide\non the web! I’m not going to be that th…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "28e80440209dd17c",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "A dispute about fact vs. fiction at the trial over Tupac Shakur's 1996 killing",
+      "url": "https://www.npr.org/2026/08/18/g-s1-139061/tupac-shakur-killing-trial",
+      "summary": "A prosecutor said that while few have been willing to speak about the 1996 killing of Tupac Shakur, Duane \"Keffe D\" Davis is the \"one person who has a hard time being silent.\"\n(Image credit: Steve Marcus)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "d2ce04cae7828b5a",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "In Portland, this soap box derby combines downhill speed with extreme pageantry",
+      "url": "https://www.npr.org/2026/08/18/nx-s1-5935518/portland-oregon-soap-box-derby-race-pdx",
+      "summary": "This Portland soap box derby combines downhill racing with elaborate, creatively designed motorless cars resembling cartoon characters, food, or animals. The event is characterized by its unique blend of speed and extreme pageantry.",
+      "tags": [
+        "culture",
+        "event",
+        "portland"
+      ],
+      "priority": false
+    },
+    {
+      "id": "57b62349026fe639",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure",
+      "url": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
+      "summary": "The unemployment rate for young adults with new degrees is higher than the rate for all workers, according to the New York Fed. Is AI the problem, or is it more complicated?",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "1ab5809f58c57eac",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/08/18/nx-s1-5931251/morning-news-brief",
+      "summary": "Jared Kushner and Israel's prime minister meet in attempt to move Gaza ceasefire plan forward, U.S. focus on Iran draws key resources from Asia, voters head to the polls for primaries Tuesday.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "44844bf4c035eeaf",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Palestinian American returns to his West Bank home, under siege by Israeli settlers",
+      "url": "https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank",
+      "summary": "A Palestinian American returned to his home in the occupied West Bank to join family members defending it from a siege by Israeli settlers. The incident underscores escalating tensions and property disputes in the region.",
+      "tags": [
+        "israel",
+        "palestine",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6c2ac508f38f7804",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Part of a key firearms law lapsed following a federal court decision. What happens now?",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5935562/firearms-law-lapsed-federal-court-ruling",
+      "summary": "A federal court decision in Texas has led to the lapse of a significant portion of the National Firearms Act, raising questions about the future implications for certain guns and other weapons. This ruling has major ramifications for US firearms law.",
+      "tags": [
+        "us law",
+        "firearms",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8e4906df6c08fd62",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
+      "url": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
+      "summary": "A 29-year-old woman confided her suicidal thoughts to an AI chatbot — not to her therapist, not to her parents, not to her best friend. What can AI learn from her death?\n(Image credit: Reiley Rottenberg family)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "d7b59a1c5e43dd42",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "The grueling fight over who profits from AI music",
+      "url": "https://www.npr.org/sections/planet-money/2026/08/18/g-s1-138852/grueling-fight-over-who-profits-from-ai-music",
+      "summary": "AI can generate songs in seconds. But behind every AI track is a complicated question: Who should get paid? And, how? The fights have started.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "9fc13b534f0e4c48",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
+      "url": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
+      "summary": "The GOP primary in Florida's 19th District includes candidates who are new to the state, candidates who've run for Congress before and two candidates who have received pardons from President Trump.\n(Image credit: Amanda Andrade-Rhoades)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "da572407c5719379",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries",
+      "url": "https://www.npr.org/2026/08/18/g-s1-139072/up-first-newsletter-iran-south-korea-jared-kushner-florida-wyoming-alaska-primaries-luigi-mangione",
+      "summary": "The U.S. and Iran missed a deadline to begin peace talks this week. The monthslong war has depleted U.S. resources. And, what to know about Alaska's U.S. Senate seat primary.\n(Image credit: Jim Watson)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "4eb560a6e45f1f2a",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "Theory of Fluids Enters the 21st Century",
+      "url": "https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/",
+      "summary": "The theory of fluids is finally undergoing a conceptual revolution akin to those that transformed other areas of physics in the late 20th century. This shift comes as scientists integrate microscopic and subatomic discoveries into fluid dynamics.",
+      "tags": [
+        "physics",
+        "science",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4cf8e2f1e04b345e",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
+      "url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/",
+      "summary": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index\nThat's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is\n753B\nand that DeepSeek is\n1.7T parameters\n, and Luna is size unknown but presumab…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "dfed3adce26ab662",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+      "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+      "summary": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility\nExcellent piece of reporting from 404 Media. For a while now there have been stories of book dealers receiving orders for large volumes of books from apparently price-insensitive anonymous customers,…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "be9798370ae96598",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Chaos theory",
+      "url": "https://www.slowboring.com/p/chaos-theory",
+      "summary": "U.S. Senate candidate Mary Peltola campaigns in Homer, Alaska. (Photo courtesy of the campaign.)\nLast week’s Democratic primary for governor of Wisconsin ended in a shocking result given democratic socialist candidate Francesca Hong’s wide lead in every poll leading up to the ele…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f9d805a33456674f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "0a9ea7485119b750",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
+      "url": "https://techcrunch.com/2026/08/18/anthro-energy-breaks-ground-on-factory-that-could-pave-the-road-to-solid-state-batteries/",
+      "summary": "Battery materials startup Anthro Energy has begun construction on a new factory in Louisville, which will focus on producing electrolytes, including those essential for solid-state batteries. This development aims to advance the next generation of battery technology.",
+      "tags": [
+        "energy",
+        "batteries",
+        "manufacturing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c2ac53918c3879e8",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic’s annualized revenue surges to $65B",
+      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "summary": "The model maker added $18 billion in annualized revenue in two months.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "a7096ce4d77937f7",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apple’s new macOS update reportedly contains a video of AirPods with a camera",
+      "url": "https://techcrunch.com/2026/08/18/apples-new-macos-update-reportedly-contains-a-video-of-airpods-with-a-camera/",
+      "summary": "A recent macOS Tahoe release candidate reportedly includes a video showing a user wearing AirPods equipped with a camera, engaging with a book and Siri. This discovery suggests Apple may be exploring future AirPods with integrated visual capabilities.",
+      "tags": [
+        "apple",
+        "airpods",
+        "camera"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4265a33a67b35f5b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Detroit startup Grounded raises $5M to customize electric and gas-powered vans",
+      "url": "https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/",
+      "summary": "Detroit startup Grounded has raised $5 million to customize electric and gas-powered vans for small businesses, shifting its focus from van-life builds. This move comes as the EV landscape in the US continues to evolve.",
+      "tags": [
+        "ev",
+        "automotive",
+        "startup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3233584bbcc29a47",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Einride strikes deal to add 500 Tesla Semis to its fleet",
+      "url": "https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/",
+      "summary": "Einride has secured a deal to purchase 500 Tesla Semis, which will be utilized to serve customers such as Amazon and others. This acquisition significantly expands Einride's electric heavy-duty truck fleet.",
+      "tags": [
+        "ev",
+        "logistics",
+        "tesla"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3dee38bdbee35aa5",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Fairphone is launching its latest repairable phone in the US too",
+      "url": "https://techcrunch.com/2026/08/18/fairphone-is-launching-its-latest-repairable-phone-in-the-us-too/",
+      "summary": "The Fairphone 6+ is priced at $649 and will be available on Amazon.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "d63e973394736f32",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Feedly attributes weeklong slowdown to bug, not its AI pivot",
+      "url": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/",
+      "summary": "Feedly stated that a bug caused its weeklong web app slowdown, not its recent AI pivot, despite user complaints about mobile apps and customer support. The performance issues made the web app nearly \"unusable\" for some.",
+      "tags": [
+        "software",
+        "bugs",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7b13900f6d29465e",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B",
+      "url": "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/",
+      "summary": "Higgsfield, founded by former Snap exec Alex Mashrabov, lets users create AI images and videos.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "055ca2c20041c43c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "23daba7a9549aaf0",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Perplexity’s free AI offer left it with millions more users in India",
+      "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+      "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "a3ea335b2694ecf5",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’",
+      "url": "https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/",
+      "summary": "Reach Capital announced Tuesday an oversubscribed $265M Fund V.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "30bd99cf1aa58a33",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Reddit begins testing a new audio and video experience, similar to popular TikTok videos",
+      "url": "https://techcrunch.com/2026/08/17/reddit-begins-testing-a-new-audio-and-video-experience-similar-to-popular-tiktok-videos/",
+      "summary": "Reddit is testing new audio and video experiences for popular posts, allowing users to consume stories by watching or listening instead of just reading. This initiative aims to offer content in formats similar to those found on platforms like TikTok.",
+      "tags": [
+        "social media",
+        "video",
+        "reddit"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bce60f213ca00a9f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Sound-powered fire protection startup gets $15M to snuff out fires before they turn catastrophic",
+      "url": "https://techcrunch.com/2026/08/17/sound-powered-fire-protection-startup-gets-15m-to-snuff-out-fires-before-they-turn-catastrophic/",
+      "summary": "Sonic Fire Tech, a startup developing sound-powered fire protection systems, has secured $15 million in funding to deploy its technology in various settings. This aims to prevent fires from escalating in places like commercial kitchens and apartment buildings.",
+      "tags": [
+        "startup",
+        "safety",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0aa04a4338b47d7c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Spotify’s new Playlist Notes let users and editors explain their song picks",
+      "url": "https://techcrunch.com/2026/08/17/spotifys-new-playlist-notes-let-users-and-editors-explain-their-song-picks/",
+      "summary": "Spotify has launched \"Playlist Notes,\" a new feature allowing users and editors to add explanations and stories behind their song selections. This aims to provide deeper context for playlists, including prominent ones like RapCaviar.",
+      "tags": [
+        "music",
+        "spotify",
+        "features"
+      ],
+      "priority": false
+    },
+    {
+      "id": "070eac110e9c7a5c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+      "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+      "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastrructure system designed to make building AI software factories as easy as possible.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f49fd634131ae5aa",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "YouTube will now count a view as soon as a video starts playing",
+      "url": "https://techcrunch.com/2026/08/17/youtube-will-now-count-a-view-as-soon-as-a-video-starts-playing/",
+      "summary": "YouTube has changed its view counting methodology to register a view as soon as a video begins playing, mirroring the approach already applied to Shorts videos. This adjustment aims for consistency across its platform.",
+      "tags": [
+        "youtube",
+        "metrics",
+        "platform"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e4e14a0450ef6c6e",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "A City’s War on Surveillance Cameras",
+      "url": "https://www.thefp.com/p/citys-war-surveillance-cameras-flock",
+      "summary": "“In 1776, the statue of King George in Bowling Green was toppled, beheaded, and melted into bullets for the Continental Army,” said Rachel Stewart, 32, sipping a White Claw on a stoop. “And we will do the same thing to the Flock cameras if we need to.”\nIt’s Friday night in downto…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "53d270ea481a02c2",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "A Race Between Two Clocks in Iran",
+      "url": "https://www.thefp.com/p/two-clocks-iran-oil-election-congress-energy",
+      "summary": "There are two numbers that matter when it comes to the war with Iran: 20 million, and 138.\nTwenty million barrels per day is the\ncommonly accepted figure\nfor the average prewar flow of oil out of the Strait of Hormuz. The more America’s military and some brave commercial seamen c…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "5720b4bcb3282d54",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Coleman Hughes: Why the Left Needed to Believe in Jason Arday",
+      "url": "https://www.thefp.com/p/coleman-hughes-the-left-needed-jason-arday-cambridge",
+      "summary": "This piece analyzes the Jason Arday scandal, suggesting that elements of academia and media, driven by ideology, readily accepted Arday's fabricated life story and plagiarized work. It posits that the \"bigotry of low expectations\" and DEI initiatives contributed to his unchallenged rise and subsequent fall.",
+      "tags": [
+        "academia",
+        "dei",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "82763910d16a1568",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Senator McCormick Thinks That America’s Military Is Stuck in the Past",
+      "url": "https://www.thefp.com/p/senator-dave-mccormick-capitalism-military-pennsylvania-school-of-war-ai",
+      "summary": "Senator Dave McCormick believes the US military is outdated, advocating for changes to address America's wealth gap and reconsider its form of capitalism. A West Point graduate and former CEO, McCormick is concerned about the military's current state.",
+      "tags": [
+        "military",
+        "us politics",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7f44a006530a6632",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Cynical Coverage of Conditions on the USS Abraham Lincoln",
+      "url": "https://www.thefp.com/p/uss-abraham-lincoln-navy-iran-war-strait-hormuz-sailor-suicide-elliot-ackerman",
+      "summary": "In 2006, I was deployed aboard the USS\nIwo Jima\nas a Marine. Israel invaded Lebanon that summer and we were diverted off the coast of Beirut, where we stayed underway for weeks, without port calls or a break, while we evacuated U.S. citizens. The pace of operations was relentless…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "cc9221c2aea9a09a",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Press Didn’t Kill Jason Arday",
+      "url": "https://www.thefp.com/p/the-press-didnt-kill-jason-arday",
+      "summary": "This article argues against the social media narrative that press scrutiny caused Jason Arday's apparent suicide, following plagiarism allegations and fabrications in his life story. Journalists were reporting on an active story about a senior academic figure, and the timing amplified public interest.",
+      "tags": [
+        "journalism",
+        "ethics",
+        "media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d68692d1776b54a2",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "This Week in Canada: Your Ambassador Is Persona Non Grata",
+      "url": "https://www.thefp.com/p/this-week-in-canada-ambassador-trade-war-carney-trump",
+      "summary": "Donald Trump is poised to impose 50% tariffs on nearly $20 billion of Canadian imports by August 19, utilizing Section 338 of the Tariff Act of 1930, a weapon unused for almost a century. Negotiations are ongoing, but Canada stands as the first country targeted by this specific trade measure since its signing.",
+      "tags": [
+        "canada",
+        "us politics",
+        "trade war"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2e0f0a1415e34a6e",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "ABC sues the FCC over Trump and Carr&#8217;s campaign of threats",
+      "url": "https://www.theverge.com/streaming/981392/abc-fcc-broadcast-license-lawsuit",
+      "summary": "ABC and Disney are suing the FCC, alleging the agency waged a retaliatory campaign and threatened broadcast licenses over content critical of the Trump administration. This legal action follows FCC investigations into ABC's political coverage on shows like \"The View\" and with Jimmy Kimmel.",
+      "tags": [
+        "legal",
+        "fcc",
+        "media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a65043a7a6bdfaae",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Comcast is turning millions of its routers into motion detectors",
+      "url": "https://www.theverge.com/news/981381/comcast-xfinity-shield-wifi-motion-sensing",
+      "summary": "Comcast is updating compatible Xfinity routers to act as Wi-Fi motion sensors, enabling customers to monitor activity and receive notifications without additional hardware. This feature, part of the new Xfinity Shield service, detects disruptions in Wi-Fi signals between the gateway and connected devices.",
+      "tags": [
+        "iot",
+        "privacy",
+        "comcast"
+      ],
+      "priority": false
+    },
+    {
+      "id": "174db04bd28af7ef",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Coyote vs. Acme is even funnier because Warner Bros. Discovery tried to kill it",
+      "url": "https://www.theverge.com/entertainment/981131/coyote-vs-acme-david-zaslac-warner-bros-discovery",
+      "summary": "Warner Bros. Discovery's attempt to shelve \"Coyote vs. Acme\" for a tax write-off inadvertently drew more attention to the film, which has received generally positive reviews. This situation ironically highlights WBD's controversial practice of disappearing completed movies.",
+      "tags": [
+        "film",
+        "warner bros",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0c721b0cf9321629",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Firefox&#8217;s Smart Window promises a better AI browser",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+      "summary": "Firefox's Smart Window AI browsing mode now offers AI chats that pull from current web information and provide source links, thanks to a partnership with Exa. It also suggests tab groups and shows visual previews of past pages when searching browsing history using natural language.",
+      "tags": [
+        "ai",
+        "browser",
+        "firefox"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ada4193824d5bf8f",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "My parrot ate my keyboard",
+      "url": "https://www.theverge.com/tech/978402/parrot-ate-keyboard-protect",
+      "summary": "This personal essay describes the joys and challenges of pet ownership, particularly the difficulties of living and working from home with pets who interact destructively with technology. The author recounts an incident where their Senegal parrot, Kiyo, damaged a keyboard.",
+      "tags": [
+        "pets",
+        "personal",
+        "tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "481df8b052905cd4",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Peacock is raising prices by up to $3",
+      "url": "https://www.theverge.com/streaming/981418/peacock-price-increase-august-2026",
+      "summary": "Peacock is increasing its streaming prices across all plans, with the ad-supported Select tier rising by $1 and the ad-free Premium Plus by $3. New subscribers will see changes on August 18th, while existing users will be affected on or after September 17th.",
+      "tags": [
+        "streaming",
+        "prices",
+        "peacock"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8ceecdef36141cbe",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Polaroid’s new Pokémon collection captures memories, not Pikachus",
+      "url": "https://www.theverge.com/tech/981141/polaroid-pokemon-pikachu-now-go-generation-3-instant-camera-film",
+      "summary": "Polaroid is releasing a new collection of cameras, instant film, and accessories featuring limited-edition Pokémon designs to celebrate the franchise's 30th anniversary. This collaboration includes instant film printed with various Pokémon characters around the frames.",
+      "tags": [
+        "photography",
+        "collectibles",
+        "pokemon"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a74cda3976282c89",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The Verge Guide to Pets",
+      "url": "https://www.theverge.com/tech/975556/pets-tech-autofeeder-litter-robot-scale",
+      "summary": "This guide explores the intersection of technology and pet ownership, examining high-tech solutions for feeding, cleaning, monitoring, and entertaining pets. It highlights the complexities and potential over-promises of pet tech while offering advice on choosing effective tools.",
+      "tags": [
+        "pets",
+        "tech",
+        "guide"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 107,
+    "summarized": 85,
+    "skipped_promos": 1,
+    "filtered_by_rules": 21,
+    "sources": 13,
+    "email_items_omitted": 0
+  }
+}
