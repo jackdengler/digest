@@ -1,0 +1,1276 @@
+{
+  "date": "2026-08-20",
+  "generated_at": "2026-08-20T14:28:17+00:00",
+  "hot_topics": [
+    {
+      "topic": "AI Vulnerabilities, Misuse, and Public Trust",
+      "synthesis": "AI models like Grok and Meta's ad systems have shown significant vulnerabilities, allowing for data exfiltration via prompt injection or the promotion of illicit content like deepfake pornography. These incidents highlight the ongoing challenge of building effective guardrails and the public's growing wariness towards AI technologies, emphasizing the need for robust security and ethical frameworks.",
+      "item_ids": [
+        "22ccdc12f2a1fb14",
+        "7a97d0a9fb2d3eba",
+        "ab2491a447509424",
+        "a9f70a7ba4f67953",
+        "ecd00dbc5d840f46",
+        "6a9130b115a0adc6",
+        "9ce9ffcaa3fe88d8"
+      ]
+    },
+    {
+      "topic": "Expansion of Robotaxi Services",
+      "synthesis": "Autonomous vehicle companies Tesla and Waymo are rapidly expanding their robotaxi services across US cities, moving towards fully unsupervised operations. While Tesla is reportedly operating completely driverless in Austin and other Texas cities, Waymo has also unveiled details about its powerful onboard computing systems and made its next-gen robotaxis available to more riders, indicating a significant push towards mass-scale driverless transportation.",
+      "item_ids": [
+        "19411e61cfc029f0",
+        "800c806e914bd880",
+        "3f757c289488bc76"
+      ]
+    },
+    {
+      "topic": "Evergrande Founder Sentenced Amid China Property Crisis",
+      "synthesis": "The founder of China's collapsed property giant Evergrande, Hui Ka Yan, has been sentenced to life in prison. This marks a critical development in the fallout from Evergrande's immense debt of over $300 billion, underscoring the severe repercussions for individuals tied to the nation's ongoing property sector crisis.",
+      "item_ids": [
+        "89e574bfdb586770",
+        "2c85c59904abc989"
+      ]
+    },
+    {
+      "topic": "Rising US National Debt and Economic Indicators",
+      "synthesis": "The US national debt has surpassed $40 trillion, a figure highlighted amidst reports raising concerns about its economic implications. Simultaneously, the bond market is signaling potential trouble ahead, with falling bond prices reflecting investor worries about the US economy, suggesting underlying anxieties despite current job market stability.",
+      "item_ids": [
+        "112f05352b643303",
+        "01fa179de83b1890",
+        "0f5bb491750dee39"
+      ]
+    },
+    {
+      "topic": "Ongoing Israel-Gaza Conflict Developments",
+      "synthesis": "The Israel-Gaza conflict continues to generate international condemnation and scrutiny, particularly concerning the deaths of civilians and aid workers. Investigations into incidents like the killing of five-year-old Hind Rajab and an Australian aid worker are underway, while Israel proceeds with West Bank settlement projects, and regional diplomatic efforts face setbacks amidst escalating tensions and renewed economic measures by countries like the UAE against Iran.",
+      "item_ids": [
+        "cd04c8eceaebb657",
+        "77d16bd3ca0432b7",
+        "8d73749d0e241f73",
+        "61dfab394ad29973",
+        "3cea5b08f2c6d24e",
+        "e14554324c01db1b",
+        "0f5bb491750dee39"
+      ]
+    },
+    {
+      "topic": "AI's Impact on the Labor Market",
+      "synthesis": "Despite widespread predictions of an 'AI jobs apocalypse,' the American job market remains remarkably stable, prompting economists to question the technology's actual impact on employment figures. While AI significantly boosts individual productivity by automating tasks, it also shifts the limiting factor to cognitive capacity, suggesting continued demand for human teams to manage increased output and maintain conceptual integrity in software development.",
+      "item_ids": [
+        "80e8256f4c78cfd7",
+        "29f0079679147e16"
+      ]
+    },
+    {
+      "topic": "Controversies and Workarounds for DJI Cameras",
+      "synthesis": "DJI is facing challenges regarding its camera ecosystem, with the US banning certain models like the Osmo Pocket 4 Pro, yet these devices remain easily accessible through online black markets. Simultaneously, users are developing open-source alternatives to DJI's closed-source camera apps, seeking to bypass proprietary systems for managing and downloading footage.",
+      "item_ids": [
+        "5d129a7731d51473",
+        "e4a770506e24eaec"
+      ]
+    },
+    {
+      "topic": "Stripe Acquires OpenRouter",
+      "synthesis": "The payments giant Stripe has officially announced its acquisition of OpenRouter, an AI startup that facilitates routing prompts between different AI models. While Stripe vaguely referenced 'the singularity' as a reason, analysts suggest the actual motivation is more grounded in practical, powerful business objectives related to AI infrastructure.",
+      "item_ids": [
+        "405248546655b8af",
+        "a1d685910da5b2be"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "8a629bdd71da672d",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "A vocabulary for the future: touch",
+      "url": "https://aeon.co/videos/repulsion-at-the-core-of-attraction-on-the-paradox-of-touch",
+      "summary": "A video essay explores the concept of \"touch\" as a doorway into profound questions in physics and philosophy. It uses a blend of words and images to delve into the paradox of attraction and repulsion.",
+      "tags": [
+        "philosophy",
+        "physics",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "68a428a1d7c5aa47",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Dolphins and other lovers",
+      "url": "https://aeon.co/essays/why-the-andoque-of-the-amazon-fear-the-seductive-dolphin",
+      "summary": "An essay delves into the Amazonian Andoque people's fear of the seductive dolphin, which they perceive as both beautiful and dangerous. This explores indigenous knowledge and cultural perspectives on nature.",
+      "tags": [
+        "culture",
+        "anthropology",
+        "nature"
+      ],
+      "priority": false
+    },
+    {
+      "id": "01a3a786bc5f2d87",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "A fantastical journey unfolds in gorgeous Wildwood trailer",
+      "url": "https://arstechnica.com/culture/2026/08/a-fantastical-journey-unfolds-in-gorgeous-wildwood-trailer/",
+      "summary": "Laika Studios has released a full trailer for \"Wildwood,\" a forthcoming stop-motion animated fantasy film based on the novel by Colin Meloy and Carson Ellis. The story follows twelve-year-old Prue McKee as she enters a magical hidden world to find her kidnapped baby brother.",
+      "tags": [
+        "film",
+        "animation",
+        "fantasy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5e6932258bc0102d",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026",
+      "url": "https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/",
+      "summary": "Amazon aims to expand its Prime Air delivery drone service sixfold by the end of 2026, targeting nearly 500 US cities and towns. This expansion is expected to offer drone delivery to millions more people but may increase noise in communities.",
+      "tags": [
+        "drones",
+        "logistics",
+        "amazon"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e04955cfc58b78ec",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "FCC abolishes gigabit speed goal, suggesting it is unfair to slower technologies",
+      "url": "https://arstechnica.com/tech-policy/2026/08/fcc-abolishes-gigabit-speed-goal-suggesting-it-is-unfair-to-slower-technologies/",
+      "summary": "The FCC has eliminated the gigabit speed goal for broadband, stating it is not \"technologically neutral\" and suggesting it is unfair to slower technologies. This decision follows a 2024 update that raised the broadband benchmark to 100Mbps download and 20Mbps upload.",
+      "tags": [
+        "broadband",
+        "fcc",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9b9c7bf37533867d",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
+      "url": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
+      "summary": "Google won an auction to acquire a large dataset of Spirit Airlines' employment and workplace records, with an agreement to strip all personally identifiable information. Flight attendants expressed concern despite Google's commitment to de-identification and non-re-identification.",
+      "tags": [
+        "data privacy",
+        "acquisitions",
+        "airlines"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2838a1c22127af32",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops",
+      "url": "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/",
+      "summary": "A recent BIOS update (3.20) for Framework Laptop 13 with AMD Ryzen 7040-series processors has reportedly bricked some systems. Framework released the update to add support for new features and fix existing issues.",
+      "tags": [
+        "laptops",
+        "firmware",
+        "amd"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f31a38991808d1b3",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Google Pixel 11 series review: Is the magic fading?",
+      "url": "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
+      "summary": "Google's new Pixel 11 series is described as refined but \"boring,\" with few hardware changes and increased prices while maintaining the same design language for three generations. Despite some regressions, the phones are considered among the best of 2026, yet compete with Google's own previous models.",
+      "tags": [
+        "smartphones",
+        "google pixel",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "22ccdc12f2a1fb14",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+      "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+      "summary": "Earlier this week, researchers outlined an attack that used a secret input provided by Microsoft 365 Copilot for enterprise to cause the AI assistant to exfiltrate a password present in the user’s inbox. Now, a separate team has devised a similar attack against Grok. The new data…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "7a97d0a9fb2d3eba",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Meta ran ads for an app promising to nudify female politicians",
+      "url": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
+      "summary": "Meta platforms recently ran ads for an AI porn-generation tool that seemingly encouraged users to create\ndeepfaked\nvideos resembling female US politicians, despite the company’s policies against ads containing sexual material. It’s the latest in a\nseries of failures\nby Meta to ke…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "32f988a751045dde",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "mRNA cancer vaccine succeeded in Phase 3 melanoma trial, Moderna and Merck say",
+      "url": "https://arstechnica.com/health/2026/08/mrna-cancer-vaccine-succeeded-in-phase-3-melanoma-trial-moderna-and-merck-say/",
+      "summary": "Moderna and Merck announced that their individualized mRNA-based cancer vaccine showed success in a late-stage clinical trial for melanoma patients. The trial combined the tailored mRNA vaccine with Merck's Keytruda, marking a potential breakthrough for both mRNA vaccines and personalized cancer therapy.",
+      "tags": [
+        "medicine",
+        "vaccine",
+        "cancer"
+      ],
+      "priority": false
+    },
+    {
+      "id": "938bd01a46e7d697",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Scientists find closest star to the Milky Way's central black hole",
+      "url": "https://arstechnica.com/science/2026/08/scientists-find-closest-star-to-the-milky-ways-central-black-hole/",
+      "summary": "Scientists have discovered a star with an extremely eccentric orbit that brings it closer to the Milky Way's central supermassive black hole, Sgr A*, than previously identified. This star's unique trajectory may enable the first measurements of the black hole's spin.",
+      "tags": [
+        "astronomy",
+        "black hole",
+        "stars"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2ee8dd0b97e7943a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Assad officer extradited to Syria on war crimes charges for first time",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
+      "summary": "Former General Adel Issa, an Assad officer, has been extradited to Syria from Lebanon to face war crimes charges, marking a significant first. Syria is intensifying its efforts to prosecute wanted members of the former regime.",
+      "tags": [
+        "syria",
+        "war crimes",
+        "justice"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b6dfe620bf033638",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 15 people were killed in Kyiv following a \"massive attack\" on Thursday, targeting blocks of flats and warehouses. Ukrainian officials attribute the casualties to air defense shortages.",
+      "tags": [
+        "ukraine",
+        "conflict",
+        "kyiv"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cd04c8eceaebb657",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
+      "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+      "summary": "Australia expressed outrage after Israel decided not to open a criminal investigation into the killing of an aid worker in Gaza, leading to the summoning of the Israeli ambassador. Australia's foreign minister called the decision \"insulting.\"",
+      "tags": [
+        "gaza",
+        "israel",
+        "international relations"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8a85772d516495a9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Belgian car salesman becomes prince after royal parentage confirmed",
+      "url": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Clément Vandenkerckhove, a Belgian car salesman, has become a prince after his royal parentage was officially confirmed. He was quietly integrated into Prince Laurent's family.",
+      "tags": [
+        "royalty",
+        "belgium",
+        "social news"
+      ],
+      "priority": false
+    },
+    {
+      "id": "74c84c18ab857846",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Canadian marathon route was 674m too long",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/cvgw9wlky9zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Organizers of the Edmonton Marathon have admitted that this year's course was 674 meters too long. This discrepancy impacts the race results and runner achievements.",
+      "tags": [
+        "sports",
+        "running",
+        "canada"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a89b6f107af457bd",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
+      "url": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukrainian-born soldiers captured while fighting for Russia are facing treason trials in Ukraine, with many claiming they believed they were defending their homeland. Their testimonies come from a prisoner of war camp.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "war"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9f6cbf50f3b0b340",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+      "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The intelligence chief of Ecuador and five Americans were among seven people killed in a helicopter crash in Kenya. The incident involved Michele Sensi-Contugi and his wife Stephany Hollihan.",
+      "tags": [
+        "accident",
+        "kenya",
+        "international relations"
+      ],
+      "priority": false
+    },
+    {
+      "id": "de0340e86c8f489e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Former Liberian vice-president charged in drug-trafficking probe",
+      "url": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Former Liberian vice-president Jewel Howard-Taylor was arrested at Liberia's international airport and charged in a drug-trafficking probe. She has not yet commented on the allegations.",
+      "tags": [
+        "liberia",
+        "politics",
+        "drug trafficking"
+      ],
+      "priority": false
+    },
+    {
+      "id": "89e574bfdb586770",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
+      "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "8d8929114162ed59",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Four workers dead after being hit by train in Japan",
+      "url": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
+      "summary": "Four workers were killed after being hit by a train at Shin-Kanuma Station, north of Tokyo, according to Japanese authorities. The incident is under investigation.",
+      "tags": [
+        "japan",
+        "accident",
+        "train"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7bac361f0c447381",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
+      "url": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
+      "summary": "German investigators believe they have identified a neo-Nazi as the arsonist responsible for a deadly 1970 fire at a Jewish community center in Munich that killed seven people. This marks a breakthrough in a decades-old case.",
+      "tags": [
+        "crime",
+        "history",
+        "germany"
+      ],
+      "priority": false
+    },
+    {
+      "id": "77d16bd3ca0432b7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel has confirmed its soldiers fired at a car in which five-year-old Palestinian girl Hind Rajab was killed and has opened a criminal investigation. Hind initially survived the attack and pleaded for help, but her body was later recovered along with six relatives.",
+      "tags": [
+        "gaza",
+        "israel",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8d73749d0e241f73",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Israel opens up bids for highly sensitive West Bank settlement project",
+      "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel has opened bids for a highly sensitive West Bank settlement project, a move condemned by the UK's foreign secretary as \"an unacceptable and destructive act.\" This decision further strains international relations regarding the region.",
+      "tags": [
+        "israel",
+        "west bank",
+        "settlements"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7fdcf4d020c6f78a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Jellyfish mesmerise in their own museum in Florida",
+      "url": "https://www.bbc.co.uk/news/videos/c0m7eld12l1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Jellyfish Museum in Pompano Beach, Florida, is believed to be the first in the US dedicated entirely to the floating predators. It offers visitors an immersive experience to observe and learn about jellyfish.",
+      "tags": [
+        "culture",
+        "museum",
+        "florida"
+      ],
+      "priority": false
+    },
+    {
+      "id": "335ffc28d8755637",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Key Trump aide Natalie Harp suddenly in spotlight after years behind scenes",
+      "url": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Key Trump aide Natalie Harp has gained sudden public attention after years working behind the scenes. Her close relationship with the former president was noted in a speech by Democratic Senator Jon Ossoff.",
+      "tags": [
+        "politics",
+        "us politics",
+        "trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2e7a0adac98f5c4f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Missing teen hiker found dead in Australian bush after eight-day search",
+      "url": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
+      "summary": "Lily Hooper, a missing teen hiker, was found dead in the Australian bush after an eight-day search. The initial report from the state premier that she was found alive was later corrected by police.",
+      "tags": [
+        "missing persons",
+        "australia",
+        "tragedy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "61dfab394ad29973",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
+      "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Verify examined footage from multiple deadly Israeli strikes in Gaza that occurred within a 24-hour period. The strikes resulted in numerous casualties and widespread destruction.",
+      "tags": [
+        "gaza",
+        "israel",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "22230b1acda18f95",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
+      "url": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
+      "summary": "Prosecutors are arguing that Erin Patterson, the \"mushroom killer,\" should remain in jail indefinitely, calling her current sentence \"manifestly inadequate.\" They are appealing the sentence, which allows for the possibility of parole.",
+      "tags": [
+        "crime",
+        "justice",
+        "australia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "83251472d5388d96",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trial of mum accused of killing her three children puts postpartum psychosis on the map",
+      "url": "https://www.bbc.co.uk/news/articles/c5yedy98j7po?at_medium=RSS&at_campaign=rss",
+      "summary": "The trial of a mother accused of killing her three children is highlighting postpartum psychosis, a severe mental health condition that can involve mania, depression, hallucinations, and delusions. The case brings attention to this psychiatric emergency.",
+      "tags": [
+        "mental health",
+        "justice",
+        "health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3cea5b08f2c6d24e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump vows tougher economic measures on Iran and supporting countries",
+      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump vowed tougher economic measures on Iran and its supporting countries after a 60-day ceasefire expired without diplomatic progress. The conflict shows no sign of a diplomatic or military resolution.",
+      "tags": [
+        "iran",
+        "us politics",
+        "sanctions"
+      ],
+      "priority": false
+    },
+    {
+      "id": "28c3cd99ba167f7b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
+      "url": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Mykhailo Fedorov, Ukraine's ex-defence minister, has called for wartime elections without clarifying how they could be held during ongoing conflict. This proposal raises significant concerns about logistics and safety.",
+      "tags": [
+        "ukraine",
+        "politics",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2b55d34ed0077e76",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+      "summary": "AliExpress reportedly uses silent WebAudio fingerprinting, a technique identified as causing issues with Bluetooth multipoint connectivity. This practice raises concerns about user privacy and device functionality.",
+      "tags": [
+        "privacy",
+        "fingerprinting",
+        "ecommerce"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ed84bacf66ef9603",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Casio F-B100W-1A",
+      "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+      "summary": "Casio has released the F-B100W-1A, a new digital watch model. The product listing highlights its features and design as part of the Casio line.",
+      "tags": [
+        "watches",
+        "casio",
+        "consumer electronics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9ce9ffcaa3fe88d8",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Don't Paste the AI, please",
+      "url": "https://dontpastetheai.com/",
+      "summary": "Article URL:\nhttps://dontpastetheai.com/\nComments URL:\nhttps://news.ycombinator.com/item?id=49371857\nPoints: 808\n# Comments: 399",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "3a112337a031a292",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Go 1.27",
+      "url": "https://go.dev/blog/go1.27",
+      "summary": "Go 1.27 has been released, representing the latest iteration of the Go programming language. This update likely includes performance improvements, new features, and bug fixes for developers.",
+      "tags": [
+        "programming",
+        "go language",
+        "software development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9bc4338bd308a3dc",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Google has stopped pushing Git tags for some Android source code",
+      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+      "summary": "Google has ceased pushing Git tags for some Android source code, according to GrapheneOS. This change impacts developers and researchers who rely on these tags for tracking Android development history.",
+      "tags": [
+        "android",
+        "open source",
+        "google"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0ecef1db6aa3999d",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Manabu Kosaka's Handmade Paper Sculptures",
+      "url": "https://coca11272000.wixsite.com/manabukosaka",
+      "summary": "Manabu Kosaka's handmade paper sculptures are showcased, demonstrating intricate artistry. The artist creates detailed and captivating figures using paper.",
+      "tags": [
+        "art",
+        "sculpture",
+        "crafts"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a1d685910da5b2be",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "OpenRouter is joining Stripe",
+      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+      "summary": "Previously: Stripe will reportedly acquire OpenRouter for $7B+\nhttps://news.ycombinator.com/item?id=49323381\nComments URL:\nhttps://news.ycombinator.com/item?id=49364559\nPoints: 919\n# Comments: 469",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "6e0054cbec115d95",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "PostgreSQL for Everything",
+      "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+      "summary": "This post discusses the philosophy and practical applications of using PostgreSQL for a wide range of data storage and management needs. It advocates for leveraging PostgreSQL as a versatile \"everything\" database solution.",
+      "tags": [
+        "databases",
+        "postgresql",
+        "software development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "829bba8111a73b31",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Turns are Better than Radians (2022)",
+      "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+      "summary": "A 2022 article argues that \"turns\" are a more intuitive and practical unit of angular measurement than radians for many applications. It suggests that thinking in turns simplifies conceptual understanding in various fields.",
+      "tags": [
+        "mathematics",
+        "measurement",
+        "engineering"
+      ],
+      "priority": false
+    },
+    {
+      "id": "be091e8d17747edf",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+      "summary": "This article describes how to unlock a Cricut Maker that has been locked or deactivated, effectively repurposing e-waste. It provides a technical solution for regaining control over the device.",
+      "tags": [
+        "hardware",
+        "diy",
+        "e-waste"
+      ],
+      "priority": false
+    },
+    {
+      "id": "30f4bbce2cb97d2b",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Unsloth Dynamic 3.0 GGUFs",
+      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+      "summary": "Unsloth has released Dynamic 3.0 GGUFs, which are advanced model formats for efficient AI deployment. These GGUFs are designed to optimize the performance and usability of large language models.",
+      "tags": [
+        "ai models",
+        "llms",
+        "software development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4f77b0ca5ca335ce",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Windows brings out the Rorschach test in everyone (2003)",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+      "summary": "This 2003 article discusses how the design choices and user experience of Windows operating systems evoke strong, subjective interpretations from users. It likens the experience to a Rorschach test, revealing personal biases and expectations.",
+      "tags": [
+        "software design",
+        "windows",
+        "user experience"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2c85c59904abc989",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Chinese court sentences founder of property developer Evergrande to life in prison",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande",
+      "summary": "Chinese property developer Hui Ka Yan has been sentenced to life in prison. The decision marks a milestone in Evergrande's saga after it collapsed with more than $300 billion in liabilities.\n(Image credit: Mahesh Kumar A.)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "4f2ed15298a1d376",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Here's how the system to report problems in ICE detention has failed immigrants",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
+      "summary": "Critics argue that the system for reporting problems in ICE detention facilities has failed immigrants, leading to increased hunger strikes and protests over inhumane conditions and legal rights violations. The grievance process is deemed ineffective.",
+      "tags": [
+        "immigration",
+        "human rights",
+        "detention"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0f5bb491750dee39",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5931261/morning-news-brief",
+      "summary": "The morning news brief covers the U.S. debt surpassing $40 trillion, Gulf countries' reactions to the protracted Iran war, and U.S. oil companies' first deals with Venezuela.",
+      "tags": [
+        "economy",
+        "geopolitics",
+        "energy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2082bde564e50ac5",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "North Korea fires a suspected missile toward the sea, Japan says",
+      "url": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
+      "summary": "The suspected launch on Thursday comes a day after North Korea shrugged off a U.S. decision to scale back military drills with South Korea in an apparent bid to resume diplomacy.\n(Image credit: Ahn Young-joon)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "21746076350bdd75",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Privacy advocates call on Maryland to investigate data brokers",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
+      "summary": "Privacy advocates are urging Maryland to investigate data brokers, alleging violations of the state's strict data privacy laws by selling data to police and federal immigration agencies. Concerns are raised about the sharing of sensitive information.",
+      "tags": [
+        "privacy",
+        "data brokers",
+        "maryland"
+      ],
+      "priority": false
+    },
+    {
+      "id": "01fa179de83b1890",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
+      "summary": "The bond market is signaling potential trouble ahead for the U.S. economy, as a drop in bond prices reflects investor concerns. Many should pay attention to these indicators, which highlight broader economic anxieties.",
+      "tags": [
+        "economy",
+        "finance",
+        "investments"
+      ],
+      "priority": false
+    },
+    {
+      "id": "10ea4b8e23252b06",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "They grew up with disability rights. Now, they're fighting to keep them",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
+      "summary": "Siblings Cody and Kaleigh Brendle, who grew up with disability rights protections like community integration, are now fighting to preserve these rights. They express concern that these protections are being eroded.",
+      "tags": [
+        "disability rights",
+        "advocacy",
+        "social justice"
+      ],
+      "priority": false
+    },
+    {
+      "id": "112f05352b643303",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
+      "url": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
+      "summary": "The U.S. debt has surpassed $40 trillion, raising concerns, and a new census report on noncitizen voting, touted by President Trump, is tied to a think tank aligned with him, drawing expert criticism.",
+      "tags": [
+        "economy",
+        "politics",
+        "debt"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0cb191b46a64daa2",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
+      "summary": "A traveling festival is holding a blind taste test in Washington D.C. to determine which country makes the best jollof rice, a beloved West African dish. Foodies gather to sample different versions of the fragrant rice.",
+      "tags": [
+        "food",
+        "culture",
+        "west africa"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5d7af37f246703de",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Michael Cohen won’t say if he’ll use his Trump interview to seek a pardon",
+      "url": "https://www.politico.com/news/2026/08/19/michael-cohen-trump-interview-radio-pardon-01043191",
+      "summary": "Michael Cohen, former lawyer for Donald Trump, is scheduled to interview the former president on his radio show, signaling a private reconciliation between the two. Cohen is considering whether to seek a presidential pardon for his past conviction during the interview.",
+      "tags": [
+        "us politics",
+        "legal",
+        "trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6a9130b115a0adc6",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "Are We Thinking Correctly About AI Intelligence?",
+      "url": "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/",
+      "summary": "Melanie Mitchell at the Santa Fe Institute questions whether LLMs truly reason like humans or simply produce text that resembles reasoning. This distinction is crucial for understanding what tasks AI can be trusted with and how to measure its real-world impact.",
+      "tags": [
+        "ai",
+        "philosophy",
+        "llms"
+      ],
+      "priority": false
+    },
+    {
+      "id": "29f0079679147e16",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Conceptual integrity and counting lines of code",
+      "url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
+      "summary": "A discussion on AI's impact on software development highlights that while coding agents boost productivity significantly, the cognitive load of managing more code means teams remain essential. It also notes that AI-generated features can challenge the 'conceptual integrity' of software, making discipline critical.",
+      "tags": [
+        "ai",
+        "software development",
+        "productivity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b61501752933c1cd",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
+      "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
+      "summary": "Researchers are testing smolmachines / smolvm as a fast, secure sandbox for running untrusted Python and JavaScript code with limited resources and no network access. Claude Fable 5 was proactively used in the research to overcome environmental limitations.",
+      "tags": [
+        "sandboxing",
+        "ai",
+        "security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "22954236caf23da7",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "The have-and-have-not housing market",
+      "url": "https://www.slowboring.com/p/the-have-and-have-not-housing-market",
+      "summary": "Housing starts for single- and multi-family construction declined 12.4% in July, falling 13.5% from the previous year, according to Commerce Department data. However, residential permits rose 5%, indicating potential for new housing construction in the future.",
+      "tags": [
+        "housing market",
+        "economy",
+        "real estate"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4226ab405181d7d1",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "AI data giant Alation confirms cyberattack",
+      "url": "https://techcrunch.com/2026/08/20/ai-data-giant-alation-confirms-cyberattack/",
+      "summary": "AI data giant Alation has confirmed a cyberattack involving unauthorized access to its systems. The company is currently investigating the breach.",
+      "tags": [
+        "cybersecurity",
+        "ai",
+        "data breach"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a9f70a7ba4f67953",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "AI was supposed to win people over by now — it hasn’t",
+      "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "9876449dc3e83006",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apollo Atomics wants to make nuclear power cheaper by shrinking an overlooked part",
+      "url": "https://techcrunch.com/2026/08/20/apollo-atomics-wants-to-make-nuclear-power-cheaper-by-shrinking-an-overlooked-part/",
+      "summary": "Apollo Atomics, a Y Combinator alumnus, is working to reduce nuclear power costs by miniaturizing a critical reactor component. This innovation aims to make electricity generated from nuclear sources cheaper than natural gas.",
+      "tags": [
+        "nuclear energy",
+        "startups",
+        "clean tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2b72e3e7161fa884",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+      "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+      "summary": "Binance now allows AI agents to trade on its platform, with the responsibility of controlling these agents largely placed on users. The \"Agent OS\" feature supports integration with various AI tools, including ChatGPT and Claude Code.",
+      "tags": [
+        "crypto",
+        "ai",
+        "trading"
+      ],
+      "priority": false
+    },
+    {
+      "id": "32aea7fa60355227",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "For a16z, AI gives foreign founders an advantage",
+      "url": "https://techcrunch.com/2026/08/20/for-a16z-ai-gives-foreign-founders-an-advantage/",
+      "summary": "VC firm a16z believes that AI offers an advantage to foreign and immigrant founders, supported by its Borderless Founder network initiative. The firm suggests that having ties to both a home country and Silicon Valley can be beneficial for innovation.",
+      "tags": [
+        "venture capital",
+        "startups",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "66de32df8c8ca5aa",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Google packs Search and Gemini with new AI study tools",
+      "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "summary": "Google has introduced new AI-powered study tools across Search and Gemini, aiming to position Gemini as the preferred AI assistant for students. This move intensifies competition with other AI companies like OpenAI in the educational technology space.",
+      "tags": [
+        "google",
+        "ai",
+        "education"
+      ],
+      "priority": false
+    },
+    {
+      "id": "acd5c350394caacb",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Gwyneth Paltrow allegedly set to throw dinner in honor of Sam Altman",
+      "url": "https://techcrunch.com/2026/08/19/gwyneth-paltrow-allegedly-set-to-throw-dinner-in-honor-of-sam-altman/",
+      "summary": "Gwyneth Paltrow is reportedly hosting a dinner in honor of Sam Altman, with her firm Kinship Ventures being an investor in his company. This event highlights the intertwining of celebrity and tech investment circles.",
+      "tags": [
+        "celebrity",
+        "tech",
+        "investment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0330543d501075f4",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Meet the startup helping Wall Street put a price on AI compute",
+      "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+      "summary": "Silicon Data is a startup helping Wall Street quantify and hedge the cost of AI compute, which has become the largest expense for AI product developers. This addresses the need for a standardized way to price compute amid the industry's rapid buildout.",
+      "tags": [
+        "ai",
+        "finance",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e4fb34ea0e6896f8",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Meta AI’s new Mac app wants you to talk to your apps",
+      "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+      "summary": "Meta AI has launched a new Mac app for its Muse Spark model, aiming to integrate dictation features that allow users to talk to their applications. This initiative suggests a move towards more natural language interaction with software.",
+      "tags": [
+        "meta",
+        "ai",
+        "mac"
+      ],
+      "priority": false
+    },
+    {
+      "id": "aaceee8217f897ed",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "ecd00dbc5d840f46",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Researchers say OpenAI revoked their access to limited cyber program",
+      "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "68c3bc15bbfb4717",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
+      "url": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
+      "summary": "AI-native account startup Rillet has achieved a $1 billion valuation after raising a $100 million Series C round led by Iconiq. The company doubled its Annual Recurring Revenue (ARR) in the last three months, two years post-stealth.",
+      "tags": [
+        "startups",
+        "ai",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "405248546655b8af",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+      "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+      "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f472af28569a5707",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "T-Mobile ‘chopped a cable’ to expel Chinese hackers from its network",
+      "url": "https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/",
+      "summary": "T-Mobile successfully expelled Chinese-backed hackers from its network by physically cutting a cable after identifying an attempted large-scale breach. This decisive action highlights a direct response to cybersecurity threats.",
+      "tags": [
+        "cybersecurity",
+        "t-mobile",
+        "national security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d9b8c7e25471163d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’",
+      "url": "https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/",
+      "summary": "Travis Kalanick, after raising $1.7 billion for his robotics company Atoms, has criticized venture capitalists, stating only 1% are helpful. This reflects his introspection on the role VCs played throughout his career.",
+      "tags": [
+        "venture capital",
+        "startups",
+        "robotics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ab2491a447509424",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "US says hackers are targeting vulnerable water systems with the help of AI",
+      "url": "https://techcrunch.com/2026/08/20/us-says-hackers-are-targeting-vulnerable-water-systems-with-the-help-of-ai/",
+      "summary": "Hackers are targeting internet-connected Siemens controllers used in water facilities around the United States.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "3f757c289488bc76",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
+      "url": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
+      "summary": "The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "e14554324c01db1b",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "AOC for President? Plus. . .",
+      "url": "https://www.thefp.com/p/aoc-for-president-plus",
+      "summary": "Alexandria Ocasio-Cortez has emerged as an early front-runner in prediction markets for the 2028 presidential election, with analysts assessing her chances amid a socialist surge in Democratic primaries. President Trump also announced a delay on new tariffs for Canada and hinted at future negotiations with Iran.",
+      "tags": [
+        "politics",
+        "elections",
+        "trade"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7ae1d34ccbb3ac8a",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "How AOC Could Win the Presidential Nomination",
+      "url": "https://www.thefp.com/p/alexandria-ocasio-cortez-democrats-presidency",
+      "summary": "Alexandria Ocasio-Cortez is being assessed as a potential front-runner for the 2028 Democratic presidential nomination, with a clear path due to the ascendant progressive wing and lack of other prominent candidates. Her strong national following and potential backing from Bernie Sanders could give her a significant advantage.",
+      "tags": [
+        "politics",
+        "elections",
+        "democrats"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6ebb5d8625911f55",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Ronald Reagan’s Greatest Speech",
+      "url": "https://www.thefp.com/p/ronald-reagan-greatest-speech-legacy",
+      "summary": "Ronald Reagan's 1976 Republican National Convention speech, given during a close fight for the GOP nomination against incumbent Gerald Ford, is highlighted as one of his most important. Despite losing the nomination, his speech posed a powerful question about the future legacy of Americans.",
+      "tags": [
+        "history",
+        "politics",
+        "speeches"
+      ],
+      "priority": false
+    },
+    {
+      "id": "351cf342ed8af09b",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Reckoning of Dr. Anthony Fauci",
+      "url": "https://www.thefp.com/p/vinay-prasad-reckoning-anthony-fauci",
+      "summary": "Dr. Anthony Fauci's diaries from 2019 onwards, covering his time as Covid-19 czar, have been publicly released by Senator Rand Paul. The release offers insight into one of the most polarizing figures of the global pandemic.",
+      "tags": [
+        "politics",
+        "covid-19",
+        "public health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "10cc792509311754",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Socialist Surge Hits Florida",
+      "url": "https://www.thefp.com/p/socialist-surge-florida-angie-nixon-senate-primary",
+      "summary": "Three-term state representative Angie Nixon, a democratic socialist, unexpectedly won Florida's Democratic Senate primary, defying expectations that the socialist surge had stalled in the state. This victory came against establishment-backed candidate Alexander Vindman.",
+      "tags": [
+        "politics",
+        "elections",
+        "socialism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "80e8256f4c78cfd7",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Where Is the AI Jobs Apocalypse?",
+      "url": "https://www.thefp.com/p/ai-jobs-unemployment-economy",
+      "summary": "Artificial intelligence is changing everything—and fast. Or at least, that is what we’re told. Nowhere are the predictions of the transformative—and potentially disastrous—consequences of AI more dramatic than in the job market. The technology is supposed to be killing coding job…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f4a160849a667ea3",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "How to Hold Death and Carry Life: A Zen Master Explains Existence to a Child and Outlines the Three Essential Principles of Zen Mind",
+      "url": "https://www.themarginalian.org/2026/08/19/dropping-ashes-on-the-buddha-death/",
+      "summary": "A Zen master explains death and existence to a child, using the metaphor of cookies from the same dough to illustrate the unity of all things. The piece also outlines Zen's three essential principles: great faith, great courage, and great questioning.",
+      "tags": [
+        "philosophy",
+        "zen",
+        "death"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5d129a7731d51473",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "DJI Osmo fans are breaking the shackles of its closed-source camera app",
+      "url": "https://www.theverge.com/tech/981852/osmosis-app-download-dji-osmo-camera-video-mimo-replacement",
+      "summary": "The DJI Osmo Pocket 4 Pro and Pocket 3, flanking my phone with the Osmosis app. | Photo by Sean Hollister / The Verge\nEven if you love DJI's drones and cameras, you might not love the company's bloated closed-source apps that phone home to its cloud servers. But they're the only…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "19ed551b9ac743b5",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Here’s what data Comcast says its motion-detecting routers collect",
+      "url": "https://www.theverge.com/tech/982689/comcast-xfinity-wifi-motion-privacy-concerns-response",
+      "summary": "Comcast's new Xfinity Shield platform includes an opt-in Wi-Fi Motion service that turns routers into motion sensors, sparking privacy concerns among customers. Comcast states it may share motion-sensing data if legally compelled.",
+      "tags": [
+        "privacy",
+        "smart home",
+        "comcast"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e4a770506e24eaec",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "I bought DJI’s banned camera — it was cheap and easy",
+      "url": "https://www.theverge.com/tech/981669/dji-osmo-pocket-4-pro-us-ban-black-market",
+      "summary": "As a kid, I always imagined the \"black market\" would be like the movies: Shady vendors hawking illicit goods along dusty streets. But if you want a banned DJI Osmo Pocket 4 or Pocket 4 Pro camera in the US, you can just reach for your phone.\nThey're on Temu, AliExpress, eBay, Mer…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "19411e61cfc029f0",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Tesla Robotaxis appear to go fully unsupervised in Austin ahead of Cybercab launch",
+      "url": "https://www.theverge.com/transportation/982759/tesla-robotaxi-unsupervised-austin-robotaxi-tracker",
+      "summary": "Seven months after Elon Musk\nannounced\nthat Tesla Robotaxis in Austin were operating without human safety monitors onboard, the city's service appears to have finally gone fully driverless.\nOver the past two weeks, all 170 Tesla Robotaxi rides in Austin monitored by the crowdsour…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "6f0bcaf67a7a6ce4",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "This tiny guitar amp is the most unhinged distortion pedal I’ve ever used",
+      "url": "https://www.theverge.com/gadgets/982598/death-by-audio-rainger-fx-amp-crash-guitar-pedal-review",
+      "summary": "The \"Amp Crash\" by Death By Audio is a unique guitar pedal that functions as both a tiny 3-watt amp and a distortion pedal, featuring a 2-inch speaker. It produces a distinctively harsh and boxy tone, favored by some rock guitarists.",
+      "tags": [
+        "music tech",
+        "guitar",
+        "audio"
+      ],
+      "priority": false
+    },
+    {
+      "id": "800c806e914bd880",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Waymo lifts the lid on the ‘brain’ powering its robotaxis",
+      "url": "https://www.theverge.com/transportation/982653/waymo-brain-computer-chip-robotaxi-hardware-suppliers",
+      "summary": "What's in the trunk of your car? Shopping bags? A spare tire? Jumper cables? What about a high-powered computer capable of performing up to one quadrillion operations a second? Only if you're Waymo.\nFor the first time, Waymo revealed key details about the heavy compute \"brain\" ho…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "4715d7d47664d738",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "We played The Duskbloods, the Switch 2&#8217;s wildest new exclusive",
+      "url": "https://www.theverge.com/entertainment/981990/the-duskbloods-hands-on-nintendo-switch-2-fromsoftware",
+      "summary": "The Duskbloods\nis a world away from the approachable games Nintendo is known for. But for its next Switch 2 exclusive, the company has partnered with\nElden Ring\ndeveloper FromSoftware on a hardcore multiplayer game about vampires. And after spending a few hours playing through it…",
+      "tags": [],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 117,
+    "summarized": 90,
+    "skipped_promos": 1,
+    "filtered_by_rules": 26,
+    "sources": 13,
+    "email_items_omitted": 0
+  }
+}
