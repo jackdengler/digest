@@ -1,0 +1,1242 @@
+{
+  "date": "2026-08-22",
+  "generated_at": "2026-08-22T14:15:36+00:00",
+  "hot_topics": [
+    {
+      "topic": "US-Canada Trade Dispute Escalates",
+      "synthesis": "Trade relations between the US and Canada have significantly deteriorated as Canada suspended negotiations and vowed to match new US tariffs dollar for dollar. This follows the US imposing a 50% levy on $20 billion worth of Canadian products, marking a serious escalation in economic tensions. This dispute, centered on trade tariffs, has been widely reported by major news outlets.",
+      "item_ids": [
+        "bb180c7973a4aba9",
+        "1d8e99e9a45ede00",
+        "ffb510f35750bf57"
+      ]
+    },
+    {
+      "topic": "TikTok Settles Child Privacy Lawsuit for $400 Million",
+      "synthesis": "TikTok has reached a substantial $400 million settlement with the US Department of Justice over a 2024 lawsuit alleging violations of the Children's Online Privacy Protection Act (COPPA). The settlement addresses claims that TikTok collected vast amounts of data from users under 13 without parental consent and failed to delete requested accounts. This marks one of the largest recoveries in a child privacy case, reflecting increased regulatory scrutiny on platforms handling children's data.",
+      "item_ids": [
+        "e9eca95e12c7176b",
+        "f784519dc6f805ba",
+        "e6ed5e906569c4ab"
+      ]
+    },
+    {
+      "topic": "Prince Harry and Meghan Markle Reportedly Return to UK",
+      "synthesis": "Prince Harry and Meghan Markle are reportedly returning to live in the UK after six years in the US, despite Harry previously claiming it was 'impossible' due to media campaigns and family issues. The move comes as their Hollywood ventures have struggled, with Meghan reportedly in talks for a Netflix acting role. This homecoming sparks speculation about their future public roles and financial independence, as they will not be working royals.",
+      "item_ids": [
+        "f5a79991d88dac4d",
+        "d6f9cc18c6cc3822",
+        "cebb311e97420768",
+        "054c44a838a81e01"
+      ]
+    },
+    {
+      "topic": "Walmart to Finally Accept Apple Pay and Google Pay",
+      "synthesis": "Walmart is finally integrating Apple Pay and Google Pay into its stores, ending its long-standing reliance on its own mobile payment system, Walmart Pay. The rollout will begin in select Walmart and Sam's Club locations in late August, with full implementation across all US stores by the end of 2026. This move marks a significant shift for the retail giant, offering customers more convenient contactless payment options.",
+      "item_ids": [
+        "8ff635eebcc69c3f",
+        "d4e352b056faf67f"
+      ]
+    },
+    {
+      "topic": "Lindsay Clancy Trial Highlights Postpartum Psychosis Defense",
+      "synthesis": "The trial of Lindsay Clancy, who admitted to killing her three children, is intensely focused on her defense of postpartum psychosis, with a forensic psychiatrist testifying to 'command hallucinations.' The case has ignited a significant public and online debate, particularly among women, drawing parallels to the O.J. Simpson trial regarding how societal issues like the burdens on mothers influence perceptions of guilt and responsibility.",
+      "item_ids": [
+        "7dcc307419dc6f63",
+        "3e9718ceb2b4160b"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "fc52f9e49b0061be",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Chinese regulators tell Tesla to fix nearly 3 million cars",
+      "url": "https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/",
+      "summary": "Chinese regulators are requiring Tesla to address safety concerns in nearly 3 million Model 3 and Model Y vehicles by adding warning labels for emergency door opening and pushing a software update for window auto-lowering in a collision.",
+      "tags": [
+        "automotive",
+        "recalls",
+        "safety"
+      ],
+      "priority": false
+    },
+    {
+      "id": "aaa55bdfa7e0c34b",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
+      "url": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/",
+      "summary": "The Trump administration's proposed rollback of the 2001 Roadless Rule threatens 5% of US land free of roads, impacting wildlife and water, particularly in areas like Tongass National Forest.",
+      "tags": [
+        "environmental policy",
+        "conservation",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f22dad05305c27ba",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Fighter jets help destroy Russian drone boat near European offshore gas platform",
+      "url": "https://arstechnica.com/gadgets/2026/08/explosive-russian-drone-boat-destroyed-near-european-offshore-gas-site/",
+      "summary": "A Romanian F-16 fighter jet disabled a Russian explosive drone boat near a vital European natural gas platform in the Black Sea, which was then safely detonated by experts.",
+      "tags": [
+        "geopolitics",
+        "security",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7a4c58dd2c446903",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says",
+      "url": "https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/",
+      "summary": "A class-action lawsuit accuses brokerage firm Compass of creating an artificial supply shock and raising NYC rents by allegedly delisting rental units from free platforms like Zillow.",
+      "tags": [
+        "housing",
+        "nyc",
+        "lawsuit"
+      ],
+      "priority": false
+    },
+    {
+      "id": "149756218415d95c",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Lawsuit demands Logitech hand tariff refunds over to customers",
+      "url": "https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/",
+      "summary": "Logitech faces a class action lawsuit for not refunding customers for price increases linked to import tariffs that were later declared unlawful by the Supreme Court.",
+      "tags": [
+        "consumer rights",
+        "lawsuit",
+        "tariffs"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b0f52123467253fc",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Personalized pricing is “abhorrent,” but FTC limits may increase costs, critics say",
+      "url": "https://arstechnica.com/tech-policy/2026/08/critics-ftc-limits-on-personalized-pricing-may-increase-costs-kill-discounts/",
+      "summary": "Critics are concerned that the FTC's proposed limits on personalized pricing, which uses personal data to determine optimal prices, could inadvertently eliminate consumer discounts or lead to higher prices.",
+      "tags": [
+        "consumer protection",
+        "privacy",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2f9d03293ad4e749",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Thunder + fiber-optic cabling used for seismic imaging",
+      "url": "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/",
+      "summary": "Penn State scientists have developed a model to use \"thunderquakes\" – seismic signals from thunderstorms detected via fiber-optic cabling – for imaging the Earth's upper crust, offering a new method for seismic data collection.",
+      "tags": [
+        "science",
+        "geology",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "84c311286d3fcb58",
+      "source": "Astral Codex Ten",
+      "source_type": "substack",
+      "title": "Your Book Review: A Residence Of 21 Years In The Sandwich Islands",
+      "url": "https://www.astralcodexten.com/p/your-book-review-a-residence-of-21",
+      "summary": "This book review examines \"A Residence of Twenty-One Years in the Sandwich Islands\" by missionary Hiram Bingham I, drawing parallels between historical missionary work and modern Effective Altruism in the context of converting Hawaiians.",
+      "tags": [
+        "history",
+        "religion",
+        "effective altruism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8754cecd75e328fa",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
+      "url": "https://www.bbc.co.uk/news/videos/c235j22d85ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The article analyzes what prompts US President Trump to silence reporters, examining the types of questions he prefers not to answer.",
+      "tags": [
+        "us politics",
+        "media",
+        "donald trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f5a79991d88dac4d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
+      "url": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
+      "summary": "Returning to the UK, Harry and Meghan are reportedly seeking a new public brand, as they will not be working royals, prompting speculation on their future roles.",
+      "tags": [
+        "royal family",
+        "media",
+        "uk"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1d8e99e9a45ede00",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+      "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Canada has announced it will impose a 50% levy on $20 billion of US imports, matching tariffs after trade talks with the United States broke down.",
+      "tags": [
+        "trade",
+        "canada",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6e0c4b9c0932505e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Drugs at their fingertips, intense pressure: Why child stars fall into addiction",
+      "url": "https://www.bbc.co.uk/news/articles/cq56x3910jwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Experts explain that the intense pressures and accessibility of drugs associated with childhood stardom place young actors at a significantly higher risk of developing substance abuse issues.",
+      "tags": [
+        "entertainment industry",
+        "mental health",
+        "addiction"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fe71e9da404df1a1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
+      "url": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
+      "summary": "An Ebola vaccine trial is set to begin in the Democratic Republic of Congo as warnings are issued about the rapid speed of infections, with half of the 2,500 recorded deaths occurring in the last 20 days.",
+      "tags": [
+        "public health",
+        "ebola",
+        "vaccine"
+      ],
+      "priority": false
+    },
+    {
+      "id": "330d82e1df60afc8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears",
+      "url": "https://www.bbc.co.uk/news/articles/c24me64n31qo?at_medium=RSS&at_campaign=rss",
+      "summary": "An anticipated Virgin Mary festival in Ethiopia's Tigray region has been canceled due to fears of drone strikes, following recent aerial attacks.",
+      "tags": [
+        "ethiopia",
+        "conflict",
+        "religion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a1c357cdbc4e57de",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
+      "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+      "summary": "A father reportedly left his 7-year-old son alone on Mount Fuji after the child became tired, continuing his hike without him.",
+      "tags": [
+        "japan",
+        "parenting",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "045747d4ee4448fb",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Fourteen killed in strike on Myanmar monastery",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fourteen people were killed when a monastery in Myanmar was struck twice as civilians were gathered for a meditation retreat.",
+      "tags": [
+        "myanmar",
+        "conflict",
+        "human rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d854fe8a5ff4549e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
+      "url": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
+      "summary": "German intelligence is investigating potential Russian links to a weapons cache discovered in woods last year, with reports suggesting the arms were intended for assassinations on behalf of Moscow.",
+      "tags": [
+        "germany",
+        "russia",
+        "intelligence"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2c0e69e1bbb59eb3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How Israel is expanding settlements in drive to reshape West Bank",
+      "url": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel has significantly expanded building and road construction on Palestinian land, indicating a continued effort to reshape the West Bank through settlement expansion.",
+      "tags": [
+        "israel",
+        "palestine",
+        "geopolitics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7dcc307419dc6f63",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
+      "url": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
+      "summary": "A forensic psychiatrist testified in court that Lindsay Clancy was suffering from \"command hallucination\" due to postpartum psychosis when she killed her three children, as part of the defense's final witness presentation.",
+      "tags": [
+        "mental health",
+        "legal",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d6f9cc18c6cc3822",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
+      "url": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Meghan Markle is reportedly in talks for a role in Netflix's series 'The Gentlemen,' which would mark her first significant acting role since marrying Prince Harry.",
+      "tags": [
+        "meghan markle",
+        "entertainment",
+        "netflix"
+      ],
+      "priority": false
+    },
+    {
+      "id": "982dd8ca6cbeb940",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Modi spent years building his strong image - why is he making Gen Z reels now?",
+      "url": "https://www.bbc.co.uk/news/articles/cnvn0n1nld6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Indian Prime Minister Narendra Modi is adopting a more casual online persona through \"Gen Z reels,\" aiming to attract young Indians, though this new image is met with skepticism.",
+      "tags": [
+        "india",
+        "politics",
+        "social media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e5f4c0b7b601ba82",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "One killed in sword attack at Swedish school",
+      "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+      "summary": "One person was killed and three others injured in a sword attack at a Swedish school, leading to the arrest of an 18-year-old male suspect who was shot by officials.",
+      "tags": [
+        "sweden",
+        "crime",
+        "violence"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8158db92bb110606",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Priyanka Chopra Jonas on making a film about love and caste inequality",
+      "url": "https://www.bbc.co.uk/news/videos/cn4nk1915vxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Priyanka Chopra Jonas served as executive producer for \"The Cycle of Love,\" a film based on an Indian artist's journey to reunite with his wife, which explores themes of love and caste inequality.",
+      "tags": [
+        "film",
+        "india",
+        "social issues"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2f133a5267a303aa",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Rescuers are searching through the wreckage of a Ukrainian mall after a Russian strike killed 16 people and injured 130, with four individuals still missing, prompting President Zelensky to condemn the attack.",
+      "tags": [
+        "ukraine",
+        "conflict",
+        "war crimes"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b74bf9120c6a99bd",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Robot horse and rider steal the spotlight at Chinese conference",
+      "url": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
+      "summary": "A robot horse and rider captivated attendees at a Chinese conference showcasing robotics, where over 300 companies presented their latest advancements.",
+      "tags": [
+        "robotics",
+        "china",
+        "innovation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5beb5747ca0eb28a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+      "url": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Sydney Marathon unveiled a new double-sided medal that mistakenly features Munich's Olympic Stadium, an error quickly identified by online sleuths.",
+      "tags": [
+        "sports",
+        "error",
+        "australia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8061229746910ff2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "These bookshops let Chinese readers question their country - now the doors are closing",
+      "url": "https://www.bbc.co.uk/news/articles/cj0338l6yg4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hong Kong's independent bookstores, which offered mainland Chinese readers a glimpse into a freer world and alternative perspectives, are now facing closure.",
+      "tags": [
+        "hong kong",
+        "censorship",
+        "books"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e6ed5e906569c4ab",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+      "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+      "summary": "TikTok and its parent company ByteDance will pay $400 million to the US in a significant child privacy settlement following a 2024 lawsuit alleging the collection of vast amounts of data from users under 13.",
+      "tags": [
+        "tiktok",
+        "privacy",
+        "lawsuit"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3f92bcd46612ad2c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Tornadoes touch down in New York and Delaware",
+      "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tornadoes have touched down in New York and Delaware, accompanying severe storms that brought torrential rain to the Mid-Atlantic region.",
+      "tags": [
+        "weather",
+        "usa",
+        "natural disasters"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fbab8915fd718afe",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
+      "url": "https://www.bbc.co.uk/news/articles/cly57kzgr0ko?at_medium=RSS&at_campaign=rss",
+      "summary": "A recording played in court revealed that the man accused of Tupac Shakur's murder told police in 2008 that his nephew was the one who fired the fatal shots.",
+      "tags": [
+        "crime",
+        "music",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3b1ba4d2d4465909",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Two injured in stabbing attack at Canada Sikh temple",
+      "url": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two people were injured in a stabbing attack at a Sikh temple in Canada, with one suspect in custody and police investigating possible hate crime motives.",
+      "tags": [
+        "canada",
+        "crime",
+        "hate crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e8271cccdfea6247",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+      "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK, Canada, and Australia have condemned Israel for declining a criminal investigation into the 2024 killing of seven World Central Kitchen aid workers in Gaza by an Israeli strike.",
+      "tags": [
+        "israel",
+        "gaza",
+        "international relations"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bb180c7973a4aba9",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
+      "url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
+      "summary": "Canada has suspended trade negotiations with the USA and announced it will match dollar-for-dollar tariffs imposed by the US, following a new 50% levy on $20 billion of Canadian imports.",
+      "tags": [
+        "trade",
+        "canada",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "256bff4ca974325d",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+      "summary": "'Claudette' is a tool designed to adjust the tone of Claude AI models, preventing them from generating content that sounds like a BuzzFeed article.",
+      "tags": [
+        "ai",
+        "natural language processing",
+        "tools"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a3c4604d9afc7450",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Felony Bench",
+      "url": "https://www.felonybench.com/",
+      "summary": "This item refers to 'Felony Bench,' likely a platform or resource related to legal matters, without further details in the provided text.",
+      "tags": [
+        "legal",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a8b8584313e10626",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+      "url": "https://lina.sh/blog/hijacking-e164-arpa",
+      "summary": "The author accidentally logged hundreds of thousands of phone calls directed to military bases, indicating a significant security or privacy oversight.",
+      "tags": [
+        "cybersecurity",
+        "privacy",
+        "telecommunications"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f0b4c945bc6b1130",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Kagi added a setting for removing paywalled links from search results",
+      "url": "https://kagi.com/changelog#11296",
+      "summary": "Kagi search engine has introduced a new feature allowing users to filter paywalled links from their search results, enhancing user experience.",
+      "tags": [
+        "search engines",
+        "privacy",
+        "web services"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0955f1db23d79578",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Kobo can run apps now",
+      "url": "https://bandarlabs.github.io/Cobalt/",
+      "summary": "Kobo e-readers can now run applications, expanding their functionality beyond reading to include other software capabilities.",
+      "tags": [
+        "e-readers",
+        "software",
+        "kobo"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9d48e7d55298258b",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson",
+      "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
+      "summary": "The article posits that contemporary society increasingly resembles the dystopian or futuristic visions described in the works of science fiction authors J.G. Ballard and William Gibson.",
+      "tags": [
+        "science fiction",
+        "culture",
+        "society"
+      ],
+      "priority": false
+    },
+    {
+      "id": "08c7cea10eb508a1",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "OTel isn’t going well",
+      "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+      "summary": "The article discusses challenges and concerns regarding the implementation and adoption of OpenTelemetry (OTel), supported by a spreadsheet detailing the issues.",
+      "tags": [
+        "software development",
+        "observability",
+        "open telemetry"
+      ],
+      "priority": false
+    },
+    {
+      "id": "18e3ae20fb4a26ee",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Rust Glancer: Rust LSP using 100x less RAM",
+      "url": "https://rust-glancer.github.io/blog/hello-world/",
+      "summary": "Rust Glancer is a new Rust Language Server Protocol (LSP) implementation that boasts significantly reduced RAM consumption, using 100 times less memory than existing solutions.",
+      "tags": [
+        "rust",
+        "programming",
+        "software development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3abe4209e6b50163",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Scientists release biggest 2D map of the universe",
+      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+      "summary": "Scientists have released the largest 2D map of the universe to date, providing a comprehensive visual representation of cosmic structures.",
+      "tags": [
+        "astronomy",
+        "science",
+        "space"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0d897c14ac1dd8e7",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "There's no reason for software to be slow anymore",
+      "url": "https://danluu.com/perf-opt/",
+      "summary": "This article argues that modern software development practices and tools mean there is no longer a valid excuse for applications to perform slowly.",
+      "tags": [
+        "software development",
+        "performance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0234c87376002a66",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Three important steps in my maturation process",
+      "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+      "summary": "The article discusses three key steps the author took in their personal maturation process, offering insights into their journey of growth.",
+      "tags": [
+        "personal development",
+        "self-improvement"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2e58631d1faa4700",
+      "source": "Noahpinion",
+      "source_type": "substack",
+      "title": "Are we watching the U.S. go bankrupt?",
+      "url": "https://www.noahpinion.blog/p/are-we-watching-the-us-go-bankrupt",
+      "summary": "“Gradually, then suddenly.” — The Sun Also Rises\nLots of people are worried about rising long-term interest rates. Short-term interest rates are controlled by the central bank. But the Fed doesn’t usually intervene in the market for longer-term bonds, so when these interest rates…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "4920e81e87ee674b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "A battle over 'Italian brainrot' could shape who owns AI art",
+      "url": "https://www.npr.org/2026/08/19/nx-s1-5867638/artificial-intelligence-brainrot-memes-copyright-spyder-tung-tung-sahur",
+      "summary": "A legal dispute concerning a cartoon stick figure, dubbed \"Italian brainrot,\" could establish precedents for creators claiming ownership of AI-generated characters and defining intellectual property in AI art.",
+      "tags": [
+        "ai",
+        "copyright",
+        "art"
+      ],
+      "priority": false
+    },
+    {
+      "id": "71ba30e6e9b1ed88",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Beatty files emergency request to stop Trump's name from returning to Kennedy Center",
+      "url": "https://www.npr.org/2026/08/21/nx-s1-5940799/kennedy-center-president-trump-filing",
+      "summary": "Democratic Representative Joyce Beatty has filed an emergency request with a federal judge to prevent the Kennedy Center trustees from reinstating President Trump's name in three locations at the arts complex.",
+      "tags": [
+        "us politics",
+        "culture",
+        "donald trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4cd6c008ed5a0c27",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Opinion: Mr. Rogers keeps finding a new neighborhood",
+      "url": "https://www.npr.org/2026/08/22/nx-s1-5932426/opinion-mr-rogers-keeps-finding-a-new-neighborhood",
+      "summary": "MLB catcher Jake Rogers has recently been traded between several teams, including the Detroit Tigers, Baltimore Orioles, Boston Red Sox, and now the Chicago White Sox.",
+      "tags": [
+        "baseball",
+        "sports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "178e74f95d2c4096",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Supreme Court allows Trump's ballroom construction to continue for now",
+      "url": "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now",
+      "summary": "The Supreme Court has temporarily permitted the Trump administration to continue construction on a ballroom, following a prolonged legal dispute with the National Trust for Historic Preservation.",
+      "tags": [
+        "us politics",
+        "supreme court",
+        "real estate"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ffb510f35750bf57",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "U.S.-Canada trade talks collapse just before deadline for tariffs",
+      "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
+      "summary": "U.S.-Canada trade talks failed by a midnight deadline, resulting in the U.S. imposing 50% tariffs on $20 billion worth of Canadian products, which Canada vowed to match.",
+      "tags": [
+        "trade",
+        "canada",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2661b919ae4e7d97",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "‘Huge Breakthrough’ in the Math of Imbalance",
+      "url": "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/",
+      "summary": "The article describes a significant advancement in the mathematics of imbalance, illustrating the complexity of balancing diverse traits in groups, such as splitting trivia teams with varied individual strengths and weaknesses.",
+      "tags": [
+        "mathematics",
+        "research",
+        "science"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3e4a1ebd25515e62",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "llm 0.32.1",
+      "url": "https://simonwillison.net/2026/Aug/21/llm/",
+      "summary": "LLM 0.32.1 is a software release that addresses a dependency issue with the OpenAI Python library by pinning to `openai<3` to ensure functionality, with a future release planned to transition to `httpx2`.",
+      "tags": [
+        "software development",
+        "openai",
+        "python"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f7d9c225017ee377",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "llm-openrouter 0.7",
+      "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
+      "summary": "The `llm-openrouter` 0.7 plugin is now compatible with LLM 0.32, enabling the display of reasoning traces for LLMs via OpenRouter and introducing new server-side tools like Shell, WebFetch, and WebSearch.",
+      "tags": [
+        "ai",
+        "software development",
+        "openrouter"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fb8bf20483a4ec46",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Matt Webb",
+      "url": "https://simonwillison.net/2026/Aug/21/matt-webb/",
+      "summary": "Matt Webb describes how ChatGPT served as a patient, interactive tutor, enabling him to learn quaternions sufficiently to make his app work, highlighting AI's role in accelerating learning and pushing users to acquire new knowledge.",
+      "tags": [
+        "ai",
+        "education",
+        "generative ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c846bcafda0c0790",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Stop Making TUIs",
+      "url": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
+      "summary": "Thomas Ptacek advocates for developers to build native graphical user interfaces (GUIs) instead of Terminal User Interfaces (TUIs), arguing that coding agents have significantly reduced the cost of creating usable GUIs.",
+      "tags": [
+        "software development",
+        "ui/ux",
+        "generative ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "15f0f07a0cb7e9cb",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "What kind of Democrat can win?",
+      "url": "https://www.slowboring.com/p/what-kind-of-democrat-can-win",
+      "summary": "This post invites discussion on how moderate Democrats can effectively brand and market themselves for upcoming elections, particularly the 2028 presidential primary.",
+      "tags": [
+        "us politics",
+        "elections",
+        "democrats"
+      ],
+      "priority": false
+    },
+    {
+      "id": "957814485e8d2f43",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
+      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "summary": "TechCrunch tests revealed that Anthropic's Claude models, despite policies against generating sexually explicit content, could be easily prompted to do so.",
+      "tags": [
+        "ai",
+        "content moderation",
+        "llms"
+      ],
+      "priority": false
+    },
+    {
+      "id": "eb5ed590d714f612",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
+      "url": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
+      "summary": "Apple is reportedly reducing hundreds of roles within its Siri and Vision Pro teams as part of a strategic shift away from certain initiatives.",
+      "tags": [
+        "apple",
+        "tech industry",
+        "layoffs"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d9550977cc9b7970",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
+      "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+      "summary": "AI accounting startup Rillet achieved unicorn status by raising $100 million in 48 hours, with investors like Iconiq and Sequoia initiating a fundraising frenzy after seeing the company's growth numbers.",
+      "tags": [
+        "ai",
+        "startups",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d28766be2d950698",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Michael Polansky is training an AI model on skin that’s still alive",
+      "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+      "summary": "Michael Polansky has been secretly developing an AI-driven startup that maintains living human skin tissue outside the body for weeks to discover new skincare compounds.",
+      "tags": [
+        "ai",
+        "biotechnology",
+        "skincare"
+      ],
+      "priority": false
+    },
+    {
+      "id": "83dff0f25b1bc4cb",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "summary": "Nvidia research indicates that the performance and reliability of AI agents, even with less-than-optimal underlying models, can be significantly enhanced through fine-tuning or 'harnessing.'",
+      "tags": [
+        "ai",
+        "machine learning",
+        "nvidia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1c8b8a553b503c9d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "summary": "Nvidia is investing further in data center development through a partnership with Cloverleaf, as AI-driven data centers continue to be a significant revenue source for the company.",
+      "tags": [
+        "nvidia",
+        "data centers",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4ac005692467e77a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Oura faces lawsuit accusing it of misleading consumers about sleep-tracking accuracy",
+      "url": "https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/",
+      "summary": "Oura is facing a lawsuit alleging that its smart rings mislead consumers about their ability to accurately measure sleep quality and stages, claiming they lack the necessary physiological signal detection.",
+      "tags": [
+        "wearables",
+        "health tech",
+        "lawsuit"
+      ],
+      "priority": false
+    },
+    {
+      "id": "aa3cfd9c815d9b77",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade",
+      "url": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/",
+      "summary": "Google's Pixel 11 Pro XL features snappier cameras and useful AI functions like Rambler, but its overall iterative upgrades may not be compelling enough for current Pixel owners to make an immediate switch.",
+      "tags": [
+        "smartphones",
+        "review",
+        "google pixel"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8a0cc2c6f7710fb1",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Tesla’s solar roof is dead — here’s what went wrong",
+      "url": "https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/",
+      "summary": "Tesla's solar roof experiment, which failed to gain significant traction, has been discontinued, raising questions about the future viability of roof-integrated solar concepts.",
+      "tags": [
+        "tesla",
+        "solar energy",
+        "cleantech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b6b96584a7a6e294",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The $225 Pebble Time 2 is a refreshingly fun smartwatch",
+      "url": "https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/",
+      "summary": "The $225 Pebble Time 2 is highlighted as a fun smartwatch, offering quirky watch faces, physical buttons, an e-paper display, and weeks of battery life.",
+      "tags": [
+        "smartwatches",
+        "review",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f784519dc6f805ba",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "TikTok reaches $400M settlement over children’s privacy lawsuit",
+      "url": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/",
+      "summary": "TikTok has agreed to a $400 million settlement two years after the U.S. Department of Justice accused it of violating the Children’s Online Privacy Protection Act.",
+      "tags": [
+        "tiktok",
+        "privacy",
+        "lawsuit"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d4e352b056faf67f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Walmart to finally start accepting Apple Pay and Google Pay",
+      "url": "https://techcrunch.com/2026/08/21/walmart-to-finally-start-accepting-apple-pay-and-google-pay/",
+      "summary": "Walmart has reversed its long-standing refusal to support Apple Pay and Google Pay, announcing it will begin accepting these mobile payment options with a full US rollout by the end of 2026.",
+      "tags": [
+        "retail",
+        "payments",
+        "apple pay"
+      ],
+      "priority": false
+    },
+    {
+      "id": "453ae8e618a24be6",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Waymo hands over documents in NHTSA’s child collision probe",
+      "url": "https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/",
+      "summary": "Waymo has provided documents to the NHTSA as part of an investigation into child collisions, though the responses have been entirely redacted due to claims of 'confidential business information.'",
+      "tags": [
+        "autonomous vehicles",
+        "safety",
+        "waymo"
+      ],
+      "priority": false
+    },
+    {
+      "id": "41968345ac387cf8",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Why is the DOJ investigating Andreessen Horowitz’s board seats?",
+      "url": "https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/",
+      "summary": "The Department of Justice is reportedly investigating Andreessen Horowitz's board seats at two competing companies, Databricks and Fivetran, under an infrequently used 112-year-old antitrust law.",
+      "tags": [
+        "venture capital",
+        "antitrust",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e695c627d8d615b0",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Chris Christie: Why ‘The Godfather’ Endures",
+      "url": "https://www.thefp.com/p/chris-christie-godfather-masculinity-family-values-american",
+      "summary": "Chris Christie reflects on the enduring cultural impact of \"The Godfather,\" describing his first viewing at age 14 as a formative experience and exploring why the 1972 film continues to resonate deeply with many American men.",
+      "tags": [
+        "film",
+        "culture",
+        "masculinity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3e9718ceb2b4160b",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Everyone Thinks Lindsay Clancy Killed Her Kids. Except Women Online.",
+      "url": "https://www.thefp.com/p/everyone-thinks-lindsay-clancy-killed",
+      "summary": "The article examines the public and online discourse surrounding Lindsay Clancy, noting a segment of women who believe her innocent or express solidarity, drawing parallels to the O.J. Simpson trial regarding gender and responsibility.",
+      "tags": [
+        "mental health",
+        "legal",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cebb311e97420768",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Harry and Meghan’s Awkward Homecoming. Chris Christie on ‘The Godfather.’ Plus. . .",
+      "url": "https://www.thefp.com/p/harry-and-meghans-awkward-homecoming",
+      "summary": "This article announces Prince Harry and Meghan Markle's reported return to the UK after six years in California, attributing it to exhausted Hollywood funds rather than principled reasons, and also features cultural observations.",
+      "tags": [
+        "royal family",
+        "media",
+        "uk"
+      ],
+      "priority": false
+    },
+    {
+      "id": "054c44a838a81e01",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Prince Harry Said Returning to Britain Was ‘Impossible’",
+      "url": "https://www.thefp.com/p/prince-harry-meghan-markle-return-great-britain",
+      "summary": "Prince Harry and Meghan Markle are reportedly returning to live in the UK after six years, despite Harry previously claiming it was \"impossible\" due to media campaigns and family issues, with the King receiving late notice of their return.",
+      "tags": [
+        "royal family",
+        "media",
+        "uk"
+      ],
+      "priority": false
+    },
+    {
+      "id": "df1da57ffcb494df",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "‘It’s Just Dog Racism’",
+      "url": "https://www.thefp.com/p/its-just-dog-racism",
+      "summary": "Actor Jon Bernthal's controversial statement that \"pit bulls don’t attack. It’s just racism\" has reignited the \"pit bull discourse,\" shifting the conversation from dog maulings to accusations of \"dog racism.\"",
+      "tags": [
+        "dogs",
+        "culture",
+        "media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "aafaa1c8f00b9f64",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "How to Be Un-Dead: Notes on Waking Up from the Trance of Near-Living",
+      "url": "https://www.themarginalian.org/2026/08/21/anais-nin-d-h-lawrence/",
+      "summary": "Drawing on Anaïs Nin's study of D.H. Lawrence, the essay discusses life as a process of becoming and the importance of embracing ongoing change rather than clinging to a single state, which Lawrence viewed as \"a kind of death.\"",
+      "tags": [
+        "philosophy",
+        "literature",
+        "self-improvement"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7644375182c62a10",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "The Loveliness of Letting Go: An Illustrated Ode to Life’s Lasts",
+      "url": "https://www.themarginalian.org/2026/08/21/odds-and-ends-maija-hurme/",
+      "summary": "Maija Hurme's illustrated book \"Odds and Ends\" explores the concept of \"lasts\" as a philosophical meditation on loss and the art of letting go, essential for appreciating life and preparing for its end.",
+      "tags": [
+        "philosophy",
+        "books",
+        "grief"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8549dcc940aa2e8f",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
+      "url": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
+      "summary": "Amazon has increased prices for various Echo, Fire TV, Kindle, and Eero products by up to 60%, attributing the hikes to significant increases in memory and storage component costs.",
+      "tags": [
+        "e-commerce",
+        "consumer tech",
+        "pricing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "73c19d0e8c09f732",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
+      "url": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
+      "summary": "A review praises the $520 HP OmniBook for offering 16GB of RAM, a crucial specification for modern laptops often compromised in more expensive models, despite its affordable price point.",
+      "tags": [
+        "laptops",
+        "hardware",
+        "review"
+      ],
+      "priority": false
+    },
+    {
+      "id": "565ae384962ce083",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "HoverAir’s transforming modular drone has already been halted in the US",
+      "url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
+      "summary": "HoverAir's Versa drone has halted US orders and may abandon shipping plans due to the FCC's drone ban, with the company now only shipping the camera component to US customers.",
+      "tags": [
+        "drones",
+        "regulations",
+        "fcc"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f3cb603aa02900e8",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Microsoft and Discord subpoenaed over GTA VI gameplay leaks",
+      "url": "https://www.theverge.com/games/983323/grand-theft-auto-vi-gta-leaks-microsoft-discord-subpoenaed",
+      "summary": "Take-Two Interactive has subpoenaed Microsoft and Discord in an effort to identify individuals responsible for leaking copyrighted Grand Theft Auto VI gameplay content, requesting information by September 4th.",
+      "tags": [
+        "gaming",
+        "copyright",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "252fad2b8d148b44",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+      "summary": "LinkedIn's 'Seems like AI slop' button has been clicked over a million times since its July 30th launch, indicating user concern over AI-generated content and leading to improved AI classifiers.",
+      "tags": [
+        "ai",
+        "linkedin",
+        "content moderation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e9eca95e12c7176b",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
+      "url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
+      "summary": "TikTok will pay $400 million to settle a 2024 Department of Justice lawsuit alleging violations of the Children's Online Privacy Protection Act (COPPA), which accused the company of collecting children's data without consent.",
+      "tags": [
+        "tiktok",
+        "privacy",
+        "lawsuit"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ad83f8f7f2e5ad34",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Two great new repairable gadgets",
+      "url": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
+      "summary": "The article highlights new repairable gadgets like the Fairphone 6 Plus and Framework 12 laptop, promoting user-friendly device maintenance and expressing enthusiasm for ergonomic accessories and e-bikes.",
+      "tags": [
+        "consumer tech",
+        "repairability",
+        "review"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8ff635eebcc69c3f",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Walmart is finally adding Apple Pay and Google Pay",
+      "url": "https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch",
+      "summary": "Walmart is set to introduce Apple Pay and Google Pay tap-to-pay capabilities to select locations starting August 24th, with a full US rollout by the end of 2026, ending its long-standing resistance to these mobile payment options.",
+      "tags": [
+        "retail",
+        "payments",
+        "apple pay"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 97,
+    "summarized": 85,
+    "skipped_promos": 2,
+    "filtered_by_rules": 10,
+    "sources": 13,
+    "email_items_omitted": 0
+  }
+}
