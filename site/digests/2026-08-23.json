@@ -1,0 +1,607 @@
+{
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23T14:16:51+00:00",
+  "hot_topics": [
+    {
+      "topic": "Advancements and Applications of AI and Robotics",
+      "synthesis": "Recent news highlights diverse applications of AI and robotics, from enhancing startup education with AI avatars and assisting in complex debugging tasks to developing agents that can replicate scientific research. Discussions are also ongoing about the performance nuances of local LLMs and the need for stronger AI safety regulations, especially concerning the containment of rogue models. The field also sees impressive physical feats, as humanoid robots are now competing in sports and even breaking human records.",
+      "item_ids": [
+        "0e89fe50519c2051",
+        "fc4e724fd905388a",
+        "6888dbd26bb9d967",
+        "e88e772a2d4bacec",
+        "9d4a9e85dc034cfb",
+        "0041d792f3657e78",
+        "cc2638e377d7ab75",
+        "adcafb6a436ab1b5",
+        "190ded0d4cf90dbe",
+        "3861774e8d1c5941",
+        "645d0b627db4224d"
+      ]
+    },
+    {
+      "topic": "Legal and Political Scrutiny of Trump-era Policies and Statements",
+      "synthesis": "The Trump administration continues to face legal and political scrutiny, with a judge ruling its 75-country visa ban illegal due to discrimination based on nationality. Concurrently, Donald Trump's rhetoric regarding Canada's trade relations has exacerbated ongoing tensions, leading to retaliatory tariffs and a critical test for Canadian leadership. An investigation also revealed inconsistencies in the 'Made in the USA' claims for a 'Trump Mobile' phone.",
+      "item_ids": [
+        "4ddc58b077c97135",
+        "50e9f62c42c8e7d1",
+        "034148a690ef655e"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "367d24377458f72d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'New season, new trim' - Haaland reveals buzzcut",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
+      "summary": "Manchester City striker Erling Haaland revealed a new buzzcut hairstyle on social media, signaling a 'new season, new trim' look.",
+      "tags": [
+        "football",
+        "sports",
+        "celebrity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9e7d926813facbf3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
+      "url": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
+      "summary": "The organizers of the 2026 Sydney Marathon are embracing a medal engraving error, which depicts a German stadium instead of a local landmark, by stating they won't 'run from it'.",
+      "tags": [
+        "marathon",
+        "sports",
+        "australia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "034148a690ef655e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Carney faces crucial test after walking away from Trump's deal",
+      "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Canadian Prime Minister faces a critical test after walking away from a trade deal with Donald Trump, needing to justify his gamble against potential consequences.",
+      "tags": [
+        "politics",
+        "trade",
+        "canada"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e58f4f0808473f6a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
+      "url": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o?at_medium=RSS&at_campaign=rss",
+      "summary": "A goat herder's discovery of a $200 gold nugget in western Kenya has reportedly triggered a new gold rush, drawing prospectors hoping to find wealth.",
+      "tags": [
+        "mining",
+        "economy",
+        "kenya"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0ad4f9bdec2b3435",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
+      "url": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Dozens of coordinated arson attacks have struck southern Thailand, with the military suggesting they were intended to create unrest, though no group has claimed responsibility.",
+      "tags": [
+        "thailand",
+        "conflict",
+        "security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d01657b4dc31b78a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "DR Congo and M23 rebels agree roadmap for peace talks",
+      "url": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
+      "summary": "The DR Congo government and M23 rebels have agreed on a roadmap for peace talks following a meeting in Switzerland aimed at resolving the conflict.",
+      "tags": [
+        "dr congo",
+        "peace",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b58e4cfc9e28bc0f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
+      "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+      "summary": "A father in Japan is reported to have left his 7-year-old son alone on Mount Fuji to continue his hike after the child became tired.",
+      "tags": [
+        "japan",
+        "parenting",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d0acaa65cf4245dd",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Girl, 17, killed in Swedish sword attack, police say",
+      "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Police in Sweden reported that a 17-year-old girl was killed in a sword attack, with two boys also injured and an 18-year-old suspect detained.",
+      "tags": [
+        "crime",
+        "sweden"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f9270c550500e7e3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Golf brand apologises for advert that shows woman being pushed over",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Golf content creator Good Good apologized and removed an advert showing a woman being pushed over while reaching for a man's golf club after facing criticism.",
+      "tags": [
+        "golf",
+        "advertising",
+        "controversy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dd5435622d0a1bc7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Kejelcha breaks men's half marathon world record by 29 seconds",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
+      "summary": "Ethiopia's Yomif Kejelcha broke the men's half marathon world record by 29 seconds, completing the race in 56 minutes 51 seconds in Buenos Aires.",
+      "tags": [
+        "athletics",
+        "world record",
+        "sports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3861774e8d1c5941",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Robot boxing, football and sprinting at World Humanoid Games",
+      "url": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
+      "summary": "The second World Humanoid Games kicked off in Beijing, China, featuring competitions such as robot boxing, football, and sprinting.",
+      "tags": [
+        "robotics",
+        "sports",
+        "china"
+      ],
+      "priority": false
+    },
+    {
+      "id": "201eaf9dda92e350",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Syria says Israeli strike near Damascus violation of international law",
+      "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Syria has condemned an Israeli strike near Damascus as a violation of international law, following recent reports of another Israeli attack on a military airbase near the Turkish border.",
+      "tags": [
+        "syria",
+        "israel",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "39800637cf984497",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "The hotel booking mix-up that could free mushroom murderer",
+      "url": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
+      "summary": "A hotel booking mix-up involving a table tennis tournament and throat lozenges could provide evidence for Erin Patterson's lawyers to overturn her 'mushroom murderer' convictions.",
+      "tags": [
+        "crime",
+        "legal",
+        "australia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "50e9f62c42c8e7d1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
+      "url": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Verify tracked the shifting details of the T1 phone from Trump Mobile, revealing changes in its design, specifications, manufacturer, and release date, despite being promoted as 'Made in the USA'.",
+      "tags": [
+        "politics",
+        "consumer tech",
+        "investigation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4ddc58b077c97135",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump claimed Canada seeks the 'benefits' of being a US state after trade talks collapsed, while Canada's PM announced retaliatory tariffs, accusing the US of starting a trade war.",
+      "tags": [
+        "politics",
+        "trade",
+        "canada"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ee39270368ca6c46",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US military newspaper editor voices censorship fears after being fired",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Erik Slavin, editor of a US military newspaper, was fired after saying in an interview that censorship would be a 'red line,' leading him to voice fears of censorship.",
+      "tags": [
+        "media",
+        "journalism",
+        "free speech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "645d0b627db4224d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
+      "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
+      "summary": "At the World Humanoid Robot Games in Beijing, a humanoid robot demonstrated its sprinting capability by beating Usain Bolt's 100m record with a time of 9.39 seconds.",
+      "tags": [
+        "robotics",
+        "sports",
+        "world record"
+      ],
+      "priority": false
+    },
+    {
+      "id": "379de78f382558ff",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Wicker Man director's sons complete their late father's film trilogy",
+      "url": "https://www.bbc.co.uk/news/articles/cj36kv62g7yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The sons of 'The Wicker Man' director have completed their late father's folk horror film trilogy, bringing closure to both the saga and their family after more than 50 years.",
+      "tags": [
+        "film",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b459287a33c4eac6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's sacked minister Mykhailo Fedorov stated that President Zelensky should be questioned about his knowledge of government corruption and also called for wartime elections.",
+      "tags": [
+        "ukraine",
+        "politics",
+        "corruption"
+      ],
+      "priority": false
+    },
+    {
+      "id": "67dfd89336b1c118",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "A Friendly Introduction to Racket",
+      "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+      "summary": "A Hacker News post introduces 'A Friendly Introduction to Racket,' likely a tutorial or guide for the functional programming language.",
+      "tags": [
+        "programming",
+        "racket",
+        "hacker news"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0041d792f3657e78",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+      "url": "https://quantumi.sh/public/labs.html",
+      "summary": "A Hacker News discussion focuses on a trend of naming AI companies with sequential numbers, such as ElevenLabs, TwelveLabs, and ThirteenLabs, sparking community comments.",
+      "tags": [
+        "ai",
+        "startups",
+        "hacker news"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cf3cf9013df36791",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "New MCP Roadmap",
+      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+      "summary": "A Hacker News item highlights a new roadmap for the Model Context Protocol (MCP), outlining future development plans for the project.",
+      "tags": [
+        "protocol",
+        "roadmap",
+        "hacker news"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ae9ef61eee923faf",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Scrap (2006)",
+      "url": "https://twitter.com/moxie/status/2091218652133732491",
+      "summary": "A Hacker News post links to 'Scrap (2006),' an item from the past that has garnered significant community attention.",
+      "tags": [
+        "hacker news",
+        "internet culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e04391d65e54d3dd",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Thinking in Python",
+      "url": "https://thinkinginpython.com/",
+      "summary": "This Hacker News item points to a resource titled 'Thinking in Python,' likely a guide or tutorial on effective Python programming paradigms.",
+      "tags": [
+        "python",
+        "programming",
+        "hacker news"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c9692f802bb415f4",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "To become a better writer, read as much as you can",
+      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+      "summary": "This article posits that extensive reading is the most effective way to improve writing skills, a topic widely discussed on Hacker News.",
+      "tags": [
+        "writing",
+        "self-improvement",
+        "hacker news"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9d4a9e85dc034cfb",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Why your local LLM feels dumber than it is",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "summary": "A Hacker News discussion explores reasons why local large language models might perform less intelligently than expected, addressing common user frustrations.",
+      "tags": [
+        "llm",
+        "ai",
+        "hacker news"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7b0123435d276068",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Tropical Storm Moke to cause more flooding as Hawaii recovers from Lala",
+      "url": "https://www.npr.org/2026/08/23/nx-s1-5941769/tropical-storm-moke-hawaii",
+      "summary": "Tropical Storm Moke is expected to bring over a foot of rain to Hawaii's Big Island, potentially causing more flooding as the region is still recovering from Hurricane Lala.",
+      "tags": [
+        "weather",
+        "hawaii",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b39c4eb55ea5a98f",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump administration's 75-country visa ban was illegal, judge rules",
+      "url": "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries",
+      "summary": "The U.S. stopped issuing visas for citizens of 75 countries because it said they were likely to need public assistance. A judge ruled the policy illegally discriminated on the basis of nationality.\n(Image credit: David J. Phillip)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "adcafb6a436ab1b5",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "llm 0.33",
+      "url": "https://simonwillison.net/2026/Aug/22/llm/",
+      "summary": "Simon Willison announces the release of `llm 0.33`, highlighting updates to the OpenAI Python library, improved embedding model key handling, and new capabilities for combining prompt templates.",
+      "tags": [
+        "llm",
+        "ai",
+        "software development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "190ded0d4cf90dbe",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "More than just code review",
+      "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
+      "summary": "Effective use of coding agents requires users to confidently instruct them and verify changes, a skill that extends beyond just reviewing every line of code.",
+      "tags": [
+        "ai",
+        "coding",
+        "software development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cc2638e377d7ab75",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Linus Torvalds",
+      "url": "https://simonwillison.net/2026/Aug/22/linus-torvalds/",
+      "summary": "Linus Torvalds acknowledged that an AI assistant was immensely helpful during a complex debug session, even though the AI initially suggested the problem was unsolvable.",
+      "tags": [
+        "ai",
+        "linux",
+        "programming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e88e772a2d4bacec",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "summary": "A new study reveals that leading AI labs lack publicly documented plans for containing rogue models, raising concerns about their preparedness for unexpected and potentially dangerous AI behavior.",
+      "tags": [
+        "ai",
+        "safety",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0e89fe50519c2051",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "summary": "Harvard Business School's $699 startup bootcamp, HBS Foundry, incorporates AI avatars of its instructors to provide feedback during practice pitches and board meetings.",
+      "tags": [
+        "education",
+        "ai",
+        "startup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fc4e724fd905388a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "summary": "Inherent, an AI lab founded by DeepMind alumni, released Faraday, an AI agent that reportedly outperformed Anthropic and OpenAI in replicating scientific research papers.",
+      "tags": [
+        "ai",
+        "research",
+        "deepmind"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6888dbd26bb9d967",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "summary": "OpenAI is advocating for California to strengthen its proposed AI safety bill, SB 53, a surprising stance given its previous opposition to the legislation.",
+      "tags": [
+        "ai",
+        "policy",
+        "regulation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "df5f853182f13b5f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
+      "url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
+      "summary": "Walmart's Flipkart is rapidly gaining on quick-commerce leaders in India, now handling 1.1 million to 1.2 million orders daily, nearly tripling its volume since November.",
+      "tags": [
+        "e-commerce",
+        "india",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3b288638af0fd966",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "US battery startups have found a lifeline in defense",
+      "url": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/",
+      "summary": "U.S. battery startups have found a crucial lifeline in defense contracts, securing $500 million in grants from the Department of Energy after cuts to EV incentives had challenged the industry.",
+      "tags": [
+        "energy",
+        "startups",
+        "defense"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ebd870661d0ba8fa",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Will the DOJ’s investigation into a16z spook other VCs?",
+      "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
+      "summary": "A discussion on the latest Equity podcast questions why the Department of Justice is investigating startup board seats at prominent venture capital firms like a16z.",
+      "tags": [
+        "venture capital",
+        "legal",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ff7f5a8f7b545736",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Doodle generative compositions in your browser with Musical Spirograph",
+      "url": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
+      "summary": "Musical Spirograph is a browser-based generative music composition tool that combines geometric patterns with sound, allowing users to create hypnotic visual and audio experiences by customizing virtual rotors and triggering notes.",
+      "tags": [
+        "music",
+        "generative art",
+        "tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "baf9ee10b3e708bb",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Grand Theft Auto VI exists in its own universe",
+      "url": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe",
+      "summary": "A column discusses the Grand Theft Auto VI universe, recalling a major leak four years prior that showcased Vice City, dual protagonists, and the game's signature mayhem.",
+      "tags": [
+        "gaming",
+        "grand theft auto"
+      ],
+      "priority": false
+    },
+    {
+      "id": "21f1978dc187f59d",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "W. Kamau Bell has the most practical ‘most indispensable tool’",
+      "url": "https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview",
+      "summary": "W. Kamau Bell, known for his blend of comedy, social commentary, and activism, has won multiple awards and continues to be busy with his podcast, comedy tour, and Substack.",
+      "tags": [
+        "entertainment",
+        "media"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 47,
+    "summarized": 41,
+    "skipped_promos": 1,
+    "filtered_by_rules": 5,
+    "sources": 6,
+    "email_items_omitted": 0
+  }
+}
