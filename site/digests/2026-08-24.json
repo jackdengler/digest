@@ -1,0 +1,784 @@
+{
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T14:34:17+00:00",
+  "hot_topics": [
+    {
+      "topic": "US Imposes \"Greatest Financial Offensive Ever\" on Iran",
+      "synthesis": "The United States is launching a significant economic offensive against Iran, with Treasury Secretary Scott Bessent detailing new sanctions and threatening to isolate any nation partnering financially with Iran. The Trump administration has dubbed this \"economic D-Day,\" while Iran has vowed a \"seismic\" military response, including threats to oil traffic in the Strait of Hormuz. These actions mark a severe escalation in geopolitical tensions between the two nations.",
+      "item_ids": [
+        "297a0fe32bdfbeaa",
+        "8c23ef2b890003ac",
+        "0c3f608ccf1e8f87",
+        "f01a59132eae9724",
+        "0efafe25112dc00d"
+      ]
+    },
+    {
+      "topic": "Escalating US-Canada Trade Tensions and Retaliatory Tariffs",
+      "synthesis": "A trade dispute is intensifying between the United States and Canada, with the US imposing significant tariffs on Canadian goods and Canada vowing to retaliate with its own import taxes. This tit-for-tat escalation is causing widespread concern among businesses in both countries, who fear substantial losses and economic uncertainty due to the escalating trade war.",
+      "item_ids": [
+        "b7adee77013b4f47",
+        "0c3f608ccf1e8f87",
+        "f01a59132eae9724",
+        "0efafe25112dc00d"
+      ]
+    },
+    {
+      "topic": "Humanoid Robots Surpass Usain Bolt's Sprint Record",
+      "synthesis": "Chinese-built humanoid robots have made a groundbreaking achievement at the World Humanoid Robot Games in Beijing, with Tiangong Ultra and Honor's Lightning surpassing Usain Bolt's 100-meter dash record. This development showcases rapid advancements in bipedal robotics, demonstrating the increasing athletic capabilities of AI-powered machines.",
+      "item_ids": [
+        "bf1b3dd05c2c061a",
+        "0efafe25112dc00d"
+      ]
+    },
+    {
+      "topic": "Thousands Evacuate as Wildfire Rages Near Reno, Nevada",
+      "synthesis": "A rapidly spreading, human-caused wildfire in Nevada has forced thousands of residents in the Reno area to evacuate their homes, with the blaze scorching over 15,000 acres and remaining uncontained. The fire has reached the outskirts of the University of Nevada campus, prompting a state of emergency declaration and significant disruption for local communities.",
+      "item_ids": [
+        "cdda27bc46051195",
+        "75d2a3285045229b",
+        "0efafe25112dc00d"
+      ]
+    },
+    {
+      "topic": "Death of Sean Grayson, Killer of Sonya Massey, Rekindles Police Brutality Debate",
+      "synthesis": "Sean Grayson, the former police officer convicted of killing Sonya Massey, has died in a US prison while serving his sentence for the fatal shooting. His death has brought renewed attention to the case, which previously served as a flashpoint in the ongoing national debate surrounding police use of force and brutality.",
+      "item_ids": [
+        "853bcbbd5c963065",
+        "02dd371a3eb73d11"
+      ]
+    },
+    {
+      "topic": "Washington D.C. Hosts Inaugural IndyCar Race on National Mall",
+      "synthesis": "Washington D.C. successfully hosted its first-ever IndyCar race, which saw drivers navigate an unconventional street circuit through the National Mall, drawing large crowds and attention, including from President Donald Trump. The event presented unique challenges for participants while offering spectators an unusual backdrop of national landmarks.",
+      "item_ids": [
+        "4f4792600c4cd399",
+        "fdbb3558a69ea9f0"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "e5076dca3c4366ea",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
+      "url": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
+      "summary": "The Chuwi Unibook, a $449 laptop reviewed as a \"funhouse-mirror MacBook Neo,\" demonstrates how PC makers are responding to budget-friendly, quality laptops with Intel's new Core Series 3 processors. While competitors like Dell and Acer struggle to match its price, the Unibook prioritizes essential features over frills.",
+      "tags": [
+        "laptop",
+        "review",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b7adee77013b4f47",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
+      "url": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
+      "summary": "Businesses in Canada and the US are expressing deep concerns over a potential trade war, fearing significant losses due to escalating tit-for-tat import taxes between the two countries.",
+      "tags": [
+        "us",
+        "canada",
+        "trade war"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cdda27bc46051195",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'Scared to death': Thousands evacuate Nevada homes as wildfire spreads",
+      "url": "https://www.bbc.co.uk/news/videos/cy0zr8lkr8lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of residents in Nevada, particularly near Reno, have been ordered to evacuate their homes as a rapidly spreading wildfire intensifies.",
+      "tags": [
+        "wildfire",
+        "nevada",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0fdd276ddbb2838c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Access to Zambian courts prevented as election petition deadline looms",
+      "url": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Access to Zambian courts has been prevented as the deadline for an election petition approaches, while preparations for President Hakainde Hichilema's second inauguration continue.",
+      "tags": [
+        "zambia",
+        "politics",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "76ff1f5340a2cad1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Australian shark attack victim grateful for 'second chance at life'",
+      "url": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
+      "summary": "Leah Stewart, an Australian shark attack victim, expressed gratitude for a \"second chance at life\" after suffering multiple bites to her arms and legs in June.",
+      "tags": [
+        "australia",
+        "shark attack",
+        "survival"
+      ],
+      "priority": false
+    },
+    {
+      "id": "67350d8a080811d8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "China probes use of formaldehyde to keep cabbages fresh",
+      "url": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
+      "summary": "China is investigating the use of formaldehyde, a prohibited carcinogen, for preserving cabbages, raising food safety concerns in the world's largest cabbage-producing nation.",
+      "tags": [
+        "china",
+        "food safety",
+        "health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e441315a77f91f87",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
+      "url": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Five years after their return, the BBC examines how the Taliban is governing Afghanistan, observing their control over aspects like divorce and smartphone use as they reshape the country.",
+      "tags": [
+        "afghanistan",
+        "taliban",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e6e4648e29dcc704",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Former cricket captains are advocating for \"proper medical care\" for Imran Khan, stating it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment for the former prime minister.",
+      "tags": [
+        "pakistan",
+        "politics",
+        "human rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4559458bf878e2f3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Four arrested over boxing champion's murder in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cg7k9rmnzp7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Four suspects have been arrested in connection with the murder of a boxing champion in South Africa, with one scheduled to be charged with murder and attempted murder.",
+      "tags": [
+        "crime",
+        "south africa",
+        "boxing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42dd47f31f6b3b0d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Four arrested over suspected poisoning of elephants in Kenya",
+      "url": "https://www.bbc.co.uk/news/articles/c790w8wxv0do?at_medium=RSS&at_campaign=rss",
+      "summary": "Four individuals have been arrested in Kenya in connection with the suspected poisoning of elephants, with an investigation exploring whether pesticides sprayed on tomato crops were the cause.",
+      "tags": [
+        "wildlife",
+        "crime",
+        "kenya"
+      ],
+      "priority": false
+    },
+    {
+      "id": "aa21851de84826cf",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "France links sharp rise in drownings to heatwaves",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+      "summary": "France has reported a sharp increase in drownings, with 301 deaths since June 19, which a government minister attributes to people taking risks in the water during heatwaves.",
+      "tags": [
+        "france",
+        "heatwave",
+        "public safety"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ce818c19df4ae5eb",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Guinea rubbish landfill collapse kills 31",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+      "summary": "A landfill collapse in Guinea's capital resulted in the deaths of 31 people after a mound of rubbish buried several homes at a major waste site.",
+      "tags": [
+        "disaster",
+        "guinea",
+        "accident"
+      ],
+      "priority": false
+    },
+    {
+      "id": "297a0fe32bdfbeaa",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "summary": "US Treasury Secretary Scott Bessent announced that the US would sever all economic ties with Iran, warning that any nation financially partnering with Iran would also face isolation in a \"greatest financial offensive ever.\"",
+      "tags": [
+        "iran",
+        "sanctions",
+        "us"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b58b14ffe59f2a0e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Maradona's 'Hand of God' ball sells for £2.5m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The football used by Diego Maradona to score his infamous \"Hand of God\" goal in the 1986 World Cup quarter-final against England has been sold at auction for £2.5 million.",
+      "tags": [
+        "sports",
+        "memorabilia",
+        "auction"
+      ],
+      "priority": false
+    },
+    {
+      "id": "493cd97f02b22c34",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Nearly three million Teslas recalled in China over hidden door handles",
+      "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nearly three million Teslas, along with vehicles from Chinese carmakers like XPeng, Xiaomi, and Geely, have been recalled in China due to safety concerns over hidden door handles.",
+      "tags": [
+        "tesla",
+        "recall",
+        "auto"
+      ],
+      "priority": false
+    },
+    {
+      "id": "51fa991998cbd7ba",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "New Zealand to introduce bill for under-16s social media ban",
+      "url": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss",
+      "summary": "New Zealand plans to introduce a bill to ban social media access for individuals under 16, facing opposition from MPs who doubt its effectiveness.",
+      "tags": [
+        "social media",
+        "policy",
+        "youth"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1028616e647b6607",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
+      "url": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+      "summary": "Ozon, Russia's second-largest online retailer, reported that its warehouses across southern Russia, including Dagestan and Krasnodar, were hit by overnight Ukrainian strikes.",
+      "tags": [
+        "russia",
+        "ukraine",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "94059a3616fc257b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Shein aims for almost $27bn valuation in stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+      "summary": "Fast-fashion giant Shein is targeting an almost $27 billion valuation for its stock market debut, with shares expected to begin trading in Hong Kong on September 1st.",
+      "tags": [
+        "shein",
+        "ipo",
+        "fashion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "853bcbbd5c963065",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Sonya Massey's killer Sean Grayson dies in US prison",
+      "url": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sean Grayson, a former police officer convicted of killing Sonya Massey, has died in a US prison while undergoing cancer treatment, reigniting debate on US police brutality.",
+      "tags": [
+        "crime",
+        "police brutality",
+        "us"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9f3735445348fdbf",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "The formidable challenges facing new Tata boss",
+      "url": "https://www.bbc.co.uk/news/articles/c20drryz7nvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Corporate India's highly sought-after position of Tata Sons CEO is currently open, presenting significant challenges for any new leader due to the immense scale and complexity of the conglomerate.",
+      "tags": [
+        "india",
+        "business",
+        "leadership"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4f4792600c4cd399",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What do locals think of IndyCar in Washington DC?",
+      "url": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&at_campaign=rss",
+      "summary": "US President Donald Trump joined hundreds of spectators who gathered to watch the IndyCar race through the streets of Washington D.C., prompting discussions among locals.",
+      "tags": [
+        "indycar",
+        "washington dc",
+        "event"
+      ],
+      "priority": false
+    },
+    {
+      "id": "21a9aa796c96605d",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "In candid interviews, National Guard members speak out about D.C. deployment",
+      "url": "https://www.npr.org/2026/08/24/nx-s1-5939973/national-guard-members-washington-dc-deployment",
+      "summary": "National Guard members who served for months in Washington, D.C., are sharing their experiences and reactions as President Trump's deployment of the Guard enters its second year.",
+      "tags": [
+        "national guard",
+        "us politics",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1b4615bf5c08d3b3",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Learning to live in a post-American world",
+      "url": "https://www.npr.org/2026/08/23/nx-s1-5939846/learning-to-live-in-a-post-american-world",
+      "summary": "Mark Leonard argues in Foreign Affairs that America's dominant role in the global order is diminishing, prompting a discussion on adapting to a \"post-American world.\"",
+      "tags": [
+        "foreign policy",
+        "geopolitics",
+        "us"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f01a59132eae9724",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/08/24/nx-s1-5939834/morning-news-brief",
+      "summary": "A morning news brief highlights the upcoming announcement by the US Treasury Secretary regarding new economic pressures on Iran, with Iran threatening \"seismic\" retaliation, and Canada's vow to impose retaliatory tariffs on the US.",
+      "tags": [
+        "iran",
+        "sanctions",
+        "canada"
+      ],
+      "priority": false
+    },
+    {
+      "id": "02dd371a3eb73d11",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Sean Grayson, former deputy convicted of killing Sonya Massey, dies in prison, lawyer says",
+      "url": "https://www.npr.org/2026/08/24/g-s1-139734/sonya-massey-convicted-deputy",
+      "summary": "Sean Grayson, a former Illinois sheriff's deputy convicted of fatally shooting Sonya Massey, has died in prison while serving a 20-year sentence, reviving discussions about police use of force.",
+      "tags": [
+        "crime",
+        "police brutality",
+        "us"
+      ],
+      "priority": false
+    },
+    {
+      "id": "75d2a3285045229b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Thousands forced to evacuate parts of Reno, Nevada, as new wildfire rages",
+      "url": "https://www.npr.org/2026/08/23/g-s1-139729/thousands-forced-to-evacuate-parts-of-reno-nevada-as-new-wildfire-rages",
+      "summary": "A human-caused wildfire has burned over 15,000 acres near Reno, Nevada, forcing nearly 90,000 people to evacuate or prepare to leave, with the fire zero percent contained.",
+      "tags": [
+        "wildfire",
+        "nevada",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "425ef9b1faf29397",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Thousands in northwest Indiana still without power nearly two weeks after storm",
+      "url": "https://www.npr.org/2026/08/23/nx-s1-5942292/thousands-in-northwest-indiana-still-without-power-nearly-two-weeks-after-storm",
+      "summary": "Nearly two weeks after a storm, thousands of residents in northwest Indiana remain without power, highlighting ongoing recovery challenges.",
+      "tags": [
+        "storm",
+        "power outage",
+        "indiana"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8c23ef2b890003ac",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran",
+      "url": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
+      "summary": "Treasury Secretary Scott Bessent is scheduled to announce new economic sanctions against Iran, which the Trump administration terms \"economic D-Day,\" while Iran vows a \"seismic manner\" response.",
+      "tags": [
+        "iran",
+        "sanctions",
+        "us"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0c3f608ccf1e8f87",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.",
+      "url": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban",
+      "summary": "Treasury Secretary Scott Bessent will elaborate on new economic pressures against Iran, while Canada has pledged to implement retaliatory tariffs in response to US actions.",
+      "tags": [
+        "iran",
+        "sanctions",
+        "us"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fdbb3558a69ea9f0",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Washington, D.C.'s first IndyCar race packed the National Mall",
+      "url": "https://www.npr.org/2026/08/24/nx-s1-5939827/washington-d-c-s-first-indycar-race-packed-the-national-mall",
+      "summary": "Washington, D.C. hosted its inaugural IndyCar race, drawing large crowds to the National Mall and presenting unique challenges for drivers on its unconventional urban route past famous landmarks.",
+      "tags": [
+        "indycar",
+        "washington dc",
+        "event"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d00402092408233d",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "A New Framework for How the Brain Compresses Our Noisy World",
+      "url": "https://www.quantamagazine.org/a-new-framework-for-how-the-brain-compresses-our-noisy-world-20260824/",
+      "summary": "A new framework explores how the brain effectively processes and compresses the continuous influx of sensory signals from our environment, such as light, sound, and touch.",
+      "tags": [
+        "brain",
+        "neuroscience",
+        "perception"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ad7e0a70ef44ac7d",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
+      "summary": "Anthropic's high-cost Fable 5 AI model is struggling to gain users despite its capabilities, as cheaper alternatives like Opus 4.8 and Sonnet 4.6 prove more popular among customers. The company's annualized revenue for July reached $65 billion, with 6,000 customers spending over $100,000 annually.",
+      "tags": [
+        "ai",
+        "anthropic",
+        "llm"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b226aa972bb56235",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Drew Breunig",
+      "url": "https://simonwillison.net/2026/Aug/23/drew-breunig/",
+      "summary": "Drew Breunig observes that while Anthropic's Fable AI model is highly capable, its high cost makes it less practical for many coding tasks compared to \"good enough\" and cheaper alternatives like Opus, shifting focus to optimizing coding strategies rather than relying solely on model improvements.",
+      "tags": [
+        "ai",
+        "anthropic",
+        "llm"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1e5b7461accd946f",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Your executable is a SQLite database",
+      "url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
+      "summary": "A novel Linux pattern allows a SQLite database file to function directly as an executable binary by embedding ELF format components within SQLite tables and setting a specific application ID. This process uses a custom `self-exec` interpreter and can be registered with `binfmt_misc` for kernel-level execution.",
+      "tags": [
+        "linux",
+        "sqlite",
+        "programming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c1c282cd133c092c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Brake problems in GM EVs draw greater federal scrutiny",
+      "url": "https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/",
+      "summary": "General Motors EVs are facing increased federal scrutiny due to reported brake problems, including an incident where a driver had to intentionally crash their 2024 Blazer EV into a curb to avoid a collision.",
+      "tags": [
+        "ev",
+        "auto",
+        "safety"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43e4305f08c56b02",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+      "summary": "Flock Safety's CEO is calling for \"compromise\" amidst increasing public backlash and concerns over the potential misuse of the company's surveillance technology.",
+      "tags": [
+        "surveillance",
+        "privacy",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3395a7a1b614238c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Hugging Face reportedly in talks to be acquired for $13B",
+      "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+      "summary": "Hugging Face, an AI platform, is reportedly in acquisition talks that could value the company at $13 billion, though its founders' commitment to the community raises questions about a potential sale.",
+      "tags": [
+        "ai",
+        "acquisition",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e008c4c9e69316cd",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "summary": "The legality of training AI models on copyrighted books is a complex issue, as many authors' works have been used without consent, raising concerns about undermining their livelihoods.",
+      "tags": [
+        "ai",
+        "copyright",
+        "law"
+      ],
+      "priority": false
+    },
+    {
+      "id": "71e7dd81ef695221",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "summary": "Linkdaze has launched a smart digital calendar designed to manage household operations beyond simple scheduling, offering features like an AI meal planner without a paywall.",
+      "tags": [
+        "calendar",
+        "smart home",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2667a338b5cab2d2",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
+      "url": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
+      "summary": "Waymo is leveraging a custom-designed chip to power its robotaxi ambitions, as detailed in a TechCrunch Mobility report on the future of transportation.",
+      "tags": [
+        "robotaxi",
+        "waymo",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "68f175591f45996a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Uber faces fine of nearly $1B over automated driver suspensions",
+      "url": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
+      "summary": "Uber is facing an €825 million (nearly $1 billion) fine from the Dutch Data Protection Authority, the second-largest penalty under Europe's GDPR, for issues related to its automated driver suspension systems.",
+      "tags": [
+        "uber",
+        "privacy",
+        "gdpr"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5adbf7ed7354f2f0",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "summary": "A new and mysterious AI model named Ox Alpha has emerged, sparking widespread speculation across the internet regarding its origins and capabilities.",
+      "tags": [
+        "ai",
+        "technology",
+        "mystery"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f311202dfb0abea5",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Bill Barr: Democrats Are in Denial About Campus Antisemitism",
+      "url": "https://www.thefp.com/p/bill-barr-democrats-antisemitism-denial",
+      "summary": "Bill Barr criticizes Democrats for their \"cynical\" plan to investigate the Justice Department's probe into campus antisemitism, arguing that the Democrats' framing of the initial investigation as a \"sham\" rewrites history.",
+      "tags": [
+        "politics",
+        "antisemitism",
+        "education"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5388129110ce040b",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Battle over ‘Stars and Stripes’",
+      "url": "https://www.thefp.com/p/battle-over-stars-stripes-hegseth-war",
+      "summary": "The Department of Defense is attempting to overhaul \"Stars and Stripes,\" the independent military newspaper, by terminating key staff members, citing a need to modernize and increase readership while maintaining journalistic integrity.",
+      "tags": [
+        "media",
+        "military",
+        "journalism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0efafe25112dc00d",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The New Data That Undermines Claims of Gaza Famine. Plus. . .",
+      "url": "https://www.thefp.com/p/gaza-famine-unicef-data-the-front-page",
+      "summary": "A UNICEF-led nutrition survey suggests Gaza's malnutrition rates are among the lowest in the region, challenging previous famine declarations and raising questions about the swift recovery in the war-torn territory. The article also notes upcoming US sanctions against Iran, Canada's retaliatory tariffs, a Chinese humanoid robot breaking Usain Bolt's 100m record, and a wildfire in Nevada.",
+      "tags": [
+        "gaza",
+        "famine",
+        "iran"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cedb7be2c289ac9c",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "This Is How AI Starts a Nuclear War",
+      "url": "https://www.thefp.com/p/robert-wright-coleman-hughes-ai-nuclear-war",
+      "summary": "Robert Wright posits that the danger of AI lies not in it spontaneously turning on humanity, but in its potential to exacerbate geopolitical tensions and precipitate a nuclear conflict due to human nature.",
+      "tags": [
+        "ai",
+        "nuclear war",
+        "geopolitics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8253ae6772565593",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Apple’s four-pack of second-gen AirTags is $20 off",
+      "url": "https://www.theverge.com/gadgets/983726/apple-airtags-second-gen-four-pack-elgato-stream-deck-switch-2-deal-sale",
+      "summary": "Apple's second-generation AirTags four-pack is on sale for $79, the lowest price yet, offering enhanced features like an upgraded ultra-wideband chip, louder speaker, and expanded Bluetooth range. Other deals include Elgato's Stream Deck and a Fastsnail Joy-Con charging dock for Switch.",
+      "tags": [
+        "apple",
+        "deal",
+        "gadgets"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ec62949d2298dc1f",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
+      "url": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
+      "summary": "Grand Theft Auto VI, after multiple delays, is now available for preorder for a November 19th, 2026 release, with digital-only editions priced at $79.99 and $99.99. The game will feature protagonists Jason and Lucia navigating a criminal conspiracy in Vice City, with new leaks emerging ahead of an exclusive Netflix event.",
+      "tags": [
+        "gaming",
+        "gta",
+        "leaks"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bf1b3dd05c2c061a",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Humanoid robots smash Usain Bolt&#8217;s 100-meter record",
+      "url": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026",
+      "summary": "Chinese humanoid robots, Tiangong Ultra and Honor's Lightning, have broken Usain Bolt's 100-meter dash record at the World Humanoid Robot Games, clocking 9.39 and 9.47 seconds respectively. This event showcases advancements in bipedal bot technology, with 2,056 robots participating from 16 countries.",
+      "tags": [
+        "robots",
+        "ai",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "97f7b9dfb7a02940",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Netflix reportedly considers opening its app to other streamers",
+      "url": "https://www.theverge.com/streaming/983741/netflix-open-app-peacock-fox-one",
+      "summary": "Netflix is reportedly considering allowing third-party streaming services like Peacock and Fox One within its app, a significant shift from its usual strategy of only joining bundles. This move would mirror models used by Amazon Prime Video and Roku, potentially expanding Netflix's content offerings.",
+      "tags": [
+        "streaming",
+        "netflix",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "966ab7793af6dbd9",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
+      "url": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
+      "summary": "Jane Schoenbrun's debut film, \"We're All Going to the World's Fair,\" is revisited as a unique coming-of-age horror film centered on a young protagonist participating in a creepy online challenge. The film blends horror tropes with an intimate exploration of isolation and internet culture.",
+      "tags": [
+        "film",
+        "review",
+        "horror"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 67,
+    "summarized": 51,
+    "skipped_promos": 1,
+    "filtered_by_rules": 15,
+    "sources": 8,
+    "email_items_omitted": 0
+  }
+}
