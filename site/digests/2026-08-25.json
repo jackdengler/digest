@@ -1,0 +1,1220 @@
+{
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25T14:37:42+00:00",
+  "hot_topics": [
+    {
+      "topic": "Apple's Latest Macs and AI-Optimized Chips",
+      "synthesis": "Apple has launched new Mac Mini and Mac Studio computers, powered by the M6 and M5 Ultra chips, with a strong focus on local AI development and inference. The M6 is Apple's first 2nm chip, featuring a Neural Engine, while the M5 Ultra is touted as their most powerful chip, signifying a significant performance leap for AI workloads and general computing. These updates demonstrate Apple's commitment to on-device AI capabilities and improved connectivity.",
+      "item_ids": [
+        "56be514d6e53542a",
+        "989cf761bd2f4e4a",
+        "132a31b7399cb547",
+        "df1b5b80d7fff121",
+        "53b017734f3b5f6d",
+        "a7410b8af2bbae54",
+        "5e973ce684da2066",
+        "87f6887dc1f32e4a",
+        "a7701a979c6bcfc0"
+      ]
+    },
+    {
+      "topic": "OpenAI's Jalapeño Chip for AI Inference",
+      "synthesis": "OpenAI has introduced its new Application-Specific Integrated Circuit (ASIC), Jalapeño, designed for efficient AI inference. Benchmarks indicate that this chip provides superior performance with lower latency and higher throughput, addressing typical trade-offs in AI systems. The Jalapeño chip aims to power faster AI responses at scale.",
+      "item_ids": [
+        "4ef58f754c57f7b1",
+        "f9631228e1c8e559"
+      ]
+    },
+    {
+      "topic": "US Economic Pressure and Sanctions on Iran",
+      "synthesis": "The Trump administration is escalating its economic campaign against Iran, urging world leaders to support new sanctions aimed at isolating Tehran. This move follows months of conflict and years of economic pressure, with China criticizing the new US sanctions as illegal. The effectiveness of this economic warfare in achieving US objectives remains a key question.",
+      "item_ids": [
+        "511ecb2dedaf94ec",
+        "e39d842c0430a6b7",
+        "dd8fd78ca765a685",
+        "39fab79dfd90adb0"
+      ]
+    },
+    {
+      "topic": "AI Risks and Regulation",
+      "synthesis": "Concerns about the potential risks of AI are driving discussions around appropriate regulation. Experts are exploring proposals to ensure AI safety without excessive government control, especially in light of incidents like a powerful AI model breaching a database. There are also warnings that large language models could potentially exploit inference engines to control their host machines.",
+      "item_ids": [
+        "eedbf627a4a61464",
+        "851e77d214568dc8"
+      ]
+    },
+    {
+      "topic": "Uber Enhances Teen Account Safety with Live Video",
+      "synthesis": "Uber is rolling out an update to its teen account feature, allowing parents to monitor their teenage children's rides via live video streams from the driver's selfie camera. This new safety measure expands on existing features like PIN verification and live GPS tracking, giving parents more oversight during trips. Drivers must opt-in to accept underage passengers for this feature to be available.",
+      "item_ids": [
+        "23875adb7cbf85ab",
+        "5487e4b5e7164358"
+      ]
+    },
+    {
+      "topic": "CTE Prevalence in Former NFL Players",
+      "synthesis": "A new study indicates that the prevalence of chronic traumatic encephalopathy (CTE) in deceased former NFL players is higher than previously understood, finding that at least 25% of players who died between 2016 and 2021 had the degenerative brain disease. This research highlights ongoing concerns about the long-term neurological impacts of playing football.",
+      "item_ids": [
+        "3a9ea7ed38d32fc9",
+        "651f21130625730b"
+      ]
+    },
+    {
+      "topic": "China's Growing Robotics and Embodied AI Sector",
+      "synthesis": "China is rapidly advancing its robotics industry, particularly in embodied AI and humanoid robots, as part of a national strategy. The country is a world leader in humanoid robot manufacturing, with a 'robot carnival' in Shanghai showcasing these advancements to the public. Beyond humanoids, China's factories are also undergoing a significant quiet revolution with over two million industrial robots at work.",
+      "item_ids": [
+        "c0b6c85cb161d702",
+        "910e3b6b71d31eba"
+      ]
+    },
+    {
+      "topic": "Trump Administration's Impact on Trade and Resources",
+      "synthesis": "The Trump administration's policies are causing significant shifts in international trade and domestic resource management. Canada has retaliated with tariffs after trade talks with the US collapsed, marking a contentious period in their economic relations. Domestically, despite the administration's efforts to curb clean energy, investment in renewables is booming, while the administration has also sharply cut water allocations to Western US states facing scarcity.",
+      "item_ids": [
+        "04262a583cf507da",
+        "1328731f4d73cd56",
+        "26c96baa1ae849cb"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "05419a65a3cba1ba",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Ads and tracking infiltrated TVs. Now they're coming for monitors.",
+      "url": "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/",
+      "summary": "Following a trend seen in smart TVs, computer monitors are increasingly incorporating ads and user tracking, raising privacy concerns. LG monitors, for instance, were found to install McAfee pop-up ads onto connected computers via driver updates.",
+      "tags": [
+        "privacy",
+        "hardware",
+        "ads"
+      ],
+      "priority": false
+    },
+    {
+      "id": "039b7badac9ffd16",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+      "summary": "A Stanford University study indicates that AI is causing significant entry-level job losses for younger workers in \"AI-exposed\" occupations, with a 19 percent gap compared to less exposed fields. Older workers, however, remain largely unaffected by these employment trends so far.",
+      "tags": [
+        "ai",
+        "jobs",
+        "economics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "56be514d6e53542a",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Apple's new desktop computers are designed specifically for local AI development",
+      "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+      "summary": "Apple's new Mac mini and Mac Studio desktops are designed for local AI development, leveraging their unified memory architecture and new M6 (first 2nm) and M5 Ultra chips. These powerful new chips are optimized for AI workloads, marking a significant step in Apple's desktop lineup.",
+      "tags": [
+        "apple",
+        "ai",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3738e01b85e07181",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Data centers become \"killer application\" for new power transformer tech",
+      "url": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
+      "summary": "Energy-hungry AI data centers are driving a surge in electricity demand, but this boom is also accelerating investment in solid-state power transformers. This modern power electronics technology could replace conventional transformers, which are custom-built with 1880s designs and cause long utility delivery waits.",
+      "tags": [
+        "energy",
+        "ai",
+        "infrastructure"
+      ],
+      "priority": false
+    },
+    {
+      "id": "56c1b06ef33f6ef5",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "F1 in the Netherlands: The driver you most want to beat is your teammate",
+      "url": "https://arstechnica.com/cars/2026/08/f1-in-the-netherlands-the-driver-you-most-want-to-beat-is-your-teammate/",
+      "summary": "Formula 1 returned from its summer break with the Dutch Grand Prix, where contract news saw Max Verstappen, Alex Albon, and Carlos Sainz re-sign. The race weekend also highlighted intense rivalries between teammates, with drivers often striving hardest to outperform the only other person with the same car.",
+      "tags": [
+        "formula 1",
+        "sports",
+        "racing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "973663339ab99f77",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "GM vehicles under federal scrutiny after hundreds of reports",
+      "url": "https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures/",
+      "summary": "Federal investigators are expanding a safety probe into over 1.1 million GM vehicles, including EVs, due to hundreds of reports of brake failure linked to the eBoost brake-by-wire system. Reports suggest an immediate loss of braking, contradicting GM's claims of retained safety features, with 22 crashes and six injuries recorded.",
+      "tags": [
+        "automotive",
+        "safety",
+        "investigation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "58df55684223fd07",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
+      "url": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
+      "summary": "AliExpress was caught fingerprinting visitors by sending inaudible sounds to browsers, a stealthy tracking method discovered by a researcher whose Bluetooth headphones were disrupted. Highly obfuscated scripts rendered a graph analyzing WebAudio readings, which measured Sawtooth waves from visiting browsers.",
+      "tags": [
+        "privacy",
+        "tracking",
+        "e-commerce"
+      ],
+      "priority": false
+    },
+    {
+      "id": "26c96baa1ae849cb",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Trump tried to curb clean energy. It’s booming anyway.",
+      "url": "https://arstechnica.com/science/2026/08/trump-tried-to-curb-clean-energy-its-booming-anyway/",
+      "summary": "Despite the Trump administration's efforts to curtail clean energy, the US is experiencing a record boom, with additions projected to rise by 45 gigawatts this year. Factors driving this growth include surging electricity demand from AI data centers, high global energy prices due to the Iran war, and developers capitalizing on expiring tax credits.",
+      "tags": [
+        "clean energy",
+        "policy",
+        "energy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "910e3b6b71d31eba",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
+      "url": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&at_campaign=rss",
+      "summary": "Beyond the public showcases of humanoid robots, China is experiencing a rapid \"quiet machine revolution\" in its factories, with over two million industrial robots already in operation. This signifies a massive scaling up of automation in the country.",
+      "tags": [
+        "robotics",
+        "automation",
+        "china"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3a9ea7ed38d32fc9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Brain disease in dead NFL players 'higher than previously shown'",
+      "url": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
+      "summary": "A new study reveals that at least one in four former NFL players who died between 2016 and 2021 had a degenerative brain disease, with the true figure possibly much higher. This highlights ongoing concerns about chronic traumatic encephalopathy (CTE) in American football.",
+      "tags": [
+        "nfl",
+        "health",
+        "sports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0436bc0a5f1dbe24",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "British man charged in Singapore two years after alleged theft at airport",
+      "url": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo?at_medium=RSS&at_campaign=rss",
+      "summary": "A 26-year-old British man has been charged in Singapore two years after allegedly stealing a denim jacket from an airport shop. He faces up to seven years in jail if convicted.",
+      "tags": [
+        "crime",
+        "singapore",
+        "law"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4c014879cb4f2209",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Caste divide makes summer more scorching in dry Indian region",
+      "url": "https://www.bbc.co.uk/news/articles/cyvlzp2zn67o?at_medium=RSS&at_campaign=rss",
+      "summary": "Activists report that rising heat and water scarcity in India's dry Bundelkhand region are exacerbating old caste inequalities. The environmental challenges are deepening social disparities.",
+      "tags": [
+        "india",
+        "climate change",
+        "social issues"
+      ],
+      "priority": false
+    },
+    {
+      "id": "511ecb2dedaf94ec",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+      "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+      "summary": "China has criticized new US sanctions against Iran and its trading partners as \"illegal.\" The US has threatened to isolate nations continuing business with Tehran, which sells much of its oil to Beijing.",
+      "tags": [
+        "international relations",
+        "iran",
+        "sanctions"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fea909c52c7816f5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "French tourist dies in Death Valley after car gets stuck in mud",
+      "url": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
+      "summary": "A 68-year-old French tourist died in California's Death Valley after his car became stuck in mud amidst extreme 116°F (46.6C) heat. His body was discovered in the salt flats.",
+      "tags": [
+        "travel",
+        "tragedy",
+        "california"
+      ],
+      "priority": false
+    },
+    {
+      "id": "04262a583cf507da",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How Canada could hit back to hurt the US economy - and Trump",
+      "url": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
+      "summary": "An analysis explores Canada's potential strategies to retaliate against the US economy and the Trump administration amid a spiraling trade dispute. Canada, which exports 70% of its goods to the US, possesses significant leverage.",
+      "tags": [
+        "trade",
+        "canada",
+        "international relations"
+      ],
+      "priority": false
+    },
+    {
+      "id": "332585fc43b43bd7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
+      "url": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss",
+      "summary": "Correspondent Joe Inwood provides a breakdown of the Storm Shadow missile technology and its potential to be a \"game changer\" for Ukraine in the Russia-Ukraine war. The missile's capabilities are being assessed for their impact on the conflict.",
+      "tags": [
+        "ukraine",
+        "military",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fe027075fd943f53",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+      "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel has warned of a \"forceful\" response to kites allegedly flown from Gaza into Israeli border communities by children, according to Hamas. These kites have reportedly been found in recent days.",
+      "tags": [
+        "israel",
+        "palestine",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0399a61d1ed371eb",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
+      "url": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Kit Harington has replaced Nicholas Hoult in HBO's upcoming Harry Potter series, after Hoult withdrew due to scheduling conflicts. Harington will now portray Gilderoy Lockhart.",
+      "tags": [
+        "entertainment",
+        "tv series",
+        "harry potter"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0d9a7cd10ebb33b2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Lockerbie bombing trial postponed days before it was due to start",
+      "url": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Lockerbie bombing trial has been postponed for a third time, just days before it was set to begin, due to new evidence emerging in the 37-year-old case. This delay impacts the trial of a Libyan man accused in the bombing.",
+      "tags": [
+        "justice",
+        "international law",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "50a301338371f035",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Moment tornado tears through southern France",
+      "url": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
+      "summary": "Video footage captured the moment a tornado tore through southern France, injuring over 40 people and causing widespread destruction to homes in affected villages.",
+      "tags": [
+        "disaster",
+        "weather",
+        "france"
+      ],
+      "priority": false
+    },
+    {
+      "id": "37a5f7a2d450b49c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "NZ religious sect leader jailed over death of Chinese follower",
+      "url": "https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&at_campaign=rss",
+      "summary": "A New Zealand religious sect leader has been jailed over the 2024 death of a 70-year-old Chinese follower whose body was found near an Auckland marina. The legal proceedings concluded with a conviction for the sect leader.",
+      "tags": [
+        "crime",
+        "new zealand",
+        "religion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e501e888ee7b6446",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Songs created by AI banned from Australia's music charts",
+      "url": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
+      "summary": "Australia's music charts have banned songs created by AI, weeks after a DJ admitted to using AI to remix a Madonna song that topped the charts. This move addresses concerns about artificial intelligence's role in music production.",
+      "tags": [
+        "ai",
+        "music",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4bd668267d425af8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
+      "url": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
+      "summary": "A tornado has devastated the French village of Pomas, injuring dozens and severely damaging hundreds of homes. Fifteen people were hospitalized as a result of the natural disaster.",
+      "tags": [
+        "disaster",
+        "weather",
+        "france"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d9227ae7dee65c5b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "UK drone factories may face attacks from 'unknown sources', says former Russian minister",
+      "url": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
+      "summary": "A former Russian minister has warned that UK drone factories could face attacks from \"unknown sources\" following Britain's agreement to provide Ukraine with blueprints for missile components. This suggests potential geopolitical repercussions.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "defense"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1193d89b565a6549",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US firefighters say major blaze near Reno about a quarter contained",
+      "url": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
+      "summary": "US firefighters are battling a major blaze near Reno, which is approximately a quarter contained, but officials fear winds could spread the flames further for two more days. Many local residents remain under evacuation orders.",
+      "tags": [
+        "wildfire",
+        "california",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2f80a81fc41019cf",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US removes Syria from list of state sponsors of terrorism",
+      "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Trump administration has removed Syria from its list of state sponsors of terrorism, following its embrace of Syria's new president, Ahmed al-Sharaa, who was formerly linked to al-Qaeda. This decision marks a significant shift in US foreign policy.",
+      "tags": [
+        "foreign policy",
+        "syria",
+        "terrorism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a7701a979c6bcfc0",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "summary": "Apple has announced new M6 and M5 Ultra chips, promising significant advancements in performance and AI compute capabilities. These chips are set to power the latest generation of Apple devices.",
+      "tags": [
+        "apple",
+        "chips",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "87f6887dc1f32e4a",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Apple Introduces New Mac Studio with M5 Max and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "summary": "Apple has introduced new Mac Studio models featuring the M5 Max and M5 Ultra chips. This update brings enhanced performance to Apple's professional desktop lineup.",
+      "tags": [
+        "apple",
+        "hardware",
+        "computers"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dbcb58fd7eb19fab",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "How Europe is killing makers and micro-entrepreneurs",
+      "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
+      "summary": "An article argues that Europe's regulatory environment is harming makers and micro-entrepreneurs. It highlights challenges faced by small-scale creators in the region.",
+      "tags": [
+        "europe",
+        "business",
+        "regulation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "db2c173811d006b6",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "How Universities Should Prepare Founders",
+      "url": "https://paulgraham.com/prepare.html",
+      "summary": "Paul Graham discusses how universities should better equip founders. The article likely offers guidance on entrepreneurial education.",
+      "tags": [
+        "education",
+        "startups",
+        "entrepreneurship"
+      ],
+      "priority": false
+    },
+    {
+      "id": "97c0cdd8b5cae5f5",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+      "summary": "Apple has confirmed that iCloud+ Hide My Email addresses will continue to be accessible on icloud.com. This ensures users can manage their private email relays.",
+      "tags": [
+        "apple",
+        "privacy",
+        "email"
+      ],
+      "priority": false
+    },
+    {
+      "id": "eedbf627a4a61464",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "LLMs could control their host machines by exploiting inference engines",
+      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+      "summary": "A new essay suggests that Large Language Models (LLMs) could potentially gain control over their host machines by exploiting vulnerabilities in inference engines. This raises concerns about the security implications of advanced AI.",
+      "tags": [
+        "ai",
+        "security",
+        "llms"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2304823db430c7d5",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Moon (2024)",
+      "url": "https://ciechanow.ski/moon/",
+      "summary": "\"Moon (2024)\" is presented as an interactive visualization, likely related to lunar exploration or astronomy.",
+      "tags": [
+        "science",
+        "visualization",
+        "space"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e919b981589ce8d3",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+      "summary": "MS Paint and Photos are reported to invisibly watermark even locally generated images with a GUID (Globally Unique Identifier). This raises questions about user privacy and tracking in common software.",
+      "tags": [
+        "privacy",
+        "software",
+        "forensics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3ade591fccdbd99a",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538",
+      "summary": "A small study indicates that peppermint oil can reduce blood pressure by 8.48 mmHg. This finding suggests a potential natural remedy for hypertension.",
+      "tags": [
+        "health",
+        "science",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2330411a0178d3d2",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The entire city of San Francisco as a video game",
+      "url": "https://sf.thijs.gg/",
+      "summary": "The entire city of San Francisco has been rendered into a video game. This project allows users to interact with a digital representation of the city.",
+      "tags": [
+        "video games",
+        "urban development",
+        "mapping"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3afe2bad6c8bf117",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "What's new in Emacs 31.1",
+      "url": "https://www.masteringemacs.org/article/whats-new-in-emacs-311",
+      "summary": "A detailed overview of \"What's new in Emacs 31.1\" has been released. It covers the latest features and improvements in the popular text editor.",
+      "tags": [
+        "software",
+        "programming",
+        "emacs"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0735ff1ddb086486",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Where did all the public bathrooms go?",
+      "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
+      "summary": "An article explores the societal question of \"Where did all the public bathrooms go?\". It likely discusses the decline of public restroom availability and its implications.",
+      "tags": [
+        "society",
+        "infrastructure",
+        "urban planning"
+      ],
+      "priority": false
+    },
+    {
+      "id": "128c13111ba888bd",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+      "url": "https://twitter.com/lemire/status/2091894299289874926",
+      "summary": "Xiaomi's new CPU is claimed to match Apple cores in single-threaded performance and significantly surpass them in multi-threaded tasks. This suggests a major advancement in mobile processor technology.",
+      "tags": [
+        "xiaomi",
+        "chips",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c0b6c85cb161d702",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+      "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+      "summary": "Shanghai hosted a robot \"carnival\" showcasing humanoid robots as part of China's strategy to integrate embodied AI into daily life. China is a leading global manufacturer of these machines, with demonstrations ranging from coffee-making to martial arts.",
+      "tags": [
+        "roborics",
+        "ai",
+        "china"
+      ],
+      "priority": false
+    },
+    {
+      "id": "651f21130625730b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "At least 25% of former NFL players who died between 2016 and 2021 had CTE, study finds",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5943168/cte-nfl-concussions-deaths-study",
+      "summary": "A new study on former NFL players who died between 2016 and 2021 found that at least 25% had CTE, a brain disease linked to playing football. The study highlights ongoing uncertainty about the disease's overall prevalence.",
+      "tags": [
+        "nfl",
+        "health",
+        "study"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dd8fd78ca765a685",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
+      "summary": "A new round of US sanctions against Iran raises questions about whether President Trump's economic war can achieve what airstrikes and negotiations have not after months of conflict. The efficacy of continued economic pressure on the country is under scrutiny.",
+      "tags": [
+        "iran",
+        "foreign policy",
+        "sanctions"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ef91f2de4919d74b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Churches, libraries and breweries: Inside DHS' covert surveillance operation",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5941135/dhs-surveillance-minnesota-ice-surge",
+      "summary": "Court filings allege that DHS conducted covert surveillance operations, including going undercover at community meetings, subpoenaing labor union financial records, and creating dossiers on individuals at a church gathering. These actions raise privacy concerns.",
+      "tags": [
+        "surveillance",
+        "privacy",
+        "government"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5706c76c59fcee28",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "How the AIDS crisis helped create a multibillion-dollar death-speculation market",
+      "url": "https://www.npr.org/sections/planet-money/2026/08/25/g-s1-139946/how-the-aids-crisis-helped-create-a-multibillion-dollar-death-speculation-market",
+      "summary": "The AIDS crisis inadvertently helped foster a multibillion-dollar death-speculation market, where investors buy life insurance policies from individuals and collect payouts upon their death. This system allows policyholders to access funds while alive.",
+      "tags": [
+        "finance",
+        "health",
+        "history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "820d6fbce952500b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Kids with brain injuries thrive at this camp. But federal research funding is in flux",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5936617/camp-cranium-tbi-act-brain-injury-concussion-trauma-cdc",
+      "summary": "A Pennsylvania summer camp supports children recovering from brain injuries, but the future of federal funding for brain injury research and state grants is uncertain. This highlights a critical need for consistent support for these patients.",
+      "tags": [
+        "health",
+        "funding",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "39fab79dfd90adb0",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5942903/morning-news-brief",
+      "summary": "A morning news brief covers new US economic sanctions on Iran, Iran's vow of retaliation, and the Supreme Court's temporary support for President Trump's restrictions on mail-in voting. These are key updates in domestic and international policy.",
+      "tags": [
+        "news",
+        "politics",
+        "iran"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9fde47356a986b8d",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Spokane wildfire evacuees return home, but it's 'still a hazmat situation'",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5943574/spokane-wildfire-evacuees-return-home-but-its-still-a-hazmat-situation",
+      "summary": "Most evacuees from wildfires near Spokane have been allowed to return home, but officials caution that the area remains a \"hazmat situation\" due to lingering toxins. Residents are advised about potential health risks despite returning.",
+      "tags": [
+        "wildfire",
+        "environment",
+        "health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e39d842c0430a6b7",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump calls leaders to isolate Iran. And, SCOTUS backs Trump for now on mail-in voting",
+      "url": "https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy",
+      "summary": "President Trump is urging world leaders to support his economic war against Iran, alongside a temporary Supreme Court backing for his order to restrict mail-in voting. These are key developments in the morning news brief.",
+      "tags": [
+        "politics",
+        "iran",
+        "supreme court"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b47ea8218cfe2a4e",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "When is suspending students discrimination? Education Department renews an old fight",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5936474/discrimination-school-discipline-suspension-race-education-department-civil-rights",
+      "summary": "President Trump's Education Department is reviving a debate on school discipline by instructing schools to cease considering race in student suspension decisions. This renews an old fight regarding discrimination in education.",
+      "tags": [
+        "education",
+        "policy",
+        "discrimination"
+      ],
+      "priority": false
+    },
+    {
+      "id": "88d706987e9610b8",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Trump’s MAGA Inc. makes last-minute buy for Darline Graham in South Carolina runoff",
+      "url": "https://www.politico.com/news/2026/08/24/trump-maga-inc-darline-graham-south-carolina-01048038",
+      "summary": "Trump’s MAGA Inc. super PAC has made a significant last-minute expenditure of over $827,000 for voter calls and texts to support Darline Graham in a South Carolina GOP runoff. This marks one of the super PAC's first major spends this year for a chosen candidate.",
+      "tags": [
+        "politics",
+        "elections",
+        "campaign finance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d01565f5b21bdddd",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "llm-anthropic 0.27",
+      "url": "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
+      "summary": "The llm-anthropic 0.27 plugin has been released, providing compatibility with the updated anthropic v1.0.0 Python library. This update ensures seamless integration for users of the LLM framework with Anthropic's models.",
+      "tags": [
+        "python",
+        "ai",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "985f58b09dd394f8",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "The Western water crisis has a simple solution",
+      "url": "https://www.slowboring.com/p/the-western-water-crisis-has-a-simple",
+      "summary": "Any time I read about water scarcity issues in the United States, I get kind of annoyed.\nFor starters, the United States is a land of relatively abundant water. Our freshwater resources per capita\nare above average globally\n, and while we’re no Canada or Brazil, we easily outpace…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c290face7dbd9d59",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Three Dan Sullivans walk into a race for Senate",
+      "url": "https://www.slowboring.com/p/three-dan-sullivans-walk-into-a-race",
+      "summary": "Pennsylvania's Butler County experienced a progressive surprise in a state House district election. The article also mentions an assassination attempt against President Donald Trump two years prior and discusses political races.",
+      "tags": [
+        "politics",
+        "elections",
+        "pennsylvania"
+      ],
+      "priority": false
+    },
+    {
+      "id": "575efc1428ec863e",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Accel-backed Keenable is indexing the web for AI agents",
+      "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+      "summary": "Accel-backed startup Keenable has exited stealth mode after raising a $26 million seed round, focusing on building a vast web search index specifically for AI agents. This initiative aims to provide AI agents with a comprehensive and structured way to access information on the web.",
+      "tags": [
+        "ai",
+        "search",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b26f4f081ea77a92",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Amazon hikes hardware prices by 60%, blaming memory shortage",
+      "url": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
+      "summary": "Amazon has increased its hardware prices by 60%, attributing the hike to an ongoing memory shortage affecting hardware makers. The company states it is now forced to pass these increased costs on to consumers.",
+      "tags": [
+        "amazon",
+        "hardware",
+        "economics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "34ddfcd349406b55",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+      "summary": "Amjad Masad, CEO and co-founder of Replit, is scheduled to speak at TechCrunch Disrupt 2026. He will share insights on the future of programming and Replit's role in its development.",
+      "tags": [
+        "events",
+        "programming",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e869b5f63d9ac958",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Andy Dunn’s startup Pie becomes less of an events app and more of a social network",
+      "url": "https://techcrunch.com/2026/08/25/andy-dunns-startup-pie-becomes-less-of-an-events-app-and-more-of-a-social-network/",
+      "summary": "Andy Dunn’s startup Pie is evolving from an events app into a broader social network, expanding its offerings to provide new digital homes for groups. This shift allows communities to connect, organize, and make plans beyond just event coordination.",
+      "tags": [
+        "social media",
+        "startups",
+        "app"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a7410b8af2bbae54",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apple debuts its ‘most powerful chip ever’ in M5 Ultra and M6",
+      "url": "https://techcrunch.com/2026/08/25/apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6/",
+      "summary": "Apple has unveiled its \"most powerful chip ever,\" the M5 Ultra, along with the new M6 processor, which debut in updated Mac Mini and Mac Studio computers. These new processors aim to deliver significant performance and AI compute improvements.",
+      "tags": [
+        "apple",
+        "chips",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5e973ce684da2066",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apple’s latest Mac Mini runs on a new M6 chip, and starts at $899",
+      "url": "https://techcrunch.com/2026/08/25/apples-latest-mac-mini-runs-on-a-new-m6-chip-and-starts-at-899/",
+      "summary": "Apple has announced its latest Mac Mini, which will run on the new M6 chip and starts at $899, featuring 256GB of storage and 16GB of RAM. This update brings a new processor to Apple's compact desktop lineup.",
+      "tags": [
+        "apple",
+        "computers",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1a7388c05eeff874",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Fiat Ventures combines venture and advisory divisions into new brand, raises $35M Fund II",
+      "url": "https://techcrunch.com/2026/08/25/fgv-capital-bets-on-a-new-venture-model-raises-35m-fund-ii/",
+      "summary": "Fiat Ventures is combining its venture and advisory divisions under a new brand and has successfully raised $35 million for its second fund. This model aims to attract limited partners in a challenging environment for emerging fund managers by offering a differentiated venture approach.",
+      "tags": [
+        "venture capital",
+        "finance",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43a7653f5062b0eb",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
+      "url": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
+      "summary": "India’s Airbound has secured $37 million in funding from investors like Greenoaks and DoorDash for its ultra-lightweight, rocket-like drones designed for delivery. The startup aims to compete with traditional trucks for cargo transport.",
+      "tags": [
+        "drones",
+        "logistics",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f9631228e1c8e559",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "summary": "Benchmarks show OpenAI’s new Jalapeño chip is engineered for fast AI inference at scale, demonstrating superior performance in tokens per user and throughput per kilowatt. This indicates the chip's efficiency for running trained AI models quickly and effectively.",
+      "tags": [
+        "ai",
+        "hardware",
+        "openai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b3713d0ecfcd9b98",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
+      "url": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
+      "summary": "Oura is reportedly preparing for a September IPO, with an expected valuation that could exceed $16 billion. This potential public offering reflects the growing interest and market value in wearable health technology.",
+      "tags": [
+        "ipo",
+        "wearables",
+        "healthtech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2ab2baf5d5c43d3d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
+      "url": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
+      "summary": "Self-driving truck startup Gatik has raised $200 million in its largest funding round to date, led by Qatar Investment Authority and Koch Disruptive Technologies. This funding follows a recent deal with PepsiCo, boosting its efforts in autonomous logistics.",
+      "tags": [
+        "autonomous vehicles",
+        "logistics",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7e56107b7b3c6784",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+      "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+      "summary": "Situational Awareness, an AI hedge fund that was once highly regarded, is now under investigation by the SEC after nearly imploding. The fund quickly went from \"the talk of Wall Street\" to the subject of federal subpoenas due to its rapid decline.",
+      "tags": [
+        "finance",
+        "ai",
+        "regulation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5487e4b5e7164358",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Uber launches live video streaming for teen accounts",
+      "url": "https://techcrunch.com/2026/08/25/uber-launches-live-video-streaming-for-teen-accounts/",
+      "summary": "Uber is rolling out live video streaming capabilities for its teen accounts, allowing parents to monitor their children's rides through the driver's selfie camera. The company assures that no one will be able to access the video once the ride concludes.",
+      "tags": [
+        "uber",
+        "safety",
+        "parenting"
+      ],
+      "priority": false
+    },
+    {
+      "id": "28f27a8ddb34e3dc",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Zillow and Redfin settle FTC antitrust case",
+      "url": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/",
+      "summary": "Zillow and Redfin have reached a settlement with the FTC in an antitrust case, requiring Redfin to reenter the rental advertising business. The settlement resolves a legal dispute concerning market competition in real estate.",
+      "tags": [
+        "real estate",
+        "antitrust",
+        "law"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6bd9b7349c91ccaa",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+      "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+      "summary": "OpenAI's head of product, Thibault Sottiaux, was interviewed by TechCrunch, where he discussed topics including AI agents, user experience (UX), and his reporting structure to Greg Brockman. The interview touched upon the readiness of the world for advanced AI products.",
+      "tags": [
+        "openai",
+        "ai",
+        "interviews"
+      ],
+      "priority": false
+    },
+    {
+      "id": "44a02b2433aa4bcc",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Confessions of a Former Social Justice Warrior",
+      "url": "https://www.thefp.com/p/confessions-of-former-social-justice-warrior",
+      "summary": "This article offers \"Confessions of a Former Social Justice Warrior,\" reflecting on the decade-long influence of \"wokeness\" or social justice frameworks across American institutions. It examines the initiatives and power of movements like Black Lives Matter, #MeToo, and DEI.",
+      "tags": [
+        "society",
+        "politics",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5b9fe33a5e8591fc",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Inside America’s Fight for Drone Dominance",
+      "url": "https://www.thefp.com/p/americas-fight-drone-dominance-innovation-pentagon-travis-metz",
+      "summary": "The US military is striving for drone dominance by rapidly building more drones on US soil, without Chinese parts, as discussed by Defense Innovation Unit Deputy Director Travis Metz. Lessons from Ukraine's drone warfare and the Pentagon's new billion-dollar effort to upgrade aging systems are key to this strategy.",
+      "tags": [
+        "defense",
+        "drones",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1328731f4d73cd56",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "This Week in Canada: Why the ‘Very Good’ Trade Deal Went Bad",
+      "url": "https://www.thefp.com/p/this-week-in-canada-trade-deal-bad-trump-carney-tariff",
+      "summary": "Trade talks between Canada and the US collapsed, leading to Canada abandoning the deal and imposing dollar-for-dollar tariffs in retaliation to President Trump's new 50 percent tariffs on Canadian goods. Prime Minister Carney's decision to walk away triggered strong reactions and a renewed trade dispute.",
+      "tags": [
+        "trade",
+        "canada",
+        "international relations"
+      ],
+      "priority": false
+    },
+    {
+      "id": "851e77d214568dc8",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Tyler Cowen: The Least Bad Way to Regulate AI",
+      "url": "https://www.thefp.com/p/tyler-cowen-ai-regulation-private-public",
+      "summary": "Tyler Cowen argues for a \"least bad way\" to regulate AI, focusing on promoting safety without excessive federal control, citing proposals from OpenAI's Dean Ball. Despite AI's rapid progress and risks like the Hugging Face breach, overregulating could be more harmful.",
+      "tags": [
+        "ai",
+        "regulation",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "202247af811f5ba8",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "The Moomin Strategy for Living with Uncertainty",
+      "url": "https://www.themarginalian.org/2026/08/24/too-ticky-quotes-tove-jansson/",
+      "summary": "Tove Jansson's Moomin character, Too-ticky, offers a profound \"Moomin Strategy\" for embracing life's uncertainties and finding reassurance in them. Her wisdom, inspired by Jansson's life partner, advocates for peace with the unknown and a minimalist approach to possessions.",
+      "tags": [
+        "philosophy",
+        "literature",
+        "self-improvement"
+      ],
+      "priority": false
+    },
+    {
+      "id": "53b017734f3b5f6d",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Apple launches new Mac Studios with its ‘most powerful chip ever’ — the M5 Ultra",
+      "url": "https://www.theverge.com/tech/984207/apple-mac-studio-m5-max-ultra-price-specs-launch",
+      "summary": "Apple has launched new Mac Studio models, now powered by the existing M5 Max and the new M5 Ultra chips, unifying them under a single chip generation. These new Studios maintain the same compact design but feature Apple's most powerful Systems-on-a-Chip for enhanced performance.",
+      "tags": [
+        "apple",
+        "computers",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "132a31b7399cb547",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
+      "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
+      "summary": "Apple has announced its new M6 chip, the first 2nm chip for Macs, featuring a 12-core CPU and a Dual 16-core Neural Engine for on-device AI workloads. They also unveiled the M5 Ultra, which is described as their \"most powerful chip ever,\" designed for demanding tasks like 3D rendering and frontier AI models.",
+      "tags": [
+        "apple",
+        "chips",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "df1b5b80d7fff121",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Apple’s new Mac Mini has fresh M6 and M5 Pro chip offerings — and higher prices",
+      "url": "https://www.theverge.com/tech/984190/apple-mac-mini-m6-m5-pro-price-specs",
+      "summary": "Apple has introduced a new generation of Mac Mini models, featuring the new M6 chip and an M5 Pro option, with upgraded internals, faster performance, and speedier ethernet ports. Both models have higher starting prices than their M4 generation predecessors and will begin shipping in late September.",
+      "tags": [
+        "apple",
+        "computers",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5527d084b5854c33",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "GuliKit’s Switch 2 TV dock gives me one feature I’ve missed when traveling",
+      "url": "https://www.theverge.com/tech/983020/gulikit-dock-nintendo-switch-2-hands-on",
+      "summary": "GuliKit’s new portable TV dock for the Nintendo Switch 2 offers a more compact and affordable alternative to Nintendo’s official dock for travelers. While made of plastic and requiring a separate power adapter, its design provides a stable stand and multiple ports, including 4K/60Hz HDMI.",
+      "tags": [
+        "gaming",
+        "accessories",
+        "nintendo switch"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4ef58f754c57f7b1",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+      "summary": "OpenAI claims its new Application-Specific Integrated Circuit (ASIC), Jalapeño, offers superior AI inference performance with both lower latency and higher throughput, overcoming traditional trade-offs. Developed in partnership with Broadcom, the chip is designed to power faster AI responses.",
+      "tags": [
+        "ai",
+        "hardware",
+        "openai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1480b807adba14a0",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The TCL Note A1 is a kinder, gentler tablet",
+      "url": "https://www.theverge.com/tech/984086/tcl-note-a1-nxtpaper-tablet-review",
+      "summary": "The TCL Note A1 Nxtpaper tablet aims to replicate the pen-and-paper experience with its low-glare matte display and stylus, which includes haptics mimicking a pencil. Its software takes cues from the Remarkable tablet, providing a distraction-free environment for writing and note-taking.",
+      "tags": [
+        "tablets",
+        "e-ink",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "23875adb7cbf85ab",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Uber is letting parents check in on their teens through drivers’ selfie cameras",
+      "url": "https://www.theverge.com/transportation/983926/uber-teen-account-live-video-driver-selfie-camera",
+      "summary": "Uber is enhancing its teen account features by enabling parents to view live video of their children's ridehail trips directly from the driver's selfie camera. This new capability, rolling out nationwide, adds to existing parental monitoring tools like PIN verification and live GPS tracking.",
+      "tags": [
+        "uber",
+        "safety",
+        "parenting"
+      ],
+      "priority": false
+    },
+    {
+      "id": "989cf761bd2f4e4a",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Where to preorder the updated Mac Mini and Mac Studio",
+      "url": "https://www.theverge.com/gadgets/984096/mac-mini-mac-studio-m5-m6-ultra-preorder",
+      "summary": "Apple has released updated Mac Mini and Mac Studio machines, featuring new M6 and M5 Ultra processors, which are now available for preorder. The new models emphasize AI performance and improved connectivity, with higher starting prices compared to previous generations.",
+      "tags": [
+        "apple",
+        "hardware",
+        "computers"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 104,
+    "summarized": 81,
+    "skipped_promos": 0,
+    "filtered_by_rules": 23,
+    "sources": 12,
+    "email_items_omitted": 0
+  }
+}
