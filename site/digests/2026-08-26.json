@@ -1,0 +1,1256 @@
+{
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26T14:37:25+00:00",
+  "hot_topics": [
+    {
+      "topic": "Dolly Parton's Enduring Legacy and Public Tributes",
+      "synthesis": "The passing of country music icon Dolly Parton at age 80 has prompted widespread tributes, with fans gathering in Nashville and media outlets reflecting on her immense legacy. Remembered for her chart-topping hits and profound songwriting, Parton crafted an \"American songbook\" that transcended genres and regional divides. Her influence is celebrated as irreplaceable, marking the end of an era for country music and American culture.",
+      "item_ids": [
+        "c4505e18f9b0aa9b",
+        "f2e876ad4aed9778",
+        "9e8401fc93a667a7",
+        "547062f3256aa125",
+        "8a08731e1e98b47b"
+      ]
+    },
+    {
+      "topic": "Meta's Major Settlement Over Teen Social Media Harms",
+      "synthesis": "Meta has reached a significant settlement with 29 state attorneys general, agreeing to pay between $17 billion and $18 billion and implement substantial restrictions on teen users across Instagram and Facebook. The lawsuits alleged that Meta knowingly designed its platforms to addict children, despite being aware of potential harms. As part of the agreement, Meta will introduce an independent age assurance standard and offer teens the option to disable personalized feeds, addressing long-standing concerns about youth online safety.",
+      "item_ids": [
+        "4978fa2c63a0fbe0",
+        "3406f605b683da3a",
+        "420b1bbb98e21ffb"
+      ]
+    },
+    {
+      "topic": "Canada Escalates Trade War with US Through New Tariffs",
+      "synthesis": "Canada is escalating its trade dispute with the United States by announcing \"dollar-for-dollar\" retaliatory tariffs, some as high as 50%, on a range of US goods including steel and furniture. These measures are seen as Canada's way of testing the limits of American power under President Trump, who is challenging allies and enemies alike with US dominance. The move signifies a growing willingness of countries to resist trade pressures from the US.",
+      "item_ids": [
+        "a447380943053647",
+        "6edbe3ced2425bef",
+        "547062f3256aa125"
+      ]
+    },
+    {
+      "topic": "New LLM Releases and Architectural Advancements in AI",
+      "synthesis": "Several new large language models and architectural innovations are being unveiled, pushing boundaries in performance and accessibility. Z.ai confirmed its role behind the mysterious, high-ranking Ox Alpha model, with weights soon to be released, while IBM introduced its Granite 4.2 open-weight models designed for local hosting. Additionally, the Qwen project showcased its Qwen3.8-Flash-Next architecture, emphasizing ultimate cost-efficiency in LLM development.",
+      "item_ids": [
+        "a6148407e4a3ee40",
+        "61cf68e962221002",
+        "d359e9a25465bbf5",
+        "46b9c8598f391385"
+      ]
+    },
+    {
+      "topic": "X (Twitter) Takes Legal Action Against Scraping Frontends",
+      "synthesis": "X (formerly Twitter) has issued cease-and-desist letters to open-source projects Nitter and XCancel, alleging data scraping and demanding the removal of their code and instances. Both projects provide privacy-focused alternative frontends for the social media platform, highlighting an ongoing conflict between X's data policies and community-led efforts for enhanced user privacy.",
+      "item_ids": [
+        "1dd6e9cd49fdc7b1",
+        "5eb3a591d94c0660"
+      ]
+    },
+    {
+      "topic": "Apple Unveils New M-series Chips for Mac Mini and Mac Studio",
+      "synthesis": "Apple has announced significant updates to its Mac lineup, introducing new M6 and M5 Pro chips for the Mac mini, and M5 Max and M5 Ultra chips for the Mac Studio. These new custom silicon processors promise substantial leaps in performance and AI compute capabilities. The releases mark Apple's continued commitment to advancing its in-house chip technology across its professional and consumer desktop offerings.",
+      "item_ids": [
+        "59bdc41db6706be5",
+        "0208721e90de24d6",
+        "cef7493cf31c3d82"
+      ]
+    },
+    {
+      "topic": "Iran Conflict and Geopolitical Tensions",
+      "synthesis": "Geopolitical tensions involving Iran remain high, characterized by a protracted \"Tantric War\" where strategic actions are promised but outcomes deferred. While President Trump announced the clearing of mines from the Strait of Hormuz, which Iran had closed, a new \"Operation Economic Outcast\" aims to exert pressure through aggressive secondary sanctions. This complex situation highlights both military and economic strategies employed by the US and broader resistance against perceived American dominance.",
+      "item_ids": [
+        "f3156cbe1ea5ded5",
+        "6edbe3ced2425bef",
+        "ed4441d3daeff0c1"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "1ad4983791467bfe",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "15,000 years of solar wind in four hours? A Seattle company gives it a go.",
+      "url": "https://arstechnica.com/space/2026/08/15000-years-of-solar-wind-in-four-hours-a-seattle-company-gives-it-a-go/",
+      "summary": "A Seattle company is attempting to simulate 15,000 years of solar wind in four hours to study helium-3, an isotope produced by the Sun and abundant on the Moon's surface due to billions of years of bombardment. This research aims to understand its potential for nuclear fusion processes.",
+      "tags": [
+        "space",
+        "science",
+        "energy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b463258cbdcc9303",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Google's anti-nausea Motion Assist dots finally rolling out on Android",
+      "url": "https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17/",
+      "summary": "Google is slowly rolling out \"Motion Assist\" for Android, a feature designed to reduce motion sickness when using phones in moving vehicles. Similar to Apple's \"Motion Cues,\" it displays moving dots on the screen to counteract the sensory mismatch that causes nausea.",
+      "tags": [
+        "android",
+        "google",
+        "health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a6148407e4a3ee40",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
+      "url": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
+      "summary": "IBM has rolled out the newest models in its family of open-weight large language models designed to be downloaded and self-hosted. The newly launched Granite 4.2 comes in 3B, 8B, and 30B parameter variants.\nLike previous versions, IBM is taking a decoder-only approach here. These…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "a0c05b609357c661",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Lab supply companies have been selling antibodies using manipulated images",
+      "url": "https://arstechnica.com/science/2026/08/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images/",
+      "summary": "A post-doc discovered that over 17,000 commercial antibodies are being marketed with manipulated images in their product demonstrations, including altered backgrounds and fabricated data. These manipulations, which would lead to academic paper retractions, raise concerns about the reliability of commercial lab supplies crucial for biological research.",
+      "tags": [
+        "science",
+        "research",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7b10553b48bacd8a",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "New bootloader lets you take the \"Meta\" out of the original Meta Quest",
+      "url": "https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/",
+      "summary": "A new root-access exploit and bootloader called QuestStack now allows original Meta Quest owners to gain full control of their hardware, freeing it from Meta's services and servers. This enables sideloading apps without a Meta Developer account and ensures initial setup remains possible even if Meta ceases server support.",
+      "tags": [
+        "vr",
+        "meta",
+        "modding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0c7745103173c44a",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Preserving glow-in-the-dark art and fashion for future generations",
+      "url": "https://arstechnica.com/science/2026/08/how-chemistry-can-keep-glow-in-the-dark-pigments-from-fading/",
+      "summary": "Conservationists are researching phosphorescent and fluorescent pigments used in historical art and fashion, such as Stephen Sprouse's designs, to prevent them from dulling over time. Their work at the Indianapolis Museum of Art at Newfields, presented at the American Chemical Society, aims to understand the chemistry behind these glow-in-the-dark materials.",
+      "tags": [
+        "art",
+        "science",
+        "chemistry"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7d779e32768c8572",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Psychiatry’s diagnostic bible is finally getting a biological upgrade",
+      "url": "https://arstechnica.com/health/2026/08/psychiatrys-diagnostic-bible-is-finally-getting-a-biological-upgrade/",
+      "summary": "The DSM, psychiatry's diagnostic manual, is finally being updated to integrate biological measures into its diagnoses, addressing long-standing criticism regarding its lack of objective biological markers and potential for medicalizing human suffering. The previous DSM-5, released in 2013, notably omitted such biological considerations due to their preliminary nature at the time.",
+      "tags": [
+        "health",
+        "psychiatry",
+        "science"
+      ],
+      "priority": false
+    },
+    {
+      "id": "adae3e06b0c9df98",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "World humanoid robot games show runners breaking records, bursting into flames",
+      "url": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
+      "summary": "The World Humanoid Robot Games in Beijing featured sprinting robots breaking human records, but also demonstrated limitations with crashes, falls, and even fires, especially in tasks requiring complex movement. Beyond speed, the event showcased robots attempting practical tasks like laundry, highlighting China's push for commercial robotics development.",
+      "tags": [
+        "robotics",
+        "ai",
+        "competition"
+      ],
+      "priority": false
+    },
+    {
+      "id": "97678d1a4602fb4b",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Xtracycle's Swoop ASM e-bike brings an automatic transmission to cargo bikes",
+      "url": "https://arstechnica.com/cars/2026/08/xtracycles-swoop-asm-e-bike-brings-an-automatic-transmission-to-cargo-bikes/",
+      "summary": "Xtracycle's new Swoop ASM cargo e-bike features an automatic transmission system developed by Shimano, which intelligently shifts gears based on rider metrics like cadence and torque. This innovation aims to provide a more seamless riding experience by entrusting gear control to an electronic brain.",
+      "tags": [
+        "ebike",
+        "technology",
+        "transport"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f90f0f93c4c77ea9",
+      "source": "Astral Codex Ten",
+      "source_type": "substack",
+      "title": "Highlights From The Comments On The Substack Religion Debate",
+      "url": "https://www.astralcodexten.com/p/highlights-from-the-comments-on-the-491",
+      "summary": "This article presents highlights from comments on a Substack debate about religion, with the author defending his approach of dismissing the debate rather than engaging in its specifics. He clarifies his stance on \"trapped priors\" and self-criticism in such discussions, especially regarding topics like the Fatima miracle.",
+      "tags": [
+        "philosophy",
+        "religion",
+        "substack"
+      ],
+      "priority": false
+    },
+    {
+      "id": "65ef5f69610cc70e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "As Ukraine hits Russia's refineries, Russia targets Ukraine's petrol pumps",
+      "url": "https://www.bbc.co.uk/news/articles/c5y6x777gk4o?at_medium=RSS&at_campaign=rss",
+      "summary": "As Ukraine targets Russia's oil refineries, Russia has retaliated by striking Ukraine's petrol pumps, leading fuel companies to urge customers not to linger. This escalation highlights the impact of the conflict on critical infrastructure and civilian life.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "da32263d5c277a07",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Bodies found on S Korean holiday island as missing persons scandal deepens",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz9gjw9n9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Bodies have been found on a South Korean holiday island, deepening a missing persons scandal that has led to the arrest of a police sergeant. The sergeant is accused of lying to victims' families and prematurely closing cases.",
+      "tags": [
+        "south korea",
+        "crime",
+        "scandal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a447380943053647",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+      "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "6edbe3ced2425bef",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Canada's retaliation tests the limit of American power under Trump",
+      "url": "https://www.bbc.co.uk/news/articles/ce8xd5k1krpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The president is using US dominance to challenge allies and enemies alike - but both Canada and Iran have found ways to fight back.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "84cd337167e53de9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Chinese teens are turning to mind-numbing drugs to 'run away from reality'",
+      "url": "https://www.bbc.co.uk/news/articles/c99d08j3kz1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Chinese teenagers are reportedly turning to prescription drugs to \"run away from reality,\" driven by a fear of failure. A teen shared with the BBC that students are seeking these mind-numbing substances due to academic and societal pressures.",
+      "tags": [
+        "china",
+        "society",
+        "health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5580825cac616d2c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+      "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+      "summary": "The CIA chief reportedly traveled to Moscow for unannounced talks, with flight tracking data confirming an American military aircraft's journey to Russia via Latvia. These unannounced talks suggest high-level discussions between the US and Russia.",
+      "tags": [
+        "us",
+        "russia",
+        "diplomacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c5c9ac6e50a9545a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
+      "url": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
+      "summary": "A far-right Israeli lawmaker, Zvi Sukkot, has drawn widespread condemnation, including from Prime Minister Benjamin Netanyahu, for damaging a Palestinian memorial with a sledgehammer. His actions have sparked significant political and public outrage.",
+      "tags": [
+        "israel",
+        "palestine",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a8d4496d04eb2986",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
+      "url": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
+      "summary": "A German airport worker has died of malaria, with five others receiving treatment, following a rare outbreak potentially caused by a mosquito arriving on a plane. This unusual event at Germany's busiest airport has raised health concerns.",
+      "tags": [
+        "health",
+        "germany",
+        "aviation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8b78b15daaba9bb7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Germany's Merz warns attackers will 'pay price' after drone incident",
+      "url": "https://www.bbc.co.uk/news/articles/cddv71p4j2jo?at_medium=RSS&at_campaign=rss",
+      "summary": "German Chancellor Merz warned that attackers would \"pay the price\" after a drone attack on Leipzig Airport, emphasizing the \"very real threat\" faced by the country. The incident highlights growing concerns over drone security.",
+      "tags": [
+        "germany",
+        "security",
+        "drone"
+      ],
+      "priority": false
+    },
+    {
+      "id": "70630c1be0531a51",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Guinea's president dismisses 173 soldiers, including coup ally, for desertion",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z0j3nyl4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Guinea's president has dismissed 173 soldiers, including a coup ally, for desertion, in a move believed to be part of efforts to consolidate the former coup leader's control. This action suggests internal political maneuvering to strengthen authority.",
+      "tags": [
+        "guinea",
+        "politics",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c4505e18f9b0aa9b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
+      "url": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c14f86d0549fcc87",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "India's sugar squeeze threatens its biggest season for sweets",
+      "url": "https://www.bbc.co.uk/news/articles/cm2r9y9eleno?at_medium=RSS&at_campaign=rss",
+      "summary": "India's domestic sugar prices have surged by nearly 40%, forcing the country to import 1 million tonnes of the sweetener, threatening its biggest season for sweets. This sugar squeeze poses a challenge for traditional festivals and industries.",
+      "tags": [
+        "india",
+        "economy",
+        "food"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7e067d8c950728b2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Indian jewellery ad pulled after backlash over actor's outfit",
+      "url": "https://www.bbc.co.uk/news/articles/cy9z4dwx172o?at_medium=RSS&at_campaign=rss",
+      "summary": "An Indian jewellery advertisement featuring Kriti Sanon has been pulled after facing backlash over the actor's outfit, which was criticized in connection to the upcoming Hindu festival of Rakhi. Kriti Sanon has since defended the ad.",
+      "tags": [
+        "india",
+        "culture",
+        "advertising"
+      ],
+      "priority": false
+    },
+    {
+      "id": "994d408f7f1a681a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Al Amin Khalifah Fhimah, a Libyan who was cleared after the Lockerbie bombing trial, has died at the age of 70. His death was announced by Libyan Airlines, which offered condolences to his family.",
+      "tags": [
+        "history",
+        "libya",
+        "lockerbie"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9cfcb2f5ee0aaed2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Radiation link in flight attendant's breast cancer, French court finds",
+      "url": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
+      "summary": "A French court has ruled that a former Air France flight attendant's breast cancer can be recognized as an occupational disease due to a link with radiation exposure. This landmark finding highlights potential health risks for airline crew.",
+      "tags": [
+        "health",
+        "law",
+        "aviation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f3156cbe1ea5ded5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump says all mines cleared from Strait of Hormuz",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f2e876ad4aed9778",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch Nashville fans lay flowers in tribute to Dolly Parton",
+      "url": "https://www.bbc.co.uk/news/videos/cx2zm89zd99o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Helena Humphrey is outside the Country Music Hall of Fame where fans gathered to mourn Dolly Parton.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "cef7493cf31c3d82",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Apple introduces M6 and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "summary": "https://techcrunch.com/2026/08/25/apple-debuts-its-most-powe...\nhttps://9to5mac.com/2026/08/25/m6-mac-mini-vs-m4-mac-mini-he...\nComments URL:\nhttps://news.ycombinator.com/item?id=49433292\nPoints: 1242\n# Comments: 1189",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "beef8b2383cebcfc",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "AWS Acquires DuckDB",
+      "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+      "summary": "AWS has acquired DuckDB, a high-performance in-process analytical database, as announced by DuckLabs. The acquisition brings DuckDB's unique capabilities into the AWS ecosystem.",
+      "tags": [
+        "aws",
+        "acquisition",
+        "database"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b186c03002598d7a",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Black hole singularity is a surface not a point",
+      "url": "https://arxiv.org/abs/2608.21590",
+      "summary": "New research suggests that a black hole singularity is a surface rather than a point, challenging traditional understandings of these cosmic phenomena. This theoretical advancement could redefine the physics of black holes.",
+      "tags": [
+        "astronomy",
+        "physics",
+        "science"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2d31d664d3ec73c6",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
+      "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+      "summary": "Bomb fishing is causing severe damage to Indonesia's coral reefs, threatening the marine ecosystem and local livelihoods. This destructive practice continues to wreak havoc despite conservation efforts.",
+      "tags": [
+        "environment",
+        "indonesia",
+        "conservation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c34bea32b79189ab",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Building a backyard office, the build and cost breakdown",
+      "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
+      "summary": "A detailed article provides a breakdown of the construction process and costs involved in building a backyard office. It offers practical insights for individuals considering a similar home improvement project.",
+      "tags": [
+        "diy",
+        "home improvement",
+        "construction"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fb6e37fcdcff4c5b",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+      "summary": "The FDA has authorized the first wearable device capable of continuously monitoring both ketone and blood sugar levels. This breakthrough offers a non-invasive way to track key metabolic indicators, benefiting individuals managing conditions like diabetes.",
+      "tags": [
+        "health tech",
+        "wearable",
+        "fda"
+      ],
+      "priority": false
+    },
+    {
+      "id": "59bdc41db6706be5",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "New Mac mini, featuring M6 and M5 Pro",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+      "summary": "Article URL:\nhttps://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/\nComments URL:\nhttps://news.ycombinator.com/item?id=49433450\nPoints: 522\n# Comments: 324",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "0208721e90de24d6",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "New Mac Studio with M5 Max and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "summary": "Article URL:\nhttps://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/\nComments URL:\nhttps://news.ycombinator.com/item?id=49433316\nPoints: 798\n# Comments: 534",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "5eb3a591d94c0660",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Nitter and XCancel receive cease and desist notices",
+      "url": "https://github.com/zedeus/nitter/issues/1442",
+      "summary": "https://github.com/zedeus/nitter/issues/1442\nhttps://xcancel.com/\nComments URL:\nhttps://news.ycombinator.com/item?id=49437283\nPoints: 1070\n# Comments: 907",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "2e933dcb143fbed2",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "summary": "OpenAI's \"Jalapeño\" is touted as a superior technology to Nvidia's Blackwell, suggesting a significant advancement in AI hardware or processing capabilities. This indicates a potential shift in the competitive landscape for AI infrastructure.",
+      "tags": [
+        "ai",
+        "hardware",
+        "openai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1bebefa1e899a705",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Queryable Executables",
+      "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+      "summary": "The concept of \"Queryable Executables\" is explored, suggesting a method for interacting with and extracting information from executable files in a structured, query-like manner. This approach could offer new ways to understand and analyze software.",
+      "tags": [
+        "software development",
+        "programming",
+        "reverse engineering"
+      ],
+      "priority": false
+    },
+    {
+      "id": "46b9c8598f391385",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+      "summary": "Article URL:\nhttps://qwen.ai/blog?id=qwen3.8-flash-next\nComments URL:\nhttps://news.ycombinator.com/item?id=49448210\nPoints: 206\n# Comments: 66",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "b5053c328707e4cd",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "RAG Is Simpler Than You Think",
+      "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+      "summary": "An article argues that Retrieval-Augmented Generation (RAG) is a simpler concept than commonly perceived, aiming to demystify this technique used in large language models. The piece likely provides a straightforward explanation of RAG's principles and application.",
+      "tags": [
+        "ai",
+        "llm",
+        "rag"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7fc768a4b4a286d9",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Run OpenBSD on DigitalOcean for $4/month",
+      "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+      "summary": "A guide outlines how to run OpenBSD on DigitalOcean's cloud platform for as little as $4 per month. This provides a cost-effective solution for users interested in deploying the secure Unix-like operating system in a cloud environment.",
+      "tags": [
+        "cloud computing",
+        "openbsd",
+        "digitalocean"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f65a3246a68d3281",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Tooltips need a delay, and then they need to skip it",
+      "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
+      "summary": "An article discusses best practices for user interface tooltips, advocating for an initial delay before they appear, but then skipping that delay on subsequent hovers for improved user experience. This design choice balances discoverability with efficiency.",
+      "tags": [
+        "ux",
+        "design",
+        "web development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d359e9a25465bbf5",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+      "summary": "Article URL:\nhttps://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek\nComments URL:\nhttps://news.ycombinator.com/item?id=49446422\nPoints: 288\n# Comments: 114",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c87839cad037a1e8",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "Addressing a sticking point in sustainable adhesives",
+      "url": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
+      "summary": "Silvis Materials, an MIT startup, is developing fully biodegradable cellulose adhesives to replace petroleum-based glues that hinder recycling and contribute to emissions. Their innovative formula can create adhesives from various plant cellulose types, promising to reduce production emissions by up to 80% and halve energy use.",
+      "tags": [
+        "sustainability",
+        "materials science",
+        "startup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3f7dc0271094fe67",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "Amping up T cells to target cancer",
+      "url": "https://www.technologyreview.com/2026/08/25/1140949/amping-up-t-cells-to-target-cancer/",
+      "summary": "MIT researchers have developed a new mRNA-encoded adjuvant to significantly amplify the T-cell response to vaccines, showing promise for more powerful cancer treatments and stronger protection against infectious diseases. This method, which switches immune cells into a more active state, improved tumor rejection in mice and boosted responses to COVID and flu vaccines.",
+      "tags": [
+        "cancer research",
+        "vaccines",
+        "immunotherapy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cb5e7fab4f8e28bd",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "YouTuber finds niche as college admissions mentor",
+      "url": "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/",
+      "summary": "Gohar Khan, a first-generation student, has become a successful college admissions mentor through his YouTube channel, Gohar's Guide, and his consulting business, Next Admit. He aims to demystify the admissions process for students, especially those from underrepresented backgrounds, providing advice on applications, essays, and test preparation.",
+      "tags": [
+        "education",
+        "mentorship",
+        "social media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "547062f3256aa125",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Canada to hit U.S. with retaliatory tariffs. And, remembering music legend Dolly Parton",
+      "url": "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters",
+      "summary": "Canada has announced it plans to hit the U.S. with countertariffs that mirror its actions \"dollar for dollar.\" And, remembering the legacy of country star and icon Dolly Parton, who died at 80.\n(Image credit: Andrej Ivanov)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "ff86fe8de45bdd63",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "COMIC: 7 lifestyle habits that may boost your chances of getting pregnant",
+      "url": "https://www.npr.org/2026/08/26/nx-s1-5843276/lifestyle-habits-that-boost-fertility-pregnancy",
+      "summary": "An illustrated guide provides evidence-backed advice on seven lifestyle habits that may enhance fertility for both men and women. It covers recommendations on diet and activities to support the chances of getting pregnant.",
+      "tags": [
+        "health",
+        "fertility",
+        "lifestyle"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9e8401fc93a667a7",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Dolly Parton didn't just write hits — she created an American songbook",
+      "url": "https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting",
+      "summary": "Parton, who died at 80 on Tuesday, had charm, depth, beauty, wit and  radiant goodness. She was also a songwriter whose work told the story not just of country music but of the country itself.\n(Image credit: Richard E. Aaron)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "9267c30655552d84",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Hollywood's summer box office is glowing, but the numbers come with startling caveats",
+      "url": "https://www.npr.org/2026/08/26/nx-s1-5923629/movie-summer-box-office",
+      "summary": "Hollywood's summer box office is showing strong revenue driven by premium formats like IMAX and diverse movie offerings, yet this success comes with caveats. There are fewer moviegoers, fewer films, and fewer screens compared to pre-COVID levels.",
+      "tags": [
+        "movies",
+        "entertainment",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ad031dc69e542cda",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Hospital nursery fire kills 14 newborns in Pakistan's capital, officials order immediate inquiry",
+      "url": "https://www.npr.org/2026/08/26/nx-s1-5944808/hospital-nursery-fire-kills-14-newborns-pakistan",
+      "summary": "A fire in a nursery for newborns at a major government hospital in Pakistan's capital tragically killed 14 babies, prompting officials to order an immediate inquiry. The incident occurred early Wednesday morning, leading to a significant loss of life.",
+      "tags": [
+        "pakistan",
+        "tragedy",
+        "health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "420b1bbb98e21ffb",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Meta, states agree to $17 billion settlement in child safety trial",
+      "url": "https://www.npr.org/2026/08/26/nx-s1-5944781/meta-settlement-child-safety-lawsuit",
+      "summary": "The social media giant also agreed to make sweeping changes to Instagram and Facebook.\n(Image credit: GODOFREDO A. VASQUEZ)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "829e858f3045ffc0",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "She got an electric bill for $1,373. She's not alone",
+      "url": "https://www.npr.org/2026/08/26/nx-s1-5943289/electric-bills-summer-heat-oklahoma-power",
+      "summary": "Residents in Tulsa, Oklahoma, are facing soaring electric bills and power cuts due to continuous fan and air conditioner usage during summer heat. Many, like one individual with a $1,373 bill, are struggling to pay the increased costs.",
+      "tags": [
+        "energy",
+        "economy",
+        "cost of living"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d61647320af4945b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Target faces renewed backlash for Halloween costume with 'minstrel show features'",
+      "url": "https://www.npr.org/2026/08/26/g-s1-140195/target-halloween-costume-backlash",
+      "summary": "Retailer Target has pulled a children's Halloween costume from shelves after widespread social media backlash, with critics asserting it evoked racist minstrel caricatures. The company issued an apology for selling the garment.",
+      "tags": [
+        "retail",
+        "culture",
+        "controversy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dfae04caeacfdd05",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Test your global economic knowledge with this quick Planet Money quiz!",
+      "url": "https://www.npr.org/2026/08/26/g-s1-138847/planet-money-summer-school-quiz-2026",
+      "summary": "A Planet Money quiz invites readers to test their global economic knowledge, covering big ideas from various countries to earn a \"Summer School diploma.\" The quiz explores diverse economic stories worldwide.",
+      "tags": [
+        "economy",
+        "quiz",
+        "education"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d5da7ed5100056e2",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Iowa’s last Democrat on how he can win in Trump country",
+      "url": "https://www.politico.com/video/2026/08/26/iowas-last-democrat-on-how-he-can-win-in-trump-country-2151071",
+      "summary": "This piece focuses on how Iowa's last Democrat in a significant elected position aims to win in a predominantly Trump-supporting region. It likely delves into strategies for appealing to voters in a politically challenging environment.",
+      "tags": [
+        "politics",
+        "usa",
+        "election"
+      ],
+      "priority": false
+    },
+    {
+      "id": "53aa8bbaa1f3d7d6",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "The other Dan Sullivan makes November ballot against Sen. Dan Sullivan",
+      "url": "https://www.politico.com/news/2026/08/26/dan-sullivan-alaska-senate-race-01050349",
+      "summary": "In Alaska's Senate race, retired teacher Dan J. Sullivan has qualified for the November ballot, creating a challenge for incumbent GOP Sen. Dan S. Sullivan due to their shared name. Republicans attempted to keep the second Sullivan off the primary ballot, fearing he could act as a spoiler in the high-stakes contest against Democratic Rep. Mary Peltola.",
+      "tags": [
+        "politics",
+        "election",
+        "alaska"
+      ],
+      "priority": false
+    },
+    {
+      "id": "75490fcc9ad17068",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "‘It's put up or shut up time’: Battleground Republicans want the Darline treatment",
+      "url": "https://www.politico.com/news/2026/08/25/trump-attention-battleground-republicans-darline-graham-01050345",
+      "summary": "After President Trump's endorsed candidate, Sen. Darline Graham, won a South Carolina runoff, battleground Republicans are urging him to focus his support and substantial super PAC funds on more critical swing state races. While Graham's victory underscores Trump's powerful influence, some strategists question the best use of his resources and his overall popularity in competitive elections.",
+      "tags": [
+        "politics",
+        "trump",
+        "republican party"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1e06736676978bd6",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "EVE Online: The Move to Python 3 Begins!",
+      "url": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/",
+      "summary": "EVE Online, a long-running game known for its Python at scale implementation, is finally beginning its migration from Stackless Python 2.7 to Python 3. This extensive upgrade involves using the futurize script on millions of lines of code and manual review for Python 2/3 behavioral differences.",
+      "tags": [
+        "gaming",
+        "python",
+        "software development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ad99fe03869caae1",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Paul Dix",
+      "url": "https://simonwillison.net/2026/Aug/26/paul-dix/",
+      "summary": "Paul Dix argues that AI's ability to write and refine a million lines of code into a reliable piece of software, even with an oracle for comparison, is profoundly impressive. He suggests that with proper direction and a verification system, AI can produce and perfect highly complex software.",
+      "tags": [
+        "ai",
+        "coding",
+        "software development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0cac1a4f77147f79",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Arga Labs is building a better way to train enterprise AI agents",
+      "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+      "summary": "Arga Labs has secured $10 million in seed funding to develop improved methods for training enterprise AI agents. The investment round was led by General Catalyst, with additional participation from Box Group, Emergence, Gradient, and SV Angel.",
+      "tags": [
+        "ai",
+        "startup",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dcc6d03b76ee3ad2",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Bluesky now lets you upload 10-minute long videos",
+      "url": "https://techcrunch.com/2026/08/26/bluesky-now-lets-you-upload-10-minute-long-videos/",
+      "summary": "Bluesky has updated its platform to allow users to upload videos up to 10 minutes long, a significant increase that also comes with faster upload speeds. This enhancement aims to improve the user experience for video sharing.",
+      "tags": [
+        "social media",
+        "bluesky",
+        "video"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a6ba2f6c0f2b52bf",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "CISA confirms hackers targeted over 100 US water systems during July",
+      "url": "https://techcrunch.com/2026/08/26/cisa-confirms-hackers-targeted-over-100-us-water-systems-during-july/",
+      "summary": "CISA has confirmed that hackers targeted over 100 US critical water systems during July, amid a wave of suspected Iran-backed cyberattacks. This warning highlights a significant threat to national infrastructure.",
+      "tags": [
+        "cybersecurity",
+        "infrastructure",
+        "iran"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2f5b93e8aa0d43c8",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Claude Cowork finally remembers what you told the app in chat",
+      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "summary": "Anthropic is updating its Claude Cowork AI to include shared memory across chat and the Cowork app, allowing the AI to retain context from previous conversations. This enhancement means users will no longer need to repeatedly brief the AI on ongoing projects and preferences.",
+      "tags": [
+        "ai",
+        "llm",
+        "anthropic"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2d6d15a56d4488dd",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+      "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+      "summary": "Hearing tech startup Legato has emerged from stealth mode with $12 million in funding, unveiling its \"Legato Frames,\" AI-powered hearing glasses. These glasses integrate patented hearing-assistance technology directly into eyewear frames.",
+      "tags": [
+        "health tech",
+        "ai",
+        "startup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "aa00191d34d081bb",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+      "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+      "summary": "India's voice AI startup Ringg has secured $10 million in Series A extension funding from Peak XV, aiming to develop voice AI applications beyond traditional phone calls. The company is innovating to broaden the utility of voice technology.",
+      "tags": [
+        "ai",
+        "voice tech",
+        "india"
+      ],
+      "priority": false
+    },
+    {
+      "id": "17f8aa0e30ac7e9b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
+      "url": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
+      "summary": "Instagram's new \"First Draft\" feature is designed to simplify Reels editing, generating a preliminary video edit in under 10 seconds. This aims to save creators time and make video creation more accessible for those without extensive editing experience.",
+      "tags": [
+        "instagram",
+        "social media",
+        "video editing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3406f605b683da3a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children",
+      "url": "https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/",
+      "summary": "The lawsuit alleged that Meta knowingly designed platforms like Instagram and Facebook to addict children, despite knowing about the harms the platforms could pose to young users.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "9496ce133c7305c5",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
+      "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+      "summary": "OpenAI has lost a key data center executive, continuing a series of high-profile departures, which the company states is due to a reorganization of its infrastructure team. This restructuring aims to support the scale and pace of OpenAI's work.",
+      "tags": [
+        "openai",
+        "ai",
+        "leadership"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f0b3020bff3e70df",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Robot brain builders are pushing out of their GPT-2 era",
+      "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
+      "summary": "The field of robotics AI is advancing beyond the \"GPT-2 era,\" indicating a significant evolution in the sophistication of AI brains developed for robots. This progress suggests that robot bodies are increasingly awaiting more capable AI to fully unlock their potential.",
+      "tags": [
+        "robotics",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3c1fe2a3112e89ea",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "summary": "Robotics startup Generalist has reportedly reached a $3 billion valuation after securing a $200 million extension, just months after previously achieving a $2 billion valuation. This rapid increase highlights significant investor interest in physical AI startups.",
+      "tags": [
+        "robotics",
+        "ai",
+        "startup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9662236c3ac417c4",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+      "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+      "summary": "Runable has raised $21 million to advance its vision that AI agents can not only help build businesses but also contribute significantly to their growth. The company reports that 60-70% of its massive token usage in the last 90 days came from paying customers.",
+      "tags": [
+        "ai",
+        "startup",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "331c3e5b08632f99",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "summary": "Stability AI, the company behind the image generator Stable Diffusion, has raised an additional $76 million in funding, bringing its total fundraising to $232 million. This investment supports the ongoing development of its AI technologies.",
+      "tags": [
+        "ai",
+        "funding",
+        "startup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "61cf68e962221002",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+      "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+      "summary": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "6a0f5f1ddc2a86d7",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Ventures Platform goes bigger — and broader — with its second Africa fund",
+      "url": "https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/",
+      "summary": "Pan-African venture firm Ventures Platform has raised an $84 million second fund, planning to expand its investments beyond its home market of Nigeria. This larger fund signals a broader focus on startups across the African continent.",
+      "tags": [
+        "venture capital",
+        "africa",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1dd6e9cd49fdc7b1",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
+      "url": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+      "summary": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "8a08731e1e98b47b",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Caitlin Flanagan: Dolly Parton, Pure Product of America",
+      "url": "https://www.thefp.com/p/caitlin-flanagan-dolly-parton-pure",
+      "summary": "The first concert I ever went to was at the San Rafael civic center, and the performer was Dolly Parton. This was the Bay Area, 1977, and the notion that Parton might have a wide, national appeal—let alone a San Francisco Bay Area appeal—was years away. But my friend Annie and I…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "ed4441d3daeff0c1",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Tantric War",
+      "url": "https://www.thefp.com/p/the-tantric-war",
+      "summary": "You’ve heard of the Punic Wars. Purely from the point of view of messaging, one is tempted to call the ongoing conflict with Iran the Tantric War. From “a whole civilization\nwill die tonight\n” in April to “economic\nD-Day\n” this week, strategic climaxes are promised, but ever defe…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "0d4d68e5cd098c2a",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "What College Is Really For",
+      "url": "https://www.thefp.com/p/what-college-is-really-for",
+      "summary": "Carlos Carvalho, president of the University of Austin, argues for a return to the foundational purpose of education: to encourage students to look outward and engage with truth, rather than focusing inward on self-discovery. He suggests that genuine growth comes from being absorbed in something greater than oneself, challenging modern university promises of affirmation.",
+      "tags": [
+        "education",
+        "philosophy",
+        "university"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7af009c1a98e05e3",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "Leonard Cohen on the Antidote to Anger and the Meaning of Resistance",
+      "url": "https://www.themarginalian.org/2026/08/25/leonard-cohen-anger-resistance/",
+      "summary": "Drawing from Leonard Cohen's \"Book of Longing,\" this piece explores his insights on anger, helplessness, and the meaning of resistance in bewildering times. Cohen suggests that in periods of uncertainty, love becomes an act of courage and resistance, urging individuals to release others from blame and resist the false comfort of authoritarian figures.",
+      "tags": [
+        "philosophy",
+        "culture",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "417a0038bb338e1f",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "Uncoding Creativity in the Age of AI: What Makes a Great Poem, What Makes a Great Storyteller, and What Makes Great Person",
+      "url": "https://www.themarginalian.org/2026/08/26/suffering-creativity-canetti-rilke/",
+      "summary": "An essay argues that AI cannot produce truly original art like a great poem because it lacks human experience, particularly suffering, which is fundamental to the transmutation of life into meaning. Citing Elias Canetti and Rainer Maria Rilke, the author posits that art emerges from the collision of wishes and reality, a domain inaccessible to algorithms.",
+      "tags": [
+        "ai",
+        "creativity",
+        "philosophy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2d167dc41e833590",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
+      "summary": "Bill Gates, previously an AI optimist, has expressed deep pessimism about AI's future impact, arguing that the world is unprepared for the turbulent AI era. In a 6,000-word essay, he calls for immediate action to shape the technology globally.",
+      "tags": [
+        "ai",
+        "bill gates",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "90c92f8afc4afa2d",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Elden Ring on the Switch 2 isn&#8217;t tarnished",
+      "url": "https://www.theverge.com/entertainment/983307/elden-ring-nintendo-switch-2-review",
+      "summary": "FromSoftware is porting Elden Ring and its expansion, Shadow of the Erdtree, to the Nintendo Switch 2 as the \"Tarnished Edition,\" allowing players to experience the studio's hit game on the new platform. This release precedes FromSoftware's new gothic competitive multiplayer game, The Duskbloods, later this year.",
+      "tags": [
+        "gaming",
+        "nintendo",
+        "elden ring"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4978fa2c63a0fbe0",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Meta agrees to heavy restrictions on teen users in major lawsuit settlement",
+      "url": "https://www.theverge.com/policy/985032/meta-state-ag-kids-online-safety-settlement",
+      "summary": "Mark Zuckerberg. | Image: Cath Virginia / The Verge, Getty Images\nMeta settled its latest kids online safety trial with a group of 29 state attorneys general, sparing it from the remainder of a trial that could have cost it hundreds of billions of dollars.\nUnder the terms of the…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "1dbbe25d199fb820",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Microsoft’s 25th anniversary Xbox will cost $899",
+      "url": "https://www.theverge.com/games/985003/microsoft-xbox-25th-anniversary-console-price",
+      "summary": "Microsoft's special-edition translucent green 25th anniversary Xbox will cost $899, with preorders starting August 27th. The console, launching November 13th, includes a matching controller and a full-game download of Halo: Campaign Evolved, featuring laser-etched numbering under its shell.",
+      "tags": [
+        "xbox",
+        "gaming",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fcc0b1cfa83f975f",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Ring says its new encryption limits what it can give police",
+      "url": "https://www.theverge.com/tech/984838/ring-take-encryption-throw-away-the-key-law-enforcement",
+      "summary": "Ring is rolling out a new \"Throw Away the Key Encryption\" (TAKE) method that will be default for all its cameras, aiming to protect user videos while limiting Amazon's cloud access. This method is designed to restrict when and why Amazon can access videos, providing enhanced privacy without traditional end-to-end encryption.",
+      "tags": [
+        "ring",
+        "privacy",
+        "encryption"
+      ],
+      "priority": false
+    },
+    {
+      "id": "020c5a84109c327d",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Rockstar finally responds to &#8216;heartbreaking&#8217; GTA 6 leaks",
+      "url": "https://www.theverge.com/games/984959/gta-vi-leaks-rockstar-games-official-statement-heartbreaking",
+      "summary": "Rockstar Games has issued its first official statement regarding the sustained leaks of Grand Theft Auto VI gameplay footage, calling the situation \"heartbreaking for our team.\" Despite their response, another leaked video subsequently appeared, showing more unreleased game content.",
+      "tags": [
+        "gaming",
+        "rockstar",
+        "leak"
+      ],
+      "priority": false
+    },
+    {
+      "id": "86b88d18a6f01598",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Xbox announces disc-to-digital feature that digitizes your physical games",
+      "url": "https://www.theverge.com/tech/984936/xbox-disc-to-digital-feature-official",
+      "summary": "Microsoft has officially announced a new disc-to-digital feature for Xbox, allowing owners to convert most Xbox One and Series X physical games into digital entitlements. This move aims to aid game preservation and prepares for future Xbox consoles.",
+      "tags": [
+        "xbox",
+        "gaming",
+        "microsoft"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1d57436b2ce62f0d",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "You can now buy music on SoundCloud",
+      "url": "https://www.theverge.com/entertainment/984926/soundcloud-direct-music-sales-beta-launch",
+      "summary": "SoundCloud has launched a beta feature enabling artists to sell music directly from their profiles, bypassing third-party services and ensuring artists receive 100% of the sales revenue. This aims to provide a better way for fans to support musicians, contrasting with platforms that take commission.",
+      "tags": [
+        "music",
+        "soundcloud",
+        "platform"
+      ],
+      "priority": false
+    },
+    {
+      "id": "155551e156e60620",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Your Oura Ring can&#8217;t measure what&#8217;s going on in your skull",
+      "url": "https://www.theverge.com/column/984991/optimizer-oura-ring-lawsuit-sleep-tracking-wearables",
+      "summary": "Oura Ring is facing a class-action lawsuit alleging that the company deceptively claims to accurately track different sleep stages, which the complaint argues is impossible without directly measuring brain waves. The suit contends that Oura's AI models exploit \"desperate consumers\" by selling faulty sleep-tracking promises.",
+      "tags": [
+        "wearable",
+        "health",
+        "lawsuit"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 123,
+    "summarized": 90,
+    "skipped_promos": 4,
+    "filtered_by_rules": 29,
+    "sources": 12,
+    "email_items_omitted": 0
+  }
+}
