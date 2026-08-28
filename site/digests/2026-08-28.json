@@ -1,0 +1,1119 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T23:22:53+00:00",
+  "hot_topics": [
+    {
+      "topic": "Apple TV Subscription Price Hikes",
+      "synthesis": "Apple has significantly raised subscription prices for Apple TV and Apple One services, marking the fourth increase in four years. Monthly and annual costs for Apple TV+ have climbed by up to 20 percent, now reaching $14.99 per month or $119 annually. This move continues a trend of rising prices for Apple's streaming and bundled offerings.",
+      "item_ids": [
+        "fde5befec9d86f1c",
+        "a1102af4e51ddecc",
+        "81f36dad93d556a5"
+      ]
+    },
+    {
+      "topic": "Backlash Against Police Surveillance Cameras",
+      "synthesis": "American communities are increasingly terminating contracts with Flock Safety over concerns about unchecked surveillance, data sharing, high costs, and police misuse of their camera systems. A new survey indicates that more Americans now oppose police license plate cameras than support them, reflecting growing public unease. In August 2026 alone, 90 localities ended their relationships with Flock.",
+      "item_ids": [
+        "8c5bdf9957c788f6",
+        "2546dd1ccb0231d7"
+      ]
+    },
+    {
+      "topic": "Anthropic's Legal Victory Against Trump Administration Blacklisting",
+      "synthesis": "AI startup Anthropic has achieved a legal victory against the Trump administration, with a federal judge ruling that the company was illegally blacklisted as a supply-chain risk. This decision comes amidst Anthropic's ongoing disputes with the Pentagon regarding the military's use of AI. The ruling indicates that the previous administration unlawfully retaliated against the AI firm.",
+      "item_ids": [
+        "cf8410bdbc320197",
+        "2832f221f5f523dd",
+        "2432450657107264"
+      ]
+    },
+    {
+      "topic": "Devastating Floods in Nepal and Tibet",
+      "synthesis": "Deadly flash floods on the Nepal-Tibet border have caused widespread devastation, with satellite images revealing entire villages, bridges, and a key border crossing washed away. Hundreds of families are anxiously awaiting news of missing loved ones, and rescuers fear a new barrier lake formed by a recent landslide could trigger further flooding. Chinese authorities are reportedly withholding dramatic footage and information about victims in Tibet.",
+      "item_ids": [
+        "a0a24bcc0e2a81fe",
+        "407b65742eb9dbcd",
+        "9ad0d430cb3e73d2",
+        "2f3fd29d8e313f99",
+        "fa91b0db65a3b91a",
+        "38c1e8735cee9233",
+        "0bcb28833d5458aa"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "fde5befec9d86f1c",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Apple One and Apple TV subscription prices increase by up to 20 percent",
+      "url": "https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/",
+      "summary": "Apple has increased the monthly and annual subscription prices for Apple TV by up to 20 percent, marking the fourth such hike in four years. The Apple TV monthly price is now $15, and the annual price is $119.",
+      "tags": [
+        "apple",
+        "subscriptions",
+        "pricing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8c5bdf9957c788f6",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Cities terminate Flock contracts at record pace in August",
+      "url": "https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/",
+      "summary": "American localities are increasingly terminating contracts with Flock Safety for surveillance cameras, with 90 cities doing so in August 2026 due to concerns over surveillance, data sharing, high costs, and police tool abuse.",
+      "tags": [
+        "surveillance",
+        "privacy",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "201e25079cdb081e",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
+      "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
+      "summary": "Meta is implementing a fix for its AI glasses to prevent non-consensual recordings by ensuring the camera stops working if the recording indicator light is covered. This update addresses backlash over users circumventing the privacy safeguard.",
+      "tags": [
+        "meta",
+        "ai",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ba6d9bf34919cba3",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Our 10 favorite scenes from T2: Judgment Day",
+      "url": "https://arstechnica.com/culture/2026/08/our-10-favorite-scenes-from-t2-judgment-day/",
+      "summary": "James Cameron's \"Terminator 2: Judgment Day\" is celebrating its 35th anniversary with a special theatrical rerelease, prompting a look back at favorite scenes from the seminal sci-fi action blockbuster. The film's unexpected success in 1984 led to its highly anticipated sequel.",
+      "tags": [
+        "film",
+        "anniversary",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e7199f6552bda341",
+      "source": "Astral Codex Ten",
+      "source_type": "substack",
+      "title": "Your Book Review: Thomas Urquhart’s Translation Of Rabelais",
+      "url": "https://www.astralcodexten.com/p/your-book-review-thomas-urquharts",
+      "summary": "This book review examines Thomas Urquhart's celebrated translation of Rabelais through the lens of Urquhart's own life, portraying him as an aristocrat deeply immersed in studies and duels, yet comically inept as a soldier amidst 17th-century Scottish conflicts.",
+      "tags": [
+        "book review",
+        "history",
+        "translation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "89ff4c1296758e2a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'Not far enough' - US parents and teens on Meta's new limits for young users",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zn9zj361o?at_medium=RSS&at_campaign=rss",
+      "summary": "US parents and teenagers believe Meta's newly announced restrictions for young users, part of an $18 billion child-safety lawsuit settlement, are insufficient.",
+      "tags": [
+        "meta",
+        "social media",
+        "child safety"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2f3fd29d8e313f99",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
+      "url": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
+      "summary": "A 97-year-old woman, Guna Maya Bohara, miraculously survived and was rescued using an excavator after the recent flash floods in Nepal.",
+      "tags": [
+        "nepal",
+        "floods",
+        "rescue"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8d80d094672d7e10",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "BBC tracks one week of Israeli settler violence in occupied West Bank",
+      "url": "https://www.bbc.co.uk/news/videos/c3wjq1188g9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC has documented a week of Israeli settler attacks against Palestinians in the occupied West Bank.",
+      "tags": [
+        "israel",
+        "palestine",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ad2a361a6331ffb2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Berlin is being blackmailed by hackers, mayor says",
+      "url": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Berlin's mayor, Kai Wegner, announced that the German capital is being blackmailed by hackers for stolen data but will not succumb to their ransom demand.",
+      "tags": [
+        "cybersecurity",
+        "ransomware",
+        "germany"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f3196cbdfff31891",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Dutch court sentences man to life over Rwanda genocide",
+      "url": "https://www.bbc.co.uk/news/articles/ce8x96rw79ro?at_medium=RSS&at_campaign=rss",
+      "summary": "A Dutch court in The Hague has sentenced a 66-year-old man to life imprisonment after convicting him of war crimes and genocide related to the Rwandan genocide.",
+      "tags": [
+        "rwanda",
+        "genocide",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a0a24bcc0e2a81fe",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Dramatic footage from the deadly flash flooding in Tibet is reportedly being hidden from public view in China, leaving little known about the victims.",
+      "tags": [
+        "china",
+        "tibet",
+        "floods"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fc677039e4e6b8a3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Greenland says findings on genocide allegation not final",
+      "url": "https://www.bbc.co.uk/news/articles/czxzv29p12lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Greenland has stated that the findings regarding allegations of genocide, specifically the use of forced contraception on the Inuit community during the 1960s and 70s, are not yet final.",
+      "tags": [
+        "greenland",
+        "human rights",
+        "indigenous"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ad436c736716a7d7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "King Haakon begins reign after turbulent year for Norwegian monarchy",
+      "url": "https://www.bbc.co.uk/news/articles/cp841114eg6o?at_medium=RSS&at_campaign=rss",
+      "summary": "King Haakon has commenced his reign, inheriting a turbulent period for the Norwegian monarchy.",
+      "tags": [
+        "norway",
+        "monarchy",
+        "royal family"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9297cfe8b3933592",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Norway mourns King Harald as Haakon VIII ascends throne",
+      "url": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
+      "summary": "Norway is mourning the death of King Harald, as his son, Haakon VIII, ascends to the throne, adopting the family motto \"all for norway.\"",
+      "tags": [
+        "norway",
+        "monarchy",
+        "royal family"
+      ],
+      "priority": false
+    },
+    {
+      "id": "849a0a973f9aacab",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Norway's King Harald dies aged 89: A beloved monarch buffeted by family crises",
+      "url": "https://www.bbc.co.uk/news/articles/clykn5p5172o?at_medium=RSS&at_campaign=rss",
+      "summary": "Norway's King Harald has died at the age of 89 after a 35-year reign, remembered as a beloved monarch who broke tradition by marrying a commoner.",
+      "tags": [
+        "norway",
+        "monarchy",
+        "royal family"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5c3d99c7bc135f67",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Anne Lindboe, the mayor of Oslo, has canceled her wedding ceremony following the death of Norway's King Harald.",
+      "tags": [
+        "norway",
+        "monarchy",
+        "social"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d11696a7e8071f1f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
+      "url": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
+      "summary": "British citizen and right-wing commentator Milo Yiannopoulos, who resides in the US and has supported Trump and ICE, has been detained by ICE.",
+      "tags": [
+        "politics",
+        "immigration",
+        "us"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3763ac342c82c57b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Western officials state that Russia is escalating its rhetoric but aims to avoid direct war with NATO, although Moscow is expected to continue \"hybrid activity\" against member states.",
+      "tags": [
+        "russia",
+        "nato",
+        "geopolitics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "407b65742eb9dbcd",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Satellite images reveal scale of flood devastation in Nepal villages",
+      "url": "https://www.bbc.co.uk/news/articles/cd68vpjv21do?at_medium=RSS&at_campaign=rss",
+      "summary": "Satellite images vividly show the extensive devastation caused by floodwaters in Nepal, revealing villages, bridges, and a critical Nepal-Tibet border crossing washed away.",
+      "tags": [
+        "nepal",
+        "floods",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "81da5499c81c07b1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Shootings surge as drug gangs torment Brussels",
+      "url": "https://www.bbc.co.uk/news/articles/c9w4r7e7z4ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Brussels is experiencing a surge in shootings, with over 65 recorded this year, as drug gangs continue to cause torment in the Belgian capital.",
+      "tags": [
+        "belgium",
+        "crime",
+        "drug gangs"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f4037b7263602c18",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Tate brothers blast US jail conditions as they seek bail in UK extradition fight",
+      "url": "https://www.bbc.co.uk/news/articles/c9v9nndjznvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Andrew and Tristan Tate are criticizing US jail conditions while seeking bail in a Miami court as part of their UK extradition battle, arguing they are not a flight risk.",
+      "tags": [
+        "legal",
+        "crime",
+        "uk"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b2db67afd4f541d8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Thieves steal 600-diamond necklace from Vienna museum in broad daylight",
+      "url": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro?at_medium=RSS&at_campaign=rss",
+      "summary": "Police are searching for two suspects who stole a 600-diamond necklace from a Vienna museum during daylight hours, believed to have bought tickets to access the exhibition.",
+      "tags": [
+        "crime",
+        "museum",
+        "austria"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9ad0d430cb3e73d2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "This Indian pilgrim was about to enter Tibet for her dream tour - then her WhatsApp messages stopped",
+      "url": "https://www.bbc.co.uk/news/articles/c70d41g40njo?at_medium=RSS&at_campaign=rss",
+      "summary": "An Indian pilgrim's family is anxiously awaiting news after her WhatsApp messages ceased during a trip to the Nepal-Tibet border, where deadly flash floods occurred.",
+      "tags": [
+        "nepal",
+        "tibet",
+        "floods"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2432450657107264",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump administration illegally retaliated against Anthropic, judge rules",
+      "url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
+      "summary": "A judge has ruled that the Trump administration unlawfully retaliated against the AI startup Anthropic, which had been in dispute with the Pentagon over military AI use.",
+      "tags": [
+        "ai",
+        "legal",
+        "government"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f032bc612c513f29",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Two-year curfew lifted in Sudan's capital",
+      "url": "https://www.bbc.co.uk/news/articles/c2076gxr0llo?at_medium=RSS&at_campaign=rss",
+      "summary": "A two-year curfew has been lifted in Sudan's capital, 18 months after military authorities retook control of the city, though conflict persists in other regions.",
+      "tags": [
+        "sudan",
+        "conflict",
+        "africa"
+      ],
+      "priority": false
+    },
+    {
+      "id": "690ac2a3ef28c2e8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US plans to cut off military aid to key Middle East ally, BBC told",
+      "url": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iraqi Kurdistan expresses fears of increased vulnerability to Iranian attacks as the US, under the Trump administration, reportedly plans to cut off military aid to the key Middle East ally.",
+      "tags": [
+        "us",
+        "iraq",
+        "iran"
+      ],
+      "priority": false
+    },
+    {
+      "id": "64cc949b43b2bcc0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Violence breaks out in Ceuta as migrant crisis continues",
+      "url": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Violence has erupted in Ceuta amidst an ongoing migrant crisis, involving a group of migrants throwing stones at a military vehicle and some locals setting migrant camps on fire.",
+      "tags": [
+        "migration",
+        "spain",
+        "violence"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a09850a14c126224",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Stargazers around the world glimpse 'Blood Moon' lunar eclipse",
+      "url": "https://www.bbc.co.uk/news/videos/ce3rykzvevno?at_medium=RSS&at_campaign=rss",
+      "summary": "Stargazers worldwide had the opportunity to witness a rare 'Blood Moon' lunar eclipse, an event where the Sun, Earth, and Moon align in the night sky.",
+      "tags": [
+        "astronomy",
+        "space",
+        "eclipse"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fa91b0db65a3b91a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Why rescuers fear new barrier lake could cause another Nepal-Tibet flood",
+      "url": "https://www.bbc.co.uk/news/videos/cj06j16vpr5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Rescuers are concerned that a new barrier lake formed by a recent landslide near the Nepal-Tibet border could trigger another devastating flood.",
+      "tags": [
+        "nepal",
+        "tibet",
+        "floods"
+      ],
+      "priority": false
+    },
+    {
+      "id": "90e1fd6fb3987c86",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "World's youngest reigning traditional monarch dies aged 34",
+      "url": "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&at_campaign=rss",
+      "summary": "King Oyo, who ascended the throne of Uganda's Tooro kingdom at age three, has died at 34, marking the end of the world's youngest reigning traditional monarch's rule.",
+      "tags": [
+        "uganda",
+        "monarchy",
+        "africa"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7c7dbf944879720b",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Get your Windows license refund",
+      "url": "https://en.refund4freedom.org/",
+      "summary": "This resource provides information on how users can seek a refund for their Windows license.",
+      "tags": [
+        "windows",
+        "consumer rights",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e63c605194e63da6",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "GLM-5.3 is now open-weight",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
+      "summary": "The GLM-5.3 model has been released as open-weight, making its parameters publicly accessible.",
+      "tags": [
+        "ai",
+        "open source",
+        "machine learning"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a86c3c43475f44df",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "GUIs should be fully keyboard-driven",
+      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+      "summary": "The opinion piece argues that graphical user interfaces (GUIs) should be designed to be entirely operable via keyboard.",
+      "tags": [
+        "ux",
+        "design",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d4668cbe0c21a65d",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Hilariously fast volume computation with the divergence theorem (2018)",
+      "url": "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html",
+      "summary": "This 2018 article explains a remarkably fast method for computing volume using the divergence theorem.",
+      "tags": [
+        "mathematics",
+        "computation",
+        "algorithms"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5af8a9e0398ee0bd",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Htmx 4.0",
+      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+      "summary": "Htmx 4.0 has been officially released, introducing new updates and features to the library.",
+      "tags": [
+        "web development",
+        "htmx",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d738e159785b0131",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Inception-style curved map for turn-by-turn directions",
+      "url": "https://www.orbify.eu/demo/",
+      "summary": "A new demo showcases an \"Inception-style\" curved map interface designed for turn-by-turn navigation directions.",
+      "tags": [
+        "mapping",
+        "navigation",
+        "design"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2832f221f5f523dd",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
+      "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+      "summary": "A federal judge has ruled that the Trump administration acted illegally by blacklisting the AI company Anthropic.",
+      "tags": [
+        "ai",
+        "legal",
+        "government"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3b683ef9ff53cfc0",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Just the rumour of a bug is enough to find an exploit these days",
+      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+      "summary": "This article discusses how even a rumor of a bug can be sufficient to lead to the discovery of a security exploit.",
+      "tags": [
+        "cybersecurity",
+        "exploits",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b69aabbf8ccc95d0",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+      "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+      "summary": "The Luanti app was removed from Google Play after receiving a copyright notice related to AI, which the developers claim is baseless.",
+      "tags": [
+        "ai",
+        "copyright",
+        "apps"
+      ],
+      "priority": false
+    },
+    {
+      "id": "67912e1a5e62a706",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Migrating to HTTPX2",
+      "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
+      "summary": "This document from OpenAI provides guidance on migrating to the HTTPX2 version of their Python library.",
+      "tags": [
+        "openai",
+        "python",
+        "development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "634ba3000af5b722",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The Twelve-Factor App (2025)",
+      "url": "https://12factor.net/",
+      "summary": "This resource outlines the principles of the Twelve-Factor App methodology for building robust and scalable software-as-a-service applications.",
+      "tags": [
+        "software development",
+        "architecture",
+        "cloud"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e878d4fd3b9ea9c6",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "U.S. sanctions against the A/I Collective",
+      "url": "https://www.inventati.org/",
+      "summary": "The U.S. has imposed sanctions against the A/I Collective, an Italian hosting provider, following its designation as a \"global terrorist\" by the US Government. This action affects users of services like noblogs.org.",
+      "tags": [
+        "sanctions",
+        "policy",
+        "hosting"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0bcb28833d5458aa",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "'It's essentially been one long day': A daughter details search for parents in Nepal",
+      "url": "https://www.npr.org/2026/08/28/nx-s1-5946690/nepal-floods-missing-parents-shreya-ahuja",
+      "summary": "Shreya Ahuja is appealing for international assistance and improved communications access in Nepal as she searches for her parents, who went missing after devastating floods.",
+      "tags": [
+        "nepal",
+        "floods",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "45422dda4b3d7a75",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "4 ways to cope with constant thoughts about your body image",
+      "url": "https://www.npr.org/2026/08/28/nx-s1-5946751/cant-stop-fixating-on-the-way-you-look-these-4-mental-exercises-may-help",
+      "summary": "Psychologist Diana Hill provides four mental exercises to help individuals manage persistent thoughts about their body image and avoid fixating on their appearance.",
+      "tags": [
+        "mental health",
+        "body image",
+        "psychology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "adaca31418e528dd",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "After 6 months of war, Iran's battered regime remains entrenched",
+      "url": "https://www.npr.org/2026/08/28/nx-s1-5947854/us-iran-war",
+      "summary": "Six months into a conflict, Iran's regime remains entrenched despite being battered, having adopted an even harder line.",
+      "tags": [
+        "iran",
+        "politics",
+        "middle east"
+      ],
+      "priority": false
+    },
+    {
+      "id": "38c1e8735cee9233",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Experts warn more flooding might hit Nepal. And, Fed chairman to give key address",
+      "url": "https://www.npr.org/2026/08/28/g-s1-140866/up-first-newsletter-nepal-tibet-floods-kevin-warsh-kennedy-center",
+      "summary": "Experts are warning of potential further flooding in Nepal as the death toll from recent flash floods on the Nepal-Tibet border rises, while Fed Chairman Kevin Warsh is scheduled to deliver a significant address.",
+      "tags": [
+        "nepal",
+        "floods",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bec25b88ebae13bd",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Fed's Kevin Warsh warns inflation is too high, sparking bets rate hikes are coming",
+      "url": "https://www.npr.org/2026/08/28/nx-s1-5947903/federal-reserve-inflation-jackson-hole-interest-rates",
+      "summary": "Fed Chair Kevin Warsh warned about high inflation, leading to expectations of impending rate hikes, although he did not explicitly outline a future path.",
+      "tags": [
+        "economics",
+        "inflation",
+        "federal reserve"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1e0aa132d2c1c23d",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "New Jersey is a fossil hotspot, with answers about the day the dinosaurs died",
+      "url": "https://www.npr.org/2024/08/16/g-s1-140898/paleontologist-ken-lacovara-and-the-fifth-extinction-that-killed-the-dinosaurs",
+      "summary": "A New Jersey suburb has become a significant fossil hotspot, yielding critical data about the asteroid that caused the dinosaurs' extinction, and is now preserved as a fossil park and museum.",
+      "tags": [
+        "paleontology",
+        "dinosaurs",
+        "science"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b4aa973e3ab96a39",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "So long to shorts? In Silicon Valley, tech workers are showing less leg",
+      "url": "https://www.npr.org/2026/08/28/nx-s1-5943596/shorts-work-office-silicon-valley-bloomberg",
+      "summary": "A fashion shift in Silicon Valley shows tech workers increasingly opting out of wearing shorts, a trend contrasting with their counterparts in finance who are more frequently showing their legs.",
+      "tags": [
+        "culture",
+        "fashion",
+        "silicon valley"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8afd0c0da65a707b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
+      "url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
+      "summary": "Venture capital firm a16z has established a $1.1 billion \"Machine Age\" fund dedicated to accelerating the physical buildout of AI hardware, marking a strategic pivot from its traditional software investment focus.",
+      "tags": [
+        "ai",
+        "investment",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e12ab6d3d5c723e8",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "summary": "Research by an Anthropic scientist demonstrates that automated systems can enhance performance on ten specific benchmarks for misaligned AI behaviors without negatively impacting overall performance. This suggests progress in creating self-improving AI.",
+      "tags": [
+        "ai",
+        "research",
+        "machine learning"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cf8410bdbc320197",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+      "summary": "Anthropic secured a court victory against the Pentagon, as a federal judge ruled the Trump administration illegally labeled the AI company a supply-chain risk. This is the first win in an ongoing legal dispute.",
+      "tags": [
+        "ai",
+        "policy",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "81f36dad93d556a5",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apple TV is raising its subscription prices again",
+      "url": "https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/",
+      "summary": "Apple TV subscriptions are undergoing another price increase, raising the monthly cost from $12.99 to $14.99.",
+      "tags": [
+        "apple",
+        "streaming",
+        "pricing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "547501f4399b81ed",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
+      "url": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
+      "summary": "Brave browser has introduced support for email aliases, enabling users to register for online services without disclosing their personal email addresses. This feature enhances user privacy.",
+      "tags": [
+        "browser",
+        "privacy",
+        "email"
+      ],
+      "priority": false
+    },
+    {
+      "id": "23c42cf17a86308f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Friend-focused photo-sharing app Retro snags $21M",
+      "url": "https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/",
+      "summary": "Retro, a friend-focused photo-sharing application developed by former Instagram employees, has successfully secured more than $21 million in Series A funding.",
+      "tags": [
+        "social media",
+        "app",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "227a7ab70b29831d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "How Sweden built one of Europe’s hottest startup ecosystems",
+      "url": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
+      "summary": "Sweden has emerged as a prominent startup ecosystem in Europe, with Cherry Ventures general partner Sophia Bendz providing insights into its development.",
+      "tags": [
+        "startups",
+        "europe",
+        "ecosystem"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42db468fff8bfcc8",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+      "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+      "summary": "Sandhya Devanathan, a Meta executive, has departed to join OpenAI, where she will oversee operations in Southeast Asia and Australia, amid Meta's growing scrutiny in India.",
+      "tags": [
+        "meta",
+        "openai",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2546dd1ccb0231d7",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "More Americans oppose police license plate cameras than support them: survey",
+      "url": "https://techcrunch.com/2026/08/28/more-americans-oppose-police-license-plate-cameras-than-support-them-survey/",
+      "summary": "A new survey reveals that American opposition to police license plate cameras outweighs support, following numerous reports of law enforcement abusing surveillance tools.",
+      "tags": [
+        "surveillance",
+        "privacy",
+        "police"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a4b8b81f418f43b1",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "summary": "Neocloud Lambda secured $1 billion in private debt to purchase Nvidia AI chips, which it plans to lease to Microsoft, underscoring the significant financial investment required in the current AI boom.",
+      "tags": [
+        "ai",
+        "funding",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0daef2816b808fb7",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+      "summary": "Open-weight AI companies are highly sought-after acquisition targets in Silicon Valley, reflecting a substantial influx of capital into the business of distributing AI models freely.",
+      "tags": [
+        "ai",
+        "investment",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5e377a05048eb5f5",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Ancient Wisdom: I Was the King of the Celebrity Cover Story",
+      "url": "https://www.thefp.com/p/ancient-wisdom-i-was-the-king-of",
+      "summary": "The author reflects on his career as a celebrity journalist, particularly recalling interviews with Walter Cronkite, whom he respected, and realizing he never wanted to be any of the famous people he profiled, except for Cronkite.",
+      "tags": [
+        "journalism",
+        "memoir",
+        "celebrities"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ad3e3e18d8dc966d",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Can Anyone Beat Abdul El-Sayed?",
+      "url": "https://www.thefp.com/p/abdul-el-sayed-michigan-democrats-strategy",
+      "summary": "Abdul El-Sayed, Michigan's Democratic Senate nominee, maintains a progressive populist platform and secured a narrow primary victory despite significant opposition from his party's establishment and substantial outside spending. His sharp-tongued responses in interviews continue to challenge opponents.",
+      "tags": [
+        "us elections",
+        "michigan",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d3179e03289e1161",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Lifestyles of the Rich and Famous: A Summer Special",
+      "url": "https://www.thefp.com/p/lifestyles-of-the-rich-and-famous",
+      "summary": "This article observes that despite the dawn of the AI age, people remain fascinated by the opulent lifestyles and decisions of the wealthy, consuming content from influencers and industries catering to them.",
+      "tags": [
+        "culture",
+        "wealth",
+        "society"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ceeeae6eb7c1c0d6",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Our Foreign Policy Divide Began with the Korean War",
+      "url": "https://www.thefp.com/p/school-of-war-korean-war-foreign-policy",
+      "summary": "Historian Dane J. Cash argues that the Korean War was foundational in shaping America's foreign policy divisions, specifically over isolationism and the exercise of American power, influences that persist in current global conflict discourse.",
+      "tags": [
+        "history",
+        "foreign policy",
+        "korean war"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1f573c6d9d9f71ce",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "TGIF: Have Y’all Never Heard of Noblesse Oblige?",
+      "url": "https://www.thefp.com/p/tgif-have-yall-never-heard-of-noblesse",
+      "summary": "This post touches on diverse topics including Dolly Parton, Donald Trump's controversial action of renaming Lake Ontario to \"Lake America,\" and new CBC guidelines discouraging the use of \"terrorist attacks\" for 9/11. It also highlights a contentious Alaska Senate race featuring two candidates named Dan Sullivan, one accused of attempting voter confusion.",
+      "tags": [
+        "politics",
+        "media",
+        "us elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8ffe0a1ca85844eb",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "How to Be a Tree: Notes on the Resilience of Letting Go",
+      "url": "https://www.themarginalian.org/2026/08/28/trees/",
+      "summary": "This essay and poem explore the resilience of trees as a metaphor for life, detailing how they capture light for growth and gracefully let go of leaves in autumn, revealing new buds. It highlights their biological marvels, like photosynthesis and infrared \"vision\" through phytochromes.",
+      "tags": [
+        "nature",
+        "philosophy",
+        "poetry"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e2c184f03243f061",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "How to Be Reborn Each Day",
+      "url": "https://www.themarginalian.org/2026/08/28/hannah-emerson-center-of-the-universe/",
+      "summary": "Drawing on ancient Greek cosmogony and Milton, this piece, featuring Hannah Emerson's poem \"Center of the Universe,\" explores how embracing mental \"hellfire\" like grief and rage can lead to personal annealing and rebirth. It encourages kissing difficult ideas and finding light in adversity.",
+      "tags": [
+        "philosophy",
+        "poetry",
+        "self-improvement"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2bbc40eb57e9cecc",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "The Four Desires Driving All Human Behavior: Bertrand Russell’s Magnificent Nobel Prize Acceptance Speech",
+      "url": "https://www.themarginalian.org/2026/08/28/bertrand-russell-nobel-prize-acceptance-speech/",
+      "summary": "Bertrand Russell's Nobel Prize acceptance speech identifies four infinite desires driving human behavior: acquisitiveness, rivalry, vanity, and love of power. He argues these motives, especially the insatiable love of power, profoundly influence human actions and society.",
+      "tags": [
+        "philosophy",
+        "psychology",
+        "human nature"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a1102af4e51ddecc",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Apple TV now costs $14.99 a month after its fourth price hike in four years",
+      "url": "https://www.theverge.com/tech/986130/apple-tv-plus-price-hike",
+      "summary": "Apple has increased the monthly price of Apple TV+ from $12.99 to $14.99 and the annual subscription to $119, with Apple One also seeing a price hike. This marks the fourth price increase for the streaming service in four years.",
+      "tags": [
+        "apple",
+        "streaming",
+        "pricing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "99d087e2555c9bb0",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Apple TV’s sci-fi thriller Dark Matter gets even trippier in season 2",
+      "url": "https://www.theverge.com/entertainment/983263/dark-matter-season-2-review-apple-tv",
+      "summary": "Season 2 of Apple TV's \"Dark Matter\" intensifies the sci-fi thriller's drama and thrills, but its complex multiversal premise continues to challenge viewer comprehension. The show focuses on a man who kidnaps an alternate version of himself.",
+      "tags": [
+        "streaming",
+        "tv show",
+        "sci-fi"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8949e38299447a89",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
+      "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
+      "summary": "An unofficial version of Nvidia's DLSS 5 code has leaked from an early-access build of NBA 2K27, leading modders to apply the AI upscaling technology to games like Skyrim, Cyberpunk 2077, and GTA V.",
+      "tags": [
+        "nvidia",
+        "dlss",
+        "gaming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1f217ee8aac1a30a",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Google further buries search results under AI mode",
+      "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+      "summary": "Google is now automatically expanding its AI search summaries at the top of results pages for some queries, consequently pushing traditional search links much farther down. This change includes a full AI Overview and an \"Ask anything\" box.",
+      "tags": [
+        "google",
+        "ai",
+        "search"
+      ],
+      "priority": false
+    },
+    {
+      "id": "14d2b2d35872f1d2",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The GTA VI ‘extended look’ is now streaming on YouTube",
+      "url": "https://www.theverge.com/games/985910/grand-theft-auto-gta-vi-extended-look-youtube-netflix-stream",
+      "summary": "Rockstar has released an \"extended look\" at Grand Theft Auto VI on YouTube and its website, following its initial premiere on Netflix. The nearly 27-minute preview highlights the game's atmosphere, protagonists Jason Duval and Lucia Caminos, and various locations.",
+      "tags": [
+        "gaming",
+        "gta",
+        "video game"
+      ],
+      "priority": false
+    },
+    {
+      "id": "15a92c63c2ce735f",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The iPhone Fold could make concerts even worse",
+      "url": "https://www.theverge.com/podcast/986145/m6-mac-mini-meta-settlement-gta-6-vergecast",
+      "summary": "The Vergecast discussed the implications of a potential iPhone Fold on concert etiquette, along with Apple's new Mac Mini and Mac Studio featuring M6 and M5 Ultra chips. Skepticism was raised regarding Apple's marketing of AI inference capabilities.",
+      "tags": [
+        "apple",
+        "iphone",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cf108d9395c04b93",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Trump’s EPA wants to let data centers hide their air pollution",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+      "summary": "The EPA under Trump plans to eliminate a federal rule that mandates public notice and comment for industrial air permits, potentially enabling data centers and other industries to proceed with construction without community input on pollution concerns.",
+      "tags": [
+        "environment",
+        "policy",
+        "epa"
+      ],
+      "priority": false
+    },
+    {
+      "id": "798757cf6277e01d",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Xbox CEO calls Project Helix a ‘family of devices’",
+      "url": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices",
+      "summary": "Xbox CEO Asha Sharma announced that Project Helix, previously understood as a single next-generation console, will actually encompass a \"family of devices.\" Further details are expected to be shared soon.",
+      "tags": [
+        "xbox",
+        "gaming",
+        "hardware"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 102,
+    "summarized": 76,
+    "skipped_promos": 2,
+    "filtered_by_rules": 24,
+    "sources": 9,
+    "email_items_omitted": 0
+  }
+}
