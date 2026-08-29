@@ -1,0 +1,555 @@
+{
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T17:32:10+00:00",
+  "hot_topics": [
+    {
+      "topic": "Dolly Parton's Philanthropic Legacy",
+      "synthesis": "The recent passing of country music icon Dolly Parton has led to widespread remembrance, with many tributes focusing on her significant contributions to music and philanthropy. Her Imagination Library program, which provides free books to millions of children globally, is particularly highlighted as a testament to her commitment to literacy, inspired by her father's inability to read. This initiative exemplifies her lasting impact beyond entertainment, fostering a love for reading in future generations.",
+      "item_ids": [
+        "6893d8c93e4edcb4",
+        "0861036a3e94c6a6",
+        "45930e54569ec284",
+        "522e3b3165093136"
+      ]
+    },
+    {
+      "topic": "Deadly Russian Strike on Kyiv",
+      "synthesis": "A recent Russian strike on a weapons depot located near a residential area in Kyiv has tragically killed at least 37 people and necessitated the evacuation of hundreds. An investigation has been launched to determine the circumstances of storing military weapons so close to civilian zones. This incident marks one of the year's deadliest attacks amidst ongoing drone strikes across Ukraine.",
+      "item_ids": [
+        "97d1a27ceff400d6",
+        "7543cd2375b6df71",
+        "8c60b8d026a1e0d3"
+      ]
+    },
+    {
+      "topic": "Iceland's EU Membership Referendum",
+      "synthesis": "Iceland is currently voting on whether to restart negotiations for joining the European Union, a decision brought forward by turbulent international affairs. While the prospect of rejoining EU talks is on the table, the public campaign has largely centered on the potential consequences for Iceland's crucial fishing industry. This reflects the nation's careful consideration of economic impacts in its foreign policy decisions.",
+      "item_ids": [
+        "f4977a9cbdd8556a",
+        "d24990a8abd75148"
+      ]
+    },
+    {
+      "topic": "Trump's US-Venezuela Oil Deal Claim",
+      "synthesis": "Former President Trump has announced a 'historic' agreement with Venezuela, claiming it would grant the U.S. control over 65 billion barrels of Venezuela's oil reserves at a reduced cost. Venezuela's interim president reportedly stated that this unusual deal aims to help revitalize her country's struggling economy. This potential arrangement signifies a notable shift in energy and diplomatic relations.",
+      "item_ids": [
+        "34867860f70e8a94",
+        "a0746b5954acff8b"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "60c0a4c5576ae2cb",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "I asked 100 companies for my data. Some deleted it instead.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
+      "summary": "An individual requested personal data from over 100 companies under the California Consumer Privacy Act (CCPA), receiving detailed reports from some while others opted to delete the information. The CCPA, effective since 2020, grants consumers rights to access, delete, and opt out of the sale of their personal data.",
+      "tags": [
+        "data privacy",
+        "ccpa",
+        "consumer rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "97d1a27ceff400d6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "summary": "An investigation has begun following a strike on a Kyiv weapons depot, which killed at least 37 people and prompted hundreds of evacuations near a residential area. Authorities are examining the storage of military weapons for Ukraine's forces in proximity to civilian zones.",
+      "tags": [
+        "ukraine war",
+        "kyiv",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d24990a8abd75148",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Close race as Iceland votes on whether to restart talks on joining EU",
+      "url": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Icelanders are participating in a close-fought vote on whether to restart talks on joining the European Union, with turbulent international affairs influencing the timing. Despite global events, the campaign has predominantly focused on the implications for Iceland's vital fishing industry.",
+      "tags": [
+        "iceland",
+        "eu",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7543cd2375b6df71",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Deadly strike on Kyiv warehouse prompts evacuations",
+      "url": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine correspondent Dan Johnson reports from Kyiv after a deadly strike on a warehouse, which authorities stated killed over 30 people and prompted evacuations. The incident has raised concerns about the safety of storing military supplies near populated areas.",
+      "tags": [
+        "ukraine war",
+        "kyiv",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6893d8c93e4edcb4",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Dolly Parton's dad couldn't read - it inspired her to send books to millions of children",
+      "url": "https://www.bbc.co.uk/news/articles/cpwlrrzp8eeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Dolly Parton's Imagination Library, which provides free books to millions of children, was inspired by her father's inability to read. Families globally share stories of how this program has positively impacted their children's literacy.",
+      "tags": [
+        "dolly parton",
+        "literacy",
+        "philanthropy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "803ee0506c8bb532",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
+      "url": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
+      "summary": "A former White House teleprompter operator was ordered to pay $172,000 for using his prior knowledge of President Trump's speeches to place lucrative bets. This incident highlights a breach of ethical conduct and misuse of privileged information within the administration.",
+      "tags": [
+        "politics",
+        "ethics",
+        "gambling"
+      ],
+      "priority": false
+    },
+    {
+      "id": "872f572d64c780b8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Forget Starbucks coffee - Gen Z like their drinks ice cold",
+      "url": "https://www.bbc.co.uk/news/articles/cm2r9n2mrp8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Gen Z consumers are increasingly opting for cold, customizable drinks over traditional Starbucks coffee, prompting coffee chains to quickly adapt to this evolving preference. This trend reflects a significant shift in beverage consumption habits among younger demographics.",
+      "tags": [
+        "consumer trends",
+        "gen z",
+        "food & beverage"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4232e1f3c5561e8d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
+      "url": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
+      "summary": "A woman who rented homes to two al-Qaeda members prior to 9/11 has spoken publicly for the first time, revealing their connections to an alleged Saudi spy. Her testimony could shed new light on potential Saudi links to the 2001 terrorist attacks.",
+      "tags": [
+        "terrorism",
+        "9/11",
+        "saudi arabia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6670118a43deb1d8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+      "url": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Right-wing commentator Milo Yiannopoulos has been deported from the United States to the UK after being detained by Immigration and Customs Enforcement (ICE). The self-styled provocateur's removal marks a significant event in his public profile and legal standing.",
+      "tags": [
+        "politics",
+        "deportation",
+        "us-uk"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1ec3fecc5d82cf47",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
+      "url": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
+      "summary": "Somali piracy is experiencing a surge, with 13 ships attacked since January and two seized last week, a development attributed to the ripple effects of the US-Iran war. This resurgence poses renewed threats to maritime security in the region.",
+      "tags": [
+        "piracy",
+        "somalia",
+        "maritime security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "34867860f70e8a94",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Former President Trump has praised a \"historic\" deal that would grant the U.S. control over 65 billion barrels of Venezuela's oil reserves. Venezuela's interim president indicates that this unusual agreement is expected to help revive her country's struggling economy.",
+      "tags": [
+        "politics",
+        "oil",
+        "venezuela"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dbd7e142b6096c3e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What tariffs will really cost Canadians and Americans",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z4dv6vn2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Households and businesses in Canada and the United States have endured the impact of tariffs on the cost of living for over a year, and the article explores what further changes might ensue. The ongoing tariff situation continues to affect economic stability and consumer expenses.",
+      "tags": [
+        "economics",
+        "tariffs",
+        "trade"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e22defded5983447",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "summary": "Vphone-cli is a command-line interface tool that enables users to boot a virtual iPhone using Apple's Virtualization.framework. This utility provides developers and researchers with a method to emulate iOS devices within a virtualized environment.",
+      "tags": [
+        "virtualization",
+        "ios",
+        "apple"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d2ae4149a928bfdb",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "url": "https://lwn.net/Articles/1091231/",
+      "summary": "The Debian project, a major open-source operating system distribution, has voted to permit the \"responsible use of generative AI\" within its development community. This policy decision reflects an evolving stance on integrating artificial intelligence technologies into open-source practices.",
+      "tags": [
+        "debian",
+        "ai",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0012f60715dd262d",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "I accidentally turned LLM memory into program analysis",
+      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+      "summary": "An accidental discovery led to the realization that Large Language Model (LLM) memory could be utilized for program analysis. This suggests novel applications for LLMs beyond their primary generative tasks, leveraging their internal representations for software understanding.",
+      "tags": [
+        "llm",
+        "ai",
+        "programming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f4977a9cbdd8556a",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Iceland votes on whether to restart talks on joining EU",
+      "url": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
+      "summary": "Iceland is holding a vote to determine whether to restart discussions on joining the European Union. The decision comes amidst turbulent international affairs, though the campaign's focus remains heavily on the implications for Iceland's crucial fishing industry.",
+      "tags": [
+        "iceland",
+        "eu",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dd6d3feb57c8d096",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Samsung's Processing-in-Memory (PIM)",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+      "summary": "Samsung showcased its Processing-in-Memory (PIM) technology, which integrates computation capabilities directly into memory modules to increase efficiency. This innovation aims to address data transfer bottlenecks and improve performance for memory-intensive workloads.",
+      "tags": [
+        "hardware",
+        "memory",
+        "samsung"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3a23f3dc39ee9d0c",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "url": "https://github.com/stemdeckapp/stemdeck",
+      "summary": "StemDeck is presented as a free, open-source, and local AI stem separator designed to isolate individual musical instrument tracks from audio files. This tool offers accessible functionality for musicians and audio engineers seeking to manipulate sound components.",
+      "tags": [
+        "ai",
+        "audio",
+        "open-source"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ca9cc115cadff8c9",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "TurboKV: Insanely fast Rust key-value store",
+      "url": "https://github.com/kingroryg/turbokv",
+      "summary": "TurboKV is introduced as an exceptionally fast key-value store developed in Rust, promising high performance for data storage solutions. This project showcases advancements in building efficient and reliable data management systems.",
+      "tags": [
+        "software",
+        "rust",
+        "key-value store"
+      ],
+      "priority": false
+    },
+    {
+      "id": "45930e54569ec284",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
+      "url": "https://www.npr.org/2026/08/29/g-s1-140345/dolly-parton-appreciation-remembrance-tribute",
+      "summary": "Following the death of Dolly Parton, tributes have poured in from across the country, mourning the loss of a country music icon. Fans are celebrating her profound impact on music and her extensive philanthropy, including the Imagination Library and donations for the Moderna COVID vaccine.",
+      "tags": [
+        "dolly parton",
+        "music",
+        "philanthropy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9872726a51200f52",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Lights out, Instagram off? The changes to Meta for teens could be a big deal",
+      "url": "https://www.npr.org/2026/08/29/nx-s1-5947960/instagram-meta-social-media-teens",
+      "summary": "Meta has agreed to implement significant changes for minors using Instagram and Facebook, including restricting access at night and during school hours. Researchers and advocates have praised these measures aimed at improving the social media experience for teens.",
+      "tags": [
+        "social media",
+        "meta",
+        "teens"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0861036a3e94c6a6",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Opinion: Remembering Dolly Parton",
+      "url": "https://www.npr.org/2026/08/29/nx-s1-5941650/opinion-remembering-dolly-parton",
+      "summary": "An opinion piece remembers the smart, funny, and uniquely talented Dolly Parton, quoting her famous remark about not being offended by 'dumb blonde' jokes. Tributes recall her significant impact on music and her distinctive personality.",
+      "tags": [
+        "dolly parton",
+        "music",
+        "celebrity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9abf9b0a67e0bd55",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Photos: See the aftermath of deadly flash floods in Nepal",
+      "url": "https://www.npr.org/2026/08/29/nx-s1-5948209/photos-see-the-aftermath-of-deadly-flash-floods-in-nepal",
+      "summary": "Deadly flash floods in Nepal and Tibet have caused a rising death toll and left approximately 2,500 people missing across both regions. The disaster has devastated communities, requiring urgent relief and recovery efforts.",
+      "tags": [
+        "natural disaster",
+        "floods",
+        "nepal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8c60b8d026a1e0d3",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
+      "url": "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv",
+      "summary": "A Russian strike near Kyiv has killed 37 people, making it one of the year's deadliest attacks, amidst 72 hours of near-constant drone strikes across Ukraine. This intensified assault has severely disrupted daily life and caused significant casualties.",
+      "tags": [
+        "ukraine war",
+        "kyiv",
+        "casualties"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0fa1d4991ba1eab8",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Sae Joon Park, a Purple Heart veteran who self-deported, receives pardon",
+      "url": "https://www.npr.org/2026/08/28/nx-s1-5948185/south-korea-deported-veteran-sae-joon-park-pardon",
+      "summary": "Sae Joon Park, a Purple Heart veteran who self-deported, has received a pardon for two convictions over 15 years ago that were triggered by untreated PTSD. New York's governor stated that Park had earned a \"second chance through rehabilitation.\"",
+      "tags": [
+        "veterans",
+        "immigration",
+        "pardon"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6c7fffd4171f30cd",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "The bridges of Rwanda open up new worlds",
+      "url": "https://www.npr.org/2026/08/29/nx-s1-5927173/bridges-remote-communities-rwanda",
+      "summary": "A charity's initiative to build 96 bridges in Rwanda has connected communities previously isolated by rivers and gorges, with a new study highlighting the life-changing impact of these pedestrian crossings. The bridges have significantly improved accessibility and the quality of life for residents.",
+      "tags": [
+        "development",
+        "infrastructure",
+        "rwanda"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a0746b5954acff8b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
+      "url": "https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves",
+      "summary": "President Trump announced that his administration has entered a sweeping agreement with Venezuela, potentially granting the U.S. access to vast amounts of the South American country's untapped oil reserves at cost. This deal aims to control 65 billion barrels of oil, impacting global energy dynamics.",
+      "tags": [
+        "politics",
+        "oil",
+        "venezuela"
+      ],
+      "priority": false
+    },
+    {
+      "id": "522e3b3165093136",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Everything is country",
+      "url": "https://www.slowboring.com/p/everything-is-country",
+      "summary": "Dolly Parton, who redefined the country-music genre, used to face a common dismissive attitude towards country music, with \"anything but country\" being a glib response to musical taste. The article discusses how her influence helped change perceptions of the genre among non-fans.",
+      "tags": [
+        "dolly parton",
+        "music",
+        "country music"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a7eb22127d211371",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
+      "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
+      "summary": "Chinese automakers are following Tesla's strategy by investing in humanoid robots, anticipating them to become a significant source of future profits. Technical advancements are encouraging a new wave of companies to explore this burgeoning robotics market.",
+      "tags": [
+        "robotics",
+        "automotive",
+        "china"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fbb6b6a81b9f271d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Hollywood celebs are getting into microdrama apps",
+      "url": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
+      "summary": "Several Hollywood celebrities are increasingly engaging with microdrama apps, choosing this rising content format over traditional large-budget movie productions. This trend signals a shift in celebrity involvement in new media, potentially reflecting evolving audience consumption habits.",
+      "tags": [
+        "entertainment",
+        "social media",
+        "celebrities"
+      ],
+      "priority": false
+    },
+    {
+      "id": "505526c056db627f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "summary": "Nvidia's competitive edge in AI is expanding beyond its Graphics Processing Units (GPUs), with new data center systems prioritizing smarter traffic control to enhance overall efficiency. This development suggests a strategic focus on optimizing system-wide performance rather than solely relying on raw processing power.",
+      "tags": [
+        "ai",
+        "nvidia",
+        "data centers"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a67dc138a83603c8",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The Theragun Sense makes everyday recovery surprisingly easy",
+      "url": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
+      "summary": "The Theragun Sense is making everyday recovery surprisingly easy, appealing to users who are experiencing more aches and pains as they age. This device aims to simplify personal massage and muscle relief for a broader audience.",
+      "tags": [
+        "health",
+        "wellness",
+        "gadgets"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ceff57fdd42efdb8",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "A Life of One’s Own: A Brilliant Young Woman’s Forgotten Field Guide to the Art of Knowing What You Really Want",
+      "url": "https://www.themarginalian.org/2026/08/29/a-life-of-ones-own-joanna-field-marion-milner/",
+      "summary": "Marion Milner’s 1934 book, \"A Life of One’s Own,\" chronicles her seven-year experiment aimed at discovering genuine happiness beyond societal pressures, revealing that true fulfillment stems from inner knowing and a \"wide focus\" perception. Writing under the pen name Joanna Field, Milner emphasized that genuine happiness comes from self-awareness rather than external validation.",
+      "tags": [
+        "psychology",
+        "philosophy",
+        "self-discovery"
+      ],
+      "priority": false
+    },
+    {
+      "id": "371fdc98cdac5b66",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Distraction-free writing gadget BYOK is adding custom extensions",
+      "url": "https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions",
+      "summary": "The distraction-free writing gadget BYOK is expanding its functionality by adding custom extensions, aiming to satisfy users who need more than just bare-minimum text drafting. This development seeks to balance the device's minimalist appeal with the growing demands for specialized features like note-taking or screenplay writing.",
+      "tags": [
+        "gadgets",
+        "writing",
+        "productivity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d3f682ed437d13b5",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The Galaxy Z Flip 8 is at its best when there’s friction",
+      "url": "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review",
+      "summary": "Samsung's Galaxy Z Flip 8 introduces a fundamentally rethought user experience for its closed state, offering a more complete Android experience on the cover screen despite minimal hardware changes. This shift allows users easier access to full app versions, departing from Samsung's previous emphasis on a simplified interface when the phone is shut.",
+      "tags": [
+        "smartphone",
+        "samsung",
+        "foldable"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6e8f7094a7208ffc",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango",
+      "url": "https://www.theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango",
+      "summary": "Joseph Fink, cocreator of the influential podcast \"Welcome to Night Vale\" and other successful series like \"Unlicensed\" and \"Alice Isn't Dead,\" credits the video game Grim Fandango as a foundational influence on his storytelling approach. He is also a celebrated author, having co-written novels extending the narratives of his podcast creations.",
+      "tags": [
+        "podcast",
+        "storytelling",
+        "author"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 43,
+    "summarized": 36,
+    "skipped_promos": 0,
+    "filtered_by_rules": 7,
+    "sources": 8,
+    "email_items_omitted": 0
+  }
+}
