@@ -1,0 +1,553 @@
+{
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T17:53:18+00:00",
+  "hot_topics": [
+    {
+      "topic": "AI Copyright Lawsuits",
+      "synthesis": "Major music publishers Sony Music Publishing and Warner Chappell have filed lawsuits against AI company Anthropic, alleging widespread copyright infringement. They claim a \"brazen campaign\" of intellectual property theft involving \"tens of thousands\" of copyrighted works, seeking potentially billions in damages. This highlights growing legal challenges in the AI industry regarding intellectual property.",
+      "item_ids": [
+        "1e46b789bb4be442",
+        "d9a68f772d67dd05"
+      ]
+    },
+    {
+      "topic": "China's Advancements in AI and Robotics",
+      "synthesis": "China is making significant strides in AI and robotics, evidenced by both the 2nd World Humanoid Robot Games in Beijing and Tencent's release of Hy4 Preview, a powerful new open-weight LLM. While humanoid robots showcased advanced capabilities despite some competitive failures, Tencent's Hy4 demonstrates a substantial leap in language model scale and features. The new LLM has 770 billion total parameters and a 1 million token context window.",
+      "item_ids": [
+        "377f8d3e04339333",
+        "11152e3cfc8e627e",
+        "0f5afeb068938369"
+      ]
+    },
+    {
+      "topic": "AI and Automation's Impact on Workforce and Control",
+      "synthesis": "The increasing deployment of AI and automation is raising questions about its impact on human labor and control. Meta is testing robots for data center tasks, potentially replacing significant human workloads, while discussions at Europe's TechBBQ conference highlight concerns over human agency with AI. Industries like mining, exemplified by Caterpillar, are also leveraging decades of automation experience to guide AI deployment, further suggesting a transformative shift in industrial and mobility sectors.",
+      "item_ids": [
+        "46ef7f77d585e9a9",
+        "932cd863873114dd",
+        "c23203b6a2e9ee2d",
+        "cbcc67df7010e9d9"
+      ]
+    },
+    {
+      "topic": "Lake Ontario Name Dispute / Canada-US Relations",
+      "synthesis": "A diplomatic spat has emerged between Canada and the US regarding Lake Ontario, with Ontario Premier Doug Ford unveiling a \"Lake Ontario. Now and Always.\" billboard. This move is a direct response to former President Trump's suggestion to rename the lake \"Lake America,\" though Google has reportedly already applied the change for US users. This reflects ongoing tensions and national pride over shared natural resources.",
+      "item_ids": [
+        "3fd0121c40717bbe",
+        "00bd64ed5c7f7941"
+      ]
+    },
+    {
+      "topic": "Nepal Flooding Crisis",
+      "synthesis": "Nepal is grappling with a severe flooding crisis, with authorities issuing warnings for potential fresh floods and urging residents in affected areas to remain vigilant as river levels rise. Amidst the devastation, a head teacher heroically evacuated 900 children minutes before floods hit their school, showcasing critical disaster response efforts in the face of environmental challenges.",
+      "item_ids": [
+        "786e2a7d197f7d29",
+        "bc88f0b6aff40f18"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "46ef7f77d585e9a9",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Inside Meta’s push to put robots to work in data centers",
+      "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+      "summary": "Meta is testing robots that can plug in cables, reset servers, and handle other tasks inside its\ndata centers\n, according to several current and former workers familiar with the projects. The ongoing effort, which has not been previously reported, may eventually allow\nMeta\nto ope…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "5808c33c7deb3b17",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Australia usually hosts the world's biggest cuttlefish mating event - not this year",
+      "url": "https://www.bbc.co.uk/news/articles/c75gyw0nkzno?at_medium=RSS&at_campaign=rss",
+      "summary": "Australia's annual cuttlefish mating event saw a drastic 97% decline this year, with only 1,811 individuals participating compared to previous years.",
+      "tags": [
+        "australia",
+        "wildlife",
+        "marine life"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3fd0121c40717bbe",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Canada installs large Lake Ontario sign in latest jab at US",
+      "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "d72426726aaaec1d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Former Ecuadorian president imprisoned for corruption",
+      "url": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Former Ecuadorian president Lenín Moreno has been imprisoned on corruption charges, specifically denying allegations of taking bribes from a Chinese firm for a hydroelectric plant contract.",
+      "tags": [
+        "ecuador",
+        "corruption",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "786e2a7d197f7d29",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
+      "url": "https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&at_campaign=rss",
+      "summary": "Rajendra Dawadi leapt into action after receiving warnings over waters heading towards his school.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "65f466b4ec972b1c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Iceland votes against restarting EU membership talks",
+      "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iceland's voters have rejected a government proposal to resume accession talks with the European Union, with 52.8% opposing the measure.",
+      "tags": [
+        "iceland",
+        "eu",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "420494429c839f5b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+      "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+      "summary": "A shooting at a techno event near Zurich, Switzerland, resulted in the death of a 22-year-old woman and injuries to five others. Authorities have launched a manhunt for the perpetrator.",
+      "tags": [
+        "switzerland",
+        "crime",
+        "shooting"
+      ],
+      "priority": false
+    },
+    {
+      "id": "721cdaf5ffc49925",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Norway's new king remembers 'my dear father' in first speech",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Norway's new monarch, King Haakon VIII, delivered an emotional inaugural speech, paying tribute to his late father, Harald V, and outlining his intentions for his reign.",
+      "tags": [
+        "norway",
+        "monarchy",
+        "royal family"
+      ],
+      "priority": false
+    },
+    {
+      "id": "db0b582fb8dead4f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Russia says it helped to repel Niger attempted coup",
+      "url": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia has stated that it assisted in thwarting an attempted coup in Niger, where soldiers reportedly tried to attack a key military base.",
+      "tags": [
+        "russia",
+        "niger",
+        "coup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "94ab4c688f14c92d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "They fell in love - then had to check they weren't brother and sister",
+      "url": "https://www.bbc.co.uk/news/articles/c8en3n29wdro?at_medium=RSS&at_campaign=rss",
+      "summary": "A French couple, both conceived by sperm donors, faced the challenge of ensuring they were not biologically related before having children, due to local laws prohibiting home DNA tests.",
+      "tags": [
+        "france",
+        "genetics",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2612eb8783ce6153",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "WhatsApp chat used to send cash for crime and extremism",
+      "url": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+      "summary": "A WhatsApp chat group was reportedly used by money launderers to arrange untraceable cash transfers globally for criminal and extremist activities. This highlights concerns about the use of encrypted platforms for illegal financing.",
+      "tags": [
+        "whatsapp",
+        "crime",
+        "money laundering"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a8a30b2a7416a297",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Zambian opposition leader charged with treason",
+      "url": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Zambia's opposition leader, Mundubile, has been charged with treason after previously seeking refuge in a United Nations building in the capital.",
+      "tags": [
+        "zambia",
+        "politics",
+        "treason"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c01dfcfc9ebe21fc",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+      "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+      "summary": "A significant security flaw has been discovered in QubesOS, allowing for arbitrary code execution through an error reporting backchannel when copying content to a virtual machine. Users are advised to review the provided security bulletin for details.",
+      "tags": [
+        "security",
+        "qubesos",
+        "vulnerability"
+      ],
+      "priority": false
+    },
+    {
+      "id": "99f842d21cc47ba2",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Bug Blindness",
+      "url": "https://danluu.com/bug-blind/",
+      "summary": "The article \"Bug Blindness\" discusses the phenomenon where developers or testers become desensitized to or overlook obvious bugs in software, often due to familiarity or cognitive biases.",
+      "tags": [
+        "software development",
+        "debugging",
+        "cognitive bias"
+      ],
+      "priority": false
+    },
+    {
+      "id": "22dd31744807cebe",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
+      "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+      "summary": "California lawmakers have unanimously passed an exemption for Linux and open-source software distributed under licenses like GPL, MIT, BSD, and Apache from an age-verification law. This ensures that widely used open-source software is not subject to new age-gating requirements.",
+      "tags": [
+        "linux",
+        "open source",
+        "legislation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6932fa65f66d2a50",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Creepy Crawlies",
+      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+      "summary": "The article \"Creepy Crawlies\" discusses an undisclosed topic, based on its title and source, likely related to software or system anomalies from a kernel development perspective.",
+      "tags": [
+        "software",
+        "kernel",
+        "tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5c84435929a28047",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Hacking IKEA Furniture",
+      "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+      "summary": "An article discusses various methods and creative approaches for \"hacking\" IKEA furniture, presumably to modify or repurpose it beyond its intended design.",
+      "tags": [
+        "diy",
+        "furniture",
+        "ikea"
+      ],
+      "priority": false
+    },
+    {
+      "id": "11152e3cfc8e627e",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Hy4 preview",
+      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+      "summary": "Article URL:\nhttps://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/\nComments URL:\nhttps://news.ycombinator.com/item?id=49492632\nPoints: 363\n# Comments: 227",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "6d331ec7b7920038",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+      "url": "https://arxiv.org/abs/1804.07389",
+      "summary": "A 2018 academic paper explores the longest possible straight-line paths that can be traced across the Earth's surface, whether entirely on water or entirely on land.",
+      "tags": [
+        "geography",
+        "mathematics",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d91d578b53048a3b",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Omarchy: Any User Process Can Escalate to Root",
+      "url": "https://0xcc.io/posts/omarchy-root-creds/",
+      "summary": "A security vulnerability named \"Omarchy\" has been identified, allowing any user process to escalate to root privileges. The accompanying article details the technical specifics of this potential security flaw.",
+      "tags": [
+        "security",
+        "vulnerability",
+        "linux"
+      ],
+      "priority": false
+    },
+    {
+      "id": "96416a09de2cd213",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Are you sure that Kimmel clip was real? Late-night AI deepfakes are spreading online",
+      "url": "https://www.npr.org/2026/08/30/nx-s1-5943190/jimmy-kimmel-deepfake-jon-stewart-abc-ai",
+      "summary": "AI-generated deepfakes featuring late-night TV hosts like Jimmy Kimmel and Jon Stewart are increasingly circulating online, posing a new challenge for identifying real versus fabricated content. These deepfakes are reportedly easier to create and potentially more disruptive than other types.",
+      "tags": [
+        "ai",
+        "deepfakes",
+        "misinformation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "00bd64ed5c7f7941",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Canada claps back at Trump's efforts to rename Lake Ontario as 'Lake America'",
+      "url": "https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google",
+      "summary": "Ontario Premier Doug Ford has unveiled a giant billboard reading: \"Lake Ontario — Now and Always.\" But tech giant Google has said it is renaming the lake for U.S. users, as President Trump demanded.\n(Image credit: Keito Newman/The Canadian Press)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "26b7867919d628eb",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Exclusive: Meet the inaugural winner of Fat Marmot Week",
+      "url": "https://www.npr.org/2026/08/30/nx-s1-5945683/exclusive-meet-the-inaugural-winner-of-fat-marmot-week",
+      "summary": "Dawn has been crowned the inaugural winner of Fat Marmot Week, securing the title through a popular vote.",
+      "tags": [
+        "wildlife",
+        "event",
+        "nature"
+      ],
+      "priority": false
+    },
+    {
+      "id": "83902589fe82f392",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "From Appalachia to Africa: Why Dolly Parton was beloved across the continent",
+      "url": "https://www.npr.org/2026/08/30/nx-s1-5946399/africa-dolly-parton-fans",
+      "summary": "Dolly Parton's music resonated deeply across Africa, with musicians embracing her themes of hardship and humble beginnings, showcasing her global cultural impact.",
+      "tags": [
+        "music",
+        "culture",
+        "dolly parton"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1ad73154f5244d86",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "How a comic book store got swept into the tariff storm",
+      "url": "https://www.npr.org/2026/08/30/nx-s1-5939521/tariff-refunds-canada-trade-war",
+      "summary": "An Ohio comic book store owner has been affected by the ongoing tariff disputes, illustrating how broad trade policies can impact small American businesses more than a year after their initial implementation.",
+      "tags": [
+        "economy",
+        "tariffs",
+        "trade"
+      ],
+      "priority": false
+    },
+    {
+      "id": "776a164155d9ecb3",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Medicare's pilot GLP-1 discount program has a catch. Some sick patients don't qualify",
+      "url": "https://www.npr.org/2026/08/30/nx-s1-5931392/medicare-glp-1-discount-program-has-catch-some-sick-patients-dont-qualify",
+      "summary": "Medicare's pilot program to offer GLP-1s at a reduced cost of $50 a month has a significant limitation: many patients with the most severe illnesses do not qualify for the discount.",
+      "tags": [
+        "medicare",
+        "healthcare",
+        "medication"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bc88f0b6aff40f18",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Nepal warns of possible fresh flooding as communities grapple with devastation",
+      "url": "https://www.npr.org/2026/08/30/nx-s1-5949239/nepal-warns-fresh-flooding",
+      "summary": "Authorities in Nepal warned of possible fresh flooding on Sunday and urged residents in flood-affected districts to remain on high alert after water levels rose in the Bhotekoshi River.\n(Image credit: Rajesh Kumar Singh)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "781e5fdbc43b44e6",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump administration deports relative of Afghans who helped US military to Central African Republic",
+      "url": "https://www.npr.org/2026/08/30/nx-s1-5949230/trump-administration-deports-afghan-central-african-republic",
+      "summary": "The Trump administration has deported a relative of Afghan individuals who aided the U.S. military to the Central African Republic, despite the family facing threats from the Taliban due to their support for the U.S.",
+      "tags": [
+        "us politics",
+        "immigration",
+        "afghanistan"
+      ],
+      "priority": false
+    },
+    {
+      "id": "23e20f19f943b7d5",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "We tested how AI chatbots would handle foreign propaganda. They did surprisingly well",
+      "url": "https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda",
+      "summary": "A test revealed that popular AI chatbots were largely effective at debunking foreign propaganda and avoiding the uncritical spread of falsehoods, outperforming traditional search engines in this regard. However, AI summaries above search results performed less effectively.",
+      "tags": [
+        "ai",
+        "propaganda",
+        "misinformation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0f5afeb068938369",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Introducing Hy4 Preview",
+      "url": "https://simonwillison.net/2026/Aug/29/hy4/",
+      "summary": "Introducing Hy4 Preview\nNew open weight text input (no vision)  LLM from Chinese company Tencent today: 770B total parameters, 49B active parameters, 1M token context window,\n1.56TB on Hugging Face\n.\nThis is a big size increase from their previous\nHy3\nin July, which was 295B, 21B…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "cbcc67df7010e9d9",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+      "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+      "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c23203b6a2e9ee2d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "d9a68f772d67dd05",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "932cd863873114dd",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
+      "url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "87494be5198b746b",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Chess.com launched a poker site and is planning even more classic games",
+      "url": "https://www.theverge.com/games/986302/chess-poker-expansion-gambit",
+      "summary": "Chess.com has launched Gambit, a free online poker site for learning the game without real money, as its first expansion beyond chess. The company plans to introduce more classic games, aiming to replicate its success in online chess.",
+      "tags": [
+        "gaming",
+        "online platforms",
+        "chess.com"
+      ],
+      "priority": false
+    },
+    {
+      "id": "377f8d3e04339333",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "China’s robots race ahead",
+      "url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
+      "summary": "Humanoid robot competes in the optional boxing routine event during the 2nd World Humanoid Robot Games at National Speed Skating Oval on August 26, 2026 in Beijing, China. | Image: Getty Images\nThis is\nThe Stepback\n, a weekly newsletter breaking down one essential story from the…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "1e46b789bb4be442",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "summary": "Sony Music Publishing and Warner Chappell have\nfiled suit against Anthropic\nin the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for eac…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "2be580faff9033c9",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+      "summary": "Texas Governor Greg Abbott has frozen state spending on Flock's AI surveillance cameras amid growing privacy concerns and misuse incidents. This action follows a report revealing the state spent over $30 million on these cameras, funded by a $1 fee on insurance policies.",
+      "tags": [
+        "ai",
+        "surveillance",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9e4538acbcddea24",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
+      "url": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
+      "summary": "\"A Trail Tale\" is an interactive digital journal created by Andy Moliski, inspired by \"Oregon Trail\" and featuring pixel art. It allows users to vicariously experience thru-hiking the Appalachian Trail.",
+      "tags": [
+        "gaming",
+        "interactive media",
+        "outdoors"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 52,
+    "summarized": 39,
+    "skipped_promos": 2,
+    "filtered_by_rules": 11,
+    "sources": 7,
+    "email_items_omitted": 0
+  }
+}
