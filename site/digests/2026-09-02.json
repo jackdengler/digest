@@ -1,0 +1,1133 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T17:33:01+00:00",
+  "hot_topics": [
+    {
+      "topic": "Google Ad Tech Antitrust Decision",
+      "synthesis": "A US federal judge has ruled that Google will not be required to sell its online advertising exchange, despite losing an antitrust case where the Department of Justice sought to dismantle parts of its ad tech business. This decision implements milder remedies to address Google's illegal monopolization, marking a significant outcome in efforts to restore competition in the online display ad market.",
+      "item_ids": [
+        "00b93450e3786df6",
+        "b75e7681e008b1da"
+      ]
+    },
+    {
+      "topic": "OpenAI Copyright and AI Training Lawsuits",
+      "synthesis": "The debate over AI training on copyrighted material has seen the US government, including the Trump administration, support OpenAI's argument for fair use in its lawsuit against The New York Times. Meanwhile, Anthropic has proactively updated its Claude AI system to prevent the reproduction of copyrighted content like song lyrics or characters, reflecting the increasing legal scrutiny and efforts by AI companies to address copyright concerns.",
+      "item_ids": [
+        "7abf0556bbccc3a9",
+        "71ebb32642cfc746",
+        "3e7c5de1666a98c6"
+      ]
+    },
+    {
+      "topic": "OpenAI Tumbler Ridge School Shooting Lawsuits",
+      "synthesis": "OpenAI and its CEO Sam Altman are facing numerous new lawsuits, with over 30 cases accusing them of \"aiding and abetting\" the suspect in Canada's Tumbler Ridge school shooting. These lawsuits claim that OpenAI executives prioritized the company's image by overriding recommendations to alert police about the alleged shooter's conversations with ChatGPT concerning gun violence.",
+      "item_ids": [
+        "6248a2355263b930",
+        "0d4ad55d88272e4f",
+        "3fc6410278e3efda"
+      ]
+    },
+    {
+      "topic": "US-Iran Middle East Conflict and Retaliation",
+      "synthesis": "Tensions in the Middle East have escalated following reports of a US strike that allegedly killed four people at an Iranian wedding, sparking Iranian retaliation with missile and drone attacks on US targets. The ongoing six-month conflict, marked by accusations of war crimes and increased US military engagement, continues to pose significant political and economic challenges.",
+      "item_ids": [
+        "e66c0e9b4a870c26",
+        "ca848acde9e58418",
+        "64990ae2ce17d8f6",
+        "6981dfc84f2a7817"
+      ]
+    },
+    {
+      "topic": "Google Android Software Updates and AI Integration",
+      "synthesis": "Google has rolled out its latest Android feature drop, introducing improvements like motion sickness-reducing \"Motion Assist\" dots and enhanced accessibility features across a wider range of devices. These updates also integrate Gemini AI capabilities, allowing users to log and retrieve item locations in Find Hub and providing other advancements.",
+      "item_ids": [
+        "35cbf422c0e1bcdb",
+        "58515a4c5c951096",
+        "b46f1e23f95e9b3b"
+      ]
+    },
+    {
+      "topic": "US-Venezuela Oil Deals and Chevron Expansion",
+      "synthesis": "A recent US oil deal involving 65 billion barrels of crude with Venezuela has drawn scrutiny from analysts and anger from many Venezuelans, with some criticizing it as a \"colonialist\" agreement. Following this deal, Chevron, the largest foreign oil operator in Venezuela, is set to expand its operations despite ongoing political and economic uncertainty in the country.",
+      "item_ids": [
+        "7eff6f81eec6bb76",
+        "bffaf239bee911d2"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "417b78efc872e258",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "FTC alleges Amazon illegally made $20 billion by rigging billions of ad auctions",
+      "url": "https://arstechnica.com/tech-policy/2026/09/ftc-alleges-amazon-illegally-made-20-billion-by-rigging-billions-of-ad-auctions/",
+      "summary": "The Federal Trade Commission and 22 states have sued Amazon, alleging the company secretly overcharged advertisers by rigging billions of ad auctions since 2019. The lawsuit claims Amazon replaced actual auction results with higher prices to inflate its profits, making $20 billion illegally.",
+      "tags": [
+        "amazon",
+        "antitrust",
+        "advertising"
+      ],
+      "priority": false
+    },
+    {
+      "id": "90835e769fffb292",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Here's our first look—and drive—of the 2027 Range Rover Electric",
+      "url": "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv/",
+      "summary": "Jaguar Land Rover debuted the 2027 Range Rover Electric, a new battery-electric variant that retains the brand's luxury SUV styling and offers modern safety features at a lower price than restomod electric conversions. The company has already seen significant demand with 80,000 interested potential buyers.",
+      "tags": [
+        "automotive",
+        "electric vehicle",
+        "luxury"
+      ],
+      "priority": false
+    },
+    {
+      "id": "35cbf422c0e1bcdb",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "New Android Drop adds remembered items in Find Hub, makes anti-nausea dots official",
+      "url": "https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages/",
+      "summary": "Google's new Android feature Drop includes non-AI updates like prettier messaging threads and widely rolling out Motion Assist dots, alongside Gemini expansions. Users on Android 16 or higher can now use Gemini to log and recall the location of untagged items in Find Hub.",
+      "tags": [
+        "android",
+        "google",
+        "software update"
+      ],
+      "priority": false
+    },
+    {
+      "id": "73fdddec74b1bab8",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "The Army just used a 20-kilowatt laser to take out three drones",
+      "url": "https://arstechnica.com/gadgets/2026/09/the-army-just-used-a-20-kilowatt-laser-to-take-out-three-drones/",
+      "summary": "The US Army successfully used a 20-kilowatt high-energy laser system to shoot down three drones near the US-Mexico border, citing physical threats to personnel. This operation highlights the Army's ongoing military program to implement advanced laser defense capabilities.",
+      "tags": [
+        "military",
+        "laser",
+        "drones"
+      ],
+      "priority": false
+    },
+    {
+      "id": "00b93450e3786df6",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "US court rules Google will not have to sell ad exchange after losing antitrust case",
+      "url": "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/",
+      "summary": "A US federal judge ruled in Google's favor, deciding the company will not be forced to sell its online advertising exchange despite having lost an antitrust trial in 2025. This outcome means minimal remedies will be imposed on Google, a significant win against a Department of Justice effort to level the playing field in online display ads.",
+      "tags": [
+        "antitrust",
+        "google",
+        "advertising"
+      ],
+      "priority": false
+    },
+    {
+      "id": "08436be890017ace",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'Nothing but mud and silt' - the village swept away by deadly floods in Nepal",
+      "url": "https://www.bbc.co.uk/news/videos/cn0j4k45z32o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC South Asia correspondent Azadeh Moshiri spoke to a local whose village was swept away by deadly floods in Nepal, still waiting for his wife's body to be retrieved. Rescue efforts continue as the region struggles with the aftermath.",
+      "tags": [
+        "nepal",
+        "floods",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b2e8e2026938b957",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ariana Grande makes emotional tour exit and steps back from public life",
+      "url": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ariana Grande concluded her tour with an emotional farewell, describing it as her \"last hurrah\" before stepping back from public life. The singer's announcement indicates a temporary retreat from her career.",
+      "tags": [
+        "entertainment",
+        "celebrity",
+        "music"
+      ],
+      "priority": false
+    },
+    {
+      "id": "58ffee86363c5b81",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
+      "url": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
+      "summary": "A BBC team on a UN peacekeeping mission inside occupied Lebanon reported that Israeli troops are fortifying positions and continuing demolitions. Officials suggest Israel is expanding its presence in the region.",
+      "tags": [
+        "lebanon",
+        "israel",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f3c817071e41e56f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Bus crash on Egypt's Red Sea coast kills 22",
+      "url": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss",
+      "summary": "A bus crash on Egypt's Red Sea coast resulted in 22 fatalities, including Jordanian nationals. The accident occurred in the South Sinai governorate.",
+      "tags": [
+        "egypt",
+        "accident",
+        "tragedy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4fbff7cc9ec5d715",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
+      "url": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The 23-year-old suspect in the Charlie Kirk murder case has pleaded not guilty, and a judge has allowed the trial to proceed as a death penalty case. The suspect faces aggravated murder and six other charges in Utah.",
+      "tags": [
+        "crime",
+        "legal",
+        "death penalty"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4594dfb9de9f4b19",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Could the man who murdered a Christian missionary and his sons walk free in India?",
+      "url": "https://www.bbc.co.uk/news/articles/cpd0x701qd9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Questions are being raised about the potential release of Dara Singh, who is serving a life sentence for the 1999 murders of Christian missionary Graham Staines and his two sons in India. The case is being re-evaluated amidst legal proceedings.",
+      "tags": [
+        "india",
+        "crime",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0e5f220a35be5cc5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Cup noodles made with cold water? BBC tries Japan's viral snack",
+      "url": "https://www.bbc.co.uk/news/videos/ce30lqln299o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Tokyo correspondent Kurumi Mori experimented with Japan's viral food trend: instant noodles prepared with cold water. This segment showcased a unique approach to enjoying a popular snack.",
+      "tags": [
+        "japan",
+        "food",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bec16a8a051f96c7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+      "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The EU and NATO pledged to increase pressure on Russia after Berlin accused it of a failed drone attack on Leipzig airport, signaling a new escalation. This incident highlights growing concerns over Russia's increasingly reckless actions.",
+      "tags": [
+        "russia",
+        "nato",
+        "eu"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e66c0e9b4a870c26",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
+      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iranian media reported that a US strike killed four people, including two children, at a wedding, labeling it a war crime, while the US denied targeting civilians. In retaliation, Iran launched missiles and drones at US targets in the Middle East.",
+      "tags": [
+        "iran",
+        "us",
+        "military conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bd5581325043b58a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Lizzo 'grateful' after judge dismisses lawsuit against production company",
+      "url": "https://www.bbc.co.uk/news/articles/c8xk4rl904vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lizzo expressed gratitude and relief after a judge dismissed a lawsuit against her production company, stating she will continue to fight remaining claims. The singer has been involved in legal challenges regarding her professional conduct.",
+      "tags": [
+        "lizzo",
+        "lawsuit",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e0d1ca9d99e2b705",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Madagascar ex-Senate chief sentenced  to hard labour over deadly Gen Z protest crackdown",
+      "url": "https://www.bbc.co.uk/news/articles/cz0z3x4n9ypo?at_medium=RSS&at_campaign=rss",
+      "summary": "Madagascar's former Senate chief has been sentenced to hard labor in connection with a deadly crackdown on Gen Z protests last year, which killed at least 22 and injured over 100 people. This ruling addresses the government's response to the unrest.",
+      "tags": [
+        "madagascar",
+        "protest",
+        "government"
+      ],
+      "priority": false
+    },
+    {
+      "id": "785e7354a6a01ae5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
+      "url": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
+      "summary": "Nepal has intensified its relief and recovery efforts following deadly floods that have resulted in over 1,200 deaths and thousands missing, according to the UN. Aid is being airlifted to affected villages as rescue operations continue.",
+      "tags": [
+        "nepal",
+        "floods",
+        "disaster relief"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7eff6f81eec6bb76",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Remarkable US oil deal puzzles analysts - and angers many Venezuelans",
+      "url": "https://www.bbc.co.uk/news/articles/c93vkgk5e1yo?at_medium=RSS&at_campaign=rss",
+      "summary": "A US oil deal involving 65 billion barrels of crude has perplexed analysts and angered many Venezuelans, with one former envoy labeling it a \"colonialist fever dream.\" The agreement's terms and implications for Venezuela's economy are contentious.",
+      "tags": [
+        "us",
+        "venezuela",
+        "oil"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bb92234f2becb358",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
+      "url": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
+      "summary": "A BBC analysis suggests that Russian President Putin's veiled threats to the UK are part of a broader campaign aimed at unsettling Western nations. Moscow's strategy appears to involve keeping Britain uncertain about its true intentions.",
+      "tags": [
+        "russia",
+        "uk",
+        "geopolitics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "56cc64c48f451ae4",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "South African airline behind daring  stadium stunt cancels next flyby, regulator says",
+      "url": "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o?at_medium=RSS&at_campaign=rss",
+      "summary": "A South African airline has canceled its next planned flyby stunt after the civil aviation authority announced an investigation into its previous aerial display. The regulator is examining the daring stadium stunt that drew public attention.",
+      "tags": [
+        "aviation",
+        "regulation",
+        "south africa"
+      ],
+      "priority": false
+    },
+    {
+      "id": "555a0d8639713d2c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US sailors arrive in Thailand's Pattaya after record 250 days at sea",
+      "url": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Sailors from the USS Abraham Lincoln arrived in Pattaya, Thailand, after a record 250 days at sea. The city is known for its nightlife and sex tourism, which often accompanies such port calls.",
+      "tags": [
+        "navy",
+        "thailand",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "64990ae2ce17d8f6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What we know about reported strike on Iran wedding celebrations",
+      "url": "https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Verify has analyzed footage showing the aftermath of a reported strike on a building in southern Iran, which Iranian media claimed hit a wedding. This investigation seeks to clarify details around the incident described as a \"war crime.\"",
+      "tags": [
+        "iran",
+        "military strike",
+        "investigation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "65387b6dad198d42",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why US troops have a history in this raucous Thai city",
+      "url": "https://www.bbc.co.uk/news/videos/c5yw03jr892o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Jonathan Head explores the historical context of US troops arriving in Pattaya, Thailand, a city known for its racy nightlife. This highlights the enduring presence and impact of military personnel in the beach resort.",
+      "tags": [
+        "thailand",
+        "military",
+        "history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dc2a3f48379f88ff",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Will self-flying planes transform the skies?",
+      "url": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Autonomous crop-spraying aircraft are at the forefront of pilot-free flying technology, indicating a potential future for self-flying planes. This development suggests a transformation in aviation, starting with specialized applications.",
+      "tags": [
+        "aviation",
+        "autonomous tech",
+        "drones"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4296b4f527b0e117",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Woman charged with juror intimidation in Lindsay Clancy trial",
+      "url": "https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Dawn Light has been charged with juror intimidation after allegedly taking photos of jurors outside the Plymouth courthouse during the Lindsay Clancy trial. This practice is prohibited by the court to maintain fairness and security.",
+      "tags": [
+        "legal",
+        "crime",
+        "court"
+      ],
+      "priority": false
+    },
+    {
+      "id": "892474ae9ee25e57",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Commodore 64 released September 1, 1982",
+      "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
+      "summary": "The Commodore 64, a historically significant home computer, was released on September 1, 1982. This marks an anniversary for the influential machine in computing history.",
+      "tags": [
+        "retro tech",
+        "computing",
+        "history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b46f1e23f95e9b3b",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "summary": "Google has released new Gemini models, Gemini 3.8 Flash and 3.8 Flash Cyber, as part of its ongoing development in artificial intelligence. These models aim to provide enhanced capabilities in AI applications.",
+      "tags": [
+        "ai",
+        "google",
+        "machine learning"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2695855e74775588",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Mistral now trains on user input by default, except on enterprise tier",
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "summary": "Mistral has updated its policy, now training its AI models on user input by default, with an opt-out option available only for its enterprise-tier customers. This change affects how user data contributes to the development of their AI systems.",
+      "tags": [
+        "ai",
+        "privacy",
+        "data training"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ecd48d40eb41857b",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+      "url": "https://arxiv.org/abs/2608.29530",
+      "summary": "Research explores the emergent symbolic structure within artificial neural networks, delving into how these complex systems develop internal representations. This study contributes to understanding the foundational mechanisms of AI.",
+      "tags": [
+        "ai",
+        "neural networks",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4676b8d00b526f81",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "summary": "A report indicates that three websites generated over 200,000 \"best software\" pages for AI, which are subsequently cited by AI services like Perplexity. This highlights concerns about AI models potentially relying on manufactured or low-quality content.",
+      "tags": [
+        "ai",
+        "fake news",
+        "content generation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bffaf239bee911d2",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal",
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5952190/chevron-venezuela-oil-deal",
+      "summary": "Chevron, Venezuela's largest foreign oil operator, is set to expand its operations in the country shortly after the US and Venezuela finalized an oil deal. This expansion occurs amidst ongoing political and economic uncertainty within Venezuela.",
+      "tags": [
+        "chevron",
+        "venezuela",
+        "oil"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6f988e4526c9f08b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Greetings from the Royal Pavilion, a stunning reminder of India in southern England",
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5952243/royal-pavilion-brighton-england-architecture-india",
+      "summary": "The Royal Pavilion in Brighton, England, serves as a striking 18th-century architectural reminder of India's cultural influence. This structure exemplifies how British colonizers not only brought their style to India but also adopted elements of Indian design.",
+      "tags": [
+        "architecture",
+        "history",
+        "india"
+      ],
+      "priority": false
+    },
+    {
+      "id": "555fbad21bd28627",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "ICE says it now has enough body cameras. And, Congress averts shutdown before midterms",
+      "url": "https://www.npr.org/2026/09/02/g-s1-141513/up-first-newsletter-iran-war-ice-body-cameras-massachusetts-ed-markey-government-shutdown",
+      "summary": "Immigration and Customs Enforcement (ICE) has announced it now possesses enough body cameras to equip all its agents, improving accountability. Separately, Congress successfully funded the government, preventing a shutdown ahead of the midterm elections.",
+      "tags": [
+        "government",
+        "immigration",
+        "congress"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1bf7d56ec7f6f1df",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "India's prime minister is wooing the Gen Z while cracking down on them",
+      "url": "https://www.npr.org/2026/09/02/g-s1-141512/india-genz-protests",
+      "summary": "India's prime minister is attempting to appeal to Gen Z while simultaneously cracking down on their social media-organized protests. This highlights the ruling party's efforts to adapt to a digitally savvy generation.",
+      "tags": [
+        "india",
+        "politics",
+        "youth"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ca848acde9e58418",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a monthlong lull",
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5954013/us-iran-war-latest-updates",
+      "summary": "Iran has retaliated for US strikes by firing on its Gulf neighbors, ending a month-long lull in hostilities within the six-month war. This conflict has already impacted the global economy, raised oil prices, and created political challenges for President Trump's party.",
+      "tags": [
+        "iran",
+        "us",
+        "military conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7179aec1200e9ba1",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Medical groups offer vaccine guidance to fill federal vacuum",
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5947884/covid-flu-rsv-vaccine-recommendations",
+      "summary": "In the absence of federal recommendations, leading medical groups are issuing their own guidance for COVID-19, flu, and RSV immunizations. This unprecedented situation highlights a gap in public health leadership regarding vaccine advice.",
+      "tags": [
+        "public health",
+        "vaccines",
+        "medical policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "16f08e552c6e5b0c",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "New immigration court tactic leads to huge lines and chaos in Miami",
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5951523/immigration-court-miami-backlog-mega-master",
+      "summary": "A new \"mega master calendar\" tactic in Miami immigration courts, where judges handle over 100 immigrants simultaneously, has led to immense lines and chaotic scenes. This approach aims to address backlogs but has created significant operational challenges.",
+      "tags": [
+        "immigration",
+        "legal",
+        "miami"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3fc6410278e3efda",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "New lawsuits claim OpenAI execs put image ahead of safety in Canadian mass shooting",
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5953021/openai-tumbler-ridge-mass-shooting",
+      "summary": "New lawsuits allege that OpenAI executives prioritized the company's public image over safety by rejecting recommendations to alert police about the alleged Tumbler Ridge shooter. OpenAI denies these claims, which involve its global affairs team.",
+      "tags": [
+        "openai",
+        "ai",
+        "lawsuit"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d6a3605ab681b6e6",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Understanding the tech giants' oversized influence in American schools",
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5953878/understanding-the-tech-giants-oversized-influence-in-american-schools",
+      "summary": "Tech giants like Apple and Microsoft exert significant influence in American schools by embedding their devices, training programs, and conferences for teachers and students. Natasha Singer discusses this impact in \"Coding Kids.\"",
+      "tags": [
+        "education",
+        "tech companies",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ca608d77b79298ab",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "JD Vance courts Jewish Republicans. Tucker Carlson still looms.",
+      "url": "https://www.politico.com/news/2026/09/01/republican-jewish-coalition-jd-vance-tucker-carlson-01060877",
+      "summary": "Vice President JD Vance addressed Jewish Republicans, largely appeasing concerns about his support for the US-Israeli relationship but failing to fully distance himself from Tucker Carlson, who has drawn ire for his criticism of Israel. Vance's nuanced response left some attendees questioning his stance on figures accused of platforming antisemites.",
+      "tags": [
+        "politics",
+        "republicans",
+        "jd vance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "39b84d27e1deaed7",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Republicans aren’t exactly flocking to Trump’s midterm convention",
+      "url": "https://www.politico.com/news/2026/09/02/gop-midterm-convention-attendance-01061286",
+      "summary": "Many Republican candidates and members are opting out of President Trump's midterm convention in Dallas, citing prior obligations, personal conflicts, or high five-figure attendance fees. Some in tough races are hesitant to associate closely with the polarizing president ahead of elections, especially amidst concerns about his approval ratings.",
+      "tags": [
+        "politics",
+        "trump",
+        "republicans"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7d65fa34b088e35a",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Susan Collins on Trump, tariffs and the state of her senate race over Maine lobsters",
+      "url": "https://www.politico.com/video/2026/09/02/susan-collins-on-trump-tariffs-and-her-fight-for-maine-2156176",
+      "summary": "Senator Susan Collins discussed topics including President Trump, tariffs, and her Senate race while enjoying Maine lobsters. The video likely covers her political views and campaign strategy.",
+      "tags": [
+        "politics",
+        "tariffs",
+        "senate"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1db5c6cbe36307f2",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Trump invites battleground Republicans to Rose Garden dinner",
+      "url": "https://www.politico.com/news/2026/09/02/trump-invites-battleground-republicans-to-rose-garden-dinner-01061406",
+      "summary": "President Trump has invited battleground Republican lawmakers to a Rose Garden dinner to press them on unleashing his significant campaign funds ahead of November elections. Republicans face headwinds from the Iran war, high gas prices, and new tariffs.",
+      "tags": [
+        "politics",
+        "trump",
+        "republicans"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3ec4c2b281a304ca",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "Genome Duplication Is a Radical Evolutionary Gamble",
+      "url": "https://www.quantamagazine.org/genome-duplication-is-a-radical-evolutionary-gamble-20260902/",
+      "summary": "The tiny gastropod Potamopyrgus antipodarum, found in New Zealand, carries a significant evolutionary secret: its genome recently doubled. This radical event involves having two sets of chromosomes and two copies of every gene, highlighting a major evolutionary gamble.",
+      "tags": [
+        "biology",
+        "evolution",
+        "genetics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3e7c5de1666a98c6",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
+      "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+      "summary": "Anthropic has updated Claude's system prompts to explicitly prevent the AI from reproducing copyrighted content like song lyrics or characters, likely in response to recent lawsuits. The updated guidelines also tweak Claude's conversational style and approach to abusive interactions.",
+      "tags": [
+        "ai",
+        "copyright",
+        "anthropic"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e6fae4bff2b0cb15",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Codex bundles LibreOffice",
+      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+      "summary": "The OpenAI Codex desktop app, now rebranded as ChatGPT, includes a significant bundle of software components, such as a full Python, Node.js, and LibreOffice installation, totaling 1.7GB. These bundled runtimes and plugins enable Codex to utilize various binaries.",
+      "tags": [
+        "openai",
+        "chatgpt",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9be9ff10abec69e1",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "GeoJSON Map Viewer",
+      "url": "https://simonwillison.net/2026/Sep/1/geojson/",
+      "summary": "A new GeoJSON Map Viewer tool was developed through iterations with GPT-5.6-Sol, Claude Code, and Fable 5.1, enabling users to display GeoJSON files and export them as PNGs. ChatGPT Work was also used to generate specific political boundary polygons.",
+      "tags": [
+        "mapping",
+        "ai",
+        "tools"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7f0295e06635315d",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Rick Brewster",
+      "url": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
+      "summary": "Rick Brewster, author of Paint.NET, detailed how his application now includes an internal, clean-room reverse-engineered rewrite of Direct2D for WINE, primarily developed by Claude (an AI). He noted the AI's impressive work on complex formulas but also the need for significant human oversight in areas like resource management.",
+      "tags": [
+        "ai",
+        "software development",
+        "reverse engineering"
+      ],
+      "priority": false
+    },
+    {
+      "id": "560cbe08537027b3",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "An easy way to give kids more freedom",
+      "url": "https://www.slowboring.com/p/an-easy-way-to-give-kids-more-freedom",
+      "summary": "The author advocates for Apple to allow kids of all ages to load digital mass-transit passes onto their Apple Watches, noting that the current restriction for those under 13 limits children's autonomy. This change would leverage smart tech features for children's independence, reflecting an ethos beyond pure ROI.",
+      "tags": [
+        "parenting",
+        "technology",
+        "apple"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bacf7f3d54ec119c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Adobe acquires Indian market intelligence startup Rilo",
+      "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+      "summary": "Adobe has acquired Rilo, an Indian market intelligence startup, marking its second acquisition from India after Rephrase.ai in 2023. This move likely strengthens Adobe's capabilities in market analytics and artificial intelligence.",
+      "tags": [
+        "adobe",
+        "acquisition",
+        "market intelligence"
+      ],
+      "priority": false
+    },
+    {
+      "id": "90fb5dce67b00129",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Adobe is making its tools available in Slack",
+      "url": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/",
+      "summary": "Adobe is integrating its popular creative tools, including Express, Premiere, and Acrobat, directly into the Slack communication platform. This integration will allow users to access and utilize Adobe functionalities without leaving their Slack workspaces.",
+      "tags": [
+        "adobe",
+        "slack",
+        "integration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d477bbed232f280f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "summary": "AI model-training startup AfterQuery has reportedly achieved unicorn status, valued at $3.2 billion, in just five months, making it Y Combinator's fastest ever unicorn. This rapid growth follows a $30 million Series A funding round at a $300 million valuation in April.",
+      "tags": [
+        "ai",
+        "startup",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e467574fc895d81d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
+      "url": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
+      "summary": "Apple Maps is reportedly adopting President Trump's executive order to rename Lake Ontario as Lake America. This follows a similar action attributed to Google, reflecting a controversial name change.",
+      "tags": [
+        "apple",
+        "google",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fb798264b0a2fe69",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Enhanced geothermal notches another win as Google buys 400 MW from Fervo",
+      "url": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
+      "summary": "Google has purchased 400 MW of enhanced geothermal power from Fervo, marking another success for the renewable energy technology. This deal has the potential to expand to 1 gigawatt, enough to power a very large AI data center in Utah.",
+      "tags": [
+        "energy",
+        "geothermal",
+        "google"
+      ],
+      "priority": false
+    },
+    {
+      "id": "58515a4c5c951096",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+      "summary": "Google's latest Android update introduces various improvements, addressing motion sickness and enhancing accessibility features for users. Some of these features see Google catching up to Apple, while others leverage Gemini for unique advancements.",
+      "tags": [
+        "android",
+        "google",
+        "software update"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f11b0ffba65fbead",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+      "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+      "summary": "India's wealthiest individual is reportedly embarking on an initiative to transform older computers into AI-ready PCs for as little as $11 for two months. This venture, spearheaded by Jio, aims to make AI technology more accessible.",
+      "tags": [
+        "ai",
+        "india",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9b5ff2fb872ae3ca",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Larry Page’s flying car company Pivotal loses its CEO",
+      "url": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
+      "summary": "Pivotal, Larry Page's flying car company, announced that its CEO is departing to pursue new endeavors, with an aviation executive stepping in as interim replacement. This marks a leadership change for the company focused on personal aircraft.",
+      "tags": [
+        "aviation",
+        "startup",
+        "ceo change"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f986662107de6265",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Norway considers ban on camera-enabled wearable ‘pervert glasses’",
+      "url": "https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/",
+      "summary": "Norway is contemplating a ban on camera-enabled wearable glasses, citing significant privacy risks associated with such devices. The Nordic country seeks to regulate these \"pervert glasses\" to protect individual privacy.",
+      "tags": [
+        "privacy",
+        "wearables",
+        "regulation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0d4ad55d88272e4f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+      "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+      "summary": "OpenAI is facing 30 additional lawsuits filed by Edelson PC related to the Tumbler Ridge shooting, alleging aiding and abetting. These cases escalate claims, also naming Chris Lehane, although evidence remains unconfirmed.",
+      "tags": [
+        "openai",
+        "ai",
+        "lawsuit"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5f73913ed006398b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "summary": "OpenAI has previewed its new cyber-critical LLM, Astra, highlighting the precautions being taken before its release due to its advanced ability to break into computer systems. This model is expected to be highly capable but also poses significant security considerations.",
+      "tags": [
+        "openai",
+        "ai",
+        "cybersecurity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d1ab1bba6322747f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+      "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+      "summary": "The internet faces a growing trust problem as AI-generated text and images proliferate across various applications, making it difficult for platforms and users to discern authenticity. Startups are emerging to address the challenge of AI content detection.",
+      "tags": [
+        "ai",
+        "fake news",
+        "cybersecurity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a72e07ac554c75e1",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+      "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+      "summary": "Amazon is integrating a new scam-detection feature into Alexa for Shopping, enabling the AI to verify the authenticity of suspicious emails, texts, and other messages claiming to be from the retailer. This aims to protect consumers from fraudulent communications.",
+      "tags": [
+        "amazon",
+        "ai",
+        "security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "529e6d3c275d1429",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Uber is laying off 10% of staff, or 3,300 people",
+      "url": "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/",
+      "summary": "Uber is implementing layoffs impacting approximately 3,300 employees, or 10% of its global workforce, as part of a strategy to streamline management layers. The company plans to reallocate resources to invest more heavily in its core ridesharing, delivery, and robotaxi divisions.",
+      "tags": [
+        "uber",
+        "layoffs",
+        "tech industry"
+      ],
+      "priority": false
+    },
+    {
+      "id": "71ebb32642cfc746",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "summary": "The U.S. government has filed a brief supporting OpenAI in the context of training large language models (LLMs) on copyrighted material, emphasizing the national interest in developing a robust and competitive AI industry. This stance aligns with OpenAI's position on fair use in its ongoing lawsuit with The New York Times.",
+      "tags": [
+        "ai",
+        "copyright",
+        "openai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c2f2382f969f228c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+      "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+      "summary": "Wonderful, a company that develops products, has seen its valuation more than double to $5 billion in less than six months after a $550 million Series C funding round. The funding will be used to accelerate product development, expand engineering teams, and meet market demand.",
+      "tags": [
+        "startup",
+        "funding",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cd0e5250fe06d122",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "X says attackers are targeting user accounts after the launch of X Money",
+      "url": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
+      "summary": "X is investigating a surge of unsolicited password reset emails targeting user accounts, which the company believes may be linked to the recent rollout of its new X Money payments service. This indicates potential security vulnerabilities following the platform's payment system launch.",
+      "tags": [
+        "x",
+        "cybersecurity",
+        "data breach"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ff68cacd90df0046",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "X shifts US creator payouts from Stripe to X Money",
+      "url": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
+      "summary": "X (formerly Twitter) has announced that all US creator payouts will now be processed through its proprietary X Money payments service. This change signals a move away from the previous Stripe-powered payout system for creators on the platform.",
+      "tags": [
+        "x",
+        "payments",
+        "creators"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0d693e37274ad38b",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Douglas Murray: 9/11 and the War on the Truth",
+      "url": "https://www.thefp.com/p/douglas-murray-911-war-on-truth",
+      "summary": "Douglas Murray argues that the West remains at war with radical Islam, coinciding with a separate conflict over the truth of the 9/11 attacks, as conspiracy theories gain new traction. He urges remembering 9/11 to refute distortions and clearly state the facts for a new generation.",
+      "tags": [
+        "9/11",
+        "conspiracy theories",
+        "history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e2cc2f9f5cc1a709",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Rod Dreher: The Once and Future Wisdom of Wendell Berry",
+      "url": "https://www.thefp.com/p/rod-dreher-wendell-berry-wisdom-community",
+      "summary": "Rod Dreher reflects on the legacy of writer Wendell Berry, portraying him as a \"small-c conservative\" who championed traditional human decencies against modern material progress. Berry's appeal to \"crunchy conservatives\" stemmed from his sacramental vision of life, challenging both mainstream Democrats and Republicans.",
+      "tags": [
+        "philosophy",
+        "conservatism",
+        "literature"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6981dfc84f2a7817",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Army Needs Good Leaders. Why Is Hegseth Firing Them?",
+      "url": "https://www.thefp.com/p/the-army-needs-good-leaders-why-is",
+      "summary": "Dan Driscoll resigned as Secretary of the Army, seen by many as a steadying influence amidst Secretary of Defense Pete Hegseth's erratic leadership, which included firing generals and meddling in promotions. Driscoll's departure is significant as the U.S. relaunches strikes against Iran, raising concerns about the integrity of military leadership.",
+      "tags": [
+        "military",
+        "leadership",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c60dd89436453b4b",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "How Do We Know What We Want: Milan Kundera on the Central Ambivalences of Life and Love",
+      "url": "https://www.themarginalian.org/2026/09/01/milan-kundera-unbearable-lightness-of-being/",
+      "summary": "Milan Kundera's novel, \"The Unbearable Lightness of Being,\" explores the central ambivalences of life and love, particularly the human predicament of not knowing what to want because we live only once. The book delves into how choices, especially in love, are made without comparison or rehearsal, their rightness only clear in hindsight.",
+      "tags": [
+        "philosophy",
+        "literature",
+        "life"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c7ff4c2c21f353f4",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Continuous glucose monitors are about to get more complicated",
+      "url": "https://www.theverge.com/column/988242/optimizer-abbott-libre-duo-ketones-diabetic-ketoacidosis",
+      "summary": "The Abbott Libre Duo is the first FDA-authorized 2-in-1 continuous glucose monitor, indicating a trend toward more complex health monitoring devices. This development comes as the \"Optimizer\" newsletter discusses new gizmos and potions intended to change lives.",
+      "tags": [
+        "health tech",
+        "medical devices",
+        "fda"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b75e7681e008b1da",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Google dodges another breakup attempt",
+      "url": "https://www.theverge.com/policy/988316/google-ad-tech-antitrust-remedies-decision",
+      "summary": "US District Court Judge Leonie Brinkema rejected the Justice Department's request to force Google to sell parts of its ad tech business, opting for milder remedies to restore market competition. The judge indicated most proposed behavioral changes would be adopted, with specifics to be released later.",
+      "tags": [
+        "google",
+        "antitrust",
+        "advertising"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9955a7af4a1e8daf",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "NYC bans AI use for students until they reach high school",
+      "url": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
+      "summary": "New York City Mayor Zohran Mamdani announced a one-year moratorium banning AI use for public school students from 2-K through eighth grade, effective for the 2026-2027 school year. The policy also prohibits teachers from using AI tools for grading assignments and is accompanied by a small pilot program for AI education.",
+      "tags": [
+        "education",
+        "ai",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6248a2355263b930",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+      "summary": "OpenAI and CEO Sam Altman face 30 new lawsuits from Tumbler Ridge school shooting victims, accusing them of providing \"substantial assistance and encouragement\" to the alleged shooter. These lawsuits echo previous claims that OpenAI failed to act on ChatGPT conversations about gun violence.",
+      "tags": [
+        "openai",
+        "ai",
+        "lawsuit"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7abf0556bbccc3a9",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+      "summary": "The Trump administration has sided with OpenAI in The New York Times' copyright lawsuit, arguing that training AI models on copyrighted text constitutes fair use. This intervention supports OpenAI's defense against allegations of unlawfully using Times articles for AI system training.",
+      "tags": [
+        "ai",
+        "copyright",
+        "openai"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 105,
+    "summarized": 76,
+    "skipped_promos": 3,
+    "filtered_by_rules": 26,
+    "sources": 12,
+    "email_items_omitted": 0
+  }
+}
