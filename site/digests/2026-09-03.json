@@ -1,0 +1,1120 @@
+{
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T17:25:42+00:00",
+  "hot_topics": [
+    {
+      "topic": "Nvidia Acquires Hugging Face",
+      "synthesis": "Nvidia has announced its $13 billion acquisition of Hugging Face, a prominent AI model platform serving as a repository for millions of open AI models and datasets. This strategic move aims to accelerate the spread of open AI systems and bolster Nvidia's influence and control within the burgeoning AI industry. The deal underscores the chip giant's commitment to leveraging its financial power to shape the future of artificial intelligence.",
+      "item_ids": [
+        "e8f6feebe3a2f4fe",
+        "862b900550a3ae1f",
+        "4420f4ffd615ebcf"
+      ]
+    },
+    {
+      "topic": "The Passing of Gloria Steinem",
+      "synthesis": "Renowned feminist activist and journalist Gloria Steinem passed away peacefully at the age of 92. A trailblazer in the women's rights movement, Steinem dedicated her life to challenging gender stereotypes and championing ideals such as equality, sisterhood, and reproductive freedom. Her activism profoundly influenced generations of women, despite facing considerable backlash throughout her career.",
+      "item_ids": [
+        "aed69bf5bd0d4281",
+        "28d2a7956f7ecc63",
+        "664ca73dd70690eb"
+      ]
+    },
+    {
+      "topic": "Google Releases Gemini 3.8 Flash",
+      "synthesis": "Google has introduced Gemini 3.8 Flash, its third Flash model release in just six weeks, alongside a specialized Cyber variant for vulnerability detection. This new version offers enhanced reasoning and coding capabilities, maintaining a focus on speed and affordability with introductory API rates. The rapid releases demonstrate Google's continuous effort to expand its Gemini AI offerings for developers and specialized applications.",
+      "item_ids": [
+        "4b4229fcd0b7492f",
+        "9321f1150a617c48"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "68aa625b06650aca",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Neuroqueering on the lawn",
+      "url": "https://aeon.co/essays/neuroqueer-expression-and-the-limits-of-social-tolerance",
+      "summary": "Hans Christian Andersen's tantrum in Charles Dickens's garden is presented as an example of \"too muchness,\" where emotions exceeded societal expectations. This analysis explores neuroqueer expression and the limitations of social tolerance.",
+      "tags": [
+        "psychology",
+        "culture",
+        "history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8753f0bc1b539236",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "FCC plans robocall scorecard to grade phone companies on spam call blocking",
+      "url": "https://arstechnica.com/tech-policy/2026/09/fcc-plans-robocall-scorecard-to-grade-phone-companies-on-spam-call-blocking/",
+      "summary": "The FCC plans to create a robocall mitigation scorecard, rating phone companies on their effectiveness in blocking illegal spam calls. This scorecard will use statistics on call-blocking, customer complaints, and enforcement actions to assess providers.",
+      "tags": [
+        "fcc",
+        "robocalls",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4b4229fcd0b7492f",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+      "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+      "summary": "Google released Gemini 3.8 Flash, its latest AI model variant, including a Cyber version tuned for vulnerability detection. This marks Google's third Flash model release in six weeks, offering improved reasoning and coding capabilities at an introductory API rate.",
+      "tags": [
+        "google",
+        "gemini",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e8f6feebe3a2f4fe",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+      "url": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
+      "summary": "Nvidia agreed to acquire AI model platform Hugging Face for $13 billion to accelerate open AI model adoption and exert greater industry control. Hugging Face serves as a major repository for open AI models and datasets.",
+      "tags": [
+        "nvidia",
+        "hugging face",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "420fa19ea32bdfd1",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
+      "url": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
+      "summary": "Four federal agencies face a lawsuit demanding the release of information about the Trump administration's secret framework for conducting AI model safety reviews. A nonpartisan nonprofit alleges a lack of public or congressional details regarding the process, involved companies, or legal authority.",
+      "tags": [
+        "ai",
+        "policy",
+        "transparency"
+      ],
+      "priority": false
+    },
+    {
+      "id": "81888d85c49a0ad3",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Trump’s 100% tariff on drones will be disaster for the US, critics warn",
+      "url": "https://arstechnica.com/tech-policy/2026/09/trumps-100-drone-tariff-has-cops-and-firefighters-panicking/",
+      "summary": "The Trump administration imposed a 100 percent tariff on foreign-made drones using thermal imaging or weighing over 55 pounds, with critics warning of harm to public safety and US businesses. Smaller tariffs were also applied to drones from US allies and nonsensitive drones.",
+      "tags": [
+        "tariffs",
+        "drones",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "89bd00596e2089f5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'Beautiful, vibrant' Disney star Carla Jeffery dies aged 33",
+      "url": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&at_campaign=rss",
+      "summary": "Disney star Carla Jeffery, known for her role as cheerleader Bree in the \"Zombies\" movie series, has died at the age of 33. She was remembered as a \"beautiful, vibrant\" talent.",
+      "tags": [
+        "obituary",
+        "entertainment",
+        "disney"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e9f6b426598f09c2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media",
+      "url": "https://www.bbc.co.uk/news/articles/ckg8lw7n2ddo?at_medium=RSS&at_campaign=rss",
+      "summary": "Deadly rumors, including accusations of genital theft, are spreading on social media, leading to mob violence that has killed over 80 people across six African nations. This highlights the severe real-world consequences of misinformation online.",
+      "tags": [
+        "social media",
+        "misinformation",
+        "violence"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3c935614f13d4c4f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Another White House renovation? A look at Trump's new helipad",
+      "url": "https://www.bbc.co.uk/news/videos/cdx02dw785vo?at_medium=RSS&at_campaign=rss",
+      "summary": "A new helipad is being installed at the White House, marking the first such facility on the property, though critics argue it alters the historic grounds. This renovation is attributed to former President Trump.",
+      "tags": [
+        "white house",
+        "trump",
+        "infrastructure"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4d52f2128103dfb2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
+      "url": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo?at_medium=RSS&at_campaign=rss",
+      "summary": "During a trial in Nigeria, it was heard that Anthony Joshua's driver, Adeniyi Mobolaji Kayode, attempted an overtake prior to a fatal crash. Kayode is facing charges including causing death by dangerous driving.",
+      "tags": [
+        "crime",
+        "trial",
+        "nigeria"
+      ],
+      "priority": false
+    },
+    {
+      "id": "64800a68aeabbeca",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
+      "url": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Channel smuggling gangs are now using \"mega-dinghies\" and collaborating due to a crackdown reducing the supply of smaller boats. This shift indicates an adaptation by criminal groups to intensified enforcement efforts.",
+      "tags": [
+        "smuggling",
+        "migration",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "94f6c8ffdf7d06d0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Could Lindsay Clancy trial end in a mistrial? Here are the jury's options",
+      "url": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
+      "summary": "Jurors in the Lindsay Clancy trial, where she is charged with murdering her three children, have five options for their verdict, raising the possibility of a mistrial. The complexity of the case presents a challenging decision for the jury.",
+      "tags": [
+        "trial",
+        "crime",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2f6220b96387102e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Embattled Spanish PM insists there were no prior warnings before Ceuta crisis",
+      "url": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Spanish Prime Minister Pedro Sánchez asserted to parliament that his government received no prior warnings before the Ceuta crisis, refuting claims of foreknowledge. His statement comes after thousands protested in Spanish cities following the crisis.",
+      "tags": [
+        "spain",
+        "politics",
+        "migration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "aed69bf5bd0d4281",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
+      "url": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trailblazing feminist activist and journalist Gloria Steinem died peacefully at age 92 in her New York City home. Her passing marks the end of an era for a prominent figure in the women's rights movement.",
+      "tags": [
+        "gloria steinem",
+        "feminism",
+        "obituary"
+      ],
+      "priority": false
+    },
+    {
+      "id": "28d2a7956f7ecc63",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How Gloria Steinem changed the lives of generations of women",
+      "url": "https://www.bbc.co.uk/news/articles/cqv5wxyp5xwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Gloria Steinem, a trailblazing feminist, advocated for abortion legalization, same-sex marriage, and equal pay, influencing generations of women despite facing backlash. Her activism significantly shaped the women's rights movement.",
+      "tags": [
+        "gloria steinem",
+        "feminism",
+        "activism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6036cf26bc39f004",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Kenyan president orders crackdown on foreigners operating small businesses",
+      "url": "https://www.bbc.co.uk/news/articles/c9861x5pzgxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Kenyan president has ordered a crackdown on foreigners running small businesses amid concerns about the increasing number of traders from neighboring countries. This directive aims to address perceived economic competition and enforce local regulations.",
+      "tags": [
+        "kenya",
+        "business",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2bcf425007f14101",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "LA Clippers fined $30m over Leonard pay scandal",
+      "url": "https://www.bbc.co.uk/sport/basketball/articles/czjze2jj8dro?at_medium=RSS&at_campaign=rss",
+      "summary": "The NBA fined the LA Clippers $30 million for violating salary rules by funneling millions of dollars to star player Kawhi Leonard. This substantial penalty addresses breaches in the league's financial regulations.",
+      "tags": [
+        "nba",
+        "basketball",
+        "sports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7b2e8f5ba6d4f604",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Liechtenstein MPs vote to legalise abortion despite threat of veto",
+      "url": "https://www.bbc.co.uk/news/articles/c9dwedep38po?at_medium=RSS&at_campaign=rss",
+      "summary": "Liechtenstein's MPs voted to legalize abortion, despite a potential veto from the monarch, who has stated opposition to the legislation. Organizers of the citizens' initiative claim popular support for the measure.",
+      "tags": [
+        "liechtenstein",
+        "abortion",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "adecab389171830d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Maltese tycoon acquitted of orchestrating murder of renowned journalist",
+      "url": "https://www.bbc.co.uk/news/articles/c5ye295pxgxo?at_medium=RSS&at_campaign=rss",
+      "summary": "A Maltese tycoon has been acquitted of orchestrating the 2017 car bomb murder of Daphne Caruana Galizia, a journalist who exposed corruption and money laundering. The verdict comes years after her assassination.",
+      "tags": [
+        "malta",
+        "crime",
+        "journalism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1a54b1ccf1b5d705",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "More than 80 migrants feared dead after boat rescued off Canary Islands",
+      "url": "https://www.bbc.co.uk/news/articles/c33kzv7kly4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Rescuers saved 44 survivors from a migrant boat off the Canary Islands, but over 80 people are feared dead, with five bodies left behind due to bad weather. This tragic incident highlights the dangers faced by migrants at sea.",
+      "tags": [
+        "migration",
+        "tragedy",
+        "spain"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3824af61f6a83af7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Palestinian officials report that two teenagers were killed during a settler attack on a West Bank village while trying to stop sheep theft. The Israeli military, however, stated the teens threw stones at its troops.",
+      "tags": [
+        "palestine",
+        "israel",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1fedab751ae71e36",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Rocky Horror star Tim Curry's cause of death revealed as coronary artery disease",
+      "url": "https://www.bbc.co.uk/news/articles/cy8z7wypzqxo?at_medium=RSS&at_campaign=rss",
+      "summary": "British actor Tim Curry, renowned for his role in \"Rocky Horror,\" died from coronary artery disease, as stated on his death certificate in Los Angeles County. His death certificate also cited other significant conditions.",
+      "tags": [
+        "obituary",
+        "entertainment",
+        "health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "65ba9b5cc662df30",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Sharpeville massacre survivors start legal fight for justice in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/c1mvll11ll5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Survivors of the 1960 Sharpeville massacre in South Africa, where at least 69 people were shot dead, have initiated a legal battle for justice. No one has been prosecuted for the killings, and victims are now seeking restitution.",
+      "tags": [
+        "south africa",
+        "history",
+        "justice"
+      ],
+      "priority": false
+    },
+    {
+      "id": "57163c8c8e618673",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Stingy bosses and spare change: How much should you give to the office whip-round?",
+      "url": "https://www.bbc.co.uk/news/articles/c2el0v48v0xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Office whip-rounds for various occasions are a common workplace feature that often raises awkward questions about appropriate contribution amounts. The article explores the social dynamics and dilemmas surrounding these collections.",
+      "tags": [
+        "workplace",
+        "culture",
+        "etiquette"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6c8406c677465f74",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Sydney police investigate second possible mistaken identity killing in two days",
+      "url": "https://www.bbc.co.uk/news/articles/c23x4yd9zz2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Sydney police are investigating a second possible mistaken identity killing in two days, following the fatal shooting of a man in his 40s. This incident follows a university student being gunned down the previous day.",
+      "tags": [
+        "australia",
+        "crime",
+        "police"
+      ],
+      "priority": false
+    },
+    {
+      "id": "328137faeb365d5d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies",
+      "url": "https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&at_campaign=rss",
+      "summary": "As a \"super\" El Niño intensifies, toxic wildfire haze has spread across Southeast Asia, exposing millions to smog and causing respiratory issues for over 12,000 children. This environmental crisis highlights the severe regional impact of the weather phenomenon.",
+      "tags": [
+        "wildfire",
+        "pollution",
+        "el niño"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ed25cfae3c23a5a3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump $1 coin makes him first living president on US currency in a century",
+      "url": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
+      "summary": "A US Mint special edition $1 coin featuring a portrait of Donald Trump has been issued, making him the first living president depicted on US currency in a century. The coin includes \"LIBERTY\" and \"IN GOD WE TRUST\" alongside his image.",
+      "tags": [
+        "trump",
+        "currency",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b6f63b560f8ca02d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
+      "url": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The World Meteorological Organization (WMO) warned that a \"supersized\" El Niño could cause significant disruption to global economies. Countries are bracing for the potential widespread impacts of this natural weather phenomenon.",
+      "tags": [
+        "el niño",
+        "climate",
+        "global economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a890b04c1d21768b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US man struck by lightning describes 'horrific' experience",
+      "url": "https://www.bbc.co.uk/news/videos/cz7z93zde3po?at_medium=RSS&at_campaign=rss",
+      "summary": "Thomas Fahmy, a US man, described his \"horrific\" experience of being struck by lightning, recalling a bright white flash and instantly falling to the ground. He shared his survival story after the traumatic event.",
+      "tags": [
+        "weather",
+        "accident",
+        "personal story"
+      ],
+      "priority": false
+    },
+    {
+      "id": "86d89305844dbb28",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US sailors go shopping before hitting the bars in Thailand after 250-day voyage",
+      "url": "https://www.bbc.co.uk/news/articles/cj9x2k8n3y1o?at_medium=RSS&at_campaign=rss",
+      "summary": "US sailors from a 250-day voyage visited Pattaya, Thailand, for shopping and entertainment, standing out with their military appearance among the local crowd. This stop marked a period of shore leave after an extended deployment.",
+      "tags": [
+        "us military",
+        "thailand",
+        "travel"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a313a2a7dfb76b2b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Vance's Antichrist comments are a 'common belief', his friend tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o?at_medium=RSS&at_campaign=rss",
+      "summary": "A friend of US Vice-President Vance told the BBC that Vance's recent comments musing about the end of the world and the Antichrist reflect a \"common belief.\" This statement follows Vance's discussion with a Christian podcast host.",
+      "tags": [
+        "politics",
+        "religion",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b2fc45e79ebf1710",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Who is Alejandro Betancourt, colourful oil baron behind US-Venezuela oil deal?",
+      "url": "https://www.bbc.co.uk/news/articles/cyvze0n4vy1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Alejandro Betancourt, a 46-year-old oil baron, is identified as a figure of international intrigue with a knack for timely opportunities, involved in a US-Venezuela oil deal. His profile suggests a significant role in complex geopolitical and economic arrangements.",
+      "tags": [
+        "venezuela",
+        "us",
+        "oil"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c01ca9d510714d37",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": ".name Termination",
+      "url": "https://neil.fraser.name/news/2026/09/03/",
+      "summary": "The .name top-level domain is facing termination, as indicated by an article detailing the implications and discussions around its discontinuation. This development impacts users and services associated with the .name domain.",
+      "tags": [
+        "internet",
+        "domains",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "36516577d925bd91",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Audacity 4.0",
+      "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+      "summary": "Audacity 4.0 has been released, marking a new major version for the popular open-source audio editor. This update likely includes significant new features, improvements, and bug fixes for users.",
+      "tags": [
+        "software",
+        "audio editor",
+        "open source"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5e83281eed33e65b",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Muse Spark 1.3",
+      "url": "https://developer.meta.com/ai/models/muse-spark/",
+      "summary": "Muse Spark 1.3 has been released, according to developer.meta.com, indicating an update to Meta's AI models. This release likely brings enhancements and new capabilities to the Muse Spark series for AI development.",
+      "tags": [
+        "meta",
+        "ai",
+        "llm"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4420f4ffd615ebcf",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Nvidia to Acquire Hugging Face",
+      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+      "summary": "Nvidia announced its acquisition of Hugging Face, an AI platform widely used by developers for over 3 million models, underscoring Nvidia's strategic investment in the AI ecosystem. This move aims to strengthen its position in the rapidly evolving AI industry.",
+      "tags": [
+        "nvidia",
+        "hugging face",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c59f214bf6c99ead",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Pre-Release of Polars 2.0",
+      "url": "https://pola.rs/posts/announcing-polars-2/",
+      "summary": "Polars 2.0 has been announced as a pre-release, indicating an upcoming major update for the high-performance data manipulation library. This pre-release allows users to explore new functionalities and changes before the official launch.",
+      "tags": [
+        "data science",
+        "software",
+        "programming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "490564da9f0b17b4",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "An epic train chase is turning 100 — and Buster Keaton fans are celebrating",
+      "url": "https://www.npr.org/2026/09/03/nx-s1-5921324/the-general-buster-keaton-anniversary",
+      "summary": "Fans are celebrating the 100th anniversary of Buster Keaton's silent film \"The General\" in Cottage Grove, Oregon, where it was filmed. The centennial includes a conference, look-alike contest, and 1920s costume party.",
+      "tags": [
+        "film",
+        "history",
+        "celebration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "65127603ed1f6703",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "As millions of kids lose SNAP food benefits, free school meals are also at risk",
+      "url": "https://www.npr.org/2026/09/03/nx-s1-5954205/snap-food-free-school-lunch-usda",
+      "summary": "Millions of children are losing SNAP food benefits, which directly link to other critical resources like free school meals, now putting these programs at risk. Experts observe this connection breaking, impacting food security for many.",
+      "tags": [
+        "snap",
+        "food security",
+        "education"
+      ],
+      "priority": false
+    },
+    {
+      "id": "664ca73dd70690eb",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Gloria Steinem, trailblazing journalist and activist, dies at 92",
+      "url": "https://www.npr.org/2026/09/03/nx-s1-5718381/gloria-steinem-dies",
+      "summary": "Gloria Steinem, the trailblazing journalist and activist, passed away at 92, remembered for challenging gender stereotypes and championing feminist ideals. She dedicated her life to equality, sisterhood, and reproductive freedom.",
+      "tags": [
+        "gloria steinem",
+        "feminism",
+        "obituary"
+      ],
+      "priority": false
+    },
+    {
+      "id": "89cd52868b56aad6",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Inside the failed mission to eliminate FEMA",
+      "url": "https://www.npr.org/2026/09/03/nx-s1-5943052/fema-trump-flood-wildfire-hurricane-disaster",
+      "summary": "David Richardson, former FEMA leader, revealed the Trump administration's abandoned goal to eliminate the country's top disaster agency. Richardson previously worked to dismantle FEMA but now states the administration has given up on that objective.",
+      "tags": [
+        "fema",
+        "trump",
+        "disaster response"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d51ba3f3090668b3",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Morning News Brief",
+      "url": "https://www.npr.org/2026/09/03/nx-s1-5947221/morning-news-brief",
+      "summary": "This morning news brief covers an exodus of military leadership in the Pentagon, Trump's Venezuela oil deal under scrutiny, and a deadlocked jury in the Lindsay Clancy trial. It highlights key political, international, and legal developments.",
+      "tags": [
+        "news",
+        "politics",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "60527daa761f36a8",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Veteran political journalist on division among Democrats over democratic socialism",
+      "url": "https://www.npr.org/2026/09/03/nx-s1-5910644/veteran-political-journalist-on-division-among-democrats-over-democratic-socialism",
+      "summary": "CNN senior political analyst Ron Brownstein discussed the ongoing division within the Democratic Party regarding its embrace of democratic socialism. His insights shed light on internal ideological debates affecting the party's direction.",
+      "tags": [
+        "democrats",
+        "politics",
+        "socialism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6a7010623bab4227",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Xi visits Egypt as China seeks deeper influence across the Mideast",
+      "url": "https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt",
+      "summary": "Chinese President Xi Jinping visited Egypt, marking his first trip in a decade, to deepen China's influence across the Middle East. This visit underscores China's growing ambitions amid weakened U.S. influence in the region due to its war in Iran.",
+      "tags": [
+        "china",
+        "egypt",
+        "geopolitics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4f231db0744c3c96",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Elon Musk unleashes first wave of spending on key races in the midterms",
+      "url": "https://www.politico.com/news/2026/09/02/elon-musk-spending-key-races-midterms-01063146",
+      "summary": "Elon Musk's super PAC disclosed its first independent expenditures of approximately $800,000 for the 2026 general election, targeting key House and Senate races, predominantly in Texas. This marks Musk's initial major investment to support Republicans in the midterms, potentially expanding the GOP's financial advantage.",
+      "tags": [
+        "elon musk",
+        "politics",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b14f12750fd93502",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "In an Age of AI, a Physicist Seeks What Endures",
+      "url": "https://www.quantamagazine.org/in-an-age-of-ai-a-physicist-seeks-what-endures-20260903/",
+      "summary": "The U.S. Department of Energy funded 278 projects as part of its Genesis Mission to integrate AI into scientific processes, including one utilizing AI to search for rare particle transformations in the Mu2e experiment. This initiative explores the enduring aspects of physics amidst AI's growing capabilities.",
+      "tags": [
+        "ai",
+        "physics",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bb4244f2aa2881a1",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "Live from ICM 2026: What Is Math For in the Age of AI?",
+      "url": "https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/",
+      "summary": "Mathematicians are experiencing a significant shift as AI systems now produce proofs, identify connections between mathematical fields, and solve long-standing problems. This progress raises challenging questions about the role of mathematics in the age of AI.",
+      "tags": [
+        "ai",
+        "mathematics",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9321f1150a617c48",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "llm-gemini 0.34",
+      "url": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
+      "summary": "llm-gemini 0.34 has been released, incorporating support for Google's new Gemini 3.8 Flash model. This update provides access to the fast, cheap, and competent model for tasks like HTML and JavaScript development, including a Cyber version for trusted defenders.",
+      "tags": [
+        "gemini",
+        "llm",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0ac71bad6e014436",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Coalescence or ... no-alescence",
+      "url": "https://www.slowboring.com/p/coalescence-or-no-alescence",
+      "summary": "The Texas U.S. Senate race has intensified with both candidates engaging in sharply negative campaigning. This dramatic contest is becoming increasingly contentious as the nominees face each other.",
+      "tags": [
+        "us politics",
+        "elections",
+        "texas"
+      ],
+      "priority": false
+    },
+    {
+      "id": "45b52ffe3aa60cf6",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Stop making up reasons to be mad",
+      "url": "https://www.slowboring.com/p/stop-making-up-reasons-to-be-mad",
+      "summary": "The article critiques the online trend of creating outrage by misinterpreting public statements, exemplified by a politician's old tweet about 9/11. It argues against circular reasoning that presumes someone is an enemy and then uses that assumption to interpret their words negatively.",
+      "tags": [
+        "politics",
+        "social media",
+        "media critique"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5381b71b7b73c10c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Amazon’s Zoox expands its robotaxi service to Las Vegas airport",
+      "url": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/",
+      "summary": "Amazon's autonomous vehicle subsidiary, Zoox, has expanded its robotaxi service to the Las Vegas airport, a key ride-hailing destination. This expansion follows the company's recent move to begin charging for robotaxi rides.",
+      "tags": [
+        "zoox",
+        "robotaxi",
+        "autonomous vehicles"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3e824970c64cf85e",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts",
+      "url": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/",
+      "summary": "Circular launched its Ring 3 series, featuring contactless payment capabilities and on-finger vibration alerts. This release contributes to increased competition in the smart ring market, following new models from Oura and RingConn.",
+      "tags": [
+        "smart ring",
+        "wearables",
+        "payments"
+      ],
+      "priority": false
+    },
+    {
+      "id": "58227b7d04a668b8",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Delivery Hero board backs Uber’s $15B takeover bid",
+      "url": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/",
+      "summary": "Delivery Hero's board has endorsed Uber's $15 billion takeover bid, a move that would create one of the world's largest food delivery platforms if approved. This acquisition signifies a major consolidation in the global food delivery market.",
+      "tags": [
+        "uber",
+        "delivery hero",
+        "acquisition"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ef622678dd03ba3a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Google launches AI voice features in Gmail, Docs, and Keep",
+      "url": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
+      "summary": "Google has integrated new AI voice features into Gmail, Docs, and Keep, enabling users to perform tasks like searching emails or drafting documents conversationally. This expands AI utility across its productivity suite.",
+      "tags": [
+        "google",
+        "ai",
+        "productivity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f76bfd12327b59f6",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
+      "url": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
+      "summary": "A judge ruled against breaking up Google's ad business but mandated operational changes to foster competition. Google avoids a full breakup of its ad division, but must adjust practices to benefit rivals.",
+      "tags": [
+        "google",
+        "antitrust",
+        "advertising"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5dffae565f04d0d7",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "summary": "Google introduced WeatherNext 3, its newest AI weather model, which utilizes deep learning to provide enhanced weather predictions. This model will integrate into Google Search, Maps, and Gemini to offer users more accurate weather information.",
+      "tags": [
+        "google",
+        "ai",
+        "weather"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8da9355c40ce5a48",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "It sure looks like hackers breached a major ID card verification service",
+      "url": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
+      "summary": "An identity theft search site claimed to have stolen over 150 million driver's license photos from an ID verification service, leading to the crime site's subsequent shutdown. This incident suggests a significant breach of personal identification data.",
+      "tags": [
+        "cybersecurity",
+        "data breach",
+        "identity theft"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d88e2fb686a15b05",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming",
+      "url": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
+      "summary": "MapQuest surged to become the top U.S. app in Apple's App Store, attracting over half of its 2026 downloads in six days, after refusing to adopt \"Lake America\" as proposed by Trump. This defiance contributed to its unexpected rise in popularity.",
+      "tags": [
+        "mapquest",
+        "app",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "862b900550a3ae1f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "summary": "Nvidia confirmed its acquisition of Hugging Face for $12.9 billion, highlighting the platform's extensive repository of over 3 million models and 18 million developers. This move reinforces Nvidia's strategy to expand its influence in the AI industry.",
+      "tags": [
+        "nvidia",
+        "hugging face",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a32d9821a108da19",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+      "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+      "summary": "Ollie, a family-focused AI assistant, is emphasizing privacy by committing not to use personal data for AI model training or sharing. The company believes this approach will distinguish it in the competitive AI assistant market.",
+      "tags": [
+        "ai assistant",
+        "privacy",
+        "consumer tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a4f63bee1a68281d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "summary": "OpenAI's new Astra model introduces \"recurrent depth,\" a reasoning technique that operates outside traditional sequential thinking, raising concerns among AI safety experts. This innovation allows for more complex thought processes but presents new safety challenges.",
+      "tags": [
+        "openai",
+        "ai safety",
+        "astra"
+      ],
+      "priority": false
+    },
+    {
+      "id": "82e0ce784fa50494",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "summary": "Palo Alto Networks reportedly acquired Console, a Thrive-backed company, for $500 million, making Sequoia-backed Serval a leading startup in AI IT service automation. This acquisition impacts the competitive landscape of the AI IT service automation sector.",
+      "tags": [
+        "acquisition",
+        "cybersecurity",
+        "palo alto networks"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3d641800cf70ef7d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Qualcomm backs Ultrahuman in $70M round on bet to turn smart rings into computers",
+      "url": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
+      "summary": "Qualcomm invested in Ultrahuman's $70 million funding round, supporting the company's goal of developing smart rings with advanced computing capabilities. Ultrahuman aims for a $200 million annual revenue run rate by January 2027.",
+      "tags": [
+        "smart ring",
+        "qualcomm",
+        "investment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7e66dfac9f2f51b1",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "TikTok comments are getting more interactive with voice comments, polls, and more",
+      "url": "https://techcrunch.com/2026/09/03/tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more/",
+      "summary": "TikTok is enhancing comment interactions by adding features such as voice comments and polls, borrowing from messaging app functionalities. These additions aim to deepen user engagement on the platform.",
+      "tags": [
+        "tiktok",
+        "social media",
+        "engagement"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1fc3fbba175e1dfc",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "An Alaskan Town Is Literally Dying for a Road. Environmentalists Won’t Let Them Have One.",
+      "url": "https://www.thefp.com/p/alaska-environmentalism-river-page",
+      "summary": "King Cove, a remote Alaskan fishing village, has experienced 19 deaths due to lack of access to an all-weather airport 18 miles away, with environmentalists preventing the construction of a connecting road. The community faces ongoing medical emergencies and fatal plane crashes due to restricted access.",
+      "tags": [
+        "alaska",
+        "infrastructure",
+        "environment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e4c2ecdb165b79e1",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Devilish Legacy of Roy Cohn",
+      "url": "https://www.thefp.com/p/roy-cohn-trump-james-kirchick-american-scoundrel",
+      "summary": "The article explores the \"notorious\" legacy of Roy Cohn, lawyer and political fixer, highlighting his unique connections and influence on figures like Donald Trump. Cohn is depicted as a singular figure known for his contentious personality and role in various controversies.",
+      "tags": [
+        "politics",
+        "history",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ed962cf17650e8df",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Secret Recordings That Reveal How Presidents Really Think",
+      "url": "https://www.thefp.com/p/coleman-hughes-tim-naftali-history-presidents",
+      "summary": "Historian Tim Naftali revealed insights from secret recordings of presidents, such as Richard Nixon's attempts to leak his own witticisms to the press. These recordings offer unique details into the private thoughts and actions of past leaders.",
+      "tags": [
+        "history",
+        "presidents",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "df0b335feb96c4cd",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Tough Love: Did My Ex-Husband Ever Love Me?",
+      "url": "https://www.thefp.com/p/tough-love-ex-husband-divorce-sons-happiness",
+      "summary": "A woman recounts her decade-long marriage, questioning if her ex-husband truly loved her after he stated he never did, despite her feeling a lack of enchantment from him during the relationship. She seeks advice on accepting this painful truth and how to discuss it with her children.",
+      "tags": [
+        "relationships",
+        "divorce",
+        "psychology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c9ca23effaca1275",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Why I Banned AI in My Classroom",
+      "url": "https://www.thefp.com/p/classroom-ai-back-to-school",
+      "summary": "A high school English teacher from Philadelphia banned AI in her classes, asserting that shortcuts provided by AI are incompatible with learning and hinder students' development. She believes the instinct to find the easiest path is catastrophic for education.",
+      "tags": [
+        "ai",
+        "education",
+        "teaching"
+      ],
+      "priority": false
+    },
+    {
+      "id": "19adcddd35aca672",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Why I Let My Students Use AI",
+      "url": "https://www.thefp.com/p/why-i-let-my-students-use-ai",
+      "summary": "A high school English teacher in Louisiana advocates for integrating AI into classrooms, believing that refusing to do so means missing a significant opportunity to improve education. He argues that concerns about AI's negative effects on student learning are dramatically overstated.",
+      "tags": [
+        "ai",
+        "education",
+        "teaching"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6b8c0756dfe5f8ac",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "I held the first truly bezel-free phone",
+      "url": "https://www.theverge.com/tech/985009/tecno-bezelless-concept-phone-ifa",
+      "summary": "Tecno, a budget brand, has developed a concept phone called the \"Bezelless\" that aims for a truly edge-to-edge display, pushing beyond the minimal bezels common in current smartphones. The device is currently a concept and not a production model.",
+      "tags": [
+        "smartphone",
+        "concept",
+        "design"
+      ],
+      "priority": false
+    },
+    {
+      "id": "740f2dbfc558935a",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Lenovo’s new MacBook Neo competitor comes in two sizes and seven colors",
+      "url": "https://www.theverge.com/tech/988765/lenovo-ideapad-vibe-laptop-macbook-neo-competitor-ifa-colors-price-specs",
+      "summary": "Lenovo announced the IdeaPad Vibe, a new productivity laptop available in 14- and 15-inch sizes with AMD and Qualcomm chip options. It aims to compete with the MacBook Neo by offering a similar price point and a broader selection of seven color options.",
+      "tags": [
+        "laptop",
+        "lenovo",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "edc24b0f533c7fe6",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+      "summary": "Nvidia launched Personal AI Router (PAIR), a free open-source software that connects compatible home computers to perform local AI inference tasks. PAIR works with Nvidia GeForce RTX 20-series GPUs and newer, as well as Apple's M4 chips.",
+      "tags": [
+        "nvidia",
+        "ai",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0e44a40404f230a5",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Nvidia’s new RTX Spark laptops launch in October with two different configs",
+      "url": "https://www.theverge.com/news/989133/nvidia-rtx-spark-laptops-n1x-specifications",
+      "summary": "Nvidia's RTX Spark laptops, featuring the N1X chip in two configurations, are set to launch in October. The high-end N1X chip includes a 6144-core Blackwell RTX GPU, a 20-core Grace CPU, and significant unified memory, targeting both high-end laptops and miniature PCs.",
+      "tags": [
+        "nvidia",
+        "laptops",
+        "gpus"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3003c49a16779d18",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The Moto Watch Ultra is a return to Wear OS",
+      "url": "https://www.theverge.com/gadgets/988734/moto-watch-ultra-release-date-price-specs-wear-os-ifa",
+      "summary": "Motorola has launched the Moto Watch Ultra, a premium smartwatch that marks its return to Google's Wear OS platform with a Snapdragon W5 Plus Gen 1 chip. This new model offers an upgrade from previous custom OS watches but lacks the rugged features of some competitors.",
+      "tags": [
+        "smartwatch",
+        "motorola",
+        "wear os"
+      ],
+      "priority": false
+    },
+    {
+      "id": "26a0a7916d69c5c0",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "This 14-inch laptop has a screen that unrolls to 17 inches",
+      "url": "https://www.theverge.com/tech/989477/lenovo-thinkbook-project-swan-concept-laptop-14-17-rollable-ifa-announcement",
+      "summary": "Lenovo introduced the ThinkBook Project Swan, a concept business laptop at IFA 2026, featuring a screen that horizontally expands from 14 to 17 inches. This rollable display technology offers a dynamic viewing experience.",
+      "tags": [
+        "laptop",
+        "concept",
+        "display"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0028238f82036483",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "This ultra-thin Lenovo laptop concept uses solid-state cooling",
+      "url": "https://www.theverge.com/tech/988882/lenovo-project-aeroblade-concept-frore-airjet-silent-cooling",
+      "summary": "Lenovo unveiled Project AeroBlade, a 14-inch concept laptop that is less than 10mm thick and weighs under 1.8 pounds due to its solid-state cooling system. This design eliminates traditional fans, making the device incredibly thin and light.",
+      "tags": [
+        "laptop",
+        "concept",
+        "cooling"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 107,
+    "summarized": 77,
+    "skipped_promos": 3,
+    "filtered_by_rules": 27,
+    "sources": 12,
+    "email_items_omitted": 0
+  }
+}
