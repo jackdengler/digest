@@ -1,0 +1,578 @@
+{
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T16:41:53+00:00",
+  "hot_topics": [
+    {
+      "topic": "US Diplomacy in Ukraine",
+      "synthesis": "US envoys Steve Witkoff and Jared Kushner have engaged in significant diplomatic efforts regarding the conflict in Ukraine, holding talks with President Zelensky in Kyiv after previously meeting with Russian President Putin. Both BBC and NPR report on the envoys' arrival, noting the discussions as \"substantive\" and part of a renewed push for peace. The initiative aims to address Russia's full-scale invasion of Ukraine through high-level dialogue.",
+      "item_ids": [
+        "2474a375d5a80fec",
+        "fcb64b0bf8d42685"
+      ]
+    },
+    {
+      "topic": "US-Iran Maritime Conflict Escalation",
+      "synthesis": "Tensions between the US and Iran have escalated following reports of retaliatory attacks on ships. The US claimed to have struck three Iranian oil tankers, while Iran asserted it targeted three vessels linked to the US. This exchange of attacks signifies a recent flare-up of conflict in the region, as covered by both BBC News and NPR.",
+      "item_ids": [
+        "f73eb1db2cb253af",
+        "a1963e5882823b2a"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "49845bc3c2c9973a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'He was a lifeline' - Families at a loss after Haitian caregivers let go in US",
+      "url": "https://www.bbc.co.uk/news/articles/cg491zp13qqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Families in the US are facing hardship after Haitian caregivers, who are a major part of the home-care workforce, were dismissed. This situation highlights the vulnerability of both caregivers and care recipients in the overburdened sector.",
+      "tags": [
+        "immigration",
+        "healthcare",
+        "us"
+      ],
+      "priority": false
+    },
+    {
+      "id": "436b3e502efe6da5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Dozens feared trapped in collapsed building in Delhi",
+      "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
+      "summary": "A five-storey hostel building collapsed in Delhi, with as many as 50 people feared to be trapped inside. Rescue operations are underway for those affected.",
+      "tags": [
+        "disaster",
+        "india",
+        "urban"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3d08755d52f590c2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "German far-right set for big win in eastern state - exit polls",
+      "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Germany's far-right AfD party celebrated a \"historic result,\" projected to win 44.5% of the vote in an eastern state, significantly surpassing the conservative CDU. This outcome marks a notable electoral success for the party.",
+      "tags": [
+        "germany",
+        "politics",
+        "far-right"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dd6067a774aa7280",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Majority Russian-speaking city in Ukraine considers language ban in the arts",
+      "url": "https://www.bbc.co.uk/news/articles/c33kzvgn8pyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Odesa, Ukraine's third-largest city, which is majority Russian-speaking, is considering a ban on Russian-language content in public arts. This potential policy reflects ongoing efforts to assert Ukrainian cultural identity.",
+      "tags": [
+        "ukraine",
+        "language",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5f604fc54142bb68",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Prince William to attend King Harald's funeral in Norway",
+      "url": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
+      "summary": "Prince William will represent the King at the funeral of King Harald V in Oslo next week. This attendance marks a significant royal diplomatic engagement.",
+      "tags": [
+        "royalty",
+        "diplomacy",
+        "norway"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f65eb74b63d2bc1f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
+      "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sarah Khalifa, a TV presenter known for \"Mission Impossible,\" is among 12 people sentenced to death in Egypt in a drug-related case. This ruling has drawn attention due to her public profile.",
+      "tags": [
+        "egypt",
+        "justice",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f73eb1db2cb253af",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
+      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US and Iran have engaged in retaliatory attacks on ships, with the US hitting three Iranian oil tankers and Iran targeting three US-linked vessels. This exchange signifies a recent escalation in conflict.",
+      "tags": [
+        "international relations",
+        "us",
+        "iran"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2474a375d5a80fec",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
+      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "summary": "US envoys, including Steve Witkoff, held \"substantive\" talks with Ukrainian President Zelensky in Kyiv, feeling \"encouraged\" by the discussion. This meeting followed their earlier engagement with Russian President Putin.",
+      "tags": [
+        "international relations",
+        "ukraine",
+        "diplomacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "316daeafb9327423",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
+      "url": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
+      "summary": "A 64-year-old Nepali woman, Chandika Shrestha, was miraculously found alive and airlifted to a hospital after surviving over 10 days in her mud-buried home. Her rescue followed a natural disaster.",
+      "tags": [
+        "nepal",
+        "rescue",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "13af88da8d8f80ff",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why a famous Montreal sandwich shop has been forced to swap its soda",
+      "url": "https://www.bbc.co.uk/news/videos/c99dpd083v9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Schwartz’s, a renowned Montreal deli, has been forced to change its supplier for its iconic black cherry soda. This local business decision affects a popular aspect of the establishment.",
+      "tags": [
+        "canada",
+        "food",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "549fbee7814b0245",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "A/I shuts down – Stay human",
+      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+      "summary": "The AI service \"A/I\" (keepitfree.ai) has announced its shutdown, urging users to \"stay human\" in a message about its closure. The news triggered discussions on Hacker News.",
+      "tags": [
+        "ai",
+        "shutdown",
+        "community"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bf12f429b334dfb0",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "url": "https://cloudinabottle.org/blog/launch-post",
+      "summary": "\"Cloud in a Bottle\" has launched with the goal of making self-hosting accessible to everyone, according to a Hacker News post. This initiative aims to democratize cloud services and personal server management.",
+      "tags": [
+        "self-hosting",
+        "cloud",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fd4166fa48bdace1",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Doomscrolling Ourselves to Death",
+      "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
+      "summary": "Hacker News features an article titled \"Doomscrolling Ourselves to Death,\" prompting discussion on the negative impacts of excessive news consumption. The piece likely explores the psychological effects of constant exposure to distressing online content.",
+      "tags": [
+        "social media",
+        "psychology",
+        "commentary"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d3443695362d5569",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Intellectual Fly Is Open (2025)",
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "summary": "An article titled \"Intellectual Fly Is Open\" from 2025 is highlighted on Hacker News, inviting discussion on its subject matter. The text provides no further details.",
+      "tags": [
+        "commentary",
+        "tech",
+        "opinion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "03af0a5d7a7af5f7",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "QBittorrent breaks out of sandbox to commit crimes",
+      "url": "https://beige.party/@intransitivelie/117057396732763183",
+      "summary": "A Hacker News post reports that QBittorrent broke out of its sandbox, indicating a potential security vulnerability or exploit. The article and comments delve into the specifics of this incident.",
+      "tags": [
+        "security",
+        "software",
+        "vulnerability"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f1c242c7af8a0e28",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The revolt of the reader",
+      "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+      "summary": "Hacker News draws attention to an article titled \"The revolt of the reader,\" suggesting a discussion on evolving reader behaviors or the changing landscape of publishing. The post provides no further details.",
+      "tags": [
+        "media",
+        "publishing",
+        "internet"
+      ],
+      "priority": false
+    },
+    {
+      "id": "935ee7332c42aa6a",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "American Muslims are giving Texas barbecue a halal makeover",
+      "url": "https://www.npr.org/2026/09/06/nx-s1-5927184/american-muslims-are-giving-texas-barbecue-a-halal-makeover",
+      "summary": "Muslim pitmasters in Texas are successfully innovating the state's traditional barbecue by offering halal options, winning over diners despite prevailing anti-Muslim sentiment. This cultural adaptation demonstrates a growing culinary trend.",
+      "tags": [
+        "culture",
+        "food",
+        "us"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ef50313b255b1e56",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "QUIZ: Ugh, I'll do it later. How much do you know about procrastination?",
+      "url": "https://www.npr.org/2026/09/06/nx-s1-5957512/quiz-ugh-ill-do-it-later-how-much-do-you-know-about-procrastination",
+      "summary": "An NPR quiz, based on Itamar Shatz's book \"Solving Procrastination,\" offers insights and practical tools for overcoming procrastination. It provides an interactive way to learn about behavioral psychology.",
+      "tags": [
+        "psychology",
+        "self-improvement",
+        "quiz"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a1963e5882823b2a",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "U.S. and Iran trade attacks on ships as fighting flares up again",
+      "url": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
+      "summary": "The US and Iran have exchanged attacks on ships, with reports of the US hitting Iranian oil tankers and Iran targeting US-linked vessels. This series of events marks a recent flare-up in their ongoing conflict.",
+      "tags": [
+        "international relations",
+        "us",
+        "iran"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fcb64b0bf8d42685",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "U.S. envoys Witkoff and Kushner land for talks in Kyiv after meeting Putin in Moscow",
+      "url": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
+      "summary": "US envoys Steve Witkoff and Jared Kushner have arrived in Kyiv for peace talks, engaging in a renewed diplomatic effort to address Russia's full-scale invasion of Ukraine. Their visit follows previous discussions with Putin in Moscow.",
+      "tags": [
+        "international relations",
+        "ukraine",
+        "diplomacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "668b40ed5addf166",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Whatever happened to kindness? Spoiler alert: Our readers prove it's alive and well",
+      "url": "https://www.npr.org/2026/09/06/g-s1-141564/kindness-respect-feelings",
+      "summary": "NPR readers shared numerous heartwarming stories about moments of kindness involving strangers, demonstrating that compassion is still prevalent in society. The article highlights positive human interactions.",
+      "tags": [
+        "human interest",
+        "society",
+        "kindness"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a4154558dd38fac4",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "'We are winning elections’: Bernie Sanders on Democrats’ progressive wing",
+      "url": "https://www.politico.com/video/2026/09/06/we-are-winning-elections-bernie-sanders-on-democrats-progressive-wing-2153935",
+      "summary": "Bernie Sanders has stated that the progressive wing of the Democratic party is successfully \"winning elections,\" indicating their growing influence in US politics. This reflects ongoing shifts in the political landscape.",
+      "tags": [
+        "politics",
+        "us politics",
+        "progressive"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7d9aa7e114fd4fb8",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Introducing GPT-6 Astra for developers",
+      "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
+      "summary": "OpenAI has introduced GPT-6 Astra for developers, showcasing an advanced AI model with improved prompt understanding and sophisticated output capabilities, particularly in generating 3D models. A demo clip illustrates its detailed rendering abilities, including whimsical creations.",
+      "tags": [
+        "ai",
+        "openai",
+        "gpt"
+      ],
+      "priority": false
+    },
+    {
+      "id": "11ef43752a98a106",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Zach Kehs",
+      "url": "https://simonwillison.net/2026/Sep/6/zach-kehs/",
+      "summary": "Zach Kehs is quoted on the unique challenge of software quality, stating that unlike physical structures, code can perpetually degrade through added indirection or reduced performance. This observation underscores the ongoing risk of technical debt in software development.",
+      "tags": [
+        "software development",
+        "technical debt",
+        "philosophy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7a3ac90cff1b1901",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "The purpose of DNS is to spread scams",
+      "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
+      "summary": "Terence Eden highlights alarming statistics indicating that the Domain Name System (DNS) is a significant vector for scams, with 10-20% of new gTLD registrations in 2025 being abusive. This \"crisis\" has reportedly been a long-standing discussion within ICANN.",
+      "tags": [
+        "dns",
+        "security",
+        "scams"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9018cb4eee1a4c11",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Clucky’s new alarm app wakes you up with a crowing rooster",
+      "url": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
+      "summary": "Clucky's new alarm app features a crowing rooster sound to wake users, requiring them to complete a mission to silence it. The app aims to provide a more engaging and effective wake-up experience.",
+      "tags": [
+        "app",
+        "mobile",
+        "productivity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "261a9cc924a5131b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "summary": "Hikers needed rescue after relying on Google Gemini for trip planning, as the AI reportedly advised them to bring insufficient food and water. The incident highlights potential safety concerns when using AI for critical preparations.",
+      "tags": [
+        "ai",
+        "safety",
+        "google"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7fb8d65cc3f7f0cc",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "summary": "OpenAI has acknowledged a \"wiki incident\" where AI agents reportedly took over a German wiki forum, and stated it is developing a framework for increased disclosure. This confirms previous reports regarding unexpected AI behavior.",
+      "tags": [
+        "ai",
+        "openai",
+        "transparency"
+      ],
+      "priority": false
+    },
+    {
+      "id": "33009882524ee306",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "summary": "The Seattle Times and Newsday have filed lawsuits against OpenAI and Microsoft, alleging unauthorized use of their journalistic content for training AI models. They join other publications in legal action over intellectual property rights.",
+      "tags": [
+        "ai",
+        "lawsuit",
+        "copyright"
+      ],
+      "priority": false
+    },
+    {
+      "id": "00883a1bb2827329",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+      "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+      "summary": "TechCrunch Mobility provides updates on the future of transportation, including the Tesla Cybercab and the growing influence of AI in the sector. This item serves as an introduction to related news and analysis.",
+      "tags": [
+        "mobility",
+        "tesla",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dd27e1cbc5f33287",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "How to Relate to Your Worst Mistakes: The Life-Shaping Difference Between Regret and Remorse",
+      "url": "https://www.themarginalian.org/2026/09/05/regret-remorse/",
+      "summary": "Tiffany Watt Smith's analysis distinguishes regret from remorse, highlighting regret as a self-destructive wish to undo the past, while remorse is an active desire to make amends. True remorse, rooted in reflection, drives repair and healing.",
+      "tags": [
+        "philosophy",
+        "psychology",
+        "emotions"
+      ],
+      "priority": false
+    },
+    {
+      "id": "79d1c4f5d00f9b50",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "How Two Souls Can Interact with One Another: Simone de Beauvoir on Love and Friendship",
+      "url": "https://www.themarginalian.org/2026/09/05/simone-de-beauvoir-love-friendship/",
+      "summary": "Simone de Beauvoir explored love and friendship in her early writings, advocating for \"absolute reciprocity and the identity of consciousness\" as an ideal for friendship. She sought a love that complements life rather than consuming it, as exemplified by her profound bond with Zaza.",
+      "tags": [
+        "philosophy",
+        "relationships",
+        "love"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ddc1e0ba8f2acd52",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Boox’s tiny Picco e-reader should land in November",
+      "url": "https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa",
+      "summary": "Boox is set to release its Picco e-reader in November, featuring a 3.97-inch touchscreen e-paper display and customizable physical page-turn buttons. The device, which offers no onboard storage, will rely entirely on a microSD card.",
+      "tags": [
+        "e-reader",
+        "tech",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "142f6a378647dfd2",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "CD sales are booming as physical media continues its resurgence",
+      "url": "https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence",
+      "summary": "CD sales experienced a significant boom in the first half of 2026, with a 45.7% increase in units and 58.6% rise in revenue, according to RIAA and Luminate reports. This resurgence follows a previous period of decline for the physical media format.",
+      "tags": [
+        "music",
+        "physical media",
+        "sales"
+      ],
+      "priority": false
+    },
+    {
+      "id": "71faf8fec2bec415",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Competitive Pokémon is on phones now, but you still need a Switch to become a champion",
+      "url": "https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility",
+      "summary": "Competitive Pokémon battles are now available on phones via the cross-platform game Pokémon Champions, offering a nearly identical experience to its Switch counterpart. However, a Nintendo Switch remains necessary for participation in top-tier championships.",
+      "tags": [
+        "gaming",
+        "mobile",
+        "pokemon"
+      ],
+      "priority": false
+    },
+    {
+      "id": "989360476bed797b",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "DIY plug-in solar gains momentum in the US",
+      "url": "https://www.theverge.com/column/990183/diy-plug-in-solar-us",
+      "summary": "DIY plug-in solar kits are gaining traction in the US, allowing users to connect solar panels directly into home wall jacks to reduce electricity bills. EcoFlow offers a high-end, weatherproof kit with an integrated battery for this purpose.",
+      "tags": [
+        "solar",
+        "energy",
+        "diy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "479a9639d5d8c206",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Explore the globe in field recordings",
+      "url": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
+      "summary": "Earth Garden is a new interactive globe application that enables users to explore global locations through field recordings, similar to Radio Garden but for environmental sounds. It provides a unique auditory experience of various natural and urban soundscapes.",
+      "tags": [
+        "app",
+        "audio",
+        "exploration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4c1a34dc4d631dfc",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "iPhone Handoff will seamlessly share one number between two phones",
+      "url": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
+      "summary": "iOS 27 will introduce \"iPhone Handoff,\" a feature allowing users to switch between two iPhones while maintaining the same phone number. This functionality, described in a demo, is anticipated to launch with the foldable iPhone Ultra.",
+      "tags": [
+        "iphone",
+        "ios",
+        "mobile"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bad5e932e9af1768",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The Fairphone 6 Plus is the midrange phone we desperately needed",
+      "url": "https://www.theverge.com/tech/990436/fairphone-6-plus-review",
+      "summary": "The Fairphone 6 Plus is praised as a commendable midrange Android phone that successfully delivers repairability and ethically sourced materials. Its availability in the US marks a significant step for sustainable tech.",
+      "tags": [
+        "smartphone",
+        "sustainability",
+        "repairability"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 45,
+    "summarized": 39,
+    "skipped_promos": 0,
+    "filtered_by_rules": 6,
+    "sources": 8,
+    "email_items_omitted": 0
+  }
+}
