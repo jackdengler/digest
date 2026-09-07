@@ -1,0 +1,888 @@
+{
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T18:32:46+00:00",
+  "hot_topics": [
+    {
+      "topic": "Amazon Cargo Plane Crash in Miami",
+      "synthesis": "An Amazon cargo plane overran the runway and crashed at Miami International Airport during landing, resulting in five fatalities and multiple injuries as the aircraft burst into flames and collided with ground vehicles. Investigations are currently underway to determine the cause of the incident.",
+      "item_ids": [
+        "67c14f24dc22db91",
+        "a8890a5d6ce5f1e6",
+        "71540ad8452d7613",
+        "8dce805aca649dab",
+        "65d88195171b9eaa"
+      ]
+    },
+    {
+      "topic": "Germany's Far-Right AfD Party Achieves Electoral Gains",
+      "synthesis": "Germany's far-right AfD party secured a significant electoral victory in the state of Saxony-Anhalt, prompting celebrations from its leaders and concerns across the EU and among traditional parties. The AfD, which more than doubled its vote share, is now asserting that other parties should work with them to form a state government.",
+      "item_ids": [
+        "45a8115afb2094cf",
+        "a8a409c7831321cc",
+        "8dce805aca649dab",
+        "0b7fae479fd46591"
+      ]
+    },
+    {
+      "topic": "AI Copyright Infringement Lawsuits and Author Compensation Disputes",
+      "synthesis": "AI companies are facing legal challenges regarding the use of copyrighted material. OpenAI and Microsoft are being sued by news outlets for allegedly using journalism to train AI models and reproducing content without permission, while authors are disputing how settlement payments from Anthropic are being distributed among publishers and agents.",
+      "item_ids": [
+        "d5f64d99e4c3a0a3",
+        "e0f4e6f3577a8020"
+      ]
+    },
+    {
+      "topic": "Nepal Flash Flood Disaster and Reporting Transparency",
+      "synthesis": "Nepal observed a national day of mourning for victims of a deadly flash flood disaster, which continues to raise questions about transparency regarding casualties. There is limited information about China's dead or missing, in stark contrast to Nepal's open reporting, with concerns raised about Chinese media control and digital censorship.",
+      "item_ids": [
+        "73bd554c41247320",
+        "25a082cf82645f3b"
+      ]
+    },
+    {
+      "topic": "Russia-Ukraine Conflict Continues Amid Symbolic Peace Talks",
+      "synthesis": "Despite US envoys engaging in symbolic peace talks with Russian and Ukrainian leaders, fundamental disagreements persist between the warring nations, and continued fighting is anticipated. Kyiv is simultaneously enduring a record surge in Russian air attacks, causing widespread disruption to daily life.",
+      "item_ids": [
+        "a6b528f3d0f6a8ed",
+        "5c030dcd948876c5",
+        "8dce805aca649dab"
+      ]
+    },
+    {
+      "topic": "New Evidence in 9/11 Lawsuit and Allegations of FBI Withholding",
+      "synthesis": "New videos and other evidence, allegedly withheld by the FBI, have emerged that reportedly contradict Omar al-Bayoumi's decades of denials regarding his extremist ties in a 9/11 lawsuit. This development raises questions about whether the FBI deliberately suppressed information concerning an alleged Saudi agent's involvement in the attacks.",
+      "item_ids": [
+        "e4ca539e9bb43cb3",
+        "9d3a0c8e2dce7d35"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "7509cd65f71e17d7",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Continental divide",
+      "url": "https://aeon.co/essays/why-the-pan-american-highway-only-half-exists",
+      "summary": "An essay investigates whether the Pan-American Highway, conceived a century ago to foster unity between the Americas, ultimately achieved its ambitious goal.",
+      "tags": [
+        "history",
+        "infrastructure",
+        "travel"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8b5ad9be55d51277",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "The planet is… up to something",
+      "url": "https://aeon.co/videos/is-this-artemis-ii-timelapse-the-pale-blue-dot-for-our-times",
+      "summary": "An astronaut's image of Earth taken during the 2026 lunar flyby is interpreted as highlighting humanity's increasing significance rather than its smallness.",
+      "tags": [
+        "space",
+        "earth",
+        "philosophy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0d85fbe07ae91c4e",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "The complex corporate web behind a $3.2 billion AI data center",
+      "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+      "summary": "A fire at a large AI data center in Somerset, New York, revealed significant safety shortcomings, including non-functional alarms and hydrants, while highlighting the complex corporate structure of the $3.2 billion project involving TeraWulf, Fluidstack, Google, and Anthropic.",
+      "tags": [
+        "ai",
+        "data center",
+        "safety"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d8a66a117ba53c24",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Austria's Islamic headscarf ban in force as under-14s go back to school",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Austria has implemented a ban on Islamic headscarves for girls under 14 as they return to school, a measure the government says protects young girls' rights, but critics view as fostering anti-Muslim sentiment.",
+      "tags": [
+        "austria",
+        "policy",
+        "religious freedom"
+      ],
+      "priority": false
+    },
+    {
+      "id": "235486aabb3484b6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Burundians rush to leave Kenya ahead of crackdown on unregistered traders",
+      "url": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
+      "summary": "Burundian nationals are hastily leaving Kenya in anticipation of new measures that will restrict foreign nationals from operating small-scale businesses.",
+      "tags": [
+        "kenya",
+        "burundi",
+        "immigration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0abeb0397a35c45a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "China to pump $54bn into state banks and insurers to boost economy",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
+      "summary": "China plans to inject $54 billion into its state banks and insurers to bolster the economy as it confronts various challenges and aims for economic restructuring.",
+      "tags": [
+        "china",
+        "economy",
+        "banking"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9d3a0c8e2dce7d35",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Did the FBI bury evidence of alleged Saudi agent’s role in 9/11?",
+      "url": "https://www.bbc.co.uk/news/videos/ce8e151n56po?at_medium=RSS&at_campaign=rss",
+      "summary": "A video report investigates whether the FBI suppressed evidence regarding an alleged Saudi agent's involvement in the 9/11 attacks.",
+      "tags": [
+        "9/11",
+        "fbi",
+        "saudi arabia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "71540ad8452d7613",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Five killed as Amazon cargo plane crashes at Miami airport",
+      "url": "https://www.bbc.co.uk/news/videos/c4grd9mg3rvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Video footage shows an Amazon cargo aircraft engulfed in flames after crashing at Miami airport on Sunday, an incident that killed five people.",
+      "tags": [
+        "aviation",
+        "accident",
+        "amazon"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a8a409c7831321cc",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Germany's far-right AfD celebrate projected win in state election",
+      "url": "https://www.bbc.co.uk/news/videos/c5yegd6ldy6o?at_medium=RSS&at_campaign=rss",
+      "summary": "AfD leaders were seen celebrating after exit polls projected their party had secured a significant lead in the Saxony-Anhalt state election.",
+      "tags": [
+        "germany",
+        "politics",
+        "far-right"
+      ],
+      "priority": false
+    },
+    {
+      "id": "45a8115afb2094cf",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+      "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Germany's far-right AfD party, having fallen three seats short of a majority in a state election, asserts that \"democracy demands\" other parties engage with them to form a government.",
+      "tags": [
+        "germany",
+        "politics",
+        "far-right"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9ce4829b30490d5d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
+      "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Grindr has agreed to pay £26 million to settle a long-running claim that it violated UK privacy laws by allegedly sharing users' HIV status with third parties.",
+      "tags": [
+        "grindr",
+        "privacy",
+        "data breach"
+      ],
+      "priority": false
+    },
+    {
+      "id": "73fdb94f403d3f01",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How significant are AfD's historic gains for Germany and the rest of Europe?",
+      "url": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and traditional parties.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "15057e5795785280",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How £725 game-show winnings kick-started Champions League coach's career",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy8w548yyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lithuanian coach Valdas Dambrauskas, now leading Sabah in the Champions League, launched his career in English football after winning £725 on a game show.",
+      "tags": [
+        "football",
+        "sports",
+        "career"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7879d70992d5668d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "India's high-stakes exam system faces a crisis of trust",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy1g7egy9o?at_medium=RSS&at_campaign=rss",
+      "summary": "India's crucial exam system is facing a crisis of public trust due to ongoing scandals, prompting questions about whether deep-seated changes are needed beyond fixing the centralized testing agency.",
+      "tags": [
+        "india",
+        "education",
+        "corruption"
+      ],
+      "priority": false
+    },
+    {
+      "id": "666bbc408345a409",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Indonesia volcano eruption leaves 340,000 stranded as airports extend closure",
+      "url": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Anak Krakatau volcano in Indonesia erupted, spewing lava and volcanic ash, stranding 340,000 people and forcing airports to extend closures.",
+      "tags": [
+        "indonesia",
+        "volcano",
+        "natural disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a8890a5d6ce5f1e6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Investigators begin work on why cargo plane overran Miami runway",
+      "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Investigators have begun examining why an Amazon cargo plane overshot the runway at Miami International Airport, an incident that resulted in five deaths and five injuries.",
+      "tags": [
+        "aviation",
+        "accident",
+        "amazon"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3798636a01fdc38d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Israeli strikes in southern Lebanese village kill 12",
+      "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+      "summary": "Israeli strikes in a southern Lebanese village killed 12 people, with Lebanon warning that this escalation jeopardizes a US-brokered ceasefire with Hezbollah.",
+      "tags": [
+        "israel",
+        "lebanon",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a6b528f3d0f6a8ed",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
+      "url": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Kyiv is experiencing a record number of air raid alerts as Russia launches continuous strikes, severely disrupting schools, businesses, and public transportation.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "kyiv"
+      ],
+      "priority": false
+    },
+    {
+      "id": "73bd554c41247320",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Nepal observes national day of mourning for victims of flash flood disaster",
+      "url": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nepal observed a national day of mourning for the victims of a recent flash flood disaster, coinciding with the final day of the Hindu mourning period.",
+      "tags": [
+        "nepal",
+        "disaster",
+        "flood"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e4ca539e9bb43cb3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "New videos of man in 9/11 lawsuit reveal extremist links",
+      "url": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
+      "summary": "Newly revealed videos and other evidence, allegedly withheld by the FBI, contradict Omar al-Bayoumi's decades of denials regarding his extremist ties in a 9/11 lawsuit.",
+      "tags": [
+        "9/11",
+        "fbi",
+        "lawsuit"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5c030dcd948876c5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+      "url": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
+      "summary": "Despite symbolic peace talks involving US envoys and leaders from Russia and Ukraine, fundamental disagreements persist, suggesting the conflict is likely to continue.",
+      "tags": [
+        "russia",
+        "ukraine",
+        "peace talks"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b6ad706ddf5e9273",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Rescuers dig through debris as seven dead in building collapse in Delhi",
+      "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
+      "summary": "Seven people have died in a building collapse in Delhi, with rescue efforts underway to find any remaining victims under the debris.",
+      "tags": [
+        "india",
+        "disaster",
+        "building collapse"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6b894d674b9b58bc",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Tanzanian President Samia's husband dies in hospital",
+      "url": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tanzania's President Samia Suluhu Hassan's husband, Hafidh Ameir Hassan, who maintained a very low public profile, has passed away in hospital.",
+      "tags": [
+        "tanzania",
+        "politics",
+        "obituary"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1c0b60635ef79c18",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
+      "url": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Volunteers in Borneo are risking their lives to fight peat fires, which release vast amounts of ancient carbon and contribute to toxic smog across Southeast Asia.",
+      "tags": [
+        "indonesia",
+        "wildfire",
+        "environment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d7bb90925fc304ad",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
+      "url": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands attended the funeral of Ratko Mladić, the \"Butcher of Bosnia\" and convicted war criminal, in Serbia, despite an EU warning against glorifying him.",
+      "tags": [
+        "serbia",
+        "ratko mladić",
+        "war crimes"
+      ],
+      "priority": false
+    },
+    {
+      "id": "748e8e3bc898dddc",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Ask HN: How do you manage skills files?",
+      "url": "https://news.ycombinator.com/item?id=49589914",
+      "summary": "A Hacker News discussion asks users how they manage \"skills files,\" anticipating that AI model capabilities may eventually subsume these individual skills.",
+      "tags": [
+        "ai",
+        "workflow",
+        "management"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c711e246b9d1cf5a",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "bzip3",
+      "url": "https://github.com/iczelia/bzip3",
+      "summary": "Bzip3 is an open-source data compression utility, as highlighted by its GitHub page.",
+      "tags": [
+        "compression",
+        "software",
+        "open source"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c4a8d7bf7ef66b43",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+      "url": "https://mathathonchallenge.com/index.html",
+      "summary": "Caltech is hosting the \"Mathathon,\" described as the first hackathon exclusively dedicated to research-level mathematics.",
+      "tags": [
+        "mathematics",
+        "hackathon",
+        "education"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ed56d3cd18d79aa0",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "De-Brainrot Vacations",
+      "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+      "summary": "A blog post explores the concept and benefits of \"de-brainrotting\" vacations, offering insights into stepping away from digital overstimulation.",
+      "tags": [
+        "wellness",
+        "lifestyle",
+        "digital detox"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e266a5b3776c60c8",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+      "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+      "summary": "GrapheneOS has significantly overhauled its default applications and enhanced its secure clipboard features, improving user privacy and security.",
+      "tags": [
+        "grapheneos",
+        "security",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "19d2712550cb4b52",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "It took a year to ship WebAssembly in Anubis",
+      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+      "summary": "A year-long effort culminated in the successful shipment of WebAssembly integration into the Anubis platform.",
+      "tags": [
+        "webassembly",
+        "development",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "261c318670112cfd",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Keep Our Servers Running",
+      "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+      "summary": "The Internet Archive is running a September fundraising campaign, \"Keep Our Servers Running,\" offering a 3x match for recurring donations to support its digital preservation efforts.",
+      "tags": [
+        "internet archive",
+        "donation",
+        "non-profit"
+      ],
+      "priority": false
+    },
+    {
+      "id": "27dd8c8a34cb1d43",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+      "url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
+      "summary": "LG smart TVs have reportedly been logging audio even when screens are off and gathering data from local devices, raising significant privacy concerns.",
+      "tags": [
+        "privacy",
+        "smart tv",
+        "lg"
+      ],
+      "priority": false
+    },
+    {
+      "id": "05a832256ea720b2",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Live map of public transport in Belgium",
+      "url": "https://openbaarvervoerbelgie.be/",
+      "summary": "A new live online map provides real-time information on public transportation across Belgium.",
+      "tags": [
+        "transport",
+        "mapping",
+        "belgium"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a41d181b41041051",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Making a Python interpreter in 1024 bytes",
+      "url": "https://austinhenley.com/blog/python1024.html",
+      "summary": "A blog post details the impressive technical feat of creating a Python interpreter that fits within just 1024 bytes.",
+      "tags": [
+        "programming",
+        "python",
+        "optimization"
+      ],
+      "priority": false
+    },
+    {
+      "id": "863016682b8724ab",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+      "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+      "summary": "Smartphone manufacturers are reportedly failing to comply with the European Union's repairability requirements for their devices.",
+      "tags": [
+        "smartphones",
+        "eu",
+        "right to repair"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1f5ec9135a681780",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Splash-free urinals (2025)",
+      "url": "https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false",
+      "summary": "An academic article from 2025 discusses the design and science behind splash-free urinals.",
+      "tags": [
+        "science",
+        "innovation",
+        "design"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e7c23592bd2339cb",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Tiny $70 Xteink X3 e-reader",
+      "url": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/",
+      "summary": "A new tiny Xteink X3 e-reader is available for $70, offering an affordable option for digital reading.",
+      "tags": [
+        "e-reader",
+        "gadget",
+        "tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "709cc43f8a5e9cb5",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "'Her body temperature was 106': How heat is killing Americans in their homes",
+      "url": "https://www.npr.org/2026/09/07/nx-s1-5644782/heat-deaths-manufactured-mobile-homes",
+      "summary": "Thousands of Americans die annually from heat exposure, with residents of manufactured homes like mobile homes facing a particularly elevated risk.",
+      "tags": [
+        "climate change",
+        "heatwave",
+        "public health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1df08ca4e55481b9",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "5 dead after crash at Miami Airport. And, Germany's far-right wins state election",
+      "url": "https://www.npr.org/2026/09/07/g-s1-142210/up-first-newsletter-miami-plane-crash-ukraine-affirmative-for-germany",
+      "summary": "A cargo plane crash at Miami International Airport has left five people dead and several others injured. And, Germany's far-right AfD party achieves an electoral victory in a key state election.\n(Image credit: Chandan Khanna)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "25a082cf82645f3b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "As Nepal identifies those killed in the floods, questions grow over China's reporting",
+      "url": "https://www.npr.org/2026/09/07/nx-s1-5960357/nepal-floods-questions-over-chinas-reporting",
+      "summary": "One week after the devastating floods in Nepal, there is a stark contrast in reporting, with open information in Nepal versus limited details on China's casualties due to strict media control.",
+      "tags": [
+        "nepal",
+        "china",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "65d88195171b9eaa",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "At least five dead after Amazon cargo plane crashes at Miami airport",
+      "url": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
+      "summary": "An Amazon Prime cargo plane crashed at Miami International Airport after overrunning the runway during landing on Sunday, ramming into vehicles and killing at least five people.",
+      "tags": [
+        "aviation",
+        "accident",
+        "amazon"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0b7fae479fd46591",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Germany's far-right achieves an electoral breakthrough in key state election",
+      "url": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right",
+      "summary": "Germany's populist, far-right Alternative for Germany (AfD) party declared a breakthrough victory in Saxony-Anhalt, more than doubling its share of the vote in a significant regional election.",
+      "tags": [
+        "germany",
+        "politics",
+        "far-right"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8dce805aca649dab",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/09/07/nx-s1-5955374/morning-news-brief",
+      "summary": "A morning news brief reported five fatalities from a Miami cargo plane crash, Trump's envoys traveling to Ukraine for peace talks, and the German far-right party's landslide victory.",
+      "tags": [
+        "news brief",
+        "aviation",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2fff656bc3f94858",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "The first day of school: Bells, bikes, buses and big feelings",
+      "url": "https://www.npr.org/2026/09/07/nx-s1-5887297/new-school-year-starts",
+      "summary": "The first day of school across the US featured diverse scenes, including older students mentoring kindergartners, a \"bike bus,\" and the inauguration of new high school facilities.",
+      "tags": [
+        "education",
+        "back to school",
+        "lifestyle"
+      ],
+      "priority": false
+    },
+    {
+      "id": "725490360267ee16",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
+      "summary": "OpenAI's research team is accelerating its work on Recursive Self-Improvement (RSI), potentially a new AGI, while actively utilizing coding agents and experiencing a surge in AI research spending.",
+      "tags": [
+        "ai",
+        "openai",
+        "agi"
+      ],
+      "priority": false
+    },
+    {
+      "id": "95092b1d7ec4b42e",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
+      "url": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
+      "summary": "Nathan Fielder and Lance Oppenheim's previously unannounced documentary, \"You Can See Everything,\" about Theranos founder Elizabeth Holmes, was acclaimed at Telluride for its extensive access.",
+      "tags": [
+        "documentary",
+        "elizabeth holmes",
+        "film"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e0f4e6f3577a8020",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "summary": "Authors are contesting the claims of publishers and agents for a larger share of settlement payments received from the AI company Anthropic.",
+      "tags": [
+        "authors",
+        "publishing",
+        "anthropic"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1221afbbf89c76a2",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+      "url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+      "summary": "Phil Schiller's departure from his App Store role was reportedly motivated by his concerns over new CEO John Ternus's strategy to generate more recurring revenue from the platform.",
+      "tags": [
+        "apple",
+        "app store",
+        "executive"
+      ],
+      "priority": false
+    },
+    {
+      "id": "28c9257d7ae42604",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "summary": "Travis Kalanick's company, Atoms, is reportedly exploring entry into the robotaxi business, a venture Kalanick hinted would address \"unfinished business\" from his past.",
+      "tags": [
+        "robotaxi",
+        "travis kalanick",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2549ebca50881c9d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "What we expect from the upcoming Apple launch",
+      "url": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+      "summary": "Apple's upcoming September 9 launch event is anticipated to unveil the first foldable iPhone Ultra, alongside updates regarding AirPods and HomePods.",
+      "tags": [
+        "apple",
+        "iphone",
+        "product launch"
+      ],
+      "priority": false
+    },
+    {
+      "id": "78761b7fddf5ae65",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "I Was a Workaholic. Quitting Changed My Life.",
+      "url": "https://www.thefp.com/p/i-was-a-workaholic-quitting-changed",
+      "summary": "An essay by Lindsay Crouse advocates for quitting as a courageous step towards personal improvement, drawing from her own experience of leaving a high-pressure job.",
+      "tags": [
+        "work-life balance",
+        "lifestyle",
+        "personal development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "67c14f24dc22db91",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "An Amazon cargo plane crashed at Miami International Airport",
+      "url": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
+      "summary": "An Amazon cargo plane overran the runway at Miami International Airport during landing, crashing into vehicles and causing multiple injuries, with the FAA confirming it was 21 Air Flight 7598.",
+      "tags": [
+        "aviation",
+        "accident",
+        "amazon"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0383a52939340536",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
+      "url": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
+      "summary": "Bentley is set to debut its 2027 Torcal EV, a spacious SUV that shares a platform with the electrified Porsche Cayenne and aims to blend luxury with features like simulated V8 sounds.",
+      "tags": [
+        "ev",
+        "bentley",
+        "luxury car"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8b8b6cde99ab820a",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "EcoFlow makes the miniature power station even smaller",
+      "url": "https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller",
+      "summary": "EcoFlow launched its fourth-generation River series miniature power stations, offering models with 256Wh and 512Wh LFP batteries that provide greater capacity and safety than typical power banks, along with multiple charging ports.",
+      "tags": [
+        "power station",
+        "ecoflow",
+        "battery"
+      ],
+      "priority": false
+    },
+    {
+      "id": "732f64ab06530b9d",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Huawei copies Samsung’s privacy display in its latest trifold",
+      "url": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
+      "summary": "Huawei has launched its Mate XT 2 trifold phone in China, which adopts Samsung's inward-folding design and is notable for being the first foldable device to include a privacy-enhancing display.",
+      "tags": [
+        "huawei",
+        "foldable phone",
+        "smartphone"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d5f64d99e4c3a0a3",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "summary": "The Seattle Times and Newsday are suing OpenAI and Microsoft, alleging copyright infringement because their journalistic content was used to train AI models and reproduced in user responses without permission.",
+      "tags": [
+        "ai",
+        "copyright",
+        "lawsuit"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2e67cd4f81984443",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Six years later, Sony revisits its legendary XM4 headphones",
+      "url": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
+      "summary": "Sony has re-released its acclaimed WH-1000XM4 headphones as the XM4C, featuring minor improvements and retaining their compact design six years after the original model's debut.",
+      "tags": [
+        "headphones",
+        "sony",
+        "audio"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c3e90c1e8a249ced",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The real reason your phone is getting more expensive",
+      "url": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
+      "summary": "Upcoming iPhones are expected to be more expensive due to soaring memory costs, a phenomenon dubbed \"chipflation\" or \"RAMageddon\" that reverses decades of declining memory prices.",
+      "tags": [
+        "smartphones",
+        "apple",
+        "memory"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 68,
+    "summarized": 59,
+    "skipped_promos": 1,
+    "filtered_by_rules": 8,
+    "sources": 9,
+    "email_items_omitted": 0
+  }
+}
