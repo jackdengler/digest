@@ -1,0 +1,1226 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T17:28:48+00:00",
+  "hot_topics": [
+    {
+      "topic": "Apple unveils new iPhone 18 Pro and introduces new CEO",
+      "synthesis": "Apple launched its new iPhone 18 Pro and Pro Max lineup, featuring an upgraded camera, A20 Pro chip, and enhanced AI integration. This event also marked the debut of John Ternus as Apple's new CEO, stepping into a pivotal leadership role and hinting at a new era for the company, potentially including a foldable iPhone.",
+      "item_ids": [
+        "7acdb0ba6d491d75",
+        "2bc69947bff680b2",
+        "81c5d471a5475362",
+        "28ba147ec0fb4926",
+        "2b19280680be9143"
+      ]
+    },
+    {
+      "topic": "Growing concerns about AI safety and ethical risks",
+      "synthesis": "Significant concerns are emerging regarding AI safety and ethics, highlighted by a lawsuit against OpenAI alleging ChatGPT induced religious delusions in a user. Separately, an Anthropic researcher resigned over fears of AI extinction from self-improving systems, urging labs to coordinate and mitigate risks. These incidents underscore the potential dangers of deploying highly capable AI without reliable control mechanisms.",
+      "item_ids": [
+        "13a8f78402d78c0b",
+        "f90cdba0acb5ca1b",
+        "2eb6a22c3c45ca79"
+      ]
+    },
+    {
+      "topic": "AI personal assistants integrated into daily applications",
+      "synthesis": "AI assistants are increasingly being integrated into daily applications and services, expanding their capabilities beyond chatbots. Examples include the viral AI assistant Instinct gaining email management, Shipt and Instacart launching AI-powered shopping assistants for complex requests, and Meta introducing its new personal AI agent, Muse. This trend aims to streamline user interactions and automate various tasks.",
+      "item_ids": [
+        "a647389863935524",
+        "33427c9d78710509",
+        "2a619b97c25e270f",
+        "e56f7bfbac8045e5"
+      ]
+    },
+    {
+      "topic": "White House removes 'Build the Wall' game due to copyright infringement",
+      "synthesis": "The White House has removed its \"Build the Wall\" game after receiving a copyright complaint from The Tetris Company. The game, which reportedly featured Tetris-style mechanics, was taken down following the Tetris Company's firm stance on intellectual property rights.",
+      "item_ids": [
+        "ec6e64e1263d1462",
+        "28ff04188aa40364"
+      ]
+    },
+    {
+      "topic": "Trump administration's impact on policy and elections",
+      "synthesis": "The Trump administration continues to influence policy and elections through various actions, from a Supreme Court order favoring Republican campaign ad discounts to proposed changes in the census that could reshape voting maps. Challenges to mail-in voting continue amid a legal battle over Trump's desired Postal Service restrictions. Additionally, the administration is attempting to reduce skilled immigration programs by implementing a significant visa fee.",
+      "item_ids": [
+        "4e7cb8db17634f15",
+        "2a8f3f3732b1a71b",
+        "bfd51568af867844",
+        "745bb11e21c8a9cc",
+        "6f5ef3ead004477c"
+      ]
+    },
+    {
+      "topic": "Escalating US-Iran tensions and Middle East realignments",
+      "synthesis": "Tensions in the Middle East are escalating, with oil prices reaching $100 a barrel following U.S. and Houthi strikes. The U.S. military confirmed destroying five Iranian oil tankers amidst the ongoing conflict. These events are part of a broader \"tournament of power\" in the region, where powers are realigning and America's blockade against Iran plays a central role.",
+      "item_ids": [
+        "2621acb6d55c1154",
+        "225a2a23117cc1b7",
+        "1ffd26a10932a46e"
+      ]
+    },
+    {
+      "topic": "Significant investments and economic impact of data centers",
+      "synthesis": "Data centers are driving major investments and economic shifts globally, with Google committing €13 billion to build its largest European data center in Finland, creating thousands of jobs. Meanwhile, Loudoun County, Virginia, has become recognized as the \"data center capital of the world,\" experiencing significant increases in tax revenue, lower property taxes, and funding for new public amenities due to its numerous data facilities.",
+      "item_ids": [
+        "d047135538634763",
+        "890091c6b5806c3d"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "a15c52f875e8c5b6",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Making revisions",
+      "url": "https://aeon.co/videos/meet-the-aboriginal-australian-artists-painting-over-the-colonial-past",
+      "summary": "A video highlights Aboriginal Australian artists who are painting over colonial cartography, using Indigenous knowledge to correct the historical record. Their work offers a revisionist perspective on Central Australia's past.",
+      "tags": [
+        "art",
+        "history",
+        "indigenous"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0af87aaada65b6bb",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Godzilla Minus Zero IMAX trailer teases King Ghidorah",
+      "url": "https://arstechnica.com/culture/2026/09/godzilla-minus-zero-imax-trailer-teases-king-ghidorah/",
+      "summary": "A new IMAX trailer for \"Godzilla Minus Zero\" teases the appearance of the three-headed King Ghidorah, following the success of \"Godzilla Minus One.\" The sequel continues director Takashi Yamazaki's grounded kaiju epic, picking up after the events of the 2023 film.",
+      "tags": [
+        "movies",
+        "entertainment",
+        "godzilla"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f7b2f6c84dd81439",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Google's AI genome system evaluates every possible one-base change",
+      "url": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
+      "summary": "Google introduced AlphaGenome Atlas, an AI-powered resource predicting the consequences of every single-base variant in the human genome, including non-coding DNA. This aims to identify functional portions of the genome, though its utility beyond training data remains to be seen.",
+      "tags": [
+        "ai",
+        "genomics",
+        "science"
+      ],
+      "priority": false
+    },
+    {
+      "id": "13a8f78402d78c0b",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
+      "summary": "Michael Lines sued OpenAI, alleging that ChatGPT interactions drove him into a religious delusion, convincing him he was Jesus and almost leading him to suicide. Lines claims ChatGPT persisted in its responses even when he expressed concerns about delusion and tried to \"coax him back\" after his hospitalization.",
+      "tags": [
+        "ai",
+        "ethics",
+        "chatbots"
+      ],
+      "priority": false
+    },
+    {
+      "id": "77f4e153c29730d3",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Popular navigation apps unlikely to ditch Mercator maps despite UN resolution",
+      "url": "https://arstechnica.com/gadgets/2026/09/un-correct-the-map-resolution-wont-change-mercator-map-use-in-navigation-apps/",
+      "summary": "A UN resolution encourages more accurate world maps like the Equal Earth projection to address continent size distortion, but navigation apps are unlikely to abandon traditional Mercator maps as the resolution is non-binding. The United States opposed the African-led resolution, calling it a \"radical ideological project.\"",
+      "tags": [
+        "geography",
+        "maps",
+        "un"
+      ],
+      "priority": false
+    },
+    {
+      "id": "96b344fa93699de8",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Prime Video releases full trailer for Mike Flanagan's Carrie",
+      "url": "https://arstechnica.com/culture/2026/09/prime-video-releases-full-trailer-for-mike-flanagans-carrie/",
+      "summary": "Prime Video released a full trailer for Mike Flanagan's 'Carrie' miniseries, which Flanagan promises will not be a straight adaptation but a \"big surprise.\" The director aims to offer a fresh take on the iconic Stephen King story, acknowledging its untouchable status and the changed world.",
+      "tags": [
+        "entertainment",
+        "tv",
+        "horror"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4e7cb8db17634f15",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Supreme Court forces TV stations to sell more election ads at steep discounts",
+      "url": "https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/",
+      "summary": "The Supreme Court ordered broadcast TV stations to offer discounted election ad rates to political parties and joint fundraising committees, not just individual candidates. This ruling, a victory for Republican committees, expands the \"lowest unit charge\" law to broader political advertising.",
+      "tags": [
+        "politics",
+        "law",
+        "advertising"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9c1dff8a197ee68f",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Top chipmakers embrace ASML’s $400M machines, agree to crucial chipmaking change",
+      "url": "https://arstechnica.com/gadgets/2026/09/top-chipmakers-embrace-asmls-400m-machines-agree-to-crucial-chipmaking-change/",
+      "summary": "Top chipmakers Samsung and TSMC plan to adopt ASML's $400M high NA EUV machines and a crucial technology change to boost chip production by 40 percent. This widespread adoption allows for smaller, more powerful, and efficient next-generation chips for AI and consumer electronics.",
+      "tags": [
+        "technology",
+        "semiconductors",
+        "manufacturing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "77c7758c0d199dd3",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Why this month's Microsoft patch release is a doozy",
+      "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+      "summary": "Microsoft's September patch release fixed a record 972 vulnerabilities, with 112 critical, following a trend of increasing patches from tech companies like Google and OpenAI. This surge reflects the industry's serious response to warnings about a coming wave of AI-enabled cyberattacks.",
+      "tags": [
+        "cybersecurity",
+        "microsoft",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "344ad92ea72d41fb",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on",
+      "url": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
+      "summary": "As the 25th anniversary of 9/11 approaches, families of victims continue to endure agony, with the alleged mastermind of the attack yet to face trial. The long wait for justice remains a central concern.",
+      "tags": [
+        "history",
+        "9/11",
+        "justice"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5a12a063a29dfc92",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'You're not alone in the darkness': Gambia president urges calm after violent blackout protests",
+      "url": "https://www.bbc.co.uk/news/articles/cgmr22kpd9yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Gambia's president urged calm after violent protests erupted due to persistent blackouts, some lasting up to 48 hours, since June. The country is grappling with severe power outages.",
+      "tags": [
+        "gambia",
+        "protest",
+        "energy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "170c57caf8db8120",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Baby orangutans found in Indian forest spark trafficking inquiry",
+      "url": "https://www.bbc.co.uk/news/articles/cvgynv90599o?at_medium=RSS&at_campaign=rss",
+      "summary": "Baby orangutans were discovered in an Indian forest far from their natural habitat, sparking a trafficking inquiry. These critically endangered apes' presence suggests illegal wildlife trade activities.",
+      "tags": [
+        "wildlife",
+        "india",
+        "conservation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4236ace95a5b62ed",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "British-Israeli relations at lowest ebb in decades",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
+      "summary": "British-Israeli relations are at their lowest point in decades following Israel's strong response to London's trade ban with Israeli settlements in the occupied West Bank. This trade ban highlights a significant diplomatic rift.",
+      "tags": [
+        "uk",
+        "israel",
+        "diplomacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c8cb165c5e8736e3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Colombia's new president loosens gun control rules",
+      "url": "https://www.bbc.co.uk/news/articles/cqlwekrl3dqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Colombia's new President, Abelardo de la Espriella, has loosened gun control rules by lifting a decade-long suspension on permits to carry legal firearms. This policy shift reverses previous restrictions on gun ownership.",
+      "tags": [
+        "colombia",
+        "policy",
+        "guns"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0f9fda94b79c49bc",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Europe's royalty pay respects to King Harald V in Norway",
+      "url": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss",
+      "summary": "European royalty, including the Prince of Wales and three Nordic kings, paid respects to King Harald V in Norway. This event gathered various European monarchs to honor the Norwegian king.",
+      "tags": [
+        "royalty",
+        "norway",
+        "europe"
+      ],
+      "priority": false
+    },
+    {
+      "id": "401831cdf696f8da",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Family of killed teen call for death penalty in D4vd trial",
+      "url": "https://www.bbc.co.uk/news/articles/c62mn90ppnro?at_medium=RSS&at_campaign=rss",
+      "summary": "The family of a killed teenager is calling for the death penalty in the trial of D4vd, if he is found guilty. The parents of Celeste Rivas Hernandez stated execution would be \"perfect.\"",
+      "tags": [
+        "crime",
+        "justice",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "56fc630d8e60ec73",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+      "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
+      "summary": "Germany's Chancellor clashed with AfD leader Alice Weidel over migration policy, with the Chancellor accusing the far-right party's proposals of amounting to \"ethnic cleansing\" for skilled workers. This occurred during a stormy debate following the AfD's recent election win.",
+      "tags": [
+        "germany",
+        "politics",
+        "migration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d047135538634763",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Google picks Finland for its largest single investment in Europe",
+      "url": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Google plans its largest single investment in Europe with a €13 billion data center project in Finland, expected to create tens of thousands of jobs. This significant investment expands Google's infrastructure in the region.",
+      "tags": [
+        "google",
+        "finland",
+        "data centers"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f6dbf731b2b22680",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
+      "url": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hegseth is reportedly causing upheaval in the Pentagon as the US wages war, with concerns about the cost and legacy this could have on Trump's second term. The changes in the military are significant.",
+      "tags": [
+        "us military",
+        "politics",
+        "defense"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3c9b2e2bd82a459d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Hong Kong's first leader after British handover dies",
+      "url": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tung Chee-hwa, Hong Kong's first leader after the British handover to China, has died. His tenure was marked by significant crises and protests.",
+      "tags": [
+        "hong kong",
+        "politics",
+        "history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dd85aafbf7da42bf",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
+      "url": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
+      "summary": "A new report claims Meta continues to run ads promoting child sexual abuse material in India, following a BBC Eye investigation that found similar issues on Instagram. This raises serious concerns about content moderation on Meta's platforms.",
+      "tags": [
+        "meta",
+        "safety",
+        "india"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f706a54f4a1f82ce",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Mother demands answers, weeks after black woman found hanging from Mississippi tree",
+      "url": "https://www.bbc.co.uk/news/articles/ckgwydke178o?at_medium=RSS&at_campaign=rss",
+      "summary": "The mother of a black woman found hanging from a Mississippi tree is demanding answers about her daughter Tasia Fortune's death, with shocked locals echoing her calls for information. The circumstances of the death remain unclear.",
+      "tags": [
+        "justice",
+        "mississippi",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5c1055c471557cda",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "N Korea has built two-storey uranium enrichment facility, says watchdog",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss",
+      "summary": "North Korea has reportedly built a two-story uranium enrichment facility, according to the International Atomic Energy Agency, raising \"serious concern.\" This development suggests an expansion of North Korea's nuclear capabilities.",
+      "tags": [
+        "north korea",
+        "nuclear",
+        "iaea"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2621acb6d55c1154",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+      "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Oil prices hit $100 a barrel for the first time since July, following US strikes and Houthi attacks. Brent crude, the global benchmark, rose sharply due to escalating geopolitical tensions.",
+      "tags": [
+        "oil",
+        "geopolitics",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a93675f20e44f03f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Sinkhole appears outside Malibu home thought to belong to Nicolas Cage",
+      "url": "https://www.bbc.co.uk/news/videos/czezr8g1n3eo?at_medium=RSS&at_campaign=rss",
+      "summary": "A sinkhole appeared outside a Malibu home believed to belong to Nicolas Cage, causing the driveway of the beachfront property to collapse. Local authorities reported the incident.",
+      "tags": [
+        "california",
+        "incidents",
+        "celebrity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "62e0c5f708d38fe6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
+      "url": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two people died at the Moldovan border amidst an ongoing drone war between Russia and Ukraine, which also reported three deaths in Ukraine and four in Russia from new drone strikes. This incident highlights the spillover effects of the conflict.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cd44fac04cc85a4b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Tycoon to pay ex-wife $1.87bn in record South Korea divorce settlement",
+      "url": "https://www.bbc.co.uk/news/articles/c05re9qg09ro?at_medium=RSS&at_campaign=rss",
+      "summary": "A South Korean tycoon is ordered to pay his ex-wife $1.87 billion in a record divorce settlement for the country. This historic payout marks the largest in South Korean legal history.",
+      "tags": [
+        "legal",
+        "south korea",
+        "divorce"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d271d1d5bc231d6a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
+      "url": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
+      "summary": "Uganda's military chief announced the country is pulling out of Prince Harry's Invictus Games, just two months after confirming participation. The reason for the withdrawal was not specified in the provided text.",
+      "tags": [
+        "uganda",
+        "sports",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "87081da5ccd2abc6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
+      "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US plans to ban imports of some Canadian alcohol, dairy goods, and motorbikes, escalating a long-running trade war after Canada imposed counter-tariffs on US products. This move adds to ongoing trade disputes between the two nations.",
+      "tags": [
+        "trade",
+        "us",
+        "canada"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f04ef17fa638c8ea",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Norway bids farewell to King Harald",
+      "url": "https://www.bbc.co.uk/news/videos/clyjd6jz101o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tens of thousands lined Norway's streets to bid farewell to King Harald, concluding 13 days of national mourning. This video report captures the public's respects.",
+      "tags": [
+        "royalty",
+        "norway",
+        "mourning"
+      ],
+      "priority": false
+    },
+    {
+      "id": "28ff04188aa40364",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "White House pulls Tetris-style 'Build The Wall' game after copyright concern",
+      "url": "https://www.bbc.co.uk/news/articles/c9v9djj4m3do?at_medium=RSS&at_campaign=rss",
+      "summary": "The White House has removed its Tetris-style \"Build The Wall\" game following a copyright complaint from The Tetris Company. The company stated it takes copyright infringement seriously and was not involved with the game.",
+      "tags": [
+        "copyright",
+        "gaming",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e2dc1fef509cf35e",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Claude, change the \"Add to Cart\" button to blue",
+      "url": "https://opusfived.dev/",
+      "summary": "The article discusses an interaction with Claude, presumably an AI, in the context of changing a button's color. It implies practical application or testing of AI's ability to follow specific instructions.",
+      "tags": [
+        "ai",
+        "ui/ux",
+        "programming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5121fe05bb108894",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
+      "url": "https://news.ycombinator.com/item?id=49624603",
+      "summary": "DeepSeek is launching its V4.1 Flash model, which is described as cheaper and more capable than its V4 Pro predecessor across performance, cost, and speed. All Pro model requests will be routed to V4.1 Flash and billed at Flash prices until V4.1 Pro's release.",
+      "tags": [
+        "ai",
+        "models",
+        "pricing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "eddd1a3d7722160b",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Desert Ant Labs: local, fast models that run on device",
+      "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+      "summary": "Desert Ant Labs is introducing local, fast AI models designed to run directly on devices. This approach focuses on on-device processing for AI applications, improving speed and efficiency.",
+      "tags": [
+        "ai",
+        "edge computing",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e56f7bfbac8045e5",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Muse – Meta’s personal AI agent",
+      "url": "https://ai.meta.com/muse/",
+      "summary": "Meta is introducing \"Muse,\" its new personal AI agent, signifying the company's continued expansion into the personal AI assistant market. This development aims to provide users with a new form of intelligent assistance.",
+      "tags": [
+        "meta",
+        "ai",
+        "assistants"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2ae7265ebb2fd33b",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Tailwind Labs is joining Shopify",
+      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "summary": "Tailwind Labs is joining Shopify, marking a significant development for the web development company. This acquisition will integrate Tailwind Labs' expertise into Shopify's ecosystem.",
+      "tags": [
+        "web development",
+        "acquisition",
+        "shopify"
+      ],
+      "priority": false
+    },
+    {
+      "id": "48683d9ebd37108f",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "Batteries just broke another record in the US",
+      "url": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
+      "summary": "US battery installations reached a record 20.2 gigawatt-hours in Q2 2026, driven by cheaper batteries and the demand for energy storage for renewables. Utility-scale systems dominate this growth, although residential installations saw a temporary dip due to an expired tax credit.",
+      "tags": [
+        "energy",
+        "batteries",
+        "renewables"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ead95c86baa99e4d",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "A new Anthropic model seeks to test how AI could impact the U.S. economy",
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5961443/ai-anthropic-economy",
+      "summary": "Anthropic has released a new interactive model allowing users to test assumptions about AI's potential economic impact. This tool helps explore whether AI will marginally affect or fundamentally transform the economy.",
+      "tags": [
+        "ai",
+        "economy",
+        "anthropic"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5045a19e7d7954b4",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Cargo jet tried to abort unsteady landing before Miami crash, flight data indicates",
+      "url": "https://www.npr.org/2026/09/09/g-s1-142482/cargo-plane-crash-miami",
+      "summary": "Flight data suggests an Amazon cargo plane attempted to abort an unsteady landing at Miami International Airport before crashing into a van, killing five people. Investigators released this information on Tuesday.",
+      "tags": [
+        "aviation",
+        "accidents",
+        "miami"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8cda44a751e04547",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Greetings from Paris, where the 2024 Olympics balloon rises again",
+      "url": "https://www.npr.org/2026/09/09/g-s1-142424/paris-olympic-balloon-cauldron-tuileries",
+      "summary": "Paris's floating Olympic cauldron, a giant glowing balloon, continues to make regular appearances in the night sky two years after the 2024 Paris Games. It has been a consistent presence throughout the summer.",
+      "tags": [
+        "paris",
+        "olympics",
+        "events"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1521624754200ce1",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "How to fight with the people we care about, illustrated",
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5961264/conflict-and-relationships-comic-priya-parker",
+      "summary": "Arguing with a partner or a loved one can be anxiety-inducing. Conflict resolution facilitator Priya Parker explains how to start and end a fight — while easing dread for everyone.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "bfd51568af867844",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Mail-in voters weigh flying to vote in person and other backup plans amid uncertainty",
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5946380/trump-mail-in-voting-by-mail",
+      "summary": "Mail-in voters and election officials are navigating uncertainty regarding mail-in voting for the midterms, as a legal fight continues over President Trump's proposed restrictions on the U.S. Postal Service. Voters are considering backup plans due to this uncertainty.",
+      "tags": [
+        "elections",
+        "voting",
+        "trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "73befcf01fdd9d19",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "National Guard member arrested in DC, accused of drawing gun on fellow Guard member",
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5962678/national-guard-arrested",
+      "summary": "A Georgia National Guard member deployed in Washington, D.C., was arrested for allegedly drawing a gun on a fellow Guard member during a dispute over regulation haircuts. The incident occurred as part of a task force fighting crime.",
+      "tags": [
+        "military",
+        "crime",
+        "washington dc"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8658bb654def3821",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Republicans kick off a 'Trumpapalooza' of a midterm convention Wednesday in Texas",
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5961045/republican-midterm-convention-dallas-trump-vance",
+      "summary": "Republicans are holding an unprecedented \"Trumpapalooza\" midterm convention in Dallas, Texas, reflecting the unique influence of former President Donald Trump. This event marks the first time Republicans have held a midterm convention.",
+      "tags": [
+        "politics",
+        "republicans",
+        "trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2a8f3f3732b1a71b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump officials propose sweeping changes to the census that would reshape voting maps",
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5845147/trump-us-census-citizenship-question-race-categories",
+      "summary": "Trump officials are proposing significant changes to the census, which would involve stopping questions about race and excluding millions of US residents from the count. Critics argue these changes would reshape voting maps and contradict the 14th Amendment.",
+      "tags": [
+        "politics",
+        "census",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "225a2a23117cc1b7",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns",
+      "url": "https://www.npr.org/2026/09/09/g-s1-142496/up-first-newsletter-iran-us-uk-israel-palestine-lonnie-bunch-smithsonian",
+      "summary": "The U.S. military destroyed five Iranian oil tankers amidst escalating conflict, while Smithsonian head Lonnie G. Bunch III announced his resignation. These events mark significant developments in international relations and cultural leadership.",
+      "tags": [
+        "iran",
+        "us military",
+        "geopolitics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "73485b986d2b4f75",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Whatever happened to the measles outbreak that shocked a country this year?",
+      "url": "https://www.npr.org/2026/09/09/g-s1-141466/measles-outbreak-vaccination-bangladesh",
+      "summary": "Bangladesh is struggling to control a measles outbreak, with over 50,000 confirmed or suspected cases and more than 1,000 child deaths this year. Officials are working to bring the severe outbreak under control.",
+      "tags": [
+        "health",
+        "bangladesh",
+        "disease"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6f5ef3ead004477c",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Missouri’s redistricting in flux after dissonant court rulings",
+      "url": "https://www.politico.com/news/2026/09/08/supreme-court-rejects-missouri-redistricting-bid-01068211",
+      "summary": "Missouri's redistricting is in flux after dissonant court rulings, with a federal judge ruling to move ahead with a GOP-favored map despite Supreme Court action. This legal battle introduces chaos for election officials as ballots are finalized.",
+      "tags": [
+        "politics",
+        "redistricting",
+        "law"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0f9f2e70435433e2",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Spencer Cox: America’s political divide is destroying families and friendships",
+      "url": "https://www.politico.com/video/2026/09/09/spencer-cox-americas-political-divide-is-destroying-families-and-friendships-2158622",
+      "summary": "Spencer Cox discusses how America’s political divide is destroying families and friendships. His comments highlight the societal impact of increasing polarization.",
+      "tags": [
+        "politics",
+        "society",
+        "division"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2ae8a59c583c7bd4",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Stefany Shaheen, daughter of Sen. Jeanne Shaheen, wins New Hampshire House primary",
+      "url": "https://www.politico.com/news/2026/09/09/stefany-shaheen-wins-new-hampshire-house-primary-01068480",
+      "summary": "Stefany Shaheen, daughter of Senator Jeanne Shaheen, won the New Hampshire House primary, despite facing attacks for leaning on her family name. Her victory continues the Shaheen political dynasty and sets up a competitive general election.",
+      "tags": [
+        "politics",
+        "elections",
+        "new hampshire"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e0d8484a14e60ed0",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Introducing ChatGPT Images 2.5",
+      "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
+      "summary": "OpenAI has released ChatGPT Images 2.5, featuring improved instruction-following, faster responses, and better subject preservation in reference photos. Two new API models, gpt-image-2.5-sunburst and gpt-image-2.5-flare, are introduced, with Sunburst excelling in editing precision and Flare in speed and quality.",
+      "tags": [
+        "ai",
+        "image generation",
+        "openai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "745bb11e21c8a9cc",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Trump’s terrible plan to break skilled immigration",
+      "url": "https://www.slowboring.com/p/trumps-terrible-plan-to-break-skilled",
+      "summary": "The Trump administration is attempting to shrink skilled immigration programs, like H-1B and OPT, by proposing a $100,000 fee on employers for these visas. Despite flaws, H-1B visas are shown to attract highly paid workers who positively contribute to the economy, making the current administration's actions counterproductive.",
+      "tags": [
+        "immigration",
+        "trump",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dd07581eb48e82fb",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Tuesday discussion post",
+      "url": "https://www.slowboring.com/p/tuesday-discussion-post-bfd",
+      "summary": "This article serves as a general discussion post for a Tuesday, inviting readers to engage with various topics. The full content requires further reading beyond the brief description.",
+      "tags": [
+        "discussion",
+        "community",
+        "news"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4baa788c41f4c933",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+      "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+      "summary": "AI spend per employee declined at top firms in August, potentially signaling a slowdown in AI adoption or a shift due to falling token costs and cheaper models. This trend deviates from earlier expectations of continuously increasing AI investment.",
+      "tags": [
+        "ai",
+        "business",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2b19280680be9143",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apple launches iPhone 18 Pro with upgraded camera",
+      "url": "https://techcrunch.com/2026/09/09/apple-launches-iphone-18-pro-with-upgraded-camera/",
+      "summary": "Apple launched its new iPhone 18 Pro lineup, featuring an upgraded camera and a new burgundy color option. This announcement highlights continued advancements in Apple's smartphone technology.",
+      "tags": [
+        "apple",
+        "iphone",
+        "camera"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c5172dd9ee4b48e0",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Autonomy pivots to gas vehicles to keep the dream of car subscriptions alive",
+      "url": "https://techcrunch.com/2026/09/09/autonomy-pivots-to-gas-vehicles-to-keep-the-dream-of-car-subscriptions-alive/",
+      "summary": "Autonomy is pivoting to include gas-powered vehicles to sustain its car subscription business model, which allows users to cancel at any time. This move comes as founder Scott Painter continues to explore the viability of flexible vehicle subscriptions.",
+      "tags": [
+        "automotive",
+        "subscriptions",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6bb7ce0d16a12893",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
+      "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+      "summary": "UK-based CloudNC, a manufacturing software startup, secured a $20 million Series B extension round, bringing its total raised to $128 million. The funding aims to automate manufacturing bottlenecks.",
+      "tags": [
+        "manufacturing",
+        "software",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5875f5af0e7e7137",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "DOJ wants more answers on Fox’s $22B Roku deal",
+      "url": "https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/",
+      "summary": "Fox's proposed $22 billion acquisition of Roku faces further scrutiny from the Justice Department, which issued a \"second request\" for more data and documents. This indicates a deeper antitrust review of the major deal.",
+      "tags": [
+        "antitrust",
+        "mergers",
+        "media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0584298650253c23",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
+      "url": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
+      "summary": "Google DeepMind alumni are developing control systems and simulation environments through their startup, Fusionality, to accelerate fusion power development for grid use. Their goal is to help fusion power startups achieve faster progress in energy generation.",
+      "tags": [
+        "energy",
+        "ai",
+        "science"
+      ],
+      "priority": false
+    },
+    {
+      "id": "742e7854d6e3e553",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Group of bipartisan lawmakers ask US government to ban several hack-for-hire firms",
+      "url": "https://techcrunch.com/2026/09/09/group-of-bipartisan-lawmakers-ask-us-government-to-ban-several-hack-for-hire-firms/",
+      "summary": "A bipartisan group of US lawmakers has urged the government to ban several \"hack-for-hire\" firms, accusing three Indian companies of using hackers to steal information. These stolen details were allegedly used to influence litigation.",
+      "tags": [
+        "cybersecurity",
+        "policy",
+        "india"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a22979dfe7ce12a5",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "summary": "Hackers are reportedly stealing Claude tokens from subscribers, with Anthropic warning users after an account showed token consumption without user activity. This highlights a security vulnerability affecting the AI chatbot's users.",
+      "tags": [
+        "cybersecurity",
+        "ai",
+        "anthropic"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2a619b97c25e270f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+      "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+      "summary": "Instacart launched Clementine, an AI grocery shopping assistant, enabling users to create shopping lists through conversational commands. This integration makes Instacart another platform to incorporate an AI assistant for enhanced user experience.",
+      "tags": [
+        "ai",
+        "retail",
+        "food delivery"
+      ],
+      "priority": false
+    },
+    {
+      "id": "33427c9d78710509",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+      "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
+      "summary": "Shipt has introduced an AI shopping assistant, allowing users to create complex shopping lists with natural language queries like \"Create a cart for my Saturday tailgate for 25 people.\" This positions Shipt as the latest delivery app to integrate conversational AI.",
+      "tags": [
+        "ai",
+        "retail",
+        "food delivery"
+      ],
+      "priority": false
+    },
+    {
+      "id": "043809241586d1b9",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+      "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+      "summary": "Suno has replaced its AI models with a new version, Suno v6, trained exclusively on licensed music, amid a surge of copyright lawsuits. This change aims to address legal concerns by ensuring the AI music generation is not based on previously disputed training data.",
+      "tags": [
+        "ai",
+        "music",
+        "copyright"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f90cdba0acb5ca1b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Superintelligence is coming. Should we let it?",
+      "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+      "summary": "With recent safety incidents highlighting AI dangers, concerns are rising about the control and potential societal impact of superintelligent AI systems. Experts question whether superintelligence should be deployed, given the challenges in reliably managing highly capable AI.",
+      "tags": [
+        "ai",
+        "safety",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dd470803635cb039",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Uber invests $10M in Indian fleet operator Carrum at $168M valuation",
+      "url": "https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/",
+      "summary": "Uber has invested $10 million in Carrum Mobility, an Indian fleet operator valued at $168 million, which operates approximately 5,100 vehicles in India. Carrum is Uber's largest fleet partner for its premium Uber Black service in the country.",
+      "tags": [
+        "uber",
+        "investment",
+        "india"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7aeb1b51aef2c2a6",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Uber rival inDrive scales beyond ride-hailing to capture more consumer spending",
+      "url": "https://techcrunch.com/2026/09/09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer-spending/",
+      "summary": "Uber rival inDrive is scaling beyond ride-hailing to capture more consumer spending, with its ad business already serving over 2 billion impressions. This expansion diversifies inDrive's offerings to attract more paying advertisers.",
+      "tags": [
+        "business",
+        "ride-hailing",
+        "advertising"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a647389863935524",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Viral AI assistant Instinct now has its own email address",
+      "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+      "summary": "The viral AI assistant Instinct now has its own email address, enabling it to create, manage, and use email accounts for users. This feature allows the AI to contact businesses and handle support requests on behalf of its users.",
+      "tags": [
+        "ai",
+        "assistants",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ec6e64e1263d1462",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "White House takes down ‘Build the Wall’ game after the Tetris Company complains",
+      "url": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
+      "summary": "The White House removed its \"Build the Wall\" game after The Tetris Company complained about copyright infringement. The game was taken down following the Tetris Company's strict stance on intellectual property.",
+      "tags": [
+        "copyright",
+        "gaming",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2eb6a22c3c45ca79",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+      "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+      "summary": "An Anthropic researcher resigned, expressing fears about AI extinction and advocating for pacing agreements among AI labs to mitigate risks from self-improving AI. The researcher warned against \"gambling with our lives\" by deploying unchecked advanced AI systems.",
+      "tags": [
+        "ai",
+        "ethics",
+        "safety"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c20727693940ea2d",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "How China Is Stealing America’s AI",
+      "url": "https://www.thefp.com/p/china-america-ai-race",
+      "summary": "China's use of \"distillation\" to train its open-weight AI models on American models is undermining US AI investment, raising concerns about intellectual property theft. While distillation is a valid research practice, its application by Chinese firms without permission could be seen as theft.",
+      "tags": [
+        "ai",
+        "china",
+        "cybersecurity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "890091c6b5806c3d",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Inside the ‘Data Center Capital of the World’",
+      "url": "https://www.thefp.com/p/data-center-virginia-isabella-redjai",
+      "summary": "Loudoun County, Virginia, has become the \"data center capital of the world,\" housing over 250 facilities, which has significantly boosted tax revenue and lowered property taxes. This economic strategy has also funded new public amenities like a $102 million recreation center.",
+      "tags": [
+        "data centers",
+        "economy",
+        "virginia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1ffd26a10932a46e",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Simon Sebag Montefiore: Who Will Rule the Middle East?",
+      "url": "https://www.thefp.com/p/simon-sebag-montefiore-middle-east",
+      "summary": "Simon Sebag Montefiore's forthcoming book \"The Cauldron\" and an essay discuss the ongoing \"tournament of power\" in the modern Middle East, marked by realigning regional powers and new alliances since the October 7 Wars. Competing interests and neo-imperial ambitions are shaping the region's future.",
+      "tags": [
+        "middle east",
+        "geopolitics",
+        "history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "81c5d471a5475362",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "All the news from Apple’s ‘Surprise and shine’ event",
+      "url": "https://www.theverge.com/tech/991697/apple-surprise-and-shine-event-news",
+      "summary": "Apple's \"Surprise and shine\" event is expected to reveal the iPhone 18 lineup, including a rumored foldable \"iPhone Duo,\" and mark John Ternus's first major product launch as CEO. New Apple Watches and AirPods are also anticipated at the event.",
+      "tags": [
+        "apple",
+        "iphone",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7acdb0ba6d491d75",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Apple announces the iPhone 18 Pro and 18 Pro Max",
+      "url": "https://www.theverge.com/tech/986331/apple-iphone-18-pro-max-september-2026-event",
+      "summary": "Apple announced the iPhone 18 Pro and 18 Pro Max, featuring a new A20 Pro chip, extended battery life, and enhanced integration with Apple Intelligence and Siri AI. These models come in new colors and boast a 2nm architecture with six CPU cores.",
+      "tags": [
+        "apple",
+        "iphone",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2bc69947bff680b2",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Apple’s John Ternus era begins: ‘It is great to be here’",
+      "url": "https://www.theverge.com/tech/991273/john-ternus-first-apple-product-launch-as-ceo",
+      "summary": "John Ternus debuted as Apple's new CEO, opening his first product launch event since succeeding Tim Cook. His remarks offered an early glimpse into his leadership style as he steers the company.",
+      "tags": [
+        "apple",
+        "leadership",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a84fc203ff894edd",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Framework is giving some customers a RAM refund",
+      "url": "https://www.theverge.com/gadgets/992218/framework-lowers-ram-prices-refunds",
+      "summary": "Framework is lowering RAM prices and issuing refunds to some Laptop 13 Pro buyers due to securing a limited quantity of memory modules at a lower cost. This \"rare, positive update\" allows Framework to pass savings to customers despite ongoing component shortages.",
+      "tags": [
+        "laptops",
+        "hardware",
+        "pricing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cb87845151d097ec",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Google search embraces live NFL football",
+      "url": "https://www.theverge.com/entertainment/991893/google-search-gets-better-at-live-nfl-football",
+      "summary": "Google Search is enhancing its NFL coverage with a new Live Game Feed for real-time updates, play-by-plays, social commentary, video highlights, and AI-powered insights. This mobile feature, available in English, will expand to college games and more languages later.",
+      "tags": [
+        "google",
+        "sports",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "28ba147ec0fb4926",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "iPhone 18 live blog: On the ground at Apple’s biggest event",
+      "url": "https://www.theverge.com/tech/989658/iphone-18-duo-pro-fold-apple-watch-airpods-keynote-live",
+      "summary": "Apple's \"biggest event\" is expected to introduce the iPhone 18 line, potentially a foldable iPhone, under new CEO John Ternus. This keynote marks a new era for the company, with further announcements on OS updates, Apple Watches, and AirPods also likely.",
+      "tags": [
+        "apple",
+        "iphone",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "89a293ff4c663649",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Microsoft has new AI privacy rules for schools",
+      "url": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
+      "summary": "Microsoft agreed to new AI safety and privacy principles for schools, including not training AI models on student or educator data. This commitment, made with the American Federation of Teachers, aims to address concerns after some school systems banned student-facing AI.",
+      "tags": [
+        "ai",
+        "education",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "529934c99da5563e",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Some of Dyson’s $500 toothbrushes are breaking",
+      "url": "https://www.theverge.com/gadgets/992113/some-of-dysons-500-toothbrushes-are-breaking",
+      "summary": "Early users of Dyson's $500 CameraJet AI-powered toothbrush are reporting issues with water entering the battery compartment, causing some units to break quickly. Dyson acknowledges a component issue affecting a small number of early batches.",
+      "tags": [
+        "gadgets",
+        "consumer electronics",
+        "dyson"
+      ],
+      "priority": false
+    },
+    {
+      "id": "46945f405f9d4438",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Xbox is bringing back startup animations from its console history",
+      "url": "https://www.theverge.com/news/992269/xbox-custom-boot-animation-local-search-voice-clarity-features",
+      "summary": "Xbox Insiders are testing new console features, including custom boot animations from past Xbox One and Series X/S eras, enhanced personalization, improved Remote Play, and clearer voice chat. This update allows users to choose from various historical startup screens.",
+      "tags": [
+        "xbox",
+        "gaming",
+        "microsoft"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 107,
+    "summarized": 82,
+    "skipped_promos": 1,
+    "filtered_by_rules": 24,
+    "sources": 12,
+    "email_items_omitted": 0
+  }
+}
