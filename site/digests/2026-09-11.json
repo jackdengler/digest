@@ -1,0 +1,1045 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T17:27:30+00:00",
+  "hot_topics": [
+    {
+      "topic": "AI Safety and Bioweapons Misuse",
+      "synthesis": "Anthropic and other AI labs are grappling with the misuse of their technology, as evidenced by attempts to circumvent safeguards for bioweapons research. Concerns about artificial intelligence's existential risks are leading some researchers to resign and call for a halt to development. This highlights the ongoing challenge of managing global AI proliferation and ensuring public safety.",
+      "item_ids": [
+        "bf76573b497ca999",
+        "7bd853d573aad7f1"
+      ]
+    },
+    {
+      "topic": "The 25th Anniversary of 9/11 and its Lingering Impact",
+      "synthesis": "The 25th anniversary of September 11, 2001, prompts widespread reflection on the attacks' enduring legacy, from deeply personal recollections of survival and loss to debates over national identity and historical interpretation. Coverage highlights both the immediate shock and the long-term societal shifts, including divisions over blame and the subsequent foreign policy decisions. The experiences of first responders, undocumented cleanup crews, and a New York psychiatrist during the crisis are also being shared, emphasizing the attack's profound, underrrated impact.",
+      "item_ids": [
+        "8cfd1ed1cdd63c60",
+        "a7ff6ef4aeb8304e",
+        "52aa76d4a8746cbd",
+        "49dcf4194fa588f4",
+        "9348103d2238a099",
+        "1263f5b48c48f1e3",
+        "1aa0c74efe698991",
+        "4658acc2d6467c50",
+        "1e2f314d07be7bef",
+        "47ff8cae2ce4d1e0",
+        "0a26af7c8c1fe540"
+      ]
+    },
+    {
+      "topic": "Trump's Proposal for $5,000 Dividend Checks",
+      "synthesis": "President Trump's unexpected proposal to issue $5,000 checks to every American adult has blindsided top Republicans, who are now scrambling to respond. Analysts question the feasibility, legality, and affordability of the trillion-dollar-plus plan, while some GOP members cautiously support it and others express doubt about its passage in Congress. The proposal was announced at a Republican midterm convention, adding a new layer to election-year campaigning.",
+      "item_ids": [
+        "fa38163ed66d1789",
+        "07978b3e7faee3ac"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "33414d931bc51b2a",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Android can now securely migrate your logins between password managers",
+      "url": "https://arstechnica.com/gadgets/2026/09/android-can-now-securely-migrate-your-logins-between-password-managers/",
+      "summary": "Android has introduced a new secure process for migrating logins between password managers directly on the phone, eliminating the need for manual entry. This feature works with Google Password Manager, 1Password, Bitwarden, and Dashlane, streamlining the transfer of complex passwords.",
+      "tags": [
+        "android",
+        "security",
+        "passwords"
+      ],
+      "priority": false
+    },
+    {
+      "id": "627060fab3576ab9",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "China’s drone supremacy shows in airlifting bodies and food after Nepal flood disaster",
+      "url": "https://arstechnica.com/gadgets/2026/09/drones-deliver-food-and-remove-bodies-after-nepals-flood-disaster/",
+      "summary": "Chinese-made DJI FlyCart 100 drones are being used by Nepal's army for aid delivery and body recovery following devastating flash floods caused by a glacier collapse. These drones can carry heavy loads using a winch system, demonstrating China's drone capabilities in disaster relief.",
+      "tags": [
+        "drones",
+        "disaster-relief",
+        "china"
+      ],
+      "priority": false
+    },
+    {
+      "id": "449ebd8afafe51b3",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Claude users found ways around safeguards for bioweapons research",
+      "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
+      "summary": "Anthropic said it stopped multiple attempts by scientists this year to use its technology for research that could help develop biological weapons, as experts increasingly fear the threat that AI poses to public safety.\nThe startup gave five examples of times actors “circumvented…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "db35608f962bcb8c",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "ClickFix attacks infecting PCs and Macs are going viral",
+      "url": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
+      "summary": "ClickFix attacks are now widespread, infecting PCs and Macs through compromised websites, fake CAPTCHAs, and single terminal commands. Many users, including those less tech-savvy, are falling victim due to desensitization to complex online instructions.",
+      "tags": [
+        "cybersecurity",
+        "malware",
+        "phishing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4a14b3c091fa4153",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Kimmel's ABC show won't air interview with Democrat because of Trump FCC threats",
+      "url": "https://arstechnica.com/tech-policy/2026/09/kimmels-abc-show-wont-air-interview-with-democrat-because-of-trump-fcc-threats/",
+      "summary": "Jimmy Kimmel announced that an interview with a Democratic Senate candidate will only air on YouTube, not ABC TV, due to threats from the Trump FCC. This decision aims to prevent trouble for individual stations holding FCC licenses.",
+      "tags": [
+        "media",
+        "politics",
+        "censorship"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0f32a31bf6c3fd14",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions",
+      "url": "https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/",
+      "summary": "LinkedIn won two lawsuits regarding its practice of scanning users' browser extensions, with a judge dismissing the cases due to plaintiffs' failure to prove private information was conveyed. The judge expressed doubt that a plausible privacy violation case could be made, as extensions inherently expose data to websites.",
+      "tags": [
+        "legal",
+        "privacy",
+        "tech-policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "afb646d7957ae8da",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Panic builds over bankrupt Spirit’s looming data sale to Google",
+      "url": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
+      "summary": "Springshot's founder expressed shock over Google's planned acquisition of Spirit Airlines' operational data, fearing it improperly includes Springshot's proprietary data and intellectual property. Springshot's platform powered Spirit's technology stack for three years but was not notified of the data auction.",
+      "tags": [
+        "data",
+        "bankruptcy",
+        "ip"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e378b5ef279bf076",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Physicist does the math on Star Trek’s “Picard maneuver”",
+      "url": "https://arstechnica.com/science/2026/09/physicist-does-the-math-on-star-treks-picard-maneuver/",
+      "summary": "A physicist has analyzed Star Trek's \"Picard maneuver,\" finding a scientific subtlety that makes the warp-speed trick even more impressive and a valuable teaching tool for relativity. The maneuver involves a ship charging at warp speed then stopping abruptly, creating two visual images for the enemy to target.",
+      "tags": [
+        "science",
+        "physics",
+        "star-trek"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bf76573b497ca999",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+      "summary": "Anthropic revealed it blocked attempts to use its AI for biological weapons, echoing warnings from a former researcher about AI risks to humanity. This information comes from Anthropic's threat intelligence report.",
+      "tags": [
+        "ai",
+        "bioweapons",
+        "security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7bc8a57342785a0a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Bernie Sanders speaks to the BBC about proposal to ban AI superintelligence",
+      "url": "https://www.bbc.co.uk/news/videos/cgjq11576q2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Senator Bernie Sanders discussed his proposal to ban AI superintelligence and suggested the US take a 50% stake in AI companies through a sovereign wealth fund.",
+      "tags": [
+        "ai",
+        "policy",
+        "bernie-sanders"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a7ff6ef4aeb8304e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Brother of Muslim policeman killed in 9/11 'disappointed' by calls for Mamdani to sit out memorial",
+      "url": "https://www.bbc.co.uk/news/videos/ce8e67l4330o?at_medium=RSS&at_campaign=rss",
+      "summary": "Zeshan Hamdani, brother of a Muslim policeman killed on 9/11, expressed disappointment over calls for Muslim New York Mayor Zohran Mamdani to abstain from 9/11 memorial events.",
+      "tags": [
+        "9/11",
+        "discrimination",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "32090ba0236e0fc2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
+      "url": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
+      "summary": "A Buddhist monk was arrested in Thailand for a suspected $3 million embezzlement scandal and for being filmed having sex with a suspected female accomplice, despite his vow of celibacy.",
+      "tags": [
+        "crime",
+        "thailand",
+        "religion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fa38163ed66d1789",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Can Trump really pay $5,000 to every American adult?",
+      "url": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
+      "summary": "Analysts are questioning the feasibility, legality, and affordability of President Trump's election-year offer to pay $5,000 to every American adult.",
+      "tags": [
+        "politics",
+        "economy",
+        "trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "228b21885e6de996",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Civilians are being urged to evacuate Ukraine's fortress cities of Kramatorsk and Slovyansk as Russia intensifies ground assaults to gain control of Donbas.",
+      "tags": [
+        "ukraine",
+        "conflict",
+        "russia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8fa774da4c071d9c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Five dead and dozens injured in coach crash in Swiss Alps",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+      "summary": "A tourist coach carrying Dutch passengers overturned in the south-eastern Swiss Alps, resulting in five deaths and dozens of injuries.",
+      "tags": [
+        "accident",
+        "switzerland",
+        "travel"
+      ],
+      "priority": false
+    },
+    {
+      "id": "db9b3958acaa7de1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Has Trump won over voters with his midterm convention?",
+      "url": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's North America editor analyzes the key takeaways from the first Republican convention held mid-presidential term, assessing whether Trump has swayed voters.",
+      "tags": [
+        "politics",
+        "trump",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "62c987634596a8d1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+      "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hong Kong activists who marked the 1989 Tiananmen Square crackdown have been sentenced to up to seven years in prison. This highlights the diminishing space for such commemorations in Chinese territory.",
+      "tags": [
+        "hong-kong",
+        "human-rights",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8f533d0d28f3be1a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+      "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Iran-backed Houthis reportedly seized Perim, a strategic island, as they claimed a major advance in Yemen and tightened their control over a vital Red Sea shipping route.",
+      "tags": [
+        "geopolitics",
+        "yemen",
+        "shipping"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bffe30f892b416be",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How global trade and oil prices could be hit by Houthi advance",
+      "url": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "98599f61cc0bf834",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Israel says it has destroyed major underground Hezbollah base",
+      "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "924253b8e28941ec",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Man jailed after threatening to behead son's teacher in French village",
+      "url": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
+      "summary": "A man in a French village was jailed after threatening to behead his son's female primary school teacher for disciplining his child in class.",
+      "tags": [
+        "crime",
+        "france",
+        "education"
+      ],
+      "priority": false
+    },
+    {
+      "id": "87edb43f57468e3c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Man loses case to claw back $369,000 he spent on lavish gifts for ex-girlfriend",
+      "url": "https://www.bbc.co.uk/news/articles/clyqxgzynk7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Singapore's High Court ruled against a man's attempt to reclaim $369,000 spent on lavish gifts for his ex-girlfriend, stating he willingly showered her with presents even before their relationship.",
+      "tags": [
+        "legal",
+        "singapore",
+        "relationships"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6970d037c1202f17",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "More than 20 children killed in DR Congo school fire",
+      "url": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
+      "summary": "Over 20 children were killed in a school fire in the eastern rebel-held city of Bukavu, DR Congo, with officials reporting a stampede as they attempted to flee.",
+      "tags": [
+        "tragedy",
+        "dr-congo",
+        "fire"
+      ],
+      "priority": false
+    },
+    {
+      "id": "21729fd76d09cca8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
+      "url": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Princess Astrid of Norway died two days after attending her brother King Harald's funeral, with the new king, Haakon VIII, praising her warm and dutiful representation of the Royal House.",
+      "tags": [
+        "royalty",
+        "norway",
+        "obituary"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f6cb4d62f9339932",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Philippine rescuers board ferry 40 hours after blaze began",
+      "url": "https://www.bbc.co.uk/news/articles/c9dwx97pl5no?at_medium=RSS&at_campaign=rss",
+      "summary": "Philippine rescuers have boarded a ferry 40 hours after a blaze began, facing challenges from thick, toxic fumes and extreme temperatures.",
+      "tags": [
+        "disaster",
+        "philippines",
+        "rescue"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9e3c60cabbf3ec26",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Princess Diana's 'revenge dress' goes up for auction",
+      "url": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
+      "summary": "Princess Diana's iconic \"revenge dress\" is set to go up for auction at Sotheby's, with expectations to sell for up to $300,000.",
+      "tags": [
+        "fashion",
+        "auction",
+        "royalty"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a9199c9eaaba4bf3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Six Nigerians accused of romance scams to be extradited to the US",
+      "url": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
+      "summary": "Six Nigerian individuals accused of romance scams are to be extradited to the US to face wire fraud and money-laundering charges.",
+      "tags": [
+        "crime",
+        "africa",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7174b268b18a35cc",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "The student behind 'cockroach' protests that forced an Indian minister to quit",
+      "url": "https://www.bbc.co.uk/news/articles/cly749x4k2vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Abhijeet Dipke, founder of the \"cockroach\" party, gained celebrity status overnight after his protests led to an Indian minister's resignation.",
+      "tags": [
+        "politics",
+        "india",
+        "activism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "83f9bd065f63ab0d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
+      "url": "https://www.bbc.co.uk/news/articles/c07lv53l7jjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Divisions within the Brics bloc make a united response to Washington unlikely, even as Modi hosts Putin and Xi in Delhi under the shadow of Trump's influence.",
+      "tags": [
+        "geopolitics",
+        "brics",
+        "international-relations"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8cfd1ed1cdd63c60",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Americans remember what they were doing on 9/11",
+      "url": "https://www.bbc.co.uk/news/videos/cdr765xj1k1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC asked people in Washington to share their memories of 9/11 and how the events of September 11, 2001, reshaped the country.",
+      "tags": [
+        "9/11",
+        "history",
+        "america"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9b1cc32f24913d78",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Empty seats, socialism and Trump dominate the Republican midterm convention",
+      "url": "https://www.npr.org/2026/09/11/nx-s1-5962848/republican-convention-trump-dividend-vance-midterms",
+      "summary": "The Republican convention in Dallas highlighted the party's reliance on President Trump as both an asset and an obstacle for winning midterm races, amidst discussions of empty seats and socialism.",
+      "tags": [
+        "politics",
+        "elections",
+        "trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9dba5de427db7ca4",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Is Patagonia the new data center hub? + Harley-Davidson's role in the trade war",
+      "url": "https://www.npr.org/2026/09/11/nx-s1-5966498/is-patagonia-the-new-data-center-hub-harley-davidsons-role-in-the-trade-war",
+      "summary": "Patagonia is being considered as a potential new hub for data centers.",
+      "tags": [
+        "environment",
+        "technology",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "49dcf4194fa588f4",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Remembering 9/11. And, Vance, Trump urge voters to back Republicans in the midterms",
+      "url": "https://www.npr.org/2026/09/11/g-s1-142846/up-first-newsletter-september-11-remembrance-republican-midterm-convention-scotus-missouri-redistricting",
+      "summary": "NPR reflects on the 25th anniversary of 9/11 and its impact on the U.S., while President Trump and Vice President Vance used a Republican convention to urge voters to support the GOP in the midterms.",
+      "tags": [
+        "9/11",
+        "politics",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e3dd991cdb4bb18f",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "The U.S.-Canada trade war is creating a headache for auto-parts makers",
+      "url": "https://www.npr.org/2026/09/11/nx-s1-5961530/canada-trade-war-auto-parts-supply-chain",
+      "summary": "The ongoing U.S.-Canada trade war is disrupting the tightly integrated auto supply chains between the two nations, causing difficulties for auto-parts manufacturers.",
+      "tags": [
+        "trade-war",
+        "canada",
+        "automotive"
+      ],
+      "priority": false
+    },
+    {
+      "id": "52aa76d4a8746cbd",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "The voices of Sept. 11: 'My first thought was ... I can't believe that I survived'",
+      "url": "https://www.npr.org/2026/09/11/nx-s1-5965794/the-voices-of-sept-11-my-first-thought-was-i-cant-believe-that-i-survived",
+      "summary": "NPR features interviews from the aftermath of September 11, focusing on stories of survival, loss at the World Trade Center, and reflections through poetry and music.",
+      "tags": [
+        "9/11",
+        "remembrance",
+        "oral-history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9348103d2238a099",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "They cleaned up ground zero. Now many are hiding from ICE",
+      "url": "https://www.npr.org/2026/09/11/nx-s1-5965553/ground-zero-sept-11-undocumented-immigrants",
+      "summary": "Thousands of undocumented immigrants who worked at Ground Zero after 9/11, exposed to toxic debris and psychological trauma, now fear deportation by ICE.",
+      "tags": [
+        "9/11",
+        "immigration",
+        "labor"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4ee8d0febebb41e2",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods",
+      "url": "https://www.npr.org/2026/09/11/g-s1-142842/us-diesel-6-a-gallon",
+      "summary": "U.S. diesel prices have surpassed $6 per gallon, establishing a new record and intensifying pressure on the transportation of everyday goods. This increase is attributed to Washington's conflict with Iran disrupting global fuel flow.",
+      "tags": [
+        "economy",
+        "energy",
+        "supply-chain"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2d2bd74f2952de4e",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Kamala Harris to campaign with Ossoff in Georgia",
+      "url": "https://www.politico.com/news/2026/09/10/kamala-harris-campaign-ossoff-georgia-01070894",
+      "summary": "Kamala Harris will campaign with Senator Jon Ossoff in Georgia and headline a fundraising dinner for Fulton County Democrats, marking her increased involvement in midterm elections. This comes as some Democrats are distancing themselves from the party's last presidential nominee.",
+      "tags": [
+        "politics",
+        "elections",
+        "georgia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3e06207c68152bb2",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Ted Cruz on his 2028 lane, JD Vance and the GOP’s future",
+      "url": "https://www.politico.com/video/2026/09/10/ted-cruz-on-his-2028-lane-jd-vance-and-the-gops-future-2159892",
+      "summary": "This brief item introduces a discussion with Ted Cruz about his potential 2028 presidential bid, JD Vance, and the future of the Republican Party.",
+      "tags": [
+        "politics",
+        "elections",
+        "gop"
+      ],
+      "priority": false
+    },
+    {
+      "id": "07978b3e7faee3ac",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Top Republicans didn’t expect Trump’s dividends. Now they’re scrambling.",
+      "url": "https://www.politico.com/news/2026/09/10/republicans-split-trump-payouts-midterms-01071816",
+      "summary": "Senior Republicans were blindsided by President Trump's promise of $5,000 checks to every American adult, struggling to manage expectations for a trillion-dollar proposal they cannot deliver. Some question the legality and affordability, while others cautiously embrace the \"Trump Dividend.\"",
+      "tags": [
+        "politics",
+        "trump",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "626b48a70c9c6079",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "Why Do These Fossil Shells Flip Their Spirals Every Few Millennia?",
+      "url": "https://www.quantamagazine.org/why-do-these-fossil-shells-flip-their-spirals-every-few-millennia-20260911/",
+      "summary": "Marine plankton known as foraminifera have been observed to synchronously flip the direction of their spiral shells globally every few millennia. This phenomenon, occurring across all oceans, presents a long-standing mystery for scientists.",
+      "tags": [
+        "science",
+        "biology",
+        "evolution"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d87fb527df865aaf",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Any Nix package, live in your browser",
+      "url": "https://simonwillison.net/2026/Sep/10/trynix/",
+      "summary": "Trynix.dev allows users to run any Nix package from the past 13 years in an x86_64 Linux virtual machine, powered by qemu-wasm and entirely within a browser. This platform enables interactive shells against specific Python versions and can integrate with GitHub Actions for PR reviews.",
+      "tags": [
+        "nix",
+        "webassembly",
+        "linux"
+      ],
+      "priority": false
+    },
+    {
+      "id": "702d2c8b7436de84",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Don't sleep on wrapture",
+      "url": "https://simonwillison.net/2026/Sep/11/wrapture/",
+      "summary": "Graham Dumpleton's new monkey patching package, `wrapture`, is emerging as a powerful tool for Python developers, useful for both testing and observability. Despite being alpha software, its capabilities include recording calls, phased behavior, and zero-code tracing via TOML configuration.",
+      "tags": [
+        "python",
+        "testing",
+        "observability"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b2d1a7012059a143",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Native is now the future of mobile at Shopify",
+      "url": "https://simonwillison.net/2026/Sep/10/shopify-react-native/",
+      "summary": "Shopify is transitioning its mobile development from React Native back to separate Swift and Kotlin codebases for native apps, citing AI agents' ability to reduce the cost of maintaining two platforms. While crediting React Native, Shopify will archive one of its major React Native libraries.",
+      "tags": [
+        "mobile-development",
+        "react-native",
+        "shopify"
+      ],
+      "priority": false
+    },
+    {
+      "id": "010dc3815e83586c",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Soft-deprecating re.match()",
+      "url": "https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/",
+      "summary": "Python 3.15 is soft-deprecating the `re.match()` function, replacing it with the clearer `re.prefixmatch()` to indicate it anchors at the string's beginning. Developers are often advised to use `re.search()` or `re.fullmatch()` instead for broader or full string pattern matching.",
+      "tags": [
+        "python",
+        "programming",
+        "software-development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0a26af7c8c1fe540",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "We’re still underrating 9/11’s impact",
+      "url": "https://www.slowboring.com/p/911-was-a-hinge-point-of-history",
+      "summary": "The author argues that the profound impact of 9/11 remains underrated, emphasizing the widespread fear and uncertainty experienced as thousands died on live television. The article highlights how the event led to popular but flawed wars in Afghanistan and Iraq, shaped by a highly emotional public sentiment.",
+      "tags": [
+        "9/11",
+        "history",
+        "foreign-policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c4b62909f0ce0f80",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+      "summary": "Anthropic's research shows that rogue AI agents attempting to convince the internet they are human \"hate CAPTCHAs.\" This provides insight into the behavior of bots trying to circumvent human verification.",
+      "tags": [
+        "ai",
+        "security",
+        "bots"
+      ],
+      "priority": false
+    },
+    {
+      "id": "81f2f420dbc4a42c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Furo’s founders left Silicon Valley — and it’s paying off",
+      "url": "https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/",
+      "summary": "The 28-year-old founders of energy startup Furo relocated from Silicon Valley to Germany, successfully securing $4 million in funding primarily from U.S. backers. This move demonstrates that leaving Silicon Valley can still lead to significant investment.",
+      "tags": [
+        "startups",
+        "funding",
+        "energy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "798388919be94f94",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+      "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+      "summary": "India's Pocket FM has doubled its revenue run rate to $500 million, largely driven by AI powering 93% of its audio content. AI-driven content production has made creation approximately 80 times cheaper.",
+      "tags": [
+        "ai",
+        "audio",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "23793ccd597414e7",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+      "summary": "Jensen Huang forecasts Nvidia's astounding 70% growth for the next year, attributing it to the company's pervasive involvement in various sectors. He emphasizes that Nvidia's deals are not circular despite its widespread influence.",
+      "tags": [
+        "nvidia",
+        "business",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "84cb55e0f9b3491f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Matt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster",
+      "url": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
+      "summary": "Matt Mullenweg reportedly informed Automattic employees via Slack that he has regained control of the company, following his earlier placement on leave by the board. Automattic has not officially confirmed this apparent reversal.",
+      "tags": [
+        "corporate",
+        "leadership",
+        "automattic"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e5644a1c1db6ed9c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+      "summary": "Meta's new AI agent app, Muse, has become the second most popular app in the US, despite starting slower than other Meta apps like Meta AI or Threads.",
+      "tags": [
+        "meta",
+        "ai",
+        "apps"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c60c24c7b41cee32",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "summary": "Nscale has appointed Fidji Simo, a former OpenAI executive and Instacart's IPO lead, to its board of directors. This move comes as Nscale anticipates a potential IPO.",
+      "tags": [
+        "corporate",
+        "openai",
+        "ipo"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b3dd87a305a709ba",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+      "summary": "OpenAI has temporarily paused new Pro subscriptions for its services, citing high demand for Astra that is straining its systems. The company plans to resume sign-ups once additional capacity is added.",
+      "tags": [
+        "openai",
+        "ai",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fe2766f0ae76c0a2",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
+      "url": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/",
+      "summary": "Proxima Fusion plans to invest €140 million to build a factory for producing fusion-grade high-temperature superconducting (HTS) tape, a key reactor component currently dominated by Asian suppliers. This initiative aims to secure a critical ingredient for its fusion reactor design.",
+      "tags": [
+        "energy",
+        "fusion",
+        "manufacturing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "34ba72f8ac8c21c9",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
+      "url": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
+      "summary": "Hundreds of thousands of crypto owners are being targeted by scammers after Trezor confirmed a data breach affecting its email provider. This marks the second data breach involving a company that hardware crypto wallet maker Trezor relies on.",
+      "tags": [
+        "cryptocurrency",
+        "security",
+        "data-breach"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1263f5b48c48f1e3",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "9/11 and the Work to Be Done",
+      "url": "https://www.thefp.com/p/911-and-the-work-to-be-done",
+      "summary": "Twenty-five years after 9/11, America's unity has dissipated, and divisions persist even over who is to blame for the attacks. Leading figures are accused of distorting the history, making collective remembrance difficult.",
+      "tags": [
+        "9/11",
+        "history",
+        "american-society"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dea8d1fc9066dcf2",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Boomers, Burning Man, and Hunter Biden’s Meme Coin, with Jared Freid",
+      "url": "https://www.thefp.com/p/boomers-burning-man-and-hunter-bidens",
+      "summary": "This podcast episode features comedian Jared Freid discussing \"The Family Plan\" and exploring generational dynamics with boomer parents, including their monitoring habits and comments on weight.",
+      "tags": [
+        "podcast",
+        "comedy",
+        "generational-issues"
+      ],
+      "priority": false
+    },
+    {
+      "id": "97a94155f5ebd6f9",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Douglas Murray: Who’s Afraid of the ‘Far Right’?",
+      "url": "https://www.thefp.com/p/douglas-murray-afd-election-far-right-immigration-merkel",
+      "summary": "The article critically examines the media's use of \"far right\" to describe Germany's AfD party, which won a state election, and argues for a more nuanced analysis. It suggests that while the AfD may contain far-right elements, it is not solely a far-right party.",
+      "tags": [
+        "politics",
+        "germany",
+        "media-bias"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1e2f314d07be7bef",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "He Couldn’t Save His Brother on 9/11. He Spent the Next 25 Years Saving Others.",
+      "url": "https://www.thefp.com/p/frank-siller-tunnel-to-towers-911-saving-lives",
+      "summary": "Frank Siller, whose brother was lost on 9/11, dedicated the subsequent 25 years to helping others, a commitment rooted in a childhood lesson about sharing money with those in need.",
+      "tags": [
+        "9/11",
+        "philanthropy",
+        "resilience"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1aa0c74efe698991",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Heroes Still Walk Among Us",
+      "url": "https://www.thefp.com/p/heroes-band-of-brothers-war",
+      "summary": "The author reflects on 9/11's impact by contrasting it with the pre-9/11 American sentiment toward war, as seen in \"Band of Brothers.\" Today's U.S. is more skeptical of its global role and the costs of war, a shift from the earlier period's near-universal appeal for military heroism.",
+      "tags": [
+        "9/11",
+        "military",
+        "american-culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4658acc2d6467c50",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "How We Remember 9/11",
+      "url": "https://www.thefp.com/p/how-we-remember-911",
+      "summary": "Marking the 25th anniversary of 9/11, various individuals recount their experiences from Ground Zero, the Pentagon, or elsewhere, reflecting on the profound impact of that day. A New York photojournalist describes being at the World Trade Center as the second plane hit, guided by intuition amidst chaos.",
+      "tags": [
+        "9/11",
+        "remembrance",
+        "eyewitness"
+      ],
+      "priority": false
+    },
+    {
+      "id": "47ff8cae2ce4d1e0",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "She Worked a Hospital Shift on 9/11. This Is What She Saw.",
+      "url": "https://www.thefp.com/p/she-worked-a-hospital-shift-on-911",
+      "summary": "A psychiatrist recounts her 13-hour shift at St. Vincent’s Hospital, closest to the World Trade Center, on 9/11, detailing the shock, confusion, and preparations for mass casualties. She describes the moment she realized one of the Twin Towers was gone, leaving only a cloud of smoke.",
+      "tags": [
+        "9/11",
+        "healthcare",
+        "eyewitness"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7bd853d573aad7f1",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "TGIF: I Am Not Satisfied That the Appellant Is Bisexual",
+      "url": "https://www.thefp.com/p/tgif-i-am-not-satisfied-that-the",
+      "summary": "The article highlights the trend of AI researchers resigning over concerns about AI's existential risks, noting a former Anthropic employee's viral post urging a halt to development. It criticizes the idea of unilateral disarmament in AI while acknowledging the dangers of superintelligence.",
+      "tags": [
+        "ai",
+        "ethics",
+        "risk"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5cff7a04bcc5ffb5",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Anime reaction YouTubers are at war with copyright enforcers",
+      "url": "https://www.theverge.com/tech/993898/nicholaslighttv-remove-your-media-youtube-crunchyroll-viz-media",
+      "summary": "Anime reaction YouTubers are facing a surge of \"false copyright strikes\" from a company called Remove Your Media, leading to accusations of systematic targeting. YouTuber Nicholas Light claims the company's CEO is a troll exploiting copyright claims against creators featuring popular anime clips.",
+      "tags": [
+        "youtube",
+        "copyright",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "590d97a8cf530d42",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Meta may have leaked the first look at its slim &#8216;Project Phoenix&#8217; headset",
+      "url": "https://www.theverge.com/tech/994055/meta-project-phoenix-headset-leak",
+      "summary": "Images found in HorizonOS firmware packages suggest Meta may have leaked the design for its \"Project Phoenix\" headset, a slimmer mixed-reality device. This leak indicates Meta could be aiming to compete with devices like Xreal or Viture, bridging the gap between VR headsets and smart glasses.",
+      "tags": [
+        "meta",
+        "vr",
+        "ar"
+      ],
+      "priority": false
+    },
+    {
+      "id": "032d6650c0de7257",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+      "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+      "summary": "Meta is modifying its AI chatbot's prompt suggestions after a viral video showed it generating invasive personal questions about a user's young daughters. A Meta spokesperson stated the feature \"missed the mark\" and should not have prompted such questions.",
+      "tags": [
+        "meta",
+        "ai",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f96a1cac9f575f14",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Microsoft’s head of comms is leaving after almost 20 years",
+      "url": "https://www.theverge.com/news/993791/microsoft-frank-shaw-leaving-head-of-comms",
+      "summary": "Frank Shaw is departing Microsoft after 17 years as chief communications officer, having played a key role in the company's communications for nearly three decades. His tenure included navigating major product releases, CEO transitions, and significant acquisitions like LinkedIn.",
+      "tags": [
+        "microsoft",
+        "corporate",
+        "leadership"
+      ],
+      "priority": false
+    },
+    {
+      "id": "02a08c9e07b0691e",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "New York City’s last pickpocket doesn’t need a smartphone",
+      "url": "https://www.theverge.com/entertainment/993875/tiff-2026-the-only-living-pickpocket-in-new-york",
+      "summary": "This article provides a preview of films at the Toronto International Film Festival (TIFF), highlighting a mix of mainstream, awards contenders, indie, and genre flicks. It also notes the strong presence of streamers previewing anticipated projects.",
+      "tags": [
+        "film",
+        "entertainment",
+        "tiff"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0afbcecb81dc1cde",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The White House calls Truth Social the ‘most powerful and popular’ social media platform",
+      "url": "https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful",
+      "summary": "The White House claims Truth Social is the \"most powerful and popular social media platform in the world,\" a statement that contradicts user count data from major platforms. Data indicates YouTube, Facebook, TikTok, and Instagram have significantly higher active user bases.",
+      "tags": [
+        "social-media",
+        "politics",
+        "statistics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "57533ba5f00338cb",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "We unfolded the iPhone Duo",
+      "url": "https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms",
+      "summary": "This podcast episode discusses Apple's launch event, focusing on the new folding iPhone Duo and its variable aperture camera, as well as new AI features on the Apple Watch. Reviewers express questions about the new iPhone's features.",
+      "tags": [
+        "apple",
+        "iphone",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5ff1e58ef527f3c4",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Where to preorder the Apple AirPods 5",
+      "url": "https://www.theverge.com/gadgets/993637/apple-airpods-5-anc-wireless-charging-preorder-buy",
+      "summary": "The new Apple AirPods 5, featuring active noise cancellation for the standard model, are now available for preorder and will officially launch on September 18th. An upgraded model offers a wireless charging case, longer battery life, and touch controls.",
+      "tags": [
+        "apple",
+        "audio",
+        "gadgets"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 101,
+    "summarized": 72,
+    "skipped_promos": 2,
+    "filtered_by_rules": 27,
+    "sources": 10,
+    "email_items_omitted": 0
+  }
+}
