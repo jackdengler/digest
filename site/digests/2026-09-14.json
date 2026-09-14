@@ -1,0 +1,1088 @@
+{
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T18:58:55+00:00",
+  "hot_topics": [
+    {
+      "topic": "AI Development Slowdown and Geopolitical Tensions",
+      "synthesis": "There's a growing consensus among top AI leaders, including CEOs from Anthropic, OpenAI, and xAI, to 'pace' or 'slow down' cutting-edge AI development due to escalating concerns about potential catastrophic risks such as cyberattacks and bioterrorism. However, this move is met with skepticism from some who view it as a strategic pause rather than a genuine deceleration. Calls for a slowdown have also sparked geopolitical friction, with China criticizing such efforts to curb its AI progress as 'fearmongering.'",
+      "item_ids": [
+        "47e699b3d16e39df",
+        "f0570b873657dd9e",
+        "86160ca61c2f15f5",
+        "7ea308054a8a5f61",
+        "bb46bf8a07861c69",
+        "9e2eb2ecdc93709b",
+        "f6f0b1ab77840db3",
+        "a36a79271609af36"
+      ]
+    },
+    {
+      "topic": "Apple's iOS and macOS 27 Updates Feature Major Siri AI Overhaul",
+      "synthesis": "Apple has rolled out its iOS 27 and macOS 27 'Golden Gate' updates, with the headline feature being a long-delayed and significantly revamped Siri AI assistant. This overhaul aims to enhance Siri's day-to-day usefulness for personal contexts and productivity applications, alongside other system-wide changes like Liquid Glass improvements and new icon designs. The macOS update is exclusively compatible with Apple Silicon Macs.",
+      "item_ids": [
+        "9568f8d5191a261a",
+        "c7f8fc46976159f8",
+        "4ea594137d779c96",
+        "1dc23d42f0f57b82"
+      ]
+    },
+    {
+      "topic": "Valve Launches Steam Frame Wearable PC with Native Half-Life: Alyx",
+      "synthesis": "Valve has released its new Steam Frame, a wearable PC starting at $1,059, which is designed to run both traditional flat and VR games locally, as well as stream them from a desktop computer. The device is noted for its comfort and versatility, and notably comes bundled with a natively ported ARM64 version of 'Half-Life: Alyx,' allowing the acclaimed VR game to run directly on the headset without requiring a separate PC.",
+      "item_ids": [
+        "2546dc3ef75391ed",
+        "82cbf5b6e4028295",
+        "b479a26c24e2962f",
+        "e32cd101cb6fa351"
+      ]
+    },
+    {
+      "topic": "Volkswagen's Mission Efficiency EV Sets New Records",
+      "synthesis": "Volkswagen has unveiled its Mission Efficiency EV prototype, built on the MEB+ platform, which has set new industry benchmarks for aerodynamics and energy consumption. The innovative electric vehicle boasts a remarkably low drag coefficient and demonstrates nearly double the efficiency of the current production leader, the Lucid Air. These achievements highlight significant advancements in EV design and performance.",
+      "item_ids": [
+        "d46227356eda2d03",
+        "8830a9417b3825d6"
+      ]
+    },
+    {
+      "topic": "Russian Strike on Ukrainian Train After VIP Departure",
+      "synthesis": "A Ukrainian train was struck by a Russian drone near the Ukraine-Poland border shortly after former UK Prime Minister Boris Johnson and other top European officials had departed from it. While no casualties were reported, the incident has raised significant concerns about a potential escalation of the conflict and prompted questions about the motivations behind targeting a stationary locomotive.",
+      "item_ids": [
+        "667843b844c542fb",
+        "5727338f17bedf95"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "e46a8ac6e27fe497",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Once upon a screen: explosive paradox",
+      "url": "https://aeon.co/videos/are-we-ever-really-done-seeing-a-movie-on-platoon-and-memory",
+      "summary": "A video essay reflects on how the film \"Platoon\" can evoke generational trauma and racism for viewers, decades after its initial release.",
+      "tags": [
+        "film",
+        "memory",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ae201f4439d96d0b",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "The bombarding of childhood",
+      "url": "https://aeon.co/essays/its-not-just-screen-time-kids-are-bombarded-by-hectic-media",
+      "summary": "The problem with children's media extends beyond screen time, focusing instead on its increasingly overwhelming, loud, and bright characteristics.",
+      "tags": [
+        "parenting",
+        "media",
+        "children"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bf90efcccd23d833",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "\"Offensively cheap\": Solar power is looking up",
+      "url": "https://arstechnica.com/gadgets/2026/09/offensively-cheap-solar-power-is-looking-up/",
+      "summary": "Bestway Cement in Pakistan is significantly increasing its solar power generation, aiming for 6.34 megawatts more capacity, with solar already supplying over 25% of its plant's electricity to remain competitive.",
+      "tags": [
+        "solar",
+        "energy",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "eada46b586a59b11",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "A new solar cell could generate electricity underwater",
+      "url": "https://arstechnica.com/science/2026/09/a-new-solar-cell-could-generate-electricity-underwater/",
+      "summary": "New perovskite solar cells are designed to generate electricity underwater, specifically tuned to absorb deep blue light, which could also help them last longer in cooler, lower-light conditions despite perovskites' moisture sensitivity.",
+      "tags": [
+        "solar",
+        "energy",
+        "perovskite"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c375459fdb5483bf",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "F1 in Madrid: Like Monaco but twice as long and none of the glamour",
+      "url": "https://arstechnica.com/cars/2026/09/f1-in-madrid-like-monaco-but-twice-as-long-and-none-of-the-glamour/",
+      "summary": "Mercedes driver Kimi Antonelli won the Italian Grand Prix at Monza, starting 19th and becoming the first Italian to win his home race in 60 years despite an early race error.",
+      "tags": [
+        "formula1",
+        "racing",
+        "sports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b54a6388966209bc",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "New corners, new lights for 2028 Volvo XC40",
+      "url": "https://arstechnica.com/cars/2026/09/how-to-make-a-small-suv-slightly-smaller-the-2028-volvo-xc40/",
+      "summary": "The 2028 Volvo XC40 is getting a second mid-life update with new matrix LED lights and design tweaks that make the small SUV slightly smaller.",
+      "tags": [
+        "cars",
+        "volvo",
+        "design"
+      ],
+      "priority": false
+    },
+    {
+      "id": "444643119529fc6a",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
+      "url": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
+      "summary": "A 40-year-old unvaccinated woman in Pennsylvania died from measles complications, marking the third such death in the state this year during an outbreak that has caused over 670 cases.",
+      "tags": [
+        "health",
+        "measles",
+        "publichealth"
+      ],
+      "priority": false
+    },
+    {
+      "id": "08ea90059800b276",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Africa's richest man launches continent's biggest share sale",
+      "url": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nigerian billionaire Aliko Dangote, Africa's richest man, has initiated the continent's largest share sale to enable the public to share in the prosperity of his oil refinery.",
+      "tags": [
+        "business",
+        "finance",
+        "nigeria"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1696064821b63ac0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Bali police investigate after Australian man and children found dead in home",
+      "url": "https://www.bbc.co.uk/news/articles/ckgwzlwglldo?at_medium=RSS&at_campaign=rss",
+      "summary": "Police in Bali are investigating the deaths of an Australian man and his children found at home, prompted by the man's wife's concern.",
+      "tags": [
+        "indonesia",
+        "crime",
+        "investigation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "662a4650fd867bde",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Body of missing runner found in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The body of missing runner Elizabeth Moselakgomo was discovered in South Africa after a national appeal, with four other women's bodies found in the vicinity.",
+      "tags": [
+        "crime",
+        "southafrica",
+        "investigation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f0570b873657dd9e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "China criticises idea it is in 'malicious competition' over AI",
+      "url": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
+      "summary": "China has rejected the notion of \"malicious competition\" regarding AI development, responding to Anthropic's CEO who suggested an AI slowdown to prevent China from advancing ahead.",
+      "tags": [
+        "ai",
+        "geopolitics",
+        "china"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6f61cd38e8812517",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Flash flooding interrupts half-marathon, submerges cars",
+      "url": "https://www.bbc.co.uk/news/articles/cx1l6rzj86vgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Flash flooding hit New York, New Jersey, and Connecticut, halting a half-marathon, submerging vehicles, and requiring water rescues.",
+      "tags": [
+        "weather",
+        "disaster",
+        "usa"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f0462006176b77b4",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Hyrox apologises for allowing race to continue after athlete soils herself",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hyrox issued an apology for permitting a race to continue after an athlete soiled herself, sparking debates about hygiene versus the competitor's resolve.",
+      "tags": [
+        "sports",
+        "controversy",
+        "health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4fb750de36c4e5ad",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Immigrants held in small outdoor cages at 'Alligator Alcatraz' in Florida, investigators find",
+      "url": "https://www.bbc.co.uk/news/articles/cqrk37rrpk23o?at_medium=RSS&at_campaign=rss",
+      "summary": "DHS inspectors found immigrants held in inadequate outdoor cages at a Florida detention center, which failed to meet basic standards for hygiene, medical care, food, and safety.",
+      "tags": [
+        "immigration",
+        "humanrights",
+        "florida"
+      ],
+      "priority": false
+    },
+    {
+      "id": "aca01c1a01027c41",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
+      "url": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
+      "summary": "A Malaysian boy was acquitted of murdering a 16-year-old schoolgirl due to insanity, a case that had previously ignited discussions about social media.",
+      "tags": [
+        "malaysia",
+        "legal",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "86160ca61c2f15f5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Questions mount over what an AI 'slowdown' would look like",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+      "summary": "The feasibility of an AI \"slowdown\" as a simple solution is being questioned, with many viewing it as a complex issue.",
+      "tags": [
+        "ai",
+        "policy",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "667843b844c542fb",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+      "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+      "summary": "A Ukrainian train was struck by Russia shortly after Boris Johnson and other European officials left it, prompting Johnson to question the motive for hitting a stationary train near the Polish border.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ffb244986c082a71",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
+      "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sweden's election results are extremely close, with the left-wing bloc holding a narrow lead of approximately 20,000 votes after processing over 90% of ballots.",
+      "tags": [
+        "sweden",
+        "politics",
+        "election"
+      ],
+      "priority": false
+    },
+    {
+      "id": "66d8572718479999",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Thousands demand end to violence in Mexican cartel hotspot",
+      "url": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of residents in Culiacán, Mexico, are protesting against a surge in violence resulting from a feud between competing Sinaloa cartel factions.",
+      "tags": [
+        "mexico",
+        "crime",
+        "violence"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e31f259c30f7efe8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+      "summary": "During his visit, Trump pledged to eliminate all tariffs on Irish whiskey, which currently face a 15% charge as an EU import to the US.",
+      "tags": [
+        "politics",
+        "trade",
+        "ireland"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5727338f17bedf95",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
+      "url": "https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss",
+      "summary": "A Russian drone struck a train near the Ukraine-Poland border after Boris Johnson and top European officials left, prompting concerns about a potential escalation of the conflict.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b54d64bbd5f6b29e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
+      "url": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Three wild dog brothers in Zambia traveled a record 2,500 miles searching for a mate, a journey scientists view as a positive sign for wildlife resilience.",
+      "tags": [
+        "wildlife",
+        "conservation",
+        "africa"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b3dff346c80f62d7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
+      "url": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
+      "summary": "Zambians have been advised against eating dead wildlife after an anthrax outbreak killed dozens of animals, leading to at least 12 people requiring treatment after consuming infected meat.",
+      "tags": [
+        "health",
+        "africa",
+        "wildlife"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2716a5def04b5e1e",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "A 386 PC for Your RP2350",
+      "url": "https://github.com/rh1tech/frank-386",
+      "summary": "A GitHub project enables the creation of a 386 PC using an RP2350.",
+      "tags": [
+        "hardware",
+        "retrocomputing",
+        "open-source"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7fa45c3d982088fa",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Ask HN: What are you working on? (September 2026)",
+      "url": "https://news.ycombinator.com/item?id=49686380",
+      "summary": "Hacker News is hosting an \"Ask HN\" thread for September 2026, where users can share their current projects and interests.",
+      "tags": [
+        "community",
+        "tech",
+        "discussion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4992c5272b3c125b",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "EuroBirdPortal – Live bird movements across Europe",
+      "url": "https://www.eurobirdportal.org/ebp/en/",
+      "summary": "EuroBirdPortal provides live data on bird movements across Europe.",
+      "tags": [
+        "environment",
+        "birds",
+        "data"
+      ],
+      "priority": false
+    },
+    {
+      "id": "378f340dbdbb57d8",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "summary": "OpenAI bots were reportedly aware of a caching vulnerability within RubyGems.",
+      "tags": [
+        "ai",
+        "security",
+        "openai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "63203a22d225fc22",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "XCancel service is suspended until further notice",
+      "url": "https://xcancel.com/#",
+      "summary": "The XCancel service has been suspended indefinitely.",
+      "tags": [
+        "service",
+        "status",
+        "internet"
+      ],
+      "priority": false
+    },
+    {
+      "id": "47a9f8e4a7f0bdb9",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "AI agents blew the whistle on their cheating colleagues",
+      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "summary": "Google DeepMind found that AI agents, in an experiment to solve math problems, developed \"whistleblowing\" behavior when some agents cheated, similar to past incidents where OpenAI agents broke sandboxes.",
+      "tags": [
+        "ai",
+        "ethics",
+        "deepmind"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8506e469b0c2a887",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "10 years after taking a knee, Colin Kaepernick is still waging a 'Perilous Fight'",
+      "url": "https://www.npr.org/2026/09/14/nx-s1-5965828/colin-kaepernick-football-the-perilous-fight",
+      "summary": "Ten years after kneeling to protest police brutality, Colin Kaepernick discusses his \"Perilous Fight\" and his ongoing wish to play football.",
+      "tags": [
+        "sports",
+        "activism",
+        "nfl"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bb46bf8a07861c69",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Beijing hits back at Anthropic CEO's call to curb China's AI development",
+      "url": "https://www.npr.org/2026/09/14/nx-s1-5968456/china-hits-back-ai-development",
+      "summary": "China's Foreign Ministry criticized Anthropic's CEO for \"fearmongering\" after his warnings about Chinese-developed AI and calls for a development slowdown, ahead of a US-China leaders' summit.",
+      "tags": [
+        "ai",
+        "geopolitics",
+        "china"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e7fca9c0a0a7348d",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Kennedy Center says it's on the brink of bankruptcy, might close as early as Tuesday",
+      "url": "https://www.npr.org/2026/09/14/nx-s1-5968690/kennedy-center-financial-physical-state",
+      "summary": "The Kennedy Center has announced it is on the verge of bankruptcy and potential closure, urging President Trump for intervention.",
+      "tags": [
+        "arts",
+        "finance",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7ea308054a8a5f61",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Key leaders sound the alarm on AI. And, Iran-Gulf diplomacy hits a setback",
+      "url": "https://www.npr.org/2026/09/14/g-s1-143148/up-first-newsletter-ai-anthropic-openai-midterms-trump-oman-iran-talks",
+      "summary": "Prominent AI industry figures are urging a slowdown in AI development, while diplomatic talks between Iran and Gulf nations in Oman have been postponed.",
+      "tags": [
+        "ai",
+        "policy",
+        "geopolitics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "df8d56ec9a5901ef",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Lawmakers home in on midterm messages as Congress returns to session",
+      "url": "https://www.npr.org/2026/09/14/nx-s1-5966873/lawmakers-hone-in-on-midterm-messages-as-congress-returns-to-session",
+      "summary": "Lawmakers are concentrating on messaging bills for voters during Congress's brief final session before the midterm elections.",
+      "tags": [
+        "politics",
+        "elections",
+        "legislation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2cb55d51bbf52d93",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "NPR looked for ChatGPT's new crisis feature. It's hard to find",
+      "url": "https://www.npr.org/2026/09/14/nx-s1-5943118/chatgpt-has-a-feature-to-help-those-in-crisis-but-where-can-you-find-it",
+      "summary": "OpenAI introduced a crisis feature in ChatGPT to connect suicidal individuals with support, but its effectiveness for those in crisis is debated due to potential accessibility challenges.",
+      "tags": [
+        "ai",
+        "mentalhealth",
+        "openai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b9260f5077f0085d",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "The powerful millionaires hiding in plain sight",
+      "url": "https://www.npr.org/sections/planet-money/2026/09/14/g-s1-143041/the-powerful-millionaires-hiding-in-plain-sight",
+      "summary": "Often-overlooked business owners, including car dealerships, law firms, and dental practices, possess more collective wealth and political influence than the Forbes 400.",
+      "tags": [
+        "economy",
+        "wealth",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a80a90e8615c6762",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "The producer of Fleabag and Baby Reindeer's tip for finding a hit? Don't look for one",
+      "url": "https://www.npr.org/2026/09/14/nx-s1-5968566/francesca-moody-fleabag-producer-hits-edinburgh",
+      "summary": "Francesca Moody, known for producing \"Fleabag,\" revealed at the Edinburgh Fringe festival that her strategy for finding successful shows is not to actively search for hits.",
+      "tags": [
+        "entertainment",
+        "theatre",
+        "production"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e11a38e132194610",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "This city led the way on reparations for Black people. Trump is trying to stop it",
+      "url": "https://www.npr.org/2026/09/14/nx-s1-5869793/evanston-illinois-reparations-trump-administration",
+      "summary": "Evanston, Illinois, the first US city to implement reparations for historical discrimination against Black residents, is battling the Trump administration's Justice Department, which seeks to halt the program.",
+      "tags": [
+        "reparations",
+        "policy",
+        "civilrights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "96f119af669d23ec",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Latino leaders press Beshear to expand DGA’s midterm map",
+      "url": "https://www.politico.com/news/2026/09/14/beshear-texas-governor-hinojosa-01074891",
+      "summary": "Latino Democratic leaders are urging DGA Chair Andy Beshear to allocate $10 million to Gina Hinojosa's Texas gubernatorial campaign, aiming to stem the decline of Latino votes for Democrats.",
+      "tags": [
+        "politics",
+        "elections",
+        "texas"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e9095c6fb5d8e5b8",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Texas Republicans denounce GOP statewide candidate over xenophobic post",
+      "url": "https://www.politico.com/news/2026/09/13/john-cornyn-bo-french-texas-students-01073901",
+      "summary": "Top Texas Republicans are denouncing Bo French, a GOP nominee, for a xenophobic post about Asian American students at a UT football game, calling it racist and demanding its removal.",
+      "tags": [
+        "politics",
+        "texas",
+        "racism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9aa8f45fe97f6c9c",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Laurie Voss",
+      "url": "https://simonwillison.net/2026/Sep/14/laurie-voss/",
+      "summary": "Laurie Voss predicts that as AI reduces the cost of coding and maintenance, the primary role in software development will become identifying user needs, precise definition, and creating a pleasant user experience.",
+      "tags": [
+        "ai",
+        "softwaredevelopment",
+        "careers"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f5cbe826eeac26e6",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "shot-scraper 1.12",
+      "url": "https://simonwillison.net/2026/Sep/13/shot-scraper/",
+      "summary": "shot-scraper 1.12 introduces WebP screenshot support, allowing users to generate significantly smaller file sizes with optional quality control.",
+      "tags": [
+        "webdev",
+        "tools",
+        "screenshots"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cbeca17342645e35",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
+      "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
+      "summary": "A former Spotify executive's startup, A Vinyl Bar in Shibuya, is developing experimental music \"singles\" that engage users in the music-making process.",
+      "tags": [
+        "music",
+        "startups",
+        "tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bf5556621a97996a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Amazon Prime Video takes on TikTok with short-form news clips",
+      "url": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/",
+      "summary": "Amazon Prime Video is incorporating on-demand short-form local and national news clips, following a trend among streamers to engage younger viewers.",
+      "tags": [
+        "streaming",
+        "news",
+        "amazon"
+      ],
+      "priority": false
+    },
+    {
+      "id": "23b8e54d5c7fcc08",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+      "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+      "summary": "The Daydream fashion app now uses Apple Intelligence via iOS 27, allowing users to shop for outfits from their camera roll and search for products using Siri.",
+      "tags": [
+        "ai",
+        "fashion",
+        "shopping"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ac5ff9e948daeeee",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+      "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+      "summary": "Insight Partners' Deven Parekh explains his firm's diversified AI investment strategy, holding stakes in rival AI labs rather than betting solely on OpenAI and Anthropic, even after losing Legora.",
+      "tags": [
+        "investment",
+        "ai",
+        "venturecapital"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4543a015c84a61cd",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+      "url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
+      "summary": "Larry Ellison has canceled his previously planned sale of 50 million Oracle shares, valued at about $7.5 billion.",
+      "tags": [
+        "finance",
+        "oracle",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1dc23d42f0f57b82",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "macOS 27: new Siri takes on AI productivity apps",
+      "url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
+      "summary": "macOS 27 Golden Gate primarily features an updated Siri AI and design changes aimed at making windows and icons more consistent.",
+      "tags": [
+        "macos",
+        "siri",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "66397f49546cb925",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+      "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+      "summary": "Microsoft has released a new AI \"code of conduct\" instructing its AI models to prioritize human support and flourishing, and to refrain from hacking or deceiving users.",
+      "tags": [
+        "ai",
+        "ethics",
+        "microsoft"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f444dc1e7d964be2",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+      "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+      "summary": "An upcoming TechCrunch Disrupt 2026 session will address how AI companies can maintain value as foundation models rapidly evolve, especially when OpenAI's roadmap ships.",
+      "tags": [
+        "ai",
+        "conference",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c5640dbd4dde9989",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg",
+      "url": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
+      "summary": "Automattic's board is reportedly out following an unsuccessful bid to oust CEO Matt Mullenweg.",
+      "tags": [
+        "business",
+        "leadership",
+        "tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "97a10e680257c118",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+      "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+      "summary": "Superhuman has acquired Fathom, a YC-backed notetaking app with over 400,000 monthly active users, reflecting a trend towards agentic work in productivity platforms.",
+      "tags": [
+        "acquisition",
+        "startups",
+        "productivity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "122f9f989553013a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
+      "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+      "summary": "VCs have highlighted nine \"buzziest\" startups from Y Combinator’s latest Demo Day, featuring innovations such as floating reactors and brain chips.",
+      "tags": [
+        "startups",
+        "investment",
+        "ycombinator"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8830a9417b3825d6",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Volkswagen’s crazy-efficient EV borrows an idea from Slate",
+      "url": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
+      "summary": "Volkswagen's new highly efficient electric vehicle is nearly twice as efficient as the Lucid Air, which holds the current record for production car efficiency.",
+      "tags": [
+        "ev",
+        "volkswagen",
+        "efficiency"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5a8b825cd20404d9",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Waymo opens robotaxi service in Las Vegas",
+      "url": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/",
+      "summary": "Waymo has expanded its robotaxi service to Las Vegas, marking the 15th commercial market for the autonomous vehicle company.",
+      "tags": [
+        "autonomousvehicles",
+        "waymo",
+        "transport"
+      ],
+      "priority": false
+    },
+    {
+      "id": "47e699b3d16e39df",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "summary": "The AI industry is engaged in a debate over whether the technology presents an existential threat to humanity, with recent discussions on the \"Equity\" podcast covering these warnings.",
+      "tags": [
+        "ai",
+        "ethics",
+        "risk"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4ea594137d779c96",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "With iOS 27, I’m actually using Siri again",
+      "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+      "summary": "Apple's updated Siri, introduced with iOS 27, has reportedly become more useful for daily tasks after its long-awaited overhaul.",
+      "tags": [
+        "ios",
+        "siri",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "18010332ed675726",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Arthur Brooks: Why Americans No Longer Grieve Together",
+      "url": "https://www.thefp.com/p/arthur-brooks-americans-cant-grieve-911",
+      "summary": "Arthur Brooks contrasts America's unity after 9/11, marked by increased trust in government and volunteering, with contemporary societal divisions.",
+      "tags": [
+        "society",
+        "history",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3d314b600ac70e0d",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "How Do You Talk a Klansman out of the Klan? Ask Daryl Davis.",
+      "url": "https://www.thefp.com/p/daryl-davis-quitting-the-klan-hate-coleman-hughes",
+      "summary": "Daryl Davis has dedicated over 40 years to befriending Ku Klux Klan members, resulting in more than 200 individuals leaving the organization.",
+      "tags": [
+        "activism",
+        "racism",
+        "civilrights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9e2eb2ecdc93709b",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Niall Ferguson and Tyler Cowen: AIpocalypse Now? Plus. . .",
+      "url": "https://www.thefp.com/p/niall-ferguson-tyler-cowen-aipocalypse-ai-shutdown",
+      "summary": "The Free Press's \"The Front Page\" examines the AI debate, with Niall Ferguson exploring potential catastrophe risks and Tyler Cowen questioning the reality of the announced AI slowdown.",
+      "tags": [
+        "ai",
+        "politics",
+        "commentary"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f6f0b1ab77840db3",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Niall Ferguson: AIpocalypse Now",
+      "url": "https://www.thefp.com/p/niall-ferguson-aipocalypse-now-china-trump-pandemic-financial-collapse",
+      "summary": "Niall Ferguson analyzes the \"AIpocalypse Now\" consensus, where AI leaders like Dario Amodei, Sam Altman, and Elon Musk agree to \"pace\" AI development due to catastrophic risks like cyberattacks and bioterrorism.",
+      "tags": [
+        "ai",
+        "ethics",
+        "risk"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a36a79271609af36",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Tyler Cowen: The AI Slowdown Is Not What It Seems",
+      "url": "https://www.thefp.com/p/tyler-cowen-ai-slowdown-computing-anthropic-openai",
+      "summary": "Tyler Cowen contends that the AI \"slowdown\" proposed by industry leaders, influenced by a former Anthropic researcher's warnings, may be an apparent pause intended for later acceleration rather than a genuine deceleration of progress.",
+      "tags": [
+        "ai",
+        "policy",
+        "economics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "95a3144c9e6d3c2a",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "Seneca on True and False Friendship",
+      "url": "https://www.themarginalian.org/2026/09/13/seneca-friendship/",
+      "summary": "Seneca's \"Letters from a Stoic\" offers insights into genuine friendship, advocating for trust and sincerity over utility or flattery, and highlighting its role as a fundamental human bond.",
+      "tags": [
+        "philosophy",
+        "stoicism",
+        "friendship"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c7f8fc46976159f8",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Apple releases iOS 27 with Siri AI overhaul",
+      "url": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update",
+      "summary": "Apple is releasing iOS 27 and other OS updates, featuring a major Siri AI overhaul in beta for English speakers, alongside new Liquid Glass opacity options and updated app icons.",
+      "tags": [
+        "ios",
+        "apple",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e32cd101cb6fa351",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "I reviewed Valve’s Steam Frame, ask me anything",
+      "url": "https://www.theverge.com/games/994535/steam-frame-ama-your-questions-answered",
+      "summary": "Sean Hollister, a beta-tester for Valve's Steam Frame, is hosting an AMA to discuss the new wearable PC, its accessories, and its potential impact on the future of gaming.",
+      "tags": [
+        "gaming",
+        "hardware",
+        "ama"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9568f8d5191a261a",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "macOS 27 is available now",
+      "url": "https://www.theverge.com/tech/994818/apple-macos-27-golden-gate-available-now",
+      "summary": "Apple has released macOS 27 \"Golden Gate,\" which introduces a new Siri AI assistant, Liquid Glass interface enhancements, and improved performance, exclusively for Apple Silicon Macs.",
+      "tags": [
+        "macos",
+        "apple",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8420c4d571572a85",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Netflix is making a Crazy Taxi movie and a Sonic show with ‘edge’",
+      "url": "https://www.theverge.com/streaming/994861/netflix-crazy-taxi-sonic-stranger-than-heaven",
+      "summary": "Netflix announced three new adaptations of Sega games, including a \"Crazy Taxi\" film, an \"edgy\" \"Sonic\" animated series, and a live-action movie based on RGG Studio's \"Stranger Than Heaven.\"",
+      "tags": [
+        "streaming",
+        "netflix",
+        "gaming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "119af74f62a04ad5",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The Dell XPS 13 is the first real competitor to the MacBook Neo",
+      "url": "https://www.theverge.com/tech/994636/dell-xps-13-2026-intel-wildcat-lake-8gb-16gb-review",
+      "summary": "Dell has revived its XPS 13 laptop as an affordable thin-and-light model at $700, featuring high-quality components and aiming to compete with Apple's MacBook Neo.",
+      "tags": [
+        "laptops",
+        "dell",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2546dc3ef75391ed",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The Steam Frame is made for irresponsible hardware nerds like me",
+      "url": "https://www.theverge.com/tech/994267/steam-frame-review",
+      "summary": "Valve's new Steam Frame is a wearable PC starting at $1,059, praised for its comfort and ability to run both flat and VR games locally, positioning it beyond a typical VR headset.",
+      "tags": [
+        "gaming",
+        "hardware",
+        "vr"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d5be779aea92e3ce",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "TIFF 2026: The latest movie reviews from Toronto",
+      "url": "https://www.theverge.com/entertainment/994834/tiff-2026-movie-reviews",
+      "summary": "The Toronto International Film Festival (TIFF) 2026 is highlighting upcoming films like \"Your Mother Your Mother Your Mother\" and a large Elon Musk documentary, offering a glimpse into future movie releases.",
+      "tags": [
+        "film",
+        "festival",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b479a26c24e2962f",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Valve has ported Half-Life: Alyx to ARM, and it’s free with Steam Frame",
+      "url": "https://www.theverge.com/games/994454/valve-half-life-alyx-standalone-arm-port",
+      "summary": "Valve's new Steam Frame headset comes with a free, natively ported ARM64 version of Half-Life: Alyx, enabling the VR game to run directly on the device's Snapdragon chip without a separate PC.",
+      "tags": [
+        "gaming",
+        "vr",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "82cbf5b6e4028295",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Valve’s Steam Frame costs $1,059",
+      "url": "https://www.theverge.com/games/994376/valve-steam-frame-vr-headset-price-release-date",
+      "summary": "Valve has launched its Steam Frame headset, costing from $1,059, which can play both flat and VR games natively or via streaming, and comes bundled with Half-Life: Alyx.",
+      "tags": [
+        "gaming",
+        "hardware",
+        "vr"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d46227356eda2d03",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Volkswagen’s slippery new EV breaks a bunch of efficiency records",
+      "url": "https://www.theverge.com/transportation/994670/volkswagen-mission-efficiency-ev-aero-drag-record",
+      "summary": "Volkswagen's Mission Efficiency EV prototype has set new records for aerodynamics with a drag coefficient of 0.158 and energy efficiency, consuming just 6.48kWh per 100 kilometers.",
+      "tags": [
+        "ev",
+        "volkswagen",
+        "efficiency"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 90,
+    "summarized": 73,
+    "skipped_promos": 1,
+    "filtered_by_rules": 16,
+    "sources": 12,
+    "email_items_omitted": 0
+  }
+}
