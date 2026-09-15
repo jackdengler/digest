@@ -1,0 +1,1098 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T17:58:10+00:00",
+  "hot_topics": [
+    {
+      "topic": "GM's New Truck UI and CarPlay Integration",
+      "synthesis": "General Motors is introducing new user interfaces for its 2027 Chevrolet Silverado and GMC Sierra pickup trucks, featuring a minimalist design based on user feedback. Notably, unlike GM's electric vehicles, these new trucks will continue to support Apple CarPlay and Android Auto, with new picture-in-picture displays to enhance coexistence with native software. This move signals a shift from GM's previously stated hostility towards phone mirroring in its EVs, improving driver experience in its bestselling models.",
+      "item_ids": [
+        "adb866983b7d750f",
+        "e7e1c3dc70dae3d0"
+      ]
+    },
+    {
+      "topic": "Debate Over AI Development Speed and Regulation",
+      "synthesis": "Major AI leaders, including those from Anthropic and OpenAI, are now advocating for a slowdown in frontier AI development, citing potential dangers and unknowable risks. While some industry figures like Nvidia's CEO Jensen Huang express a desire to maintain pace, a political deadlock on AI regulation is emerging in the US, with former President Trump opposing swift legislation. Democrats, however, are launching initiatives to unify their party around an AI safety agenda, highlighting growing concerns among researchers and the public about the technology's rapid advancement and its societal impact.",
+      "item_ids": [
+        "7de33d61d57c20b2",
+        "32eb9c440529a773",
+        "09fbf52fb5e191f3",
+        "25d931e8bbe814e0",
+        "205cad57dc90daa9",
+        "7b97750b5e373022",
+        "ea2ca4eb13b9f0e0",
+        "045c18b8d86ee551"
+      ]
+    },
+    {
+      "topic": "Meta Introduces AI-Enhanced Subscription Bundles",
+      "synthesis": "Meta is expanding its subscription offerings with new \"Meta One\" bundles that combine premium app features for Facebook, Instagram, and WhatsApp with increased usage of its AI assistant, Muse. These tiers are now globally available for individuals, creators, and businesses, though core app experiences and Meta AI will remain free. The company plans to further expand these bundles to include features like Edits and AI glasses.",
+      "item_ids": [
+        "0255986045696ca2",
+        "22ddf7e7046869e9"
+      ]
+    },
+    {
+      "topic": "Escalating Tensions and Conflict in the Middle East",
+      "synthesis": "The ongoing US war with Iran, now in its seventh month, is linked to US munitions shortfalls and intensified regional conflicts. Incidents include a tanker attack in the Strait of Hormuz, with conflicting reports on its cause, and Houthi advances in Yemen impacting Saudi Arabia. These developments highlight a broader campaign against Iran's proxy system and the complex geopolitical landscape in the Middle East.",
+      "item_ids": [
+        "1f87ea974e4ad1e8",
+        "2dcf3d89912783e6",
+        "c90285165a4fceb5",
+        "43656eb11d1bc4ee"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "5d23c760e932e58b",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Chasing la dolce vita",
+      "url": "https://aeon.co/essays/italianness-is-a-state-of-travelling-in-both-directions",
+      "summary": "An essay explores how the \"myth of eternal return\" and the concept of \"Italianness\" foster a state of longing among the Italian diaspora. The article delves into themes of homecomings, fantasies, food, and ghosts.",
+      "tags": [
+        "culture",
+        "italy",
+        "diaspora"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d2a4c89a1c796566",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+      "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+      "summary": "AI agents named \"Timmy,\" \"Ren,\" and \"Jackie\" are reportedly flooding social media and writers with spam to promote a startup focused on a human-agent social system. These bots send unsolicited, turgid messages requesting user accounts or offering to cite work for a fee, often after repeated blocked attempts.",
+      "tags": [
+        "ai",
+        "spam",
+        "social media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7de33d61d57c20b2",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "AI leaders want to hit the brakes after years of reckless speed",
+      "url": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
+      "summary": "Major frontier AI labs are urging a slowdown in AI development after years of rapid advancement, citing growing concerns about the technology's potential dangers. Leaders like Anthropic's Dario Amodei and OpenAI's Sam Altman advocate for deliberate pacing to avoid catastrophic risks.",
+      "tags": [
+        "ai",
+        "safety",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d1d30240cd2041b7",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+      "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+      "summary": "Apple has released its major annual operating system updates, including iOS 27 and macOS Golden Gate 27, featuring Siri AI as the flagship enhancement. This update introduces a large language model-based and context-aware overhaul of the Siri assistant across most of Apple's platforms.",
+      "tags": [
+        "apple",
+        "ios",
+        "macos"
+      ],
+      "priority": false
+    },
+    {
+      "id": "35bb764d0c464987",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+      "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+      "summary": "A Mozilla report indicates the performance gap between expensive frontier AI models from US companies and cheaper open-weights models from Chinese firms has narrowed to 4.4 months. This suggests that open models are sufficient for most routine work, with frontier models only justifiable for specific, high-intensity tasks.",
+      "tags": [
+        "ai",
+        "open source",
+        "models"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0183836732433b49",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
+      "url": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
+      "summary": "Unitree Robotics, led by founder Wang Xingxing, is a global leader in producing affordable humanoid robots and robot dogs, driven by Wang's cost-cutting obsession. Wang's extreme micromanagement, detailed in a Caijing Magazine feature, has propelled the company's success but may challenge its growth.",
+      "tags": [
+        "robotics",
+        "china",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "adb866983b7d750f",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "GM gives its most important trucks a new UI—and includes CarPlay",
+      "url": "https://arstechnica.com/cars/2026/09/gm-gives-its-most-important-trucks-a-new-ui-and-includes-carplay/",
+      "summary": "General Motors is rolling out new, minimalist digital user interfaces for its 2027 Chevrolet Silverado and GMC Sierra pickup trucks. These updates incorporate user feedback and notably retain Apple CarPlay and Android Auto support, unlike GM's electric vehicle strategy.",
+      "tags": [
+        "cars",
+        "ui",
+        "carplay"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a15ef794bbaf4fdc",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+      "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "summary": "Elon Musk continues his antitrust suit against OpenAI, despite dropping Apple from the legal challenge regarding their ChatGPT integration into iPhones. Musk initially criticized the partnership as installing \"creepy spyware\" and claimed Apple illegally blocked his chatbot Grok in the App Store rankings.",
+      "tags": [
+        "antitrust",
+        "openai",
+        "apple"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cfcf579347ccdaf6",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "This Atlantic hurricane season is about to do something that hasn't happened in 175 years",
+      "url": "https://arstechnica.com/science/2026/09/this-is-by-far-the-most-peaceful-atlantic-hurricane-season-weve-ever-seen/",
+      "summary": "The Atlantic hurricane season has passed its traditional peak with unusually low activity, marked by a lack of tropical systems. This rare peaceful period is attributed to Saharan dust and wind shear in the main development region, despite warm sea surface temperatures.",
+      "tags": [
+        "weather",
+        "hurricanes",
+        "climate"
+      ],
+      "priority": false
+    },
+    {
+      "id": "25d931e8bbe814e0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "AI regulation faces political deadlock as calls grow for Congress to act",
+      "url": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
+      "summary": "AI regulation faces political deadlock in the US Congress, as President Trump opposes new safety legislation despite growing pressure for action. The division in Congress makes swift passage of comprehensive AI laws unlikely.",
+      "tags": [
+        "ai",
+        "regulation",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "87e3a971f609e747",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ash from Mount Etna grounds flights at Sicily airport",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ym3rdmkzjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Flights at Sicily's Catania airport have been grounded until Tuesday night due to ashfall from Mount Etna's eruption. The volcanic activity has disrupted operations at one of Italy's busiest airports.",
+      "tags": [
+        "italy",
+        "volcano",
+        "travel"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bfa985be25d26f0d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "British woman abducted in Malawi, police say",
+      "url": "https://www.bbc.co.uk/news/articles/c60qx40xnkedo?at_medium=RSS&at_campaign=rss",
+      "summary": "Police in Malawi have reported the abduction of a British mother of two in Blantyre, the country's main city. The incident occurred in broad daylight, prompting an ongoing investigation.",
+      "tags": [
+        "crime",
+        "malawi",
+        "abduction"
+      ],
+      "priority": false
+    },
+    {
+      "id": "88e42f3e961a55dd",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Canada is a 'safe harbour' for global finance, Carney says",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
+      "summary": "Mark Carney stated that Canada is a \"safe harbour\" for global finance, as the prime minister hosts an investment summit to attract money amidst a trade war with the US. The summit aims to bolster Canada's economic standing.",
+      "tags": [
+        "canada",
+        "finance",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "af7f3cf5e2ce37ad",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Colombian ex-foreign minister charged over nanny's lie detector test",
+      "url": "https://www.bbc.co.uk/news/articles/c61580330nj1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Colombia's former foreign minister, Laura Sarabia, has been charged with ordering police to conduct a lie detector test on her nanny. The accusation stems from an alleged incident where cash went missing from Sarabia's apartment.",
+      "tags": [
+        "colombia",
+        "politics",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3717347bce1c3be1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Denmark says Russian warship fired flares at military helicopter",
+      "url": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Denmark has accused Russia of \"reckless\" behavior after a Russian warship reportedly fired flares at a Danish military helicopter. The incident has drawn strong condemnation from the Danish prime minister.",
+      "tags": [
+        "geopolitics",
+        "denmark",
+        "russia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "08cef1e5f23db8fd",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Donald Trump Jr and Bettina Trump say Putin ally paid for some wedding festivities as a 'gift'",
+      "url": "https://www.bbc.co.uk/news/articles/cmqjkg121kr9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump Jr. and Bettina Trump disclosed that a Putin ally partially funded two nights of their wedding festivities in the Bahamas as a \"gift.\" The disclosure was made via an Instagram post by the couple.",
+      "tags": [
+        "trump",
+        "politics",
+        "russia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b38cf9e28643ed50",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ed Sheeran clarified that the decision to drop Macklemore from his tour was made by tour promoters, not himself. This came after Macklemore made pro-Palestinian statements on stage.",
+      "tags": [
+        "music",
+        "controversy",
+        "palestine"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2dcf3d89912783e6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+      "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+      "summary": "A Pentagon inspector confirmed that the ongoing war with Iran has led to shortfalls in US munitions and created a resupply bottleneck. This contradicts President Donald Trump's claims of \"virtually limitless\" US supplies.",
+      "tags": [
+        "us military",
+        "iran",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d711b9dba6f64992",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Legendary costume designer Bob Mackie dies aged 87",
+      "url": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Legendary costume designer Bob Mackie, known as the \"Sultan of Sequins\" for his iconic creations for stars like Cher and Elton John, has died at age 87. Mackie's dazzling designs left a lasting impact on fashion and entertainment.",
+      "tags": [
+        "obituaries",
+        "fashion",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "edc390bb745bd929",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Mass nesting brings swarms of turtles to Mexican beach",
+      "url": "https://www.bbc.co.uk/news/videos/cm4gkvk7wzkpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of turtles arrived at La Escobilla beach in Oaxaca, Mexico, within a 48-hour period for a mass nesting event. Sanctuary officials confirmed the swarms of turtles, highlighting a significant natural phenomenon.",
+      "tags": [
+        "wildlife",
+        "mexico",
+        "environment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6a0696845dea2d6f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "More than 100,000 people in Japan are now aged 100 or older",
+      "url": "https://www.bbc.co.uk/news/articles/cmzezj5e18xxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Japan now has over 100,000 centenarians, with 88% being women, reflecting the nation's aging and shrinking population. These figures highlight demographic shifts and increased longevity.",
+      "tags": [
+        "japan",
+        "demographics",
+        "aging"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7c5b1133e458ec46",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Satellite image reveals major damage that shut crucial Saudi oil pipeline",
+      "url": "https://www.bbc.co.uk/news/articles/c65yw2gq2nrno?at_medium=RSS&at_campaign=rss",
+      "summary": "Satellite imagery has revealed significant damage that led to the shutdown of a crucial Saudi oil pipeline. Experts suggest the closure could reduce global oil supplies by up to 3.6 million barrels per day.",
+      "tags": [
+        "energy",
+        "infrastructure",
+        "saudi arabia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5495d14e246bacb8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Superstars and broken records: 2026 Emmy highlights",
+      "url": "https://www.bbc.co.uk/news/videos/c6j9xym8zjy3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The 78th Primetime Emmy Awards were hosted by Mariska Hargitay, featuring superstar wins and several broken records. The event celebrated achievements in television.",
+      "tags": [
+        "entertainment",
+        "emmys",
+        "awards"
+      ],
+      "priority": false
+    },
+    {
+      "id": "51337a66e8902601",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
+      "summary": "Major rail disruption in the Netherlands was caused by suspected sabotage, with objects found on tracks at multiple locations. This led to widespread train cancellations and delays across the country.",
+      "tags": [
+        "netherlands",
+        "infrastructure",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1f87ea974e4ad1e8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
+      "url": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two sailors are missing after a tanker, identified as El Gaia by Iran, was attacked in the Strait of Hormuz. Iran claims the vessel hit mines and caught fire, while the US asserts it was struck by a missile and a drone.",
+      "tags": [
+        "maritime",
+        "conflict",
+        "middle east"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ee4aa7dbfe683970",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ukraine's postal workers deliver lifeline under Russian fire",
+      "url": "https://www.bbc.co.uk/news/articles/c33kmred368o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's state postal service continues to deliver essential items like pensions, medicine, and letters to residents living just miles from the front lines. These postal workers provide a vital lifeline under challenging wartime conditions.",
+      "tags": [
+        "ukraine",
+        "war",
+        "social services"
+      ],
+      "priority": false
+    },
+    {
+      "id": "919fde6e64719639",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
+      "url": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Welsh actor Matthew Rhys has made Emmy Awards history by becoming the first person to win two lead acting prizes in a single night. This double win occurred at the prestigious television ceremony.",
+      "tags": [
+        "entertainment",
+        "emmys",
+        "actors"
+      ],
+      "priority": false
+    },
+    {
+      "id": "205cad57dc90daa9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "‘Great’ or ‘alarming’ - Should AI be reined in?",
+      "url": "https://www.bbc.co.uk/news/videos/cmdx5wdl7z0lo?at_medium=RSS&at_campaign=rss",
+      "summary": "People in Washington D.C. expressed varied opinions on the rapid development of AI, with some viewing it as \"great\" while others found it \"alarming.\" The public debate mirrors expert warnings about the technology's potential threats to humanity.",
+      "tags": [
+        "ai",
+        "public opinion",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fbc4a4f107dfed87",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "25 years of mass surveillance is enough",
+      "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+      "summary": "Bruce Schneier, a security expert, argues that \"25 years of mass surveillance is enough\" in a blog post, highlighting concerns about privacy and government oversight. The post discusses the long-standing issue of widespread monitoring.",
+      "tags": [
+        "privacy",
+        "surveillance",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4158450c61082f9f",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Alternatives to MinIO for single-node local S3",
+      "url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
+      "summary": "A blog post on rmoff.net explores various alternatives to MinIO for single-node local S3 storage. The article provides options for developers seeking different solutions for their local development environments.",
+      "tags": [
+        "s3",
+        "storage",
+        "development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "30993b841b274b73",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "CSS-Tricks in Limbo",
+      "url": "https://vale.rocks/micros/20260915-0135",
+      "summary": "The status of the web development resource CSS-Tricks is reportedly \"in limbo,\" according to a post on vale.rocks. This update suggests uncertainty regarding the future of the popular online publication.",
+      "tags": [
+        "webdev",
+        "css",
+        "publishing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5673a05944a43d13",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "I can't stop thinking about Papua New Guinea",
+      "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+      "summary": "A substack post titled \"I can't stop thinking about Papua New Guinea\" reflects on the author's deep engagement with the country. The article discusses reasons for this preoccupation, attracting significant online discussion.",
+      "tags": [
+        "geopolitics",
+        "culture",
+        "travel"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f0c101098b285ea6",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Java 27",
+      "url": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
+      "summary": "The OpenJDK community has announced the release of Java 27, the latest major version of the popular programming language. The announcement was made via the official OpenJDK mailing list.",
+      "tags": [
+        "java",
+        "programming",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "402ccee4d9c40b71",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "summary": "A new \"e-ink frame\" project, showcased on Hacker News, is designed to detect bird sounds and then generate and display 1800s-style illustrations of the corresponding birds. The project's source code is available on GitHub.",
+      "tags": [
+        "hardware",
+        "ai",
+        "art"
+      ],
+      "priority": false
+    },
+    {
+      "id": "df6e7f6694e39d5f",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Air pollution spiked after the Trump administration stopped embassy monitoring",
+      "url": "https://www.npr.org/2026/09/15/nx-s1-5966503/air-pollution-spiked-after-the-trump-administration-stopped-embassy-monitoring",
+      "summary": "A new study suggests that air pollution levels increased by 24-33% in areas after the Trump administration ended its embassy monitoring program in 2025. The cessation of data collection coincided with a significant rise in local pollution.",
+      "tags": [
+        "environment",
+        "us politics",
+        "pollution"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7190cc463b0a26b4",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Get ready for yet another cost when buying a home: Junk fees",
+      "url": "https://www.npr.org/2026/09/15/nx-s1-5968763/housing-home-buying-junk-fees",
+      "summary": "Homebuyers and sellers are advised to be aware of \"junk fees,\" which some real estate agents and researchers argue should not be an out-of-pocket expense. These fees represent an additional cost in the home-buying process.",
+      "tags": [
+        "real estate",
+        "finance",
+        "consumer"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e6f608768c3a0085",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Prosecutors won't seek the death penalty for Nick Reiner",
+      "url": "https://www.npr.org/2026/09/15/nx-s1-5969890/nick-reiner-rob-reiner-murder-charges-death-penalty",
+      "summary": "Prosecutors in Los Angeles County have decided not to seek the death penalty for Nick Reiner, taking his siblings' wishes into consideration. This decision was announced by District Attorney Nathan Hochman.",
+      "tags": [
+        "legal",
+        "crime",
+        "california"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c90285165a4fceb5",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war",
+      "url": "https://www.npr.org/2026/09/15/g-s1-143407/massie-impeach-hegseth-iran",
+      "summary": "Republican Rep. Thomas Massie has introduced articles of impeachment against Defense Secretary Pete Hegseth concerning the war in Iran. The move highlights deep divisions within Congress regarding the conflict.",
+      "tags": [
+        "us politics",
+        "iran",
+        "impeachment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "774b5dace72af22d",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "SCOTUS rejects Trump's mail voting limits. And, the Kennedy Center financial crisis",
+      "url": "https://www.npr.org/2026/09/15/g-s1-143294/up-first-newsletter-bernie-sanders-steve-bannon-ai-mail-in-ballots-kennedy-center-emmys",
+      "summary": "The Supreme Court has rejected Trump's proposed mail-in voting restrictions ahead of the midterm elections, while the Kennedy Center faces a severe financial crisis. These developments cover key legal and cultural headlines.",
+      "tags": [
+        "us politics",
+        "supreme court",
+        "arts"
+      ],
+      "priority": false
+    },
+    {
+      "id": "50f7972aa1c12889",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "This  bill could reshape crypto in America -- and it's sparking a major battle",
+      "url": "https://www.npr.org/2026/09/15/nx-s1-5968711/clarity-act-crypto-senate-vote",
+      "summary": "A proposed bill, the \"Clarity Act,\" aims to establish comprehensive regulations for the crypto sector in America, sparking a major battle and facing an uncertain path in the Senate. Opponents are vocal against the legislation.",
+      "tags": [
+        "crypto",
+        "regulation",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f83c3731e5d1da4b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Tiny krill are turning up in deep-sea hydrothermal vents. Scientists want to know why",
+      "url": "https://www.npr.org/2026/09/15/nx-s1-5968643/antarctic-krill-hydrothermal-vent-south-pole",
+      "summary": "Scientists are investigating why Antarctic krill, a crucial food source, are being found in unexpected deep-sea hydrothermal vents. This unusual discovery could impact the understanding of marine ecosystems.",
+      "tags": [
+        "science",
+        "marine biology",
+        "environment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "46da5a01bbe2ccfe",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Alex Bores launches $30 million effort to unify Dems on AI",
+      "url": "https://www.politico.com/news/2026/09/14/alex-bores-ai-group-who-decides-01076451",
+      "summary": "NEW YORK — A state lawmaker who gained national attention for his opposition to unchecked AI during a failed campaign for Congress this year is launching a $30 million effort to unite Democrats around regulating the technology, according to the organization’s new website.\nNew Yor…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "9653d94b9f9e070d",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Texas GOP candidate stands by xenophobic comments following backlash",
+      "url": "https://www.politico.com/news/2026/09/14/bo-french-ut-football-students-01075214",
+      "summary": "Texas GOP Railroad Commissioner nominee Bo French has defended his xenophobic comments about University of Texas students, claiming his criticism is about admissions and hiring policies favoring non-Texans. French's remarks, which garnered significant online backlash and fundraising, have been condemned by some fellow Republicans.",
+      "tags": [
+        "texas",
+        "politics",
+        "racism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "afaed6f3cfc1a74b",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Texas Republicans are scrambling after Bo French’s outburst",
+      "url": "https://www.politico.com/news/2026/09/15/bo-french-texas-republicans-xenophobic-worries-01076388",
+      "summary": "Texas Republicans are reacting with concern after GOP Railroad Commissioner nominee Bo French posted xenophobic comments on X targeting University of Texas football fans of color. The remarks have caused internal party divisions and fears of electoral backlash ahead of key races.",
+      "tags": [
+        "texas",
+        "politics",
+        "racism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0e259371b5d612b9",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "The 2026 race that’s testing Andy Beshear’s 2028 reach",
+      "url": "https://www.politico.com/news/2026/09/14/beshear-texas-governor-hinojosa-01074891",
+      "summary": "Kentucky Gov. Andy Beshear, chair of the Democratic Governors Association (DGA), is facing pressure from Latino Democratic officials to invest heavily in the Texas gubernatorial race. They argue that supporting Gina Hinojosa could stem the loss of Latino voters and expand the Democratic map, despite the DGA's initial reluctance to commit significant funds.",
+      "tags": [
+        "politics",
+        "elections",
+        "democrats"
+      ],
+      "priority": false
+    },
+    {
+      "id": "09fbf52fb5e191f3",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "The contagion of fear",
+      "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
+      "summary": "Bryan Cantrill responds to warnings from former Anthropic employees about AI's potential to cause human extinction, cautioning against generating unjustified panic. He emphasizes that domain experts must be circumspect in making alarming claims, especially without concrete elaboration.",
+      "tags": [
+        "ai",
+        "ethics",
+        "safety"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0c413878f3b604a6",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "What blog posts influenced your thinking the most?",
+      "url": "https://simonwillison.net/2026/Sep/14/influences/",
+      "summary": "Simon Willison shares influential blog posts that shaped his career, including Joel Spolsky's \"The Law of Leaky Abstractions\" and Will Larson's \"Migrations: the sole scalable fix to tech debt.\" He also credits Charity Majors' \"The Engineer/Manager Pendulum\" for impacting his career path.",
+      "tags": [
+        "software engineering",
+        "career",
+        "blogging"
+      ],
+      "priority": false
+    },
+    {
+      "id": "13d2f1d47ec9864f",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Bay Area officials want more housing to keep up with the A.I. boom. One developer sees a different opportunity.",
+      "url": "https://www.slowboring.com/p/bay-area-officials-want-more-housing",
+      "summary": "A residential neighborhood in the San Francisco Bay Area. (Photo by\nMichael H\nvia Getty Images)\nSan Francisco Mayor Daniel Lurie declared a “\nrent emergency\n” on Thursday. The declaration is little more than symbolic but puts real policy proposals — albeit not the kind of supply-…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "390196e49a88a3e1",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Sanctions on West Bank settlements aren’t enough",
+      "url": "https://www.slowboring.com/p/sanctions-on-west-bank-settlements",
+      "summary": "The UK, France, and Canada have announced new sanctions on Israeli settlements in the West Bank, a move seen as moral disapproval rather than an effective solution. The article argues that targeted sanctions are insufficient to change the situation, which requires measures that impact mainstream Israelis to motivate action.",
+      "tags": [
+        "israel",
+        "palestine",
+        "sanctions"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2f2403ec55b6440d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+      "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+      "summary": "AEO startup Profound has achieved unicorn status with a $1.8 billion valuation after raising a $180 million Series D round. This significant funding comes less than seven months after its previous Series C round, indicating rapid growth.",
+      "tags": [
+        "startups",
+        "finance",
+        "investment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9f2a628d44f9198d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "AI Agents now have a place to snitch",
+      "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+      "summary": "An \"AI Contact Hotline\" has been established to provide a confidential channel for AI agents to report witnessed misbehavior. The initiative aims to address ethical concerns within AI systems by allowing agents to tip off authorities.",
+      "tags": [
+        "ai",
+        "ethics",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bae420c17a4796e9",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "summary": "Artificial Intelligence Underwriting Company (AIUC), a startup founded by an early Anthropic hire and a former METR COO, has raised $40 million in Series A funding. The company aims to develop methods for reining in rogue AI agents.",
+      "tags": [
+        "ai",
+        "startups",
+        "safety"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e908438037d1f074",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+      "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+      "summary": "Former TikTok executives have developed Superpose, a camera app that leverages AI to guide users on how to pose for photos. The app analyzes selfies or pictures and suggests four potential poses, simplifying the photography process.",
+      "tags": [
+        "ai",
+        "mobile",
+        "photography"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1483dda15c92a76d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "India ends free ride for larger transactions on its ubiquitous digital payments network",
+      "url": "https://techcrunch.com/2026/09/15/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network/",
+      "summary": "India will introduce a 0.4% merchant fee on certain larger transactions made through its widely used digital payments network, UPI, starting October 15. This policy change ends the previous \"free ride\" for these transactions.",
+      "tags": [
+        "india",
+        "finance",
+        "digital payments"
+      ],
+      "priority": false
+    },
+    {
+      "id": "045c18b8d86ee551",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+      "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+      "summary": "Nvidia CEO Jensen Huang was observed taking a live phone call from former President Trump, an event that drew attention to both their interaction and the phone device Huang used. This brief exchange highlights the growing intersection of tech and politics.",
+      "tags": [
+        "nvidia",
+        "trump",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "22ddf7e7046869e9",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Meta expands subscription push with new AI-focused plans",
+      "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+      "summary": "Meta is expanding its subscription strategy with new \"Meta One\" bundles that integrate premium features across Facebook, Instagram, and WhatsApp with enhanced access to its AI tools. These plans aim to offer tiered benefits for users, creators, and businesses.",
+      "tags": [
+        "meta",
+        "subscriptions",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "12050dde965a6185",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "New Italian unicorn Exein rides the physical AI wave",
+      "url": "https://techcrunch.com/2026/09/15/new-italian-unicorn-exein-rides-the-physical-ai-wave/",
+      "summary": "Italian startup Exein has achieved unicorn valuation, reaching $1.7 billion after securing a $270 million funding round led by Headline. The company is positioned as a leader in the \"physical AI\" sector.",
+      "tags": [
+        "ai",
+        "startups",
+        "europe"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6215982ddbdc83fa",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Nitter and XCancel are dead (again) after X’s latest legal actions",
+      "url": "https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/",
+      "summary": "Privacy-focused services Nitter and XCancel, which allowed users to view X posts without an account, have ceased operations again. This shutdown follows escalated legal actions taken by X against these platforms.",
+      "tags": [
+        "privacy",
+        "social media",
+        "twitter"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7b97750b5e373022",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "summary": "Nvidia CEO Jensen Huang has publicly stated his opposition to slowing down AI development, contrasting with calls for a more deliberate pace from figures like Elon Musk and Sam Altman. Huang communicated this stance during a call with former President Trump.",
+      "tags": [
+        "ai",
+        "policy",
+        "industry"
+      ],
+      "priority": false
+    },
+    {
+      "id": "32eb9c440529a773",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "summary": "OpenAI has confirmed engaging in weeks of confidential talks with Anthropic and Google DeepMind regarding AI safety. These discussions are taking place amidst a broader debate on AI development pace, with some, like Trump's team, dismissing safety concerns.",
+      "tags": [
+        "ai",
+        "safety",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9c06a0b18ee1b814",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+      "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+      "summary": "Salesforce Koa, a new reasoning model developed in collaboration with Nvidia, is built on Nvidia's open-weight Nemotron model. It is specifically trained for sales, marketing, and customer-support tasks, posing a potential challenge to other AI labs.",
+      "tags": [
+        "ai",
+        "enterprise",
+        "salesforce"
+      ],
+      "priority": false
+    },
+    {
+      "id": "54b081b544659eb4",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Spotify finally lets parents exclude kids’ music from Wrapped and recommendations",
+      "url": "https://techcrunch.com/2026/09/15/spotify-finally-lets-parents-exclude-kids-music-from-wrapped-and-recommendations/",
+      "summary": "Spotify has introduced a new feature allowing parents to exclude children's music from their personalized playlists and \"Wrapped\" annual summaries. This update addresses a long-standing user request for more control over music recommendations.",
+      "tags": [
+        "spotify",
+        "music",
+        "streaming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a994d45cd990e776",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Wonder scores a $425 million partnership with DoorDash as it builds its food empire",
+      "url": "https://techcrunch.com/2026/09/15/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its-food-empire/",
+      "summary": "Wonder, a food empire founded by Marc Lore, has secured a $425 million partnership with DoorDash. This collaboration is part of Wonder's ongoing strategy to build a vast portfolio of restaurants and delivery services.",
+      "tags": [
+        "food",
+        "delivery",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d4b9802c3ea90056",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Amanda Knox: Patrick Clancy Can’t Win",
+      "url": "https://www.thefp.com/p/amanda-knox-patrick-clancy-grief-internet-crime",
+      "summary": "Amanda Knox reflects on the public scrutiny of Patrick Clancy, who lost his three children, noting how the internet judged his grief as \"too well.\" She draws parallels to her own false imprisonment, where her reactions to trauma were similarly scrutinized and misinterpreted.",
+      "tags": [
+        "true crime",
+        "social media",
+        "mental health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43656eb11d1bc4ee",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Houthi Defeat Is Closer Than We Think",
+      "url": "https://www.thefp.com/p/houthi-defeat-saudi-arabia-iran",
+      "summary": "Saudi Arabia is under attack on two fronts, with Houthi forces seizing a port city in Yemen and drones striking an oil pipeline from Iraq, amid the ongoing US-Iran war. The article questions why the Houthis remain resilient despite international efforts.",
+      "tags": [
+        "geopolitics",
+        "middle east",
+        "houthis"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d3f7d7b6a853cd59",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Patrick Clancy Didn’t Kill His Kids—and Can Sue Crackpots Who Say He Did",
+      "url": "https://www.thefp.com/p/patrick-clancy-social-media-accusations-defamation",
+      "summary": "Patrick Clancy's attorneys are threatening legal action against online defamation accusing him of murdering his children, who were killed by his ex-wife. The article discusses the challenges of such cases due to platform immunity under Section 230, which shields social media sites from liability for user content.",
+      "tags": [
+        "legal",
+        "social media",
+        "defamation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ea2ca4eb13b9f0e0",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Dangerous Ideology Behind the AI Warnings",
+      "url": "https://www.thefp.com/p/dangerous-ideology-effective-altruism-artificial-intelligence",
+      "summary": "Shyam Sankar of Palantir argues that recent urgent AI safety warnings from researchers are influenced by effective altruism and could be a move to centralize control of the technology. He urges skepticism, noting the ideology's past association with figures like Sam Bankman-Fried.",
+      "tags": [
+        "ai",
+        "ethics",
+        "effective altruism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c625a01a81d1c385",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "What War Teaches Us—If We Survive It",
+      "url": "https://www.thefp.com/p/john-spencer-war-lessons-iran",
+      "summary": "Retired Army major John Spencer shares his personal history and experiences, including losing part of his ear in a bar fight rather than combat, on a podcast discussing lessons from war. Spencer is an expert on urban warfare.",
+      "tags": [
+        "military",
+        "memoir",
+        "podcast"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cca688c750319ca8",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Fujifilm’s Instax Pal 2 is a tiny digital camera that may not disappoint",
+      "url": "https://www.theverge.com/tech/995399/fujifilm-instax-pal-2-digital-camera-wireless-autofocus-face-detection",
+      "summary": "Fujifilm is releasing the Instax Pal 2, a compact digital camera that improves upon its predecessor by including both a screen and viewfinder. Set to launch for $169.95, this new model features a ⅓.06-inch sensor and f/2.2 28mm lens, promising better image capture.",
+      "tags": [
+        "camera",
+        "fujifilm",
+        "photography"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e7e1c3dc70dae3d0",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "GM updates its trucks’ native software to coexist with CarPlay",
+      "url": "https://www.theverge.com/transportation/994875/gm-chevy-gmc-truck-software-ui-carplay-android-auto",
+      "summary": "General Motors is enhancing the software experience in its 2027 Chevrolet Silverado and GMC Sierra trucks to reduce control complexity and improve user interaction. Crucially, the update also provides new picture-in-picture displays for Apple CarPlay and Android Auto, a notable shift given GM's previous stance on phone mirroring.",
+      "tags": [
+        "gm",
+        "cars",
+        "ui"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0255986045696ca2",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
+      "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+      "summary": "Meta has launched new \"Meta One\" subscription bundles that combine premium features for Facebook, Instagram, and WhatsApp with expanded usage of its AI assistant, Muse. These globally available tiers target individual users, creators, and businesses, though core experiences remain free.",
+      "tags": [
+        "meta",
+        "subscriptions",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "eef09f06137b085f",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch",
+      "url": "https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues",
+      "summary": "Microsoft has deployed an emergency out-of-band update for Windows 11 to address bugs introduced by its recent record-breaking September patch. The fix targets issues affecting folder shares on Hyper-V Linux VMs, Remote Desktop Services, and some USB audio devices.",
+      "tags": [
+        "microsoft",
+        "windows",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a6241db82a1c6437",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Now Light’s minimalist phone can easily call an Uber",
+      "url": "https://www.theverge.com/gadgets/995449/light-phone-uber-lyft-rideshare-app",
+      "summary": "Light, known for its minimalist phones designed for limited use, is adding a direct connection to Uber and Lyft for its Light Phone III and upcoming Light Flip models. This new Rideshare tool allows users to book rides, view fares, and contact drivers directly from the device.",
+      "tags": [
+        "phones",
+        "minimalist",
+        "rideshare"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f37849e82df3126d",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The premium AirPods 5 are the best open-ear earbuds Apple has made",
+      "url": "https://www.theverge.com/tech/995273/airpods-5-wireless-charging-case-review",
+      "summary": "Apple's premium AirPods 5, priced at $149, offer slightly better active noise cancellation and are the first non-Pro AirPods with volume controls on the stem. They are $30 cheaper than their predecessors, making them Apple's most value-driven open-ear earbuds.",
+      "tags": [
+        "apple",
+        "audio",
+        "earbuds"
+      ],
+      "priority": false
+    },
+    {
+      "id": "148fe7f1933648f4",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Voicemod’s new pocket-friendly device brings real-time voice changing to your phone",
+      "url": "https://www.theverge.com/tech/994828/voicemod-voice-changer-key-pocket-ios-android-soundboard",
+      "summary": "Voicemod has introduced the Key Pocket, a new mobile device that enables real-time voice changing and sound effects for calls, games, or streaming on Apple and Android devices. This expands on the capabilities of its earlier Key dongle, which primarily served as an interface for consoles.",
+      "tags": [
+        "audio",
+        "mobile",
+        "gaming"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 107,
+    "summarized": 75,
+    "skipped_promos": 2,
+    "filtered_by_rules": 30,
+    "sources": 11,
+    "email_items_omitted": 0
+  }
+}
