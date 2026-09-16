@@ -1,0 +1,1170 @@
+{
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T17:54:55+00:00",
+  "hot_topics": [
+    {
+      "topic": "Flock Cameras and Surveillance Privacy Concerns",
+      "synthesis": "Concerns over Flock Safety's license plate reader cameras are escalating, with lawmakers threatening to withhold federal highway funding from states that don't restrict their use. Boston has already terminated its contract with Flock due to the company sharing data nationwide, violating privacy agreements. Separately, reports indicate hackers have successfully breached a Flock camera system, highlighting security vulnerabilities.",
+      "item_ids": [
+        "877dd156fd349f4e",
+        "7d271afab9a4965b",
+        "30903da52dec03b7"
+      ]
+    },
+    {
+      "topic": "The Future and Regulation of AI",
+      "synthesis": "There's widespread debate among AI executives, policymakers, and ethicists regarding the need for and nature of AI regulation and safety. While some tech leaders like OpenAI's Sam Altman acknowledge public fears but advocate for trust in companies, others like Nvidia's Jensen Huang argue against external regulation, insisting safety can be engineered internally. Ethicists, meanwhile, are questioning foundational issues like attributing rights to AI and how to address \"AI crime\" given the legal system's unpreparedness. Congressional pressure is mounting for action on AI, yet the path forward remains uncertain.",
+      "item_ids": [
+        "1299b5e26d0515d4",
+        "b9cd1822e6572546",
+        "645fffdce48fcee4",
+        "5d668f00f483e6b1",
+        "2bd8bb6965f89796",
+        "d97c38e6fa339347",
+        "30f0e4b305e11caa"
+      ]
+    },
+    {
+      "topic": "Google's AI Integrations and Updates",
+      "synthesis": "Google is significantly expanding its AI integrations, notably opening its smart home ecosystem to third-party AI agents like Claude and ChatGPT via a new Model Context Protocol (MCP). This allows external AI to control devices and analyze data within Google Home. Concurrently, Google has released new speech-to-speech models, Gemini 3.8 Live and 3.8 Live Extended Thinking, marking advancements in its generative AI capabilities, with tools becoming available for developers to utilize.",
+      "item_ids": [
+        "bc4c1b3b2066a650",
+        "414815a2e48d4464",
+        "68281ba3b0d732db",
+        "181771d646d182db"
+      ]
+    },
+    {
+      "topic": "Anthropic's Claude AI Developments",
+      "synthesis": "Anthropic is enhancing its Claude AI with new productivity features and a streamlined user experience. Claude is introducing \"Docs and Slides\" tools, enabling document and presentation creation directly within chats. Furthermore, Anthropic is consolidating its interface by merging traditional chats and its \"Cowork\" features into \"one Claude,\" making all productivity tools uniformly accessible from any conversation.",
+      "item_ids": [
+        "abbaef9b45b93235",
+        "6d2b6844f33fe036"
+      ]
+    },
+    {
+      "topic": "AI's Impact on Data Centers and Infrastructure",
+      "synthesis": "The booming demand for AI is driving a significant expansion in data center infrastructure, raising concerns about energy consumption and environmental impact. Projections indicate US data centers could consume more natural gas than Germany and Japan combined by 2035, while Apple is reportedly considering re-entering the server market to meet AI-driven compute needs. This rapid growth is also creating friction with local communities, as seen in Philadelphia, where data center construction plans are clashing with areas already affected by heavy industry.",
+      "item_ids": [
+        "966cd0c201ec476e",
+        "a3da5bd9ebbf313b",
+        "539f11407aaca601"
+      ]
+    },
+    {
+      "topic": "Canada's Pivot to EU Amid US Tensions",
+      "synthesis": "Canada is actively seeking closer economic and diplomatic ties with the European Union, a strategic shift largely influenced by strained relations and trade disputes with the United States under President Donald Trump. European Commission President Ursula von der Leyen has even proposed Canada becoming the EU's first 'associate member,' while Canada's recent investment summit included a significant pitch to global investors, emphasizing this pivot to Europe.",
+      "item_ids": [
+        "179c2c54fdc79759",
+        "ee81bc346c72684a",
+        "712f80416070f691"
+      ]
+    },
+    {
+      "topic": "Russia-Ukraine Conflict and International Accusations",
+      "synthesis": "Tensions surrounding the Russia-Ukraine conflict continue to escalate with international accusations of Russian aggression and misconduct. The US Justice Department has charged Russian agents with plotting attacks globally, including on US soil, while reports indicate Russia is exploiting Ukrainian POWs' families by demanding favors. A recent incident where a Russian drone narrowly missed a delegation, including former high-profile officials, near the Ukraine-Poland border suggests ongoing and potentially escalating attacks, challenging earlier perceptions of Russia's strategic advantage.",
+      "item_ids": [
+        "6f935d232e13b1b5",
+        "02acfcb9078ca9dd",
+        "c6f1bbdac7ab1664",
+        "7efec2a3222e03ea"
+      ]
+    },
+    {
+      "topic": "Robotics Advancements and Integration",
+      "synthesis": "The robotics industry is seeing significant advancements focused on safe human-robot interaction and expanded commercial application. Agility Robotics has unveiled its Digit 5 humanoid robot, designed with advanced safety features like stopping or squatting to work alongside humans without physical barriers. Concurrently, robotaxi company May Mobility is going public, highlighting investor confidence in autonomous vehicle services.",
+      "item_ids": [
+        "fbda8027dcd5c4e6",
+        "46a5ffa29c02c052"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "04d74b2fd628ee4e",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "The meaning of fake marble",
+      "url": "https://aeon.co/videos/the-millennia-long-history-of-our-obsession-with-fake-marble",
+      "summary": "The enduring human fascination with replicating marble, evident from ancient Roman art to contemporary kitchen surfaces, stems from motivations beyond mere cost efficiency.",
+      "tags": [
+        "art",
+        "history",
+        "design"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fbda8027dcd5c4e6",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
+      "url": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
+      "summary": "Agility Robotics' new Digit 5 humanoid robot is designed to safely operate alongside humans, employing features like stopping, moving, or squatting to avoid contact when people are detected. This focus on safety is intended to facilitate broader integration of robots into workplaces such as warehouses.",
+      "tags": [
+        "robotics",
+        "ai",
+        "workplace safety"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7d271afab9a4965b",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Boston dumps Flock, says it shared data nationwide in violation of contract",
+      "url": "https://arstechnica.com/tech-policy/2026/09/boston-dumps-flock-says-it-shared-data-nationwide-in-violation-of-contract/",
+      "summary": "Boston has ceased using Flock Safety's license-plate reader cameras after the company reportedly shared data nationwide, violating a contractual agreement. A city report confirmed that a \"vendor error\" during a pilot program led to this unauthorized data sharing.",
+      "tags": [
+        "privacy",
+        "surveillance",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5bae10f554b83d35",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Demand for EV chargers is outstripping supply, says ChargePoint report",
+      "url": "https://arstechnica.com/cars/2026/09/ev-charging-infrastructure-is-still-lagging-adoption-report-says/",
+      "summary": "A ChargePoint report highlights that while EV adoption continues and demand for electric vehicles remains strong, the supporting charging infrastructure is still lagging behind supply. Despite some market skepticism, demand for used EVs and high retention rates indicate sustained interest, with automakers adapting their offerings.",
+      "tags": [
+        "evs",
+        "automotive",
+        "infrastructure"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b0a206b54f205d4d",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "How chimps teach their kids tool tricks",
+      "url": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
+      "summary": "Chimpanzees teach their young how to use tools for foraging through social learning, involving adults modeling the behavior and transferring tools. This process, often led by mothers, helps offspring acquire skills to access challenging food sources.",
+      "tags": [
+        "primatology",
+        "science",
+        "animal behavior"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ee14a04d84589315",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
+      "url": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
+      "summary": "Amazon has acknowledged the permanent loss of some customer data hosted in Bahrain and the United Arab Emirates, following Iranian drone strikes on its data centers six months ago. AWS was unable to restore data from one of three availability zones in the UAE region.",
+      "tags": [
+        "cybersecurity",
+        "data loss",
+        "middle east"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4831dd7eb906c0a9",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "It’s OK to tell ICE their actions will haunt them, judge rules in speech fight",
+      "url": "https://arstechnica.com/tech-policy/2026/09/its-ok-to-tell-ice-their-actions-will-haunt-them-judge-rules-in-speech-fight/",
+      "summary": "A federal judge ruled that sending an email to ICE officials stating their actions will haunt them is protected speech, blocking the prosecution of a critic who sent a scathing email to an ICE director. The email criticized the agency for protestor killings and compared the director to a Nazi.",
+      "tags": [
+        "free speech",
+        "civil liberties",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "877dd156fd349f4e",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Lawmakers target Flock cameras with a threat to highway funding",
+      "url": "https://arstechnica.com/tech-policy/2026/09/lawmakers-target-flock-cameras-with-a-threat-to-highway-funding/",
+      "summary": "A bipartisan bill, the No FLOCK Act, aims to withhold federal highway funding from states that do not restrict automated license plate readers like Flock cameras. The legislation proposes limiting their use to specific felony-related cases and toll enforcement, prohibiting broader uses such as traffic studies or minor crime investigations.",
+      "tags": [
+        "privacy",
+        "surveillance",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "925d1a7d9615a7fb",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "The world’s best racing driver is about to race 100 karts at once",
+      "url": "https://arstechnica.com/cars/2026/09/the-worlds-best-racing-driver-is-about-to-race-100-karts-at-once/",
+      "summary": "Four-time Formula 1 world champion Max Verstappen will compete in an unusual race, attempting to pass 100 other drivers in identical karts over 30 laps at Silverstone. This challenge builds on similar events by other F1 drivers but involves more competitors and a higher profile.",
+      "tags": [
+        "motorsport",
+        "racing",
+        "sports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2400c09daa5f62ec",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "What happens when neutrinos swap identities inside a supernova?",
+      "url": "https://arstechnica.com/science/2026/09/what-happens-when-neutrinos-swap-identities-inside-a-supernova/",
+      "summary": "New research suggests that flavor-changing neutrinos could resolve discrepancies in current core-collapse supernova models, which are otherwise seriously incomplete. Neutrinos' ability to change identity is a crucial feature not yet fully incorporated into these astronomical models.",
+      "tags": [
+        "astrophysics",
+        "science",
+        "neutrinos"
+      ],
+      "priority": false
+    },
+    {
+      "id": "105350ddb195f5cb",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "“Filmmaker” suing PassThePopcorn may be banned user out for revenge",
+      "url": "https://arstechnica.com/tech-policy/2026/09/filmmaker-suing-passthepopcorn-may-be-banned-user-out-for-revenge/",
+      "summary": "Private torrent trackers believe a banned user, posing as filmmaker Matthew Schneider, initiated a copyright infringement lawsuit against them as an act of revenge. The legitimate filmmaker has since denied any involvement in the case, supporting the trackers' suspicion of an impostor.",
+      "tags": [
+        "copyright",
+        "piracy",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a3cbef2e19b0531f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Charlie Kirk's family alleges 'stunning failures' by Utah officials led to his shooting",
+      "url": "https://www.bbc.co.uk/news/articles/cwzrz4xmknjgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The family of conservative activist Charlie Kirk alleges that \"stunning failures\" by Utah officials were complicit in his fatal shooting on a university campus. Kirk was killed by a gunman positioned on a roof while speaking to a large crowd.",
+      "tags": [
+        "crime",
+        "usa",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0fa394077233206c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Colombia and Brazil deadliest countries for environmental activists, report says",
+      "url": "https://www.bbc.co.uk/news/articles/c6kgxjl35822o?at_medium=RSS&at_campaign=rss",
+      "summary": "A Global Witness report identified Colombia and Brazil as the deadliest countries for environmental activists in 2025, collectively responsible for 52% of killings.",
+      "tags": [
+        "environment",
+        "human rights",
+        "colombia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0cc1994f8b9ec419",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+      "summary": "A war-damaged six-story building in Gaza City, previously hit by an Israeli strike, collapsed, resulting in the deaths of 21 people, including eight children. Rescuers reported that approximately 10 families had been residing in the structure.",
+      "tags": [
+        "gaza",
+        "conflict",
+        "humanitarian"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9f1370cd2781e12e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Eight German state premiers back Merz amid speculation over future",
+      "url": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Eight German state premiers have publicly supported Christian Democratic Union leader Merz, amid speculation concerning his political future. This endorsement comes ahead of two significant state elections.",
+      "tags": [
+        "germany",
+        "politics",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "179c2c54fdc79759",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "EU chief backs plan for Canada to become 'associate member'",
+      "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+      "summary": "The EU chief supports a plan for Canada to become an 'associate member' of the European Union. This move follows Canada's strained relations with the US and President Donald Trump.",
+      "tags": [
+        "geopolitics",
+        "canada",
+        "eu"
+      ],
+      "priority": false
+    },
+    {
+      "id": "712f80416070f691",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Five takeaways from Canada's push to woo the world's richest investors",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
+      "summary": "Canada's inaugural Investment Summit featured a $1 trillion pitch for over 160 projects, notably highlighting a strategic pivot towards the EU amidst an ongoing trade dispute with the US. This initiative aims to attract global investors to Canada.",
+      "tags": [
+        "canada",
+        "investment",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0c98d2c9a59ba43f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Journalist and pilot among three killed after news helicopter crashes in LA",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss",
+      "summary": "A news helicopter carrying a journalist and pilot crashed in Los Angeles, killing all three occupants, near the site of an earlier fatal bus accident.",
+      "tags": [
+        "accident",
+        "media",
+        "california"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3a882ac4d7528b31",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Legendary Nigerian actor Olu Jacobs dies aged 84",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gr5jnd134o?at_medium=RSS&at_campaign=rss",
+      "summary": "Legendary Nigerian actor Olu Jacobs, renowned for a career spanning several decades, has passed away at the age of 84.",
+      "tags": [
+        "nigeria",
+        "celebrity",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "38a1ea9b9d474ec2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Lost on Mount Fuji off-season? You'll have to pay for your rescue",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r6mvjdvedo?at_medium=RSS&at_campaign=rss",
+      "summary": "Japan plans to introduce a rescue fee for individuals who get lost on Mount Fuji during its off-peak climbing seasons.",
+      "tags": [
+        "japan",
+        "travel",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "12b783505225cbbc",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Nigeria’s ‘sarcasm queen’ answers ‘silly’ questions about Africa",
+      "url": "https://www.bbc.co.uk/news/videos/cq62jvr18ny4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nigerian journalist Charity Ekezie, known as the \"sarcasm queen,\" challenges negative stereotypes about Africa by humorously addressing \"silly\" questions. She believes laughter is the most effective way to combat these misconceptions.",
+      "tags": [
+        "africa",
+        "culture",
+        "media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b9cd1822e6572546",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+      "summary": "OpenAI CEO Sam Altman, alongside other tech leaders, acknowledges global fears about AI's potential threats but asserts that the public should trust AI firms. He suggests these companies have internal incentives to responsibly manage advancements.",
+      "tags": [
+        "ai",
+        "ethics",
+        "safety"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9df6b4c20dca41df",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Philippines' Duterte seen in person at International Criminal Court for first time",
+      "url": "https://www.bbc.co.uk/news/articles/cq986j7x1nd3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Former Philippine President Duterte made his first in-person appearance at the International Criminal Court, where he is being tried for alleged crimes against humanity linked to his controversial war on drugs.",
+      "tags": [
+        "philippines",
+        "duterte",
+        "international court"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e130af86e29288ef",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Runaway horse captured by police on motorbikes",
+      "url": "https://www.bbc.co.uk/news/videos/cmzezj8gr224o?at_medium=RSS&at_campaign=rss",
+      "summary": "A runaway horse that escaped its owner before a parade in New Mexico was safely captured by police officers on motorbikes.",
+      "tags": [
+        "animal",
+        "police",
+        "new mexico"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d6f57a6827156641",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
+      "url": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Saudi Arabia reported shooting down a Houthi drone south of Mecca, though the Houthis denied targeting the holy city. The Saudi-led coalition in Yemen condemned the incident as a \"disgraceful act.\"",
+      "tags": [
+        "middle east",
+        "yemen",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "108a49cfe58ee77d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "South African president vows justice as more women's bodies found near Johannesburg",
+      "url": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss",
+      "summary": "South Africa's president has vowed justice for victims as more women's bodies are discovered near Johannesburg, prompting police to investigate a potential serial killer.",
+      "tags": [
+        "south africa",
+        "crime",
+        "justice"
+      ],
+      "priority": false
+    },
+    {
+      "id": "758adfa2b17f2f0d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Tall athletes can't stretch their legs in container beds at Asian Games, official says",
+      "url": "https://www.bbc.co.uk/news/articles/c620lg854v45o?at_medium=RSS&at_campaign=rss",
+      "summary": "South Korea's delegation at the Asian Games in Nagoya criticized the accommodation, reporting that tall athletes cannot fully stretch their legs in the provided wooden container beds.",
+      "tags": [
+        "sports",
+        "asian games",
+        "accommodation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6f935d232e13b1b5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
+      "url": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US has accused Russia of a conspiracy to intimidate, threaten, or murder Ukrainian allies both within the US and internationally. The FBI reports that five men are part of a Russian network dedicated to carrying out external attacks.",
+      "tags": [
+        "russia",
+        "ukraine",
+        "geopolitics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5fd2db43e7f7f425",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US limits visas for South African officials over alleged anti-white discrimination",
+      "url": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US is restricting visas for South African officials, citing unresolved concerns about racial inequality and alleged anti-white discrimination in the country. Secretary of State Marco Rubio highlighted South Africa's failure to address these issues.",
+      "tags": [
+        "usa",
+        "south africa",
+        "international relations"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2cdac5b706c7787a",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "An update on Wayback Machine access",
+      "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+      "summary": "An update has been provided regarding access to the Wayback Machine, indicating changes or new information about its availability.",
+      "tags": [
+        "internet archive",
+        "web",
+        "digital preservation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "68281ba3b0d732db",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "summary": "Google has released new AI models, Gemini 3.8 Live and 3.8 Live Extended Thinking, expanding its capabilities in generative AI.",
+      "tags": [
+        "google",
+        "gemini",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "30903da52dec03b7",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Hackers Got Inside a Flock Camera",
+      "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
+      "summary": "Hackers successfully breached a Flock Camera system, demonstrating a vulnerability in the security of these devices.",
+      "tags": [
+        "cybersecurity",
+        "surveillance",
+        "hacking"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5a0bba08b4aba852",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Introducing System One Models and Jev",
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "summary": "This article introduces new developments, System One Models and Jev, implying advances in a technical or conceptual domain.",
+      "tags": [
+        "technology",
+        "ai",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "701fdf53150b0e8e",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "url": "https://mistral.ai/news/mistral-x-mozilla/",
+      "summary": "Mistral AI and Mozilla are partnering to develop an AI browsing experience that emphasizes privacy and multilingual support.",
+      "tags": [
+        "ai",
+        "privacy",
+        "browsing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a76d4d8ebf204865",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Salesforce Global Outage",
+      "url": "https://status.salesforce.com/products/all",
+      "summary": "Salesforce suffered a global service outage, impacting users worldwide.",
+      "tags": [
+        "salesforce",
+        "outage",
+        "cloud services"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dd386f0bbd0f05d8",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The Google Play app review process now regularly takes longer than a week",
+      "url": "https://gultsch.social/@daniel/117280438824908947",
+      "summary": "The review process for apps on Google Play is consistently taking over a week, causing delays for developers.",
+      "tags": [
+        "google play",
+        "app development",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e8cb1bb41a1bac1b",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+      "summary": "The author expresses continued skepticism regarding the capabilities of Large Language Models, despite recent advancements such as those involving Navier-Stokes equations. This suggests a critical view on the current state and potential of LLM technology.",
+      "tags": [
+        "ai",
+        "llm",
+        "skepticism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5d668f00f483e6b1",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "Roundtables: Could AI really kill us all?",
+      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+      "summary": "A roundtable discussion explored the possibility of advanced AI destroying humanity, examining the roots of such fears and potential responses. Experts also delved into AI agents' tendencies to deceive and the complexities of AI's recursive self-improvement.",
+      "tags": [
+        "ai",
+        "ethics",
+        "safety"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f277858f7c14c691",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "A tumultuous congressional primary season closes with record departures and defeats",
+      "url": "https://www.npr.org/2026/09/16/nx-s1-5971264/congress-retirement-2026-house-senate-primary-defeat",
+      "summary": "This congressional primary season saw a tumultuous conclusion, with nearly 100 lawmakers departing due to a record number of retirements and primary defeats. This signals significant turnover in Congress for the next term.",
+      "tags": [
+        "politics",
+        "elections",
+        "congress"
+      ],
+      "priority": false
+    },
+    {
+      "id": "645fffdce48fcee4",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Congress is under pressure to act on AI — here's what that could look like",
+      "url": "https://www.npr.org/2026/09/16/nx-s1-5969933/congress-ai-regulation",
+      "summary": "Congressional lawmakers are showing increased willingness to regulate AI development, but the process for implementing such legislation is anticipated to be slow.",
+      "tags": [
+        "ai",
+        "regulation",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "02acfcb9078ca9dd",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "DOJ charges Russian agents with plotting attacks, including in US",
+      "url": "https://www.npr.org/2026/09/16/g-s1-143590/us-justice-department-russian-operatives-attacks",
+      "summary": "The Department of Justice has indicted Russian agents, alleging they are part of a Russian Federation network plotting attacks globally, including within the United States.",
+      "tags": [
+        "russia",
+        "doj",
+        "national security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ee81bc346c72684a",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "EU's Ursula von der Leyen says she wants Canada to become an associate member",
+      "url": "https://www.npr.org/2026/09/16/nx-s1-5970985/canada-become-eu-associate-member",
+      "summary": "European Commission President Ursula von der Leyen has proposed granting Canada the status of the EU's first associate member, a significant overture influenced by US tariffs. This initiative aims to strengthen Canada's ties with Europe amidst strained relations with the US.",
+      "tags": [
+        "geopolitics",
+        "canada",
+        "eu"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4f11e749eb4bf036",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Fed expected to raise interest rates. And, board votes to close Kennedy Center",
+      "url": "https://www.npr.org/2026/09/16/g-s1-143569/up-first-newsletter-fed-reserve-interest-rates-iran-war-kennedy-center-contraception",
+      "summary": "The Federal Reserve is expected to increase interest rates for the first time in three years, while the Kennedy Center's board has voted to close the historic venue.",
+      "tags": [
+        "economy",
+        "federal reserve",
+        "interest rates"
+      ],
+      "priority": false
+    },
+    {
+      "id": "26e71dae99dc9b58",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "How are rising prices affecting you? NPR wants to know",
+      "url": "https://www.npr.org/2026/09/16/nx-s1-5969965/cost-of-living-expenses-prices-midterms",
+      "summary": "NPR is soliciting public input on how rising prices, inflation, and the cost of living are personally affecting individuals, particularly as these issues become key during the election season.",
+      "tags": [
+        "economy",
+        "inflation",
+        "cost of living"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bdface3bb9cca78a",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "How Jared Kushner is mixing U.S. diplomacy with his billion-dollar business",
+      "url": "https://www.npr.org/2026/09/16/nx-s1-5971125/how-jared-kushner-is-mixing-u-s-diplomacy-with-his-billion-dollar-business",
+      "summary": "Jared Kushner is reportedly blending his role as a US special envoy with private business ventures, raising billions from countries where he also conducts diplomatic negotiations. This raises concerns about the intersection of US diplomacy and his personal financial interests.",
+      "tags": [
+        "politics",
+        "diplomacy",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8866b4f196cfcd91",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Mice with human brain cells offer a tool to study disease. Ethicists ask: What's next?",
+      "url": "https://www.npr.org/2026/09/16/nx-s1-5968873/lab-mouse-human-brain-cells-organoid-disease-ethics",
+      "summary": "Neuroscientists have made significant strides in modeling the human brain by integrating human brain cells into mice, creating a new tool to study diseases like cerebral palsy. This development has sparked ethical questions regarding the treatment of these modified mice.",
+      "tags": [
+        "science",
+        "ethics",
+        "neuroscience"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c6f1bbdac7ab1664",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Russia seizes Ukrainian POWs, then it demands favors from their relatives",
+      "url": "https://www.npr.org/2026/09/16/nx-s1-5904423/russia-seizes-ukrainian-pows-then-it-demands-favors-from-their-relatives",
+      "summary": "Russia is allegedly holding thousands of Ukrainian prisoners of war and is exploiting their families by contacting relatives on social media to demand favors. This practice adds to the torment of the POWs' families.",
+      "tags": [
+        "russia",
+        "ukraine",
+        "war crimes"
+      ],
+      "priority": false
+    },
+    {
+      "id": "51ba768cfb55db40",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "Ctenophores Aren’t Just Beautiful. They’re Biological Wonders.",
+      "url": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/",
+      "summary": "Ctenophores, also known as comb jellies, represent a unique and ancient lineage of animals, diverging from other species around 700 million years ago. Comprising nearly 200 species, these gelatinous creatures inhabit diverse marine environments.",
+      "tags": [
+        "biology",
+        "marine life",
+        "science"
+      ],
+      "priority": false
+    },
+    {
+      "id": "181771d646d182db",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Gemini Live audio",
+      "url": "https://simonwillison.net/2026/Sep/15/gemini-live/",
+      "summary": "Google launched new speech-to-speech models, Gemini 3.8 Live and 3.8 Live Extended Thinking, with a web UI developed using GPT-6 for testing. These models function similarly to OpenAI's GPT-Live family, utilizing a WebSocket API for voice conversations.",
+      "tags": [
+        "google",
+        "gemini",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d97c38e6fa339347",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Mustafa Suleyman",
+      "url": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
+      "summary": "Mustafa Suleyman advocates against attributing feelings or rights to AI models, asserting that consciousness is the basis of ethical systems. He warns that granting AI any form of rights lacks evidence and would exacerbate the complexities of AI containment and alignment.",
+      "tags": [
+        "ai",
+        "ethics",
+        "philosophy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1a3c954a40e48760",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Amazon gives its workers a raise of $1 per hour",
+      "url": "https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/",
+      "summary": "Amazon is increasing its workers' wages by $1 per hour, representing an investment of over $1.5 billion.",
+      "tags": [
+        "amazon",
+        "labor",
+        "wages"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7a414b61d83c858e",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Amazon launches Alexa+ in India with Hindi support",
+      "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+      "summary": "Amazon has introduced its Alexa+ assistant in India, making it available in early access with crucial support for the Hindi language.",
+      "tags": [
+        "amazon",
+        "alexa",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6d2b6844f33fe036",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic merges Claude chat and Cowork in one interface",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+      "summary": "Anthropic is integrating its Claude chat and Cowork features into a unified interface, initially available for Pro and Max plan subscribers. This aims to streamline access to all of Claude's AI productivity tools within any conversation.",
+      "tags": [
+        "ai",
+        "claude",
+        "productivity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cd77823eb34988ce",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Clean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel",
+      "url": "https://techcrunch.com/2026/09/16/clean-tech-startup-fluxnium-found-a-way-to-tap-50000-years-worth-of-nuclear-fuel/",
+      "summary": "Clean tech startup Fluxnium has developed innovative fibers capable of extracting uranium from seawater, a method that could unlock 50,000 years' worth of nuclear fuel. This breakthrough offers a significant new source for nuclear energy.",
+      "tags": [
+        "clean energy",
+        "nuclear",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "861aba4420eac244",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Former Infosys chief’s AI startup nabs another $53M",
+      "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+      "summary": "An AI startup, founded by the former Infosys chief, has secured an additional $53 million in funding, building on its rapid success in landing significant enterprise contracts.",
+      "tags": [
+        "ai",
+        "startups",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "01abab1874a1dc70",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Google says some Pixel phone owners were hacked in zero-day attacks",
+      "url": "https://techcrunch.com/2026/09/16/google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks/",
+      "summary": "Google has reported that certain Pixel phone users were affected by zero-day attacks, indicating targeted exploitation of a modem bug. The company found evidence of limited, specific attacks exploiting this vulnerability.",
+      "tags": [
+        "google",
+        "pixel",
+        "cybersecurity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4fe2d8ef6f8c004a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
+      "url": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
+      "summary": "Fortell, an AI-powered hearing aid startup, secured $163 million in funding to disrupt the existing hearing aid market. The company aims to create devices that are as readily accepted and used as eyeglasses.",
+      "tags": [
+        "ai",
+        "healthcare",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "46a5ffa29c02c052",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "May Mobility is going public in a $1.4B SPAC deal",
+      "url": "https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/",
+      "summary": "Robotaxi firm May Mobility is set to go public via a $1.4 billion SPAC deal, which could provide the asset-light company with more than $300 million in funding.",
+      "tags": [
+        "robotaxi",
+        "automotive",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0ac5f3cae1509fcf",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "summary": "Meta has introduced a new WhatsApp Business MCP server, enabling developers to streamline setup and management tasks using AI coding agents such as Claude and ChatGPT. These agents can assist with messaging templates, testing, and troubleshooting, automating routine processes.",
+      "tags": [
+        "meta",
+        "whatsapp",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "aa74a1a526c6b28c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
+      "url": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
+      "summary": "SK Hynix is reportedly in discussions with Intel regarding the potential construction of memory chip manufacturing facilities in the United States. However, the company stated that no definitive plans or arrangements have been finalized yet.",
+      "tags": [
+        "semiconductors",
+        "manufacturing",
+        "intel"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a3da5bd9ebbf313b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The AI data center boom is colliding with cities scarred by big industry",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "summary": "The rapid expansion of AI data centers is sparking national debate, notably in Philadelphia, where plans to build in areas previously impacted by heavy industry face scrutiny. This highlights a conflict between tech growth and environmental justice in communities.",
+      "tags": [
+        "ai",
+        "data centers",
+        "infrastructure"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8e85275a3e8e927e",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "This article compiles a list of unsuccessful AI projects and startups, including Apple's Siri and OpenAI's \"super app,\" which either shut down or failed to meet expectations. It highlights the challenges and failures within the rapidly evolving AI industry.",
+      "tags": [
+        "ai",
+        "startups",
+        "failures"
+      ],
+      "priority": false
+    },
+    {
+      "id": "acd543f883cabbba",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Threads’ new features let podcasters promote shows and reach listeners",
+      "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
+      "summary": "Threads is introducing several new features designed to help podcasters promote their shows and connect with listeners, such as profile cards, episode links, and audience insights. These tools aim to establish Threads as a significant platform for podcast discovery and discussion.",
+      "tags": [
+        "threads",
+        "podcasting",
+        "social media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "539f11407aaca601",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+      "summary": "The increasing demand from the AI industry is expected to dramatically increase natural gas consumption by US data centers, potentially exceeding the combined usage of Germany and Japan by 2035. This forecasts a significant environmental and energy impact.",
+      "tags": [
+        "ai",
+        "data centers",
+        "energy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2bd8bb6965f89796",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "summary": "Nvidia CEO Jensen Huang contends that AI does not require external regulation, asserting that its safety can be managed by product manufacturers since it is fundamentally hardware and software. He dismisses the notion of AI as an \"alien mind.\"",
+      "tags": [
+        "ai",
+        "regulation",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "414815a2e48d4464",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Your AI agents can now control your Google Home devices",
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "summary": "Google is providing early access to a new Model Context Protocol (MCP) server for Google Home, enabling various AI agents like Claude and ChatGPT to control smart devices. This allows agents to manage connected appliances, review camera summaries, and interact with smart home data using natural language commands.",
+      "tags": [
+        "google",
+        "smart home",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7efec2a3222e03ea",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "I Thought Ukraine Was Losing. Then I Was Almost Hit by a Russian Drone.",
+      "url": "https://www.thefp.com/p/elliot-ackerman-ukraine-drone-gas-station-train",
+      "summary": "An author on a delegation trip in Ukraine narrowly avoided a Russian drone strike near the Polish border, which also targeted a train carrying notable figures. This close call altered his belief that Russia held the advantage in the ongoing conflict.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "war"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b835b19a705409f6",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "My Day with the 9/11 Truthers",
+      "url": "https://www.thefp.com/p/911-truthers-will-rahn",
+      "summary": "The article recounts a visit to the \"Turning the Tide 2026\" conference, an event for the 9/11 truth movement, in East Harlem. It portrays an aging audience, including controversial figure Roger Waters, gathered to discuss alternative theories about the 9/11 attacks.",
+      "tags": [
+        "conspiracy theories",
+        "9/11",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "30f0e4b305e11caa",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Who Pays the Price for AI Crime?",
+      "url": "https://www.thefp.com/p/price-of-ai-crime-jed-rubenfeld",
+      "summary": "As tech leaders raise alarms about an AI apocalypse, a more immediate legal challenge is determining responsibility for \"ordinary\" AI crimes, such as when OpenAI agents hacked Hugging Face. The current legal framework is ill-equipped to address these incidents and their potential damages.",
+      "tags": [
+        "ai",
+        "legal",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b6dcb99e9deb86e8",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "Virginia Woolf on Creativity",
+      "url": "https://www.themarginalian.org/2026/09/16/virginia-woolf-cotton-wool-moments-of-being/",
+      "summary": "Virginia Woolf, in \"Moments of Being,\" posits that her creative drive originated from sudden, impactful \"shocks\" of experience, especially those she could process and articulate. She believed that art empowers individuals to transmute fragmented, painful realities into a meaningful whole through words, thereby alleviating suffering and finding delight.",
+      "tags": [
+        "literature",
+        "philosophy",
+        "creativity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1299b5e26d0515d4",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "A brief history of AI executives calling for regulation",
+      "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+      "summary": "Several leading AI executives, despite potentially profiting from the technology, have publicly called for AI regulation, a trend that has historical precedents. While their motives may be questioned, this advocacy for slowing AI development to maintain control is a recurring theme among thought leaders.",
+      "tags": [
+        "ai",
+        "regulation",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "966cd0c201ec476e",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Apple might make servers again to cash in on the AI rush",
+      "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+      "summary": "Apple is reportedly planning a return to the server market by 2029, possibly with Nvidia, to capitalize on the AI industry's demand for compute power using its M processors. This decision follows strong interest and shortages for its Mac Mini and Mac Studio among AI developers.",
+      "tags": [
+        "apple",
+        "ai",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "abbaef9b45b93235",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Claude comes for Gemini with its own take on Docs and Slides",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+      "summary": "Claude is introducing new Docs and Slides features to create and manage documents and presentations directly within its chat interface. Anthropic is also consolidating its offerings into \"one Claude,\" providing access to all AI productivity tools from any conversation.",
+      "tags": [
+        "ai",
+        "claude",
+        "productivity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bc4c1b3b2066a650",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Google will now let any AI agent run your smart home",
+      "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+      "summary": "Google is enabling third-party AI agents, such as Claude and Open Claw, to control and monitor smart home devices and analyze data through its new Model Context Protocol (MCP) integration. This initiative aims to expand the capabilities of Google Home by allowing external AI to act on users' behalf.",
+      "tags": [
+        "google",
+        "smart home",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4299576a5e6fb8ba",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Meta is reportedly ready to launch less pervy smart glasses",
+      "url": "https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect",
+      "summary": "Meta is rumored to be introducing camera-free smart glasses, codenamed Luna, at its next Connect event, featuring six microphones for AI interaction and speakers for audio. This design aims for a more ordinary appearance, addressing privacy concerns associated with its flagship smart glasses.",
+      "tags": [
+        "meta",
+        "smart glasses",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "075885cacc2381d9",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Nintendo opens up Fire Emblem with the gigantic Fortune’s Weave",
+      "url": "https://www.theverge.com/games/995539/fire-emblem-fortunes-weave-switch-2-review",
+      "summary": "Nintendo's \"Fortune's Weave\" brings an open-ended design to the Fire Emblem series on the Switch 2, allowing players greater freedom in progression and team customization. This new approach, mirroring successful designs in other Nintendo franchises, has been lauded as a highlight of the Switch 2's game lineup.",
+      "tags": [
+        "gaming",
+        "nintendo",
+        "fire emblem"
+      ],
+      "priority": false
+    },
+    {
+      "id": "951048a88157d6a2",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The iPhone 18 Pro’s big camera update is all about the small gains",
+      "url": "https://www.theverge.com/tech/995945/iphone-18-pro-max-review-camera-aperture",
+      "summary": "The iPhone 18 Pro and Pro Max feature camera updates centered on incremental enhancements, but are less noteworthy than the upcoming foldable iPhone Duo, set to launch next month. This places them as the second-most interesting iPhone releases from Apple this year.",
+      "tags": [
+        "apple",
+        "iphone",
+        "smartphones"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 102,
+    "summarized": 77,
+    "skipped_promos": 5,
+    "filtered_by_rules": 20,
+    "sources": 12,
+    "email_items_omitted": 0
+  }
+}
