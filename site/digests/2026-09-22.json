@@ -1,0 +1,1133 @@
+{
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T17:55:04+00:00",
+  "hot_topics": [
+    {
+      "topic": "Xbox Restructuring and Halo Franchise Shift",
+      "synthesis": "Xbox is undergoing a significant \"reset\" involving job cuts and studio consolidations. As part of this major shake-up, development of the flagship Halo franchise is being transferred to Activision. This move comes amidst a broader restructuring impacting thousands of employees and several game studios.",
+      "item_ids": [
+        "2bafdc0bcf56a8cf",
+        "4e00db5c8ebe098a",
+        "e8946ad6c76cbbb2",
+        "84f76068f0bc2153"
+      ]
+    },
+    {
+      "topic": "Trump Administration and Media Legal Battles",
+      "synthesis": "President Trump's administration and his media company are facing legal challenges on multiple fronts. San Francisco is suing Trump Media for allegedly selling early access to Truth Social posts as a \"corrupt business scheme.\" Separately, CNN, MS NOW, and Politico have sued Trump for banning them from White House press briefings, with legal experts asserting this ban violates the First Amendment.",
+      "item_ids": [
+        "07347239bcdf548e",
+        "04d813dd8322c768",
+        "7ebf2490f25692ec"
+      ]
+    },
+    {
+      "topic": "OpenAI's Advanced AI Capabilities and Limitations",
+      "synthesis": "OpenAI is making strides in AI research, with its AI solving over 100 open math problems and GPT-6 Astra breaking an Enigma message unsolved for decades. However, the practical human understanding derived from these AI solutions is being questioned, as mathematicians found little insight from its Navier-Stokes solution. The company has also formed a math advisory group and is positioned to follow up on new AI models.",
+      "item_ids": [
+        "28c223514d05ec85",
+        "c240b5fed47badb1",
+        "788e2068017b2919",
+        "63f205757cd0c1ec"
+      ]
+    },
+    {
+      "topic": "Anthropic's Claude Opus 5.5 Release",
+      "synthesis": "Anthropic has released its new AI model, Claude Opus 5.5, which it claims is its strongest-performing model to date. The update also features lower pricing, potentially making advanced AI more accessible.",
+      "item_ids": [
+        "b3a06f7746f0e6ad",
+        "1b28a225aa29e9cc"
+      ]
+    },
+    {
+      "topic": "Meta's Muse AI Agent Performance",
+      "synthesis": "Meta's new AI agent, Muse, is showing strong early adoption, reportedly outpacing ChatGPT's initial mobile launch in the US and Canada in terms of downloads and daily active users. Separately, an instance revealed the agent provided a 6.8GB filesystem when requested, highlighting its operational characteristics.",
+      "item_ids": [
+        "f134b4874307f39e",
+        "111bde866fb8fa87"
+      ]
+    },
+    {
+      "topic": "Convictions in Sri Lanka Easter Bombings",
+      "synthesis": "A Sri Lankan court has convicted 15 individuals for their roles in the devastating 2019 Easter Sunday bombings. These attacks, which killed 270 people, targeted multiple churches and luxury hotels and were among the deadliest in the nation's history.",
+      "item_ids": [
+        "d058616d3ee57930",
+        "d93464850352e2d0"
+      ]
+    },
+    {
+      "topic": "AI Safety and Societal Risks",
+      "synthesis": "Concerns about AI safety and its potential risks are intensifying, with platforms like TechCrunch Disrupt dedicating sessions to the topic and contrarian thinkers expressing profound fear. Discussions also touch on policies regarding AI-generated content in competitions and the broader implications for AI development and deployment.",
+      "item_ids": [
+        "6d8befce3f9e00d7",
+        "b625dc29587e0f0a"
+      ]
+    },
+    {
+      "topic": "Paramount/Warner Merger Settlement",
+      "synthesis": "California and Paramount Skydance have reached a settlement to allow the $111 billion merger with Warner Bros. Discovery to proceed. While the agreement resolves the lawsuit, it has drawn criticism from media advocates who fear its impact on market openness despite concessions from Paramount.",
+      "item_ids": [
+        "9021bacb567880fd",
+        "04d813dd8322c768"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "4f7bb328252c33bf",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Toadstools and toxins",
+      "url": "https://aeon.co/essays/a-scientists-search-for-answers-about-amanita-muscaria-gummies",
+      "summary": "A scientist discovered legal loopholes and dangerous dosages when investigating the sale of Amanita muscaria mushrooms in candy wrappers.",
+      "tags": [
+        "health",
+        "regulation",
+        "mushrooms"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9021bacb567880fd",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "California settles lawsuit against Paramount/Warner merger, angering advocates",
+      "url": "https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/",
+      "summary": "California and Paramount Skydance have reportedly reached a settlement allowing the company to complete its $111 billion merger with Warner Bros. Discovery. The settlement, which will reportedly be announced later today, drew condemnation from Democrats and media advocates.\n\"The…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "6030b61a75449784",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "IT mistake erases 11 years of viewing history for hospitals’ maternity records",
+      "url": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
+      "summary": "Nottingham University Hospitals NHS Trust lost 11 years of maternity record viewing history due to a \"human error\" during routine IT work. The data loss occurred on August 18 while creating a copy of a radiotherapy database.",
+      "tags": [
+        "it error",
+        "data loss",
+        "healthcare"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ed995514e6e6e8ea",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat",
+      "url": "https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/",
+      "summary": "A Ukrainian naval drone successfully destroyed a Russian explosive drone boat using a remote-controlled machine gun turret in the world's first clash of drone boats. The incident involved a Ukrainian Navy drone intercepting an Orcan surface drone in the Black Sea.",
+      "tags": [
+        "military",
+        "drones",
+        "ukraine war"
+      ],
+      "priority": false
+    },
+    {
+      "id": "19d2990faddf96be",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Protests for Germany’s car industry as job losses loom",
+      "url": "https://arstechnica.com/cars/2026/09/protests-for-germanys-car-industry-as-job-losses-loom/",
+      "summary": "Germany's automotive industry faces potential job losses and factory closures due to declining demand, increased foreign competition, new import tariffs, and structural challenges. Volkswagen Group is reportedly considering closing four German factories to adapt to these pressures.",
+      "tags": [
+        "automotive",
+        "economy",
+        "germany"
+      ],
+      "priority": false
+    },
+    {
+      "id": "58fde3bef04258c5",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Saudi Arabia wants a car industry, launches Ceer with two EVs",
+      "url": "https://arstechnica.com/cars/2026/09/saudi-arabia-wants-a-car-industry-launches-ceer-with-two-evs/",
+      "summary": "Saudi Arabia has launched its first domestic automaker, Ceer, a joint venture with Foxconn, to produce electric vehicles. This initiative is a key part of Saudi Arabia's Vision 2030 to diversify its economy away from oil and foster local technological innovation.",
+      "tags": [
+        "automotive",
+        "ev",
+        "saudi arabia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "face9cd96fb991c5",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
+      "url": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
+      "summary": "Toyota is training humanoid robots for factory deployment, aiming to invest $6.42 billion annually to introduce 400,000 robots across its facilities by 2028. An executive stated this robotic push is not intended to replace human workers directly.",
+      "tags": [
+        "ai",
+        "robotics",
+        "automotive"
+      ],
+      "priority": false
+    },
+    {
+      "id": "54f9249743058941",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Trump’s sneaky plan to gut Endangered Species Act draws from 1995 Scalia dissent",
+      "url": "https://arstechnica.com/tech-policy/2026/09/trumps-sneaky-plan-to-gut-endangered-species-act-draws-from-1995-scalia-dissent/",
+      "summary": "An internal memo from the US Fish and Wildlife Service directs staff to reinterpret the Endangered Species Act, limiting \"take\" prohibitions to actions \"specifically intending to target an animal.\" This change, drawing from a 1995 Scalia dissent, would effectively allow preventable deaths of vulnerable animals by private interests.",
+      "tags": [
+        "environmental policy",
+        "trump administration",
+        "wildlife"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b625dc29587e0f0a",
+      "source": "Astral Codex Ten",
+      "source_type": "substack",
+      "title": "Open Thread 452",
+      "url": "https://www.astralcodexten.com/p/open-thread-452",
+      "summary": "This is the weekly visible open thread. Post about anything you want, ask random questions, whatever. ACX has an unofficial\nsubreddit\n,\nDiscord\n, and\nbulletin board\n, and\nin-person meetups around the world\n. Most content is free, some is subscriber only; you can subscribe\nhere\n.…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c445243ddcd5068d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'I have never felt heat like that' - a survivor on watching 33 cellmates die in Nigeria",
+      "url": "https://www.bbc.co.uk/news/articles/cqm27jen9r23o?at_medium=RSS&at_campaign=rss",
+      "summary": "A survivor recounted watching 33 cellmates die in a Nigerian prison due to stifling and cramped conditions, describing the heat as unbearable.",
+      "tags": [
+        "prison conditions",
+        "nigeria",
+        "human rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ee714db5ea7bf3bc",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
+      "url": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
+      "summary": "An autopsy revealed that child star Hayden Panettiere died from a drug overdose, with fentanyl, Xanax, a muscle relaxant, and antipsychotic medication found in her system. Her death was ruled an accident.",
+      "tags": [
+        "celebrity",
+        "drug overdose",
+        "health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "84f76068f0bc2153",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Call of Duty's Activision to make next Halo game as Xbox cuts more jobs",
+      "url": "https://www.bbc.co.uk/news/articles/cvj64gz74ky4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The news comes as part of a \"reset\" announced by Xbox in July, with 3,600 planned job losses overall.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "3470b75d3d999a68",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Cyclist who dressed as man to avoid Taliban wins silver medal",
+      "url": "https://www.bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Afghan cyclist Fariba Hashimi, who dressed as a man to avoid the Taliban, won a silver medal in the women's road race at the Asian Games. She fled oppression in her home country to pursue her sporting ambitions.",
+      "tags": [
+        "sport",
+        "afghanistan",
+        "women's rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d9a7388c49fc34cb",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Developing El Niño becomes strongest on record weeks before expected peak",
+      "url": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
+      "summary": "The developing El Niño has become the strongest on record weeks before its anticipated peak, with its weather impacts already being felt globally.",
+      "tags": [
+        "climate",
+        "weather",
+        "el nino"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e3a50b68d38f22fb",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Doctor in court to face Rwanda genocide charges in UK",
+      "url": "https://www.bbc.co.uk/news/articles/c6790y1gj247o?at_medium=RSS&at_campaign=rss",
+      "summary": "A doctor is in a UK court facing charges related to the 1994 Rwanda genocide, following a seven-year British investigation into the killings.",
+      "tags": [
+        "genocide",
+        "rwanda",
+        "justice"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b092d83455dd2c3b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Eleven injured in shooting outside Turkish school",
+      "url": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Eleven people were injured in a shooting outside a Turkish school, and authorities have captured the attacker. Footage reportedly shows a male with a firearm in the area.",
+      "tags": [
+        "shooting",
+        "turkey",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dc870d123ae54c87",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Four dead after powerful Typhoon Dujuan lashes Japan",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
+      "summary": "Four people have died after powerful Typhoon Dujuan lashed Japan, bringing heavy rains and strong winds to Tokyo and surrounding areas before moving away.",
+      "tags": [
+        "typhoon",
+        "japan",
+        "natural disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "47bd2c70e6c844e8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Lindsay Clancy's lawyer asks judge to investigate juror and check his phone",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Lindsay Clancy's lawyer has requested a judge to investigate a juror, asking for a review of the juror's phone use and questionnaire answers.",
+      "tags": [
+        "legal",
+        "court",
+        "juror"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bbe4f4ddd76ee9f0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lithuania's Prime Minister stated that the nation feels \"constantly threatened\" by Moscow but is prepared to \"fight back\" if attacked, while also having evacuation plans in place.",
+      "tags": [
+        "lithuania",
+        "russia",
+        "geopolitics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "efd2c31f734f9a6b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The football matches between Israel and the Republic of Ireland are contentious, played at neutral venues with no \"away\" fans due to fraught tensions between the nations.",
+      "tags": [
+        "football",
+        "israel",
+        "ireland"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d058616d3ee57930",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
+      "summary": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "a80eefb3a2455340",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Texas ICE shooting leaves Venezuelan DoorDash driver with bullet in his back, says lawyer",
+      "url": "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo?at_medium=RSS&at_campaign=rss",
+      "summary": "A Venezuelan DoorDash driver was shot by Texas ICE officers and subsequently transferred from a hospital to a detention center, according to his lawyer. He sustained a bullet wound to his back.",
+      "tags": [
+        "ice",
+        "texas",
+        "immigration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b5db44c7df45beda",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Top South African policeman charged with sexual offences",
+      "url": "https://www.bbc.co.uk/news/articles/cwjdvgx77n0zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Top South African policeman Shadrack Sibiya has been charged with sexual offenses, including allegedly grooming a 16-year-old and raping an 18-year-old. He has not yet made a comment.",
+      "tags": [
+        "crime",
+        "police",
+        "south africa"
+      ],
+      "priority": false
+    },
+    {
+      "id": "63a184300e1e283d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Veteran BBC Africa correspondent Mark Doyle dies aged 67",
+      "url": "https://www.bbc.co.uk/news/articles/cq986214den3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Veteran BBC Africa correspondent Mark Doyle has died at age 67, known for his reporting on African conflicts in the 1990s and 2000s, particularly in Rwanda and Sierra Leone.",
+      "tags": [
+        "obituary",
+        "journalism",
+        "africa"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dccf3355a620e5e3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Timelapse shows typhoon barrelling towards Japan",
+      "url": "https://www.bbc.co.uk/news/videos/cm0j3224p6j8o?at_medium=RSS&at_campaign=rss",
+      "summary": "A timelapse video shows a typhoon barreling towards Japan, bringing major disruption and heavy rainfall to the country's eastern coast.",
+      "tags": [
+        "typhoon",
+        "japan",
+        "natural disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8f48b999b05827aa",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What is the White House pool and why is it in a row with Trump?",
+      "url": "https://www.bbc.co.uk/news/articles/c8dx5dy5rzz2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The White House press pool is embroiled in a dispute between President Donald Trump and TV networks. The article explains the pool's function and the reasons behind the current conflict.",
+      "tags": [
+        "us politics",
+        "media",
+        "trump administration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3637bcd9ef2b4773",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What to expect as world leaders descend on New York - and who won't be there",
+      "url": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss",
+      "summary": "World leaders are converging on New York for meetings, with key topics and specific attendees outlined.",
+      "tags": [
+        "politics",
+        "international relations"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9e812a8f2e14b929",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why a Bollywood celebrity manager's 2020 death case has been reopened",
+      "url": "https://www.bbc.co.uk/news/articles/cpwl1ejlgw9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The 2020 death case of Bollywood celebrity manager Disha Salian has been reopened, with her father insisting it was not suicide or an accident but a gang-rape and murder.",
+      "tags": [
+        "bollywood",
+        "india",
+        "investigation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "11cfe20983412662",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why is the Bab al-Mandab Strait so important?",
+      "url": "https://www.bbc.co.uk/news/videos/c6kgw4xklvx3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Bab al-Mandab Strait is crucial for global oil transportation and the world economy due to its narrow waterway.",
+      "tags": [
+        "geopolitics",
+        "oil",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e8388fcc95ca4f64",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "AMD's random number generator can't generate a 0?",
+      "url": "https://board.flatassembler.net/topic.php?t=24261",
+      "summary": "A discussion has arisen over concerns that AMD's random number generator may be unable to generate a true zero.",
+      "tags": [
+        "hardware",
+        "security",
+        "amd"
+      ],
+      "priority": false
+    },
+    {
+      "id": "94ac96d81f211cd3",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+      "url": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
+      "summary": "Persistent \"ads\" recently added to iOS are frustrating users and drawing significant complaints.",
+      "tags": [
+        "apple",
+        "ios",
+        "ads"
+      ],
+      "priority": false
+    },
+    {
+      "id": "78478a5684cfaee8",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Can gzip be a language model?",
+      "url": "https://nathan.rs/posts/gzip-lm/",
+      "summary": "A technical discussion explores the concept of whether the `gzip` compression algorithm could function as a language model.",
+      "tags": [
+        "computer science",
+        "language models",
+        "compression"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1b28a225aa29e9cc",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "summary": "Article URL:\nhttps://www.anthropic.com/claude-opus-5-5\nComments URL:\nhttps://news.ycombinator.com/item?id=49803892\nPoints: 327\n# Comments: 398",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "111bde866fb8fa87",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "I asked Meta’s Muse for its filesystem and it sent me 6.8GB",
+      "url": "https://mouse.dev/blog/muse-runtime-export/",
+      "summary": "Article URL:\nhttps://mouse.dev/blog/muse-runtime-export/\nComments URL:\nhttps://news.ycombinator.com/item?id=49802871\nPoints: 194\n# Comments: 105",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "81cfa2de32633d75",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "I don't want to read what you didn't write",
+      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+      "summary": "A sentiment is expressed rejecting content that was not authentically written by a human, likely in response to AI-generated text.",
+      "tags": [
+        "ai content",
+        "authorship",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "90f2fe5e1a34444d",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "I said no and Apple said yes",
+      "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
+      "summary": "An individual expresses frustration over Apple's control, encapsulated by the phrase \"I said no and Apple said yes,\" likely pertaining to features or privacy settings related to Apple Intelligence.",
+      "tags": [
+        "apple",
+        "privacy",
+        "apple intelligence"
+      ],
+      "priority": false
+    },
+    {
+      "id": "390c33782d115642",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "MiMo v2.6",
+      "url": "https://mimo.xiaomi.com/mimo-v2-6",
+      "summary": "An update to MiMo, version 2.6, has been released and is generating discussion online.",
+      "tags": [
+        "software update",
+        "tech news"
+      ],
+      "priority": false
+    },
+    {
+      "id": "788e2068017b2919",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "summary": "Article URL:\nhttps://www.cryptocellar.org/bgac/the-mvueh-break.html\nComments URL:\nhttps://news.ycombinator.com/item?id=49801324\nPoints: 353\n# Comments: 279",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c240b5fed47badb1",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "OpenAI is well positioned to fast-follow Jev",
+      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+      "summary": "Article URL:\nhttps://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/\nComments URL:\nhttps://news.ycombinator.com/item?id=49802161\nPoints: 157\n# Comments: 112",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "dc2a3d4adb8ece7d",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Spymarks, not Watermarks",
+      "url": "https://brand.io/article/spymarks/",
+      "summary": "An article introduces the concept of \"spymarks\" as distinct from traditional watermarks, implying a different method or purpose for embedded digital identifiers.",
+      "tags": [
+        "digital rights",
+        "security",
+        "branding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2ada1d9fb2fbeeb5",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Transformers Explained Visually",
+      "url": "https://poloclub.github.io/transformer-explainer/",
+      "summary": "A visual explanation of transformer architecture in machine learning is currently gaining attention.",
+      "tags": [
+        "ai",
+        "machine learning",
+        "explainer"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9c57bb0c2ef8166f",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Abortion is on the ballot again as post-Roe policies continue to evolve",
+      "url": "https://www.npr.org/2026/09/22/nx-s1-5974318/election-voting-abortion-policies-roe",
+      "summary": "Four states will feature abortion-related ballot measures in November, as post-Roe policies continue to evolve following the Supreme Court's \"Dobbs\" decision.",
+      "tags": [
+        "abortion",
+        "us politics",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "63f205757cd0c1ec",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "AI solved one of math's hardest problems. Humanity learned nothing (so far)",
+      "url": "https://www.npr.org/2026/09/22/nx-s1-5968588/openai-navier-stokes-problem-mathematicians-learn-little",
+      "summary": "OpenAI beat humans to solving the Navier-Stokes problem, but mathematicians say the AI's solution isn't telling them much.\n(Image credit: Karsten Moran/for The Washington Post)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "04d813dd8322c768",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "CNN, MS NOW and Politico sue Trump. And, Paramount settles in massive merger lawsuit",
+      "url": "https://www.npr.org/2026/09/22/g-s1-144512/up-first-newsletter-press-lawsuit-cnn-msnow-politico-unga-trump-speech-paramount-deal",
+      "summary": "CNN, MS NOW and Politico have sued Trump after the networks were suspended from the White House. And, Paramount makes concessions to resolve a lawsuit over its massive Warner Bros. Discovery merger.\n(Image credit: Alex Wroblewski)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "85d96be19389168c",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Houthis try to push deeper into western Yemen, upending life, witnesses tell NPR",
+      "url": "https://www.npr.org/2026/09/22/g-s1-144261/yemen-houthis-saudi-iran-humanitarian-crisis",
+      "summary": "Iranian-backed Houthis in Yemen have opened a new front in the conflict, seizing territory and displacing over 100,000 people. This escalates the U.S. conflict with Iran.",
+      "tags": [
+        "yemen",
+        "conflict",
+        "houthis"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4738c5f870e3b911",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Inside a 'modern slavery situation' where cyber scammers are victims themselves",
+      "url": "https://www.npr.org/2026/09/22/nx-s1-5977731/inside-a-modern-slavery-situation-where-cyber-scammers-are-victims-themselves",
+      "summary": "A cybercrime operation in Southeast Asia has trapped computer engineers into perpetrating scams that defrauded victims of billions of dollars, creating a \"modern slavery situation.\"",
+      "tags": [
+        "cybercrime",
+        "human trafficking",
+        "scam"
+      ],
+      "priority": false
+    },
+    {
+      "id": "14f82ec552e7cf5d",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "New DNA analysis adds evidence Jefferson fathered children with Sally Hemings",
+      "url": "https://www.npr.org/2026/09/22/nx-s1-5791513/thomas-jefferson-sally-hemings-dna-hair-smithsonian",
+      "summary": "New DNA analysis, including a lock of hair and 15 years of investigation, adds further evidence that Thomas Jefferson fathered children with Sally Hemings. Smithsonian scholar Richard Kurin followed the DNA trail to this conclusion.",
+      "tags": [
+        "history",
+        "dna",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d93464850352e2d0",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Sri Lanka court convicts 15 over deadly 2019 Easter bombings",
+      "url": "https://www.npr.org/2026/09/22/g-s1-144514/sri-lanka-court-convicts-15-over-deadly-2019-easter-bombings",
+      "summary": "The Islamic State group-inspired attacks were among the deadliest in Sri Lanka's history, killing 42 foreigners.\n(Image credit: Eranga Jayawardane)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "edea15e58d8ca25f",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "This 'fire amoeba' pushes the limit of what's possible for complex life",
+      "url": "https://www.npr.org/2026/09/22/nx-s1-5977044/fire-amoeba-extremophile-eukaryote-life",
+      "summary": "Scientists have discovered a new species named the \"fire amoeba\" which can reproduce at 145°F and move up to 147°F, setting a record for complex eukaryotic life.",
+      "tags": [
+        "science",
+        "biology",
+        "extremophile"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8c12f8e0633a62fd",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Republicans were bullish about the Senate. Now they’re playing defense in red states.",
+      "url": "https://www.politico.com/news/2026/09/22/republicans-senate-house-map-midterm-fears-01086866",
+      "summary": "Republicans are struggling to defend seats in traditionally red states due to voter anger over price hikes and tariffs, with internal polling showing President Trump's approval underwater. Campaigns are seeing massive advertising funds deployed to shore up vulnerable incumbents in districts Trump previously won handily.",
+      "tags": [
+        "us politics",
+        "elections",
+        "republican party"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6f87106d9668e8d0",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Cloudflare Python Workers are now generally available",
+      "url": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
+      "summary": "Cloudflare's Python Workers are now generally available, allowing Python code to run in their server-side Workers platform after a two-year preview. This is achieved by running Python compiled to WebAssembly via Pyodide in their V8-based runtime.",
+      "tags": [
+        "cloud computing",
+        "python",
+        "webassembly"
+      ],
+      "priority": false
+    },
+    {
+      "id": "56612dc0c3b8c6ba",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "llm-typesafe 0.1a0",
+      "url": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
+      "summary": "The `llm-typesafe` 0.1a0 plugin for LLM has been released, adding support for TypeSafe AI's new Jev model. This plugin allows for yes/no, choice, and scoring questions through the Jev model, requiring an API key.",
+      "tags": [
+        "ai tools",
+        "plugins",
+        "language models"
+      ],
+      "priority": false
+    },
+    {
+      "id": "65a43900ffb2c470",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "A market full of paradoxes",
+      "url": "https://www.slowboring.com/p/a-market-full-of-paradoxes",
+      "summary": "The housing market is currently characterized by paradoxes, where buyers have increased leverage but do not feel its benefits. New York City's socialist mayor has also formed an unexpected friendly relationship with city developers.",
+      "tags": [
+        "housing market",
+        "economy",
+        "nyc politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "552b6ca6a4c9a007",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Why I send my kid to low-income urban public schools",
+      "url": "https://www.slowboring.com/p/why-i-send-my-kid-to-low-income-urban",
+      "summary": "The author defends sending his son to low-income, urban public schools, countering the narrative from Nikole Hannah-Jones's recent essay about her regrets. He argues that his family's experience has been positive, providing a broader social education and demonstrating that affluent parent involvement can benefit high-need schools without private school costs.",
+      "tags": [
+        "education",
+        "parenting",
+        "urban policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b3a06f7746f0e6ad",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "503984cebfd64653",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Bill Gates’ Breakthrough Energy bets these 21 startups will shape energy’s future",
+      "url": "https://techcrunch.com/2026/09/22/bill-gates-breakthrough-energy-bets-these-21-startups-will-shape-energys-future/",
+      "summary": "To the investors at Bill Gates' Breakthrough Energy, the coming wave of electrification will make data center energy demands look quaint by comparison. Here's how they're preparing.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "862ad5f693d09e58",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Everyone can find a reason to dislike data center construction",
+      "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
+      "summary": "Data center construction is facing widespread opposition, with ongoing debates in Pennsylvania highlighting various reasons why different groups dislike such developments.",
+      "tags": [
+        "data centers",
+        "infrastructure",
+        "local politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1f41a74e41a37a87",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Meta deal will help plastics recycling startup MacroCycle build its first factory",
+      "url": "https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/",
+      "summary": "Meta is partnering with MacroCycle, a plastics recycling startup, to help fund and build its first commercial factory. This deal aims to boost plastics recycling efforts.",
+      "tags": [
+        "recycling",
+        "sustainability",
+        "meta"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f134b4874307f39e",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "4dc0f91acbb9b2ec",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Morphotonics raises €40M to expand its display tech into data centers",
+      "url": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
+      "summary": "Deep tech company Morphotonics has raised €40 million from investors, including 3M Ventures, to expand its display technology into data centers.",
+      "tags": [
+        "deep tech",
+        "funding",
+        "display technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b8ed80f2b5c664a8",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt",
+      "url": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/",
+      "summary": "Noble Carbon has developed a smart circuit breaker that aims to simplify EV charger installations for households, eliminating the need for main panel upgrades. The company will showcase this solution at TechCrunch Disrupt.",
+      "tags": [
+        "ev charging",
+        "smart home",
+        "energy tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "71038ff0204afef6",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+      "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+      "summary": "Nscale, a British AI data center developer, is preparing for an IPO that will test investor confidence in highly concentrated AI bets, given its heavy reliance on Microsoft and Anthropic for revenue.",
+      "tags": [
+        "data centers",
+        "ai",
+        "ipo"
+      ],
+      "priority": false
+    },
+    {
+      "id": "28c223514d05ec85",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "22eec5e4426cc391",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Singapore’s Nexstrom wants to bring 2D semiconductors to chip fabs",
+      "url": "https://techcrunch.com/2026/09/22/singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs/",
+      "summary": "Singapore-based Nexstrom has secured new funding to advance its equipment for manufacturing 2D semiconductor materials at scale. The company aims to bring these advanced materials to chip fabs.",
+      "tags": [
+        "semiconductors",
+        "materials science",
+        "deep tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cdb72bdd60d95cd1",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Stolen passwords are exposing America’s water providers to hackers",
+      "url": "https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/",
+      "summary": "Stolen passwords are creating a significant security vulnerability for America's water providers, exposing crucial critical infrastructure to hackers. Researchers warn of a looming threat posed by these compromised credentials.",
+      "tags": [
+        "cybersecurity",
+        "critical infrastructure",
+        "data breach"
+      ],
+      "priority": false
+    },
+    {
+      "id": "45feba993917aace",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "summary": "Ron Johnson, who built Apple's retail stores, expresses skepticism about Silicon Valley's focus on AI shopping, emphasizing that Apple's success always stemmed from its people.",
+      "tags": [
+        "retail",
+        "ai",
+        "innovation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ed3b437bdc6f37a9",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "TikTok’s US arm joins Lantern, a cross-platform child safety initiative",
+      "url": "https://techcrunch.com/2026/09/22/tiktoks-us-arm-joins-lantern-a-cross-platform-child-safety-initiative/",
+      "summary": "TikTok's US arm has joined Lantern, a cross-platform initiative focused on child safety in the tech industry. This move comes eight months after TikTok established its US-based joint venture.",
+      "tags": [
+        "tiktok",
+        "child safety",
+        "social media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c4a27e8822fa81a5",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Waymo’s latest expansion strategy: teenagers",
+      "url": "https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers/",
+      "summary": "Waymo is expanding its robotaxi service to include teenagers aged 13 to 17 in Nashville, making it the second city where minors can use the service.",
+      "tags": [
+        "robotaxis",
+        "waymo",
+        "autonomous vehicles"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6d8befce3f9e00d7",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Alex Berenson: I Didn’t Fall for Covid Fearmongering. But AI Terrifies Me.",
+      "url": "https://www.thefp.com/p/alex-berenson-artificial-intelligence-humanity-danger-risks",
+      "summary": "You may know me (if you know me) as the guy who was kicked off Twitter in 2021 for saying mRNA Covid shots didn’t stop infection. (They didn’t.)\nOr the guy who was called an ageist psychopath in 2020 for saying Covid lockdowns were wrong and schools should be open. (Conventional…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "e1ed3eb821def099",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Coleman Hughes: Lessons from Nikole Hannah-Jones’ School Experiment",
+      "url": "https://www.thefp.com/p/coleman-hughes-lessons-nikole-hannah-jones-school-experiment",
+      "summary": "Nikole Hannah-Jones has reflected on her \"school experiment\" a decade later, admitting that sending her daughter to a poor-performing public school did not uplift the school but rather negatively impacted her daughter's education. This outcome, where an absentee principal failed to engage, validated skeptics who questioned her initial rationale.",
+      "tags": [
+        "education",
+        "social policy",
+        "parenting"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c550d22bacf6a987",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Bravest Man We Ever Knew",
+      "url": "https://www.thefp.com/p/the-bravest-man-we-ever-knew",
+      "summary": "A friend named Dovie, who lived with nemaline myopathy and was reliant on a ventilator, died after suffering severe hypoxia following a ventilator disconnection. His life and passionate advocacy against New York's assisted suicide bill challenged the notion that some lives are not worth living.",
+      "tags": [
+        "disability",
+        "euthanasia",
+        "personal story"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6f9841d721f4d5bc",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Middle East After America?",
+      "url": "https://www.thefp.com/p/the-middle-east-after-america-imtiaz-tyab",
+      "summary": "A CBS News correspondent discusses the potential for Pakistan, Saudi Arabia, and Turkey to form a \"Muslim NATO\" by combining Pakistan's nuclear arsenal, Saudi Arabia's wealth, and Turkey's NATO-trained military.",
+      "tags": [
+        "geopolitics",
+        "middle east",
+        "military alliances"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6997fcce6a5f2dab",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "This Week in Canada: Mark Carney’s EU Fever Dream",
+      "url": "https://www.thefp.com/p/this-week-in-canada-mark-carneys-eu-fever-dream",
+      "summary": "Canadian businesses, like HockeyStickMan, are struggling with new 50 percent US tariffs imposed by President Trump, which affect over 500 products. While some support Canada's counter-tariffs and pursuit of EU associate membership, companies reliant on the US market find European alternatives insufficient.",
+      "tags": [
+        "trade",
+        "canada",
+        "tariffs"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7ebf2490f25692ec",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Trump’s Media Ban Is Unconstitutional",
+      "url": "https://www.thefp.com/p/jed-rubenfeld-trump-media-ban-legal-analysis",
+      "summary": "President Trump announced last week that three news organizations—CNN, MS NOW, and\nPolitico\n—would be banned from White House press briefings\nbecause they are\n“Fake News Media Outlets” publishing “one-sided,” “never good,” “purposely negative stories” about him. Over the weekend,…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c85c32823a229165",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "How to Hold the Darkness: Notes on Living Through Uncertainty",
+      "url": "https://www.themarginalian.org/2026/09/22/francis-weller-ordinary/",
+      "summary": "Trauma therapist Francis Weller's essay collection, \"In the Absence of the Ordinary,\" offers guidance on fortifying the soul during times of uncertainty and darkness. He emphasizes embracing our deep connection to the \"anima mundi\" and the world's interconnectedness to navigate radical alterations in our inner and outer landscapes.",
+      "tags": [
+        "philosophy",
+        "self-help",
+        "psychology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e8946ad6c76cbbb2",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Activision is taking over Halo as part of a massive Xbox shake-up",
+      "url": "https://www.theverge.com/news/998586/activision-halo-xbox-reorganization-layoffs",
+      "summary": "Microsoft is announcing a massive restructuring of its Xbox studios today, months after\nlaying off 1,600 Xbox employees\nand selling off studios. The latest changes will see Activision take on the\nHalo\nand\nSea of Thieves\nfranchises, as well as\nAge of Empires\n. Microsoft is also la…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "85cf1937fd5e500c",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+      "summary": "Andreessen Horowitz (a16z) is launching a \"highly selective\" academy to serve as a pipeline for young talent into Silicon Valley startups. The program, funded with $42 million and partnered with major tech companies like Google, Meta, and OpenAI, offers short classes and co-ops without granting degrees.",
+      "tags": [
+        "venture capital",
+        "tech education",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d3ea4df0ccea213e",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Apple is reportedly working on a Whoop-like fitness tracker",
+      "url": "https://www.theverge.com/gadgets/998902/apple-whoop-fitness-tracker",
+      "summary": "Apple is reportedly developing a new screenless fitness tracker, similar in design to Whoop bands, that is in early development and may not be released before 2028. The prototype features a thin fabric band with a sensor-equipped computing module and is designed for continuous wear with over 14 days of battery life.",
+      "tags": [
+        "apple",
+        "wearables",
+        "fitness tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "07347239bcdf548e",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "San Francisco sues Trump Media for selling early access to Trump posts",
+      "url": "https://www.theverge.com/tech/998914/trump-truth-social-api-lawsuit-san-francisco",
+      "summary": "San Francisco\nis suing\nthe Trump Media & Technology Group, the parent company behind Truth Social, for\nselling early access\nto President Donald Trump's posts on the social media site. The lawsuit, filed today in California state court, alleges that the Truth API feed is a \"corrup…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "2bafdc0bcf56a8cf",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Xbox is barely Xbox anymore",
+      "url": "https://www.theverge.com/games/998758/xbox-activision-blizzard",
+      "summary": "Xbox has become a shell of its former self - and things are only getting worse. As part of its\nplanned cuts impacting around 3,200 workers\n, the company announced today more changes that will further dilute the brand. Studios are being consolidated, others are on the brink of bei…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "4e00db5c8ebe098a",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Xbox is merging its Forza developers into a single studio",
+      "url": "https://www.theverge.com/news/998592/xbox-is-merging-its-forza-developers-into-a-single-studio",
+      "summary": "Microsoft is uniting its two\nForza\ndevelopers into a single studio today, as part of a\nmassive restructuring of Xbox\n. Playground Games, which develops\nForza Horizon\n, and Turn 10 Studios, creators of\nForza Motorsport\n, are merging together to focus on\nForza Horizon\nand\nFable\n.\n\"…",
+      "tags": [],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 112,
+    "summarized": 81,
+    "skipped_promos": 6,
+    "filtered_by_rules": 25,
+    "sources": 13,
+    "email_items_omitted": 0
+  }
+}
