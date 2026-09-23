@@ -1,0 +1,1364 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T18:08:46+00:00",
+  "hot_topics": [
+    {
+      "topic": "AI Model Price War and New Releases",
+      "synthesis": "OpenAI and Anthropic have simultaneously released new AI models, GPT-6 Sol/Luna and Claude Opus 5.5, which promise increased capabilities at significantly reduced prices. This development has triggered a price war in the LLM market, making advanced models more affordable and accessible for various applications. These new models are also being swiftly integrated into developer tools to leverage their enhanced performance and cost-effectiveness.",
+      "item_ids": [
+        "3bbf63663f19e093",
+        "ca681ffe27864d24",
+        "a50515c0d42ed6ef",
+        "a6e73629409ec22e",
+        "ccc99f878305b93e"
+      ]
+    },
+    {
+      "topic": "AI Regulation and Public Concerns Mount",
+      "synthesis": "Growing societal concerns about artificial intelligence are prompting calls for stricter regulation, with some proposals even suggesting bans on 'superintelligence' and prison sentences for violators. Public unease persists regarding AI, even among daily users, and lawmakers face challenges in regulating advanced AI systems due to limited access and understanding. This regulatory push comes amidst lawsuits against OpenAI, linking its ChatGPT to a fatal mass shooting, underscoring the serious implications of AI misuse.",
+      "item_ids": [
+        "cd774def7aa40ec1",
+        "09c5413dda0a06fa",
+        "3cd44265c0e467a2",
+        "3a6dcd7c63dc4acf"
+      ]
+    },
+    {
+      "topic": "YouTube Expands AI Tools for Creators",
+      "synthesis": "YouTube is significantly enhancing its suite of AI-powered creator tools, building on initiatives unveiled in 2025. These new features include conversational video editing, dynamic thumbnail generation, live dubbing, and advanced analytics to help creators optimize content and engage audiences. The platform is also introducing features like 'Shorts series' for episodic viewing and 'Ask YouTube' for personalized content algorithms and video shopping, aiming to boost creator monetization and community interaction.",
+      "item_ids": [
+        "1051afb7baf18d8b",
+        "10b638e204b4bb36",
+        "cbfce02af3e765fc",
+        "e1215e71f5af88dd",
+        "04fbd1aac0a0fed5",
+        "ec18d95742619883",
+        "df6cd68658b5e34f"
+      ]
+    },
+    {
+      "topic": "US-China Relations and AI Ambitions",
+      "synthesis": "US President Trump and Chinese President Xi Jinping are slated to meet in Washington D.C., where critical discussions on trade and artificial intelligence are anticipated. This high-profile meeting occurs as China is rapidly expanding its AI infrastructure, notably by constructing massive data centers in regions like Inner Mongolia. These extensive developments underscore China's determined strategy to achieve global leadership in AI technology.",
+      "item_ids": [
+        "ce0fb708142e6ce1",
+        "e74de3222059d92f",
+        "7f3cf78cdd7fc2db",
+        "01b6e76cc9e4fcc0"
+      ]
+    },
+    {
+      "topic": "Autonomous Vehicle Safety Under Scrutiny",
+      "synthesis": "Autonomous vehicle technologies are facing heightened scrutiny following multiple safety incidents and investigations. The NHTSA is probing comma.ai's hands-off driving systems after several crashes, including fatal ones, some potentially involving 'forked' software versions. Concurrently, Amazon-owned Zoox grounded its Atlanta test fleet and launched an investigation after workers reported symptoms of toxic gas exposure, highlighting ongoing safety and operational challenges in the self-driving sector.",
+      "item_ids": [
+        "d01a2be77f406122",
+        "e7bb503c643af127",
+        "558bc23e91821f1d"
+      ]
+    },
+    {
+      "topic": "Trump's Foreign Policy and Iran Conflict",
+      "synthesis": "President Trump's foreign policy, characterized by a mix of deals, threats, and a focus on oil, is intensely scrutinized regarding Iran and Venezuela. Iran's President has defiantly rejected Trump's threats for a peace deal, asserting the nation will not capitulate. Meanwhile, some Republican lawmakers are advocating for a swift end to the Iran war to alleviate high domestic gas prices, signaling a complex interplay between international relations and domestic economic concerns.",
+      "item_ids": [
+        "f1f4ba914437252c",
+        "790163b8f705fc32",
+        "a4c2bc5ac3299a77"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "1b21ed50baa31c88",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "How the West was fun",
+      "url": "https://aeon.co/videos/at-an-old-west-theme-park-tourists-play-in-a-past-that-never-existed",
+      "summary": "This video explores the allure of Old West theme parks, where tourists engage with a romanticized past that never fully existed, influenced by movie mythos and nostalgia.",
+      "tags": [
+        "culture",
+        "history",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c0c0f615be9190f1",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Adobe Premiere finally brings powerful video editing to Android, and it's free",
+      "url": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/",
+      "summary": "Adobe Premiere is now available for free on Android, bringing powerful video editing capabilities to the platform, a significant upgrade from the retiring Premiere Rush app. The app supports multiple video tracks, effects, 4K export, and is optimized for various form factors, including foldables.",
+      "tags": [
+        "video editing",
+        "android",
+        "adobe"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d01a2be77f406122",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "After multiple deaths and injuries, NHTSA is investigating comma.ai",
+      "url": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/",
+      "summary": "The NHTSA's Office of Defects Investigation is probing comma.ai's aftermarket driver assistance devices following five crashes involving stopped or slow-moving cars, which resulted in three deaths and eleven injuries. George Hotz, known for jailbreaking iOS, founded comma.ai to develop partially automated driver assists.",
+      "tags": [
+        "comma.ai",
+        "driver assist",
+        "nhtsa"
+      ],
+      "priority": false
+    },
+    {
+      "id": "11cad8479c452029",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "America gave up its rare earth edge. China took full advantage.",
+      "url": "https://arstechnica.com/reviews/2026/09/how-the-us-handed-china-control-of-the-rare-earth-supply-chain/",
+      "summary": "Rare earth elements are crucial for many modern devices, but their extraction and separation are difficult processes. The US lost its advantage in processing these 17 metals, allowing China to gain significant political leverage by controlling the supply chain.",
+      "tags": [
+        "rare earth",
+        "supply chain",
+        "china"
+      ],
+      "priority": false
+    },
+    {
+      "id": "adfd770e9557d95a",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Cities across US oppose Trump FCC plan to preempt local broadband rules",
+      "url": "https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/",
+      "summary": "US cities and counties are opposing a Trump administration FCC proposal to override local permitting rules for wired broadband networks. Local governments argue the plan is illegal and would compromise public safety, while the FCC claims local rules cause excessive delays and costs for providers.",
+      "tags": [
+        "broadband",
+        "fcc",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "09c5413dda0a06fa",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
+      "summary": "British Columbia is suing OpenAI, demanding payment for a new school and damages after a shooter used ChatGPT to plan a deadly mass shooting in Tumbler Ridge. The lawsuit follows earlier victim family lawsuits and highlights the significant costs and societal impact of AI-assisted violence.",
+      "tags": [
+        "openai",
+        "chatgpt",
+        "ai safety"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a87fc30f54733810",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+      "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "summary": "Microsoft led an industry effort to disrupt \"EvilTokens,\" a subscription-based scam platform using an AI chatbot to compromise 12,000 Microsoft accounts. The platform offered services for analyzing inboxes, identifying high-value targets, and drafting realistic fraud emails.",
+      "tags": [
+        "cybersecurity",
+        "microsoft",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3bbf63663f19e093",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+      "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+      "summary": "OpenAI and Anthropic have released new AI models, GPT-6 Sol and Luna, and Opus 5.5 respectively, focusing on improved performance and efficiency at lower costs. These models aim to make advanced AI more accessible for tasks like coding and complex knowledge work.",
+      "tags": [
+        "ai",
+        "openai",
+        "anthropic"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b96e6f1c0f349177",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
+      "url": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
+      "summary": "A firmware update caused some Samsung Bespoke AI smart fridges, primarily 2024 models, to stop functioning, leaving their internal displays stuck on an update message and users with spoiled food. The SmartThings app reported these devices as offline.",
+      "tags": [
+        "samsung",
+        "smart fridge",
+        "firmware update"
+      ],
+      "priority": false
+    },
+    {
+      "id": "48dc4311942c278a",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Small undersea volcanoes may unleash outsized tsunamis",
+      "url": "https://arstechnica.com/science/2026/09/small-undersea-volcanoes-may-unleash-outsized-tsunamis/",
+      "summary": "Undersea volcanic activity, particularly rapid caldera collapses like the 2022 Hunga eruption, can generate powerful tsunamis, posing different hazards than land volcanoes. Scientists are studying how the interaction of volcanic material with seawater and water pressure influences eruption destructiveness and tsunami generation.",
+      "tags": [
+        "volcanoes",
+        "tsunamis",
+        "science"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9b427952806a0022",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Woman's brain worm infection confirmed after eggs grow tails in lab test",
+      "url": "https://arstechnica.com/health/2026/09/womans-brain-worm-infection-confirmed-after-eggs-grow-tails-in-lab-test/",
+      "summary": "Doctors confirmed a Philippine rice farmer's neuroschistosomiasis after MRI scans revealed worm eggs in her brain's left frontal lobe following uncontrollable shaking of her right arm and leg. The parasitic infection, caused by Schistosoma worms, is uncommon but present in regions like the Philippines.",
+      "tags": [
+        "health",
+        "parasitic infection",
+        "brain"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43920760bb42a71b",
+      "source": "Astral Codex Ten",
+      "source_type": "substack",
+      "title": "Hidden Open Thread 452.5",
+      "url": "https://www.astralcodexten.com/p/hidden-open-thread-4525",
+      "summary": "This item is an open thread post.",
+      "tags": [
+        "community",
+        "discussion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8f98eb7ad7f58250",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Angry Anderson, rock star who soundtracked Kylie's wedding in Neighbours, dies aged 79",
+      "url": "https://www.bbc.co.uk/news/articles/cqn745px55nno?at_medium=RSS&at_campaign=rss",
+      "summary": "Angry Anderson, the 79-year-old rock star who fronted Rose Tattoo and was known for his solo hit \"Suddenly,\" has died.",
+      "tags": [
+        "music",
+        "obituary",
+        "australia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8ede3f210b45a4af",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Azerbaijan pardons Frenchman after EU lifts sanctions on Russian billionaire",
+      "url": "https://www.bbc.co.uk/news/articles/cwp84rrrymd0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Azerbaijan pardoned Frenchman Martin Ryan, who was jailed for spying, following the EU's decision to lift sanctions on a Russian billionaire, though another Frenchman remains imprisoned.",
+      "tags": [
+        "azerbaijan",
+        "france",
+        "diplomacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a5b0c74d64d4c80f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
+      "url": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Dolly Parton's manager, Bryan Seaver, who announced her death, has accused her nephew of \"threats and intimidation\" in an attempt to extort her estate.",
+      "tags": [
+        "celebrity",
+        "legal",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8d86aac56e7a6d16",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The eviction of an 87-year-old woman in Madrid unable to pay rent highlights Spain's severe housing shortage and the impact of firms buying up properties.",
+      "tags": [
+        "spain",
+        "housing",
+        "social issue"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3399a5c27e4f1bdb",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Eleven killed in mass shooting at house in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Eleven people, including a pregnant woman, were killed in a mass shooting at a house in South Africa.",
+      "tags": [
+        "south africa",
+        "crime",
+        "violence"
+      ],
+      "priority": false
+    },
+    {
+      "id": "799f07b5e4b20361",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ethiopia and Tigray are accusing each other of launching new offensives, leading to fears of a renewed war, with Tigray's airports reportedly seized after recent drone strikes.",
+      "tags": [
+        "ethiopia",
+        "tigray",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "57a190c937c5d3a0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How Ceuta, football and Israel are shaping Morocco's election",
+      "url": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
+      "summary": "Morocco's election campaign is influenced by issues such as Ceuta, football, and anti-Israel rallying calls, used to appeal to young voters with promises of jobs.",
+      "tags": [
+        "morocco",
+        "elections",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7f3cf78cdd7fc2db",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Huge data centres rise at 'China speed' to power its AI ambitions",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
+      "summary": "China is rapidly constructing massive data centers, particularly in Inner Mongolia, as part of its strategy to lead in artificial intelligence development.",
+      "tags": [
+        "china",
+        "ai",
+        "data centers"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0158dfad3bd426cf",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
+      "url": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hurricane Polo, though downgraded, remains a \"very powerful\" storm off Mexico's Pacific coast, driven by warm waters from the El Niño weather phenomenon.",
+      "tags": [
+        "hurricane",
+        "mexico",
+        "weather"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f1f4ba914437252c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Iran's president tells Trump it will never 'bend the knee'",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran's President Masoud Pezeshkian delivered a defiant speech to the UN, asserting Iran will not \"bend the knee\" after US President Trump threatened to \"annihilate\" Iran if a peace deal isn't reached soon.",
+      "tags": [
+        "iran",
+        "us",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "eefc69653f0757f5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "OpenAI gives cyber defence tools to Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine will get access to OpenAI's advanced GPT 5.6 Sol model under a deal aimed at bolstering its cyber defense capabilities.",
+      "tags": [
+        "openai",
+        "ai",
+        "ukraine"
+      ],
+      "priority": false
+    },
+    {
+      "id": "297ba1f4b2a187e6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Playing loud music on the bus? That will cost you hundreds of dollars in Singapore",
+      "url": "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no?at_medium=RSS&at_campaign=rss",
+      "summary": "Singaporean authorities are implementing substantial fines for \"disruptive behaviors\" on public transport, including playing loud music, eating, and putting feet on seats.",
+      "tags": [
+        "singapore",
+        "public transport",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "01b6e76cc9e4fcc0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Rare look at the remote engine rooms fuelling China's AI boom",
+      "url": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC offers a rare glimpse into the remote data centers being built in Inner Mongolia, which are crucial infrastructure for China's ambition to become a global leader in artificial intelligence.",
+      "tags": [
+        "china",
+        "ai",
+        "data centers"
+      ],
+      "priority": false
+    },
+    {
+      "id": "07edb5c6288cf34a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Reports of violence against women in Gaza surge, UN agency finds",
+      "url": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The UN Population Fund reports a \"severe escalation\" in early and forced marriages and a surge in violence against women in Gaza.",
+      "tags": [
+        "gaza",
+        "women's rights",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3042f484bd39167b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "South Sudan's president dissolves government ahead of country's first elections",
+      "url": "https://www.bbc.co.uk/news/articles/c8750ykkglq1o?at_medium=RSS&at_campaign=rss",
+      "summary": "South Sudan's president has dissolved the government ahead of the country's first elections since its 2011 independence, with polls having been postponed twice.",
+      "tags": [
+        "south sudan",
+        "politics",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "65dc4705039d196e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump meets US-backed Venezuelan president for first time since Maduro seized",
+      "url": "https://www.bbc.co.uk/news/articles/cj207y30wp0lo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Trump has met with the US-backed Venezuelan president, Rodriguez, for the first time since Maduro was arrested and taken to the US.",
+      "tags": [
+        "us",
+        "venezuela",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "239c6a256570130b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US to build two military bases in Greenland under new deal with Denmark",
+      "url": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
+      "summary": "The US and Denmark have signed a defense deal at the UN General Assembly for the US to build two military bases in Greenland, reaffirming Denmark's sovereignty over the Arctic territory.",
+      "tags": [
+        "us",
+        "greenland",
+        "denmark"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ff57b61fdd0365f3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: How toxic smog from wildfires is making Indonesians sick",
+      "url": "https://www.bbc.co.uk/news/videos/c962j1jgx884o?at_medium=RSS&at_campaign=rss",
+      "summary": "Around 175,000 people in Indonesia have suffered from respiratory illness since August.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "dc6a1a847f294306",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Key moments from Andy Burnham's first UN speech",
+      "url": "https://www.bbc.co.uk/news/videos/cq5y4zpn655ko?at_medium=RSS&at_campaign=rss",
+      "summary": "UK Prime Minister Andy Burnham, in his first UN speech, emphasized the dangers of Russian disinformation.",
+      "tags": [
+        "uk",
+        "un",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b9268b1a60fe71d3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Threats, deals and passionate speeches at UNGA event",
+      "url": "https://www.bbc.co.uk/news/videos/cqkgx8ynj8zko?at_medium=RSS&at_campaign=rss",
+      "summary": "The United Nations General Assembly in New York featured delegates from around the world delivering passionate speeches, making deals, and issuing threats.",
+      "tags": [
+        "un",
+        "international relations",
+        "diplomacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e74de3222059d92f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Trump and Xi are meeting on US soil - what's at stake?",
+      "url": "https://www.bbc.co.uk/news/videos/c38xk275jd21o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC provides an overview of the upcoming meeting between President Trump and President Xi in Washington D.C., outlining the key issues and stakes involved.",
+      "tags": [
+        "us",
+        "china",
+        "international relations"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ce0fb708142e6ce1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "White House rolling out red carpet for historic Xi Jinping visit",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9w410v3vzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The White House is preparing a significant reception for Chinese President Xi Jinping's multi-day visit to Washington, where he is expected to discuss various issues, including trade and AI, with President Trump.",
+      "tags": [
+        "us",
+        "china",
+        "international relations"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ccaa0b9a4062a6de",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+      "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+      "summary": "Hackers claim to have breached the FBI and acquired data belonging to all FBI employees.",
+      "tags": [
+        "cybersecurity",
+        "data breach",
+        "fbi"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4e957260638a7b17",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+      "summary": "This item discusses that Claude Code was found to read `AGENTS.md` files exclusively when telemetry was enabled, a behavior that has now been fixed.",
+      "tags": [
+        "claude",
+        "ai",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3a0a7364d61dadf4",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Fixing the Portobello Police Station Clock",
+      "url": "https://pointinthecloud.com/2026-04-11-211700.html",
+      "summary": "This item links to an article about fixing the Portobello Police Station Clock.",
+      "tags": [
+        "clock",
+        "repair",
+        "engineering"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8123d6c8324d8a5d",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "GPT-6 Astra has gained the ability to drive a car",
+      "url": "https://drivingbench.com/",
+      "summary": "This item references that GPT-6 Astra has reportedly acquired the capability to drive a car.",
+      "tags": [
+        "ai",
+        "openai",
+        "autonomous driving"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a50515c0d42ed6ef",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "summary": "This item links to an announcement from OpenAI about the release of their new GPT-6 Sol and Luna models.",
+      "tags": [
+        "openai",
+        "ai",
+        "large language models"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d5ff5cf0feb7d862",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "I don't want the details",
+      "url": "https://michaelheap.com/i-dont-want-the-details/",
+      "summary": "This item links to an article titled \"I don't want the details.\"",
+      "tags": [
+        "opinion",
+        "philosophy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "37bc0fb32245f26d",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Jev in 25 Lines of Python",
+      "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+      "summary": "This item links to an article demonstrating how to implement \"Jev\" in just 25 lines of Python code.",
+      "tags": [
+        "programming",
+        "python",
+        "software development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a66f9e6067d84464",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+      "url": "https://foxscript.org/",
+      "summary": "FoxPro, discontinued by Microsoft in 2007, has been revived with a new Rust-compiled runtime, maintaining compatibility with old add-ins while adding modern features like lambdas, JSON, and an HTTP server. This allows legacy 32-bit business applications to continue running and evolve.",
+      "tags": [
+        "programming",
+        "legacy software",
+        "rust"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b0523a87acf4d4c3",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "SAML: A fractal of bad design",
+      "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+      "summary": "This item links to an article criticizing SAML as a \"fractal of bad design.\"",
+      "tags": [
+        "cybersecurity",
+        "protocol",
+        "software design"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ce5d11e80a56e0f2",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Transit rewards",
+      "url": "https://waymo.com/blog/2026/09/transit-rewards/",
+      "summary": "This item links to a blog post by Waymo titled \"Transit rewards.\"",
+      "tags": [
+        "waymo",
+        "autonomous vehicles",
+        "public transport"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b132a367141b7e77",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "Smart glasses are already causing havoc in India",
+      "url": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
+      "summary": "Smart glasses are causing privacy issues in India, as demonstrated by a trans person who was non-consensually filmed and targeted with transphobic abuse via Meta smart glasses. Despite manufacturer safeguards, such as recording LEDs, users find ways to circumvent them, increasing risks, especially for marginalized groups and in police surveillance.",
+      "tags": [
+        "smart glasses",
+        "privacy",
+        "india"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3a6dcd7c63dc4acf",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "As Congress confronts AI, Senate lawmakers are shut off from its most advanced tools",
+      "url": "https://www.npr.org/2026/09/23/nx-s1-5978055/congress-ai-regulation",
+      "summary": "Senate offices have limited access to advanced AI tools like those at the center of regulatory discussions, despite being able to use basic chatbots like ChatGPT, posing a challenge for informed policymaking.",
+      "tags": [
+        "ai",
+        "policy",
+        "congress"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e3f1a057cc4cbef2",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Dems have an edge over GOP, poll finds. And, ICE looks into 'mobile detention centers'",
+      "url": "https://www.npr.org/2026/09/23/g-s1-144632/up-first-newsletter-npr-polls-voter-approval-cnn-msnow-politico-trump-unga-speech-ice",
+      "summary": "An NPR poll reveals Democrats have an advantage over Republicans in the upcoming midterms, partly attributed to President Trump, while ICE is exploring the use of \"mobile detention centers.\"",
+      "tags": [
+        "us politics",
+        "midterm elections",
+        "immigration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a1093e7d84eec7c5",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Greetings from Edinburgh, where a cheeky tour guide makes art history hilarious",
+      "url": "https://www.npr.org/2026/09/23/g-s1-142427/uk-coco-art-history-comedy-tour",
+      "summary": "For anyone who grew up staring blankly at museum artwork, this is the fun that was missing: Coco leads interactive and (mostly) factual art history comedy tours.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "25b662e8d1ff99c8",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Is Nepal's flood a harbinger of what's to come in the Himalayas?",
+      "url": "https://www.npr.org/2026/09/23/g-s1-144536/floods-climate-nepal-himalayas-dams-hydropower",
+      "summary": "Experts are questioning the risks associated with building dams and hydropower plants in the Himalayas following a recent flood disaster in Nepal, despite their promise for electricity generation.",
+      "tags": [
+        "nepal",
+        "floods",
+        "climate change"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dfaef8ca1f915e75",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "It's getting harder to afford rent in the U.S., even for middle-income families",
+      "url": "https://www.npr.org/2026/09/23/nx-s1-5977022/rent-affordability-middle-income",
+      "summary": "New research indicates that housing affordability challenges are expanding to include middle-income families in the U.S., with one in five renters struggling to pay rent on time last year.",
+      "tags": [
+        "housing",
+        "affordability",
+        "us"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cde01bf0371c4e3a",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Major news outlets banned by Trump will have their day in court",
+      "url": "https://www.npr.org/2026/09/23/nx-s1-5978069/cnn-msnow-politico-trump-white-house-ban",
+      "summary": "CNN, MS NOW, and Politico are suing President Trump, asserting that his ban on their access to the White House violates their Constitutional rights due to his disapproval of their coverage.",
+      "tags": [
+        "media",
+        "white house",
+        "free press"
+      ],
+      "priority": false
+    },
+    {
+      "id": "790163b8f705fc32",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "U.N. Ambassador Mike Waltz on Iran, Venezuela and Trump's foreign policy",
+      "url": "https://www.npr.org/2026/09/23/nx-s1-5977753/mike-waltz-iran-venezuela-trump-united-nations",
+      "summary": "U.N. Ambassador Mike Waltz discusses President Trump's foreign policy, which involves deals, threats, and oil, concerning Iran and Venezuela.",
+      "tags": [
+        "us foreign policy",
+        "iran",
+        "venezuela"
+      ],
+      "priority": false
+    },
+    {
+      "id": "872d26586a4547c4",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Will FDA advisers recommend a multi-cancer blood test for approval? They'll vote",
+      "url": "https://www.npr.org/2026/09/23/nx-s1-5978122/fda-blood-cancer-test-galleri",
+      "summary": "An independent panel of experts will vote on whether to recommend the Galleri blood test, which claims to detect up to 50 forms of cancer, for FDA approval.",
+      "tags": [
+        "health",
+        "cancer screening",
+        "fda"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9808ac593be6c7fc",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Can Mitch Landrieu break through in 2028?",
+      "url": "https://www.politico.com/video/2026/09/23/can-mitch-landrieu-break-through-in-2028-2178694",
+      "summary": "This item discusses the political prospects of Mitch Landrieu for the 2028 elections.",
+      "tags": [
+        "politics",
+        "us elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "310f02453d07fa1f",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Crypto weighs revenge against Democrats — and the risks that come with it",
+      "url": "https://www.politico.com/news/2026/09/23/crypto-democrats-congress-midterm-01089058",
+      "summary": "The cryptocurrency industry is at a crossroads, considering a strategy to punish Democrats who voted against the Clarity Act, but acknowledges the significant political risks of alienating potential allies. Crypto-backed PACs, like Fairshake, have substantial funds and have begun targeting Democratic Senate seats, signaling a potentially partisan shift.",
+      "tags": [
+        "crypto",
+        "politics",
+        "lobbying"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dfe83deba84e5cc3",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Mamdani and Trump face frosty reception in Queens over Sunnyside Yard plan",
+      "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/09/22/mamdani-and-trump-face-frosty-reception-in-queens-over-sunnyside-yard-plan-01088341",
+      "summary": "Mayor Zohran Mamdani and President Donald Trump are facing local backlash in Queens for sidelining community voices in discussions about developing 12,000 housing units over the Sunnyside rail yard. Critics question the project's feasibility without federal funding commitments and lament the lack of local consultation.",
+      "tags": [
+        "housing",
+        "urban planning",
+        "new york"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a4c2bc5ac3299a77",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Sen. Jon Husted: Iran war ‘needs to come to an end as quickly as possible’",
+      "url": "https://www.politico.com/news/2026/09/22/jon-husted-iran-war-quick-end-trump-01088614",
+      "summary": "Senator Jon Husted joined other Republicans in calling for a swift end to the Iran war to lower gas prices, distancing himself from President Trump's agenda. This reflects growing pressure on GOP candidates in battleground states to address high living costs, although Husted won't support the Democratic-led war powers resolution.",
+      "tags": [
+        "iran",
+        "us politics",
+        "gas prices"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8e0fbfbb530ab611",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "Biology Might Not Be Quantum, but Its Math Is Quantumlike",
+      "url": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
+      "summary": "Although biology typically operates at scales beyond the quantum realm, the mathematical frameworks used to understand complex biological systems often exhibit quantum-like properties.",
+      "tags": [
+        "biology",
+        "quantum mechanics",
+        "mathematics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ca681ffe27864d24",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+      "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+      "summary": "OpenAI and Anthropic have launched new AI models, GPT-6 Sol/Luna and Claude Opus 5.5, triggering a price war with significant reductions, making GPT-6 Luna one of OpenAI's cheapest models. Claude Opus 5.5 also received a 20% price cut and improvements to its communication style, although the \"max\" thinking level reportedly failed on a complex prompt due to excessive reasoning.",
+      "tags": [
+        "ai",
+        "openai",
+        "anthropic"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a6e73629409ec22e",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "llm 0.36",
+      "url": "https://simonwillison.net/2026/Sep/22/llm/",
+      "summary": "The `llm` tool version 0.36 introduces support for OpenAI's new GPT-6 Sol and Luna models, allows model plugins to declare if they don't support conversations, and wraps reasoning traces in Markdown output within `<details>` tags.",
+      "tags": [
+        "llm",
+        "openai",
+        "software update"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ccc99f878305b93e",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "llm-anthropic 0.29",
+      "url": "https://simonwillison.net/2026/Sep/22/llm-anthropic/",
+      "summary": "Version 0.29 of `llm-anthropic` now includes support for Claude Opus 5.5, allowing users to interact with the new model.",
+      "tags": [
+        "llm",
+        "anthropic",
+        "software update"
+      ],
+      "priority": false
+    },
+    {
+      "id": "67cf15a5479c38bb",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting @therealcornpop",
+      "url": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
+      "summary": "A quote from @therealcornpop on TikTok criticizes the use of AI for writing social media scripts, noting its lack of a unique voice, genuine opinions, and distinct AI-isms in phrasing.",
+      "tags": [
+        "ai",
+        "social media",
+        "content creation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c9bca44c00e852e9",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Tuesday discussion post",
+      "url": "https://www.slowboring.com/p/tuesday-discussion-post-f5d",
+      "summary": "This item is a general discussion post.",
+      "tags": [
+        "community",
+        "discussion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a2d1dbac470c731f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "ChatGPT mobile app gets voice-based agentic features",
+      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+      "summary": "ChatGPT's mobile app will now offer voice-based \"agentic\" features for Pro and Plus users through a new Work tab, allowing them to complete complex tasks using natural language.",
+      "tags": [
+        "chatgpt",
+        "ai",
+        "mobile app"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e7bb503c643af127",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Comma’s hands-off driving tech under investigation after 2 fatal crashes",
+      "url": "https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/",
+      "summary": "Comma.ai's hands-off driving technology is under investigation by the NHTSA following two fatal crashes, which reportedly involved \"forked\" versions of the company's software.",
+      "tags": [
+        "comma.ai",
+        "autonomous vehicles",
+        "investigation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e1af356fbd4ada7f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Eight Sleep’s new Pod 6 comes in smaller and solo sizes, starting at $1,999",
+      "url": "https://techcrunch.com/2026/09/23/eight-sleeps-new-pod-6-comes-in-smaller-and-solo-sizes-starting-at-1999/",
+      "summary": "Eight Sleep launched its new Pod 6, available in smaller and solo sizes starting at $1,999, which is reportedly 20% faster than the previous generation.",
+      "tags": [
+        "smart bed",
+        "sleep tech",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3cd44265c0e467a2",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Even Americans who use AI every day are worried about it",
+      "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+      "summary": "A report indicates that despite daily AI usage, many Americans remain concerned about the technology, suggesting increased exposure does not alleviate unease or reduce support for AI regulation.",
+      "tags": [
+        "ai",
+        "public opinion",
+        "regulation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "768e9aba345f4089",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Here’s the trailer for Nathan Fielder’s Elizabeth Holmes documentary, in theaters October 16",
+      "url": "https://techcrunch.com/2026/09/23/heres-the-trailer-for-nathan-fielders-elizabeth-holmes-documentary-in-theaters-october-16/",
+      "summary": "A trailer for Nathan Fielder's documentary about Elizabeth Holmes has been released, with the film set to premiere in theaters on October 16.",
+      "tags": [
+        "documentary",
+        "film",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "59f3fd1fcbadcf11",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "LinkedIn adds new tools to fight fake profiles and bogus work histories",
+      "url": "https://techcrunch.com/2026/09/23/linkedin-adds-new-tools-to-fight-fake-profiles-and-bogus-work-histories/",
+      "summary": "LinkedIn is rolling out new verification tools to combat fake profiles and fabricated work histories, allowing members to vouch for colleagues and giving companies more control over false employment claims.",
+      "tags": [
+        "linkedin",
+        "cybersecurity",
+        "social media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ce348b8671b22558",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "PitPro’s first tire-changing robot goes live in Canada",
+      "url": "https://techcrunch.com/2026/09/23/pitpros-first-tire-changing-robot-goes-live-in-canada/",
+      "summary": "PitPro has launched its first automated tire-changing robot in Canada, capable of changing four tires in under 15 minutes.",
+      "tags": [
+        "robotics",
+        "automotive",
+        "canada"
+      ],
+      "priority": false
+    },
+    {
+      "id": "773ce87c3c2af477",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Spotify is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
+      "url": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
+      "summary": "Spotify is launching \"Taste Profile\" for Premium users in the U.S., enabling them to understand how their tastes are perceived by the streamer and use natural language to refine their music recommendations.",
+      "tags": [
+        "spotify",
+        "music streaming",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "04fbd1aac0a0fed5",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "YouTube adds new creator tools like video A/B testing, dynamic thumbnails, and live dubbing",
+      "url": "https://techcrunch.com/2026/09/23/youtube-adds-new-creator-tools-like-video-a-b-testing-dynamic-thumbnails-and-live-dubbing/",
+      "summary": "YouTube is rolling out new generative AI-powered creator tools, including video A/B testing, dynamic thumbnails, and live dubbing, to help creators optimize their content strategies.",
+      "tags": [
+        "youtube",
+        "ai",
+        "creator tools"
+      ],
+      "priority": false
+    },
+    {
+      "id": "df6cd68658b5e34f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "YouTube doubles down on video shopping with AI-powered ‘Ask YouTube’ feature",
+      "url": "https://techcrunch.com/2026/09/23/youtube-doubles-down-on-video-shopping-with-ai-powered-ask-youtube-feature/",
+      "summary": "YouTube is enhancing its video shopping experience with an AI-powered \"Ask YouTube\" feature, which can help users compare products.",
+      "tags": [
+        "youtube",
+        "ai",
+        "e-commerce"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1051afb7baf18d8b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "YouTube is making comments more fun — and fandom more lucrative for creators",
+      "url": "https://techcrunch.com/2026/09/23/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-creators/",
+      "summary": "YouTube is enhancing its comment section with GIF replies and voice-powered TV comments, while also introducing paid members-only communities and new ways for fans to support creators, aiming to boost engagement and creator monetization.",
+      "tags": [
+        "youtube",
+        "content creation",
+        "monetization"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2f25cd03d691ad54",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "YouTube Music gets more conversational with new AI features",
+      "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+      "summary": "YouTube Music's new \"Ask Music\" feature, built directly into the app, enables users to describe desired music in everyday language for personalized recommendations.",
+      "tags": [
+        "youtube music",
+        "ai",
+        "music streaming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cbfce02af3e765fc",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "YouTube releases new AI features for creators within its Studio app",
+      "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+      "summary": "YouTube has integrated new AI features into its Studio app for creators, offering tools to generate ideas and monitor thumbnail performance.",
+      "tags": [
+        "youtube",
+        "ai",
+        "creator tools"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ec18d95742619883",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "YouTube will let you build your own algorithm with AI",
+      "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+      "summary": "YouTube's new custom feeds, powered by Gemini AI, will allow users to create personalized video feeds by describing their desired content in natural language.",
+      "tags": [
+        "youtube",
+        "ai",
+        "personalization"
+      ],
+      "priority": false
+    },
+    {
+      "id": "10b638e204b4bb36",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "YouTube’s conversational video editing tool lets creators make edits in natural language",
+      "url": "https://techcrunch.com/2026/09/23/youtubes-conversational-video-editing-tool-lets-creators-make-edits-in-natural-language/",
+      "summary": "YouTube is introducing an AI-powered conversational video editing tool that allows creators to make edits using natural language commands.",
+      "tags": [
+        "youtube",
+        "video editing",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e1215e71f5af88dd",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "YouTube’s new ‘Shorts series’ feature brings episodic viewing to Shorts",
+      "url": "https://techcrunch.com/2026/09/23/youtubes-new-short-series-feature-brings-episodic-viewing-to-shorts/",
+      "summary": "YouTube is introducing a new \"Shorts series\" feature, allowing for episodic viewing within its short-form video format, along with other announcements designed to help creators grow and engage audiences.",
+      "tags": [
+        "youtube",
+        "shorts",
+        "content creation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "558bc23e91821f1d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms",
+      "url": "https://techcrunch.com/2026/09/23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms/",
+      "summary": "Zoox, an Amazon-owned company, grounded its Atlanta test fleet and launched an investigation after a worker filed an OSHA complaint reporting symptoms of toxic gas exposure.",
+      "tags": [
+        "zoox",
+        "autonomous vehicles",
+        "workplace safety"
+      ],
+      "priority": false
+    },
+    {
+      "id": "309777ab5410fb3a",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "EXCLUSIVE: ‘The New York Times’ Sued by Shareholders Over Biased Israel Coverage",
+      "url": "https://www.thefp.com/p/exclusive-shareholders-sue-new-york-times-biased-israel-reporting",
+      "summary": "Shareholders are suing The New York Times, alleging biased Israel coverage and failure to correct errors, citing a whistleblower's claims of antisemitism and anti-Israel bias within the video desk. The lawsuit demands internal records related to the paper's reporting on the Israel-Hamas war.",
+      "tags": [
+        "media",
+        "lawsuit",
+        "israel"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4d1ef12409ff9863",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Whatever Happened to America’s Frontier Spirit?",
+      "url": "https://www.thefp.com/p/whatever-happened-americas-frontier-culture-risk-gen-z",
+      "summary": "This article explores the decline of America's frontier spirit and risk-taking culture, exemplified by the last Homestead Act patent issued in 1988. It contrasts past aspirations for land ownership with modern preferences for conventional, safer lives, even among young adults seeking adventure.",
+      "tags": [
+        "culture",
+        "america",
+        "history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1a6e676e5b94ef6d",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "Dostoyevsky, Just After His Death Sentence Was Repealed, on the Meaning of Life",
+      "url": "https://www.themarginalian.org/2026/09/22/dostoyevsky-execution-life/",
+      "summary": "Fyodor Dostoyevsky, after experiencing a mock execution and receiving a reprieve, wrote to his brother about finding the meaning of life in remaining human despite circumstances and the importance of love and suffering. He resolved to be reborn for the better, viewing life as a precious gift.",
+      "tags": [
+        "philosophy",
+        "literature",
+        "dostoevsky"
+      ],
+      "priority": false
+    },
+    {
+      "id": "03444922f8612c12",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "How to Be a Poet: Elizabeth Alexander on the Yin-Yang of Connection and Contradiction",
+      "url": "https://www.themarginalian.org/2026/09/23/elizabeth-alexander-signas-across-vast-distances/",
+      "summary": "Elizabeth Alexander, in \"Signals Across Vast Distances,\" describes being a poet as making poems and being attuned to precise words, believing in patterns and connections, and embracing paradox. She emphasizes that poets need courage, discipline, and the ability to offer their findings to the community to create transformative writing.",
+      "tags": [
+        "poetry",
+        "art",
+        "creativity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e14b4e12a3994eec",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "The Three Elements of the Good Life",
+      "url": "https://www.themarginalian.org/2026/09/23/carl-rogers-good-life/",
+      "summary": "Pioneering psychologist Carl R. Rogers identifies three pillars of \"the good life\": increasing openness to experience, living fully in each moment, and discovering oneself through continuous experience rather than fixed self-perceptions. He emphasizes authenticity and moving away from defensiveness to embrace the fluidity of being.",
+      "tags": [
+        "psychology",
+        "philosophy",
+        "self-help"
+      ],
+      "priority": false
+    },
+    {
+      "id": "177943da0df496c2",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "The Vampire Problem: The Paradoxical Psychology of Why It Is So Hard to Change",
+      "url": "https://www.themarginalian.org/2026/09/22/transformative-experience-vampire-problem/",
+      "summary": "Philosopher L.A. Paul's \"vampire problem\" illustrates the paradox of transformative experiences: humans cannot fully imagine the nature of a profound change until it has occurred. This highlights our cognitive limitations in making truly informed decisions about futures that will fundamentally alter who we are, suggesting that choosing such experiences is a choice to discover one's future self.",
+      "tags": [
+        "philosophy",
+        "psychology",
+        "self-improvement"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cd774def7aa40ec1",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
+      "summary": "Sen. Bernie Sanders and Rep. Greg Casar introduced legislation, the \"Ban Artificial Superintelligence Act,\" that would prohibit the development of AI deemed capable of \"destruction or disempowerment of humanity,\" with violators facing up to 20 years in prison. The bill also aims to pause development of advanced AI systems.",
+      "tags": [
+        "ai",
+        "policy",
+        "regulation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9cdcd312911b0da1",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Discord will now automatically estimate your age",
+      "url": "https://www.theverge.com/tech/999305/discord-updated-age-assurance-global-rollout",
+      "summary": "Discord is rolling out a new global age assurance system that automatically assigns users to estimated age groups based on account signals, with restrictions for users believed to be between 13 and 17. This follows backlash and a pause on its previous system that required video selfies or ID documentation.",
+      "tags": [
+        "discord",
+        "age verification",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9ba7f5ca693eb17d",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Logitech’s new Blue Yeti 2 mic adjusts itself to where you are",
+      "url": "https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability",
+      "summary": "Logitech G's new Blue Yeti 2 USB microphone, priced at $159.99, upgrades its predecessor with an interactive LED display, AI de-noising, and a proximity-based voice sensor. This new model offers modern features for content creators at a competitive price point.",
+      "tags": [
+        "microphone",
+        "audio",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0ebcbe8e72877983",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "McDonald’s is testing ads on its drive-thru menus",
+      "url": "https://www.theverge.com/tech/999295/mcdonalds-drive-thru-menu-ads",
+      "summary": "McDonald's is piloting a \"limited\" test of third-party advertisements on digital drive-thru menu boards at company-owned restaurants after customers place their orders. This initiative could open a new revenue stream for the company by displaying post-purchase content.",
+      "tags": [
+        "mcdonalds",
+        "advertising",
+        "drive-thru"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dc998f5d60f4dabb",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "One of the best Metroid games for the Switch is 30 percent off",
+      "url": "https://www.theverge.com/gadgets/999329/metroid-prime-remastered-nintendo-flow-usbc-apple-deal-sale",
+      "summary": "Metroid Prime Remastered for Nintendo Switch is currently 30% off, available digitally for $27.99, as part of Nintendo's \"Customer Appreciation\" sale. This remaster updates the 2002 GameCube title with modern textures, improved lighting, smooth frame rates, and a non-motion control scheme.",
+      "tags": [
+        "nintendo switch",
+        "gaming",
+        "sale"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c7eed1db0e2808f0",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Xbox’s Mythic Achievements sound like PlayStation’s Platinum trophy",
+      "url": "https://www.theverge.com/news/999404/xbox-mythic-achievement-feature",
+      "summary": "Xbox is reportedly introducing \"Mythic Achievements\" that function similarly to PlayStation's Platinum trophies, unlocking after all other achievements in a game are completed. Players will be able to track and display these on their profiles, accompanied by a unique unlock sound.",
+      "tags": [
+        "xbox",
+        "gaming",
+        "achievements"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1a09074ded2b4f6d",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "YouTube is building AI creator tools that do almost everything for them",
+      "url": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
+      "summary": "Part of the job of a content creator is to figure out how to get their work in front of the most people. Cracking - or fighting - the algorithm has historically been a frustration for creators, but YouTube is increasingly simply telling creators what they should do.\nAt the annual…",
+      "tags": [],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 117,
+    "summarized": 93,
+    "skipped_promos": 3,
+    "filtered_by_rules": 21,
+    "sources": 15,
+    "email_items_omitted": 0
+  }
+}
