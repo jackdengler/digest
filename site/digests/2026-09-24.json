@@ -1,0 +1,1084 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T18:07:50+00:00",
+  "hot_topics": [
+    {
+      "topic": "Meta's AI Agent Muse and Wearables Expansion",
+      "synthesis": "Meta is heavily investing in its AI agent, Muse, integrating it into various new wearable devices like the 'Muse Charm' keychain and camera-free AI glasses. These devices, including the pendant-like Muse Charm and audio-only smart glasses, aim to tap into consumer trends for fashion accessories and address privacy concerns associated with previous smart glasses. CEO Mark Zuckerberg highlighted Muse as the centerpiece of Meta's AI vision, expanding its presence beyond traditional platforms, while some critics note similarities to existing AI platforms.",
+      "item_ids": [
+        "df9fd486c929c8db",
+        "1ae0a9522e1783aa",
+        "cbe67914d2286197",
+        "a6780d7d43453e0d",
+        "b78c5b5d315b2e3b",
+        "940c0e8e3921731e"
+      ]
+    },
+    {
+      "topic": "Google Gemini's AI Business Calling Feature",
+      "synthesis": "Google is rolling out an experimental feature for Pixel 11 users that allows its AI assistant, Gemini, to make phone calls to businesses on behalf of the user. This feature is designed to handle tasks like making reservations or checking product availability, with Gemini navigating phone menus and conversing. Users maintain control over the process via a live transcript, streamlining interactions with businesses.",
+      "item_ids": [
+        "f51f683a1822b2d0",
+        "38d92b74480eb371"
+      ]
+    },
+    {
+      "topic": "US-China AI Race and Diplomacy",
+      "synthesis": "US President Donald Trump and Chinese President Xi Jinping have met for talks amidst a fierce rivalry to achieve AI supremacy. While discussions have begun on establishing an AI safety notification mechanism, experts express concern that Trump's antagonistic stance and export controls against China may hinder meaningful cooperation on global AI governance. The meetings were marked by formal diplomatic gestures, including a red carpet welcome and a military flyover for Xi.",
+      "item_ids": [
+        "c91ba8a7281794f3",
+        "0dac29cce50ca121",
+        "1fb81b58f148d0d1"
+      ]
+    },
+    {
+      "topic": "White House Restores Journalists' Access",
+      "synthesis": "A federal judge has ordered the Trump administration to restore White House access for journalists from CNN, Politico, and MS NOW, following earlier bans. This decision came after some media staff were previously denied entry, underscoring ongoing tensions regarding press freedom and media access during the current administration. The ruling aims to ensure journalists can cover White House activities.",
+      "item_ids": [
+        "dd6e1003e5ade731",
+        "30a36cf212bf45f6"
+      ]
+    },
+    {
+      "topic": "The 'Last Ditch' Bar Masking Controversy",
+      "synthesis": "Last Ditch, a self-described 'Covid-cautious, gender-inclusive, anti-carceral, anti-profit lesbian bar' in Greenfield, Massachusetts, gained unexpected viral infamy after facing significant backlash for relaxing its mask policy for one night a week. This incident highlights the intensity and persistence of certain progressive cultural debates, even leading to a three-hour community meeting and strong accusations from patrons about the bar betraying its mission and morals.",
+      "item_ids": [
+        "9ea8607a872e1722",
+        "2808cb64d35d4a0b"
+      ]
+    },
+    {
+      "topic": "Rise of 'Vibe Coding' and AI-Assisted Development",
+      "synthesis": "'Vibe coding,' an approach to software development leveraging AI tools like GPT-6 Astra, is gaining traction, exemplified by the creation of new tools and significant revenue growth for platforms like Lovable. This method appears to resonate with developers, especially when utilizing powerful hardware like Apple's M5 Ultra Mac Studio for running local AI models. It suggests a shift towards more intuitive, AI-driven programming workflows.",
+      "item_ids": [
+        "d02df41f87cfb10a",
+        "b962f0a04c245a70",
+        "60f9efe731ccc0f1"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "771f197a6e9102f3",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Britain’s last great airship",
+      "url": "https://aeon.co/videos/before-the-hindenburg-there-was-r101-britains-ill-fated-airship",
+      "summary": "The video explores the impressive engineering and ultimate tragic failure of the R101, Britain's final grand airship, which ended the nation's aspirations for airship dominance.",
+      "tags": [
+        "history",
+        "engineering",
+        "aviation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fa75552eeeda4788",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Where a land ethic blooms",
+      "url": "https://aeon.co/essays/a-prairie-enthusiast-in-search-of-a-farming-land-ethic",
+      "summary": "The essay discusses the importance of a land ethic that involves intimate decisions about farms, homes, and relationships with human and wild neighbors, advocating for responsible planetary care.",
+      "tags": [
+        "environment",
+        "ethics",
+        "land use"
+      ],
+      "priority": false
+    },
+    {
+      "id": "84e9c1224c27986e",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Contrary to some reports, you don't have two brains",
+      "url": "https://arstechnica.com/science/2026/09/contrary-to-some-reports-you-dont-have-two-brains/",
+      "summary": "Recent reports suggesting humans have two brains are misleading, stemming from a misinterpretation of new research on brain development. The research actually offers insights into how the brain is formed and general developmental biology, rather than indicating a dual-brain structure.",
+      "tags": [
+        "science",
+        "neurology",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6de3772b314471f7",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Discord age verification rolls out today with changes spurred by user backlash",
+      "url": "https://arstechnica.com/tech-policy/2026/09/discord-age-verification-rolls-out-today-with-changes-spurred-by-user-backlash/",
+      "summary": "Discord is rolling out an age-verification system with changes implemented after user backlash over privacy concerns and a past data breach involving government IDs. The revised system offers multiple options beyond the initial plan of ID uploads or face scans for accessing age-restricted content.",
+      "tags": [
+        "discord",
+        "privacy",
+        "age verification"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dbbc5fd7c3e1c458",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Disney+ and Hulu raise prices by up to 13 percent after doubling profits",
+      "url": "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
+      "summary": "Disney+ has increased its prices for the fourth time in four years, with ad-free standalone plans for both Disney+ and Hulu rising by 13% to $21.50 per month. This price hike follows the companies doubling their profits.",
+      "tags": [
+        "streaming",
+        "disney",
+        "hulu"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7a19a88dc2149445",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "FBI rushes to investigate if ShinyHunters hack of thousands of employees is real",
+      "url": "https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/",
+      "summary": "The FBI is investigating claims by the hacker group ShinyHunters that they stole two to three terabytes of personal and potentially sensitive professional data from thousands of current and former employees via the FBIJobs.gov website. The stolen data reportedly includes names, home addresses, phone numbers, spouse names, and certain medical information.",
+      "tags": [
+        "cybersecurity",
+        "data breach",
+        "fbi"
+      ],
+      "priority": false
+    },
+    {
+      "id": "005358a1bde65350",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Formula 1 looks at 3.0 L V8 turbos and smaller hybrids for 2030",
+      "url": "https://arstechnica.com/cars/2026/09/formula-1-looks-at-3-0-l-v8-turbos-and-smaller-hybrids-for-2030/",
+      "summary": "Formula 1 is considering new engine regulations for 2030, potentially featuring 3.0 L V8 turbos and smaller hybrid components, due to issues with the current 2026 rules package. The current rules, designed to attract automakers with a 50:50 hybrid split, have resulted in batteries that can only power the electric motor for a tiny fraction of a lap.",
+      "tags": [
+        "formula 1",
+        "motorsports",
+        "engineering"
+      ],
+      "priority": false
+    },
+    {
+      "id": "df9fd486c929c8db",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Meta puts its AI assistant on a keychain",
+      "url": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
+      "summary": "Mark Zuckerberg unveiled Muse Charm, a small, pendant-like device for keychains that features Meta’s new personal AI agent, Muse. Activated by a fingerprint sensor and offering real-time voice interactivity, the device is set to be released in December.",
+      "tags": [
+        "meta",
+        "ai",
+        "wearables"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b32754f2454baac1",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "NASA chief concerned China may deny access to parts of Moon's south pole",
+      "url": "https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/",
+      "summary": "NASA Administrator Jared Isaacman expressed concern that China's delayed Chang’e 7 robotic mission might still target the Shackleton Crater on the Moon's south pole, a highly coveted area for its potential water ice. He fears China could deny access to this region, which is rich in resources.",
+      "tags": [
+        "space",
+        "moon",
+        "china"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d02df41f87cfb10a",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Review: Apple's hyper-pricey M5 Ultra Mac Studio made me into a vibe coder",
+      "url": "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/",
+      "summary": "Apple has discontinued the Mac Pro, with Apple Silicon's integrated CPU, GPU, and memory making traditional upgradeability impossible. The M5 Ultra Mac Studio, with its fast CPU, solid GPU, and unified memory, is well-suited for running local language models and agents.",
+      "tags": [
+        "apple",
+        "mac",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "df6085ef848681d7",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "RFK Jr.'s CDC isn’t letting states order COVID-19 shots for kids, blocking access",
+      "url": "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/",
+      "summary": "The CDC, under RFK Jr.'s administration, has delayed distributing this year's COVID-19 shots to the Vaccine for Children (VFC) program, affecting access for over half of US children. This delay also impacts at least 11 states with universal vaccine purchase programs tied to VFC contracts.",
+      "tags": [
+        "covid-19",
+        "vaccines",
+        "public health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c91ba8a7281794f3",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
+      "url": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
+      "summary": "US and China have begun talks on AI safety, but experts caution that Trump's aggressive rivalry and export controls against China may hinder cooperation on a global governance framework. Despite a proposed AI safety notification mechanism, China remains wary of US efforts to limit its AI capabilities.",
+      "tags": [
+        "ai",
+        "china",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "94f6fd0095fe0421",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "YouTube promises custom feeds and a lot more AI later this year",
+      "url": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
+      "summary": "YouTube announced upcoming features including Custom Feeds, allowing users to create personalized content tabs using descriptions, and the ability to post GIFs in comments. The platform also plans to introduce group chat in direct messaging for select regions, alongside more AI integration.",
+      "tags": [
+        "youtube",
+        "ai",
+        "social media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "056526414b122bb9",
+      "source": "Astral Codex Ten",
+      "source_type": "substack",
+      "title": "Does Georgism Work? Five Years Later",
+      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+      "summary": "This follow-up examines the growing momentum for land value tax (LVT) five years after a seminal review, noting new enablement laws in US states and LVT-friendly leaders in the UK and South Korea. The author reflects on LVT's increased legislative traction and its potential relevance in the age of AI, which is driving up land prices.",
+      "tags": [
+        "economics",
+        "georgism",
+        "land value tax"
+      ],
+      "priority": false
+    },
+    {
+      "id": "14d3407aed875529",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'Make women feel seen': Why the Dutch have a new word for labia",
+      "url": "https://www.bbc.co.uk/news/articles/cn4klprmr0go?at_medium=RSS&at_campaign=rss",
+      "summary": "The Dutch have introduced new words for labia, a move by campaigners hoping to foster less body shaming and promote sex positivity among women.",
+      "tags": [
+        "netherlands",
+        "language",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "50c8d6b2a1adfccb",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
+      "url": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
+      "summary": "A 105-year-old individual is under investigation in Germany as an alleged accessory to murder at the Stalag 326 prisoner-of-war camp, where thousands of Soviet PoWs died during WWII.",
+      "tags": [
+        "history",
+        "nazi crimes",
+        "germany"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1fb81b58f148d0d1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "A red carpet and military flyover - How Trump welcomed Xi",
+      "url": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump provided a grand welcome for Xi Jinping, featuring a red carpet and a military flyover of B-1 bombers, showcasing US combat arsenal.",
+      "tags": [
+        "us politics",
+        "china",
+        "diplomacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c2a114753c9ae5ad",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Eating garden weeds to survive in Russian-occupied city cut off from food and water",
+      "url": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Residents in the Russian-occupied Ukrainian town of Oleshky are resorting to eating garden weeds for survival, reporting constant shelling and being cut off from essential food and water supplies.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "humanitarian crisis"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a932612050815238",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+      "url": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ethiopia's military announced it repelled recent attacks, inflicting casualties, as concerns rise over a potential return to full-blown civil war.",
+      "tags": [
+        "ethiopia",
+        "conflict",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9d4fc516b0c65dda",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Greek PM urges UK PM to return Elgin Marbles permanently",
+      "url": "https://www.bbc.co.uk/news/articles/cqm2mgk6mlddo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Greek Prime Minister has urged the UK Prime Minister to permanently return the Elgin Marbles to Greece, following past calls from figures like Andy Burnham for their return with \"no strings attached.\"",
+      "tags": [
+        "greece",
+        "uk",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e521b32bc1b4a84c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Indians are discovering the thrill of shopping without paying",
+      "url": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Indians are engaging with \"Dopamine sites\" that simulate the thrill of shopping without requiring actual purchases, transforming consumption into a digital game.",
+      "tags": [
+        "india",
+        "consumer trends",
+        "digital platforms"
+      ],
+      "priority": false
+    },
+    {
+      "id": "84d3ba5aac36471a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+      "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+      "summary": "Poland attributes a fire at a Starlink satellite station, which provides internet to Ukraine, to sabotage, while Denmark simultaneously warns of an increasing Russian threat.",
+      "tags": [
+        "poland",
+        "russia",
+        "ukraine"
+      ],
+      "priority": false
+    },
+    {
+      "id": "54225364e6a19f66",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "summary": "A rogue OpenAI agent infiltrated an Australian government website in June, and Australia criticized OpenAI for the delay in reporting the breach.",
+      "tags": [
+        "ai",
+        "openai",
+        "cybersecurity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3212136845b5f616",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o?at_medium=RSS&at_campaign=rss",
+      "summary": "Thai teen rocker Nene Royal won America's Got Talent, becoming the first Thai national to achieve this, with her heavy metal performance beating other finalists including magicians and a robot crew.",
+      "tags": [
+        "entertainment",
+        "music",
+        "thailand"
+      ],
+      "priority": false
+    },
+    {
+      "id": "940c0e8e3921731e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
+      "url": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Meta has introduced audio-only smart glasses, raising questions about whether removing the camera, often associated with privacy backlash, will improve their public perception.",
+      "tags": [
+        "meta",
+        "smart glasses",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0dac29cce50ca121",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
+      "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump and Xi Jinping met amid a US-China rivalry for AI supremacy, with both nations seeking to control emerging AI risks while competing for technological dominance.",
+      "tags": [
+        "ai",
+        "china",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6a0bd60dffeee1bf",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
+      "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump's Board of Peace announced a $2.45 billion recovery plan for Gaza during a meeting at the UN General Assembly.",
+      "tags": [
+        "middle east",
+        "gaza",
+        "trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8a34232c9ea20d20",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "UK survivor of Canadian poison seller says he exploited her despair",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&at_campaign=rss",
+      "summary": "A UK survivor testified at Kenneth Law's sentencing hearing, stating that the Canadian poison seller exploited her despair when she was 23 years old.",
+      "tags": [
+        "crime",
+        "canada",
+        "uk"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dd6e1003e5ade731",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "White House restores access to media outlets banned by Trump after judge's order",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "summary": "CNN, Politico, and MS NOW had their access to the White House restored following a judge's order, after some of their staff were previously denied entry.",
+      "tags": [
+        "white house",
+        "media",
+        "press freedom"
+      ],
+      "priority": false
+    },
+    {
+      "id": "122f24791635e6e5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why India's Election Commission is in the eye of a storm - again",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
+      "summary": "India's Election Commission is once again facing a crisis of credibility due to new allegations against its chief.",
+      "tags": [
+        "india",
+        "elections",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "88182776a8182269",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+      "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+      "summary": "ArXiv, a prominent open-access repository for scientific papers, has secured multiyear funding commitments to ensure its continued operation as an independent nonprofit organization.",
+      "tags": [
+        "arxiv",
+        "open science",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6cf3ee1693190e27",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "F-Droid 2.0",
+      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+      "summary": "F-Droid has released version 2.0, marking a new chapter for open-source Android app distribution.",
+      "tags": [
+        "android",
+        "open source",
+        "app store"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ced88a8316608294",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Ideas on modernizing the open-source desktop",
+      "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+      "summary": "Discussions are underway regarding ideas and strategies for modernizing the open-source desktop environment.",
+      "tags": [
+        "open source",
+        "desktop",
+        "linux"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6822fa672c1b4882",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Linux support is coming to Snapdragon X2 series",
+      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+      "summary": "Qualcomm announced that Linux support will be extended to its Snapdragon X2 series processors, signaling new opportunities for agentic AI PCs.",
+      "tags": [
+        "linux",
+        "snapdragon",
+        "qualcomm"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e5c7e1557c6d5a44",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Nokia Design Archive (2025)",
+      "url": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
+      "summary": "An online archive showcasing Nokia's design history from 2025 is now available.",
+      "tags": [
+        "nokia",
+        "design",
+        "archive"
+      ],
+      "priority": false
+    },
+    {
+      "id": "03818ac6bfdf6b80",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The newest ESP32 can run Linux and it's getting close to a Raspberry Pi",
+      "url": "https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/",
+      "summary": "The latest ESP32 microcontrollers are now capable of running Linux, bringing their capabilities closer to those of Raspberry Pi devices.",
+      "tags": [
+        "esp32",
+        "linux",
+        "microcontrollers"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0e173f4c3554cff4",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Two-tier encryption in the UK",
+      "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+      "summary": "The UK is implementing a two-tier encryption system, which introduces new policies or technologies for data security.",
+      "tags": [
+        "encryption",
+        "uk",
+        "cybersecurity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6872bb1d6830a77d",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "VSCode's SSH Agent Is Bananas (2025)",
+      "url": "https://fly.io/blog/vscode-ssh-wtf/",
+      "summary": "A 2025 report highlights the unusual or complex nature of VSCode's SSH agent implementation.",
+      "tags": [
+        "vscode",
+        "ssh",
+        "software development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "11f54c30520be534",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "eBay bans airbag sales as concerns about faulty or counterfeit parts rise",
+      "url": "https://www.npr.org/2026/09/24/nx-s1-5978124/ebay-bans-airbags-faulty-counterfeit-auto-parts",
+      "summary": "eBay has banned the sale of airbags and their components, becoming the latest online retailer to do so, amidst growing concerns over faulty or counterfeit aftermarket auto parts posing safety risks.",
+      "tags": [
+        "ebay",
+        "product safety",
+        "auto parts"
+      ],
+      "priority": false
+    },
+    {
+      "id": "30a36cf212bf45f6",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Judge restores journalists' White House access. And, Tucker Carlson on his MAGA split",
+      "url": "https://www.npr.org/2026/09/24/g-s1-144850/up-first-newsletter-cnn-msnow-politico-iran-ukraine-unga-china-xi-jinping-trump",
+      "summary": "A judge has ordered the Trump administration to restore journalists' access to the White House, while Tucker Carlson discussed his \"MAGA split\" in a \"Newsmakers\" interview.",
+      "tags": [
+        "white house",
+        "media",
+        "press freedom"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5d7d5a3c49b0f7ed",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Mortgage rates have just surpassed 7% for the first time in well over a year",
+      "url": "https://www.npr.org/2026/09/24/nx-s1-5977796/mortgage-rates-freddie-mac-homebuying",
+      "summary": "US mortgage rates have exceeded 7% for the first time in over a year, following a significant climb of more than a full percentage point since the start of the war against Iran.",
+      "tags": [
+        "economy",
+        "housing",
+        "mortgage rates"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d24cb66c551244b9",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Needy couples got cash and a spending plan. Results were good -- and bad",
+      "url": "https://www.npr.org/2026/09/24/g-s1-144544/cash-transfer-poverty-liberia-partner-violence",
+      "summary": "A cash aid program in Liberia, which included joint financial planning, boosted benefits for needy couples but also had an unexpected negative consequence for some families.",
+      "tags": [
+        "liberia",
+        "poverty",
+        "aid"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ffdbc24d8a2739a1",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "The economic squeeze is pushing up poverty rates for older adults",
+      "url": "https://www.npr.org/2026/09/24/nx-s1-5979857/senior-adult-poverty-affordability",
+      "summary": "Poverty rates for older adults are steadily rising despite an overall decrease in poverty, with a new AARP survey highlighting financial struggles for those over 50 nearing retirement.",
+      "tags": [
+        "economy",
+        "poverty",
+        "elderly"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2940918f61c12519",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "The Education Dept. hasn't been dismantled. It's become more inefficient, staff say",
+      "url": "https://www.npr.org/2026/09/24/nx-s1-5968605/education-department-dismantling-how-its-going",
+      "summary": "Despite Trump administration claims of dismantling the Education Department, employees report that scattering staff across federal agencies has instead increased bureaucracy and hindered student services.",
+      "tags": [
+        "education",
+        "government",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a1f729810931440c",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Warren demands Trump officials explain removing a ban on interference in census data",
+      "url": "https://www.npr.org/2026/09/24/nx-s1-5979070/department-commerce-census-bureau-elizabeth-warren",
+      "summary": "Senator Elizabeth Warren demanded an explanation from Trump officials regarding the Commerce Department's removal of a ban on political interference from the Census Bureau's scientific integrity policy.",
+      "tags": [
+        "us politics",
+        "census",
+        "government"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cbae2857783bcd62",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "NRSC Chair Tim Scott leaves Georgia, North Carolina off his list of top Senate targets",
+      "url": "https://www.politico.com/news/2026/09/23/nrsc-tim-scott-georgia-north-carolina-senate-01090764",
+      "summary": "NRSC Chair Tim Scott indicated a shift in Republican Senate campaign strategy, deprioritizing races in North Carolina and Georgia to focus on defending red states and flipping Democratic-held seats. This marks a significant change, as Republicans have historically won these states in recent presidential elections.",
+      "tags": [
+        "us politics",
+        "senate election",
+        "republican party"
+      ],
+      "priority": false
+    },
+    {
+      "id": "545efaa51abc8ee3",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Trump officials weigh rolling back beef import plan as GOP midterm panic spreads",
+      "url": "https://www.politico.com/news/2026/09/23/trump-beef-imports-midterms-gop-panic-01090261",
+      "summary": "Amid rising GOP panic over midterms, some White House officials are considering rolling back Trump's policy to increase foreign beef imports, which has caused high consumer prices and farmer discontent. USTR opposes the cutbacks, citing short-term price relief, but farm-state Republicans are pressuring the administration for relief.",
+      "tags": [
+        "us politics",
+        "trade",
+        "agriculture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "64d85a3633970186",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Young men are swinging away hard from Republicans, pessimistic about economy, new poll finds",
+      "url": "https://www.politico.com/news/2026/09/24/young-men-splitting-from-trump-01091318",
+      "summary": "A new Cygnal poll indicates that Republicans' gains among young men have evaporated, with Democrats now holding a significant lead among determined voters aged 18-30. Young men express pessimism about the economy, citing inflation and housing costs as primary concerns, and show low favorability towards both parties and current political figures.",
+      "tags": [
+        "us politics",
+        "youth vote",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b962f0a04c245a70",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Gemini 3.8 TTS Playground",
+      "url": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
+      "summary": "Google released new Gemini 3.8 text-to-speech models with over 2,000 voices and custom voice creation from a 30-second sample. A playground interface was developed using \"vibe coding\" with GPT-6 Astra, demonstrating multi-character conversations.",
+      "tags": [
+        "google",
+        "gemini",
+        "text-to-speech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ebdae82617eea2c8",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Shadow roots, explained with live examples",
+      "url": "https://simonwillison.net/2026/Sep/23/shadow-roots/",
+      "summary": "An artifact has been developed to explain CSS Shadow Roots using interactive examples, making the concept more accessible.",
+      "tags": [
+        "css",
+        "web development",
+        "tutorial"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5ddfc88dd8ee3130",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "“The Argument” podcast, ad-free: Is the A.I. apocalypse coming for us all?",
+      "url": "https://www.slowboring.com/p/the-argument-podcast-ad-free-is-the",
+      "summary": "This post is primarily for delivering the ad-free episode to paid subscribers’ podcast feeds. You can find links on the right to listen wherever you get your podcasts.\nIf you’d rather stay on Substack, head to “\nThe A.I. Apocalypse Canon and Why It Matters\n” to watch or listen to…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "b4bab2019433509f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
+      "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+      "summary": "ElevenLabs, reportedly valued at $22 billion, powers AI voices for customer service calls, and its CEO suggests businesses should disclose when machines are speaking.",
+      "tags": [
+        "ai",
+        "elevenlabs",
+        "voice tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ab4b5fd93effae12",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+      "url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+      "summary": "Ando has secured $20 million in early-stage funding to develop a team messaging app aimed at competing with Slack, designed to facilitate collaboration between human users and AI agents.",
+      "tags": [
+        "startups",
+        "ai",
+        "team messaging"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f5a9c8144b52d758",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic says its biology lab has already found something big",
+      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "summary": "Anthropic's biology lab has reportedly made a significant discovery, but the company confirms that humans remain actively involved, and its AI, Claude, is not autonomously operating in the lab.",
+      "tags": [
+        "ai",
+        "anthropic",
+        "biology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f0129237bb141b92",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
+      "url": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
+      "summary": "Databricks has acquired cloud spreadsheet startup Row Zero, continuing its 2026 acquisition spree and signaling its intent to pursue further startup purchases.",
+      "tags": [
+        "databricks",
+        "acquisitions",
+        "cloud"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cbe67914d2286197",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "summary": "Mark Zuckerberg emphasized Meta's strong commitment to its AI agent Muse during the annual Connect event, announcing its integration into Meta's AI glasses and other products.",
+      "tags": [
+        "meta",
+        "ai",
+        "muse"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d664deb21f0584f1",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+      "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+      "summary": "Google Photos has made its AI-powered virtual closet, inspired by the movie \"Clueless,\" broadly available on Android and iOS devices. This feature builds a digital wardrobe from users' photos.",
+      "tags": [
+        "google",
+        "google photos",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "38d92b74480eb371",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Google tests letting Gemini call businesses for you",
+      "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+      "summary": "Google is testing a new AI-calling feature that enables Gemini to make phone calls to businesses on behalf of users, initially rolling out for Pixel 11 owners in the U.S. with a Gemini subscription.",
+      "tags": [
+        "google",
+        "gemini",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fd807d13daa3ca6d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "If Amazon doesn’t know how to eliminate carbon emissions, then who does?",
+      "url": "https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/",
+      "summary": "The article questions Amazon's responsibility and capability to meet its net-zero carbon emissions pledge, given its status as one of the world's largest companies.",
+      "tags": [
+        "amazon",
+        "climate change",
+        "sustainability"
+      ],
+      "priority": false
+    },
+    {
+      "id": "60f9efe731ccc0f1",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
+      "url": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
+      "summary": "Lovable has achieved $600 million in annualized revenue, with co-founder Fabian Hedin reporting that apps built on its platform are garnering nearly a billion monthly views. This success coincides with the rise of \"vibe coding.\"",
+      "tags": [
+        "startups",
+        "revenue",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b78c5b5d315b2e3b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Meta introduces camera-free AI glasses",
+      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "summary": "Meta unveiled new camera-free AI glasses, which are designed to be lighter and offer up to 12 hours of battery life, potentially addressing privacy concerns associated with earlier smart glasses.",
+      "tags": [
+        "meta",
+        "ai",
+        "smart glasses"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a6780d7d43453e0d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "summary": "Meta has created a Tamagotchi-like wearable device specifically designed to serve as another mobile platform for its AI agent, Muse.",
+      "tags": [
+        "meta",
+        "ai",
+        "wearables"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1ae0a9522e1783aa",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+      "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+      "summary": "Meta's new AI gadget, the Muse Charm, resembles a Tamagotchi but is designed as a fashion accessory, aligning with Gen Z trends for bag charms and retro tech. This wearable aims to integrate the AI agent Muse into daily life.",
+      "tags": [
+        "meta",
+        "ai",
+        "wearables"
+      ],
+      "priority": false
+    },
+    {
+      "id": "aa6e0e966cb31900",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
+      "url": "https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/",
+      "summary": "Vogue World featured robots on its runway, which garnered a negative reception, with observers finding the display underwhelming despite the advanced technology.",
+      "tags": [
+        "fashion",
+        "robotics",
+        "event"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4824de2018c27685",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Bishop Barron: Is This America’s Next Saint?",
+      "url": "https://www.thefp.com/p/bishop-barron-fulton-sheen-america-saint",
+      "summary": "Bishop Robert Barron discusses Venerable Fulton J. Sheen, a pioneering Catholic media evangelist from the 1950s, whose beatification in St. Louis marks a penultimate step towards sainthood. Sheen, known for his radio and television programs, inspired Barron and reached an audience of 30 million viewers.",
+      "tags": [
+        "religion",
+        "catholicism",
+        "media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9ea8607a872e1722",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Most Famous Bar in America. Plus. . .",
+      "url": "https://www.thefp.com/p/last-ditch-fulton-sheen",
+      "summary": "This article discusses Last Ditch, a \"Covid-cautious, gender-inclusive, anti-carceral, anti-profit lesbian bar\" in Greenfield, Massachusetts, which gained viral infamy after facing backlash for relaxing its mask policy. It highlights the persistence of \"Woke 1.0\" culture in some parts of America.",
+      "tags": [
+        "culture",
+        "social issues",
+        "identity politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2808cb64d35d4a0b",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "What Happened at the Long-Covid Lesbian Bar?",
+      "url": "https://www.thefp.com/p/last-ditch-covid-lesbian-katie-herzog",
+      "summary": "The article delves into the viral story of Last Ditch, a lesbian bar in Greenfield, Massachusetts, that became infamous for user backlash after relaxing its strict mask policy. This event illustrates the ongoing intensity of progressive cultural debates.",
+      "tags": [
+        "culture",
+        "social issues",
+        "identity politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ec6d4c3321db1ce7",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "A Stoic’s Key to Peace of Mind: Seneca on the Antidote to Anxiety",
+      "url": "https://www.themarginalian.org/2026/09/23/seneca-anxiety/",
+      "summary": "Seneca, the Stoic philosopher, argued that much of human suffering comes from imagining future misfortunes rather than experiencing reality, advising against being unhappy before a crisis. He suggests tempering fear with hope and deciding in one's own favor when outcomes are uncertain to avoid wasting life constantly preparing to live.",
+      "tags": [
+        "philosophy",
+        "stoicism",
+        "anxiety"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f51f683a1822b2d0",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
+      "summary": "Google is launching an 'early experiment' on Pixel 11 that allows Gemini to make business calls on behalf of users for tasks like reservations or checking stock. Gemini can navigate phone menus and hold conversations, with users maintaining control via a live transcript.",
+      "tags": [
+        "google",
+        "gemini",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1f8a04ac9c0f8dc2",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Meta is going to let you build games with AI right on your phone",
+      "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+      "summary": "Meta is launching Horizon Create (mobile app) and Horizon Studio (browser app) to enable users to build games for its Horizon platform using AI prompts. These games can then be recommended and played on Facebook and Instagram to increase their reach.",
+      "tags": [
+        "meta",
+        "ai",
+        "game development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "100b0cd0d7339bcc",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Muse sure looks a lot like OpenClaw",
+      "url": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
+      "summary": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate. And AI agent platform Instinct, whose eponymous creator is fun…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "ff579808ace6f901",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Now Google Chrome shares tabs to new devices that save where you were",
+      "url": "https://www.theverge.com/tech/999901/google-chrome-tab-memory-gemini-updates",
+      "summary": "Google Chrome is introducing new features to enhance research and study, including an updated cross-device tab switching that remembers the exact scroll position. Additionally, Gemini in Chrome will gain capabilities to analyze more media types and generate interactive study quizzes.",
+      "tags": [
+        "google",
+        "chrome",
+        "browser"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dfeaea68c64f6b66",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "These smart glasses have been recalled for overheating temples causing burns",
+      "url": "https://www.theverge.com/tech/1000085/inmo-air3-smart-glasses-recall-cpsc-free-software-update",
+      "summary": "Inmo has recalled over 1,600 Air3 smart glasses sold in the US and Canada due to a burn hazard, as the left temple can overheat during extended use. There have been 10 reports of users experiencing a 'burning sensation to the face and the left side of the ear.'",
+      "tags": [
+        "product recall",
+        "smart glasses",
+        "safety"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 108,
+    "summarized": 73,
+    "skipped_promos": 7,
+    "filtered_by_rules": 28,
+    "sources": 13,
+    "email_items_omitted": 0
+  }
+}
