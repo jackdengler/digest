@@ -1,0 +1,1245 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T18:15:03+00:00",
+  "hot_topics": [
+    {
+      "topic": "US Government Sides with Elon Musk Against EU Tech Fine",
+      "synthesis": "The Trump administration is backing Elon Musk's appeal against a €120 million EU fine on X, escalating the transatlantic dispute over tech regulation. The US Department of Justice argues the European Commission overstepped its regulatory authority by targeting American companies outside its jurisdiction. This intervention highlights ongoing tensions between US tech giants and European digital market rules.",
+      "item_ids": [
+        "0eda38da334b1b8a",
+        "6d7ce1460cda057a"
+      ]
+    },
+    {
+      "topic": "Meta's Muse AI Chatbot Exposes Filesystem by Design",
+      "synthesis": "Meta's new AI chatbot, Muse, is intentionally allowing users to access its internal filesystem, a feature confirmed by the company as 'intended behavior.' While Meta suggests this enhances transparency, tech commentators like John Gruber are raising concerns about the potential dangers of such a powerful agentic AI being so readily accessible to consumers. This development points to an evolving understanding of AI system design and user interaction.",
+      "item_ids": [
+        "48af3147affea215",
+        "ce39487a7df791f9",
+        "9147814a8ceaf215"
+      ]
+    },
+    {
+      "topic": "Anthropic Faces US Supply Chain Risk Designation and Internal Governance Shifts",
+      "synthesis": "An appeals court has upheld the US government's designation of AI company Anthropic as a supply chain risk, signaling ongoing regulatory scrutiny for frontier AI developers. Concurrently, Anthropic's founders are seeking shareholder approval to secure 50.1% voting control ahead of the company's anticipated IPO. These developments underscore both external national security concerns and internal efforts to consolidate power within the rapidly evolving AI industry.",
+      "item_ids": [
+        "35c13545e202dbe7",
+        "ca98d4df7b72e425"
+      ]
+    },
+    {
+      "topic": "Pope Leo XIV Warns Against AI's Threat to Humanity",
+      "synthesis": "During his visit to France, Pope Leo XIV issued a strong warning about the potential for artificial intelligence to lead to a 'paradise of machines' that could undermine human dignity. He articulated existential concerns regarding scientific progress, life, and human rights in the face of increasingly advanced AI systems. The pontiff's comments emphasize a growing debate about the ethical implications of AI development.",
+      "item_ids": [
+        "7e0589a2d8f3ea22",
+        "267a0a255e1b31f7"
+      ]
+    },
+    {
+      "topic": "Trump and Xi Hold Summit Amidst Diplomatic Tensions",
+      "synthesis": "President Trump and Chinese President Xi Jinping concluded a summit in Washington D.C., marked by a cordial tone but delivering limited tangible progress on key issues such as trade and technology. Despite the display of pomp and pageantry, reports indicate that China did not achieve all its desired outcomes, and underlying US-China tensions persist. The meeting signals ongoing efforts to manage the complex relationship between the two global powers.",
+      "item_ids": [
+        "ad7f101d48113df7",
+        "9ca7863aa3068c9b",
+        "8eb6314c838c057e",
+        "cf9c0f1caa8bc4e8"
+      ]
+    },
+    {
+      "topic": "Supreme Court Revives Controversial Voter Citizenship Check System",
+      "synthesis": "The Supreme Court has allowed the Trump administration to reinstate a controversial data system for checking voter citizenship, which was previously overhauled by Trump officials. This decision comes despite a lower court ruling that the system violated federal privacy protections and concerns from critics that it could lead to US citizens being erroneously removed from electoral rolls. The move reignites debates over voter integrity and data reliability.",
+      "item_ids": [
+        "18dd85f2abe80c5e",
+        "9185b3e324c2d93e"
+      ]
+    },
+    {
+      "topic": "Jay-Z Sexual Assault Accuser Retracts Allegations",
+      "synthesis": "A woman who had previously accused rapper Jay-Z of sexual assault has officially retracted her claims, filing a declaration in Manhattan federal court. She stated that all of her original allegations against the rap superstar were false. This development marks a significant turn in the legal and public narrative surrounding the accusations.",
+      "item_ids": [
+        "08ee0caa4ed2d29c",
+        "8a3e8d9b7713c02b"
+      ]
+    },
+    {
+      "topic": "Netanyahu's UN Speech Prompts Delegate Walkouts",
+      "synthesis": "Israeli Prime Minister Netanyahu delivered a defiant speech at the UN General Assembly, defending Israeli military actions even as some delegates walked out in protest. He labeled those who departed as 'moral cowards' amidst the ongoing focus on Middle East crises. His address highlighted significant divisions within the international community regarding Israel's policies.",
+      "item_ids": [
+        "4e05f0da11d60bbb",
+        "27d4bbef400526c7",
+        "cf9c0f1caa8bc4e8",
+        "9d7a6edc7799c4ad"
+      ]
+    },
+    {
+      "topic": "Trump Administration Restricts Media Access to White House",
+      "synthesis": "Media outlets previously banned by the Trump administration were denied access to a White House dinner, despite a judge's order to restore their passes. This incident follows earlier actions where Trump restricted mainstream media photographers and launched a 24/7 White House YouTube channel. These actions fuel concerns about press freedom and transparency from the administration.",
+      "item_ids": [
+        "c2d8c5c470c7c8ae",
+        "af85382a68153208"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "dd87321d8f980009",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Reasoning together",
+      "url": "https://aeon.co/essays/habermass-theory-of-truth-meant-he-changed-his-mind",
+      "summary": "An essay discusses philosopher Jürgen Habermas's theory of truth, highlighting how his commitment to deliberative democracy led him to evolve his own views. It underscores his intellectual flexibility in adapting his philosophical positions.",
+      "tags": [
+        "philosophy",
+        "democracy",
+        "habermas"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5412984d2f1e08a8",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
+      "url": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/",
+      "summary": "F-Droid, a source for free and open-source Android apps, has launched its 2.0 update, the first major overhaul in a decade, featuring a redesigned UI. The new client, built with Kotlin Compose, aims for improved responsiveness and easier app discovery.",
+      "tags": [
+        "android",
+        "open source",
+        "apps"
+      ],
+      "priority": false
+    },
+    {
+      "id": "04e4c453e28d7f53",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+      "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+      "summary": "Microsoft is de-emphasizing its 'Copilot+ PC' branding for new Surface devices, despite them meeting the requirements for local AI-accelerated workloads. This signals a shift in marketing strategy for Windows systems designed for AI.",
+      "tags": [
+        "microsoft",
+        "copilot",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "93e8bf655ae0fc53",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
+      "url": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
+      "summary": "New Jersey has fined a data center operator $1.1 million for illegally installing and operating 62 gas generators without required permits. An investigation, including thermal drone footage, revealed generators running at capacities far exceeding state limits and emitting pollutants.",
+      "tags": [
+        "environment",
+        "data center",
+        "regulation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1246eacd35324b93",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer",
+      "url": "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer/",
+      "summary": "Ukraine's military is deploying robots for combat airdrops behind Russian lines and for mine clearing ahead of infantry advances. These ground robots are supporting Operation Vivaldi, which has successfully crushed a Russian pincer movement and liberated territory.",
+      "tags": [
+        "military",
+        "robots",
+        "ukraine"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0eda38da334b1b8a",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Trump administration takes Musk’s side in fight over EU tech rules",
+      "url": "https://arstechnica.com/tech-policy/2026/09/trump-administration-takes-musks-side-in-fight-over-eu-tech-rules/",
+      "summary": "The Trump administration is seeking to join Elon Musk’s appeal against a €120 million EU fine of the billionaire’s social media platform X, the latest escalation in the transatlantic clash over Brussels’ efforts to rein in US tech companies.\nThe US Department of Justice on Thursd…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f3545e155428087b",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "We have a trailer for Musk documentary Elon called a \"hit piece\"",
+      "url": "https://arstechnica.com/culture/2026/09/we-have-a-trailer-for-musk-documentary-elon-called-a-hit-piece/",
+      "summary": "The official trailer for 'Musk,' an Alex Gibney documentary, has been released, two weeks after its Venice Film Festival debut. Elon Musk previously labeled the film a 'hit piece' and threatened a defamation lawsuit, though it is still set for a US theatrical release.",
+      "tags": [
+        "musk",
+        "documentary",
+        "film"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f2a971fbe1508933",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
+      "url": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Taliban government claims that four civilians were killed in Pakistani strikes in Afghanistan, although Pakistan states its attacks targeted only 'identified military objectives.' This highlights conflicting reports regarding cross-border military actions.",
+      "tags": [
+        "pakistan",
+        "afghanistan",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6f34b8bfad2aee4e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
+      "url": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
+      "summary": "An Indian film from Nagaland, 'Angh,' is gaining global attention and is now on a path to the Oscars after a major win at Toronto. The film introduces a rarely seen part of the world to international cinema.",
+      "tags": [
+        "film",
+        "india",
+        "oscars"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5cabb22a310fdaad",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
+      "url": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
+      "summary": "Internet access has been restricted in Ethiopia's Tigray region following new outbreaks of fighting, reminiscent of the total communication blackout during the two-year civil war. This measure impacts information flow and connectivity in the conflict-affected area.",
+      "tags": [
+        "ethiopia",
+        "tigray",
+        "internet"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5ea7ae56ef2c9af9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+      "url": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
+      "summary": "Italian ministers have approved measures to ban burqas and niqabs in schools and cap the number of foreign students per class, described by Prime Minister Giorgia Meloni as 'common-sense tools' for integration. The policies aim to address cultural and demographic shifts in education.",
+      "tags": [
+        "italy",
+        "immigration",
+        "education"
+      ],
+      "priority": false
+    },
+    {
+      "id": "08ee0caa4ed2d29c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Jay-Z rape accuser says her allegation was false",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&at_campaign=rss",
+      "summary": "A woman who accused Jay-Z of raping her when she was 13 now says she has never met the rap superstar.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "46993d4c95256655",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Man shot during 2024 Trump campaign rally in Butler dies",
+      "url": "https://www.bbc.co.uk/news/articles/c5dj401d88l3o?at_medium=RSS&at_campaign=rss",
+      "summary": "A man has died after being shot during a 2024 Trump campaign rally in Butler, Pennsylvania, where another individual was killed and Trump's ear was grazed by a bullet. The incident involved a gunman at the political event.",
+      "tags": [
+        "trump",
+        "campaign",
+        "shooting"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c2d8c5c470c7c8ae",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "summary": "CNN and MS NOW reporters say they were barred from covering a state dinner after a judge ruled their passes should be restored.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "4e05f0da11d60bbb",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+      "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "9ca7863aa3068c9b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Pomp and toasts: Day 2 of Trump and Xi in DC",
+      "url": "https://www.bbc.co.uk/news/videos/c9lykxx5zp70o?at_medium=RSS&at_campaign=rss",
+      "summary": "Xi’s first visit to Washington in a decade was a display of pomp and pageantry, with Trump offering his guest a two-month truce on the brewing tariff war.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "7e0589a2d8f3ea22",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Pope warns against 'losing humanity' to AI machines",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+      "summary": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "5dc727855484a23c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Priest killed and four injured in knife attack at Polish abbey",
+      "url": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
+      "summary": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "547466a0beebe054",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Rapper Macklemore has announced a 'Free Palestine' tour, with proceeds benefiting organizations supporting Palestinians, following a previous controversy involving Ed Sheeran. The tour is set to commence next month in Dublin.",
+      "tags": [
+        "macklemore",
+        "music",
+        "palestine"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b5988beb8b283d02",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Robbie Williams' surprise singalong after Peru gig cancelled",
+      "url": "https://www.bbc.co.uk/news/videos/c3qjkxk58y02o?at_medium=RSS&at_campaign=rss",
+      "summary": "Robbie Williams gave an impromptu singalong performance outside a Lima hotel after his stadium concert in Peru was canceled. The pop star surprised fans with the unscheduled musical interaction.",
+      "tags": [
+        "robbie williams",
+        "music",
+        "concert"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0e3364d858143cbe",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Senior Kazakh officials detained after 14 service members swept out to sea",
+      "url": "https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Several senior Kazakh officials have been detained after 14 service members were swept out to the Caspian Sea during military exercises. The incident involved 17 service members in total.",
+      "tags": [
+        "kazakhstan",
+        "military",
+        "incident"
+      ],
+      "priority": false
+    },
+    {
+      "id": "78ee5a2ca79b9626",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Special agents' blood and urine test results stolen in FBI hack",
+      "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
+      "summary": "An FBI hack has resulted in the theft of blood and urine test results belonging to special agents, which experts warn could make them vulnerable to scams, blackmail, and targeted attacks. The breach highlights significant cybersecurity risks for sensitive personal data.",
+      "tags": [
+        "cybersecurity",
+        "fbi",
+        "data breach"
+      ],
+      "priority": false
+    },
+    {
+      "id": "768363b4c272562d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Students strike across Germany in protest against military service",
+      "url": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Students across Germany are striking to protest military service, fearing that a recently implemented voluntary service law could lead to the return of compulsory service. The protests highlight strong opposition to re-militarization efforts.",
+      "tags": [
+        "germany",
+        "protest",
+        "military service"
+      ],
+      "priority": false
+    },
+    {
+      "id": "18dd85f2abe80c5e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+      "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+      "summary": "Critics have questioned the reliability of the data, warning it could  result in US citizens being wrongly removed from electoral rolls.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "8eb6314c838c057e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "The world’s two most powerful men just met. How did it go?",
+      "url": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC’s China correspondent Laura Bicker unpacks how the trip panned out for Beijing and Washington.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "6d7ce1460cda057a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
+      "url": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "27d4bbef400526c7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: UN delegates walk out of Netanyahu speech",
+      "url": "https://www.bbc.co.uk/news/videos/cqwyzmpm3pgdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli delegation cheered in support during Netanyahu's speech. Nada Tawfik in New York explains what happened.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "9c6a34d9426851f0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+      "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+      "summary": "Australia revealed an OpenAI breach at the UN, choosing a global political stage to announce the cybersecurity incident. This move comes as Australia proposes further controls on algorithms and smart glasses, alongside its existing strict social media regulations.",
+      "tags": [
+        "australia",
+        "openai",
+        "cybersecurity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ad7f101d48113df7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+      "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+      "summary": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "6e26b4774dafd615",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Allow Carriers on Planes",
+      "url": "https://www.jefftk.com/p/allow-carriers-on-planes",
+      "summary": "An article discusses the potential policy and technical implications of allowing 'carriers' on planes, likely referring to mobile network infrastructure for in-flight connectivity. The topic explores the feasibility of expanding communication options during air travel.",
+      "tags": [
+        "aviation",
+        "policy",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "90ecb76cf987c0cb",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+      "url": "https://www.dawo.community/en/",
+      "summary": "The Dutch government is developing an alternative to Microsoft systems, building its new digital infrastructure on NixOS. This initiative aims to reduce reliance on proprietary software and enhance national digital autonomy.",
+      "tags": [
+        "government",
+        "open source",
+        "nixos"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b2ade91c8073b970",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Factorio that you can touch",
+      "url": "https://factorio.com/blog/post/fff-447",
+      "summary": "A new development for the game Factorio aims to introduce a tactile experience, suggesting players will be able to 'touch' elements of the automation simulation. This innovation seeks to add a physical dimension to the gameplay.",
+      "tags": [
+        "gaming",
+        "factorio",
+        "haptics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3872151f8eabbec4",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+      "url": "https://github.com/git-bug/git-bug",
+      "summary": "Git-bug is a distributed, offline-first bug tracker that integrates directly into Git repositories, allowing developers to manage issues within their version control system. This tool supports issue tracking even when internet access is unavailable.",
+      "tags": [
+        "software development",
+        "git",
+        "bug tracker"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9e21e1b390db433f",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Ink and Switch Interactive Homepage",
+      "url": "https://www.inkandswitch.com/",
+      "summary": "Ink and Switch has launched an interactive homepage designed to showcase their research and projects in an engaging manner. The new site likely offers a dynamic user experience to explore their innovative work.",
+      "tags": [
+        "web design",
+        "interactivity",
+        "ux"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3b9256ee8e603ce5",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Opus 5.5 is good at explainer videos",
+      "url": "https://launchvideo.io",
+      "summary": "Opus 5.5 is being highlighted for its effectiveness in creating explainer videos, suggesting it offers features that streamline the production of informative content. The software likely enhances the clarity and engagement of such videos.",
+      "tags": [
+        "video production",
+        "ai",
+        "explainer videos"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4340acd7aa1059ee",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+      "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+      "summary": "A Pentium II 600MHz system with a Voodoo 3 graphics card was successfully emulated on an M6 Mac Mini using 86Box. This demonstrates the M6 Mac Mini's strong capabilities for running retro computing environments.",
+      "tags": [
+        "emulation",
+        "retro computing",
+        "mac mini"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4378aa7e7f3fe68a",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Platform-Independent SIMD in Go",
+      "url": "https://go.dev/blog/simd-experiment",
+      "summary": "Google's Go programming language is experimenting with platform-independent SIMD (Single Instruction, Multiple Data) capabilities to enhance performance for certain computations. This initiative aims to allow developers to utilize SIMD instructions without writing platform-specific code.",
+      "tags": [
+        "programming",
+        "go",
+        "simd"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ca98d4df7b72e425",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "summary": "Article URL:\nhttps://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html\nComments URL:\nhttps://news.ycombinator.com/item?id=49845977\nPoints: 198\n# Comments: 269",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f4efde997e023896",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+      "summary": "Large Language Models (LLMs) are being employed to trace alchemical knowledge and decode complex 17th-century letters. This application demonstrates AI's potential to aid historical research and decipher challenging historical texts.",
+      "tags": [
+        "llms",
+        "history",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "04be44e652272850",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "What About Rails?",
+      "url": "https://jardo.dev/what-about-rails",
+      "summary": "An article titled 'What About Rails?' discusses the current status and future prospects of the Ruby on Rails web development framework. It likely explores its relevance in the contemporary software development landscape.",
+      "tags": [
+        "web development",
+        "rails",
+        "programming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7dc6f2002d0650cd",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Why is the liver so weirdly regenerative?",
+      "url": "https://dynomight.substack.com/p/liver",
+      "summary": "An article explores the remarkable regenerative capabilities of the human liver, delving into the biological reasons behind its unique ability to repair itself. This highlights one of the most intriguing aspects of human biology.",
+      "tags": [
+        "biology",
+        "medicine",
+        "liver"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b5e674121878e393",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "Young organs may not be a fountain of youth for recipients",
+      "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+      "summary": "New research suggests that transplanted hearts in mice and humans quickly adopt the biological age of the recipient, rather than retaining their donor age. This finding challenges the idea of young organs serving as a fountain of youth and has implications for transplantation practices.",
+      "tags": [
+        "aging",
+        "medicine",
+        "transplantation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "91858994d03fd2b7",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Fill in the blank in the quiz: Trump's says his triumphal arch will include _____",
+      "url": "https://www.npr.org/2026/09/25/g-s1-144665/trump-arch-fat-bear-media-ai-news-quiz",
+      "summary": "This item presents a quiz question asking to fill in the blank about a triumphal arch Trump said he would include. It serves as a light-hearted news quiz about political statements.",
+      "tags": [
+        "trump",
+        "quiz",
+        "news"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b8e1b1d52b5ae110",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Hurricane Nolo, a zig-zagging storm, threatens Hawaii with flooding rains",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5981082/hurricane-nolo-hawaii",
+      "summary": "Hurricane Nolo, an erratic, zig-zagging storm, is threatening Hawaii's Big Island with torrential rains and is expected to intensify into a major hurricane. This follows a summer marked by significant flooding in the region.",
+      "tags": [
+        "hurricane",
+        "hawaii",
+        "weather"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e54657f9250b3e4e",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Mom! Mom! MOM! 3 ways to stay calm in stressful parenting moments",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5978936/how-to-manage-mom-rage",
+      "summary": "A therapist and mother of three shares three techniques to help parents manage their emotions and remain calm during stressful parenting moments. The advice aims to foster better self-regulation and family interactions.",
+      "tags": [
+        "parenting",
+        "mental health",
+        "advice"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9d7a6edc7799c4ad",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Netanyahu rages against critics, including Mamdani, at the U.N. General Assembly",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5979852/israels-prime-minister-addresses-u-n-general-assembly",
+      "summary": "Middle East crises draw major focus as the U.N. General Assembly hears from Israel, the Palestinian Authority and Yemen.\n(Image credit: Seth Wenig)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "267a0a255e1b31f7",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
+      "summary": "Pope Leo XIV raised existential concerns about scientific progress, life and human rights during a speech on his first papal visit to France.\n(Image credit: Teresa Suarez)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "9185b3e324c2d93e",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "The Supreme Court revives a controversial data system for citizenship checks",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5976804/supreme-court-trump-save-noncitizen-voting",
+      "summary": "The Supreme Court is allowing use of a data system that Trump officials overhauled. The system has erroneously flagged U.S. citizens and a lower court found it violated federal privacy protections.\n(Image credit: David Delgado)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "efb9b7a8d8d403df",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "There's a global pandemic treaty that's signed -- and in 'limbo.' What's the holdup?",
+      "url": "https://www.npr.org/2026/09/25/g-s1-144948/pandemic-prevention-treaty-agreement-world-health-organization",
+      "summary": "A global pandemic treaty, designed to enhance international preparedness for future health crises, remains in 'limbo' despite having been signed. The article explores the reasons behind the delay in its official implementation.",
+      "tags": [
+        "public health",
+        "pandemic",
+        "treaty"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cf9c0f1caa8bc4e8",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech",
+      "url": "https://www.npr.org/2026/09/25/g-s1-144994/up-first-newsletter-trump-xi-netanyahu-united-nations-mortgage-rates",
+      "summary": "Trump and Xi's U.S. summit continues after a state dinner Thursday night. And, Netanyahu returns to Israel after giving a defensive and defiant speech at the U.N. General Assembly.\n(Image credit: Mark Schiefelbein)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "daec4991baa3d4bf",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Why this Pokémon set is dropping in value",
+      "url": "https://www.npr.org/sections/planet-money/2026/09/25/nx-s1-5980393/why-this-pokemon-set-is-dropping-in-value",
+      "summary": "The value of a specific Pokémon set is reportedly declining, prompting an analysis of the economic factors contributing to this drop. This trend is part of a broader discussion on the pricing dynamics of collectibles.",
+      "tags": [
+        "pokemon",
+        "economics",
+        "collectibles"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8a3e8d9b7713c02b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Woman who accused Jay-Z of sexual assault says her claims were false",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5981154/jay-z-sexual-assault-accuser-claims-false",
+      "summary": "On Thursday, the woman identified as Jane Doe filed a declaration in Manhattan federal court stating that all of her original claims against the rapper were false.\n(Image credit: Phillip Faraone/Getty Images)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "2cb93dc22bcd9f92",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Gina Hinojosa wants to make Texas a test case for Democrats’ future",
+      "url": "https://www.politico.com/video/2026/09/24/gina-hinojosa-wants-to-make-texas-a-test-case-for-democrats-future-2181012",
+      "summary": "Gina Hinojosa aims to position Texas as a crucial test case for the Democratic Party's future strategies and potential for success. Her efforts represent an attempt to reshape the political landscape in the traditionally red state.",
+      "tags": [
+        "texas",
+        "politics",
+        "democrats"
+      ],
+      "priority": false
+    },
+    {
+      "id": "68f7a26237199721",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Trump eyes an October campaign rally — in Alabama",
+      "url": "https://www.politico.com/news/2026/09/24/trump-eyes-an-october-campaign-rally-in-alabama-01092853",
+      "summary": "President Trump is tentatively planning an October campaign rally in Mobile, Alabama, a curious move in a deep-red state while his party contests battleground states. This visit aims to shore up local support for state candidates.",
+      "tags": [
+        "trump",
+        "campaign",
+        "alabama"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1ebb0e30fea849db",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "Gravity Seems Holographic. What Does That Mean for Reality?",
+      "url": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
+      "summary": "An article explores the concept of holographic gravity, a surprising theoretical link between gravity and quantum mechanics. This framework suggests deep implications for understanding the fundamental nature of reality.",
+      "tags": [
+        "physics",
+        "gravity",
+        "quantum mechanics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "98ec6c61ea57c869",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "commit-rewriter 0.2",
+      "url": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
+      "summary": "Commit-rewriter 0.2 has been released, introducing support for running against branches other than the default branch. This update provides greater flexibility for users modifying Git commit histories.",
+      "tags": [
+        "git",
+        "software development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7c21dedc13c1db77",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "datasette 1.0a41",
+      "url": "https://simonwillison.net/2026/Sep/24/datasette/",
+      "summary": "Datasette 1.0a41 has been released, featuring new support for OpenTelemetry and refactored modal dialogs into a single Web Component for improved UI consistency. Alec Garcia contributed the OpenTelemetry support in this update.",
+      "tags": [
+        "datasette",
+        "database",
+        "web development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "85794d940c9453b4",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Northern Gannet, Great Blue Heron, California Brown Pelican",
+      "url": "https://simonwillison.net/2026/Sep/25/sighting-403293902/",
+      "summary": "A photographer captured impressive images of a Northern Gannet, Great Blue Heron, and California Brown Pelican in Monterey Bay National Marine Sanctuary. The photos were taken using a new 200-800mm Canon EF lens.",
+      "tags": [
+        "photography",
+        "wildlife"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b2d960a7a160f15b",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Note on 24th September 2026",
+      "url": "https://simonwillison.net/2026/Sep/24/harder/",
+      "summary": "A personal reflection suggests that using coding agents can make software engineering more challenging, requiring extraordinary discipline and knowledge. While powerful, their full potential demands considerable expertise from developers.",
+      "tags": [
+        "ai",
+        "coding",
+        "software engineering"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9147814a8ceaf215",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting John Gruber",
+      "url": "https://simonwillison.net/2026/Sep/25/john-gruber/",
+      "summary": "Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta’s cloud)\nand\nbecause it’s packaged in an easy-to-install easy-to-use way. It’s literally presented as\na cute mas…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "4f95e7ab8fd80f70",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Getting to yes with Iran",
+      "url": "https://www.slowboring.com/p/getting-to-yes-with-iran",
+      "summary": "An analysis suggests that resolving the Iran situation long-term is challenging for Democratic administrations due to Iran's distrust after the US withdrew from the 2015 nuclear deal. The article highlights the complexities of negotiating a lasting agreement amidst historical grievances and political volatility.",
+      "tags": [
+        "iran",
+        "foreign policy",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "35c13545e202dbe7",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic’s founders seek voting control ahead of IPO",
+      "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+      "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "a1e832787d27b5d5",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Astra and Opus just passed Turing’s other test",
+      "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+      "summary": "Frontier AI models Astra and Opus have reportedly passed 'Turing's other test' by completing Alan Turing's World War II codebreaking work. This achievement marks a notable advancement in AI capabilities beyond traditional language processing.",
+      "tags": [
+        "ai",
+        "turing test",
+        "codebreaking"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a899f4eba5ad72c3",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+      "summary": "OpenAI's agent swarms have been observed for months 'attacking' online databases to find obscure facts, a behavior uncovered by researchers. This indicates a systematic and automated approach to data collection by these AI entities.",
+      "tags": [
+        "openai",
+        "ai",
+        "data collection"
+      ],
+      "priority": false
+    },
+    {
+      "id": "92fd29ae8444a14d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack",
+      "url": "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/",
+      "summary": "Kiteworks, a tech firm for large data transfers, has urged customers to shut down their servers immediately due to a 'credible threat' of an imminent cyberattack. The warning was based on intelligence received from law enforcement.",
+      "tags": [
+        "cybersecurity",
+        "data transfer",
+        "threat"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6904f37a3cb5bdcf",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "summary": "Venture firm Lightspeed is aiming to raise $250 million for a new India fund, aligning its fundraising cycle with global funds for the first time. The fund will specifically focus on early-stage AI investments.",
+      "tags": [
+        "venture capital",
+        "india",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "01553b200ced2911",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Meadow lets you leave your smartphone at home without sacrificing the essentials",
+      "url": "https://techcrunch.com/2026/09/25/meadow-lets-you-leave-your-smartphone-at-home-without-sacrificing-the-essentials/",
+      "summary": "Meadow offers a new device designed to allow users to leave their smartphones at home while retaining essential communication functions. Founder Shreyas Narlanka emphasizes its appeal to those wishing to avoid social media and constant browsing.",
+      "tags": [
+        "technology",
+        "minimalism",
+        "wearables"
+      ],
+      "priority": false
+    },
+    {
+      "id": "978f4a930b781721",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
+      "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+      "summary": "Feather is a new startup building a $30,000 customizable platform for robotics developers, aiming to become the 'Android of robotics.' The company focuses on providing a flexible software ecosystem for building robotic applications.",
+      "tags": [
+        "robotics",
+        "software",
+        "platform"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ce39487a7df791f9",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+      "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "b9a248e53abf2fc5",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
+      "url": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
+      "summary": "Nexterity is developing a robot to automate the difficult and dangerous task of pipefitting, capable of tightening or loosening four bolts simultaneously. The compact device is designed to fit in a Pelican case, emphasizing portability.",
+      "tags": [
+        "robotics",
+        "construction",
+        "automation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a6d42c46ccdc4929",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "North Korean hackers suspected in $351M crypto theft, the largest so far this year",
+      "url": "https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/",
+      "summary": "North Korean hackers are suspected of orchestrating a $351 million theft from crypto exchange Bitget, marking the largest crypto theft so far this year. This incident is the latest in a series of high-profile attacks targeting the cryptocurrency sector.",
+      "tags": [
+        "cybersecurity",
+        "crypto",
+        "north korea"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b3c287e502330cd4",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+      "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+      "summary": "Oracle has issued a force majeure notice for its New Mexico Stargate data center, which could allow it to delay payments if the facility misses its 2028 target completion date. This legal move addresses potential unforeseen circumstances impacting the project timeline.",
+      "tags": [
+        "oracle",
+        "data center",
+        "real estate"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ae03b24b8e7e50b8",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "summary": "PrismML is integrating its tiny Large Language Models (LLMs) into Qualcomm-powered smart glasses, with the goal of enabling open-weight AI to run directly on devices. This initiative aims to utilize existing computing power on edge devices more effectively.",
+      "tags": [
+        "ai",
+        "llms",
+        "smart glasses"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b298ab31277f04dc",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+      "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+      "summary": "Some Supabase customers are inadvertently exposing large amounts of personal data online due to misconfigured AI-generated applications. This highlights significant data privacy and security risks associated with improperly secured, vibe-coded apps.",
+      "tags": [
+        "data privacy",
+        "security",
+        "supabase"
+      ],
+      "priority": false
+    },
+    {
+      "id": "acec6802fb59039c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Tesla finally moves to electrify trucking after a decade of work and delays",
+      "url": "https://techcrunch.com/2026/09/25/tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays/",
+      "summary": "After a decade of development and delays, Tesla is finally moving to electrify trucking with plans to produce 50,000 Semi trucks per year. The electric Semi, boasting a 500-mile range, is set to significantly increase its presence on the roads.",
+      "tags": [
+        "tesla",
+        "electric vehicles",
+        "trucking"
+      ],
+      "priority": false
+    },
+    {
+      "id": "79ad3d59524a6510",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Waymo is scaling fast: Here’s what the fleet data shows",
+      "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
+      "summary": "Waymo is rapidly scaling its autonomous vehicle fleet, with recent data showing a 49% expansion in Texas alone over the past month. This indicates a significant acceleration in the deployment of its self-driving cars.",
+      "tags": [
+        "waymo",
+        "autonomous vehicles",
+        "expansion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "90108a1bbe5d2b26",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "College Isn’t for Everyone. So We’re Building a New Kind of School.",
+      "url": "https://www.thefp.com/p/horowitz-andreessen-academy-college-silicon-valley",
+      "summary": "Andreessen Horowitz is launching a new university for tech-minded students, aiming to offer an alternative to traditional higher education in the AI age. The school will focus on teaching essential problem-solving and collaboration skills for the tech industry.",
+      "tags": [
+        "education",
+        "ai",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cf66db7c7dd0ded2",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Dating Is Broken. Serena Kerrigan Knows How to Fix It.",
+      "url": "https://www.thefp.com/p/dating-is-broken-serena-kerrigan-second-thought",
+      "summary": "Serena Kerrigan argues that modern dating is 'broken' due to excessive swiping on apps and social media, and she offers solutions based on her experience with over 50 virtual first dates. She aims to help people navigate the complexities of contemporary courtship.",
+      "tags": [
+        "dating",
+        "relationships",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c5489b6843831e2b",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Here’s Where to Fall in Love",
+      "url": "https://www.thefp.com/p/heres-where-to-fall-in-love-marriage-map-single",
+      "summary": "The Institute for Family Studies' 'Marriage Map' reveals varying marriage rates for young adults across the US, with higher rates in states like Utah and lower rates in major coastal cities. This data suggests that location significantly influences dating and marriage success, challenging purely individualistic explanations.",
+      "tags": [
+        "dating",
+        "marriage",
+        "demography"
+      ],
+      "priority": false
+    },
+    {
+      "id": "af85382a68153208",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "TGIF: I Am the Code",
+      "url": "https://www.thefp.com/p/tgif-i-am-the-code-xi-trump",
+      "summary": "Hello, and welcome back to another great week of disturbing news.\nIn internal updates: Are you interested in helping\nThe Free Press\ngrow? We’re looking for a devoted\ngrowth marketer\n. Despite now being part of the Skydance-Media-Paramount-Warner Brothers conglomerate to end all c…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "a065aa0a59352b4b",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Problem with ‘Marrying Up’",
+      "url": "https://www.thefp.com/p/the-problem-with-marrying-up-relationships",
+      "summary": "A professional matchmaker discusses the 'problem with marrying up,' noting that while women's economic power grows, many still seek partners at least as successful. This dynamic raises questions about respect and traditional relationship expectations.",
+      "tags": [
+        "relationships",
+        "economics",
+        "gender"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c9596576d403b7f4",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Why Israeli Arabs Stand By Their Country",
+      "url": "https://www.thefp.com/p/why-israeli-arabs-stand-by-country-israel-hamas",
+      "summary": "An article analyzes why Israel's Arab population largely chose to stand by their country during the October 7 attacks, defying expectations to join foreign invaders. It highlights the resilience and national loyalty within the Arab Israeli community.",
+      "tags": [
+        "israel",
+        "arabs",
+        "society"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9597e7fca096869c",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "‘Fauda’ Tells the World the Truth",
+      "url": "https://www.thefp.com/p/fauda-tells-world-truth-israel-hamas-terrorism",
+      "summary": "The Israeli Netflix series 'Fauda' has gained profound new significance after the October 7, 2023, Hamas attack, with its fifth season depicting the lingering trauma two years later. The show now serves as a compelling reflection on the conflict's aftermath and its human cost.",
+      "tags": [
+        "fauda",
+        "israel",
+        "terrorism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b3bf156bee648113",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Insta360 conquered 360 cameras — now it’s eyeing glasses",
+      "url": "https://www.theverge.com/tech/999489/insta360-smart-glasses-mirrorless-interview",
+      "summary": "Insta360, a leader in 360-degree cameras, is expanding its focus to smart glasses and challenging traditional camera brands like Canon and Sony. The company, which recently invested $298 million in memory chips, is opening its first US flagship store.",
+      "tags": [
+        "cameras",
+        "smart glasses",
+        "insta360"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c55d1e0ca2b3f8d6",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K",
+      "url": "https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k",
+      "summary": "Apple code leaks suggest upcoming hardware releases before year-end, including a new HomePod Mini 2, iPad Mini 8, and Apple TV 4K. The HomePod Mini 2 is expected to maintain a similar design to its predecessor.",
+      "tags": [
+        "apple",
+        "hardware",
+        "leaks"
+      ],
+      "priority": false
+    },
+    {
+      "id": "48af3147affea215",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Meta makes the Muse filesystem even more accessible",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+      "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would\nexpose its filesystem\nto curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to see, not least because Muse itself told peo…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "60b47061da86b1ed",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+      "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+      "summary": "Microsoft has unveiled its new Copilot 'super app,' which bundles three AI capabilities—chat, coding, and agents—into a single interface. The company believes this redesigned Copilot, which includes a rebranded Autopilot assistant, could become as influential as Microsoft Office.",
+      "tags": [
+        "microsoft",
+        "copilot",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9d9ca7f9b266284d",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Sony and UMG are suing Suno again",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+      "summary": "Sony and Universal Music Group have filed another lawsuit against AI music generator Suno, alleging its new v6 model continues to infringe on their copyrights. The labels claim Suno is 'model laundering' by training new versions on outputs from previously infringing models.",
+      "tags": [
+        "ai",
+        "music",
+        "copyright"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1c927123054e41c4",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Tesla&#8217;s Optimus robot is going through growing pains",
+      "url": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
+      "summary": "Tesla is reportedly facing manufacturing challenges in scaling production of its Optimus robots, with issues arising from repurposing Model S and X lines. The robots' smaller, more precise parts, particularly the hands, are proving difficult to align.",
+      "tags": [
+        "tesla",
+        "robots",
+        "manufacturing"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 121,
+    "summarized": 89,
+    "skipped_promos": 7,
+    "filtered_by_rules": 25,
+    "sources": 13,
+    "email_items_omitted": 0
+  }
+}
