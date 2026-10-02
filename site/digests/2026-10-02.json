@@ -1,0 +1,1067 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T18:52:02+00:00",
+  "hot_topics": [
+    {
+      "topic": "Tesla's Q3 Sales and Cybertruck Performance",
+      "synthesis": "Tesla reported a mixed third quarter, with overall EV sales decreasing year-over-year but still exceeding analysts' expectations, which positively impacted stock performance. While total vehicle production saw a slight increase, a notable decline was observed in sales of 'other models,' predominantly Cybertrucks. This indicates strong performance for its core models but ongoing challenges for newer, less established offerings.",
+      "item_ids": [
+        "1f3b9081f88f818d",
+        "4b5acd183a83269b",
+        "7c0e98d5a2644a28"
+      ]
+    },
+    {
+      "topic": "Rivian's R2 Success Amidst Recall",
+      "synthesis": "Rivian achieved a significant sales record in its third quarter, with production and deliveries surging year-over-year, largely driven by the strong market reception of its more affordable R2 vehicle. Despite this success, the company issued a recall for a small number of R2 vehicles due to poorly tightened battery packs. Rivian confirmed that the manufacturing issue has already been resolved on the assembly line, ensuring ongoing safety standards.",
+      "item_ids": [
+        "ec2eaa1947687db0",
+        "ab8f3601a176e3c5",
+        "f29809ba0ab99e83"
+      ]
+    },
+    {
+      "topic": "Paramount and Warner Bros. Discovery Merger Rebrands to Skydance",
+      "synthesis": "The impending $110 billion merger between Paramount and Warner Bros. Discovery is set to culminate in the combined entity being rebranded as Skydance. This new name aims to establish a distinct identity for the merged company, allowing it to move forward while still honoring and preserving the powerful individual brands of Paramount and Warner Bros. The deal is anticipated to finalize in the coming week.",
+      "item_ids": [
+        "f7f87b57f3571d61",
+        "b709965d476bd61e"
+      ]
+    },
+    {
+      "topic": "Cornell University Rape Case Sparks Outcry",
+      "synthesis": "The high-profile Cornell University rape inquiry continues to generate significant public and student frustration, with New York's governor acknowledging that officials failed the alleged victim. Students are vehemently demanding improved safety measures and greater accountability on campus. This ongoing pressure has led to a public hearing and the appointment of a special prosecutor to thoroughly investigate the allegations against seven students.",
+      "item_ids": [
+        "9273ca68dd131988",
+        "481ba5fc46e27453",
+        "84c63c6223f73e0d",
+        "41e251c7d0e66f43"
+      ]
+    },
+    {
+      "topic": "Botched Execution of Christa Pike Reignites Death Penalty Debate",
+      "synthesis": "The failed execution attempt of Christa Pike in Tennessee, where she survived two lethal injection doses, has intensely reignited the death penalty debate across the U.S. Witnesses described the unprecedented attempt as 'torturous,' prompting calls from a veteran Texas reporter and a former Oregon executioner to critically re-evaluate capital punishment methods and ethics. This incident has intensified scrutiny on the humaneness and efficacy of lethal injection procedures.",
+      "item_ids": [
+        "08a6bc9dde49d067",
+        "e95c195e8d2d1a66",
+        "91eb7d5c4d14bb01",
+        "41e251c7d0e66f43",
+        "54916a07eb7c3a1d"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "015b605ab85204da",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Life on a hair trigger",
+      "url": "https://aeon.co/essays/early-violence-is-a-bad-teacher-but-the-mind-can-learn-anew",
+      "summary": "The article explores how systemic violence is perpetuated not just by social ills but also by the psychological states it creates, yet highlights the mind's capacity to overcome early violent conditioning. It argues that while early violence is a bad teacher, individuals can learn anew.",
+      "tags": [
+        "psychology",
+        "violence",
+        "society"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1f3b9081f88f818d",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Cybertruck sales in free fall as Tesla reports mediocre sales for Q3",
+      "url": "https://arstechnica.com/cars/2026/10/tesla-sales-drop-2-percent-in-underwhelming-q3-2026/",
+      "summary": "Tesla sold 486,532 electric vehicles in Q3 2026, a 2.1% decrease from Q3 2025, yet this still exceeded analysts' expectations. While overall production increased by 3.7%, sales of \"other models,\" primarily Cybertrucks, decreased by 39.8%.",
+      "tags": [
+        "tesla",
+        "ev",
+        "sales"
+      ],
+      "priority": false
+    },
+    {
+      "id": "175538f987befd8e",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "How I kept cool with NYC's free battery program for window AC units",
+      "url": "https://arstechnica.com/gadgets/2026/10/how-i-kept-cool-with-nycs-free-battery-program-for-window-ac-units/",
+      "summary": "A New York City program offers free household batteries to power window air conditioners, allowing residents to keep cool during heatwaves while also earning money through demand response programs with Con Edison. The program, run by startup Every Electric, provided batteries to about 1,000 households this year.",
+      "tags": [
+        "energy",
+        "demand response",
+        "smart home"
+      ],
+      "priority": false
+    },
+    {
+      "id": "02a8e78f7e3e61d1",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+      "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
+      "summary": "A US federal judge dismissed antitrust lawsuits by Chegg and Penske Media against Google, ruling that Google's AI Overviews and content scraping are not illegal under antitrust law. The court found that websites have an \"expectation,\" not a legal agreement, for Google to send them search traffic.",
+      "tags": [
+        "antitrust",
+        "google",
+        "ai search"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2b128bf7e5bb5975",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "TCL is right to question Samsung’s use of the term “Mini LED”",
+      "url": "https://arstechnica.com/gadgets/2026/10/tcl-is-right-to-question-samsungs-use-of-the-term-mini-led/",
+      "summary": "TCL is suing Samsung for allegedly misrepresenting budget LCD-LED TVs as \"Mini LED,\" sparking a debate over the technology's definition. The dispute highlights the lack of clear industry standards for \"Mini LED,\" leaving consumers vulnerable to varied interpretations.",
+      "tags": [
+        "displays",
+        "consumer electronics",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "97288b17235dfcbd",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
+      "url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
+      "summary": "The Nvidia Shield TV Pro, a 7-year-old streaming device, increased its price by $100 to $299.99, attributed by Nvidia to substantial increases in memory component costs driven by the generative AI era. This price hike affects a device that debuted in 2019.",
+      "tags": [
+        "nvidia",
+        "hardware",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "911948e217c77e92",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+      "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+      "summary": "Captain Smit Machchhar describes a cockpit attack by his co-pilot during a Flydubai flight, stating he opened the door to allow others to help. He has been hailed a hero for his actions to prevent further harm.",
+      "tags": [
+        "aviation",
+        "incident",
+        "safety"
+      ],
+      "priority": false
+    },
+    {
+      "id": "823fe11d50d60c99",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
+      "url": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
+      "summary": "Australia's online safety regulator has identified \"significant\" child safety deficiencies on major platforms like Steam and Roblox, urging companies like Fortnite and Minecraft to enhance their protections. This calls for improved safeguards for minors online.",
+      "tags": [
+        "child safety",
+        "online platforms",
+        "regulation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "481ba5fc46e27453",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Cornell students voice frustration at public hearing over rape case",
+      "url": "https://www.bbc.co.uk/news/videos/cwe8e8jpnpy5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Cornell students voiced their frustration at a public hearing about a campus rape case, raising concerns about sexual violence and university safety. The Student Assembly led the discussion to address these pressing issues.",
+      "tags": [
+        "sexual violence",
+        "education",
+        "social justice"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c5c0b1eec2e8f269",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+      "url": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ethiopia and Eritrea have cut diplomatic ties amidst an escalating conflict in Ethiopia's northern region, where government forces are battling rebel fighters. This diplomatic breakdown signals deepening tensions and regional instability.",
+      "tags": [
+        "ethiopia",
+        "eritrea",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "08a6bc9dde49d067",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
+      "url": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
+      "summary": "A Texas reporter who has witnessed almost 500 executions noted the unique nature of Christa Pike's botched execution, where the inmate survived. This rare event has drawn significant attention.",
+      "tags": [
+        "death penalty",
+        "legal",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8be78bdd4b6c74b2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Kyiv's mayor, Vitaliy Klitschko, warns that intensified Russian strikes are causing \"very dramatic\" damage to the capital, targeting critical infrastructure. The situation highlights the ongoing severe impact of the conflict on Ukraine.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ffe49bec0de4cc98",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
+      "url": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Shoko Kawata, Japan's first mayor to take maternity leave, has been recognized on the TIME100 Next list for her pioneering role. Her decision generated mixed reactions in a country focused on boosting birth rates.",
+      "tags": [
+        "japan",
+        "politics",
+        "gender equality"
+      ],
+      "priority": false
+    },
+    {
+      "id": "174cb9b4304eb22c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "OpenAI fires workers for 'mishandling sensitive information'",
+      "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+      "summary": "OpenAI has fired several employees for allegedly sharing sensitive information with an external AI evaluation group. This move underscores the company's commitment to maintaining confidentiality and security around its AI advancements.",
+      "tags": [
+        "openai",
+        "security",
+        "corporate"
+      ],
+      "priority": false
+    },
+    {
+      "id": "eecd0c2d81897575",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Riot police clash with students as education protests rage in France",
+      "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Education protests in France, fueled by concerns over standards and teacher shortages, have caused disruption in over 600 schools. The demonstrations have escalated into clashes between riot police and students.",
+      "tags": [
+        "france",
+        "protests",
+        "education"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6c3b1346778eedd9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "School protests send shivers down French government's spine",
+      "url": "https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss",
+      "summary": "Widespread school protests in France, now two weeks old and involving young people on the streets, are concerning the French government. The movement signals potential social unrest fueled by educational grievances.",
+      "tags": [
+        "france",
+        "protests",
+        "education"
+      ],
+      "priority": false
+    },
+    {
+      "id": "787d92640c86dd3a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
+      "summary": "Seoul has threatened \"further action\" if Ukraine fails to apologize for a prisoner-of-war dispute, with President Lee Jae Myung accusing Kyiv of attempting to provoke war on the Korean Peninsula.",
+      "tags": [
+        "diplomacy",
+        "south korea",
+        "ukraine"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4530933339471df0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Spain and China are cosying up - to the anger of many in the EU",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgyg824m02o?at_medium=RSS&at_campaign=rss",
+      "summary": "Spain and China are developing a closer alliance, a move that is reportedly causing anger among many in the EU. This \"unlikely pairing\" is unfolding amidst significant global political shifts.",
+      "tags": [
+        "spain",
+        "china",
+        "diplomacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ab50ec9f86a95b0f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
+      "url": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
+      "summary": "Spanish Prime Minister Sánchez suffered a significant defeat on a housing crisis vote following the eviction of an 87-year-old woman, increasing pressure for a snap election. This comes amid various scandals affecting his government.",
+      "tags": [
+        "spain",
+        "politics",
+        "housing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "639c236ac3796ab9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
+      "url": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Wealthy Cuban exiles in Florida are increasingly optimistic about the prospect of regime change in Cuba and are preparing for such an event. They anticipate a shift in power in Havana.",
+      "tags": [
+        "cuba",
+        "politics",
+        "foreign relations"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42ce99258c4877ec",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Emotional pilot recounts moment of Flydubai attack",
+      "url": "https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss",
+      "summary": "An emotional pilot shared his harrowing experience of a cockpit attack by his co-pilot on a Flydubai flight, for which he has been hailed as a hero. He recounted opening the cockpit door to allow others to subdue the attacker.",
+      "tags": [
+        "aviation",
+        "incident",
+        "safety"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e95c195e8d2d1a66",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What we know about Christa Pike’s condition after failed execution",
+      "url": "https://www.bbc.co.uk/news/videos/cwe8e82jgm8po?at_medium=RSS&at_campaign=rss",
+      "summary": "Christa Pike was transported to a Tennessee hospital after surviving two lethal injection attempts during her failed execution. The BBC reports on her condition and the broader implications of the botched procedure.",
+      "tags": [
+        "death penalty",
+        "legal",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6cddc953a714b909",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why are these endangered moths swarming Australia's east coast?",
+      "url": "https://www.bbc.co.uk/news/videos/c6rr4r704en4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Endangered Bogong moths are swarming Australia's east coast in unusual numbers, with residents in cities like Sydney and Canberra documenting them infiltrating homes and cars. The sudden influx has caused a stir.",
+      "tags": [
+        "australia",
+        "environment",
+        "wildlife"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9273ca68dd131988",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
+      "summary": "New York's governor has stated that officials \"failed\" the woman at the core of a Cornell rape inquiry, who alleges she was raped by seven students in 2024.",
+      "tags": [
+        "sexual violence",
+        "education",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4d93c47faf2c2bd4",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+      "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+      "summary": "A court has sided with the EFF, ruling that Utah's VPN law requires a technical impossibility from providers. This decision challenges the feasibility of the state's demands on VPN services.",
+      "tags": [
+        "vpn",
+        "law",
+        "eff"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fd198d0c17f00ad6",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Frog and Toad and the Increasingly Capable Machines",
+      "url": "https://www.frogandtoad.ai/",
+      "summary": "This item links to \"Frog and Toad and the Increasingly Capable Machines,\" a piece that has sparked significant interest and comments on Hacker News.",
+      "tags": [
+        "ai",
+        "culture",
+        "philosophy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "897ad644572dd4dd",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "url": "https://lwn.net/Articles/1097401/",
+      "summary": "Multiple new vulnerabilities have been identified in the Linux kernel, leading to extensive discussion and concern within the Hacker News community.",
+      "tags": [
+        "linux",
+        "security",
+        "vulnerability"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4cb964b60b178a18",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Shimano Bicycle Museum Review",
+      "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+      "summary": "This item points to a review of the Shimano Bicycle Museum, which has generated considerable engagement and discussion on Hacker News.",
+      "tags": [
+        "cycling",
+        "museum",
+        "review"
+      ],
+      "priority": false
+    },
+    {
+      "id": "049eb75f38a70875",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The Legend of von Neumann (1973) [pdf]",
+      "url": "https://gwern.net/doc/math/1973-halmos.pdf",
+      "summary": "This item links to a 1973 PDF article titled \"The Legend of von Neumann,\" a historical piece garnering significant discussion on Hacker News.",
+      "tags": [
+        "history",
+        "computing",
+        "mathematics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "83e44783c248757a",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "summary": "Enterprise AI is undergoing an \"agentic shift,\" moving towards autonomous AI that integrates people, processes, and data in real-time. This requires rethinking architecture for data accessibility, composable tech stacks, and strong governance over AI operations and data sovereignty.",
+      "tags": [
+        "enterprise ai",
+        "autonomous ai",
+        "data strategy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7f8bdc0002e01964",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Cloaked in anonymity, Israeli soldiers describe mass civilian killings in 'NAZA'",
+      "url": "https://www.npr.org/2026/10/02/nx-s1-5987714/naza-review-israel-palestine",
+      "summary": "An Israeli documentary titled \"NAZA\" features anonymous Israeli soldiers describing mass civilian killings, with \"NAZA\" being Hebrew for \"collateral damage.\" The film explores the Israeli military's criteria for acceptable civilian casualties.",
+      "tags": [
+        "israel",
+        "palestine",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "84c63c6223f73e0d",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Cornell rape case gets special prosecutor. And, Renee Good's family sues the government",
+      "url": "https://www.npr.org/2026/10/02/g-s1-146075/up-first-newsletter-cornell-assault-case-christa-pike-jobs-report-renee-good",
+      "summary": "A special prosecutor has been appointed for the Cornell rape case involving allegations against seven students. Separately, Renee Good's family has initiated a lawsuit against the government concerning her death.",
+      "tags": [
+        "sexual violence",
+        "legal",
+        "education"
+      ],
+      "priority": false
+    },
+    {
+      "id": "91eb7d5c4d14bb01",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Failed 'torturous' execution attempt on Christa Pike reignites death penalty debate",
+      "url": "https://www.npr.org/2026/10/02/nx-s1-5988832/christa-pike-reignites-death-penalty-debate",
+      "summary": "The botched execution of Christa Pike in Tennessee, where she survived two lethal injection attempts, has ignited a fierce debate about the death penalty's ethics and practices in the U.S. Critics deem the failed attempt \"torturous.\"",
+      "tags": [
+        "death penalty",
+        "legal",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fd35fcd55829f88a",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Pro-democracy activists increasingly vulnerable to authoritarian governments in Southeast Asia",
+      "url": "https://www.npr.org/2026/10/02/g-s1-146064/pro-democracy-activists-asia-authoritarian-governments",
+      "summary": "Pro-democracy activists in Southeast Asia face growing threats, being pursued by authoritarian governments across international borders. Human rights groups are warning of a \"swap market\" of repression in the region.",
+      "tags": [
+        "human rights",
+        "democracy",
+        "southeast asia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7261b1aaddd75f0b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Pro-Trump Influencer Benny Johnson is being sued for defamation by ICE protesters",
+      "url": "https://www.npr.org/2026/10/02/nx-s1-5989413/benny-johnson-defamation-lawsuit-ice-protesters",
+      "summary": "Pro-Trump influencer Benny Johnson faces a defamation lawsuit from ICE protesters who claim he falsely accused them of assaulting officers during demonstrations. The suit targets his public statements regarding events at an Illinois ICE facility.",
+      "tags": [
+        "legal",
+        "defamation",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9def6d3dc1a33a92",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "San Francisco's car crime has plunged. How much credit does Flock deserve?",
+      "url": "https://www.npr.org/sections/planet-money/2026/10/02/g-s1-146060/san-franciscos-car-crime-has-plunged-how-much-credit-does-flock-deserve",
+      "summary": "San Francisco leaders credit AI-powered cameras from Flock with a dramatic reduction in car crime, prompting debate on the effectiveness of high-tech surveillance versus civil liberties. The city is evaluating the role of this technology.",
+      "tags": [
+        "san francisco",
+        "crime",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dc288dba47e646e6",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "The U.S. added only 29,000 jobs in September as job market lacks spark",
+      "url": "https://www.npr.org/2026/10/02/nx-s1-5989140/jobs-labor-wages-federal-reserve",
+      "summary": "The U.S. economy added a modest 29,000 jobs in September, and the unemployment rate edged up to 4.2%, indicating a lackluster job market. Revisions also reduced job gains for July and August.",
+      "tags": [
+        "economy",
+        "jobs",
+        "labor market"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fcd56521bb0e474a",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Who uttered the phrase 'the ideological clowns are out' this week? The quiz knows",
+      "url": "https://www.npr.org/2026/10/02/g-s1-145638/trump-hegseth-panda-ai-beyonce-news-quiz",
+      "summary": "This item is a news quiz challenging readers to identify who said \"the ideological clowns are out\" this week, alongside questions about pandas and fat bears.",
+      "tags": [
+        "news",
+        "quiz",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b9cb931dc08b49e1",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Why is diesel more expensive than regular gas?",
+      "url": "https://www.npr.org/sections/planet-money/2026/10/02/nx-s1-5988075/why-is-diesel-more-expensive-than-regular-gas",
+      "summary": "Diesel became more expensive than regular gasoline after 2004 due to stricter air quality standards, increased demand, and higher taxes. This shift in pricing reflects evolving environmental regulations and market dynamics.",
+      "tags": [
+        "energy",
+        "economics",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a2f7847a2d26ca61",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Adam Hamilton on faith, Trump and the fight for Kansas",
+      "url": "https://www.politico.com/video/2026/10/01/adam-hamilton-on-faith-trump-and-the-fight-for-kansas-2188689",
+      "summary": "This video features Adam Hamilton discussing the interplay of faith and politics, specifically concerning Donald Trump and the political landscape in Kansas.",
+      "tags": [
+        "politics",
+        "religion",
+        "trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9cecf7d49b94523c",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "October",
+      "url": "https://www.politico.com/cartoons/2026/10/02/matt-wuerker-cartoons-october-2026-01104877",
+      "summary": "This item presents a political cartoon titled \"October\" by Matt Wuerker.",
+      "tags": [
+        "politics",
+        "cartoon",
+        "satire"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4efbd3f012a075cc",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Thursday discussion post",
+      "url": "https://www.slowboring.com/p/thursday-discussion-post-3af",
+      "summary": "Read more",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "a6a88ac1c75b8ffa",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "summary": "Apple is implementing stricter controls for macOS's Full Disk Access permission, citing increased risks from advanced AI agents. This measure aims to safeguard users' private files, messages, mail, and browsing history.",
+      "tags": [
+        "apple",
+        "macos",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7fd597aa166c64f2",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+      "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+      "summary": "Circuit Breaker Labs is developing \"crash-test dummies\" to improve AI safety, specifically focusing on preventing psychological harm to users. This initiative addresses the often-overlooked human impact of AI beyond existential threats.",
+      "tags": [
+        "ai safety",
+        "ethics",
+        "psychology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "64c106bd43e524f0",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "summary": "The White House, with President Trump, is rebranding AI as \"super intelligence\" and secured an AI safety pledge from major tech CEOs. Simultaneously, Meta and OpenAI are focusing on making their AI products more user-friendly.",
+      "tags": [
+        "ai",
+        "policy",
+        "white house"
+      ],
+      "priority": false
+    },
+    {
+      "id": "54a406df767a0afe",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Laytr’s new app lets you save anything you find online, not just articles to read",
+      "url": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/",
+      "summary": "Laytr's new app enables users to save diverse online content like articles, recipes, and videos, not just text, for later access. It prioritizes privacy and offers seamless syncing across Apple devices.",
+      "tags": [
+        "productivity",
+        "app",
+        "data management"
+      ],
+      "priority": false
+    },
+    {
+      "id": "516f65a4bb5eca2c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
+      "url": "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/",
+      "summary": "Lyft will pay $272.5 million to settle a 2020 lawsuit concerning the classification of its drivers as contractors. This settlement addresses a longstanding legal dispute over gig economy worker status.",
+      "tags": [
+        "lyft",
+        "gig economy",
+        "labor law"
+      ],
+      "priority": false
+    },
+    {
+      "id": "80c3cc62a6c3be18",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
+      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "summary": "Elon Musk's AI chatbot, Grok, reportedly advised President Trump to capture Venezuela's president, Nicolás Maduro, prior to an invasion. This incident highlights concerns about AI's potential influence on geopolitical decisions.",
+      "tags": [
+        "ai",
+        "politics",
+        "grok"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b709965d476bd61e",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Paramount and Warner Bros. Discovery to become Skydance",
+      "url": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
+      "summary": "The $110 billion merger between Paramount and Warner Bros. Discovery is expected to close on October 6, with the combined company to be named Skydance.",
+      "tags": [
+        "media",
+        "mergers",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0d828859c9ffa682",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Pope Leo XIV is not a fan of AI-generated art",
+      "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+      "summary": "Pope Leo XIV expressed his disapproval of AI-generated art, asserting an \"ontological difference\" between true art and machine-generated images. He believes algorithms lack the inherent \"spark of humanity\" necessary for artistic creation.",
+      "tags": [
+        "ai",
+        "art",
+        "religion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f29809ba0ab99e83",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Rivian issues R2 recall for poorly tightened battery packs",
+      "url": "https://techcrunch.com/2026/10/02/rivian-issues-r2-recall-for-poorly-tightened-battery-packs/",
+      "summary": "Rivian has issued a recall for around 14 R2 vehicles due to poorly tightened battery packs, though the company states the issue has already been resolved on the assembly line. This aims to maintain safety standards for its new EV.",
+      "tags": [
+        "rivian",
+        "ev",
+        "recall"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ab8f3601a176e3c5",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Rivian’s R2 just helped it set a new sales record",
+      "url": "https://techcrunch.com/2026/10/02/rivians-r2-just-helped-it-set-a-new-sales-record/",
+      "summary": "Rivian set a new sales record, with deliveries jumping approximately 45% compared to the same quarter last year, exceeding 19,000 electric vehicles. This surge is largely attributed to the success of its R2 model.",
+      "tags": [
+        "rivian",
+        "ev",
+        "sales"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5cac20dc632f77c8",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Robotaxi operators will face fines for blocking first responders",
+      "url": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
+      "summary": "A new California law will impose fines on robotaxi operators whose autonomous vehicles obstruct first responders. This regulation aims to ensure public safety and smooth emergency operations in urban environments.",
+      "tags": [
+        "robotaxi",
+        "regulation",
+        "california"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ee1fff8332e1f6a5",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Slovenia’s .si domain sees a surge in registrations after Trump’s ‘super intelligence’ order",
+      "url": "https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/",
+      "summary": "Slovenia's \".si\" domain name has seen an unprecedented surge in demand following President Trump's executive order on \"super intelligence.\" This suggests a whimsical or strategic response to the new AI terminology.",
+      "tags": [
+        "internet",
+        "ai",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7c0e98d5a2644a28",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Tesla sustains its EV sales momentum despite US troubles",
+      "url": "https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/",
+      "summary": "Tesla delivered over 486,000 electric vehicles in the third quarter, a decrease from the prior year's record but still indicating positive sales momentum despite challenges in the US market.",
+      "tags": [
+        "tesla",
+        "ev",
+        "sales"
+      ],
+      "priority": false
+    },
+    {
+      "id": "54916a07eb7c3a1d",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Advice from an Executioner After a Botched Execution",
+      "url": "https://www.thefp.com/p/executioner-injection-death-penalty",
+      "summary": "Frank Thompson, a former Oregon State Penitentiary superintendent, reflects on the recent botched execution of Christa Pike, suggesting it should prompt lawmakers to reconsider capital punishment. His past experience overseeing executions led him to oppose the practice.",
+      "tags": [
+        "death penalty",
+        "legal",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7d0c8019f7abf05c",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "America Will Regret Withdrawing from Iraq",
+      "url": "https://www.thefp.com/p/america-will-regret-withdrawing-iraq-iran-trump-military-basing",
+      "summary": "The article argues that the complete withdrawal of U.S. troops from Iraq this month is a strategic mistake, drawing parallels to previous military blunders. The author suggests America will regret abandoning its presence, echoing historical sentiments of soldiers.",
+      "tags": [
+        "iraq",
+        "foreign policy",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bf5f01a8854dd997",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "I Questioned Transgender Ideology. Now I’m Facing Prison in France.",
+      "url": "https://www.thefp.com/p/i-questioned-transgender-ideology-france-lawsuit-criminal",
+      "summary": "A French feminist writer, Dora Moutot, faces criminal charges and potential prison in France for publicly questioning transgender ideology in a televised debate. She was convicted of \"public insult\" for asserting biological sex over gender identity and stating a transgender mayor is a \"transfeminine man.\"",
+      "tags": [
+        "free speech",
+        "transgender",
+        "france"
+      ],
+      "priority": false
+    },
+    {
+      "id": "40c2b53beb81b25b",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Taylor Swift Got Her Happy Ending. It May Have Killed Her Music.",
+      "url": "https://www.thefp.com/p/taylor-swift-got-her-happy-ending",
+      "summary": "This article discusses the negative public reception of Taylor Swift's four new songs, questioning if her personal \"happy ending\" has diluted her musical output. It delves into the latest career shift of the prominent pop star.",
+      "tags": [
+        "music",
+        "celebrity",
+        "pop culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d319573fcf9a2f8c",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Where Does the Iran War Go Next?",
+      "url": "https://www.thefp.com/p/iran-war-trump-michael-doran",
+      "summary": "An analysis of the Iran war suggests President Trump currently has a stronger claim to victory over Iran, despite conflicting statements from the IRGC. However, the article warns that the conflict may soon extend into neighboring Iraq.",
+      "tags": [
+        "iran",
+        "geopolitics",
+        "trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "41e251c7d0e66f43",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Where Will the Iran War Go Next? Plus. . .",
+      "url": "https://www.thefp.com/p/iran-iraq-execution-death-penalty-arthur-brooks",
+      "summary": "This daily digest explores the future of the Iran war, including the potential for it to spill into Iraq, and examines the ongoing debate around the death penalty following a botched execution. It also covers an averted plane hijacking and developments in the \"Cornell 7\" rape case.",
+      "tags": [
+        "geopolitics",
+        "iran",
+        "iraq"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b4bc64eb60d2b9ff",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "​​Arthur Brooks: Mike Tomlin’s ‘Minecraft’ Hobby Is a Lesson in Happiness",
+      "url": "https://www.thefp.com/p/mike-tomlin-minecraft-arthur-brooks-hobby",
+      "summary": "Arthur Brooks highlights Mike Tomlin's secret 12-year Minecraft hobby as a therapeutic escape from high-pressure work, illustrating the importance of non-compensatory hobbies for mental well-being. He notes how even high achievers benefit from activities that offer detachment and personal fulfillment.",
+      "tags": [
+        "well-being",
+        "psychology",
+        "hobbies"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4d5b7d0a3c220154",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "How to Say “YES” to Life",
+      "url": "https://www.themarginalian.org/2026/10/01/yes/",
+      "summary": "The author describes a transformative artistic experience where letting go of control and \"saying YES\" to the clay's will led to unexpected beauty, drawing a parallel to life's challenges. This philosophical reflection advocates collaborating with life's flow rather than resisting its inherent changes.",
+      "tags": [
+        "philosophy",
+        "self-improvement",
+        "mindfulness"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e66816511f125ac9",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Beehiiv creators are buzzing about a new price increase",
+      "url": "https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions",
+      "summary": "Beehiiv, a popular creator platform, is increasing its prices, causing dissatisfaction among users, though the CEO states it will support continued platform investment. The midrange Scale plan (now Lite) and Pro plan (formerly Max) have seen significant monthly price hikes.",
+      "tags": [
+        "creator economy",
+        "platform",
+        "pricing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b60efc6ef9d91e47",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Dots get up in Muse’s business",
+      "url": "https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast",
+      "summary": "OpenAI's new Dots agent platform is positioned as a business-first product, costing a minimum of $100 per month, designed for tasks like launching websites or building presentations. This contrasts with Meta Muse's more consumer-oriented, personal assistant approach.",
+      "tags": [
+        "openai",
+        "ai agent",
+        "enterprise"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f44aa3dfec50617b",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Keurig’s new machine uses plastic-free compressed coffee pucks",
+      "url": "https://www.theverge.com/tech/1003956/keurig-alta-coffee-machine-altarounds-pucks-appliance-preorder",
+      "summary": "Keurig's new Alta machine offers single-serve convenience using 100% compostable, plant-based AltArounds coffee pucks, aiming to eliminate plastic and aluminum pods. The company is also working to replace current plastic wrappers for the pucks with paper.",
+      "tags": [
+        "keurig",
+        "sustainability",
+        "appliances"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c503e46a310c035f",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Nacon’s new PS5 controller can mix audio from your phone and console",
+      "url": "https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller",
+      "summary": "Nacon introduced the Revolution 5 Unlimited, an officially licensed PS5 controller with a built-in screen for settings and multi-source audio mixing. This allows users to simultaneously listen to game audio and phone music through connected headphones.",
+      "tags": [
+        "gaming",
+        "controller",
+        "playstation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c37ed448bf8654f1",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+      "summary": "OpenAI has launched Dots, a new agent platform designed for enterprise use, capable of handling both work-related tasks and personal errands. Despite its anthropomorphic avatars, Dots are primarily presented as workplace software.",
+      "tags": [
+        "openai",
+        "ai agent",
+        "enterprise"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f7f87b57f3571d61",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Paramount’s Warner Bros. megamerger will just be called Skydance",
+      "url": "https://www.theverge.com/entertainment/1004016/paramount-warner-bros-skydance-megamerger-name",
+      "summary": "The $110 billion merger between Paramount and Warner Bros. Discovery will result in the combined company being renamed Skydance. This new identity aims to give the merged entity its own brand while allowing Paramount and Warner Bros. to retain their individual spotlight.",
+      "tags": [
+        "media",
+        "mergers",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ec2eaa1947687db0",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Rivian’s sales pop as the company’s big R2 bet starts to pay off",
+      "url": "https://www.theverge.com/transportation/1004127/rivian-q3-2026-production-delivery-r2",
+      "summary": "Rivian reported a strong third quarter for 2026, with production up 85% and deliveries jumping 45% year-over-year to 19,248 vehicles. The company attributes this success to its more affordable R2 vehicle, affirming its full-year delivery guidance.",
+      "tags": [
+        "rivian",
+        "ev",
+        "sales"
+      ],
+      "priority": false
+    },
+    {
+      "id": "29db3174539f3115",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Tesla will now let you drive off mid-charge if there’s an emergency",
+      "url": "https://www.theverge.com/transportation/1003967/tesla-charging-breakaway-emergency-shooting",
+      "summary": "Tesla has rolled out a new software feature enabling drivers to quickly release their charging cable and drive off in an emergency. This safety update was developed in response to a mass shooting at a Supercharger location where vehicles were locked while charging.",
+      "tags": [
+        "tesla",
+        "safety",
+        "ev charging"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4b5acd183a83269b",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Tesla’s recovery hits a speed bump",
+      "url": "https://www.theverge.com/transportation/1003601/teslas-recovery-hits-a-speed-bump",
+      "summary": "Tesla sold fewer vehicles in the third quarter compared to the previous year but still exceeded Wall Street estimates, indicating its recovery remains on track. Production increased by about 3.8% year-over-year, largely for Model 3 and Y vehicles.",
+      "tags": [
+        "tesla",
+        "ev",
+        "sales"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 103,
+    "summarized": 72,
+    "skipped_promos": 5,
+    "filtered_by_rules": 26,
+    "sources": 12,
+    "email_items_omitted": 0
+  }
+}
