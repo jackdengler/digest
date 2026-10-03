@@ -1,0 +1,883 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T17:42:43+00:00",
+  "hot_topics": [
+    {
+      "topic": "Apple strengthens Mac privacy against AI agents",
+      "synthesis": "Apple is updating macOS privacy settings, specifically \"full-disk access,\" to prevent third-party AI agents like Meta's Muse from improperly accessing user data such as message histories. This change comes after a tech columnist reported Muse referencing his private messages without explicit permission, sparking concerns about AI agents' data access capabilities.",
+      "item_ids": [
+        "11dfdaab9eddd11c",
+        "a09eb5ca47a8c1a5",
+        "96b026f289981528"
+      ]
+    },
+    {
+      "topic": "Meta releases open-source tools for Muse AI gadgets",
+      "synthesis": "Meta has open-sourced code, including SDKs for ESP32 and Raspberry Pi, enabling users to build custom \"Muse gadgets\" that incorporate the company's new AI agent. This initiative allows for DIY projects, such as integrating Muse into displays or other devices, expanding the agent's presence beyond standard applications.",
+      "item_ids": [
+        "cb978bc5ae115919",
+        "89467ab87ad74b0e",
+        "406b9c8c239fc508"
+      ]
+    },
+    {
+      "topic": "Cornell University faces scrutiny over fraternity rape allegations",
+      "synthesis": "Cornell University is under national attention following a civil lawsuit filed by \"Jane Doe\" alleging a group rape at a Chi Phi fraternity house two years ago. The case, which has seen the names of accused men published, has ignited discussions about sexual assault on college campuses, fraternity culture, and the \"battle of the sexes\" dynamics.",
+      "item_ids": [
+        "8094c8692e4e1ccd",
+        "6a1b5f75d670d959",
+        "b2d0d75f3d9d8520"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "747d9f96a5b252d1",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
+      "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
+      "summary": "Amazon committed over $1 billion for communities near its data centers over five years, focusing on local priorities like education and energy affordability. The company also pledged to be \"water positive\" by 2030 and not to increase power bills.",
+      "tags": [
+        "amazon",
+        "data centers",
+        "community"
+      ],
+      "priority": false
+    },
+    {
+      "id": "11dfdaab9eddd11c",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "summary": "Apple is changing its macOS privacy settings to prevent third-party AI agents from misusing full-disk access to read message histories. This move follows an incident where Meta's Muse AI agent reportedly accessed a user's Apple Messages without explicit permission.",
+      "tags": [
+        "apple",
+        "privacy",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4c0f3cf8a2c42d29",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Lyft settles landmark driver misclassification lawsuit for $272.5M",
+      "url": "https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/",
+      "summary": "Lyft settled a lawsuit for $272.5 million with California authorities over allegations of misclassifying drivers as independent contractors rather than employees between 2016 and 2020. This agreement addresses wage theft claims against the ride-hailing company, while a similar case against Uber continues.",
+      "tags": [
+        "lyft",
+        "labor",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2bb5e06180abfcbe",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Someone got Doom in an SQL database",
+      "url": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
+      "summary": "A programmer successfully rendered Doom within an SQL database using CedarDB tables and 1,300 lines of SQL queries to implement game logic. This \"SQLDoom project\" generates full-color 640x480 frames, significantly improving upon a previous grayscale ASCII version.",
+      "tags": [
+        "gaming",
+        "sql",
+        "programming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dc7c9984bbe2b795",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "The dawn of the age of the exoskeleton",
+      "url": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
+      "summary": "Seattle Mountain Rescue is testing powered human exoskeletons to boost rescuers' strength, speed, and endurance when carrying heavy loads or climbing. These devices attach to the body to enhance physical capabilities during critical search operations.",
+      "tags": [
+        "exoskeletons",
+        "rescue",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1c0cf574c4d56f31",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+      "summary": "Tens of thousands of people are protesting across Spain due to the government's failure to pass emergency housing legislation. Over 50 demonstrations are planned as public anger grows over the housing crisis.",
+      "tags": [
+        "spain",
+        "protests",
+        "housing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8094c8692e4e1ccd",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
+      "summary": "A lawyer for \"Jane Doe\" states that the Cornell frat house rape accuser is \"under siege\" online amidst attempts to uncover her identity. This follows a civil lawsuit against Cornell and seven men involved in alleged fraternity rapes.",
+      "tags": [
+        "cornell",
+        "sexual assault",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2d5537a73be3560a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Could El Niño mean there are no Atlantic hurricanes this year?",
+      "url": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
+      "summary": "For the first time in three decades, there has not been a single Atlantic hurricane in September, typically the most active month, possibly due to El Niño. This unusual weather pattern raises questions about the hurricane season's outlook.",
+      "tags": [
+        "weather",
+        "hurricanes",
+        "el nino"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0e89b0c815e244f4",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "EV drivers love their cars, but some passengers feel sick - this could be why",
+      "url": "https://www.bbc.co.uk/news/articles/c3y0zx822wlzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Research indicates that some passengers experience motion sickness in electric vehicles, despite drivers generally loving their cars. Several factors specific to EVs, such as their smooth acceleration and regenerative braking, may contribute to this phenomenon.",
+      "tags": [
+        "electric vehicles",
+        "health",
+        "automotive"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6bc08ef773c7b75c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+      "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+      "summary": "A Flydubai co-pilot, Hamam al-Hammami, is accused by UAE officials of attacking the captain with an axe in an attempt to take over an Israel-bound jet. The incident involves serious allegations against the flight crew member.",
+      "tags": [
+        "aviation",
+        "crime",
+        "uae"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e665d9f1c1aacef4",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+      "summary": "The G7 nations plan to release millions of barrels of oil and diesel in a coordinated effort to prevent further price spikes and avoid a ban on US diesel exports. This action responds to a threat from former President Trump and aims to stabilize energy markets.",
+      "tags": [
+        "energy",
+        "g7",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5b2def40d063235f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
+      "url": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hawaii's ancient 550-year-old Hōlei Sea Arch, a lava rock formation in Volcanoes National Park, has collapsed. The natural landmark crumbled sometime last weekend, altering the coastal landscape.",
+      "tags": [
+        "hawaii",
+        "geology",
+        "natural disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "671cf5ca75adf54f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How widely used is the death penalty in the US?",
+      "url": "https://www.bbc.co.uk/news/videos/c54g1e3yxv0ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The death penalty's prevalence in the US is under renewed discussion after Christa Pike survived two lethal injection attempts in Tennessee. This incident raises questions about the application and methods of capital punishment in the country.",
+      "tags": [
+        "death penalty",
+        "us politics",
+        "justice"
+      ],
+      "priority": false
+    },
+    {
+      "id": "af85c35af8e85e57",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Joker persona helps Cong 'feel the fear' in opponents",
+      "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckq5x5de46ppo?at_medium=RSS&at_campaign=rss",
+      "summary": "MMA fighter Wang Cong uses a \"Joker persona\" to intimidate opponents and dismisses critics ahead of her flyweight world title fight at UFC 332. She is set to face Natalia Silva despite questions about her deservingness.",
+      "tags": [
+        "mma",
+        "ufc",
+        "sports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "09e49f97f8305438",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Kim wins Asian Games gold to secure military exemption",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Golfer Tom Kim secured a military exemption in South Korea after winning a gold medal at the Asian Games. South Korean law grants exemptions from mandatory military service for significant athletic achievements.",
+      "tags": [
+        "golf",
+        "south korea",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6371e19a62202155",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Medical plane with 6 on board missing off Massachusetts coast",
+      "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+      "summary": "A medical plane with six people on board is missing off the coast of Massachusetts after losing communication and significantly dropping in altitude. Search operations are underway following the incident.",
+      "tags": [
+        "aviation",
+        "missing plane",
+        "massachusetts"
+      ],
+      "priority": false
+    },
+    {
+      "id": "010f0998eb144c36",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
+      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia has struck the Pivnichnyi (Northern) Bridge in Kyiv, marking the second major bridge in Ukraine's capital to be hit. This follows repeated attacks on another significant bridge in the city as conflict continues.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a11d5fc4f59281d3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Tennessee prison chief to resign after Christa Pike's failed execution, governor says",
+      "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tennessee's prison chief is set to resign after Christa Pike survived two lethal injections, leaving her in critical condition. The incident has brought scrutiny to the state's execution process and the administration of capital punishment.",
+      "tags": [
+        "death penalty",
+        "tennessee",
+        "justice"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2f7f6c63dfbf16e9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "The South African men trying to end violence against women: 'Every man needs to play a part'",
+      "url": "https://www.bbc.co.uk/news/articles/cm3eqegwpzl4o?at_medium=RSS&at_campaign=rss",
+      "summary": "South Africa is confronting its pervasive issue of violence against women, with men's groups actively working to promote change and end abuse. The discovery of 12 women's bodies near Johannesburg has intensified focus on the problem.",
+      "tags": [
+        "south africa",
+        "violence",
+        "social issues"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ea7a2774db786ea8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
+      "url": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
+      "summary": "A UK-Iranian dual national was bailed after being arrested in Westminster in connection with an incident at RAF Fairford. The 25-year-old had been detained on Thursday for unspecified reasons.",
+      "tags": [
+        "arrest",
+        "uk",
+        "incident"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42ab5174199a216f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
+      "url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
+      "summary": "An Arizona appeals court quashed a road rage killer's sentence because an AI-generated video of the dead victim was shown in court, ruling it \"crossed that line.\" The decision highlights concerns about the use of AI in legal proceedings.",
+      "tags": [
+        "ai",
+        "legal",
+        "court"
+      ],
+      "priority": false
+    },
+    {
+      "id": "efb2f60eb068b272",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Will Spain's housing crisis lead to a snap election?",
+      "url": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Guy Hedgecoe reports from Madrid on the ongoing housing crisis in Spain, where marches have been scheduled after Congress rejected measures to tackle the issue. The situation raises questions about a potential snap election.",
+      "tags": [
+        "spain",
+        "housing",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6f20d4e7c9e7aef5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Women given shorts at Oktoberfest to prevent upskirting",
+      "url": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Women attending Oktoberfest in Munich are being given shorts to help prevent upskirting, following the emergence of thousands of voyeuristic videos online. This measure aims to combat sexual harassment at the festival.",
+      "tags": [
+        "oktoberfest",
+        "harassment",
+        "safety"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e796e92191900cce",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Apple Pass Designer",
+      "url": "https://developer.apple.com/pass-designer/",
+      "summary": "Apple Pass Designer is a developer tool provided by Apple. It assists in the creation and management of passes for Apple Wallet.",
+      "tags": [
+        "apple",
+        "development",
+        "tools"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f304ef2150a4d354",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Cloudflare OHTTP gateway",
+      "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+      "summary": "Cloudflare announced its OHTTP gateway, a new service aiming to enhance internet privacy and security. The blog post details its functionality and benefits.",
+      "tags": [
+        "cloudflare",
+        "networking",
+        "security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "37e9cf119dd8888e",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Extra Big Ass Intelligence",
+      "url": "https://www.extrabigassintelligence.com/",
+      "summary": "\"Extra Big Ass Intelligence\" is presented as a project or concept in the AI space. The article URL points to a dedicated website for this initiative.",
+      "tags": [
+        "ai",
+        "technology",
+        "project"
+      ],
+      "priority": false
+    },
+    {
+      "id": "85edd6138868437b",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "url": "https://dwarfstar.sh/",
+      "summary": "From the creator of Redis, ds4 is introduced as a tool to run large language models (LLMs) locally. This project aims to make LLM execution more accessible on personal machines.",
+      "tags": [
+        "llm",
+        "local ai",
+        "redis"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d3aaaf6afb90385a",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Kolibri Has Landed: A Sovereign Open-Weight Model",
+      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "summary": "Aleph Alpha announced the launch of Kolibri, an open-weight large language model, available for both German and English. The release positions Kolibri as a \"sovereign\" model.",
+      "tags": [
+        "ai",
+        "llm",
+        "open source"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b629e70cf6cd8395",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+      "url": "https://tej.as/blog/aleph-alpha-kolibri",
+      "summary": "Aleph Alpha has released Kolibri, an open-weight large language model (LLM) supporting both German and English languages. This model is designed to provide a \"sovereign\" AI solution.",
+      "tags": [
+        "ai",
+        "llm",
+        "open source"
+      ],
+      "priority": false
+    },
+    {
+      "id": "808617fb0c0822f1",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Make Tmux the OS",
+      "url": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
+      "summary": "An article discusses the concept of making Tmux function as an operating system's user interface, exploring the idea of a \"dream OS UI\" centered around it. It delves into how Tmux could manage the game's timing and display frames.",
+      "tags": [
+        "tmux",
+        "os",
+        "productivity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "406b9c8c239fc508",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Muse Gadgets",
+      "url": "https://gadgets.muse.ai",
+      "summary": "Muse Gadgets are open-source devices that users can build themselves, connecting Meta's Muse AI to various displays, buttons, and sensors. Meta provides SDKs for ESP32 and Raspberry Pi to facilitate these DIY projects.",
+      "tags": [
+        "ai",
+        "hardware",
+        "open source"
+      ],
+      "priority": false
+    },
+    {
+      "id": "45cb2d5d16b5233f",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Newgrounds.com – A community of games, music, and art",
+      "url": "https://www.newgrounds.com/",
+      "summary": "Newgrounds.com is highlighted as a community platform for games, music, and art. The website offers a space for creators and consumers in these creative fields.",
+      "tags": [
+        "community",
+        "art",
+        "gaming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "96b026f289981528",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Updates to Full Disk Access in macOS",
+      "url": "https://developer.apple.com/news/?id=p6zjojqw",
+      "summary": "Apple has issued updates regarding Full Disk Access in macOS to bolster user privacy, especially concerning third-party applications and AI agents. The changes aim to ensure users grant this \"extraordinary level of access\" only through explicit actions.",
+      "tags": [
+        "apple",
+        "macos",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1358327f6feebc2a",
+      "source": "Noahpinion",
+      "source_type": "substack",
+      "title": "The second Trump presidency is a world-historic failure",
+      "url": "https://www.noahpinion.blog/p/the-second-trump-presidency-is-a",
+      "summary": "The second Trump presidency is assessed as a \"world-historic failure\" due to his consistently low approval ratings and erosion of support, even among Republicans. Despite Democratic disarray, public trust has shifted towards Democrats on key issues like the economy and immigration.",
+      "tags": [
+        "trump",
+        "us politics",
+        "public opinion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "54df670911adc4c3",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "4 ways to battle performance anxiety, according to a confidence coach",
+      "url": "https://www.npr.org/2026/10/03/nx-s1-5989391/a-hot-tip-to-battle-performance-anxiety-pretend-flush-a-mistake-down-the-toilet",
+      "summary": "Confidence coach Cindra Kamphoff offers four creative strategies to combat performance anxiety before high-stakes events like races or job interviews. Her advice aims to help individuals overcome jitters and build self-assurance.",
+      "tags": [
+        "self-help",
+        "psychology",
+        "performance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8ffd8b3a8bf69fd4",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "All's fair in love and 'War' — a well-cast, classy-trashy divorce drama",
+      "url": "https://www.npr.org/2026/10/03/nx-s1-5983443/war-hbo-divorce-dominic-west-sienna-miller",
+      "summary": "HBO's \"War\" is introduced as an anthology series focused on London law firms, with its first season portraying a \"classy-trashy\" and nasty divorce drama. Dominic West and Sienna Miller star as a high-profile couple amidst their contentious separation.",
+      "tags": [
+        "tv series",
+        "drama",
+        "hbo"
+      ],
+      "priority": false
+    },
+    {
+      "id": "00ab7501158a3865",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "As Trump's proposed arch looms over D.C., protesters pin their hopes on the midterms",
+      "url": "https://www.npr.org/2026/10/02/nx-s1-5985789/trump-arch-protest-veterans-midterms",
+      "summary": "Democratic lawmakers, veterans, and concerned citizens are protesting Donald Trump's proposed arch in Memorial Circle, hoping lawsuits and upcoming midterms will prevent its construction. Their opposition centers on the monument's location and symbolism.",
+      "tags": [
+        "trump",
+        "protest",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b1d63d28d2c7dd05",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Brazil's big political rematch: What to know about the Brazilian election",
+      "url": "https://www.npr.org/2026/10/02/nx-s1-5989727/brazil-election-lula-bolsonaro-flavio-democracy",
+      "summary": "Brazil is preparing for a high-stakes political rematch between former President Lula and Jair Bolsonaro's son, Flávio, following Lula's narrow victory four years prior. The election represents a critical moment for Brazilian democracy.",
+      "tags": [
+        "brazil",
+        "politics",
+        "election"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7ea5cc5ce0685f03",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Economist Betsey Stevenson breaks down the gender gap in recent hiring reports",
+      "url": "https://www.npr.org/2026/10/03/nx-s1-5989546/economist-betsey-stevenson-breaks-down-the-gender-gap-in-recent-hiring-reports",
+      "summary": "Economist Betsey Stevenson analyzed the gender gap in recent hiring reports, noting the U.S. economy added fewer jobs than anticipated last month, and unemployment rose to 4.2%. She discussed the implications of these economic trends.",
+      "tags": [
+        "economy",
+        "labor",
+        "gender gap"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dc0357426d870164",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "How the system failed us: Former foster youth tell their stories",
+      "url": "https://www.npr.org/2026/10/03/nx-s1-5939829/foster-care-youth-disabilities-failure-voices",
+      "summary": "Former foster youth with disabilities shared their personal stories of navigating the foster care system, highlighting systemic failures. Their narratives shed light on challenges faced and resilience shown.",
+      "tags": [
+        "foster care",
+        "disabilities",
+        "social issues"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3571688295479f03",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "No one expected Leo to be pope — except everyone who knew him as 'Bob'",
+      "url": "https://www.npr.org/2026/10/03/nx-s1-5987816/pope-leo-american-pope-book-excerpt",
+      "summary": "Cardinal Robert Prevost unexpectedly became Pope Leo after the 2025 conclave, despite no one anticipating an American pope. This account details the surprising outcome behind the scenes.",
+      "tags": [
+        "pope",
+        "catholic church",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "26f1bd994bcce837",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Opinion: A Hawk is not the same as a Hawkeye",
+      "url": "https://www.npr.org/2026/10/03/nx-s1-5981300/opinion-a-hawk-is-not-the-same-as-a-hawkeye",
+      "summary": "A Senate hearing highlighted confusion between a \"Hawk\" and a \"Hawkeye\" when discussing basketball teams. This public display of misunderstanding was emphasized to observers.",
+      "tags": [
+        "politics",
+        "humor",
+        "basketball"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e02c0292bb562d5e",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "The price tag on the Ken Paxton rescue mission has Republicans panicking",
+      "url": "https://www.politico.com/news/2026/10/03/paxton-texas-senate-trump-gop-money-woes-01105707",
+      "summary": "Republicans are panicking over the escalating costs of saving Ken Paxton's Senate campaign in Texas, which is becoming a major financial sink. Despite massive spending from GOP groups, internal concerns grow about Trump's commitment and Paxton's \"unforced errors.\"",
+      "tags": [
+        "republicans",
+        "texas",
+        "election"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d4bbc9e042a040f2",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "An A.I. legislator running a cost campaign",
+      "url": "https://www.slowboring.com/p/an-ai-legislator-running-a-cost-campaign",
+      "summary": "Democrat Manny Rutinel is campaigning for office in Colorado's swingiest congressional district, focusing on a \"cost campaign\" strategy. He is actively engaging with voters from his campaign office in Thornton.",
+      "tags": [
+        "election",
+        "colorado",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3161372d105d65fc",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "All the AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "A list has been compiled detailing various AI agents available that can operate within text messaging platforms. These agents range from general assistants to specialized tools for families, travel, and work.",
+      "tags": [
+        "ai agents",
+        "messaging",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bc327a2dfbf367a9",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
+      "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+      "summary": "Jack Dorsey's Bitchat messaging app has become largely unavailable in India following a government order imposing restrictions. This action has significantly impacted the app's presence in the country.",
+      "tags": [
+        "bitchat",
+        "india",
+        "censorship"
+      ],
+      "priority": false
+    },
+    {
+      "id": "89467ab87ad74b0e",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Meta wants your next gadget to be Muse-infused",
+      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "summary": "Meta aims to infuse its Muse AI into a wider range of gadgets, making the code available for free to developers. This strategy encourages users to build custom devices incorporating the AI agent, from TVs to home appliances.",
+      "tags": [
+        "meta",
+        "ai",
+        "open source"
+      ],
+      "priority": false
+    },
+    {
+      "id": "325204cc3d7319ec",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Sanders introduces bill to ban the federal government from using Flock",
+      "url": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
+      "summary": "Senator Sanders introduced a bill proposing to ban federal government agencies from using Flock, a company known for its automated license plate readers. The proposed legislation seeks to extend this prohibition to all such devices used by the federal government.",
+      "tags": [
+        "privacy",
+        "government",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b0d7bcfbd4d3b271",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "summary": "Sean Parker is restructuring Stability AI to focus on music, having secured the backing and funding of major music labels. This marks Parker's return to the music industry with a new AI-centric approach.",
+      "tags": [
+        "ai",
+        "music industry",
+        "stability ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2d0902f0104c1292",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Vessev built an electric ferry that almost flies",
+      "url": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
+      "summary": "Vessev has developed an electric hydrofoil ferry designed to \"almost fly,\" aiming to transform urban and public perceptions of boat travel. This innovative vessel is intended to offer a new mode of sustainable transportation.",
+      "tags": [
+        "electric vehicles",
+        "transportation",
+        "innovation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6a1b5f75d670d959",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Caitlin Flanagan on the ‘Cornell 7’ and the Battle of the Sexes. Plus…",
+      "url": "https://www.thefp.com/p/caitlin-flanagan-on-the-cornell-7",
+      "summary": "Caitlin Flanagan discusses the \"Cornell 7\" scandal involving rape allegations at a fraternity house, highlighting the intense \"battle of the sexes\" on college campuses. She questions why young women continue to attend fraternity parties despite known risks.",
+      "tags": [
+        "cornell",
+        "sexual assault",
+        "social issues"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b2d0d75f3d9d8520",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Caitlin Flanagan: What Was Jane Doe Looking For?",
+      "url": "https://www.thefp.com/p/caitlin-flanagan-jane-doe-frat-parties-cornell",
+      "summary": "Caitlin Flanagan reports on the Cornell University fraternity rape allegations, detailing a civil suit filed by \"Jane Doe\" against Cornell, the fraternity, and seven men. She emphasizes the failure of fraternity members to intervene during the alleged \"free sex\" incident.",
+      "tags": [
+        "cornell",
+        "sexual assault",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2eb6ddff331e010d",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Two Drinks with . . . Marie Gluesenkamp Perez",
+      "url": "https://www.thefp.com/p/two-drinks-with-marie-gluesenkamp-perez",
+      "summary": "Democratic Congresswoman Marie Gluesenkamp Perez, representing Washington state's 3rd District, discusses her success as a moderate who often votes with the GOP. She believes her \"respect for people’s reasonableness\" and willingness to defy party lines contribute to her ability to win in a traditionally Trump-leaning district.",
+      "tags": [
+        "politics",
+        "democrats",
+        "congress"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a482ccb04f569f0c",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "‘East of Eden’ and the Families We Choose to Forgive",
+      "url": "https://www.thefp.com/p/east-of-eden-steinbeck-netflix-book-club",
+      "summary": "John Steinbeck's 1952 novel \"East of Eden\" is being revisited in an online book club, with over 4,000 participants. The moderator highlights the timeless wisdom and immersive descriptions within the narrative, set in California's Salinas Valley.",
+      "tags": [
+        "literature",
+        "book club",
+        "east of eden"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b788c80d710d2570",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "3D movies are finally worth watching",
+      "url": "https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro",
+      "summary": "The viewing experience for 3D movies has significantly improved with the advent of video glasses, making them finally \"worth watching.\" This advancement allows for the desired visual quality, overcoming previous issues of reduced resolution and brightness in theaters.",
+      "tags": [
+        "3d movies",
+        "video glasses",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a09eb5ca47a8c1a5",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "summary": "Apple will implement new limits on \"full disk access\" for Mac in response to heightened risks posed by AI agents, ensuring explicit user action is required for such extensive permissions. This change follows reports of Meta's Muse AI agent accessing user messages without permission.",
+      "tags": [
+        "apple",
+        "mac",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "061d4d20e521e6b1",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "summary": "Capcom is exploring integrating AI technology into game development workflows to address challenges like time-consuming tasks in large-scale productions. Despite previous statements against AI use, the studio's \"REX Project\" presentation suggests a shift towards collaborative AI game creation.",
+      "tags": [
+        "gaming",
+        "ai",
+        "development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cb978bc5ae115919",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "summary": "Meta has open-sourced code that allows users to build their own \"Muse gadgets\" featuring the company's new AI agent. This initiative provides SDKs for platforms like ESP32 and Raspberry Pi, enabling DIY projects to integrate Muse into various displays and devices.",
+      "tags": [
+        "meta",
+        "ai",
+        "open source"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cfcc7930824665b9",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Sling TV drops its one-day cable passes",
+      "url": "https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops",
+      "summary": "Dish-owned Sling TV has discontinued its \"Sling Pass\" feature, which previously allowed users to purchase one-day cable TV access. The feature, launched last year, had faced legal challenges from companies like Disney and Warner Bros. Discovery.",
+      "tags": [
+        "streaming",
+        "tv",
+        "sling tv"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bed364c9ba30e560",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+      "summary": "Splice CEO Kakul Srivastava believes that the prevalence of AI-generated emails is hindering genuine conversations. Throughout her career at companies like Flickr, Yahoo, and GitHub, she has observed the evolving intersection of Silicon Valley and creative industries.",
+      "tags": [
+        "ai",
+        "communication",
+        "tech industry"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 80,
+    "summarized": 60,
+    "skipped_promos": 2,
+    "filtered_by_rules": 18,
+    "sources": 10,
+    "email_items_omitted": 0
+  }
+}
