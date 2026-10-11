@@ -1,0 +1,793 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T18:33:17+00:00",
+  "hot_topics": [
+    {
+      "topic": "Microsoft CEO Satya Nadella on AI Trust and Safety",
+      "synthesis": "Microsoft CEO Satya Nadella has called for a re-evaluation of AI trust architecture, emphasizing the need for transparency and mechanisms like an \"emergency brake.\" He suggests assuming all AI models are \"compromised\" and advocates for systems that provide tamper-proof, human-readable evidence to improve accountability and control.",
+      "item_ids": [
+        "3a9cf2ef274244c5",
+        "e9fc66e37970e7d4"
+      ]
+    },
+    {
+      "topic": "Yandex Data Center Attacks",
+      "synthesis": "Yandex, the Russian tech giant, has been targeted in multiple attacks this week, with its cloud data centers being hit. Ukrainian forces are reportedly responsible for one such strike, which led to the suspension of the company's operations. This marks the third reported incident of a Yandex data center being affected.",
+      "item_ids": [
+        "406565622aca2b5c",
+        "e1577826036b025c"
+      ]
+    },
+    {
+      "topic": "Riyadh Airport Targeted by Houthi Strikes",
+      "synthesis": "Riyadh's international airport has suffered multiple Houthi missile strikes, including two successive attacks on its passenger terminal that resulted in at least 12 fatalities. These ongoing attacks are not only causing physical damage but are also significantly impacting Saudi Arabia's international reputation for stability amid the tense conflict with Yemen's Houthi group.",
+      "item_ids": [
+        "e475c37954cde0a2",
+        "a2b95d01d67ad435",
+        "7e75c5dd3985e8e5"
+      ]
+    },
+    {
+      "topic": "Pope Leo XIV to Undergo Lung Surgery",
+      "synthesis": "Pope Leo XIV is scheduled to undergo lung surgery this week following the discovery of a \"localized nodule\" in his lung. The 71-year-old pontiff stated that the lump was identified at a very early stage.",
+      "item_ids": [
+        "c25ba2ffe1b549b6",
+        "19c332464e3d67be"
+      ]
+    },
+    {
+      "topic": "DOJ Investigates TV Networks Over Trump Coverage",
+      "synthesis": "The US Justice Department is investigating several TV networks, including CNN, MS Now, and Politico, for potential anti-trust violations. This investigation stems from the networks' decision to restrict pool coverage of former President Trump after they were reportedly blocked from White House access, intensifying a conflict over media access.",
+      "item_ids": [
+        "80be52d9d9663b58",
+        "6f8c5c55fcbf3ceb"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "012385aedd9d5b3c",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
+      "url": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/",
+      "summary": "Prime Video has released the full trailer for its new sci-fi series \"Blade Runner 2099,\" set 50 years after the events of \"Blade Runner 2049.\" The show explores a future where replicants have surpassed humans and questions what happens when a species faces its end.",
+      "tags": [
+        "sci-fi",
+        "streaming",
+        "trailer"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1026ee941d6a58ff",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Review: 4-hour Musk documentary feels like two different films",
+      "url": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/",
+      "summary": "A new four-hour documentary titled \"Musk\" by Oscar-winning director Alex Gibney challenges Elon Musk's public image, portraying him as a 21st-century confidence man rather than a visionary inventor. The film covers familiar ground while highlighting Musk's alleged talent for stock pumping and dazzling investors.",
+      "tags": [
+        "documentary",
+        "elon musk",
+        "review"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fd8d1aaebc5d886a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Buildings swept away as flash floods hit central Nepal",
+      "url": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss",
+      "summary": "A flash flood along the Budhi Gandaki River in central Nepal has swept away several buildings and bridges. This incident comes just two months after catastrophic floods previously impacted the country.",
+      "tags": [
+        "nepal",
+        "natural disaster",
+        "flooding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "67042b7a13f34ce5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+      "summary": "A boat carrying 305 people capsized off Djibouti, resulting in the deaths of 139 individuals, including children, according to the UN. The vessel was en route from Djibouti to Yemen when the tragedy occurred.",
+      "tags": [
+        "migration",
+        "disaster",
+        "djibouti"
+      ],
+      "priority": false
+    },
+    {
+      "id": "752fe85a43253cb6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
+      "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of people were detained in Delhi during protests that followed the release of leaders from the 'cockroach' group, who have vowed to continue their fight. The demonstrations occurred despite police restrictions.",
+      "tags": [
+        "india",
+        "protest",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3d75ac534d888176",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+      "url": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
+      "summary": "An expedition is underway to a remote island with the goal of locating Amelia Earhart's lost plane and finally resolving the mystery of her 1937 disappearance. The team hopes to uncover evidence at the suspected crash site.",
+      "tags": [
+        "history",
+        "exploration",
+        "mystery"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c8a8c66fe64ac5e1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Homes and bridges swept away as fresh floods hit Nepal",
+      "url": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fresh floods have struck Nepal, sweeping away homes and bridges, hindering recovery efforts from catastrophic floods that occurred less than two months prior. The country continues to grapple with the devastating impact of natural disasters.",
+      "tags": [
+        "nepal",
+        "natural disaster",
+        "flooding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "47ef68de9f67c1b4",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
+      "url": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Film-maker Sue Kim shares her unique experience of gaining unprecedented access to K-Pop idol Lisa Manobal during a race scandal. Kim discusses witnessing Lisa's candid moments amidst the controversy.",
+      "tags": [
+        "k-pop",
+        "celebrity",
+        "scandal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dc0ea76963591e0e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Poland detains man suspected of planning assassination of PM Tusk",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Polish authorities have detained a man suspected of planning to assassinate Prime Minister Donald Tusk. The arrest follows credible intelligence regarding potential attacks against Tusk and his defense minister.",
+      "tags": [
+        "poland",
+        "politics",
+        "security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6c444a5ae5ddf150",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+      "url": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+      "summary": "Polish Prime Minister Tusk has attributed recent violent attacks in Polish schools, which resulted in one death and multiple injuries, to the online glorification of violence. He emphasized the need to address the impact of such online content.",
+      "tags": [
+        "poland",
+        "social issues",
+        "violence"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c25ba2ffe1b549b6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Pope Leo to have surgery after lump found on lung",
+      "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+      "summary": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "a2b95d01d67ad435",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+      "summary": "While the physical damage from Houthi attacks can be quickly repaired, the Saudi reputation for stability is taking a battering.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "e475c37954cde0a2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Saudi capital airport hit by second Houthi strike in two days",
+      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "e1577826036b025c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+      "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+      "summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "80be52d9d9663b58",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US justice department investigates TV networks over Trump pool coverage",
+      "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+      "summary": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "37209377c443370f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
+      "url": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
+      "summary": "US President Trump stated that it is \"Time for Ukraine to get a new president\" and accused President Volodymyr Zelensky of wanting to \"make problems for the world.\" These remarks indicate a strong critique of Zelensky's leadership.",
+      "tags": [
+        "us politics",
+        "ukraine",
+        "donald trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a175fc3fcbca5e0b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+      "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Young men in Myanmar are reportedly living in fear of being forcibly recruited off the streets to serve in the military. This desperate measure is attributed to the junta's war of attrition against ethnic militias and civilian resistance forces.",
+      "tags": [
+        "myanmar",
+        "conflict",
+        "human rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "406565622aca2b5c",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "3rd Yandex Cloud Data Center Was Hit",
+      "url": "https://status.yandex.cloud/en/incidents/2136",
+      "summary": "Article URL:\nhttps://status.yandex.cloud/en/incidents/2136\nComments URL:\nhttps://news.ycombinator.com/item?id=50040547\nPoints: 439\n# Comments: 531",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "cbfe45aa7c810384",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "A city-building game in which the city would prefer you didn't",
+      "url": "https://housing.over.pizza/",
+      "summary": "A new city-building game is described as one where \"the city would prefer you didn't,\" suggesting a challenging dynamic where the urban environment actively resists the player's development efforts. This premise offers a unique twist on the simulation genre.",
+      "tags": [
+        "gaming",
+        "indie game",
+        "simulation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "18119ea1390f6a86",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Bot traffic from Yandex",
+      "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+      "summary": "Cloudflare Radar has published a report detailing significant bot traffic originating from Yandex. This analysis provides insights into automated internet activity linked to the Russian tech company.",
+      "tags": [
+        "cybersecurity",
+        "bots",
+        "yandex"
+      ],
+      "priority": false
+    },
+    {
+      "id": "67b19606409fd725",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Build your own decision model",
+      "url": "https://nishtahir.com/build-your-own-decision-model/",
+      "summary": "An article guides readers on how to build their own decision models, offering insights into structured approaches for making informed choices. The method aims to enhance analytical thinking and outcome prediction.",
+      "tags": [
+        "data science",
+        "decision making",
+        "programming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "18fb558be9377c92",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "I paid people to try and follow my README",
+      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+      "summary": "An experiment involved paying individuals to follow a project's README file, revealing common challenges in software documentation. The findings underscore the importance of clear and easily understandable instructions for users.",
+      "tags": [
+        "software development",
+        "documentation",
+        "usability"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c7c82f23675fc145",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "IRCv3",
+      "url": "https://ircv3.net/",
+      "summary": "The IRCv3 project is making strides in modernizing the Internet Relay Chat protocol, offering new features and improvements. This initiative aims to update the decades-old chat system for contemporary use.",
+      "tags": [
+        "internet protocols",
+        "chat",
+        "development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f22410397f20c524",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "LineageOS 24.0",
+      "url": "https://lineageos.org/Changelog-32/",
+      "summary": "LineageOS has released version 24.0, with a changelog detailing new features, improvements, and bug fixes for the custom Android operating system. This update continues to provide users with an alternative, de-Googled Android experience.",
+      "tags": [
+        "android",
+        "custom rom",
+        "software update"
+      ],
+      "priority": false
+    },
+    {
+      "id": "937067f64da393bf",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Nitter: Update Oct 10th seeking funding and legal help",
+      "url": "https://nitter.net",
+      "summary": "Nitter, a privacy-focused alternative front-end for Twitter, has issued an update stating it is actively seeking funding and legal assistance. This request indicates potential challenges or expansion plans for the platform.",
+      "tags": [
+        "privacy",
+        "open source",
+        "social media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f6114d853e1e5025",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The tilde in your PATH may not be your HOME",
+      "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+      "summary": "An article highlights potential issues that can arise from using a tilde (~) in the PATH environment variable, advising against this practice. It discusses how the tilde may not always resolve to the user's home directory as expected.",
+      "tags": [
+        "programming",
+        "linux",
+        "security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0d0c7ca8eb5069f4",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Don't be scared: Being afraid is outright fun, and maybe useful",
+      "url": "https://www.npr.org/2026/10/11/nx-s1-5973128/dont-be-scared-being-afraid-is-outright-fun-and-maybe-useful",
+      "summary": "NPR explores the enjoyment derived from fear, delving into why audiences appreciate horror and how being afraid can be a fun and even useful experience. The discussion challenges conventional perceptions of frightening stimuli.",
+      "tags": [
+        "psychology",
+        "horror",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0a39fdca15af035c",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Hurricane Simon nears Mexico with 155 mph winds and flooding fears",
+      "url": "https://www.npr.org/2026/10/11/nx-s1-5998022/hurricane-simon-nears-mexico-155-mph-winds-flooding-fears",
+      "summary": "Hurricane Simon is approaching Mexico's Pacific coast with powerful 155 mph winds, expected to make landfall as an extremely strong storm later today. Residents are bracing for significant flooding fears.",
+      "tags": [
+        "mexico",
+        "hurricane",
+        "natural disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d7f4a91d4e921a4f",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "In one of the country's most competitive districts, a Democrat tries to keep her seat",
+      "url": "https://www.npr.org/2026/10/11/nx-s1-5968691/midterm-elections-washington-congressional-district",
+      "summary": "An incumbent Democrat in a highly competitive Washington congressional district is battling to retain her seat amid discontent from her party's base and broader backlash against the ruling party. Her campaign faces significant challenges from a Trump-backed Republican challenger.",
+      "tags": [
+        "us politics",
+        "elections",
+        "congress"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c91ce626a9c4d492",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "It's taking longer to find a new job after losing one",
+      "url": "https://www.npr.org/2026/10/11/nx-s1-5995238/jobs-employment-economy-unemployment-benefits",
+      "summary": "Individuals who lose their jobs are now taking a longer time to secure new employment, with nearly four in ten exhausting their unemployment benefits before finding work. This trend indicates a challenging job market for job seekers.",
+      "tags": [
+        "economy",
+        "jobs",
+        "unemployment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6f8c5c55fcbf3ceb",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Justice Department investigates TV networks, citing possible anti-trust violations",
+      "url": "https://www.npr.org/2026/10/11/nx-s1-5997574/the-doj-is-investigating-5-tv-networks-for-suspending-pool-coverage-of-trump",
+      "summary": "The move escalates Trump's fight with the press amid court battle over barring CNN, Politico and MS NOW from the White House.\n(Image credit: Alex Brandon)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "7e75c5dd3985e8e5",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Passenger terminal at Riyadh airport is struck again, a day after 12 were killed",
+      "url": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
+      "summary": "A projectile struck a passenger terminal at the international airport in Riyadh on Sunday, a day after a missile hit the same terminal and killed 12 people, officials said.\n(Image credit: AP)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "19c332464e3d67be",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Pope Leo XIV to undergo lung surgery this week",
+      "url": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week",
+      "summary": "Pope Leo XIV said he would undergo surgery after doctors found a \"localized nodule\" in his lung.\n(Image credit: Gregorio Borgia)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "85c7008281725229",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Reshaped civil rights mission at Justice Department transforms its work, workforce",
+      "url": "https://www.npr.org/2026/10/11/g-s1-145063/justice-department-civil-rights-transformed",
+      "summary": "The Justice Department's civil rights mission has undergone significant changes, with hundreds of veteran attorneys replaced by politically aligned individuals. This transformation aims to use the division's enforcement powers to advance the president's agenda.",
+      "tags": [
+        "justice department",
+        "civil rights",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "df09aae74136d91a",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "She was a global star: Teen bikes 700 miles carrying injured dad. Where is she now?",
+      "url": "https://www.npr.org/2026/10/11/g-s1-147267/bicycle-teenager-india-pandemic",
+      "summary": "This article follows up on the global story of a teenager who biked 700 miles carrying her injured father, questioning whether promised financial aid, cycling career training, or movie deals materialized. It explores the aftermath of her widely reported epic journey.",
+      "tags": [
+        "india",
+        "human interest",
+        "social issues"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b032db7393fdbbe7",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Dwarf Fortress uses version control now",
+      "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
+      "summary": "Dwarf Fortress, known for its complex codebase, has finally adopted version control, a significant change from its creators' long-standing practice of not using it. This shift occurred around the time of its successful Steam release in 2023.",
+      "tags": [
+        "gaming",
+        "software development",
+        "version control"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e66ddeb374c2dbb9",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Python 3.15.0 added to actions/python-versions",
+      "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
+      "summary": "Python 3.15.0 has been integrated into `actions/python-versions`, enabling developers to use the stable release for testing within GitHub Actions workflows. This update allows for immediate adoption of the new Python version in CI/CD pipelines.",
+      "tags": [
+        "python",
+        "github actions",
+        "software development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "05551a12a82425b7",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Sunday Thread + Mailbag",
+      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-6f6",
+      "summary": "Ask your questions below.\nRead more",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "09864e38f3f930fb",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "summary": "Apple has disclosed a deal to hire the team and license technology from Huxe, a personalized podcast startup. This move suggests Apple might be venturing into the business of AI-generated podcasts.",
+      "tags": [
+        "apple",
+        "podcasts",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fd2d5d8305946a94",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "summary": "The AI industry is debating whether it can persuade opponents of data center expansion by eliminating non-disclosure agreements. This discussion highlights a potential communication problem within the AI sector regarding its impact on communities.",
+      "tags": [
+        "ai",
+        "data centers",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "560d67ac16b3f1a8",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Dawn Myers is making it easier to style, detangle, and care for curly hair",
+      "url": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/",
+      "summary": "Dawn Myers is innovating curly hair care with her company Richualist, recognized as one of TechCrunch's Battlefield 200 Companies. Her efforts aim to simplify styling, detangling, and overall care for curly hair.",
+      "tags": [
+        "startup",
+        "beauty",
+        "entrepreneurship"
+      ],
+      "priority": false
+    },
+    {
+      "id": "31b0fe9f3f634e98",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
+      "url": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
+      "summary": "Efferon, a Battlefield 200 startup, is working to combat pediatric sepsis by developing blood-purification technology. This innovation aims to reduce the devastating impact of the condition on children.",
+      "tags": [
+        "medtech",
+        "startup",
+        "health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e9fc66e37970e7d4",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "56d7d18b0ed639ed",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
+      "url": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
+      "summary": "A significant roadblock has been cleared for self-driving trucks, signaling progress in the future of transportation. This development underscores the growing role of AI within the mobility sector.",
+      "tags": [
+        "mobility",
+        "self-driving",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4cc79f958d3de65c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "summary": "Several executives believe that voice AI has not yet achieved its \"ChatGPT moment\" due to its inability to consistently grasp important contextual nuances. This limitation often causes the entire voice AI pipeline to malfunction.",
+      "tags": [
+        "voice ai",
+        "ai",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "be9460eedddbc8a3",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "What to know about the landmark Warner Bros. Discovery sale",
+      "url": "https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
+      "summary": "Paramount is planning a historic $111 billion acquisition of Warner Bros. Discovery, a megadeal that continues to develop in the Hollywood entertainment industry. This transaction marks a significant event in media consolidation.",
+      "tags": [
+        "media",
+        "acquisition",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e8162c6466a0c368",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "Elizabeth Gilbert on Love, Loss, and How to Move Through Grief as Grief Moves Through You",
+      "url": "https://www.themarginalian.org/2026/10/10/elizabeth-gilbert-ted-podcast-love-loss/",
+      "summary": "Elizabeth Gilbert discusses grief as an uncontrollable and unpredictable force, much like love, emphasizing the necessity of surrender and humility to navigate its profound, full-body experience. She likens coping with grief to bowing down before a tsunami, allowing it to move through you without resistance.",
+      "tags": [
+        "grief",
+        "psychology",
+        "philosophy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7d2173186feaa522",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+      "summary": "DistroKid has confirmed it is removing songs, including non-AI generated works, in response to a UMG lawsuit alleging the platform created an \"AI-slop pipeline.\" Artists are complaining about their music being removed without prior notice or communication.",
+      "tags": [
+        "music industry",
+        "ai",
+        "copyright"
+      ],
+      "priority": false
+    },
+    {
+      "id": "24114439d1006e98",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "George A. Romero’s Season of the Witch is a slow-burn feminist occult drama",
+      "url": "https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review",
+      "summary": "George A. Romero's lesser-known 1973 film \"Season of the Witch\" (originally \"Hungry Wives\") is described as a slow-burn feminist occult drama. Despite being marketed as an exploitation film, it featured minimal nudity and sex, leading to its initial failure.",
+      "tags": [
+        "film",
+        "horror",
+        "review"
+      ],
+      "priority": false
+    },
+    {
+      "id": "72b40d4bdb68038d",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Horror is big business",
+      "url": "https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil",
+      "summary": "Horror has become a significant business, with the survival horror series Resident Evil celebrating 30 years and its latest game selling 8 million copies. This success is mirrored by a reboot of the Resident Evil film series, highlighting the genre's pervasive popularity.",
+      "tags": [
+        "horror",
+        "gaming",
+        "film"
+      ],
+      "priority": false
+    },
+    {
+      "id": "31c6320ac414abca",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "summary": "An individual is embarking on a journey to use powerful AI models locally, aiming to avoid cloud services and assess the utility and cost-effectiveness of this approach. This personal test seeks to determine if local AI is worth the investment in high-end computer hardware.",
+      "tags": [
+        "ai",
+        "local ai",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3a9cf2ef274244c5",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "summary": "In a\nlengthy post on X\n, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply acce…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "1a86160e551526f4",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The new Apple TV could have a built-in mic and a remote with a speaker",
+      "url": "https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker",
+      "summary": "Rumors suggest the next Apple TV will include a built-in microphone for Siri control and an upgraded remote featuring a speaker to help locate it. These features could also enable the Apple TV to function as a basic smart home hub.",
+      "tags": [
+        "apple tv",
+        "smart home",
+        "rumors"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c1771b6b4e185818",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Vurt wants you to look at vertical videos as a genre of their own",
+      "url": "https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey",
+      "summary": "A new startup named Vurt aims to establish vertical videos as a distinct genre by bringing microdramas to wide-screen televisions. This approach contrasts with most streaming platforms that focus on mobile viewing experiences for vertical content.",
+      "tags": [
+        "streaming",
+        "vertical video",
+        "startup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6da52484b282c0e9",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "What to expect from Apple’s ‘Welcome Home’ event",
+      "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
+      "summary": "Apple's upcoming \"Welcome Home\" event is anticipated to feature refreshes to Apple TV and HomePod Mini, alongside the debut of a new smart home hub and potentially a new homeOS platform. Partner devices from LG are also expected to be announced.",
+      "tags": [
+        "apple",
+        "smart home",
+        "event"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e4cfe95f6d45bfeb",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Why the LeapPad couldn&#8217;t survive the iPad",
+      "url": "https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history",
+      "summary": "A podcast episode explores the LeapPad, a popular smart book that helped children learn to read, and discusses why its manufacturer struggled to maintain success against the rise of the iPad. The gadget presented unique parenting questions despite its educational appeal.",
+      "tags": [
+        "tech history",
+        "educational toys",
+        "podcast"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 61,
+    "summarized": 56,
+    "skipped_promos": 1,
+    "filtered_by_rules": 4,
+    "sources": 9,
+    "email_items_omitted": 0
+  }
+}
