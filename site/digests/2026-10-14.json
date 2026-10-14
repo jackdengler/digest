@@ -1,0 +1,1119 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T18:15:33+00:00",
+  "hot_topics": [
+    {
+      "topic": "OpenAI Faces Employee Security and Trade Secret Allegations",
+      "synthesis": "OpenAI is dealing with several internal security and legal challenges, including a former employee accused of taking product plans to Apple and a current Saudi employee arrested for allegedly planting a hidden recording device. A federal judge has ordered OpenAI to disclose hiring records in connection with the Apple trade secrets case. These incidents highlight growing concerns over intellectual property and employee conduct within the AI giant.",
+      "item_ids": [
+        "5752c34c6ca0e62f",
+        "dcc2881bc65df69c",
+        "6a2aafb1ae8633a5",
+        "d02a34e5a3fe996c",
+        "b4a3f1c982ccadf5"
+      ]
+    },
+    {
+      "topic": "Starlink Restrictions Impact Ukrainian Military Operations",
+      "synthesis": "Ukrainian troops have been affected by unannounced restrictions on Elon Musk’s Starlink satellite internet systems, which caused signal failures at high speeds and disrupted drone operations. A Zelensky aide indicated that these Starlink limitations are linked to the political situation. The system is crucial for Ukraine's defense, allowing them to protect skies and guide drones effectively.",
+      "item_ids": [
+        "34b4cc320753236b",
+        "6093356da65931fd"
+      ]
+    },
+    {
+      "topic": "Pope Leo XIV Diagnosed with Lung Cancer and Undergoes Surgery",
+      "synthesis": "Pope Leo XIV has been diagnosed with lung cancer and is recovering in the hospital after successfully undergoing surgery to remove part of his right lung. Doctors report that the 71-year-old Pope is walking and recovering as expected following the procedure. This health update has drawn international attention.",
+      "item_ids": [
+        "0c4fc2eafe810118",
+        "fd2bb506b48f2033"
+      ]
+    },
+    {
+      "topic": "Republicans Privately Concede Loss of House Control in Midterms",
+      "synthesis": "Senior Republican lawmakers are privately conceding that keeping control of the House of Representatives in the midterm elections is likely impossible, now focusing efforts on limiting losses and preserving the Senate majority. This challenging outlook is partly attributed to President Trump's low polling numbers and unpopular policies, which have made traditionally red states unexpectedly competitive. Civil rights groups are also stepping up efforts to monitor polling places amidst a charged political environment.",
+      "item_ids": [
+        "2308008099e4daa9",
+        "c7bb79e4c3a544c1"
+      ]
+    },
+    {
+      "topic": "Netflix Announces Significant Global Layoffs",
+      "synthesis": "Netflix is set to lay off 1,000 staff members, which represents about 6% of its total global workforce and marks the streaming giant's steepest job cuts since 2022. These reductions will primarily affect its product, tech, legal, and human resources departments. The decision comes as Netflix faces intensifying competition for user attention in the streaming market.",
+      "item_ids": [
+        "7ebbc69b4bf4b8a8",
+        "a4e3245e150ff54b"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "ab506c799db49855",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+      "summary": "Anthropic warns that small AI models could soon create self-replicating malware capable of infecting IoT devices like smart fridges and vacuum cleaners. This new form of computer worm would be challenging to shut down due to its decentralized nature and ability to adapt to unfamiliar devices.",
+      "tags": [
+        "ai",
+        "cybersecurity",
+        "iot"
+      ],
+      "priority": false
+    },
+    {
+      "id": "77a49a0ede15404b",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
+      "url": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/",
+      "summary": "Martin Shkreli, known for illegally hiking drug prices, is accused by the FTC and seven states of \"flagrantly and repeatedly\" violating his lifetime ban from the pharmaceutical industry. He allegedly traded stock in drug companies and discussed the industry during social media livestreams.",
+      "tags": [
+        "pharmaceuticals",
+        "legal",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "93140664517cc02f",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+      "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+      "summary": "Safety researchers report that leading AI image generators from OpenAI and Google are becoming more capable but also worse at blocking explicit content. This non-consensual AI-generated material is spreading unchecked, primarily in private messages and clouds, making intervention at the source crucial.",
+      "tags": [
+        "ai",
+        "ethics",
+        "safety"
+      ],
+      "priority": false
+    },
+    {
+      "id": "78df237aaf42bad4",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Researchers use AI to design proteins that cut up other proteins",
+      "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+      "summary": "Researchers are using AI-based protein design tools to create enzymes capable of cutting specific proteins. This breakthrough could be used to target proteins associated with neurological diseases by modifying the catalytic core of existing proteases.",
+      "tags": [
+        "ai",
+        "biology",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "244e1de63aabba8d",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "The Internet’s undersea backbone is slipping into the danger zone",
+      "url": "https://arstechnica.com/gadgets/2026/10/the-internets-undersea-backbone-is-slipping-into-to-the-danger-zone/",
+      "summary": "The internet's undersea fiber-optic cables, which carry most global traffic, face growing sabotage risks from gray-zone warfare and open conflicts. While most damage comes from human error or natural hazards, a new book highlights an increase in suspicious incidents involving ships damaging this crucial infrastructure.",
+      "tags": [
+        "internet",
+        "infrastructure",
+        "geopolitics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ef2d898707e1c18c",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Trump commercial railing against his enemies kept airing after court blocked it",
+      "url": "https://arstechnica.com/tech-policy/2026/10/trumps-taxpayer-funded-ads-kept-airing-on-tv-the-day-after-judge-blocked-them/",
+      "summary": "Trump commercials, paid for by the US government, continued to air on TV even after a federal judge blocked them for likely violating a law against government-funded propaganda. The ads, some railing against perceived enemies, were ordered to be canceled but still ran.",
+      "tags": [
+        "politics",
+        "media",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "34b4cc320753236b",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Ukraine blindsided by Starlink throttling restrictions and intelligence gaps",
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/",
+      "summary": "Ukrainian troops have been caught off guard by restrictions on Elon Musk’s Starlink satellite Internet systems that disrupted frontline operations, while Kyiv received no warning from its partners of a Russian missile attack on its energy facilities for the second day running, ac…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "b04bcc81e1a401ad",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss",
+      "summary": "A new \"loneliness economy\" is emerging in China, where people hire paid companions to provide warmth and support amidst growing societal loneliness. This industry addresses the increasing demand for personal connection.",
+      "tags": [
+        "china",
+        "society",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b86f0b2b0f8632e5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Are the European Women's World Cup play-offs working?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq0k0x1l8gndo?at_medium=RSS&at_campaign=rss",
+      "summary": "The European Women's World Cup play-offs are proving inefficient, as evidenced by England's easy victory over Greece in round one. This raises questions about the structure's effectiveness in providing competitive qualification matches.",
+      "tags": [
+        "football",
+        "sports",
+        "europe"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7bf4826289474ed2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
+      "url": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Australia's first-ever Michelin stars have been awarded to 11 restaurants, all located in South Australia. The state government reportedly funded incognito inspectors to visit, leading to this concentrated recognition.",
+      "tags": [
+        "food",
+        "australia",
+        "hospitality"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ee58719aabdfb722",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
+      "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Prime Minister Burnham has stated his intention to \"repair bridges\" between Ukraine and the US, as he meets with President Zelensky at Downing Street. This indicates an effort to strengthen diplomatic ties and cooperation.",
+      "tags": [
+        "diplomacy",
+        "ukraine",
+        "us"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1f5f0f98abf91586",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
+      "url": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
+      "summary": "A Singapore-flagged container ship, the GFS Pride, sank in the Strait of Hormuz after being hit by a projectile, though all 21 sailors were safely evacuated. Maritime authorities are investigating the incident.",
+      "tags": [
+        "maritime",
+        "geopolitics",
+        "shipping"
+      ],
+      "priority": false
+    },
+    {
+      "id": "39d94e0d80c6752b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Germany has put a Ukrainian national, Serhii Kuznetsov, on trial, accusing him of plotting to blow up the Nord Stream pipelines four years ago. This marks a significant development in the investigation into the attacks on Russia's gas infrastructure.",
+      "tags": [
+        "geopolitics",
+        "legal",
+        "energy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "134f3c76ffec96d2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Hundreds of thousands of workers on strike across Republic of Ireland",
+      "url": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of thousands of workers are on strike across the Republic of Ireland amid an ongoing pay dispute with the Irish government. This widespread industrial action highlights significant labor unrest.",
+      "tags": [
+        "ireland",
+        "labor",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "eaea344c894d06aa",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Kenya confirms second Ebola case - a relative of the first victim",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
+      "summary": "Kenya has confirmed a second Ebola case, identified as a relative of the first victim who recently arrived from DR Congo. This development signals a potential cluster of the deadly virus.",
+      "tags": [
+        "health",
+        "africa",
+        "disease"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6fff87f9df8a2d29",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Mauritius reels from worst riots in decades after woman shot by police",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo?at_medium=RSS&at_campaign=rss",
+      "summary": "Mauritius is experiencing its worst riots in decades, leading Prime Minister Navin Ramgoolam to impose a curfew, after unrest began over water shortages and escalated when a woman was shot by police. The country is grappling with widespread civil disorder.",
+      "tags": [
+        "mauritius",
+        "protest",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a4e3245e150ff54b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "3df2f6ca1adb2884",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Pictured: Winning entries for Wildlife Photographer of the Year 2026",
+      "url": "https://www.bbc.co.uk/news/articles/cw5y4nv05rp8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Striking images, including an urban coyote and an elephant carrying a dead calf, are among the winning entries for the Wildlife Photographer of the Year 2026. These powerful photographs highlight various aspects of the natural world.",
+      "tags": [
+        "photography",
+        "wildlife",
+        "art"
+      ],
+      "priority": false
+    },
+    {
+      "id": "afa5b8c2ff3f2147",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
+      "url": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "d02a34e5a3fe996c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Saudi employee charged with planting recording device in OpenAI office",
+      "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "6093356da65931fd",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+      "summary": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "b4a3f1c982ccadf5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+      "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "51c30216b263a13c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Turkish police raid opposition TV station, halting live broadcasts",
+      "url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Turkish police raided an opposition TV station, halting live broadcasts, in the latest crackdown on media critical of the president and his government. This action raises concerns about press freedom in Turkey.",
+      "tags": [
+        "turkey",
+        "media",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "84b6189829e27d3a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US inflation rises more than expected - here's what is happening with prices",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "summary": "US inflation rose more than expected to 3.7% in the year to September, primarily driven by higher motor fuel costs. This increase indicates a continued challenge in controlling consumer prices.",
+      "tags": [
+        "economy",
+        "inflation",
+        "us"
+      ],
+      "priority": false
+    },
+    {
+      "id": "516afbf8a2548f41",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Block of flats destroyed in Russian strikes on Ukraine",
+      "url": "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Russian strikes destroyed a block of flats in Ukraine, killing at least three people in Kyiv during overnight attacks. This footage highlights the ongoing devastation caused by the conflict.",
+      "tags": [
+        "ukraine",
+        "conflict",
+        "russia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1b18468529a88d9e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Hong Kong crowds queue to see Van Gogh painting unveiled for first time in 60 years",
+      "url": "https://www.bbc.co.uk/news/videos/ck0e0l3le555o?at_medium=RSS&at_campaign=rss",
+      "summary": "Crowds in Hong Kong queued to see Van Gogh's \"Châtaigniers en fleurs\" (Chestnut Trees in Blossom) unveiled for the first time in 60 years, with the painting expected to fetch record bids at auction. This rare public viewing generated significant cultural interest.",
+      "tags": [
+        "art",
+        "hong kong",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0827714f1d6e3cd5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Witnesses describe 'traumatic' moment man fell out of Six Flags rollercoaster",
+      "url": "https://www.bbc.co.uk/news/videos/cqy8le2mrd0po?at_medium=RSS&at_campaign=rss",
+      "summary": "Witnesses described the \"traumatic\" moment a man fell out of a Six Flags rollercoaster, resulting in one death and other injuries. The incident occurred at a US amusement park.",
+      "tags": [
+        "accident",
+        "safety",
+        "us"
+      ],
+      "priority": false
+    },
+    {
+      "id": "428df06e58f821e0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What if you could turn off your algorithm? Australia is about to try",
+      "url": "https://www.bbc.co.uk/news/videos/ck78pj2qy42po?at_medium=RSS&at_campaign=rss",
+      "summary": "Australia is set to table new legislation requiring big tech companies to allow users to switch off algorithms that recommend content. This move aims to give users more control over their online experience.",
+      "tags": [
+        "australia",
+        "tech policy",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "647efb210acbf30e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What we know about the deadly Six Flags rollercoaster incident in Georgia",
+      "url": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hassan Jihad Ibn Kariem died after reportedly being ejected from a rollercoaster at a Six Flags amusement park in Georgia. Police are investigating the fatal incident.",
+      "tags": [
+        "accident",
+        "safety",
+        "us"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0c4fc2eafe810118",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What we know about the Pope's lung cancer diagnosis",
+      "url": "https://www.bbc.co.uk/news/videos/cwyvrmp9qgrgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Pope is recovering in hospital after a successful surgery to remove part of his right lung.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "9e1c05dd2e4df8c4",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Who's to blame for the toxic haze choking South East Asia?",
+      "url": "https://www.bbc.co.uk/news/articles/ckreyq9re0n0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Anger is rising over the toxic haze choking Southeast Asia, with companies accused of burning land in Indonesia and authorities criticized for failing to stop them. This environmental crisis highlights ongoing ecological and governance issues.",
+      "tags": [
+        "environment",
+        "pollution",
+        "southeast asia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5dc7ee0f83a18ab6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why the lonely in China are hiring 'temporary children'",
+      "url": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The \"loneliness economy\" in China sees individuals hiring \"temporary children\" as companions to combat loneliness, particularly among the elderly. This new industry provides emotional support for those in need.",
+      "tags": [
+        "china",
+        "society",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fbb65c890b911e61",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "World's oldest shipwreck found off coast of Turkey",
+      "url": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
+      "summary": "Archaeologists have discovered the world's oldest shipwreck off the coast of Turkey, dating back approximately 4,700 years to the Early Bronze Age. This significant find offers new insights into ancient maritime history.",
+      "tags": [
+        "archaeology",
+        "history",
+        "discovery"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6fc76dc32197aade",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Amazon pushes up prices across the Internet",
+      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+      "summary": "Amazon is accused of driving up prices across the internet, influencing costs beyond its own platform. This phenomenon suggests a broader impact of Amazon's market practices on online retail.",
+      "tags": [
+        "e-commerce",
+        "amazon",
+        "economics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3a2dd24092b2cb5f",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
+      "url": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
+      "summary": "ICE is reportedly planning a $100 million \"Nightmare\" domestic spy program, called ERO One, according to a report from The Prospect. This program aims to expand surveillance capabilities domestically.",
+      "tags": [
+        "surveillance",
+        "government",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c441200ecc90eee2",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "The US military’s race to make fake blood",
+      "url": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
+      "summary": "The U.S. military is racing to develop shelf-stable synthetic blood components through DARPA's RAPIID program, aiming for deployment by 2029. This initiative seeks to address a chronic shortage of blood, particularly critical for battlefield hemorrhages, which are a leading cause of preventable deaths.",
+      "tags": [
+        "military",
+        "medicine",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "01130cf8fa6d5cdf",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Civil rights advocates plan to send thousands of observers to midterm polling places",
+      "url": "https://www.npr.org/2026/10/14/nx-s1-5991802/election-polling-place-observers",
+      "summary": "For many election cycles, civil rights groups and political parties have fanned out to monitor polling places, but the charged midterm environment has many organizations stepping up efforts this year.\n(Image credit: Olivier Touron)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "71094063e31eb493",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Hands-on with the Ocarina of Time remake, the most ornate Zelda game ever made",
+      "url": "https://www.npr.org/2026/10/14/nx-s1-5961483/preview-zelda-ocarina-of-time-remake-switch-2",
+      "summary": "A hands-on preview of the \"Ocarina of Time\" remake reveals the most ornate Zelda game ever made, showcasing its elaborate new style. This highly anticipated remake brings a classic title to modern audiences.",
+      "tags": [
+        "gaming",
+        "nintendo",
+        "remake"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c7bb79e4c3a544c1",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "In Kansas, a newly competitive Senate race tests limit of Trump's unpopular policies",
+      "url": "https://www.npr.org/2026/10/14/nx-s1-5995633/kansas-senate-race-hamilton-marshall-tossup",
+      "summary": "Kansas voters could send a Democrat to the Senate for the first time in nearly a century — and flip the governor's office back to Republican control, even in what could be a tough year for the GOP.\n(Image credit: Stephen Fowler)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c57e6cdd43add5a5",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "The skincare scheme that led to consumer complaints, lawsuits and a federal investigation",
+      "url": "https://www.npr.org/2026/10/14/nx-s1-5550974/skincare-scheme-mazal-group-investigation",
+      "summary": "An NPR investigation uncovered a skincare scheme where mall stores allegedly targeted older adults and people with disabilities with high-pressure sales tactics and exorbitant bills. The scheme, involving free samples and thousands of dollars in charges, has led to consumer complaints and federal probes.",
+      "tags": [
+        "consumer protection",
+        "fraud",
+        "investigation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9886c075b90ea38b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "These workers help train robots who could one day steal their jobs",
+      "url": "https://www.npr.org/2026/10/14/g-s1-146907/these-workers-help-train-robots-who-could-one-day-steal-their-jobs",
+      "summary": "Factory workers in India are training robots to perform their jobs by wearing GoPro cameras to record their tasks. This initiative raises concerns about job displacement as robots learn to take over manual labor.",
+      "tags": [
+        "robotics",
+        "labor",
+        "india"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6a6fe179c847d0d4",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct",
+      "url": "https://www.npr.org/2026/10/14/g-s1-148027/trump-ambassador-greece-resignation",
+      "summary": "Kimberly Guilfoyle resigned as Trump's ambassador to Greece after facing mounting accusations of improper conduct, with the White House publicly requesting her resignation. Her departure follows controversy.",
+      "tags": [
+        "politics",
+        "diplomacy",
+        "us"
+      ],
+      "priority": false
+    },
+    {
+      "id": "81f51f993423a917",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "VIDEO: The skincare sample is free. What happens next can cost thousands",
+      "url": "https://www.npr.org/2026/10/14/nx-s1-6000621/mazal-group-investigation-documentary",
+      "summary": "An NPR investigation revealed a skincare scheme where aggressive sales tactics and significant charges were used against customers in mall stores. This documentary details how free samples led to thousands of dollars in costs for many.",
+      "tags": [
+        "consumer protection",
+        "fraud",
+        "investigation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fd2bb506b48f2033",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Zelenskyy sits down with NPR. And, Pope Leo diagnosed with lung cancer",
+      "url": "https://www.npr.org/2026/10/14/g-s1-148040/up-first-newsletter-volodymyr-zelenskyy-pope-leo-kimberly-guilfoyle-media-free-speech",
+      "summary": "Ukrainian President Volodymyr Zelenskyy has a sit-down interview with NPR as Russia's full-scale invasion nears the 5-year mark. And, Pope Leo XIV has been diagnosed with lung cancer.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "2308008099e4daa9",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "House control all but gone, top Republicans privately concede",
+      "url": "https://www.politico.com/news/2026/10/14/house-republicans-private-lost-cause-01117673",
+      "summary": "Some top congressional Republicans have privately concluded that it is likely impossible for them to keep control of the House of Representatives in the midterm elections, and they are now focused on limiting the scale of the defeat and salvaging the party’s Senate majority.\nFive…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "a088290656781b35",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Sen. Jon Ossoff: ‘I’m not running for president’",
+      "url": "https://www.politico.com/news/2026/10/13/jon-ossoff-zero-interest-2028-georgia-01117546",
+      "summary": "Sen. Jon Ossoff publicly committed to serving a full six-year Senate term if reelected and stated he has \"zero interest\" in running for president in 2028. This aims to tamp down speculation about his future political ambitions.",
+      "tags": [
+        "politics",
+        "us senate",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "578bd1262071b7fc",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "Triplet of ‘Ghostly’ Galaxies Hints at What Dark Matter Is — and Isn’t",
+      "url": "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/",
+      "summary": "A triplet of \"ghostly\" galaxies, located 65 million light-years away, appears pallid and sparsely illuminated, hinting at the nature of dark matter. Their unusual appearance challenges current understanding of galactic structure and dark matter's role.",
+      "tags": [
+        "astronomy",
+        "dark matter",
+        "science"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1750447094c65a17",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "AI is mass decompiling games. That's both awesome and scary.",
+      "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
+      "summary": "AI is mass decompiling games, a development that is both \"awesome and scary\" for the tech industry and game preservation. This allows for easier porting, modification, and access to old games, but also raises concerns about intellectual property and software theft.",
+      "tags": [
+        "ai",
+        "gaming",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b50c439cfbaaed5a",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "llm-gemini 0.35",
+      "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
+      "summary": "llm-gemini 0.35 now supports the new Gemini 4 Argon model, available via API and subscription, with pricing starting at $2/million input. This model shows strong performance in benchmarks, costing significantly less than competitors for similar tasks despite a planned price increase.",
+      "tags": [
+        "ai",
+        "llm",
+        "pricing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f8fce73217c16b09",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+      "summary": "Anthropic redesigned its source control system, moving from Git to a custom alternative named Scion, due to a dramatic increase in daily code changes. The new system handles 30,000 merges per day and a 100GB main branch history, showcasing extreme scaling requirements for AI development.",
+      "tags": [
+        "software development",
+        "ai",
+        "version control"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c2cf03558e438457",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+      "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+      "summary": "Apate.ai employs AI agents to intentionally get scammed, gathering fraud intelligence for companies rather than focusing on product development or workflow automation. This unique approach allows for proactive fraud detection and prevention.",
+      "tags": [
+        "ai",
+        "cybersecurity",
+        "fraud"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c8fae7ead1ef127a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
+      "url": "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/",
+      "summary": "Cambridge Heavy Industries is secretly building a desktop fusion device, a small, laser-powered system intended to fuel future fusion power plants. This startup aims to advance fusion energy technology on a smaller scale.",
+      "tags": [
+        "energy",
+        "fusion",
+        "deeptech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "af88d5f09b006099",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Cerebras CEO pushes back on AI doomsday warnings",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "summary": "Cerebras CEO Andrew Feldman urged AI leaders to reduce \"doomsday warnings,\" arguing that focusing on risks overshadows AI's potential benefits. He believes the industry should instead emphasize the positive impacts of artificial intelligence.",
+      "tags": [
+        "ai",
+        "ethics",
+        "leadership"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6c5a4f5477ecd1ec",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become ubiquitous household appliances, operating partly on local devices and partly in the cloud. He suggests this will make AI assistance as common as traditional home devices.",
+      "tags": [
+        "ai",
+        "future tech",
+        "consumer electronics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1ec1fc310f0b5cdc",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Deezer will soon let you filter out AI-generated music",
+      "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+      "summary": "Deezer will soon introduce a new toggle allowing users to filter out AI-generated music from their listening experience. This feature is expected to roll out by the end of the year, providing more control over content.",
+      "tags": [
+        "music",
+        "ai",
+        "streaming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dcc2881bc65df69c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+      "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+      "summary": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company’s super intelligence technology.\"",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c1f326a4ab718e67",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+      "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+      "summary": "Floqer's AI agents are designed to research sales prospects, automating a task that traditionally requires significant human effort for B2B revenue teams. This aims to streamline customer research and improve sales efficiency.",
+      "tags": [
+        "ai",
+        "sales",
+        "b2b"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8fc6a3178c2b13e2",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
+      "url": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/",
+      "summary": "Helix Carbon claims it can make iron cheaper and reduce emissions by recycling blast furnace pollution. This process upcycles industrial waste, aiming to improve margins for the steel industry while benefiting the environment.",
+      "tags": [
+        "sustainability",
+        "industry",
+        "innovation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cd9f2905de6f3178",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+      "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+      "summary": "Industrial Next is developing solutions for factory robots to switch complex and delicate tasks in minutes instead of weeks, moving beyond traditional human labor requirements. This innovation aims to enhance manufacturing automation efficiency.",
+      "tags": [
+        "robotics",
+        "manufacturing",
+        "automation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6a2aafb1ae8633a5",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "d5dbc01b129775ef",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Justice Department says North Koreans have infiltrated dozens of US companies",
+      "url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
+      "summary": "The Justice Department warns that North Korean hackers, under sanction, have infiltrated dozens of U.S. companies and are increasingly targeting Americans as facilitators. They aim to establish connections between breached companies and Pyongyang.",
+      "tags": [
+        "cybersecurity",
+        "north korea",
+        "national security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "10be4dcaea4b19fd",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
+      "url": "https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/",
+      "summary": "Mosqitter is transforming its mosquito traps into an AI-powered surveillance network to identify species, monitor populations, and provide early warnings for mosquito-borne diseases. This system leverages hardware for environmental health insights.",
+      "tags": [
+        "ai",
+        "health",
+        "environment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7ebbc69b4bf4b8a8",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Netflix to lay off 1,000 staff amid intensifying competition for user attention",
+      "url": "https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention/",
+      "summary": "Netflix said most of the cuts would affect its product, tech, legal, and human resources departments.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "20646b622cd0aec9",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Prismm helps banks keep inherited money in-house",
+      "url": "https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/",
+      "summary": "Prismm offers a service that helps banks retain inherited money by allowing account holders to grant designated family members early access to their accounts and documents. This aims to simplify estate planning and reduce asset transfers out of the bank.",
+      "tags": [
+        "finance",
+        "estate planning",
+        "banking"
+      ],
+      "priority": false
+    },
+    {
+      "id": "55a1dc3e9206047c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+      "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+      "summary": "Scimplify raised $25 million to challenge China's dominance in critical materials by leveraging AI to improve supply chains and production. The company has seen its annualized revenue run rate triple to $200 million as it expands into the U.S. market.",
+      "tags": [
+        "ai",
+        "materials",
+        "supply chain"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8d7e88d6a7629138",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+      "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+      "summary": "Zenzap, an AI chat app used by organizations like Starbucks and Taco Bell, has raised $44 million with the aim of replacing WhatsApp in the workplace. The app focuses on enterprise communication solutions.",
+      "tags": [
+        "ai",
+        "enterprise",
+        "communication"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a1b5b0de1723ed40",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Allie Beth Stuckey and Deja Foxx: Do We Need Feminism?",
+      "url": "https://www.thefp.com/p/feminism-debate-allie-beth-stuckey-deja-foxx",
+      "summary": "This article explores whether feminism, a movement that historically expanded women's choices and achieved significant progress, has veered from its original purpose. It questions if the movement, once focused on freedom, has become something else.",
+      "tags": [
+        "feminism",
+        "society",
+        "gender"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5f09ad6c191efbc1",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "No, Your Kid Probably Doesn’t Need Extra Time on Tests",
+      "url": "https://www.thefp.com/p/neuropsychologist-test-accomodations-kids",
+      "summary": "A neuropsychologist observes a trend where parents seek learning disability diagnoses for children, often to secure accommodations like extra test time, which can boost academic performance and college entrance exam scores. The author notes a shift in parental expectations, with diagnoses sometimes sought for strategic advantages rather than genuine need.",
+      "tags": [
+        "education",
+        "psychology",
+        "parenting"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bdc611c8a3a1976e",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Future of Israel May Belong to This Man",
+      "url": "https://www.thefp.com/p/future-israel-elections-gadi-eisenkot",
+      "summary": "Gadi Eisenkot, a former military chief, is favored to unseat Benjamin Netanyahu in upcoming Israeli elections, leading polls with his Yashar party. Eisenkot, with a relatable public image and Moroccan descent, is seen as an \"un-Netanyahu\" figure, potentially becoming Israel's first prime minister of Moroccan heritage.",
+      "tags": [
+        "israel",
+        "politics",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f3ca9ad65ba66f1a",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Trump’s Disastrous Diesel Deal",
+      "url": "https://www.thefp.com/p/trump-disastrous-diesel-deal-russia-ukraine",
+      "summary": "President Trump's \"disastrous diesel deal\" refers to the significant rise in diesel prices, up 50% since the Iran war began, exacerbated by the Russia-Ukraine conflict. This presents an acute political and economic problem for his administration ahead of the midterms, despite earlier promises of lower energy costs.",
+      "tags": [
+        "politics",
+        "energy",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a2b65aa20c299901",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Winnie-the-Pooh’s Most Important Lesson",
+      "url": "https://www.thefp.com/p/winnie-the-poohs-important-lesson-heffalumps",
+      "summary": "A.A. Milne's \"Winnie-the-Pooh\" celebrates its 100th anniversary since its initial publication on October 14, 1926, evolving from earlier short stories and poems. The beloved children's classic has left a lasting impact on readers across generations.",
+      "tags": [
+        "books",
+        "culture",
+        "anniversary"
+      ],
+      "priority": false
+    },
+    {
+      "id": "77bfadeec675fc41",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Anbernic’s next dual-screen handheld could replace your aging Nintendo 3DS",
+      "url": "https://www.theverge.com/tech/1011200/anbernic-rg-dds-dual-screen-handheld-emulator-nintendo-3ds",
+      "summary": "Anbernic is developing a new dual-screen handheld, the RG DDS, designed to emulate 3DS, Xbox, and PS3 games with a faster processor and optimized displays. This device aims to be a modern replacement for the Nintendo 3DS, though without the glasses-free 3D effect.",
+      "tags": [
+        "gaming",
+        "hardware",
+        "emulation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5b7b4ce49e3ffe63",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Honey, Xbox shrunk its controller",
+      "url": "https://www.theverge.com/news/1011216/xbox-nano-controller-release-date-pricing",
+      "summary": "Microsoft is introducing the Xbox Nano controller, a smaller, cheaper, pocket-sized controller designed for younger players, smaller hands, or portable gaming. It retains all standard Xbox buttons, supports Xbox Wireless and Bluetooth, and includes a rechargeable battery.",
+      "tags": [
+        "xbox",
+        "gaming",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "267763884eeb3241",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
+      "url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+      "summary": "Microsoft has developed a new machine learning tool that aims to provide more accurate weather forecasts two to six weeks in advance, surpassing the reliability of traditional models. This open-source software, published in Nature, allows for better planning for agriculture and emergency responses.",
+      "tags": [
+        "ai",
+        "weather",
+        "science"
+      ],
+      "priority": false
+    },
+    {
+      "id": "295ccaa670776e28",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "My AI doppelganger tells me what to eat",
+      "url": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
+      "summary": "A senior reviewer experimented with an \"AI digital twin\" for 100 days, feeding it metabolic and body composition data to receive dietary advice. This personalized system demonstrates the potential for AI in health management, offering tailored recommendations based on individual data.",
+      "tags": [
+        "ai",
+        "health",
+        "personalization"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5e226976d40e93d7",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Now you can call anyone with WhatsApp, even if they don&#8217;t have WhatsApp",
+      "url": "https://www.theverge.com/tech/1011202/meta-whatsapp-guest-calls",
+      "summary": "WhatsApp has launched a new guest calling feature, allowing users to invite anyone to a call without requiring them to have an account or the app. Guests join via a call link and access features like hand raising and screen sharing, though the host's approval is always needed.",
+      "tags": [
+        "whatsapp",
+        "communication",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5752c34c6ca0e62f",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+      "summary": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In\na document filed on Wednesday\n, OpenAI accuses the unnamed employee of sending this information to a personal account and then presenting it to Apple leadership, includi…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "d538049c1478342b",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Repairing the iPhone Duo&#8217;s folding screen costs as much as a new iPhone",
+      "url": "https://www.theverge.com/tech/1011245/iphone-duo-repair-costs-applecare",
+      "summary": "Repairing the iPhone Duo's folding screen is very expensive without AppleCare Plus, with inner display damage costing $999 and other damages up to $1,499. Battery service is estimated at $229, highlighting the high cost of maintaining the new device.",
+      "tags": [
+        "apple",
+        "smartphones",
+        "repairs"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d9e033097e80211c",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Sprout Pi adds Bluetooth, streaming, and USB-C to your aging iPod",
+      "url": "https://www.theverge.com/gadgets/1011266/sprout-pi-adds-bluetooth-streaming-and-usb-c-to-your-aging-ipod",
+      "summary": "Sprout Pi and Sprout Pico are new motherboard replacements that upgrade aging iPods with features like Bluetooth, Wi-Fi, USB-C, a microSD card slot, and FLAC playback. These solder-free mods allow for modern audio streaming and wired headset options.",
+      "tags": [
+        "gadgets",
+        "audio",
+        "modding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4485e27506c0d16d",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Square’s new kiosk lets you talk to AI for help with your order",
+      "url": "https://www.theverge.com/tech/1009086/square-kiosk",
+      "summary": "Square is launching the Square Kiosk, new hardware with a touchscreen and an AI-powered conversational voice layer for ordering. This kiosk allows customers to talk to an AI agent, ask questions, and request modifications to their orders in real time.",
+      "tags": [
+        "retail",
+        "ai",
+        "hardware"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 101,
+    "summarized": 80,
+    "skipped_promos": 4,
+    "filtered_by_rules": 17,
+    "sources": 11,
+    "email_items_omitted": 0
+  }
+}
