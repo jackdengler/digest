@@ -1,0 +1,1200 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T17:58:23+00:00",
+  "hot_topics": [
+    {
+      "topic": "AI's Broad Impact and Economic Implications",
+      "synthesis": "Artificial intelligence continues to expand its reach across industries, from YouTube Music labeling AI-generated songs and Epic Games using AI for launcher development, to Amazon launching personal AI devices and Rivian integrating AI agents into cars. While companies like Anthropic show massive revenue growth and innovate with AI-designed chips, the rapid investment raises economic concerns about a potential bubble, drawing parallels to the 19th-century railroad boom. This pervasive integration underscores both the transformative potential and the financial risks associated with the AI era.",
+      "item_ids": [
+        "248f384d30fe26ed",
+        "844a7af54fd0ccc6",
+        "59d5c9aa389f3b08",
+        "0e12a44b9bdb740d",
+        "d1c9431eae75da58",
+        "c96e3dd6711f9e24",
+        "9bd13441b99edfd2",
+        "3a6abff58f8a3668",
+        "48eb8bc03545aa16",
+        "ffaf57127e8f7cb6",
+        "ca11106b2a30f2b6",
+        "d3d5ecf563bea795",
+        "5715b4bf84738f14",
+        "7426b3becb5a2374",
+        "b595f3f302055767",
+        "c06cc1f1cc97b8ec",
+        "efe70908e0a055e2"
+      ]
+    },
+    {
+      "topic": "Scrutiny and Controversy Surrounding Surveillance Technology",
+      "synthesis": "Surveillance technology firm Flock is facing increasing legal and public backlash, with a Georgia man suing the company and a sheriff's office over alleged ALPR-fueled retaliation. Despite concerns from privacy advocates, Flock's CEO defends the technology's crime-fighting benefits and denies canceling contracts with police departments. Conflicting statements from the CEO regarding microphone capabilities versus the company's website further fuel the debate over potential misuse.",
+      "item_ids": [
+        "86d2e18e4d378c6f",
+        "d65d7aaf1f4c1d37",
+        "d7c97c1aed645769",
+        "853a17e794569a17"
+      ]
+    },
+    {
+      "topic": "Trump Reverses Public Execution Livestream Plan",
+      "synthesis": "Former President Donald Trump reversed the decision to livestream the execution of Fort Hood shooter Nidal Hasan, citing public discomfort despite his initial view of it as a deterrent. This cancellation followed widespread condemnation, including calls from retired US generals to stop the \"barbaric\" broadcast, highlighting significant ethical and military policy debates surrounding the unprecedented plan.",
+      "item_ids": [
+        "cb8406166195026b",
+        "6ea47f66df3d236d",
+        "d74963466bac8b15",
+        "055d6f31c0e08be9"
+      ]
+    },
+    {
+      "topic": "Escalating Conflict in the Black Sea and Ukraine",
+      "synthesis": "The Ukraine-Russia conflict continues to intensify, particularly in the Black Sea region, where suspected Russian drone attacks have led to shipping losses and prompted calls for NATO to reinforce anti-drone defenses. Ukraine has resumed strikes on Russian oil refineries, while Starlink internet remains crucial for Ukrainian military communications, with President Zelenskyy emphasizing its life-saving importance. A drone attack also left a tanker ablaze off Romania, highlighting persistent maritime threats.",
+      "item_ids": [
+        "7e7062bd40541d74",
+        "6b480ce480a5a516",
+        "3ac8d3bd18e80b1e",
+        "61c5284159dcb2fd",
+        "8101ceb25c5a29bc",
+        "4479198451a33b65"
+      ]
+    },
+    {
+      "topic": "Deadly School Roof Collapse in Pakistan",
+      "synthesis": "A tragic school roof collapse in northwestern Pakistan killed at least 33 pupils and a teacher, injuring dozens more, after the structure crashed through three classrooms. Reports indicate students heard a \"cracking\" sound moments before the collapse, prompting an emergency response in Peshawar.",
+      "item_ids": [
+        "6c3ad23e6e3821f6",
+        "9ddf63fc0d573311",
+        "98bd5a6a0dfc0040"
+      ]
+    },
+    {
+      "topic": "White House Press Secretary's Credentials and Tenure",
+      "synthesis": "New White House Press Secretary Katie Zacharia is facing scrutiny over her legal credentials, as she reportedly isn't registered with a state bar, prompting the White House to issue a defense. Her brief and nervous public debut has also sparked speculation about her job security, with a former White House communications director offering insights on her potential tenure.",
+      "item_ids": [
+        "06352f304703991a",
+        "21b7b5775a12e04d"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "e7b9d21547221c8d",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "The ladder of knowledge",
+      "url": "https://aeon.co/essays/the-century-long-search-for-the-limits-to-knowledge",
+      "summary": "This item links to an essay discussing the century-long search for the limits of knowledge, suggesting that what is considered \"true\" evolves as understanding progresses.",
+      "tags": [
+        "philosophy",
+        "knowledge",
+        "science"
+      ],
+      "priority": false
+    },
+    {
+      "id": "85067d2f17ee53ee",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "The secrets of Hohle Fels cave",
+      "url": "https://aeon.co/videos/hohle-fels-cave-illuminates-the-rich-symbolic-world-of-ice-age-humans",
+      "summary": "This item links to an article or video exploring the secrets of Hohle Fels cave and ancient bird figurines, suggesting art's role in human evolutionary success.",
+      "tags": [
+        "archaeology",
+        "history",
+        "art"
+      ],
+      "priority": false
+    },
+    {
+      "id": "844a7af54fd0ccc6",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
+      "url": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
+      "summary": "Epic Games has released a new \"Preview\" build of its launcher, claiming it's faster and more responsive than its predecessor, achieved through \"vibe coding\" and AI tools used to rewrite the code base from scratch for efficiency. This new launcher supports Windows and Mac, with a Linux version planned.",
+      "tags": [
+        "epic games",
+        "launcher",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "86d2e18e4d378c6f",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Georgia man sues Flock, sheriff's office over alleged ALPR-fueled retaliation",
+      "url": "https://arstechnica.com/tech-policy/2026/10/georgia-man-sues-flock-sheriffs-office-over-alleged-alpr-fueled-retaliation/",
+      "summary": "A Georgia man is suing Flock and the Coweta County Sheriff’s Office, alleging illegal license plate tracking searches without probable cause and retaliation after he previously sued the department. The lawsuit claims Flock lacked safeguards to prevent such surveillance abuses.",
+      "tags": [
+        "surveillance",
+        "alpr",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c868f237be5339d1",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer",
+      "url": "https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/",
+      "summary": "Greta Gerwig, director of \"Barbie,\" chose to adapt C.S. Lewis's \"The Magician's Nephew\" for Netflix, drawing inspiration from 1960s David Bowie for a psychedelic trailer set to \"Stairway to Heaven.\" This film is a prequel in \"The Chronicles of Narnia\" series, which has seen previous adaptations with diminishing returns.",
+      "tags": [
+        "film",
+        "netflix",
+        "fantasy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7e7062bd40541d74",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping",
+      "url": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/",
+      "summary": "Suspected Russian drone attacks in the Black Sea, which sank a cargo ship and forced evacuation of another near Bulgaria, have led to requests for NATO to redeploy counter-drone systems. These incidents, including attacks on five ships in NATO member exclusive economic zones, suggest Russia's interests are served by disrupting Ukrainian-operated vessels.",
+      "tags": [
+        "nato",
+        "drones",
+        "black sea"
+      ],
+      "priority": false
+    },
+    {
+      "id": "21551f1e735ef2f0",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Schools across US protest FCC plan that could disconnect kids from Internet",
+      "url": "https://arstechnica.com/tech-policy/2026/10/schools-libraries-plead-with-fcc-to-scrap-idea-of-killing-2b-broadband-program/",
+      "summary": "US schools and libraries are urging the FCC not to end E-Rate, a $2 billion annual program vital for connecting students to the internet, which FCC Chairman Brendan Carr proposes limiting or sun-setting. Carr argues the program has expanded beyond its original purpose and has contributed to excessive student screen time.",
+      "tags": [
+        "fcc",
+        "e-rate",
+        "internet"
+      ],
+      "priority": false
+    },
+    {
+      "id": "248f384d30fe26ed",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
+      "url": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/",
+      "summary": "YouTube Music is rolling out a new label to indicate when songs are created using generative AI tools, building on similar disclosures in the main YouTube app. This initiative aims to inform users, although Google does not ban or speak ill of AI music, acknowledging its creative potential.",
+      "tags": [
+        "youtube",
+        "ai",
+        "music"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a539cefad3be7171",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'Nowhere to escape' - Indonesians share footage of orange haze blanketing towns",
+      "url": "https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Indonesians shared footage of a thick orange haze covering towns in Palangka Raya, caused by ongoing wildfires in the vicinity.",
+      "tags": [
+        "indonesia",
+        "wildfires",
+        "environment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ac7572d188db84c6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Actor Imran Khan ordered to leave India after participating in protest",
+      "url": "https://www.bbc.co.uk/news/articles/ck3r5pv5j1g1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Bollywood actor Imran Khan has been ordered to leave India after being detained and released for participating in a protest in Mumbai.",
+      "tags": [
+        "india",
+        "protest",
+        "celebrity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8b3377a42a9c0364",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "As Christmas rush looms, how do China-made toys find their way to the US?",
+      "url": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
+      "summary": "This article traces the journey of China-made toys from factories to US shelves as the Christmas festive season approaches.",
+      "tags": [
+        "trade",
+        "manufacturing",
+        "supply chain"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6c3ad23e6e3821f6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+      "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
+      "summary": "A school roof collapse in Pakistan killed at least 33 pupils and a teacher, burying children under debris after it crashed through three classrooms. Emergency services responded to the incident in Peshawar.",
+      "tags": [
+        "pakistan",
+        "disaster",
+        "accident"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8051ddb53e9278eb",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "At the Brooklyn shop in 'surreal' row with Kelly Clarkson over mechanical bird",
+      "url": "https://www.bbc.co.uk/news/articles/cxvgdneplgzeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Art of Play, a Brooklyn shop, is embroiled in a dispute with singer Kelly Clarkson, whose online complaint about her treatment there led to staff receiving threats.",
+      "tags": [
+        "retail",
+        "celebrity",
+        "dispute"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3e5ff90499f8237e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Australian woman charged with lacing colleague's curry with snail poison",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3gnep35gko?at_medium=RSS&at_campaign=rss",
+      "summary": "An Australian woman has been charged with lacing her colleague's curry with snail poison, after the alleged victim, who was in a relationship with her, discovered bright green pellets in the meal.",
+      "tags": [
+        "crime",
+        "australia",
+        "food safety"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e2b2cd03596342ca",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Brazil's Congress approves shorter working week in win for Lula",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss",
+      "summary": "Brazil's Congress has approved a shorter working week, a measure that supporters of President Lula hope will boost his popularity ahead of an upcoming presidential run-off election.",
+      "tags": [
+        "brazil",
+        "labor",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b258054e86845e61",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How backlash against data centres could shape the US midterm elections",
+      "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
+      "summary": "Growing backlash against data center development across the US is influencing both Democratic and Republican politicians, potentially shaping the upcoming midterm elections.",
+      "tags": [
+        "data centers",
+        "politics",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "be4edfe80ff7841d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds",
+      "url": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Verify has found that hundreds of Israeli Defense Forces (IDF) investigations into alleged killings over the past three years still lack public outcomes. The Israeli military has been accused of harm in 254 incidents it is reviewing.",
+      "tags": [
+        "israel",
+        "idf",
+        "human rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f17cf737907fbbd2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Indian woman and boyfriend get death sentence in 'blue drum' murder case",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy435gd311o?at_medium=RSS&at_campaign=rss",
+      "summary": "An Indian woman and her boyfriend have received a death sentence in the \"blue drum\" murder case, where the victim's body was found in a large plastic storage container.",
+      "tags": [
+        "india",
+        "crime",
+        "justice"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7379a002f44e0fec",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "North Korea and China open new bridge after 12-year delay",
+      "url": "https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss",
+      "summary": "North Korea and China have opened a new bridge after a 12-year delay, enhancing trade between China, North Korea's largest trading partner and a crucial lifeline against sanctions.",
+      "tags": [
+        "north korea",
+        "china",
+        "trade"
+      ],
+      "priority": false
+    },
+    {
+      "id": "daaad979d4b88b05",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Obama says drift towards extremism 'not inevitable'",
+      "url": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Barack Obama addressed over 12,000 people, stating that the global drift towards extremism is not inevitable, as he shared his perspective on current world challenges.",
+      "tags": [
+        "obama",
+        "politics",
+        "extremism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d74963466bac8b15",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss",
+      "summary": "A group of 72 retired US generals has urged the Pentagon to cancel the planned livestream of Nidal Hasan's execution, arguing it would \"taint the honor of the military\" and the nation.",
+      "tags": [
+        "execution",
+        "military",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6b480ce480a5a516",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia claims Ukraine attacked an oil refinery, following Ukrainian President Zelenskyy's announcement that strikes on energy sites would resume after a pause. This indicates an escalation in the ongoing conflict.",
+      "tags": [
+        "russia",
+        "ukraine",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "54d18f0e022fc740",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
+      "url": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po?at_medium=RSS&at_campaign=rss",
+      "summary": "A school headscarf ban in Azerbaijan has triggered rare protests and a diplomatic dispute with Turkey, as pupils wearing hijabs were turned away from schools.",
+      "tags": [
+        "azerbaijan",
+        "turkey",
+        "education"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3ac8d3bd18e80b1e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
+      "url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
+      "summary": "A search and rescue operation is underway in the Black Sea after a drone attack left a tanker ablaze off Romania's coast, with seven crew members missing. This marks the latest attack in the region.",
+      "tags": [
+        "black sea",
+        "drone attack",
+        "shipping"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1fa4c95df48c069f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Student protesters attack government buildings in Albania",
+      "url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "6ea47f66df3d236d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+      "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump has canceled the planned livestream of Nidal Hasan's execution by firing squad, stating that many people would prefer not to watch the killing. This decision comes despite it being the first military execution in over 60 years.",
+      "tags": [
+        "trump",
+        "execution",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "308c0703eec7725b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+      "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Istanbul experienced its heaviest rainfall in 84 years, resulting in two deaths, and residents were advised to stay indoors.",
+      "tags": [
+        "istanbul",
+        "weather",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9ddf63fc0d573311",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Pupils heard 'cracking' sound heard moments before Pakistan school roof collapse",
+      "url": "https://www.bbc.co.uk/news/videos/cmq8n5gv1pnpo?at_medium=RSS&at_campaign=rss",
+      "summary": "A BBC Urdu correspondent reports from Peshawar, Pakistan, where pupils heard a \"cracking\" sound moments before a school roof collapsed, killing at least 33 and a teacher.",
+      "tags": [
+        "pakistan",
+        "disaster",
+        "accident"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8101ceb25c5a29bc",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
+      "url": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukrainian President Volodymyr Zelenskyy reportedly told Elon Musk that any restriction on the Starlink system's use would cost lives in the Ukraine-Russia war.",
+      "tags": [
+        "starlink",
+        "ukraine",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "06352f304703991a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "White House defends new press secretary over her legal credentials",
+      "url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
+      "summary": "The White House is defending its new press secretary, Katie Zacharia, after questions arose about her legal credentials, as she does not appear to be registered to the legal bar in any state where she has lived.",
+      "tags": [
+        "white house",
+        "politics",
+        "media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "61c5284159dcb2fd",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+      "summary": "Starlink internet is considered the \"backbone of military communications\" in Ukraine, providing vital high-speed internet to forces across the country amidst the ongoing conflict.",
+      "tags": [
+        "starlink",
+        "ukraine",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e719f0276bf80a33",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "I Know Why the Mathematicians Weep",
+      "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+      "summary": "Article URL:\nhttps://www.derekthompson.org/p/i-know-why-the-mathematicians-weep\nComments URL:\nhttps://news.ycombinator.com/item?id=50103630\nPoints: 226\n# Comments: 338",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "24286c9427d1e93f",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+      "url": "https://libreboot.org/news/libreboot2610.html",
+      "summary": "This Hacker News item provides a link to an announcement regarding the release of Libreboot 26.10, which now includes UEFI and Chromebook support.",
+      "tags": [
+        "libreboot",
+        "software",
+        "open source"
+      ],
+      "priority": false
+    },
+    {
+      "id": "98c3e7cf0f2d691a",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "OpenCode 2.0",
+      "url": "https://anoma.ly/notes/opencode-2-0/",
+      "summary": "This Hacker News item provides a link to an announcement about \"OpenCode 2.0.\"",
+      "tags": [
+        "software",
+        "open source",
+        "development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "31d7681b309d8798",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Show HN: Unfenced – Land for sale that borders public land",
+      "url": "https://unfenced.land/",
+      "summary": "This Hacker News item is a \"Show HN\" submission for \"Unfenced,\" a platform offering land for sale that borders public land.",
+      "tags": [
+        "real estate",
+        "public land",
+        "startup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7426b3becb5a2374",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+      "summary": "This Hacker News item provides a link to an article about the Simons Foundation launching a $15M effort to help mathematicians navigate the AI era.",
+      "tags": [
+        "ai",
+        "mathematics",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0b40018a1b507c26",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Tiny Little Office",
+      "url": "https://tinylittleoffice.com/",
+      "summary": "This Hacker News item provides a link to a website or project named \"Tiny Little Office.\"",
+      "tags": [
+        "productivity",
+        "software",
+        "startup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3f884f5ef20fe9bc",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Wayland desktop for Linux with skeuomorphic design",
+      "url": "https://github.com/fyzugx/DEsk",
+      "summary": "This Hacker News item provides a link to a GitHub project for a Wayland desktop environment for Linux featuring a skeuomorphic design.",
+      "tags": [
+        "linux",
+        "desktop",
+        "wayland"
+      ],
+      "priority": false
+    },
+    {
+      "id": "73dd773d26422482",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Zero-Click Spyware Delivered via Targeted Ads: AdFection",
+      "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+      "summary": "This Hacker News item links to research on \"AdFection,\" a zero-click spyware delivered through targeted online advertisements.",
+      "tags": [
+        "spyware",
+        "cybersecurity",
+        "ads"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cd9a33afa0735be8",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "Pig kidneys that were “frozen” for a year have been brought back to life",
+      "url": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/",
+      "summary": "Scientists have successfully rewarmed pig kidneys, similar in size to human ones, after being vitrified at -150 °C for over a year, demonstrating they could function and produce urine when transplanted. This breakthrough, achieved by infusing organs with iron oxide nanoparticles and rewarming them with an electromagnetic field, marks a significant step towards long-term organ banking and improving transplant outcomes.",
+      "tags": [
+        "biotech",
+        "medicine",
+        "cryopreservation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "efe70908e0a055e2",
+      "source": "Noahpinion",
+      "source_type": "substack",
+      "title": "AI vs. the railroads",
+      "url": "https://www.noahpinion.blog/p/ai-vs-the-railroads",
+      "summary": "The AI data center boom is compared to the 1873 railroad bust, with concerns about massive borrowing and the potential for a financial blowup if AI revenue growth slows. AI infrastructure spending, now one of the largest in American history, has led hyperscalers like Amazon and Google to increasingly borrow money, creating financial risk previously mitigated by cash payments.",
+      "tags": [
+        "ai",
+        "economy",
+        "investment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5e736f27741e47e2",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Greetings from Mexico City, where a bullfighting ban doesn't stop this matador training",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-6001550/mexico-city-bullfighting-ban-matador-training",
+      "summary": "In Mexico City, despite a bullfighting ban, a pair continues to practice the art, with one playing the bull and the other the matador.",
+      "tags": [
+        "mexico city",
+        "culture",
+        "bullfighting"
+      ],
+      "priority": false
+    },
+    {
+      "id": "087dea3eb7d54c5a",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Make a 'sick day' kit for cold and flu season before your household gets hit",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-6001703/essential-items-to-stock-in-your-medicine-cabinet-for-cold-and-flu-season",
+      "summary": "Ahead of cold and flu season, it's advised to prepare a \"sick day\" kit with essential medications and comfort items for the household.",
+      "tags": [
+        "health",
+        "wellness",
+        "cold and flu"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dae01a1a1f7e9551",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-5998698/morning-news-brief",
+      "summary": "A morning news brief covers Trump's campaign tour before midterms, Ukraine's limited access to Starshield, and Houthi rebel attacks on a Saudi oil company.",
+      "tags": [
+        "politics",
+        "news brief",
+        "trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "98bd5a6a0dfc0040",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "School roof collapse kills at least 29, injures more than 3 dozen in Pakistan",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-6003437/school-roof-collapse-pakistan",
+      "summary": "In northwestern Pakistan, a private school roof collapsed, killing at least 28 children and a female teacher, and injuring over 50 others.",
+      "tags": [
+        "pakistan",
+        "disaster",
+        "accident"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ad4c8ebc8aff73e5",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "These swing voters regret voting for Trump and it's influencing their midterm choices",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-6001714/georgia-swing-voters-focus-groups",
+      "summary": "In Georgia, some swing voters express deep frustration and disappointment with President Trump, influencing their decisions for the upcoming midterm elections.",
+      "tags": [
+        "politics",
+        "elections",
+        "trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "055d6f31c0e08be9",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump cancels public execution, but a line may already have been crossed",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-6001794/fort-hood-execution-hegseth-christian-nationalist",
+      "summary": "Trump canceled the public execution of Fort Hood shooter Nidal Hasan after Defense Secretary Hegseth's livestream announcement drew widespread condemnation, but the incident highlighted a controversial stance within Hegseth's church.",
+      "tags": [
+        "trump",
+        "execution",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4479198451a33b65",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
+      "url": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war",
+      "summary": "Ukrainian drones attacked a Russian refinery in the Ryazan region after President Zelenskyy declared an end to a brief truce.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b595f3f302055767",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+      "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+      "summary": "Anthropic reported a nearly 50% increase in quarterly revenue to $16.8 billion in Q3, ahead of its IPO, with significant growth in Q1 and Q2. The company also reduced \"distillation,\" where rivals train models on Anthropic's outputs, which previously accounted for 5-7% of its revenue.",
+      "tags": [
+        "anthropic",
+        "ai",
+        "revenue"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c06cc1f1cc97b8ec",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Tree Appreciator",
+      "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
+      "summary": "This article discusses \"Tree Appreciator,\" a Three.js game experiment created with Claude Opus 5.5 Max, where players appreciate differences between algorithmically generated trees. The author noted Claude's effectiveness at creating engaging game mechanics when prompted to \"make sure it is fun.\"",
+      "tags": [
+        "ai",
+        "game design",
+        "claude"
+      ],
+      "priority": false
+    },
+    {
+      "id": "22fca6d4e5e16f35",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Paying Whole Foods prices for a losing basket",
+      "url": "https://www.slowboring.com/p/paying-whole-foods-prices-for-a-losing",
+      "summary": "With Election Day approaching, political polls and sentiment continue to shift leftward, causing concern among senior Republican lawmakers.",
+      "tags": [
+        "politics",
+        "elections",
+        "republicans"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c96e3dd6711f9e24",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "AI agents are coming to Rivian’s cars",
+      "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+      "summary": "Rivian plans to integrate AI agents into its vehicles, with more details expected at the company's upcoming \"AI & Autonomy Day\" event in December.",
+      "tags": [
+        "rivian",
+        "ai",
+        "automotive"
+      ],
+      "priority": false
+    },
+    {
+      "id": "48eb8bc03545aa16",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+      "summary": "Amazon-owned Bee has released two new personal AI devices, including an updated wearable and a credit-card-sized recorder, designed to summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping. Prices for these devices start at $74.99.",
+      "tags": [
+        "amazon",
+        "ai",
+        "wearable"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2cde6c4a543753dd",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
+      "url": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
+      "summary": "Jio is seeking to raise $3.2 billion in what could be India's largest IPO, primarily to repay debt and fund its expansion beyond telecommunications.",
+      "tags": [
+        "jio",
+        "ipo",
+        "india"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5715b4bf84738f14",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+      "url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+      "summary": "CedarDB is developing a database engine designed to handle both transactional and analytical data, a unified approach gaining relevance with the increasing use of agentic AI.",
+      "tags": [
+        "database",
+        "ai",
+        "data management"
+      ],
+      "priority": false
+    },
+    {
+      "id": "add37405e2706af2",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Citizen Lab says governments are abusing online ads to hack people with ‘zero-click’ spyware",
+      "url": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/",
+      "summary": "Citizen Lab has reported that governments are exploiting online advertising to deploy \"zero-click\" spyware, citing evidence of dozens of Al Jazeera devices being hacked via malicious ads. This indicates a concerning new method for state-sponsored digital espionage.",
+      "tags": [
+        "spyware",
+        "cybersecurity",
+        "government"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9b57383bbfbeb201",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Electric vehicle sales in the US are showing signs of life",
+      "url": "https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/",
+      "summary": "Electric vehicle sales in the U.S. have shown signs of recovery, with growth observed for three consecutive quarters.",
+      "tags": [
+        "ev",
+        "automotive",
+        "sales"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ffaf57127e8f7cb6",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Figma announces new features to define how agents work on its platform",
+      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "summary": "Figma is rolling out new features to regulate how AI agents operate on its platform and has also released its code layers feature in open beta.",
+      "tags": [
+        "figma",
+        "ai",
+        "design"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d65d7aaf1f4c1d37",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
+      "url": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
+      "summary": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology, arguing its crime-fighting benefits outweigh privacy concerns despite national backlash.",
+      "tags": [
+        "flock",
+        "surveillance",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d7c97c1aed645769",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+      "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+      "summary": "Flock CEO Garrett Langley stated its microphones only detect gunshots, but the company's website indicates they detect other sounds, leading to increased scrutiny from privacy advocates like the ACLU.",
+      "tags": [
+        "flock",
+        "surveillance",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "853a17e794569a17",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Flock CEO: We haven’t ‘fired’ any police departments as customers",
+      "url": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/",
+      "summary": "Flock CEO Garrett Langley denied reports of the surveillance company canceling contracts with police departments or law enforcement agencies, despite accusations of technology misuse.",
+      "tags": [
+        "flock",
+        "surveillance",
+        "police"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3a6abff58f8a3668",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Google’s Universal Cart shopping tool launches in the US",
+      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+      "summary": "Google has launched its new Universal Cart shopping tool in the U.S., making it available across Google Search and the Gemini app to streamline the online shopping experience.",
+      "tags": [
+        "google",
+        "shopping",
+        "e-commerce"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d3d5ecf563bea795",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "summary": "Gudea, describing itself as a \"storm tracker for the internet,\" uses AI to identify and mitigate potential social media crises for organizations before they escalate.",
+      "tags": [
+        "ai",
+        "social media",
+        "crisis management"
+      ],
+      "priority": false
+    },
+    {
+      "id": "75c369bfbe4cd59d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
+      "url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
+      "summary": "Intero Biosystems is selling lab-grown human intestines to drugmakers, aiming to provide an alternative to animal testing as regulators push for such options. The startup plans to scale production and expand its organoid technology.",
+      "tags": [
+        "biotech",
+        "medical",
+        "animal testing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9bd13441b99edfd2",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
+      "url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
+      "summary": "Ramp has achieved a $60 billion valuation, driven by its annualized revenue exceeding $2 billion and a customer base of 85,000, as it increases its focus on AI integration.",
+      "tags": [
+        "ramp",
+        "valuation",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ca11106b2a30f2b6",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "summary": "Ricursive Intelligence is developing AI that can design chips, learn from iterations, and improve subsequent designs to automate and accelerate the chip design process. This approach aims to address the growing compute crisis by making chip development more efficient.",
+      "tags": [
+        "ai",
+        "semiconductors",
+        "chip design"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e8591bd5b178ea13",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
+      "url": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
+      "summary": "SK Hynix's Solidigm is reportedly seeking U.S. approval to export more chipmaking equipment to its China facility, in exchange for potentially building a new NAND chip factory in the United States.",
+      "tags": [
+        "sk hynix",
+        "semiconductors",
+        "us-china"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d1c9431eae75da58",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Volvo makes a bigger bet on Nvidia",
+      "url": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/",
+      "summary": "Volvo is strengthening its automated driving system by expanding its long-standing partnership with Nvidia, extending beyond its battery electric vehicles.",
+      "tags": [
+        "volvo",
+        "nvidia",
+        "automotive"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4a9661c65148d996",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Has Sally Rooney Been Censored? Plus. . .",
+      "url": "https://www.thefp.com/p/sally-rooney-katie-zacharia-press-secretary-dating",
+      "summary": "This article questions if Sally Rooney has been censored after her publisher pulled her books from British stores because she pledged royalties to Palestine Action, a designated terrorist organization. The issue is framed as whether Britain's designation of the group justifies the publishing decision under anti-terror law.",
+      "tags": [
+        "sally rooney",
+        "censorship",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ed9a5660bb11053b",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "How Debanking Took Hold Inside the Biggest Banks",
+      "url": "https://www.thefp.com/p/debanking-investigation-trump-rupa-subramanya",
+      "summary": "Federal regulators, specifically the Office of the Comptroller of the Currency (OCC), have confirmed that nine of the largest US banks had policies between 2020 and 2025 that may have led to \"debanking\" customers based on political or religious beliefs. This finding contradicts earlier dismissals of debanking as a conspiracy.",
+      "tags": [
+        "banking",
+        "finance",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "21b7b5775a12e04d",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "How Long Will Katie Zacharia Last as Press Secretary? We Asked Anthony Scaramucci.",
+      "url": "https://www.thefp.com/p/katie-zacharia-anthony-scaramucci-trump-press",
+      "summary": "Anthony Scaramucci, a former White House communications director, offers insights into how long new Press Secretary Katie Zacharia might last after a brief and nervous debut. Scaramucci, known for his short tenure, advises Zacharia and comments on the speculation surrounding her job security.",
+      "tags": [
+        "white house",
+        "politics",
+        "media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d3e5a8e5e541bc5d",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Sally Rooney Is No Free Speech Hero",
+      "url": "https://www.thefp.com/p/sally-rooney-is-no-free-speech-hero",
+      "summary": "This piece argues that Sally Rooney is not a free speech hero, as her publisher withdrew her books from British sale due to her pledge of royalties to Palestine Action, a designated terrorist organization. Supporting a proscribed group is an offense under UK anti-terror legislation, leading to the publisher's decision to avoid prosecution.",
+      "tags": [
+        "sally rooney",
+        "free speech",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0632a270e47e13cc",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Tough Love: My Ex-Wife Turned My Brothers Against Me",
+      "url": "https://www.thefp.com/p/tough-love-my-brothers-sided-with-my-ex-wife-divorce-relationship-family",
+      "summary": "A man shares his experience of an acrimonious divorce where his ex-wife allegedly alienated him from his siblings, who now side with her, despite his efforts to maintain family connections. The ex-wife, now wealthy, seemingly cultivated relationships with his sisters-in-law after disparaging them during the marriage.",
+      "tags": [
+        "relationships",
+        "family",
+        "divorce"
+      ],
+      "priority": false
+    },
+    {
+      "id": "78b203e72aba6a15",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "E Ink upgraded the screen found in most color e-readers",
+      "url": "https://www.theverge.com/tech/1011384/e-ink-paper-color-kaleido-4-screen-upgrade-gamut-contrast-brightness",
+      "summary": "E Ink has introduced its next-generation Kaleido 4 color e-paper screen technology, offering significant improvements over Kaleido 3 displays, including enhanced color reproduction, better contrast, and faster screen refreshes. This upgrade addresses previous shortcomings and is expected in e-readers from companies like Kobo and PocketBook.",
+      "tags": [
+        "e-ink",
+        "e-readers",
+        "display"
+      ],
+      "priority": false
+    },
+    {
+      "id": "59d5c9aa389f3b08",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Friends don&#8217;t let friends feed their data to AI agents",
+      "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+      "summary": "A growing trend of \"AI personal assistants\" like Meta's Muse encourages users to share not only their own data but also that of friends and family, raising concerns about consent. Muse has already achieved significant downloads, highlighting the widespread adoption of these potentially privacy-invasive gadgets.",
+      "tags": [
+        "ai",
+        "privacy",
+        "data"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0e12a44b9bdb740d",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+      "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+      "summary": "Microsoft and Nvidia are collaborating to optimize Windows for the new Arm-based RTX Spark laptops, which integrate powerful GPUs for future AI applications. This involves significant work to ensure traditional Windows applications run effectively on the different architecture.",
+      "tags": [
+        "windows",
+        "nvidia",
+        "arm"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5f3a1becb613c16c",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Nvidia, Apple, Google, Microsoft, Amazon, and Meta gave Trump a combined $92 million for his ballroom",
+      "url": "https://www.theverge.com/policy/1012047/nvidia-apple-google-microsoft-amazon-meta-trump-ballroom",
+      "summary": "Major tech companies including Nvidia, Apple, Google, Microsoft, Amazon, and Meta have collectively contributed over $92 million to fund the construction of Trump's White House ballroom. This is part of over $150 million raised from Silicon Valley and the crypto industry for the project, with some funds coming directly from companies and others from associated organizations.",
+      "tags": [
+        "politics",
+        "tech",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "181d994213585913",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Prep your cart before iPhone Duo preorders open tomorrow",
+      "url": "https://www.theverge.com/news/1011902/apple-iphone-duo-get-ready-preorder",
+      "summary": "Apple's iPhone Duo, a new foldable phone priced at $1,999, is available for preorder starting tomorrow, October 16th. Customers can pre-select their color, storage, and carrier, and arrange for trade-ins ahead of time to streamline the checkout process.",
+      "tags": [
+        "apple",
+        "iphone",
+        "foldable"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4a9661107c018429",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The best reason to care about Nvidia’s RTX Spark: ‘everything’ will run on Arm",
+      "url": "https://www.theverge.com/tech/1011705/nvidia-rtx-spark-everything-runs-on-arm",
+      "summary": "Nvidia's new RTX Spark laptops, powered by Arm chips, aim to overcome past limitations by enabling all existing Windows apps like Adobe and Office to run seamlessly. This marks a significant development for Arm-powered Windows PCs, contrasting with previous failed attempts like the original Microsoft Surface.",
+      "tags": [
+        "nvidia",
+        "arm",
+        "windows"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cb8406166195026b",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Trump calls off livestream of execution",
+      "url": "https://www.theverge.com/policy/1011991/trump-nidal-hasan-execution-not-livestreaming",
+      "summary": "Donald Trump has canceled the planned livestream of Fort Hood shooter Nidal Hasan's execution, stating that many people would prefer not to watch it, despite his initial belief that it could serve as a strong deterrent. Hasan will still be executed by firing squad as scheduled, but the event will not be broadcast.",
+      "tags": [
+        "trump",
+        "execution",
+        "policy"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 108,
+    "summarized": 80,
+    "skipped_promos": 3,
+    "filtered_by_rules": 25,
+    "sources": 12,
+    "email_items_omitted": 0
+  }
+}
