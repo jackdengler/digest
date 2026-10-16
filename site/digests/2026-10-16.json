@@ -1,0 +1,1137 @@
+{
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T17:46:09+00:00",
+  "hot_topics": [
+    {
+      "topic": "Meta's AI Training on Publisher Content",
+      "synthesis": "Meta is updating its commercial terms to allow AI training on linked website content from business accounts, including news publishers, without an opt-out option. This move has legal experts concerned, as it could enable Meta to bypass millions in AI licensing fees, an issue already contentious between news organizations and AI developers.",
+      "item_ids": [
+        "b89f628d4ecb968d",
+        "6dc439816264cab4"
+      ]
+    },
+    {
+      "topic": "Tesla Roadster's 'Flying' Stunt Technology",
+      "synthesis": "Tesla demonstrated its new Roadster performing mid-air stunts using high-pressure nitrogen jets, generating excitement around its 'flying' capabilities. However, both reports clarify that this was a show car utilizing decades-old stunt technology, not a production-ready vehicle intended for public roads.",
+      "item_ids": [
+        "6b00b2adf6ff4882",
+        "a30ebf1a4460e845"
+      ]
+    },
+    {
+      "topic": "Ukraine Conflict and US-Trump Tensions",
+      "synthesis": "Ukraine's Operation Vivaldi is making territorial gains in Donbas, with Starlink playing a crucial role, yet optimism is tempered by President Trump's criticism of Zelensky and rising US tensions. US senators are also calling for an investigation into Starlink restrictions that reportedly disrupted Ukrainian battlefield missions. EU leaders are rallying support for Ukraine amid these growing diplomatic challenges.",
+      "item_ids": [
+        "3e3b46efb4328a00",
+        "6d1bd3ad0b56ec89",
+        "ba00746f51a18fdb",
+        "4bfa64edef64b5f0"
+      ]
+    },
+    {
+      "topic": "Israeli Settler Attacks in West Bank",
+      "synthesis": "Masked Israeli settlers attacked Palestinian farmers harvesting olives in the West Bank, injuring several people including a US photojournalist, amid a reported surge in such incidents. China has urged Israel to halt the 'forced establishment' of West Bank settlements in response to the ongoing violence.",
+      "item_ids": [
+        "58cc42db648261d6",
+        "cd436347d89b2d09",
+        "55bcccf8fd9644ee",
+        "48c184b35564ef79"
+      ]
+    },
+    {
+      "topic": "Oregon Elementary School Shooting",
+      "synthesis": "A 16-year-old suspect opened fire at an Oregon elementary school, killing three children aged 5, 8, and 11, and a teacher. This tragic incident underscores ongoing concerns about gun violence in schools.",
+      "item_ids": [
+        "438b9d143a36b136",
+        "eeaa35ddbc4b3100"
+      ]
+    },
+    {
+      "topic": "Trump Cancels Execution Livestream, Public Opinion on Death Penalty",
+      "synthesis": "Donald Trump cancelled controversial plans to livestream a military firing squad execution, following widespread public backlash and a poll indicating strong opposition from 8 in 10 Americans. This decision comes as US public opinion on the death penalty remains divided, with support varying depending on how questions are framed.",
+      "item_ids": [
+        "3817828b9963b416",
+        "3c49dce63a86221f"
+      ]
+    },
+    {
+      "topic": "Indian Protests Over Voter List Review",
+      "synthesis": "Protests have intensified in New Delhi, India, following the detention of a youth-led party founder and mass arrests, with crowds demonstrating over a contentious review of voter lists. Critics argue the review is politically motivated and threatens to disenfranchise voters, allegations denied by the Election Commission.",
+      "item_ids": [
+        "98d0079777ef78fa",
+        "f788adc0c25ead93"
+      ]
+    },
+    {
+      "topic": "Elon Musk's Influence on Republican Fundraising",
+      "synthesis": "Republican Senate candidates are significantly trailing their Democratic opponents in fundraising for the current election cycle, with Democrats often raising more than five times as much cash. However, GOP super PACs are providing substantial financial support, with Elon Musk identified as a primary funder for some of these groups, contributing hundreds of millions of dollars.",
+      "item_ids": [
+        "aea4741aa42d35db",
+        "ce1da2db7b111954"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "b4e6369f9f9055bb",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "How to be a (Roman) man",
+      "url": "https://aeon.co/essays/the-politics-of-masculinity-at-the-end-of-the-roman-republic",
+      "summary": "Cicero's ideal of Roman manly virtue emphasized self-control and bravery, contrasting with boastful egotism and domination. This perspective offers insight into the politics of masculinity at the end of the Roman Republic.",
+      "tags": [
+        "history",
+        "philosophy",
+        "masculinity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "39bbb177f482dff4",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Googlebook review: Android on a laptop is still Android",
+      "url": "https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android/",
+      "summary": "A review of Googlebooks, Android-powered laptops, notes that despite premium hardware, the Android roots are evident, and the experience often feels more like a large phone or Chromebook than a premium laptop. This suggests Google struggles to adapt Android for larger machines as an alternative to Windows or macOS.",
+      "tags": [
+        "android",
+        "laptops",
+        "google"
+      ],
+      "priority": false
+    },
+    {
+      "id": "208b8e0e38280f71",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Hegseth’s dubious low-T screening may flag up to 25 percent of the Army",
+      "url": "https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/",
+      "summary": "A study in JAMA raises concerns that Defense Secretary Pete Hegseth's mandatory military screening for low testosterone could lead to unnecessary evaluations for up to a quarter of active-duty Army members. Medical experts recommend against blanket screenings due to risks of inappropriate testing, inaccurate diagnoses, and potential harm, including infertility.",
+      "tags": [
+        "military",
+        "health policy",
+        "medical screening"
+      ],
+      "priority": false
+    },
+    {
+      "id": "278bbcedb6330ae2",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell",
+      "url": "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/",
+      "summary": "KDE is celebrating its 30th anniversary with the release of Plasma 6.8, which fully adopts the Wayland system and retires native X11 session support. This update brings improvements like enhanced window decorations and a streamlined theming system, preparing Plasma for future desktop environments.",
+      "tags": [
+        "linux",
+        "desktop environment",
+        "software update"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b89f628d4ecb968d",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+      "summary": "Legal experts are sounding alarms that Meta will soon update its commercial terms to require business accounts to allow Meta to train AI on their linked website content, not just their social media posts.\nKicking in on October 30, the TOS update won’t allow businesses to opt out,…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "ddeb70cd84e053bd",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Microplastics in water aren’t inert and make damaging chemicals on their own",
+      "url": "https://arstechnica.com/science/2026/10/microplastics-in-water-arent-inert-and-make-damaging-chemicals-on-their-own/",
+      "summary": "New Nature study suggests microplastics in water are not chemically inert but can generate harmful reactive oxygen species (ROS) at their air-water boundaries. These ROS can damage proteins, lipids, and DNA, contributing to the uncertain health consequences of microplastics found in human tissues.",
+      "tags": [
+        "microplastics",
+        "water quality",
+        "health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6473f31cc00bc894",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Plex now helps sell movie theater tickets",
+      "url": "https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/",
+      "summary": "Plex has partnered with Fandango to sell movie theater tickets directly from its platform, aiming to monetize its content-discovery features and expand beyond media server software. This integration allows Plex users to find showtimes and purchase tickets for films playing in theaters, leveraging Plex's user data for targeted promotions.",
+      "tags": [
+        "plex",
+        "streaming",
+        "movies"
+      ],
+      "priority": false
+    },
+    {
+      "id": "376c2bebbba954bd",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Polymarket saw $600 million in election trades after the elections were over",
+      "url": "https://arstechnica.com/tech-policy/2026/10/polymarket-saw-600-million-in-election-trades-after-the-elections-were-over/",
+      "summary": "Polymarket's offshore platform saw over $600 million in election trading volume, with a significant portion on long-shot candidates, deviating from typical patterns. For example, in Ethiopian elections, $41 million was traded on a losing candidate versus $173,000 on the winner.",
+      "tags": [
+        "prediction markets",
+        "elections",
+        "trading"
+      ],
+      "priority": false
+    },
+    {
+      "id": "be042d2dff256ea6",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
+      "url": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
+      "summary": "A new documentary, 'Super Scam Me,' follows an investigative journalist and an ethical hacker exposing romance scammers. It highlights how victims are manipulated into losing significant money through 'love-bombing' tactics.",
+      "tags": [
+        "scams",
+        "romance fraud",
+        "documentary"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6b00b2adf6ff4882",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Tesla turns to 50-year-old stunt technology as it tries to Roadster again",
+      "url": "https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/",
+      "summary": "Nine years after\nfirst trying to resurrect the Roadster\n, Tesla is apparently trying again. CEO Elon Musk might have relocated its HQ to Texas, but yet again he has returned to California’s showbiz industry to hawk his wares; last time\nit was a Hollywood back lot for the remote-c…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "3817828b9963b416",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Trump cancels Pentagon plans to livestream firing squad execution",
+      "url": "https://arstechnica.com/tech-policy/2026/10/trump-cancels-pentagon-plans-to-livestream-firing-squad-execution/",
+      "summary": "On Thursday, Donald Trump called off the Pentagon’s highly controversial plans to livestream a firing squad execution that is still on schedule for December 3.\nTrump supports the execution of Nidal Hasan, who was convicted of killing 13 people and wounding more than 30 others in…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "e2ab17b2ba646bb0",
+      "source": "Astral Codex Ten",
+      "source_type": "substack",
+      "title": "Meetups Everywhere 2026: Times & Places",
+      "url": "https://www.astralcodexten.com/p/meetups-everywhere-2026-times-and",
+      "summary": "Astral Codex Ten announces 'Meetups Everywhere 2026,' listing over 180 cities globally for readers to gather and build community. The post provides details for attendees and advice for organizers to facilitate successful local events.",
+      "tags": [
+        "community",
+        "events",
+        "meetups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "438b9d143a36b136",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+      "url": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
+      "summary": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "25529f33797979bb",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Albanian protests turn violent: What we know",
+      "url": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss",
+      "summary": "Protests by an anti-government 'Flamingo' movement in Tirana, Albania, escalated to a different scale, following months of unrest. The demonstrations signify growing political dissatisfaction within the country.",
+      "tags": [
+        "albania",
+        "protests",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2b342b8b4af809cc",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Are student protests being manipulated ahead of France's presidential election?",
+      "url": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
+      "summary": "France's prime minister suggested student anger is being 'weaponized' ahead of the presidential election, as unions and other protesters prepare for further street demonstrations. This indicates political manipulation surrounding youth activism.",
+      "tags": [
+        "france",
+        "protests",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6afa5e33e3dd0c1e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+      "summary": "A bus collided with a stopped train on the French side of the Channel Tunnel, injuring 19 people, with two airlifted to hospital but no life-threatening injuries reported. The incident caused disruption to transport services.",
+      "tags": [
+        "accident",
+        "france",
+        "transport"
+      ],
+      "priority": false
+    },
+    {
+      "id": "55bcccf8fd9644ee",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "de8e93a07b7fe886",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Dad fined after son, 2, died in Cyprus hotel fall",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
+      "summary": "A father was fined after his two-year-old son died in a Cyprus hotel fall, having 'lost control' while showing him the view of a water park from a window. The tragic accident resulted in legal repercussions for the father.",
+      "tags": [
+        "accident",
+        "legal",
+        "cyprus"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fdaafc07663cffc5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+      "summary": "A Houthi missile attack on the Yemeni presidential palace killed five people, but the prime minister and other ministers were unharmed. The attack highlights the continued conflict in Yemen.",
+      "tags": [
+        "yemen",
+        "conflict",
+        "houthi"
+      ],
+      "priority": false
+    },
+    {
+      "id": "98d0079777ef78fa",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "India's 'cockroach' party founder detained ahead of protest",
+      "url": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "3e3b46efb4328a00",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+      "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "cd436347d89b2d09",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
+      "url": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Israeli settlers were seen attacking Palestinian farmers and setting fire to olive trees in the West Bank.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "9b46fa8cf7167dc4",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Letters with 'suspicious substances' sent to US senators and election offices",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
+      "summary": "Letters containing 'suspicious substances' were sent to US senators and election offices in multiple states, including Oklahoma, Ohio, and Louisiana. Authorities are investigating these mailings as potential domestic threats.",
+      "tags": [
+        "domestic threat",
+        "politics",
+        "us news"
+      ],
+      "priority": false
+    },
+    {
+      "id": "92df8b9853952f55",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Maduro pleads not guilty to new torture-related charges in New York",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss",
+      "summary": "Venezuelan President Maduro pleaded not guilty to new torture-related charges in New York, rejecting the document entirely during his court appearance. This development adds to his ongoing legal challenges abroad.",
+      "tags": [
+        "venezuela",
+        "politics",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "58cc42db648261d6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+      "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c6b7c469fbd7086e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Patients in chains were rescued from a suspected illegal rehab center in South Africa, where 200 individuals were found with 'sores all over their bodies' and in overcrowded rooms. This discovery highlights severe human rights abuses and exploitative conditions.",
+      "tags": [
+        "human rights",
+        "south africa",
+        "exploitation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bddfba0ea8c980c1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Pope pictured for first time since surgery and cancer diagnosis",
+      "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pope Francis was pictured for the first time since his lung cancer diagnosis and surgery, which took place at Rome's Gemelli Hospital. The images confirm his recovery after the medical procedure.",
+      "tags": [
+        "pope",
+        "health",
+        "vatican"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a94f6b213f6570c1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+      "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
+      "summary": "Reports of ship attacks near the Strait of Hormuz have reached a record high, with 12 vessels struck in one week, leading to a slowdown in oil exports. This escalation signals increasing maritime security concerns in the critical region.",
+      "tags": [
+        "geopolitics",
+        "maritime security",
+        "middle east"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1907349e4476f238",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "They fled Russia, but the West sent them back",
+      "url": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
+      "summary": "A stark rise has been observed in anti-government activists seeking refuge in the EU and US being deported back to Russia over the past year. This trend raises concerns about human rights and the safety of dissidents.",
+      "tags": [
+        "russia",
+        "human rights",
+        "immigration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6fc2cb4205d7840e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
+      "summary": "A 19-year-old suspect's plot to attack a Hindu temple in the US was foiled only because his gun jammed, police said, following a tip-off. The incident highlights the prevention of a potential hate-motivated crime.",
+      "tags": [
+        "crime",
+        "terrorism",
+        "us news"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ba00746f51a18fdb",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US senators call for investigation into Ukraine's Starlink restrictions",
+      "url": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine says temporary speed limits to the Starlink internet network disrupted its battlefield missions.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "4bfa64edef64b5f0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
+      "url": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
+      "summary": "Zelensky thanked the \"real leaders\" ahead of a meeting with the EU in Brussels.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "6d1bd3ad0b56ec89",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
+      "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+      "summary": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\".",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "afb8fb453f32da0d",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "I Love Software Rendering",
+      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+      "summary": "An article expresses the author's enthusiasm for software rendering. It reflects on the merits and joys of this specific technical approach.",
+      "tags": [
+        "software",
+        "rendering",
+        "programming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3c49dce63a86221f",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Amid talk of public execution, public opinion on death penalty is split",
+      "url": "https://www.npr.org/2026/10/16/g-s1-148404/public-opinion-execution-death-penalty",
+      "summary": "A majority of Americans support the death penalty for people convicted of murder, but support becomes more divided when questions vary.\n(Image credit: Paul Hennessy)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f788adc0c25ead93",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Crowds throng New Delhi and wave Indian flags amid escalating protests",
+      "url": "https://www.npr.org/2026/10/16/g-s1-148383/crowds-throng-new-delhi-and-wave-indian-flags-amid-escalating-protests",
+      "summary": "Protests have intensified over a review of voter lists that critics say is politically motivated and threatens to disenfranchise voters. The Election Commission and Modi's administration deny these allegations.\n(Image credit: Vipin)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "a4e4d002f598b118",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Do Americans own the president's papers? Appeals court to weigh in",
+      "url": "https://www.npr.org/2026/10/16/nx-s1-5996836/trump-who-owns-presidential-records-act-appeals-court",
+      "summary": "An appeals court will decide whether presidential papers created in the White House belong to Donald Trump or the American people, a case that could ultimately reach the Supreme Court. The ruling will clarify ownership rights over presidential records.",
+      "tags": [
+        "trump",
+        "legal",
+        "government"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ce1da2db7b111954",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "How much money has Musk given to Republican groups since July? The quiz knows",
+      "url": "https://www.npr.org/2026/10/16/g-s1-148041/pope-leo-musk-mamdani-trump-guilfoyle-news-quiz",
+      "summary": "Plus, this week saw comings and goings at the White House, the revenge of a child (reality) star, and Elon Musk doing Elon Musk things.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "48c184b35564ef79",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
+      "url": "https://www.npr.org/2026/10/16/nx-s1-6004904/israeli-settlers-beat-us-photojournalist-washington-post-west-bank",
+      "summary": "Masked Israeli settlers attacked Palestinians as they were harvesting olives in the occupied West Bank on Friday, injuring several people including a photojournalist working for\nThe Washington Post\n.\n(Image credit: Ahmad Gharabli)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "fbb03bb1c22da2a6",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Remembering Oscar-winning actor Eva Marie Saint",
+      "url": "https://www.npr.org/2026/10/16/nx-s1-6003516/remembering-oscar-winning-actor-eva-marie-saint",
+      "summary": "An obituary remembers Oscar-winning actor Eva Marie Saint, known for her roles in 'On the Waterfront' and the Hitchcock film 'North by Northwest.' She passed away on October 6th.",
+      "tags": [
+        "obituary",
+        "actors",
+        "film"
+      ],
+      "priority": false
+    },
+    {
+      "id": "031e5b01e688cbbb",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Sally Rooney's books will no longer be sold in U.K. after Palestinian Action support",
+      "url": "https://www.npr.org/2026/10/16/nx-s1-6004838/sally-rooney-books-uk-palestinian-action-support",
+      "summary": "Irish author Sally Rooney's books will no longer be sold in the UK after she pledged her royalties to a banned pro-Palestinian group. This decision sparked controversy regarding artists' political stances and commercial implications.",
+      "tags": [
+        "sally rooney",
+        "literature",
+        "palestine"
+      ],
+      "priority": false
+    },
+    {
+      "id": "eeaa35ddbc4b3100",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Teen kills 4 at Oregon school. And, DOJ sues California over alleged noncitizens",
+      "url": "https://www.npr.org/2026/10/16/g-s1-148373/up-first-newsletter-bend-oregon-school-shooting-california-doj-voters-presidential-papers",
+      "summary": "A teen opened fire at an Oregon elementary school, leaving three kids and one teacher dead. And, the Justice Department is suing California over alleged noncitizen voters.\n(Image credit: Mathieu Lewis-Rolland)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "7f2aaacb41e603df",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "What this bankruptcy says about AI startups",
+      "url": "https://www.npr.org/sections/planet-money/2026/10/16/nx-s1-6001828/what-this-bankruptcy-says-about-ai-startups",
+      "summary": "Character.AI, despite millions of users, is filing for bankruptcy after Google 'acquired' it by hiring its founders and licensing its technology. This highlights potential financial challenges and unique acquisition strategies within the AI startup landscape.",
+      "tags": [
+        "ai",
+        "startups",
+        "bankruptcy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1b75f22ffd563588",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "2 women accuse Matt Gaetz of sex trafficking in new lawsuit",
+      "url": "https://www.politico.com/news/2026/10/15/matt-gaetz-lawsuit-trafficking-florida-01120754",
+      "summary": "Two women have sued former Florida Rep. Matt Gaetz and two others, alleging they engaged in a sex trafficking scheme while Gaetz was in Congress. Gaetz denies the claims, which mirror accusations from a House Ethics Committee probe, and plans to contest the lawsuit.",
+      "tags": [
+        "politics",
+        "legal",
+        "sex trafficking"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e00773b8455a8a70",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Haley Stevens is everywhere — except on the trail for El-Sayed",
+      "url": "https://www.politico.com/news/2026/10/16/haley-stevens-talks-abdul-el-sayed-01122744",
+      "summary": "Haley Stevens, after her Senate primary loss, is not actively campaigning for her former rival Abdul El-Sayed, whose campaign struggles to coalesce her former supporters. This absence is particularly visible among Black and Jewish voters, hindering Democratic unity against Republican Mike Rogers.",
+      "tags": [
+        "politics",
+        "elections",
+        "michigan"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5692d73a9d12ec5d",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Inside the democratic socialists’ plan to shake up Congress",
+      "url": "https://www.politico.com/video/2026/10/15/inside-the-democratic-socialists-plan-to-shake-up-congress-2201513",
+      "summary": "This video report covers the democratic socialists' strategy and plans to influence Congress. It delves into their approach for shaking up the political landscape.",
+      "tags": [
+        "politics",
+        "democratic socialists",
+        "congress"
+      ],
+      "priority": false
+    },
+    {
+      "id": "aea4741aa42d35db",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Senate Republicans are getting smoked in fundraising",
+      "url": "https://www.politico.com/news/2026/10/16/senate-republicans-are-getting-smoked-in-fundraising-01122911",
+      "summary": "Republican Senate candidates are hurting for cash.\nNearly every Democratic candidate in battleground Senate races outraised their GOP opponent from July through September. And in some cases, the disparities were stark.\nIn Texas, Democrat James Talarico trounced Republican Ken Pax…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "0e30c717dcd111a5",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Chirp Pong",
+      "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+      "summary": "Chirp Pong is a game experiment demonstrating a two-player Pong-like game on separate phones, where game state is transmitted via audio chirps interpreted by the web microphone API. This innovative use of sound allows for real-time interaction in static HTML.",
+      "tags": [
+        "game development",
+        "web tech",
+        "audio"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d83c004939bfd6f5",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "The lost wisdom of the Old Moderates",
+      "url": "https://www.slowboring.com/p/the-lost-wisdom-of-the-old-moderates",
+      "summary": "The article argues against the idea that declining reading is due to publishing industry issues, asserting that access to classic literature is cheaper than ever. Instead, it posits that the real problem is the overwhelming abundance of other content competing for attention, and also discusses the political role of public defenders.",
+      "tags": [
+        "reading",
+        "culture",
+        "public defenders"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bdea939f721266ca",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
+      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
+      "summary": "Amazon devices chief Panos Panay emphasized the importance of learning and recovering from failures, even catastrophic ones, in product development. He highlighted that such setbacks provide valuable opportunities for growth and innovation.",
+      "tags": [
+        "leadership",
+        "product development",
+        "innovation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3e369bdbde1a364d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+      "summary": "Amazon devices chief Panos Panay anticipates a future where ambient AI devices proactively address user needs, reducing the reliance on traditional apps. This vision suggests a shift towards more intuitive, background-operating artificial intelligence in daily life.",
+      "tags": [
+        "ai",
+        "smart devices",
+        "ux"
+      ],
+      "priority": false
+    },
+    {
+      "id": "81a6cfff24dc13da",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "summary": "An Nvidia insider-turned-VC suggests robotics is in a 'Lego era,' still rebuilding basic components like actuators and software. This view contradicts beliefs that a general foundation model will soon bring a 'ChatGPT moment' to the field, implying foundational work is still necessary.",
+      "tags": [
+        "robotics",
+        "ai",
+        "venture capital"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6749172836122ff9",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
+      "url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
+      "summary": "Intero Biosystems won the $100,000 grand prize at TechCrunch Disrupt 2026 Startup Battlefield, beating 199 other companies. This victory marks a significant achievement for the biosystems startup in a competitive field.",
+      "tags": [
+        "startups",
+        "techcrunch",
+        "competition"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6301ceabd17a100f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "summary": "Anthropic is granting METR researchers employee-level access to its AI models, allowing them to publish independent assessments of risks and practices without company censorship. This initiative aims to increase transparency and external oversight in AI safety research.",
+      "tags": [
+        "ai safety",
+        "research",
+        "transparency"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7e8234468f90d4f8",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+      "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+      "summary": "Bluesky is expanding its AI-powered Attie app to enable users to create interactive experiences like websites, games, and quizzes that can engage the social network's audience. This move introduces 'social vibe coding' for user-generated content.",
+      "tags": [
+        "bluesky",
+        "ai",
+        "web development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0e404a8716d2782b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
+      "url": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
+      "summary": "Bluesky aims to facilitate buying, selling, and fundraising on its network, exploring alternative monetization models beyond advertising. Executives argue that diverse revenue streams are feasible for social media platforms.",
+      "tags": [
+        "bluesky",
+        "social media",
+        "monetization"
+      ],
+      "priority": false
+    },
+    {
+      "id": "399d8d11e40291d9",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "summary": "Elorian's new AI model, Glimpse, reportedly excels at reasoning with images, outperforming GPT-6 Astra in scientific chart reasoning and short-form video captioning, as per the company's evaluations. Glimpse aims to reason *with* images, not just *about* them.",
+      "tags": [
+        "ai",
+        "image recognition",
+        "deep learning"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3a773df229ca5805",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
+      "url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
+      "summary": "Benchmark notes that the venture capital industry's traditional rule against backing rival companies is eroding, partly due to the influence of AI. This shift challenges established business ethics within the venture landscape.",
+      "tags": [
+        "venture capital",
+        "ai",
+        "business ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "15a8a056c1a52eee",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder",
+      "url": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
+      "summary": "Nathan Fielder's documentary 'You Can See Everything' explores the nature of authenticity by creating a constellation of colliding personas around disgraced Theranos CEO Elizabeth Holmes. The film interrogates the concept of genuine identity in the public eye.",
+      "tags": [
+        "documentary",
+        "elizabeth holmes",
+        "theranos"
+      ],
+      "priority": false
+    },
+    {
+      "id": "674c850e4b0b2a92",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "summary": "Jev has become Vercel's fastest-adopted AI model ever, according to data from Vercel's AI gateway, a unified API service. This rapid adoption indicates strong interest and utility for the new model within the development community.",
+      "tags": [
+        "ai",
+        "vercel",
+        "software development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "820861cc70e0d43b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "summary": "Actor and investor Mark Wahlberg expressed openness to using AI in filmmaking to enhance projects, and even to having an AI clone carry on his legacy. He supports AI's role in entertainment if used 'the right way'.",
+      "tags": [
+        "ai",
+        "film",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5ece82cdde485f54",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "summary": "Meta has launched Muse Spark Open, an open-weight AI model developed in collaboration with Apple, designed to run locally on Apple silicon. This initiative brings Meta's AI capabilities directly to Apple devices.",
+      "tags": [
+        "meta",
+        "apple",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ec9e001968192b01",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+      "summary": "Replit's CEO envisions 'self-driving companies' where AI agents manage daily tasks, allowing human employees to focus on higher-level strategic decisions. This concept proposes a significant shift in the future of work by delegating routine operations to AI.",
+      "tags": [
+        "ai",
+        "future of work",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4ac9319a02fb6e40",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
+      "url": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
+      "summary": "Tressfecta is developing products for textured hair, with its initial project, Plait Pilot, designed to assist hairstylists with the arduous task of separating hair from packs before braiding begins. This innovation aims to streamline the hair braiding process.",
+      "tags": [
+        "beauty tech",
+        "hair care",
+        "innovation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0f7ee58e624bf86c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+      "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+      "summary": "Veritas is expanding its anti-counterfeit chip technology to combat 'superfakes' in luxury goods like jewelry, trophies, and fragrance bottles. This solution provides a verification method against increasingly sophisticated counterfeiting.",
+      "tags": [
+        "anti-counterfeit",
+        "luxury goods",
+        "security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c9f621beb774ac42",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Waymo’s robotaxis are headed to Canada",
+      "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
+      "summary": "Waymo will begin testing its self-driving robotaxis on the streets of Toronto, Canada. This marks an expansion of the company's autonomous vehicle operations into a new major city.",
+      "tags": [
+        "waymo",
+        "self-driving",
+        "canada"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fa590a06966e9c42",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "summary": "Cal AI achieved viral success, generating over $30 million in two years, largely due to a paid influencer marketing strategy before being acquired by MyFitnessPal. This highlights the effectiveness of influencer campaigns for startup growth.",
+      "tags": [
+        "ai",
+        "marketing",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0040878ec599515e",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Fergie Chambers Tried to Help Iran’s Terror Efforts, the U.S. Claims",
+      "url": "https://www.thefp.com/p/fergie-chambers-tried-to-help-iran-babochki",
+      "summary": "Spanish court documents reveal US claims that American activist Fergie Chambers, who fled the US, conspired with Iran in Tunisia to support Hamas and potentially other Tehran-backed terrorist activities. Chambers is fighting extradition to the US on charges of providing financial support to international terrorist groups.",
+      "tags": [
+        "terrorism",
+        "iran",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "20d3693edcb69404",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "How a ‘Vague, Horrific Accusation’ Ruined a Teacher’s Life",
+      "url": "https://www.thefp.com/p/how-a-vague-horrific-accusation-ruined-this-teacher-me-too",
+      "summary": "A teacher's life was severely impacted by a 'vague, horrific accusation' of an inappropriate relationship with a former student, with the school withholding specifics and the alleged victim's identity for weeks. This account highlights the damaging effects of unsubstantiated claims and lack of transparency.",
+      "tags": [
+        "metoo",
+        "education",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cfced5cfdb144a7d",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Making of Xi Jinping",
+      "url": "https://www.thefp.com/p/the-making-of-xi-jinping-china-international-affairs",
+      "summary": "A discussion examines how Xi Jinping, despite his father's persecution during the Cultural Revolution, emerged deeply devoted to the Chinese Communist Party. His political development is described as a 'comic book villain origin story' of extreme loyalty.",
+      "tags": [
+        "china",
+        "politics",
+        "history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ca74045dadebb5ae",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Why I’m Moving Back to Broken Britain",
+      "url": "https://www.thefp.com/p/im-moving-back-to-broken-britain-culture-home",
+      "summary": "The author discusses moving back to England after a year in America, despite warnings about 'Broken Britain' facing challenges like uncontrolled immigration, arrests for social media posts, and a stagnant economy. This personal decision highlights broader societal and cultural debates in the UK.",
+      "tags": [
+        "uk",
+        "society",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "47ee6ed1175ba7df",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "‘I’m a Government AI, and I’m Here to Help’",
+      "url": "https://www.thefp.com/p/government-ai-philip-k-howard",
+      "summary": "The Trump administration launched America.gov, an AI-powered platform to aggregate federal data and simplify navigation of government procedures, marking a step toward integrating AI into regulatory processes. Experts caution that while AI can identify duplication, it cannot replace the rigidities of existing red-tape operating structures.",
+      "tags": [
+        "ai",
+        "government",
+        "public services"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c40ad147b11d1f23",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "A fake WhatsApp clone is showing up before the real version on the Play Store",
+      "url": "https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android",
+      "summary": "A fake WhatsApp clone with over 500,000 downloads was found in a 'sponsored' slot above the real app on the Google Play Store, mirroring its icon, screenshots, and text. This incident follows an earlier report of a Chrome clone on the platform, highlighting app store security concerns.",
+      "tags": [
+        "scams",
+        "google play",
+        "app security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "786fa409aa64193f",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "summary": "Nvidia's new RTX Spark N1X processor is now available in Windows laptops, offering high-performing Arm-based SoCs with RTX Blackwell graphics and enough power for local AI models. Reviews indicate these 'superchips' rival offerings from Apple, Intel, AMD, and Qualcomm in performance.",
+      "tags": [
+        "nvidia",
+        "laptops",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8bcf97b994225cf2",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades",
+      "url": "https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus",
+      "summary": "Analogue is re-releasing updated versions of its Super Nt and Mega Sg retro consoles, featuring reworked designs and built-in wireless connectivity. These consoles use FPGA processors to perfectly recreate 16-bit Nintendo and Sega Genesis functionality without relying on emulation.",
+      "tags": [
+        "retro gaming",
+        "consoles",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "17db9ddf9ea7cd48",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Apple&#8217;s HomeView has an app problem",
+      "url": "https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast",
+      "summary": "Apple's new HomeView smart home device, despite its computing power and constant connection, relies almost entirely on CarPlay for apps. This raises questions about why Apple chose not to make it a standalone app platform, potentially limiting its functionality.",
+      "tags": [
+        "apple",
+        "smart home",
+        "apps"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7dee8196d5889144",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "iPhone Duo orders are already delayed into 2027",
+      "url": "https://www.theverge.com/tech/1012805/apple-iphone-duo-preorder-delay",
+      "summary": "Delivery estimates for Apple's first foldable iPhone, the iPhone Duo, slipped into 2027 within an hour of preorders opening, potentially due to high demand or low supply. The device is scheduled for an in-store launch on October 23rd, offering an earlier chance for purchase.",
+      "tags": [
+        "apple",
+        "iphone",
+        "foldables"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6dc439816264cab4",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Meta’s new terms may allow it to train AI on news sites for free",
+      "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to\na report from\nNieman Lab\n. The\nnew terms\n, which go into effect on October 30th, say Meta can use this ou…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "a30ebf1a4460e845",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The incredible flying Tesla Roadster is just for show",
+      "url": "https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk",
+      "summary": "Last night, Elon Musk gave the people what they want: a car driving vertically up a multi-story ramp, launching off the edge, executing a mid-air \"kickflip\" over a lineup of Teslas, and landing via cold-gas thrusters.\nThat's what the people want, right? \"We were promised flying c…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "b7ff557c8787960c",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The Sony Xperia 10 VI won’t be getting a promised update to Android 17",
+      "url": "https://www.theverge.com/tech/1012789/sony-xperia-10-vi-smartphone-android-17-update-security",
+      "summary": "The Sony Xperia 10 VI will not receive a promised Android 17 update due to technical limitations related to its storage configuration. Sony determined these limitations would prevent an adequate upgrade experience, despite earlier commitments to three major OS updates.",
+      "tags": [
+        "android",
+        "sony",
+        "software update"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4d38887ab23cba34",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "This stretchy MagSafe storage pouch gives your phone a sizable trunk",
+      "url": "https://www.theverge.com/tech/1012828/ninja-labs-magsafe-flex-pouch-silicone-smartphone-storage",
+      "summary": "The MagSafe Flex Pouch by Ninja Labs is a stretchy silicone accessory that magnetically attaches to smartphones, offering expanded storage capacity beyond traditional wallets for various small items. It provides a versatile storage upgrade for MagSafe-compatible phones.",
+      "tags": [
+        "smartphone accessories",
+        "magsafe"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 108,
+    "summarized": 81,
+    "skipped_promos": 3,
+    "filtered_by_rules": 24,
+    "sources": 12,
+    "email_items_omitted": 0
+  }
+}
