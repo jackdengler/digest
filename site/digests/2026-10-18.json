@@ -1,0 +1,612 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T17:02:12+00:00",
+  "hot_topics": [
+    {
+      "topic": "Meta's Data Policies and AI Training",
+      "synthesis": "Meta recently revised its terms to address concerns about data scraping and AI training. Despite these language changes, legal experts are still warning that the updated terms may grant Meta broad permissions for data scraping. This indicates ongoing scrutiny regarding how the tech giant uses user data for AI development.",
+      "item_ids": [
+        "d7e1ec8dbfd0ea99",
+        "4ed71c3cecfb06a5"
+      ]
+    },
+    {
+      "topic": "Pope Leo XIV's Recovery After Cancer Surgery",
+      "synthesis": "Pope Leo XIV has made his first public appearance since undergoing lung cancer surgery, thanking well-wishers and performing the traditional Angelus prayer. He announced plans to gradually return to his usual duties. This marks an important step in his recovery following his cancer diagnosis and operation.",
+      "item_ids": [
+        "bfd38c705969dddb",
+        "5579d4dca8927755"
+      ]
+    },
+    {
+      "topic": "Violent Protests and Looting in France",
+      "synthesis": "Nationwide protests in France escalated into violence and looting, resulting in approximately 1,800 arrests. Cars were burned, shops were ransacked, and clashes with police occurred throughout Saturday. The demonstrations were sparked by concerns over school conditions and the cost of living.",
+      "item_ids": [
+        "f1424f65fc55b192",
+        "6b1ed0c6078a62de",
+        "7b2ea69dcda8ea9f",
+        "00c1637c10eb8550"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "d78ce8d5873aabda",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US is facing a deepening drug crisis due to a surge in homemade, synthetic drugs. Reports from users, dealers, and recovery workers indicate a deadly new epidemic sweeping the country.",
+      "tags": [
+        "drugs",
+        "public health",
+        "usa"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6a2550809a10c5cf",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Anti-government protesters battle with police in Albania",
+      "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+      "summary": "Violent clashes erupted between anti-government protesters and riot police in Albania's capital, Tirana, on Saturday. Demonstrators engaged in intense confrontations with authorities.",
+      "tags": [
+        "albania",
+        "protests",
+        "government"
+      ],
+      "priority": false
+    },
+    {
+      "id": "06c2df1b9dfbff81",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "At least 17 dead in crush at Hindu festival event in India",
+      "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 17 people died and many more were injured in a crush during a Hindu festival event in Kolkata, India. The incident occurred at an event marking a significant Hindu festival.",
+      "tags": [
+        "india",
+        "tragedy",
+        "festival"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f1424f65fc55b192",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+      "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+      "summary": "Approximately 1,800 people were arrested across France after nationwide protests devolved into violence, vandalism, and looting. Paris streets bore the brunt of the unrest, with burnt cars and shattered glass visible.",
+      "tags": [
+        "france",
+        "protests",
+        "civil unrest"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f5e60b2c4291fd86",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "summary": "European diplomats were attacked by Israeli settlers in the West Bank, an incident the Israeli military condemned. However, the prime minister's office dismissed the reports as a \"smear\" campaign.",
+      "tags": [
+        "israel",
+        "palestine",
+        "diplomacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7b2ea69dcda8ea9f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How day of protests unfolded as disorder breaks out across France",
+      "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Demonstrations across France turned violent, with widespread disorder, including cars and buildings set ablaze and shops ransacked. This report details how the day of protests unfolded, leading to significant civil unrest.",
+      "tags": [
+        "france",
+        "protests",
+        "civil unrest"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cb13e01b7be29809",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+      "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+      "summary": "An overnight attack on St. Petersburg resulted in at least one fatality and strikes on oil facilities. The assault also targeted a data center used by Russia's equivalent of Facebook.",
+      "tags": [
+        "russia",
+        "attack",
+        "infrastructure"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6b1ed0c6078a62de",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Parisians wake up to protest damage and looted shops",
+      "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
+      "summary": "Parisians awoke to widespread damage and looted shops following a day of violent demonstrations across France against school conditions and the cost of living. The protests saw cars and buildings set alight, along with shop ransacking.",
+      "tags": [
+        "france",
+        "protests",
+        "civil unrest"
+      ],
+      "priority": false
+    },
+    {
+      "id": "494cfe739b4b2214",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Satellite images have revealed a luxury boat, featuring a 50-meter pool and water slides, near Kim Jong Un's summer retreat. These images offer insight into the North Korean leader's lavish lifestyle, which is inaccessible to most citizens.",
+      "tags": [
+        "north korea",
+        "kim jong un",
+        "luxury"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bfd38c705969dddb",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
+      "url": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pope Leo XIV made his first public appearance since his lung cancer diagnosis and surgery, reciting the Angelus prayer from the Apostolic Palace balcony. He used the occasion to thank well-wishers.",
+      "tags": [
+        "pope",
+        "health",
+        "religion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d7faf153728d1d29",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Search for Amelia Earhart's plane resumes after stormy weather",
+      "url": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss",
+      "summary": "An expedition searching for Amelia Earhart's plane near a remote Pacific island has resumed after a three-day pause due to stormy weather. The team hopes to uncover wreckage of the American aviator's aircraft.",
+      "tags": [
+        "history",
+        "aviation",
+        "exploration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "89e863b117f5892e",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "url": "https://api-docs.deepseek.com/guides/search/",
+      "summary": "This Hacker News item highlights DeepSeek's search and fetch API, detailing its pricing at $0.75 per 1000 successful requests. The link leads to API documentation, suggesting a resource for developers interested in integrating search functionalities.",
+      "tags": [
+        "api",
+        "search",
+        "pricing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7721ec034679379f",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "summary": "This Hacker News item links to an article critical of the Elizabeth Holmes documentary \"You Can See Everything,\" alleging that the film is deceiving. The piece likely analyzes how the documentary presents its information or narrative.",
+      "tags": [
+        "documentary",
+        "criticism",
+        "media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4ed71c3cecfb06a5",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+      "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+      "summary": "Despite recent language changes by Meta, legal experts caution that the company's updated terms of service still allow for broad data scraping permissions. This raises ongoing concerns about how user data might be utilized, particularly for AI training.",
+      "tags": [
+        "meta",
+        "data privacy",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "90eea1326fafbe42",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Parser Combinators",
+      "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
+      "summary": "This Hacker News link directs to a blog post discussing parser combinators, a technique for building parsers by combining smaller parsing functions. It is likely a technical article for developers.",
+      "tags": [
+        "programming",
+        "software development",
+        "parsers"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7632075c2c410ec4",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Pele – Mermaid diagrams as themeable SVG",
+      "url": "https://pele.run/",
+      "summary": "Pele is introduced as a tool for rendering Mermaid diagrams as themeable SVG images. This suggests a utility for developers or technical writers to create customizable flowcharts and diagrams.",
+      "tags": [
+        "tools",
+        "diagrams",
+        "development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9fadcc41ef409d79",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "RepRapMicron",
+      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+      "summary": "This Hacker News item points to the RepRapMicron GitHub Wiki, likely detailing a project related to 3D printing and open-source hardware. The wiki serves as a resource for information on the RepRapMicron initiative.",
+      "tags": [
+        "3d printing",
+        "open source",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fc9c6f05355523f4",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "summary": "Sphinx is a FOSS (Free and Open Source Software) tool that integrates into existing coding agent workflows. It functions as a hook that presents a questionnaire to developers about their AI's code before they push to production, ensuring understanding.",
+      "tags": [
+        "ai",
+        "software development",
+        "open source"
+      ],
+      "priority": false
+    },
+    {
+      "id": "00c1637c10eb8550",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "French police arrest 1,800 after violent clashes and looting mar protests",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
+      "summary": "French police arrested at least 1,800 individuals after violent clashes and looting marred nationwide protests that drew hundreds of thousands. Groups battled officers and ransacked shops across the country.",
+      "tags": [
+        "france",
+        "protests",
+        "civil unrest"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ee5ba1c4229e7cd1",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "If you have the scratch, they have the scares",
+      "url": "https://www.npr.org/2026/10/18/nx-s1-5985869/if-you-have-the-scratch-they-have-the-scares",
+      "summary": "The article highlights that scary stories are not just for fun but also constitute a significant business. This suggests a look into the commercial aspect of horror and thrilling narratives.",
+      "tags": [
+        "entertainment",
+        "business",
+        "horror"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e9b1e76f00ca8f5f",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Major fire breaks out in Alberta after deadly incident at military base",
+      "url": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
+      "summary": "A major fire erupted in Alberta following a deadly incident at a military base, where Canada's defense minister confirmed casualties. The incident led to deaths and injuries.",
+      "tags": [
+        "canada",
+        "military",
+        "incident"
+      ],
+      "priority": false
+    },
+    {
+      "id": "29f338b42eeb8f7b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Noah Adams, longtime host of NPR's All Things Considered, has died",
+      "url": "https://www.npr.org/2026/10/18/nx-s1-5556931/noah-adams-all-things-considered-has-died",
+      "summary": "Noah Adams, a distinguished storyteller and longtime host of NPR's All Things Considered, has passed away. His distinctive soft voice and vivid writing style were instrumental in defining NPR's sound for a generation.",
+      "tags": [
+        "npr",
+        "journalism",
+        "obituary"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a28cad64ed9df50b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Oregon governor Tina Kotek reacts to Silver Rail Elementary school shooting",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-6005814/oregon-governor-tina-kotek-reacts-to-silver-rail-elementary-school-shooting",
+      "summary": "Oregon Governor Tina Kotek responded to the shooting incident at Silver Rail Elementary in Bend, Oregon. NPR's Joel Rose interviewed the governor about the event.",
+      "tags": [
+        "school shooting",
+        "oregon",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5579d4dca8927755",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Pope Leo says he will gradually resume duties after cancer surgery",
+      "url": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery",
+      "summary": "Pope Leo XIV thanked thousands in St. Peter's Square for their prayers during his hospitalization and announced his plan to gradually resume duties. This marks his recovery after cancer surgery.",
+      "tags": [
+        "pope",
+        "health",
+        "religion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c22973cd4309ce8b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "With an ad aimed at Trump, this Republican exposed GOP angst about Latino voters",
+      "url": "https://www.npr.org/2026/10/18/nx-s1-5978762/maria-elvira-salazar-immigration-trump",
+      "summary": "Rep. María Elvira Salazar ran an ad warning Trump he had \"gone too far\" on immigration, exposing anxiety among some Republicans about alienating Latino voters. The ad reflects concerns that the GOP's gains with this demographic could be jeopardized.",
+      "tags": [
+        "politics",
+        "immigration",
+        "republican party"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bec176db9d5e17d9",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Inline rendering with document​.currentScript",
+      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
+      "summary": "Lean Rada describes a clever JavaScript trick utilizing `document.currentScript` to enable tiny inline `<script>` elements to replace themselves dynamically when a page loads. This method can also be used to create a small template language for dynamic content.",
+      "tags": [
+        "javascript",
+        "web development",
+        "programming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "857612ee4e2727c1",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "summary": "Anthropic reports a significant change in its workforce composition and work patterns over the past year, noting its employees are now less junior. This shift has also led to staff spending more time in meetings.",
+      "tags": [
+        "anthropic",
+        "corporate",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d7e1ec8dbfd0ea99",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "summary": "Meta removed specific language from its terms to alleviate concerns regarding data scraping and AI training. A Meta spokesperson stated these updates do not signify a change in how the company crawls the web.",
+      "tags": [
+        "meta",
+        "ai",
+        "data privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "587a4fc3e980aa6a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary": "Replit's CEO clarified that OpenAI will become its new default model provider, replacing Anthropic. However, Anthropic's Claude model will still be accessible to customers on the platform.",
+      "tags": [
+        "ai",
+        "openai",
+        "anthropic"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8d987cd1400b2f6a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+      "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+      "summary": "TikTok has permanently banned an advertising account promoting a four-hour documentary about Elon Musk. The documentary continues to face resistance across various social media platforms.",
+      "tags": [
+        "tiktok",
+        "social media",
+        "censorship"
+      ],
+      "priority": false
+    },
+    {
+      "id": "306f08cbaa0d7782",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Nazis Stole Your Family’s Art? Call James Palmer.",
+      "url": "https://www.thefp.com/p/nazis-stole-your-familys-art-justice",
+      "summary": "James Palmer is a Toronto-based art detective specializing in recovering Nazi-looted artworks for the heirs of victimized families. Despite being called a \"Holocaust hustler\" by institutions, he is considered a hero by his clients for his competitive pursuit of restitution.",
+      "tags": [
+        "art",
+        "history",
+        "justice"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2475abc68a7a717e",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "Bloom: A Touching Animated Short Film about Depression and What It Takes to Recover the Light of Being",
+      "url": "https://www.themarginalian.org/2026/10/17/bloom-depression/",
+      "summary": "This article discusses \"Bloom,\" an animated short film created by Emily Johnstone, which metaphorically explores recovery from depression. The film was inspired by a physicist colleague who received an amaryllis bulb as an act of kindness during his own dark period, highlighting how small gestures can initiate healing.",
+      "tags": [
+        "mental health",
+        "film",
+        "kindness"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6a9dd4f562f7dfdf",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "Nineteen Truths and One Beguiling Lie about Life from 20 Years of The Marginalian",
+      "url": "https://www.themarginalian.org/2026/10/18/refiguring/",
+      "summary": "Celebrating 20 years of The Marginalian, this reflective piece explores the evolving self and the process of \"refiguring\" life's experiences. The author created ceramic bowls with words and lichen as a ritual to honor past selves and the constant redefinition of meaning.",
+      "tags": [
+        "philosophy",
+        "self-reflection",
+        "anniversary"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8d5faf5425514f0c",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "The Map to the Route of Your Life",
+      "url": "https://www.themarginalian.org/2026/10/17/benedetti-ruta/",
+      "summary": "No one will map for you the path by which you must cross the wilderness of your own life — not your parents or your teachers, not your heroes or your lovers, not the self-help books or Shakespeare’s sonnets. Some may give you signposts, some may become turning points, but it is a…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "d268d3d48b1be0ee",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Cities want to put the boot on robotaxis",
+      "url": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
+      "summary": "The \"Stepback\" newsletter discusses cities' growing desire to regulate robotaxis, noting that Nevada first legalized self-driving cars in 2011, long before their widespread operation. This comes as autonomous vehicles become more prevalent, prompting new policy challenges.",
+      "tags": [
+        "robotaxis",
+        "transportation",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a1fd632d2f24cfd4",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "How overhead projectors took over your classroom",
+      "url": "https://www.theverge.com/podcast/1013473/overhead-projector-version-history",
+      "summary": "A podcast episode of \"Version History\" explores how the overhead projector, originally a military technology, transformed classrooms and student discipline. The discussion delves into its development, integration into education, and impact on learning methods.",
+      "tags": [
+        "education",
+        "technology",
+        "history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "56be4d91aa002b35",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "J Mascis has nothing better to do",
+      "url": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview",
+      "summary": "Dinosaur Jr. frontman J Mascis, known for his stoic stage presence, is also a quiet interview subject, though he can be funny. He shared a story about his youth as a mini-golf enthusiast, revealing a moment where he realized the game might not be for him.",
+      "tags": [
+        "music",
+        "interview",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c8c537519a4b0731",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Lenovo’s fast, comfy SteamOS handheld is hundreds off",
+      "url": "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale",
+      "summary": "The Lenovo Legion Go S with SteamOS is available at a discounted price of $999.99, offering a solid alternative to the Steam Deck OLED with a larger screen, more RAM, and a faster processor. This model, equipped with the Ryzen Z1 Extreme chip, provides a better experience than the Windows 11 version with the Z2 Go chip.",
+      "tags": [
+        "gaming",
+        "hardware",
+        "deal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "851a1e2988928c4b",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The best gadget I bought this year is a milk frother",
+      "url": "https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget",
+      "summary": "The author became obsessed with cream-top iced Americanos after trying one in Los Angeles and found a milk frother to be the best gadget bought this year. This gadget allowed them to recreate the drink at home after decades of drinking black coffee.",
+      "tags": [
+        "lifestyle",
+        "gadgets",
+        "food"
+      ],
+      "priority": false
+    },
+    {
+      "id": "98ba88f6a0831382",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Trump says Google kisses his ass",
+      "url": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
+      "summary": "During a rally, Donald Trump claimed Google Maps \"kisses his ass\" now, implying he personally influenced the company to reflect his decision to rename the Gulf of Mexico and Lake Ontario. This statement contradicts Google's public stance on such matters.",
+      "tags": [
+        "politics",
+        "google",
+        "trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4c9d3efc6f44cfc8",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Video game ownership bill introduced in Congress",
+      "url": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act",
+      "summary": "Rep. Ritchie Torres introduced the \"Power To The Players Act\" to ensure consumers own video games they purchase, rather than just licensing them. This bill aims to prevent games from becoming unplayable if company servers are shut down, citing NBA 2K25 as an example.",
+      "tags": [
+        "video games",
+        "legislation",
+        "consumer rights"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 50,
+    "summarized": 41,
+    "skipped_promos": 1,
+    "filtered_by_rules": 8,
+    "sources": 8,
+    "email_items_omitted": 0
+  }
+}
