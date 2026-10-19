@@ -1,0 +1,1222 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T19:36:23+00:00",
+  "hot_topics": [
+    {
+      "topic": "The Transformative and Challenging Landscape of AI",
+      "synthesis": "The AI industry is experiencing rapid advancements and significant investment, with new AI assistants gaining funding and major companies like Nvidia launching open models for enterprise. However, these developments come with challenges, including cybersecurity risks and intellectual property concerns for creators. Legal and ethical questions also arise, prompting updated app store guidelines and deeper research into AI model interpretability. Experts are also debating the practical limits of AI agent swarms and whether the AI boom might be financially overextended.",
+      "item_ids": [
+        "cb6ebe16f43ebe09",
+        "de89004b5296d205",
+        "efa9135b02222513",
+        "bd33561e65beafaf",
+        "f4a2d725b13ee6a4",
+        "bbc0f7767972ce1e",
+        "237a9094c946c707",
+        "41a860529456f58c",
+        "c1f55cc70b506ea7",
+        "c29a66a7a85aa6e8",
+        "cb595d41eb336e26",
+        "97e5f32b677cb806",
+        "73ce46febdc65fc5",
+        "a9fbba3f702dc6fa",
+        "b01681240524b6c4",
+        "a1b1a33be6563d37",
+        "1aa9cc9103b093c1",
+        "0187bb7e736e21c6",
+        "46eeb3c88b471329",
+        "39e58ddf96426fb9",
+        "ceeb21f6cdb3ebaf"
+      ]
+    },
+    {
+      "topic": "French Protests and Political Unrest",
+      "synthesis": "France is grappling with widespread violent protests, leading to damage to national landmarks, looting, and numerous arrests and police injuries. President Macron has condemned the unrest, which some observers describe as approaching civil conflict, rooted in deeper societal malaise and frustration among disaffected youth. The events are being viewed as part of a larger continental crisis of youth-led violence.",
+      "item_ids": [
+        "a4da6c32a0004c25",
+        "a864b011cb4a1b78",
+        "616f54fa40b89096",
+        "a4b34bc2662e9ab4",
+        "cd5d0adfabcee0c9",
+        "b84fa157b0ff23cf",
+        "260c8c3281fc24d6"
+      ]
+    },
+    {
+      "topic": "US Midterm Elections and Campaign Dynamics",
+      "synthesis": "The 2026 midterm elections are projected to be the most expensive on record, with over $15 billion raised, yet a GOP pollster casts doubt on a predicted \"blue wave\" due to potential polling biases and enduring partisanship. Campaign finance strategies are shifting, with both parties pulling back money from previously targeted races as expectations consolidate. This complex landscape includes delayed vote counting in some areas and intense political maneuvering.",
+      "item_ids": [
+        "616f54fa40b89096",
+        "bf2b9f7fe98b7c3a",
+        "a4b34bc2662e9ab4",
+        "258316d365d40290",
+        "7a63efab76bf8c60",
+        "1696e3d16f8e635d",
+        "c5190dbe3f950d6f",
+        "cd5d0adfabcee0c9",
+        "254a706f417c7907",
+        "72ae0527b3f610e8"
+      ]
+    },
+    {
+      "topic": "Growing Tensions in US-Ukraine Relations",
+      "synthesis": "Relations between the US and Ukraine appear to be deteriorating, with a Zelensky adviser claiming that US restrictions on intelligence sharing are leading to Ukrainian deaths from missile attacks, a claim denied by the White House. This comes amidst broader discussions about whether Ukraine can sustain its war efforts without continued American support.",
+      "item_ids": [
+        "600b0e90e5980d87",
+        "a4b34bc2662e9ab4",
+        "e7dbbaac2ca4fe2a",
+        "cd5d0adfabcee0c9"
+      ]
+    },
+    {
+      "topic": "Amazon's Investment in Nuclear Energy",
+      "synthesis": "Amazon is making significant strides in its commitment to carbon-free energy by funding the construction of new nuclear power facilities. In partnership with X-energy and American Electric Power, the tech giant plans to deploy 12 small modular nuclear reactors at a former coal plant in Indiana, aiming to supply nearly 1 gigawatt of electricity.",
+      "item_ids": [
+        "80941379dedf95f5",
+        "f592e7c72a1d4dc7"
+      ]
+    },
+    {
+      "topic": "Attack on Australian MP and Political Security Concerns",
+      "synthesis": "An Australian federal independent lawmaker was critically injured after being deliberately struck by a car, leading to the driver's arrest and Prime Minister Anthony Albanese condemning the incident as an intentional attack. This event has heightened concerns regarding the escalating threats and warning signs faced by politicians and public figures in Australia.",
+      "item_ids": [
+        "7131d29b130caced",
+        "9de2d681d85b258d",
+        "2ee28afb4a27f381"
+      ]
+    },
+    {
+      "topic": "Alberta's Potential Independence Referendum",
+      "synthesis": "Voters in the oil-rich Canadian province of Alberta are currently deciding on a ballot initiative that could initiate the process for a future referendum on independence from Canada. This move follows a period of divisive debate, even as polling data suggests a majority of Albertans prefer to remain part of the Canadian federation.",
+      "item_ids": [
+        "a5236166f346ae36",
+        "62330561e8347de4"
+      ]
+    },
+    {
+      "topic": "Former President Trump's Recent Political Activities",
+      "synthesis": "Former President Donald Trump has been active in political endorsements and decisions, backing Israeli Prime Minister Benjamin Netanyahu for re-election while also suspending numerous sanctions on Russia to facilitate peace negotiations. Domestically, he announced plans to renovate a D.C. golf course amidst ongoing legal challenges.",
+      "item_ids": [
+        "311ebb0a000fe95b",
+        "14ae0cee467bfe17",
+        "85bd711e980f8f07",
+        "cd5d0adfabcee0c9"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "11b3aec32ea306a4",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "A vocabulary for the future: nature",
+      "url": "https://aeon.co/videos/theres-nothing-inherently-good-in-the-natural-argues-bruno-latour",
+      "summary": "Philosopher Bruno Latour challenges the human-centric view that \"natural\" is inherently good and \"artificial\" is bad, advocating for a re-evaluation of our vocabulary concerning nature.",
+      "tags": [
+        "philosophy",
+        "nature",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bf1f0882b1cc304f",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Horrible, unmanly, indispensable",
+      "url": "https://aeon.co/essays/the-renaissance-gun-from-diabolical-device-to-popular-militias",
+      "summary": "Renaissance Italians initially viewed the gun as diabolical and unchivalrous but eventually embraced it as an indispensable weapon, leading to its adoption by popular militias.",
+      "tags": [
+        "history",
+        "warfare",
+        "philosophy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cb6ebe16f43ebe09",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "AI game clones are making indie developers afraid to show their work",
+      "url": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+      "summary": "Indie game developers are increasingly hesitant to share early work due to the efficiency of AI coding tools in creating clones. Alliance Arts, for example, delayed a public demo of their game, fearing AI could quickly replicate its presentation and gameplay.",
+      "tags": [
+        "ai",
+        "gaming",
+        "intellectual property"
+      ],
+      "priority": false
+    },
+    {
+      "id": "de89004b5296d205",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Disney found a way to buy Character.AI without buying its lawsuits",
+      "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+      "summary": "Character.AI declared bankruptcy as part of a deal allowing Disney to hire most of its staff and potentially acquire its technology, while avoiding the startup's legal liabilities from lawsuits and regulatory investigations. The bankruptcy aims to resolve issues with claimants and maximize asset value for shareholders.",
+      "tags": [
+        "ai",
+        "acquisition",
+        "bankruptcy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c4697b95656569eb",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Florida DMV hacked after police dept insecurely stored login info",
+      "url": "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/",
+      "summary": "The Florida Department of Highway Safety and Motor Vehicles notified victims of a data breach where a malicious actor accessed driver's license and motor vehicle data using compromised credentials. The department is offering one year of credit monitoring, though not all former residents may receive direct alerts.",
+      "tags": [
+        "cybersecurity",
+        "data breach",
+        "florida"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c2185cafd8960eff",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Review: Lanterns is a truly unique twist on the superhero genre",
+      "url": "https://arstechnica.com/culture/2026/10/review-lanterns-is-a-truly-unique-twist-on-the-superhero-genre/",
+      "summary": "HBO's DC Universe series \"Lanterns\" offers a unique, gritty, realistic take on the superhero genre, reminiscent of \"True Detective,\" delivering an emotionally charged finale. The series presents two main storylines, including Green Lanterns Hal Jordan and John Stewart investigating an alien-linked mass shooting.",
+      "tags": [
+        "entertainment",
+        "tv review",
+        "superheroes"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e63b27ddc9ee3e62",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+      "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+      "summary": "Endurance Energy successfully conducted the world's first subsea geothermal power plant demonstration near an underwater volcano, generating electricity for less than 10 seconds. This test proves the technical feasibility of harnessing renewable energy from the deep ocean for compact power plants.",
+      "tags": [
+        "renewable energy",
+        "geothermal",
+        "startup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "46eeb3c88b471329",
+      "source": "Astral Codex Ten",
+      "source_type": "substack",
+      "title": "Open Thread 456",
+      "url": "https://www.astralcodexten.com/p/open-thread-456",
+      "summary": "This \"Open Thread 456\" covers various topics including meetup changes, a Boston election voting guide, and an AI grantmaking survey. It also announces Stephen Grugett's new real-money prediction market on AI, MNX, and Goodheart Labs' Common Notes project.",
+      "tags": [
+        "community",
+        "ai",
+        "prediction markets"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a5236166f346ae36",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
+      "url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Voters in Alberta are heading to the polls to decide on holding a referendum for separation from Canada, a divisive debate despite polls suggesting most favor remaining united.",
+      "tags": [
+        "canada",
+        "politics",
+        "referendum"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7131d29b130caced",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Australian MP critically injured after being hit by car in apparent attack",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
+      "summary": "An independent Australian MP was critically injured after being hit by a car in what the prime minister described as an apparent deliberate attack. The incident highlights rising concerns about threats to politicians.",
+      "tags": [
+        "australia",
+        "politics",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "075de699fa19734a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
+      "url": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
+      "summary": "Bangladesh reported that it was not informed by Saudi Arabia about the execution of two of its citizens, whom Saudi Arabia stated were put to death for an \"indecent act\" in a mosque.",
+      "tags": [
+        "saudi arabia",
+        "bangladesh",
+        "international relations"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4910d83022029998",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Bollywood actor Tiger Shroff survives shooting attempt in Mumbai",
+      "url": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Bollywood actor Tiger Shroff survived a shooting attempt in Mumbai, with gunmen firing at his car as it moved slowly through a crowd.",
+      "tags": [
+        "crime",
+        "india",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6a4a5c6b7e8df095",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Catalonia's former rebel president can return to Spain, court rules",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
+      "summary": "A court ruled that Carles Puigdemont, Catalonia's former rebel president, can return to Spain by upholding a decision to lift his arrest warrant related to the 2017 independence bid.",
+      "tags": [
+        "spain",
+        "catalonia",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "338974676201a990",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+      "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+      "summary": "A deadly fire at a Canadian military base, which killed four men and injured dozens, spread rapidly, covering a kilometer in 30 to 60 seconds.",
+      "tags": [
+        "canada",
+        "military",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "26c309d0b0ad1bcd",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+      "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Court filings suggest a former OpenAI employee, accused of planting a device, had support from the Saudi government, though Saudi Arabia has not commented.",
+      "tags": [
+        "openai",
+        "national security",
+        "litigation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cf8574221c214bc9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Exiled critic of Rwandan president found beheaded",
+      "url": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
+      "summary": "Robert Kabera, a former army sergeant major, popular YouTuber, and exiled critic of the Rwandan president, was found beheaded in Uganda, where he had sought asylum.",
+      "tags": [
+        "rwanda",
+        "uganda",
+        "human rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4fefdd0fdb0da312",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Funding shortages force World Food Programme to cut aid to Gaza",
+      "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Due to funding shortages, the World Food Programme is reducing aid to Gaza, decreasing the number of beneficiaries from 1.6 million to 1.1 million people.",
+      "tags": [
+        "gaza",
+        "humanitarian aid",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a4da6c32a0004c25",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "In pictures: French landmarks damaged and destroyed by violent protesters",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8n7l0le11o?at_medium=RSS&at_campaign=rss",
+      "summary": "Violent protests across France have caused significant damage to landmarks, shocking many despite the country's history of protests.",
+      "tags": [
+        "france",
+        "protests",
+        "civil unrest"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4eb80c39a6823731",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+      "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+      "summary": "Chicago communities are actively combating a new influx of synthetic drugs, as reported by the BBC's Quentin Sommerville.",
+      "tags": [
+        "chicago",
+        "drugs",
+        "public health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6ff4b0ed54ecd651",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+      "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two men detail their involvement in anti-Putin sabotage efforts from within Russia, claiming to support Ukrainian intelligence during the ongoing war.",
+      "tags": [
+        "russia",
+        "ukraine",
+        "espionage"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a1b5afb25c945585",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Self-proclaimed pastor Paul Mackenzie was convicted of 191 murder charges, primarily involving children, after instructing parents to starve them.",
+      "tags": [
+        "crime",
+        "kenya",
+        "cult"
+      ],
+      "priority": false
+    },
+    {
+      "id": "87623692074de51b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
+      "url": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Former President Obama criticized the federal probe and search of Congresswoman Ilhan Omar's home, calling it \"appalling\" and an attempt to intimidate a Trump critic.",
+      "tags": [
+        "politics",
+        "us government",
+        "ilhan omar"
+      ],
+      "priority": false
+    },
+    {
+      "id": "45c15e9ca54df4a5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Personal attacks fire up debate before Brazil's run-off vote",
+      "url": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Personal attacks are intensifying the debate in Brazil just days before the run-off election between the left-wing incumbent and his right-wing challenger.",
+      "tags": [
+        "brazil",
+        "politics",
+        "election"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d32983c17ab89121",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Researchers investigating an object spotted on satellite imagery in 2020 near a remote Pacific Island concluded it is likely trees, not Amelia Earhart's plane wreckage.",
+      "tags": [
+        "history",
+        "aviation",
+        "mystery"
+      ],
+      "priority": false
+    },
+    {
+      "id": "311ebb0a000fe95b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Trump stated that he suspended numerous sanctions on Russia, two days before they were set to take effect, to facilitate ongoing peace negotiations.",
+      "tags": [
+        "us foreign policy",
+        "russia",
+        "diplomacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "600b0e90e5980d87",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+      "summary": "A Zelensky adviser claims Ukrainians are dying due to US restrictions on intelligence sharing, preventing timely warnings for missile attacks, though the White House denies any changes to sharing policy.",
+      "tags": [
+        "ukraine",
+        "us policy",
+        "military aid"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bf0e761386bf0e08",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US airman dies as daredevil descent goes wrong before Texas college football game",
+      "url": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
+      "summary": "A US airman died during a daredevil descent gone wrong before a Texas college football game, with the game continuing after the incident before his death was known.",
+      "tags": [
+        "accident",
+        "military",
+        "sports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9de2d681d85b258d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Warning signs over threats to Australian politicians were rising before MP hit by car",
+      "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
+      "summary": "Warnings about increasing threats to Australian politicians were noted before MP Helen Haines was hit by a car, an incident that confirmed fears among public figures.",
+      "tags": [
+        "australia",
+        "politics",
+        "security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a864b011cb4a1b78",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Shops looted and restaurants gutted in Paris riots",
+      "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
+      "summary": "Footage shows shops being looted and restaurants destroyed during widespread violence across France, as over half a million people protested over the weekend.",
+      "tags": [
+        "france",
+        "protests",
+        "civil unrest"
+      ],
+      "priority": false
+    },
+    {
+      "id": "57debd1dea701203",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Alternatives to animal testing are finally taking off",
+      "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+      "summary": "Hacker News covers the increasing adoption of alternatives to animal testing, indicating a significant shift in scientific and research practices.",
+      "tags": [
+        "science",
+        "research",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "99efe797aebbad51",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "I no longer care to work on any Ruby gems so I've archived all my repositories",
+      "url": "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository",
+      "summary": "A developer announced on Hacker News their decision to archive all Ruby gem repositories, indicating an end to their work on them. The post garnered considerable discussion among developers.",
+      "tags": [
+        "software development",
+        "ruby",
+        "open source"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8453c539e6102255",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+      "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+      "summary": "Let's Encrypt is enhancing its domain validation process by incorporating two additional remote perspectives, aiming to improve security and reliability.",
+      "tags": [
+        "cybersecurity",
+        "web security",
+        "domain validation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e85949fbbca60ee7",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "MiniMax M3.1 Flash",
+      "url": "https://www.minimax.io/blog/minimax-m31f",
+      "summary": "Hacker News features a post announcing \"MiniMax M3.1 Flash,\" a software release that generated significant discussion.",
+      "tags": [
+        "software",
+        "release"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a9fbba3f702dc6fa",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Timestral: Mistral's time-series foundation models",
+      "url": "https://mistral.ai/news/timestral/",
+      "summary": "Mistral AI has introduced \"Timestral,\" new time-series foundation models, drawing significant attention and discussion on Hacker News.",
+      "tags": [
+        "ai",
+        "machine learning",
+        "deep learning"
+      ],
+      "priority": false
+    },
+    {
+      "id": "72dc20ede903af02",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Wine ported to OpenBSD",
+      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+      "summary": "Hacker News highlights the successful porting of Wine, a compatibility layer for running Windows applications, to the OpenBSD operating system.",
+      "tags": [
+        "open source",
+        "operating systems",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b01681240524b6c4",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "summary": "Nick Cammarata of Goodfire claims that large language models might be easier to understand and control than previously thought, contrary to the long-held belief of their tangled internal structures. This perspective challenges established mechanistic interpretability research, suggesting a \"logic to neural networks\" he uncovered by extensively observing neurons.",
+      "tags": [
+        "ai",
+        "neural networks",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0187bb7e736e21c6",
+      "source": "Noahpinion",
+      "source_type": "substack",
+      "title": "Can a Million AI Agents Create Superintelligence?",
+      "url": "https://www.noahpinion.blog/p/can-a-million-ai-agents-create-superintelligence",
+      "summary": "Ramez Naam expresses skepticism about the dramatic increase in AI capabilities from agent swarms, arguing that parallelization primarily boosts speed rather than intelligence and faces diminishing returns. While AI model capabilities continue to improve, he cautions against overly high expectations for agent swarms in achieving conceptual breakthroughs for self-sustaining superintelligence.",
+      "tags": [
+        "ai",
+        "research",
+        "superintelligence"
+      ],
+      "priority": false
+    },
+    {
+      "id": "616f54fa40b89096",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "2026 midterms could be the most expensive on record. And, Macron condemns protests",
+      "url": "https://www.npr.org/2026/10/19/g-s1-148733/up-first-newsletter-ukraine-russia-campaign-finances-france-protests",
+      "summary": "Over $15 billion has been raised for the 2026 midterm elections, making them potentially the most expensive on record, while France's president has condemned violent protests across the country.",
+      "tags": [
+        "elections",
+        "us politics",
+        "france"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4a3c69b1a4caaf58",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "A Kelvin wave raised sea levels on the West Coast. More are coming",
+      "url": "https://www.npr.org/2026/10/19/nx-s1-6001744/el-nino-kelvin-wave-west-coast",
+      "summary": "A Kelvin wave, driven by El Niño, caused sea levels to rise on the West Coast, and scientists predict more such events will occur.",
+      "tags": [
+        "climate change",
+        "oceanography",
+        "west coast"
+      ],
+      "priority": false
+    },
+    {
+      "id": "62330561e8347de4",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Alberta voters weigh future in Canada",
+      "url": "https://www.npr.org/2026/10/18/nx-s1-6004877/alberta-referendum-canada-vote",
+      "summary": "Voters in Alberta are deciding on Monday whether to take an initial step towards a future referendum on independence from Canada.",
+      "tags": [
+        "canada",
+        "politics",
+        "referendum"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2ee28afb4a27f381",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Australian prime minister says lawmaker critically injured by car is 'no accident'",
+      "url": "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured",
+      "summary": "Australia's Prime Minister Anthony Albanese stated that the critical injury of a federal independent lawmaker, hit by a car, was an apparent deliberate attack, and the driver was arrested.",
+      "tags": [
+        "australia",
+        "politics",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "72ae0527b3f610e8",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Michigan's Democratic Senate candidate Abdul El-Sayed campaigns in GOP stronghold",
+      "url": "https://www.npr.org/2026/10/19/nx-s1-6005195/michigans-democratic-senate-candidate-abdul-el-sayed-campaigns-in-gop-stronghold",
+      "summary": "Michigan's Democratic U.S. Senate candidate, Abdul El-Sayed, is campaigning in the state's Upper Peninsula, a traditional GOP stronghold that has not elected a Democrat to Congress in over a decade.",
+      "tags": [
+        "michigan",
+        "elections",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a4b34bc2662e9ab4",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/10/19/nx-s1-6003499/morning-news-brief",
+      "summary": "This morning news brief covers ongoing missile exchanges between Ukraine and Russia, deteriorating US-Ukraine relations, record-breaking midterm election expenses, and the French president's denouncement of violent protests.",
+      "tags": [
+        "news brief",
+        "geopolitics",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bf2b9f7fe98b7c3a",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "The real reason it's going to take a while to know who won in some midterm races",
+      "url": "https://www.npr.org/2026/10/19/nx-s1-5982027/california-vote-counting-margins",
+      "summary": "The article discusses the reasons behind delayed election results in certain midterm races, extending beyond California's slow vote-counting processes.",
+      "tags": [
+        "elections",
+        "us politics",
+        "vote counting"
+      ],
+      "priority": false
+    },
+    {
+      "id": "14ae0cee467bfe17",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
+      "url": "https://www.npr.org/2026/10/19/g-s1-148731/trump-endorses-netanyahu",
+      "summary": "Donald Trump endorsed Israeli Prime Minister Benjamin Netanyahu for re-election, praising him as a \"Great Warrior Prime Minister\" and a \"greater Partner for Peace\" against Iran.",
+      "tags": [
+        "us foreign policy",
+        "israel",
+        "donald trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "85bd711e980f8f07",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump to close and renovate D.C. golf course, despite legal battle",
+      "url": "https://www.npr.org/2026/10/18/nx-s1-6007384/trump-to-close-and-renovate-d-c-golf-course-despite-legal-battle",
+      "summary": "President Trump plans to close and renovate a D.C. golf course, aiming to transform a public area into a world-class facility, despite an ongoing legal battle.",
+      "tags": [
+        "donald trump",
+        "real estate",
+        "washington dc"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1696e3d16f8e635d",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Inside the quiet money pullback — for both parties — in Georgia’s Senate race",
+      "url": "https://www.politico.com/news/2026/10/19/georgia-money-standoff-ossoff-01125263",
+      "summary": "Both Democratic and Republican super PACs have significantly scaled back advertising spending in Georgia's Senate race, indicating growing expectations that Democratic Sen. Jon Ossoff will secure re-election. This pullback shifts focus to more competitive races, despite previous substantial investment pledges.",
+      "tags": [
+        "elections",
+        "us politics",
+        "campaign finance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7a63efab76bf8c60",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Ohio returns as a bellwether",
+      "url": "https://www.politico.com/video/2026/10/19/ohio-returns-as-a-bellwether-2204376",
+      "summary": "Ohio is re-emerging as a political bellwether state, indicating its importance in predicting broader election trends.",
+      "tags": [
+        "ohio",
+        "elections",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "258316d365d40290",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "‘A warning sign for polling’: Why one GOP pollster thinks a blue wave may fall short",
+      "url": "https://www.politico.com/news/2026/10/19/republican-pollster-skeptical-democratic-wave-01124942",
+      "summary": "GOP pollster Patrick Ruffini expresses skepticism about a massive \"blue wave\" for Democrats in the upcoming midterms, arguing that polls may be inflating the battleground size due to non-response bias favoring Democrats. He believes ingrained partisanship in deep-red states will limit Democratic gains, particularly in the Midwest.",
+      "tags": [
+        "elections",
+        "us politics",
+        "polling"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a1b1a33be6563d37",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
+      "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
+      "summary": "OpenAI announced a proof for the \"quasi-Riemann hypothesis,\" a weaker version of a major math problem, hailed as the most significant AI-for-math achievement to date. This development was among 377 results revealed by OpenAI on October 6, 2026.",
+      "tags": [
+        "ai",
+        "mathematics",
+        "openai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ceeb21f6cdb3ebaf",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "llm-echo 0.5",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+      "summary": "The llm-echo debug plugin has been updated to version 0.5, now accurately including tool calls, system prompts, and reasoning tokens in its simulated token usage counts. This update is part of preparations for a new LLM release.",
+      "tags": [
+        "software",
+        "llm",
+        "debugging"
+      ],
+      "priority": false
+    },
+    {
+      "id": "39e58ddf96426fb9",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "llm-tools-datasette 0.1.1",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+      "summary": "A new release, llm-tools-datasette 0.1.1, fixes a bug where the plugin broke after LLM 0.33 switched to httpx2, due to an indirect dependency issue.",
+      "tags": [
+        "software",
+        "bug fix",
+        "llm"
+      ],
+      "priority": false
+    },
+    {
+      "id": "41a860529456f58c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "AI assistant startup Town nabs unicorn valuation four months after launch",
+      "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+      "summary": "AI assistant startup Town quickly reached a unicorn valuation after launching four months ago, securing a $108 million Series B funding round.",
+      "tags": [
+        "ai",
+        "startup",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f592e7c72a1d4dc7",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+      "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
+      "summary": "Amazon and X-energy have partnered again to fund the deployment of 12 small modular nuclear reactors at a former Indiana coal plant, aiming to generate nearly 1 gigawatt of electricity for the grid.",
+      "tags": [
+        "amazon",
+        "nuclear energy",
+        "infrastructure"
+      ],
+      "priority": false
+    },
+    {
+      "id": "73ce46febdc65fc5",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "summary": "Anthropic announced a commitment to allocate 5% of its shares to a \"public benefit fund,\" with potential uses including large donations to nonprofits or direct distributions to specific populations.",
+      "tags": [
+        "ai",
+        "corporate social responsibility",
+        "anthropic"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cb595d41eb336e26",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
+      "url": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
+      "summary": "Apple has updated its app guidelines to specifically ban \"nudify\" apps that attempt to bypass review by masquerading as legitimate applications. The new rules emphasize stricter moderation requirements for AI and user-generated content to prevent objectionable material.",
+      "tags": [
+        "apple",
+        "app store",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b9556d3b4dc47d16",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+      "url": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
+      "summary": "The Elizabeth Holmes documentary \"You Can See Everything\" has achieved the second-biggest opening weekend ever for a documentary film.",
+      "tags": [
+        "documentary",
+        "film",
+        "elizabeth holmes"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bd33561e65beafaf",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "summary": "Open-source AI coding agent OpenCode was compromised by hackers who stole user API keys, leading to unauthorized charges on users' AI accounts. The incident highlights a security vulnerability despite the use of AI tools for assistance.",
+      "tags": [
+        "cybersecurity",
+        "ai",
+        "hacking"
+      ],
+      "priority": false
+    },
+    {
+      "id": "97e5f32b677cb806",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "summary": "Laplace Intelligence, a University of Michigan spinout, employs AI agents and interactive simulation to stress-test robots and self-driving vehicles before their real-world deployment. The profitable startup is competing in TechCrunch Disrupt.",
+      "tags": [
+        "ai",
+        "robotics",
+        "autonomous vehicles"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8f988b34cacb8735",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+      "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+      "summary": "The partners at Benchmark, a prominent Silicon Valley venture capital firm, discussed their investment strategy in a fast-paced market, emphasizing their commitment to San Francisco and a deliberate approach despite increased funds and partner changes.",
+      "tags": [
+        "venture capital",
+        "startup",
+        "san francisco"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c29a66a7a85aa6e8",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "summary": "Nvidia has released new open models designed to enable AI agents to run in enterprise environments and on personal computers. The company is focusing on allowing businesses to use their own open models in their data centers and promoting private, on-device AI agents.",
+      "tags": [
+        "nvidia",
+        "ai",
+        "enterprise"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c1f55cc70b506ea7",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "People are using AI to make their smart TVs dumb again",
+      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "summary": "Smart TV owners are increasingly utilizing AI agents to remove bloatware, ads, and tracking, effectively making their smart TVs \"dumb\" again and regaining control over their devices.",
+      "tags": [
+        "smart tv",
+        "ai",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bbc0f7767972ce1e",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+      "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+      "summary": "Eugenia Kuyda, founder of Replika, has launched a new startup called Wabi, offering a free and downloadable personal AI assistant. This new venture realizes an idea she initially pitched a decade ago.",
+      "tags": [
+        "ai",
+        "startup",
+        "personal assistant"
+      ],
+      "priority": false
+    },
+    {
+      "id": "efe5660ea804f17f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs",
+      "url": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
+      "summary": "Rivian's CEO believes that the advancement of autonomous driving technology will lead to significantly different vehicle designs, culminating in their R4 model.",
+      "tags": [
+        "autonomous vehicles",
+        "automotive",
+        "design"
+      ],
+      "priority": false
+    },
+    {
+      "id": "237a9094c946c707",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "summary": "Tenstorrent, an Nvidia competitor, achieved a $6.2 billion valuation by raising $1.5 billion to remain independent and scale its open-weight AI chips.",
+      "tags": [
+        "ai",
+        "hardware",
+        "valuation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f4a2d725b13ee6a4",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "summary": "AI companion app Tolan secured an additional $30 million in funding after attracting over 250,000 active users.",
+      "tags": [
+        "ai",
+        "startup",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c5190dbe3f950d6f",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "A Town Hall with Vice President J.D. Vance",
+      "url": "https://www.thefp.com/p/a-town-hall-with-vice-president-jd-vance",
+      "summary": "Vice President J.D. Vance participated in a town hall in Flat Rock, Michigan, discussing topics such as Immigration and Customs Enforcement, the economy, corruption, and the upcoming midterms.",
+      "tags": [
+        "us politics",
+        "jd vance",
+        "midterms"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e7dbbaac2ca4fe2a",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Can Ukraine Win Without America?",
+      "url": "https://www.thefp.com/p/can-ukraine-win-war-with-russia-without-america-putin-trump",
+      "summary": "Russia is losing ground in eastern Ukraine, but the White House's actions may be providing a lifeline to Vladimir Putin, raising questions about Ukraine's ability to win without American support. Retired Australian Army major general Mick Ryan examines links between the Iran war and Ukraine.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "geopolitics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4376de7b60860ef0",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Do Great Men Actually Matter? With Jared Diamond",
+      "url": "https://www.thefp.com/p/do-great-men-actually-matter-with",
+      "summary": "Jared Diamond's new book explores the impact of individual leaders on history, using basketball coaches as a test case. The author, a Pulitzer-winning UCLA professor, notes the book resonates with his interest in presidential biographies and basketball.",
+      "tags": [
+        "history",
+        "leadership",
+        "books"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b84fa157b0ff23cf",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "If This Isn’t a Civil War, It Certainly Looks Like One",
+      "url": "https://www.thefp.com/p/if-this-isnt-a-civil-war-france-protest-riots",
+      "summary": "An observer in Paris recounts feeling sickened and frightened by widespread violence during protests across France, with scenes resembling a war zone near his home. The protests featured violent assaults on police and property, set against a backdrop of burning cars and tear gas.",
+      "tags": [
+        "france",
+        "protests",
+        "civil unrest"
+      ],
+      "priority": false
+    },
+    {
+      "id": "254a706f417c7907",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Anatomy of a MAGA Smear",
+      "url": "https://www.thefp.com/p/the-anatomy-of-a-maga-smear-talarico-midterms-election",
+      "summary": "Texas Democratic Senate candidate James Talarico's temporary absence due to illness sparked rumors and a \"MAGA smear\" campaign suggesting he was admitted to a psychiatric clinic. Internet sleuths scrutinized his public appearances after a nine-day recovery from the flu, which was exacerbated by his type I diabetes.",
+      "tags": [
+        "us politics",
+        "elections",
+        "disinformation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "260c8c3281fc24d6",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The French Republic Is Under Attack",
+      "url": "https://www.thefp.com/p/the-french-republic-is-under-attack-democracy-tyranny-unrest",
+      "summary": "Protesters in France, shouting \"It's the Revolution, we're taking the Bastille!,\" stormed buildings and caused extensive damage, including burning Limoges city hall and ransacking Bordeaux's prefect residence. Over 2,000 people were arrested and 600 police officers injured, escalating from earlier student demonstrations over school conditions.",
+      "tags": [
+        "france",
+        "protests",
+        "civil unrest"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cd5d0adfabcee0c9",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The French Republic Is Under Attack. Plus. . .",
+      "url": "https://www.thefp.com/p/the-french-republic-is-under-attack",
+      "summary": "This daily digest from The Free Press covers the ongoing violent protests across France, which some observers compare to a civil war, alongside news on President Trump's endorsement of Netanyahu, Ukrainian President Zelensky's concerns about US support, and political polling data related to midterm elections. It also highlights an article on why Europe is ablaze due to disaffected youth.",
+      "tags": [
+        "france",
+        "protests",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1aa9cc9103b093c1",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Will Data Centers Be the Next Big Short?",
+      "url": "https://www.thefp.com/p/will-data-centers-be-the-next-big-finance-business",
+      "summary": "Famed investors Steve Eisman and Michael Burry, known for anticipating the 2008 financial crisis, are warning that the financing methods driving the current AI boom resemble the \"financial shenanigans\" that led to Enron's downfall. They point to off-balance-sheet financing and other techniques reminiscent of past economic disasters, suggesting history is repeating itself.",
+      "tags": [
+        "finance",
+        "ai",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0138e615a0e618d3",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "How to Unself in Order to Be Who You Really Are",
+      "url": "https://www.themarginalian.org/2026/10/18/iris-murdoch-unselfing/",
+      "summary": "Iris Murdoch's \"The Sovereignty of Good\" introduces \"unselfing\" as a crucial act for recognizing diverse beautiful lives and understanding goodness, achieved through communion with nature and contemplation of art. She argues that this process helps one transcend selfish consciousness to perceive the world more truly.",
+      "tags": [
+        "philosophy",
+        "self-awareness",
+        "art"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fa418820c800f83c",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "When Relationships Change: Anne Morrow Lindbergh on Embracing the Intermittency and Mutability of Love",
+      "url": "https://www.themarginalian.org/2026/10/19/anne-morrow-lindbergh-change/",
+      "summary": "Anne Morrow Lindbergh's \"Gift from the Sea\" explores the mutable nature of love, advising against the fear of change in relationships and encouraging the embrace of evolving connections. She suggests true identity comes from creative activity rather than seeking it in another's love.",
+      "tags": [
+        "philosophy",
+        "relationships",
+        "personal growth"
+      ],
+      "priority": false
+    },
+    {
+      "id": "80941379dedf95f5",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Amazon is funding a new nuclear plant in Indiana",
+      "url": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
+      "summary": "Amazon, in partnership with X-energy and AEP, is funding a new nuclear energy facility in Indiana to provide up to 960 megawatts of carbon-free energy for the grid and Amazon's data centers. This proposed plant will replace a defunct coal station and is slated to include 12 Xe-100 SMRs.",
+      "tags": [
+        "amazon",
+        "nuclear energy",
+        "infrastructure"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1d688b258c9c564c",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Apple teases MacBook Pro event next week",
+      "url": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
+      "summary": "Apple has sent invitations for a product launch event on October 28th, where new Macs and a refreshed iPad Mini are expected to be announced. A new MacBook Pro with an OLED touchscreen and Dynamic Island, along with a 14-inch MacBook Pro and an iMac with the M6 chip, are anticipated.",
+      "tags": [
+        "apple",
+        "product launch",
+        "macbook"
+      ],
+      "priority": false
+    },
+    {
+      "id": "efa9135b02222513",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+      "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+      "summary": "Illinois Governor JB Pritzker discusses the political realignment driven by issues like AI and privacy, emphasizing the government's role in protecting citizens from technology's impact. He believes government must be more active in fighting for people, not just collaborating with business, while also addressing concerns about AI's potential societal threats.",
+      "tags": [
+        "ai",
+        "politics",
+        "privacy"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 104,
+    "summarized": 79,
+    "skipped_promos": 3,
+    "filtered_by_rules": 22,
+    "sources": 15,
+    "email_items_omitted": 0
+  }
+}
