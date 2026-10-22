@@ -1,0 +1,1392 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T18:14:49+00:00",
+  "hot_topics": [
+    {
+      "topic": "Meta Faces Record $25 Billion Fine from New Mexico",
+      "synthesis": "Meta has been ordered to pay $25 billion to New Mexico after a jury found the company guilty of nearly 44 million violations of state consumer protection laws. This historic fine, the largest ever against Meta, came after New Mexico's Attorney General declined an earlier $18 billion multi-state settlement. A US district court judge cited Meta's repeated deception of users since 2010 regarding data control, third-party misuse, misinformation, hate speech, and equal enforcement.",
+      "item_ids": [
+        "97a8609d43b2bd0d",
+        "43e619fd03a24dfb"
+      ]
+    },
+    {
+      "topic": "Tesla Reports Profit Decline Amidst FSD Accident and Cybercab Scrutiny",
+      "synthesis": "Tesla's third-quarter net profit dropped by 43% year-over-year, despite beating analyst sales projections, with automotive revenues decreasing by 3%. Meanwhile, a Tesla operating in Full Self-Driving (FSD) mode was involved in a fatal accident with a pedestrian on I-80. The company is also moving forward with plans to sell its Cybercab robotaxis by year-end, even as the NHTSA has opened an investigation into the vehicles.",
+      "item_ids": [
+        "7a459134a9719e29",
+        "fc8cba308995bba8",
+        "5d75f524d49ac316"
+      ]
+    },
+    {
+      "topic": "AI Agents and LLMs Gain Enterprise Traction and Market Presence",
+      "synthesis": "OpenAI's latest models are expanding to Google Cloud and its coding tool, Antigravity, while Uber is deploying ChatGPT Work to all 30,000 employees. Anthropic has launched its Claude Duet app, betting on the rise of AI agents, and has also donated its Agent Skills standard to the Agentic AI Foundation. Companies like Spotify are also strategizing for a future where AI agents play a central role, highlighting the growing integration and standardization efforts in the AI landscape.",
+      "item_ids": [
+        "ea7ffd73b651b04a",
+        "2deb5b68650a1c17",
+        "3bde6f08751762ba",
+        "891b595f84bf3612",
+        "f92239c95d20e491",
+        "34cc10da870eb473",
+        "e919b9034225f0dc"
+      ]
+    },
+    {
+      "topic": "Nintendo Switch 2 Reportedly Jailbroken with AI Assistance",
+      "synthesis": "The Nintendo Switch 2 has reportedly been jailbroken using an old game and AI, allowing modders to run custom versions of games with new characters. This exploit, dubbed \"ns2jb,\" was developed with assistance from OpenAI's Codex and has quickly emerged after the console's release.",
+      "item_ids": [
+        "41bb3909ef40153f",
+        "0aad3b865f70aeb9"
+      ]
+    },
+    {
+      "topic": "Protests and Riots Lead to Bans in French Cities",
+      "synthesis": "Following a month of student-led protests that escalated into civil unrest, France has experienced widespread riots, looting, and arson. Authorities responded by imposing a total ban on protests in cities like Marseille and Lyon. Analysts suggest these protests are driven by a coalition of Islamists, antifascists, and radical environmentalists aiming to destabilize democratic institutions.",
+      "item_ids": [
+        "79b6ea2002ff7cfe",
+        "0f05b1180f29d298",
+        "326470f52a374c2b"
+      ]
+    },
+    {
+      "topic": "Fake Polls Spark Election Concerns and Media Warnings",
+      "synthesis": "A company, Wedgewood Polls, admitted to fabricating its polling data, which had influenced campaign decisions and narratives for the 2026 midterms. This incident prompted the FCC Chairman to warn broadcasters against airing \"fake polls\" without scientific basis or context, amplifying concerns about information pollution and its potential to sway elections and donor funding.",
+      "item_ids": [
+        "e2af25819438feab",
+        "be62dc8b6b6a02c1"
+      ]
+    },
+    {
+      "topic": "Data Centers Spark Environmental and Political Opposition",
+      "synthesis": "Google cleared 300 hectares of Finnish forest for a data center, highlighting the environmental impact of Big Tech infrastructure. In Spain, drought-stricken regions are becoming hubs for data centers, transforming landscapes. This expansion has led to bipartisan political opposition in the US, with politicians calling for local control and guardrails to prevent utility rate hikes, reflecting growing public and political concern over data center development.",
+      "item_ids": [
+        "2cf4247f4eb3ed38",
+        "016f6020e66428fc",
+        "f8c759bb771e5b19"
+      ]
+    },
+    {
+      "topic": "Airbnb Limits Guest Chores, Drawing Host Criticism",
+      "synthesis": "Airbnb has introduced new rules limiting chores guests can be required to perform, such as stripping beds or washing dishes, applying to all reservations booked on or after November 20. This policy change has generated significant backlash from hosts, with some threatening to leave the platform in response.",
+      "item_ids": [
+        "66372f99483189da",
+        "31511c8af03e7eab"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "062cc43690854a9b",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Bhutan: the last place",
+      "url": "https://aeon.co/videos/what-happened-when-the-only-country-to-ban-tv-lifted-the-ban",
+      "summary": "A video explores the impact of television on Bhutanese society when the country, previously the last to ban TV, lifted the prohibition in 1999.",
+      "tags": [
+        "culture",
+        "media",
+        "bhutan"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0846cdceeff3c58b",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Other people",
+      "url": "https://aeon.co/essays/living-in-community-is-where-self-illusions-go-to-die",
+      "summary": "An essay delves into the radical choice of living communally as a remedy for contemporary disconnection, exploring how community life helps confront self-illusions.",
+      "tags": [
+        "philosophy",
+        "community",
+        "social psychology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5b5b8c80a1d9cf8e",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
+      "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
+      "summary": "Unknown hackers hijacked over 300 Tor exit nodes, reconfiguring them to prioritize unencrypted email traffic and redirect SSH connections through their controlled servers. The attack, which began in late August, involved using a reused password to access a Tor management server and installing the Ebury backdoor.",
+      "tags": [
+        "cybersecurity",
+        "tor",
+        "hacking"
+      ],
+      "priority": false
+    },
+    {
+      "id": "87595b83d64070ee",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
+      "url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
+      "summary": "Enterprise businesses reportedly waste an average of 28% of their software budgets on unwanted upgrades, migrations, and licensing changes, often against the advice of their IT heads. A survey of 2,018 CIOs found that these changes are frequently considered detrimental, prompting a call for independent software maintenance solutions.",
+      "tags": [
+        "enterprise software",
+        "it management",
+        "budgeting"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e2af25819438feab",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
+      "url": "https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/",
+      "summary": "Federal Communications Commission Chairman Brendan Carr today warned broadcasters about airing \"fake polls,\" amplifying one of the many complaints that President Trump has regularly made about the news media.\nCarr's\npost on X\nsaid, \"Many journalists and broadcasters have been amp…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f63a311a9afcc61e",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Forget \"Malaise 2.0,\" GM says it's still all-in on EVs and autonomy",
+      "url": "https://arstechnica.com/cars/2026/10/forget-malaise-2-0-gm-says-its-still-all-in-on-evs-and-autonomy/",
+      "summary": "GM is reaffirming its commitment to electrification, autonomy, and vehicle quality, despite current market conditions. The company plans to expand its hands-off Super Cruise technology to nearly its entire lineup, testing it extensively in both virtual and real-world environments.",
+      "tags": [
+        "automotive",
+        "electric vehicles",
+        "autonomous driving"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0eb57ffc06c3d17a",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
+      "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+      "summary": "Amazon has warned that hackers are broadly exploiting vulnerabilities in a programming language underpinning much of the internet, discovered using AI tools. Amazon identified exploitation attempts four days before the weaknesses were publicly disclosed, prompting governments and companies to secure their systems.",
+      "tags": [
+        "cybersecurity",
+        "vulnerability",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "97a8609d43b2bd0d",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Meta shocked by $25B fine after N.M. refused to join multistate settlement",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine/",
+      "summary": "Meta must pay $25 billion to New Mexico after a jury found the tech giant guilty of nearly 44 million violations of state consumer protection laws.\nThe largest fine to ever hit Meta came after New Mexico Attorney General Raúl Torrez declined to join an\n$18 billion settlement Meta…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "ea7ffd73b651b04a",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+      "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+      "summary": "Google would certainly prefer that everyone used its Gemini models with Google Cloud services, but soon, you'll have more options. OpenAI and Google have\ncome to an arrangement\nthat will see the former's frontier models arrive in Google Cloud services. Perhaps more importantly, G…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "0083c342f95fb26e",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "RIP BioWare: EA shuts down storied RPG studio after over three decades",
+      "url": "https://arstechnica.com/gaming/2026/10/rip-bioware-ea-shuts-down-storied-rpg-studio-after-over-three-decades/",
+      "summary": "BioWare, the legendary RPG studio behind series like Mass Effect and Dragon Age, has been shut down by Electronic Arts after over three decades. The closure, which includes ending early development on the next Mass Effect project, was announced shortly after a report detailed 400 job cuts across EA, including 50 at BioWare.",
+      "tags": [
+        "gaming",
+        "industry",
+        "layoffs"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3ef9e4684cd0122f",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Sauron recruits his future Ringwraiths in Rings of Power S3 trailer",
+      "url": "https://arstechnica.com/culture/2026/10/sauron-recruits-his-future-ringwraiths-in-rings-of-power-s3-trailer/",
+      "summary": "The official full trailer for Lord of the Rings: The Rings of Power Season 3 has been unveiled, showing a rising Sauron recruiting his future Ringwraiths, dubbed the Nazgnagol. The season, set seven years after S2, depicts the elves and Sauron at the height of their war as Middle-Earth's fractured opposition scrambles to stop him.",
+      "tags": [
+        "entertainment",
+        "streaming",
+        "fantasy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7a459134a9719e29",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Tesla profits drop 43% in Q3",
+      "url": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/",
+      "summary": "Tesla published its third-quarter 2026 financial results this afternoon.\nEarlier in October, it reported\nits sales and deliveries for the three-month period, selling fewer cars than in\nthe same quarter in 2025\n, yet it still beat analyst projections. Now we can see how those sale…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f018ad0f5ced95a7",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "This emulator reimagines Nintendo’s Virtual Boy with a full color display",
+      "url": "https://arstechnica.com/gaming/2026/10/this-emulator-reimagines-nintendos-virtual-boy-with-a-full-color-display/",
+      "summary": "This emulator reimagines Nintendo's Virtual Boy with a full-color display, improving contrast and replicating an alternate history where the console had a color screen. VBoy Color uses a tile-based palette system to assign distinct four-color palettes to 8x8 tiles, unlike previous emulators that only replaced the original four shades of red.",
+      "tags": [
+        "gaming",
+        "emulation",
+        "virtual reality"
+      ],
+      "priority": false
+    },
+    {
+      "id": "07342d8a5c109c02",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "UN says we're going to blow past 1.5º warming, offers a \"now what?\" answer",
+      "url": "https://arstechnica.com/science/2026/10/un-accepts-the-obvious-were-not-going-to-avoid-a-1-5o-c-warming/",
+      "summary": "The United Nations Environmental Programme has conceded that keeping global warming below 1.5°C is no longer a viable goal. The new focus is on minimizing the duration and extent of exceeding this limit, requiring dramatic emissions cuts and hundreds of gigatonnes of carbon dioxide removal this century.",
+      "tags": [
+        "climate change",
+        "environment",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "816f409a939dbfe8",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
+      "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+      "summary": "Xbox has introduced \"Cloud Playtime\" purchases, allowing non-Game Pass subscribers to stream games they already own for a fee, with introductory prices ranging from 24 to 40 cents per hour. This new pricing structure replaces the previous unlimited streaming available to Game Pass subscribers, which was severely limited in September.",
+      "tags": [
+        "gaming",
+        "cloud gaming",
+        "xbox"
+      ],
+      "priority": false
+    },
+    {
+      "id": "035b2fe0001c5c58",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'Demeaning' and 'absurd': The backlash against a hugging grandparents consent ad",
+      "url": "https://www.bbc.co.uk/news/articles/c83vqn6zwrx0o?at_medium=RSS&at_campaign=rss",
+      "summary": "A \"hugging grandparents consent ad\" has drawn widespread backlash, with critics describing it as \"demeaning\" and \"absurd.\"",
+      "tags": [
+        "social issues",
+        "advertising",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "61a607878567878b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy71ldj3w9o?at_medium=RSS&at_campaign=rss",
+      "summary": "'Looksmaxxing' influencer Braden Peters, known as Clavicular, has pleaded not guilty to a rape charge involving a 17-year-old girl in 2025.",
+      "tags": [
+        "social media",
+        "legal",
+        "influencer"
+      ],
+      "priority": false
+    },
+    {
+      "id": "10c78fd4b074f89f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
+      "url": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Amy Acton has responded to an Ohio attack ad featuring her estranged mother, calling it \"despicable.\" Her Republican opponent, Vivek Ramaswamy, is airing the ad which references a sexual abuse charge against her mother's husband.",
+      "tags": [
+        "politics",
+        "campaigns",
+        "ohio"
+      ],
+      "priority": false
+    },
+    {
+      "id": "31511c8af03e7eab",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+      "url": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "ff0205ab910c67bb",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "At least four dead after storm brings flooding to southern France",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
+      "summary": "At least four people have died after a storm brought severe flooding to southern France, including two women found drowned in a cellar.",
+      "tags": [
+        "weather",
+        "france",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0bd4e65e681e49be",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
+      "summary": "\"Bukangi\" the shark, a local celebrity after being spotted in a Busan canal weeks ago, is refusing to swim out to sea despite being guided by officials.",
+      "tags": [
+        "wildlife",
+        "korea",
+        "environment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a3bb320009b12dc1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Crowd of 50 beats foreigner to death in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
+      "summary": "A crowd of 50 people beat an unidentified foreigner to death in South Africa, following a series of anti-migrant protests in the country this year.",
+      "tags": [
+        "south africa",
+        "violence",
+        "migration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e715416d5cfb8922",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Damaging hail pelts Phoenix in rare storm",
+      "url": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do?at_medium=RSS&at_campaign=rss",
+      "summary": "Damaging hail and intense downpours pelted Phoenix, Arizona, in a rare storm, with videos showing people sheltering as hail smashed car windscreens and ice covered neighborhoods.",
+      "tags": [
+        "weather",
+        "phoenix",
+        "storm"
+      ],
+      "priority": false
+    },
+    {
+      "id": "99ab6bafc961a88a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "El Salvador's president threatens Haitian gangs over military hostages",
+      "url": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
+      "summary": "El Salvador's president has threatened Haitian gangs after four members of the Gang Suppression Force went missing since Sunday.",
+      "tags": [
+        "el salvador",
+        "haiti",
+        "gangs"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8788feabe41900e5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "First human case of Shamonda virus detected in France, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The first human case of Shamonda virus, typically affecting cattle, has been detected in France, with the patient dying in early October.",
+      "tags": [
+        "health",
+        "virus",
+        "france"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d9fe770b1d138181",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
+      "url": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
+      "summary": "Germany is facing \"intensive\" espionage, according to Merz, following the arrest of a suspected Russian spy. This is one of several such cases reported in Germany this year.",
+      "tags": [
+        "espionage",
+        "germany",
+        "russia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f5cc9e284387c5c4",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How Arab parties could hold critical balance of power in Israeli election",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Arab parties could play a critical role in balancing power in the Israeli election, as efforts push to increase turnout among Arab Israelis to oppose the right-wing governing coalition.",
+      "tags": [
+        "israel",
+        "politics",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a80f53f1b0cc4937",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How do Israel's elections work and who are the main contenders?",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
+      "summary": "An overview explains the functioning of Israel's elections and introduces the main contenders, framing it as a pivotal election with global implications.",
+      "tags": [
+        "israel",
+        "politics",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a28d88e721b94148",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ilhan Omar says 'bizarre' pre-dawn raid on her home is forcing her to move out",
+      "url": "https://www.bbc.co.uk/news/articles/cm75p1kxryl5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Congresswoman Ilhan Omar stated that a \"bizarre\" pre-dawn raid on her home by federal agents is forcing her to move out. Agents reportedly seized cell phones and notebooks as part of a federal investigation.",
+      "tags": [
+        "politics",
+        "law enforcement",
+        "investigation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "999bafb293b280fc",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
+      "url": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go?at_medium=RSS&at_campaign=rss",
+      "summary": "Brazilian President Lula is calling for his political rival to be disqualified from an upcoming election, alleging Meta's interference favored the opponent, which Meta denies.",
+      "tags": [
+        "politics",
+        "brazil",
+        "social media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43e619fd03a24dfb",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Meta fined $25bn for 'lies' over user data privacy",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "0ffce7e55fac7fe3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Meta strikes deal to stop Mark Zuckerberg leaving California over billionaire tax",
+      "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+      "summary": "Meta has struck a deal to ensure Mark Zuckerberg does not leave California, addressing concerns over a potential billionaire tax that has not yet come into force.",
+      "tags": [
+        "meta",
+        "california",
+        "tax policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f7c657ad88df6545",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+      "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+      "summary": "Kyiv was hit by missiles after Russia agreed to a US call to resume Ukraine peace talks, with Moscow stating it is \"ready in principle\" for negotiations. President Trump suggests the world is \"closest we've been\" to ending the war.",
+      "tags": [
+        "ukraine war",
+        "diplomacy",
+        "russia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "83bc21d09fab6a45",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Moment man rescued from sinking car by Australian TV reporter",
+      "url": "https://www.bbc.co.uk/news/videos/cwdr8zm3r5gko?at_medium=RSS&at_campaign=rss",
+      "summary": "An Australian TV reporter, Will Murray, and a bystander rescued a man from his sinking car, with Murray describing the dramatic event.",
+      "tags": [
+        "heroism",
+        "australia",
+        "news"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ebd53908aefb1001",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "New York City reconsiders a classic attraction: are horse-drawn carriages abuse?",
+      "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss",
+      "summary": "New York City is reconsidering its classic horse-drawn carriages, with councillors debating a ban due to concerns over animal abuse, while views in Central Park remain divided.",
+      "tags": [
+        "animal welfare",
+        "new york city",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f0189e45c8cff773",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+      "url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Newborn twins are fighting for survival in Yemen, as ongoing conflict intensifies the country's hunger crisis and forced their family to flee.",
+      "tags": [
+        "yemen",
+        "conflict",
+        "humanitarian"
+      ],
+      "priority": false
+    },
+    {
+      "id": "404882c9f2853ae5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "No order, no seat: Starbucks China rolls out new store policy",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Starbucks China has implemented a new store policy, \"no order, no seat,\" aiming to improve customers' in-store experience amidst competition from local rivals.",
+      "tags": [
+        "starbucks",
+        "china",
+        "retail"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a70e5721dd280a0f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Police investigate Married at First Sight Australia after 'inappropriate' allegations",
+      "url": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo?at_medium=RSS&at_campaign=rss",
+      "summary": "New South Wales Police are investigating allegations of \"inappropriate content being shared\" in relation to the reality show Married at First Sight Australia.",
+      "tags": [
+        "entertainment",
+        "television",
+        "australia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "15cc175e645dccf8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
+      "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia has agreed in principle to resume Ukraine peace talks following a US call, though the BBC's Russia editor suggests President Vladimir Putin currently feels little pressure to end the war.",
+      "tags": [
+        "ukraine war",
+        "diplomacy",
+        "russia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "421513b0b16f5043",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Teacher in Oregon shooting said she pretended to be dead to survive",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgrmzdzgr7o?at_medium=RSS&at_campaign=rss",
+      "summary": "A teacher involved in an Oregon school shooting stated she pretended to be dead to survive, and her injuries prevented her from helping children during the attack.",
+      "tags": [
+        "violence",
+        "education",
+        "oregon"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4d7b45fac6e5c1f5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "The real reasons there are so few young politicians in the US",
+      "url": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
+      "summary": "Factors contributing to the low number of young politicians in the US are being examined, highlighting why older politicians maintain a strong grip on the American political system.",
+      "tags": [
+        "politics",
+        "youth",
+        "demographics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "79b6ea2002ff7cfe",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Total ban on protests in Marseille and Lyon after riots",
+      "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
+      "summary": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "4cff54cbec9a2bae",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump has been ordered to answer questions under oath as part of a lawsuit he filed against the BBC. Trump is suing the broadcaster over a Panorama episode that allegedly edited two different sections of a 2021 speech.",
+      "tags": [
+        "politics",
+        "media",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c5c54a286f2b8ac8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump's green card curbs test Indian tech workers' American dream",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump's green card curbs are making US residency a distant dream for many Indian tech workers, as immigration restrictions and tech firms reducing foreign hiring combine to create challenges.",
+      "tags": [
+        "immigration",
+        "tech policy",
+        "india"
+      ],
+      "priority": false
+    },
+    {
+      "id": "533c834987f4971b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Two people were killed in a Houthi attack on an airport in eastern Saudi Arabia, marking the latest in a series of attacks by the movement on kingdom sites.",
+      "tags": [
+        "middle east",
+        "conflict",
+        "saudi arabia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fd23ce8a7d9d705a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US embassy accuses Canada of election meddling ahead of midterms",
+      "url": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US embassy has accused Canada of election meddling ahead of the midterms, a claim dismissed by Canadian Prime Minister Mark Carney who cited US trade actions against Canada.",
+      "tags": [
+        "politics",
+        "international relations",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1cb74c508f3b3069",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
+      "summary": "A student protest movement in Serbia is challenging 12 years of Vučić rule, with upcoming elections potentially leading to the downfall of the ruling party after two years of unrest.",
+      "tags": [
+        "serbia",
+        "protests",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "433758af47ff76e7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
+      "url": "https://www.bbc.co.uk/news/videos/cmx2302xe931o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC is investigating why peat fires are so detrimental, with a report from central Kalimantan, Indonesia, explaining the nature of peat and why the country is experiencing its worst wildfire season in a decade.",
+      "tags": [
+        "environment",
+        "wildfire",
+        "indonesia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dd8b29272902d0c1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "YouTuber arrested after popular Indian finance influencer's suicide",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
+      "summary": "A YouTuber has been arrested in connection with the suicide of popular Indian finance influencer V Harish, known as \"Finance with Harish.\"",
+      "tags": [
+        "social media",
+        "india",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f92239c95d20e491",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Claude Duet",
+      "url": "https://claude.com/product/claude-duet",
+      "summary": "Claude Duet, a new app from Anthropic, is now available to Pro and Max plan users via waitlist, representing Anthropic's strategic investment in AI agent technology.",
+      "tags": [
+        "ai",
+        "anthropic",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "58cb824ea4f00ae0",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "eMudhra to exit global SSL/TLS certificate business",
+      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "summary": "eMudhra, an Indian certifying authority, is planning to exit the global SSL/TLS certificate business. The company is a key player in the digital signature and certificate market.",
+      "tags": [
+        "cybersecurity",
+        "ssl/tls",
+        "business news"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7c108058023a5d09",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+      "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+      "summary": "A new algorithm for triangulating map polygons has been developed, boasting speeds faster than the existing earcut method by processing 3.7 million polygons in 489 milliseconds. This advancement improves efficiency in geographical information systems.",
+      "tags": [
+        "algorithms",
+        "mapping",
+        "computer science"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2cf4247f4eb3ed38",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Google cleared 300 hectares of Finnish forest",
+      "url": "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html",
+      "summary": "Article URL:\nhttps://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html\nComments URL:\nhttps://news.ycombinator.com/item?id=50196837\nPoints: 188\n# Comments: 118",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "0aad3b865f70aeb9",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Jailbreaking the Switch 2",
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "summary": "Article URL:\nhttps://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/\nComments URL:\nhttps://news.ycombinator.com/item?id=50192536\nPoints: 534\n# Comments: 198",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "37a383a0ca0c75fe",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Quad9 (DNS Resolver) to Exit France",
+      "url": "https://quad9.net/news/blog/au-revoir-france/",
+      "summary": "Quad9, a public DNS resolver, announced its decision to exit France, citing regulatory or legal challenges.",
+      "tags": [
+        "dns",
+        "internet privacy",
+        "france"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dd5646a48e4a2548",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+      "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+      "summary": "Several Linux kernel vulnerabilities were accidentally posted to a public mailing list, creating an immediate security concern. This disclosure has led to a rush by governments and companies to patch their systems.",
+      "tags": [
+        "linux",
+        "vulnerability",
+        "cybersecurity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d1a2ea0eebcff395",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+      "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+      "summary": "A recently proposed o(n log n) integer multiplication algorithm is being discussed, offering a new approach to complex computational problems. The PDF outlines the theoretical advancements of this mathematical technique.",
+      "tags": [
+        "mathematics",
+        "algorithms",
+        "computer science"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b840e8c0e3fd5f18",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "What's Getting Pwned",
+      "url": "https://pwn.watch/",
+      "summary": "\"What's Getting Pwned\" is a resource that provides information on security breaches and vulnerabilities, offering insights into ongoing cyber threats.",
+      "tags": [
+        "cybersecurity",
+        "data breach",
+        "infosec"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5743bfab92b4c452",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "summary": "WorldTUI is a 360M model trained to simulate a terminal environment, showcasing advancements in AI's ability to mimic interactive command-line interfaces.",
+      "tags": [
+        "ai",
+        "machine learning",
+        "software development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a830657612428962",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "summary": "AI inference, unlike training, continuously generates backend data, leading to significant and often overlooked storage costs that can be 130 times the size of the user-facing output. As inference demand grows, organizations need economically scalable storage solutions that treat retained data as active assets for future AI workloads.",
+      "tags": [
+        "ai",
+        "data storage",
+        "cloud computing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e919b9034225f0dc",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "Making the case for context-aware AI",
+      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "summary": "For enterprise AI to transition from experimental to mainstream, it needs operational context to make effective decisions within complex business processes. Without this contextual understanding, AI agents risk making costly mistakes or consuming excessive resources by applying generalized principles to specialized scenarios.",
+      "tags": [
+        "ai",
+        "enterprise",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a18c508985bd119e",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "5 simple ways to relieve the aches and pains of sitting at a desk all day",
+      "url": "https://www.npr.org/2026/10/22/nx-s1-6010506/5-simple-ways-to-relieve-the-aches-and-pains-of-sitting-at-a-desk-all-day",
+      "summary": "Simple strategies are offered to alleviate the common aches and pains associated with sitting at a desk all day. These include eye muscle exercises for strain and specific body movements to combat back pain.",
+      "tags": [
+        "health",
+        "work-life",
+        "wellness"
+      ],
+      "priority": false
+    },
+    {
+      "id": "187cfd0f81c5a7f5",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "A GOP congressman voted to cut Medicaid. It covers 62% of his district. Can he win?",
+      "url": "https://www.npr.org/2026/10/22/nx-s1-6002928/republican-congress-midterms-medicaid-cuts-david-valadao-california",
+      "summary": "Republican U.S. Rep. David Valadao faces a challenging reelection bid in central California after voting to cut Medicaid, which covers 62% of his district's residents. His stance on the program is a key issue as midterms approach.",
+      "tags": [
+        "politics",
+        "healthcare",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8b03041a2aa4a468",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Farm country has beef with Trump as midterms approach",
+      "url": "https://www.npr.org/2026/10/22/nx-s1-6011214/farm-country-has-beef-with-trump-as-midterms-approach",
+      "summary": "Farm country is expressing dissatisfaction with President Trump as midterms approach, particularly regarding his attempts to lower beef prices. These policies have potentially backfired politically in several crucial states.",
+      "tags": [
+        "politics",
+        "agriculture",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "989fb6362a734e23",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
+      "url": "https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino",
+      "summary": "The Iguazú Falls on the Brazil-Argentina border are experiencing near-record water volumes due to a rain-soaked October, which scientists link to the Super El Niño event.",
+      "tags": [
+        "environment",
+        "climate",
+        "south america"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c3308d247b1d9a82",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "How long does it take to save up for a starter home? Twice as long as it did in 2019",
+      "url": "https://www.npr.org/2026/10/22/nx-s1-6009378/down-payment-real-estate-affordability",
+      "summary": "A new analysis reveals that the average renter household now requires 16 years to save for a starter home down payment and closing costs, twice as long as in 2019. Rising rents and other expenses are consuming an increasing portion of household budgets.",
+      "tags": [
+        "economy",
+        "housing",
+        "personal finance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "016f6020e66428fc",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "See how Big Tech is transforming Spain's landscape",
+      "url": "https://www.npr.org/2026/10/22/nx-s1-5991641/ai-data-centers-spain-environmental-impact",
+      "summary": "A drought-stricken region of northeast Spain has become a focus for American companies searching for locations to place their data centers.\n(Image credit: Michael Robinson Chávez for NPR)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "0e8577b2d9412b85",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump merchandise stores are closing: 'He has peaked'",
+      "url": "https://www.npr.org/2026/10/22/nx-s1-6002970/trump-merchandise-stores-closing-maga-midterms",
+      "summary": "At least four Trump merchandise stores have closed this year, with owners noting a decline in sales as President Trump is in his final term. They suggest there is less to energize his consumer base, leading to softened demand for merchandise.",
+      "tags": [
+        "politics",
+        "retail",
+        "trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7bffb8a635298d92",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump's redistricting gave Republicans a head start, now it goes to the voters",
+      "url": "https://www.npr.org/2026/10/22/nx-s1-6004891/trump-redistricting-advantage-midterms",
+      "summary": "President Trump's efforts to reshape voting maps through mid-decade redistricting provided Republicans with an initial advantage for holding the House. However, voters will ultimately decide the effectiveness of these changes in the upcoming midterms.",
+      "tags": [
+        "politics",
+        "elections",
+        "redistricting"
+      ],
+      "priority": false
+    },
+    {
+      "id": "be62dc8b6b6a02c1",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "How a fake pollster may have moved some 2026 elections",
+      "url": "https://www.politico.com/news/2026/10/22/how-a-fake-pollster-may-have-moved-some-2026-elections-01131675",
+      "summary": "A new company whose polls had influenced campaign decisions and helped shape the midterms narrative admitted that it was faking its polling data on Tuesday night, setting off a firestorm in the electionsphere.\nWedgewood Polls, facing an\nimminent publication of an investigation fr…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f8c759bb771e5b19",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "The good, the bad and the unruly from over two dozen candidate debates",
+      "url": "https://www.politico.com/news/2026/10/22/senate-governor-debates-midterms-takeaways-01131948",
+      "summary": "Takeaways from recent statewide debates highlight Republican candidates' varied approaches to aligning with an unpopular President Trump, their arguments on economic issues, and a bipartisan consensus against data centers. Many Democrats sought to tie opponents to Trump, while Republicans either distanced themselves or embraced his base.",
+      "tags": [
+        "politics",
+        "elections",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "34cc10da870eb473",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+      "summary": "Donating Agent Skills to the Agentic AI Foundation\nNews today from Anthropic:\nWe’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation,\nwhich we co-founde…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "74aa496920751902",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Republicans are scrambling to beat the odds",
+      "url": "https://www.slowboring.com/p/republicans-are-scrambling-to-beat",
+      "summary": "Republicans are facing an uphill battle in the upcoming Election Day, with Democrats currently in a favorable, though not overwhelmingly strong, position.",
+      "tags": [
+        "politics",
+        "elections",
+        "republicans"
+      ],
+      "priority": false
+    },
+    {
+      "id": "66372f99483189da",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Airbnb limits chores for guests, sparking backlash from hosts",
+      "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
+      "summary": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "26cfd3aca6990b11",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "summary": "Jas Khaira, Blackstone's AI head, expressed that fears over AI-buildout debt are exaggerated, reassuring investors about market jitters concerning artificial intelligence infrastructure financing.",
+      "tags": [
+        "ai",
+        "investment",
+        "finance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ebe0b79a6b0cfe21",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+      "summary": "Microsoft has attributed a breach of IT giant ConnectWise to China-aligned hackers, who used AI agents to rapidly compromise thousands of its customers. This sophisticated attack highlights the evolving threat landscape in cybersecurity.",
+      "tags": [
+        "cybersecurity",
+        "hacking",
+        "china"
+      ],
+      "priority": false
+    },
+    {
+      "id": "891b595f84bf3612",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "0066ba6d92bf7e9d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack",
+      "url": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/",
+      "summary": "Developer platform Railway has urged all its users to revoke and rotate their secret keys following a cyberattack that allowed hackers to decrypt some customer secrets. The company confirmed the breach and advised immediate security action.",
+      "tags": [
+        "cybersecurity",
+        "developer tools",
+        "data breach"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d72c4541303a34e3",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Elon Musk made a $1 billion investment in Skydance, report says",
+      "url": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
+      "summary": "Elon Musk has reportedly made a $1 billion investment in Skydance, providing a significant financial boost to the company as it aims to cut costs and increase its stock price.",
+      "tags": [
+        "investment",
+        "elon musk",
+        "media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "aa1efde8b4c111d9",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Fusion startup Helion is developing new semiconductors that could double output of its power plants",
+      "url": "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/",
+      "summary": "Fusion startup Helion has secured an additional $225 million to accelerate the development of its first fusion power plant, aiming to supply Microsoft with electricity by 2028. The company is also creating new semiconductors designed to double the output of its power plants.",
+      "tags": [
+        "fusion energy",
+        "semiconductors",
+        "clean energy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f5e83d4ba1f812f5",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Investors break down how founders can raise a Series A today",
+      "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+      "summary": "Investors are providing insights on how founders can successfully raise a Series A funding round in the current market, indicating that the process is no longer straightforward.",
+      "tags": [
+        "startup",
+        "funding",
+        "venture capital"
+      ],
+      "priority": false
+    },
+    {
+      "id": "64811cac93ff7707",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "8553b883132b5881",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+      "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "fe11965c18498e67",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Nirva raises $33M for a pendant that only listens to you",
+      "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+      "summary": "Nirva has successfully raised $33 million for its ambient AI pendant, a device designed to exclusively listen to its user, with shipping expected by the end of the year.",
+      "tags": [
+        "ai",
+        "hardware",
+        "startup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d83143dab2fc86d9",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Spotify confirms Family Plan crackdown, but calls it a ‘routine improvement’",
+      "url": "https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/",
+      "summary": "Spotify has confirmed its rollout of QR code verification for Family Plan members to ensure they reside in the same household, calling it a \"routine improvement\" rather than a crackdown. This measure aims to enforce the service's terms of use more effectively.",
+      "tags": [
+        "spotify",
+        "streaming",
+        "subscription"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3bde6f08751762ba",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Spotify’s current AI bet is about being the music service that agents choose",
+      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+      "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "cf1826b286b86e6a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Tesla is prepping a Cybercab onslaught",
+      "url": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/",
+      "summary": "The company is looking to roll out the gold two-seater robotaxis to other U.S. cities this year, even as it goes mum on the number of paid rides.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "5d75f524d49ac316",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Tesla says it will start selling Cybercabs by end of year",
+      "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+      "summary": "There is at least one obstacle that could throw off Tesla's Cybercab fleet plans. The NHTSA announced last month that it had opened an investigation into the Cybercab, just hours after the vehicles began operating on public streets in Austin.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "2deb5b68650a1c17",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "0342a374c557690a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+      "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+      "summary": "Year-old AI lab Flapping Airplanes has raised $1 billion in Series A funding at a $6 billion valuation, just nine months after its seed round. The startup aims to build AI models without extensively \"ingesting half the internet.\"",
+      "tags": [
+        "ai",
+        "startup",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0f05b1180f29d298",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Konstantin Kisin: France’s Chaos Is Coming for Britain",
+      "url": "https://www.thefp.com/p/coleman-hughes-konstantin-kisin-france-chaos-britain",
+      "summary": "What began over a month ago as a student protest has devolved into the country’s worst civil unrest in years. On Saturday, hundreds of thousands of demonstrators took to the streets over the rising cost of living and declining public services. Across France, rioters set cars abla…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "326470f52a374c2b",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Who Is Really Behind the Protests in France?",
+      "url": "https://www.thefp.com/p/france-high-school-protests-radical-extremists",
+      "summary": "Chaos took hold of France this past weekend, as rioters stormed the streets, smashed buildings, set cars and a city hall in Limoges on fire, and looted stores across the country. It was the violent explosion of a protest movement that began in late September, with high school stu…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c1d815ee8c35ed9f",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "How to Hold Your Heart with Golden Hands",
+      "url": "https://www.themarginalian.org/2026/10/22/wood/",
+      "summary": "A personal essay and art project, inspired by an Arthur Rackham illustration, explores the theme of holding one's own heart with compassion in the context of love and attachment trauma. The author created sculptures from driftwood and burls with gold-powdered ceramic hands to visualize this concept.",
+      "tags": [
+        "art",
+        "psychology",
+        "personal growth"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1c0e30343d15f72e",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Amazon renames Kindle Unlimited to Kindle Plus and expands access to audiobooks",
+      "url": "https://www.theverge.com/tech/1016789/amazon-kindle-unlimited-plus-subscription-ai-audiobooks",
+      "summary": "Amazon has rebranded Kindle Unlimited to Kindle Plus, maintaining unlimited access to a selection of ebooks, comics, and magazines for $11.99 per month. The service now expands audiobook access to include \"virtual voice\" audiobooks read by AI narrators, alongside thousands of existing companion audiobooks.",
+      "tags": [
+        "amazon",
+        "e-reading",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5079d32a0f58e7d9",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Arc browser is shutting down",
+      "url": "https://www.theverge.com/tech/1016832/arc-browser-shutting-down",
+      "summary": "The Arc browser will be shut down on December 22nd, with The Browser Company focusing on its AI-focused Dia browser. New Arc accounts are no longer available, and features will be progressively disabled before the browser becomes inaccessible on all platforms.",
+      "tags": [
+        "web browser",
+        "tech news",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7e8af74c0f1f6147",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Elon Musk says Tesla will sell 5 million cars by 2030 — math says otherwise",
+      "url": "https://www.theverge.com/transportation/1016055/elon-musk-tesla-5-million-cars-2030-reality-check",
+      "summary": "Elon Musk reiterated his ambitious prediction of delivering 5 million Tesla vehicles annually by 2030, a goal he believes the company has a \"good shot\" at achieving. However, this projection comes amidst a quarter where Tesla's profits dropped significantly, and analysts have previously questioned the feasibility of such targets.",
+      "tags": [
+        "tesla",
+        "elon musk",
+        "automotive"
+      ],
+      "priority": false
+    },
+    {
+      "id": "41bb3909ef40153f",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Someone hacked the Switch 2 by using an old game and AI",
+      "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
+      "summary": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of\nMario Kart World\nfeaturing new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from\nMinecraft\n.\ni jailbroke the nintendo…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "fc8cba308995bba8",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Tesla driver using Full Self-Driving struck and killed a man crossing I-80",
+      "url": "https://www.theverge.com/transportation/1016928/tesla-fsd-pedestrian-fatal-accident-california",
+      "summary": "A 71-year-old man was fatally hit by a Tesla operating in Full Self-Driving (FSD) mode while crossing I-80 in Vallejo, CA around 2:30 AM on Thursday, reports the\nSan Francisco Chronicle\n. The California Highway Patrol's statement to media outlets says it reviewed video of the acc…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "4bae31a9ef3bc8e2",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Trump says Sundar Pichai talked him out of renaming the Atlantic Ocean",
+      "url": "https://www.theverge.com/policy/1016751/trump-rename-atlantic-ocean-sundar-pichai-google",
+      "summary": "Donald Trump claimed that Google CEO Sundar Pichai talked him out of renaming the Atlantic Ocean after Trump had successfully requested map changes for Lake Ontario and the Gulf of Mexico. Pichai reportedly declined, stating, \"Oceans are different, sir,\" according to Trump's account at a rally.",
+      "tags": [
+        "politics",
+        "google",
+        "trump"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c2a445a2533132f2",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
+      "url": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
+      "summary": "Travis Knight, director of Laika's \"Wildwood\" and CEO of the stop-motion studio, stated that AI is \"antithetical to everything that we are at this studio.\" He joins other filmmakers in expressing skepticism towards generative AI tools, emphasizing the painstaking, human-intensive process of stop-motion animation.",
+      "tags": [
+        "animation",
+        "ai",
+        "film industry"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 133,
+    "summarized": 100,
+    "skipped_promos": 4,
+    "filtered_by_rules": 29,
+    "sources": 13,
+    "email_items_omitted": 0
+  }
+}
