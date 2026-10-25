@@ -1,0 +1,728 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T17:20:10+00:00",
+  "hot_topics": [
+    {
+      "topic": "AI's widespread impact on industries and society",
+      "synthesis": "Artificial intelligence continues to reshape various sectors, from online publishing and advertising to employment in creative industries, while also raising concerns about financial returns, internet infrastructure strain, and ethical considerations like privacy and content regulation. Governments and communities are beginning to grapple with AI's societal implications, with new laws requiring AI ad disclosures and online communities banning AI-generated content. These developments highlight the complex and far-reaching influence of AI across economic, social, and technological domains.",
+      "item_ids": [
+        "f181ca0b2ef776a4",
+        "e059e1da868d1d25",
+        "f06a4399ad9e6262",
+        "f22539aedd1296f1",
+        "a7c046cd991bec8e",
+        "35bcd4ceeeb6af8a",
+        "2039240365c6b880",
+        "d3d4792a4fd2a7a5",
+        "edebaad024a0a09f",
+        "ad847f311eac9e97"
+      ]
+    },
+    {
+      "topic": "Key international elections and political returns",
+      "synthesis": "Several nations are experiencing significant political developments, including Venezuelan opposition leader María Corina Machado's return from exile, which marks a notable moment in the country's political landscape. Elections are underway in Serbia, with high turnout, and in Brazil, where voters choose between two distinct candidates. Meanwhile, Israel is also holding a consequential general election, accompanied by security measures like West Bank crossing closures.",
+      "item_ids": [
+        "328aa01078d3f131",
+        "c3cd70a1881f755b",
+        "625d6d4b7dd21a5b",
+        "caa919bbe6818d75",
+        "6ab22b928404dc2b",
+        "88635765dab4ea67"
+      ]
+    },
+    {
+      "topic": "Widespread protests and civil unrest across Europe",
+      "synthesis": "Europe is experiencing widespread protests, with France seeing mass demonstrations leading to over 1,300 arrests and clashes turning violent in Paris with fireworks and tear gas. Beyond France, thousands of protesters have also marched in major cities across the continent, including Milan, Rome, Madrid, Lisbon, and Tirana, indicating a broader wave of civil unrest.",
+      "item_ids": [
+        "39e68f0b6c8f0eb7",
+        "fa7b291e0f30ce2c",
+        "191a4d4c09ff5631"
+      ]
+    },
+    {
+      "topic": "US midterm election dynamics",
+      "synthesis": "The US midterm elections are shaping up to be highly competitive, with Barack Obama actively campaigning for Democrats and criticizing Trump to motivate voters. Democrats are also exploring strategic avenues, hoping independent candidates in conservative states like Nebraska and Montana can help secure Senate seats. Even in deeply Republican states like Arkansas, significant spending by the GOP signals the intensity of the political environment and potential openings for the opposition.",
+      "item_ids": [
+        "f91ad1aa4e9f41e8",
+        "028c584b845f55d9",
+        "1e90c1bd5428e2cd"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "358cf62a543cb54b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'I cannot teach you integrity': How employee theft is hurting small businesses in Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cmz98plpjzplo?at_medium=RSS&at_campaign=rss",
+      "summary": "Employee theft is significantly impacting small businesses in Africa, as highlighted by a beauty parlor owner's post about closing her business due to such issues. This problem resonates with other small business owners facing similar challenges.",
+      "tags": [
+        "africa",
+        "business",
+        "theft"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1e7efcd2002910ea",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "A shark went astray and captured Korea's heart - will she finally make it back to sea?",
+      "url": "https://www.bbc.co.uk/news/articles/c9zrdknlmpdlo?at_medium=RSS&at_campaign=rss",
+      "summary": "A female dusky shark named Bukangi, which went astray and captivated over a million people in Busan, Korea, is now hoped to be returned to the sea. Her unusual presence in local waters garnered significant public attention.",
+      "tags": [
+        "korea",
+        "animals",
+        "wildlife"
+      ],
+      "priority": false
+    },
+    {
+      "id": "625d6d4b7dd21a5b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Early reports suggest record high turnout in Serbia elections",
+      "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
+      "summary": "Serbia is holding elections with early reports indicating a record high turnout, as a student movement attempts to unseat the long-serving populist leader Aleksandar Vučić. This election is a test of political sentiment in the country.",
+      "tags": [
+        "serbia",
+        "elections",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "67bd4fada86ae060",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "El Salvador president says bodies found in Haiti are not those of hostages",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
+      "summary": "El Salvador's president, Nayib Bukele, has stated that bodies delivered to soldiers in Haiti are \"not our men,\" amidst an ongoing search for Salvadorans abducted last week. This indicates the hostages remain missing and the search continues.",
+      "tags": [
+        "el salvador",
+        "haiti",
+        "hostages"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fad8c04e32c04358",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
+      "url": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
+      "summary": "A fire engulfed Hitler's mountaintop Eagle's Nest retreat in Bavaria, Germany, leading to the detention of a 33-year-old German man. The incident caused significant damage to the historic site.",
+      "tags": [
+        "germany",
+        "fire",
+        "history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fa7b291e0f30ce2c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
+      "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+      "summary": "Protests in Paris, which began peacefully, escalated into unrest with fireworks and tear gas after nightfall, as reported by the BBC's Europe correspondent. This follows a trend of clashes after mass demonstrations in France.",
+      "tags": [
+        "france",
+        "protests",
+        "paris"
+      ],
+      "priority": false
+    },
+    {
+      "id": "63cf203d325327b0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
+      "url": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Bu and Tyapa, two animals, completed a five-year rescue journey from Russian cages to an Irish sanctuary. Their story highlights a complex international animal rescue effort.",
+      "tags": [
+        "animal rescue",
+        "russia",
+        "ireland"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fbf23672810c04e5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Gabon says access to social media restored after eight-month ban",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
+      "summary": "Gabon has restored access to social media after an eight-month ban, which authorities justified by claiming online content fueled conflict. The opposition had previously condemned the ban as an abuse of power.",
+      "tags": [
+        "gabon",
+        "social media",
+        "internet ban"
+      ],
+      "priority": false
+    },
+    {
+      "id": "925f7c64f367c81f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
+      "summary": "Gunmen have killed at least 10 villagers and looted shops in north-east Nigeria, with police searching for more casualties and officials warning the death toll could increase. This incident highlights ongoing security challenges in the region.",
+      "tags": [
+        "nigeria",
+        "violence",
+        "security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "caa919bbe6818d75",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+      "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli Defense Forces have announced the closure of West Bank crossings on election day, implementing restrictions on Palestinian workers' movement. This measure is part of an escalating crackdown in the run-up to Tuesday's election.",
+      "tags": [
+        "israel",
+        "palestine",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "39e68f0b6c8f0eb7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Over 1,300 arrests have been made as clashes followed a day of mass protests across France, with demonstrations also occurring in other European countries. Hundreds of thousands participated in the French protests, which saw unrest after nightfall.",
+      "tags": [
+        "france",
+        "protests",
+        "europe"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f91ad1aa4e9f41e8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+      "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Barack Obama campaigned for Democrats ahead of midterm elections, criticizing Trump and stating the election was \"the last best chance to at least rein in some of the foolishness of this administration.\" His involvement emphasizes the high stakes for the Democratic party.",
+      "tags": [
+        "us politics",
+        "midterms",
+        "democrats"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c5f3e5bc356deb98",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "The bitter row over military service that could shape Israel's future",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
+      "summary": "The ultra-Orthodox community is resisting being drafted into the Israeli army. But will they now bring down the Netanyahu government?",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "2e9551e2982190ba",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Two rescued after Nairobi building collapse with five still missing",
+      "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Two people were rescued from a building collapse in Nairobi, Kenya, while five others remain missing, prompting a manhunt for the owner and contractor of the multi-storey building which collapsed during construction. This incident raises concerns about construction safety standards.",
+      "tags": [
+        "kenya",
+        "building collapse",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "328aa01078d3f131",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Venezuelan opposition leader María Machado has returned to the country after months in exile, following a period where the US government had seized assets from President Nicolás Maduro. Her return marks a significant moment in the country's political landscape.",
+      "tags": [
+        "venezuela",
+        "politics",
+        "exile"
+      ],
+      "priority": false
+    },
+    {
+      "id": "88635765dab4ea67",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Who are the candidates in Brazil's presidential election?",
+      "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
+      "summary": "Voters in Brazil's presidential election are choosing between two distinct candidates, as reported from Rio de Janeiro. This election day will decide the country's next leader.",
+      "tags": [
+        "brazil",
+        "elections",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "61a661cb2c283903",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine is heavily dependent on Starlink for satellite internet, but a viable European alternative to Elon Musk's network is not yet available. This reliance highlights a strategic vulnerability and a need for diverse solutions.",
+      "tags": [
+        "ukraine",
+        "starlink",
+        "satellite internet"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5d37c6ff5dc4ed82",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss",
+      "summary": "King Charles's meticulously planned nine-day Caribbean tour, visiting three countries, carries significant risks. This visit is considered a major challenge for his reign.",
+      "tags": [
+        "royal family",
+        "caribbean",
+        "diplomacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f22539aedd1296f1",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "summary": "America has experienced a loss of 200,000 jobs across media, film, and the arts sectors, prompting an inquiry into AI's contribution to these job displacements. The article discusses the impact of AI on the creative class.",
+      "tags": [
+        "ai",
+        "jobs",
+        "arts"
+      ],
+      "priority": false
+    },
+    {
+      "id": "441496822c3ff8d1",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "summary": "Cerebras has successfully deployed trillion-parameter AI models, showcasing significant advancements in handling large-scale artificial intelligence. This development highlights their capability in frontier model deployment.",
+      "tags": [
+        "ai",
+        "machine learning",
+        "computing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1119609303735058",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "FreeDNS",
+      "url": "https://freedns.afraid.org/",
+      "summary": "FreeDNS provides a service for domain name system management, offering users a free option for their DNS needs. It serves as an accessible resource for web infrastructure.",
+      "tags": [
+        "internet",
+        "dns",
+        "web services"
+      ],
+      "priority": false
+    },
+    {
+      "id": "edebaad024a0a09f",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+      "url": "https://twitter.com/mike64_t/status/2114150399406202896",
+      "summary": "Samsung is reportedly using a TensorFlow Lite model on 960x540 images to track users. This suggests a potential privacy concern related to on-device AI processing.",
+      "tags": [
+        "samsung",
+        "ai",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ff86cd256824a05d",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Small Programs and Languages",
+      "url": "https://ratfactor.com/cards/pl-small",
+      "summary": "The article discusses the significance and utility of small programs and languages in various computing contexts. It explores the benefits of concise and focused tools for specific tasks.",
+      "tags": [
+        "programming languages",
+        "software development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "55b2843ec830e964",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "SpeedCrunch 1.1",
+      "url": "https://www.speedcrunch.org/",
+      "summary": "SpeedCrunch 1.1 has been released, providing an update to the calculator software. This new version likely includes improvements and new features for users.",
+      "tags": [
+        "software",
+        "tools",
+        "utility"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3da93c7a12421e73",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The Goose Programming Language",
+      "url": "https://aardappel.github.io/goose/",
+      "summary": "The Goose Programming Language is introduced, offering a new option for developers in the programming landscape. Its release suggests a focus on specific design principles or use cases.",
+      "tags": [
+        "programming languages",
+        "software development"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a7246a3df3d7aee8",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
+      "summary": "The article advocates for greater ambition in software development, urging creators to build more significant and impactful systems. It suggests moving beyond current limitations to innovate further.",
+      "tags": [
+        "software development",
+        "innovation",
+        "programming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8d9d4ab37a3ebbfb",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Drought, fire and high diesel prices 'addin' up tough' for Oregon ranchers",
+      "url": "https://www.npr.org/2026/10/25/nx-s1-5992998/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
+      "summary": "Oregon ranchers are facing severe challenges from drought, fires, and high diesel prices, which necessitate purchasing extra hay and paying increased delivery costs. These combined factors are making their operations particularly difficult.",
+      "tags": [
+        "oregon",
+        "ranching",
+        "drought"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1e90c1bd5428e2cd",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "In Arkansas, Democrats see an opening at the edge of the competitive midterms map",
+      "url": "https://www.npr.org/2026/10/25/nx-s1-6009402/midterm-blue-wave-map-arkansas-democrats-cotton-shoffner-hill-jones",
+      "summary": "Republicans are spending millions defending their positions in Arkansas, one of the most conservative states, indicating the competitive nature of the midterm political environment. This spending highlights a potential opening for Democrats even in traditionally strong Republican areas.",
+      "tags": [
+        "us politics",
+        "midterms",
+        "republicans"
+      ],
+      "priority": false
+    },
+    {
+      "id": "028c584b845f55d9",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Independent candidates sense a moment. Some Democrats hope they're right.",
+      "url": "https://www.npr.org/2026/10/25/nx-s1-5995460/midterms-independent-candidates-nebraska-montana",
+      "summary": "Democrats are hopeful that independent candidates in Nebraska and Montana can help them defeat Republicans in the Senate, especially in conservative areas where the Democratic brand struggles. This strategy indicates a shift in focus for winning competitive midterm races.",
+      "tags": [
+        "us politics",
+        "midterms",
+        "democrats"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6ab22b928404dc2b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Israelis have changed. Will they change their leadership?",
+      "url": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
+      "summary": "Israel is holding a general election this week, considered highly consequential by many Israelis due to years of war and the recent Oct. 7, 2023, attacks. Voters will decide on new leadership in a shaken nation.",
+      "tags": [
+        "israel",
+        "elections",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "59be5ce2fd57466b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "More dads taking paid family leave for a new baby, sometimes as much as moms are",
+      "url": "https://www.npr.org/2026/10/25/nx-s1-5977810/paid-family-bonding-leave-dads-moms-california-colorado-washington-states",
+      "summary": "In states with paid parental leave laws, more fathers are utilizing the benefit for new babies, sometimes as much as mothers, reflecting a shift as Americans find having children unaffordable. The U.S. lacks a national paid parental leave law, but state-level changes show evolving family dynamics.",
+      "tags": [
+        "parental leave",
+        "family",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "191a4d4c09ff5631",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe",
+      "url": "https://www.npr.org/2026/10/25/nx-s1-6016126/thousands-of-protesters-across-europe",
+      "summary": "Thousands of protesters marched in cities across Europe, including Milan, Rome, Madrid, Lisbon, and Tirana, with soldiers guarding Milan's center. While protests in France gained significant international attention, demonstrations were widespread across the continent.",
+      "tags": [
+        "europe",
+        "protests",
+        "unrest"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8ed47fec82acfa85",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "This College of Magic turns ordinary kids into cool magicians",
+      "url": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students",
+      "summary": "A College of Magic in South Africa transforms ordinary children, many from marginalized communities, into confident magicians capable of performing tricks and facing the world with resilience. The program focuses on instilling confidence and creativity.",
+      "tags": [
+        "south africa",
+        "education",
+        "magic"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c3cd70a1881f755b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Venezuela's opposition leader María Corina Machado returns after months in exile",
+      "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+      "summary": "Venezuelan opposition leader María Corina Machado has returned to the country after months in exile, announcing her presence on social media with \"I am here. With you.\" Her return is a notable political event.",
+      "tags": [
+        "venezuela",
+        "politics",
+        "exile"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d9e9f63f809e2fdb",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "What makes a good spine-tingler? Stephen Graham Jones says it's all in the ending",
+      "url": "https://www.npr.org/2026/10/25/nx-s1-6007348/what-makes-a-good-spine-tingler-stephen-graham-jones-says-its-all-in-the-ending",
+      "summary": "Horror writer Stephen Graham Jones argues that a good \"spine-tingler\" is defined by its ending, and that the current popularity of horror extends beyond mere fear. He suggests deeper elements are driving the genre's appeal.",
+      "tags": [
+        "horror",
+        "literature",
+        "writing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ad847f311eac9e97",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "When a teen posts a selfie, how much filter is 'too much' filter?",
+      "url": "https://www.npr.org/2026/10/25/nx-s1-6011190/meta-facebook-settlement-beauty-filters-ai",
+      "summary": "The recent Meta settlement includes a ban on \"cosmetic procedure filters\" for teens, yet defining what constitutes \"too much\" filter or an \"extreme makeover\" remains a challenge. This issue highlights the difficulty in regulating beauty filters and AI's role in them.",
+      "tags": [
+        "social media",
+        "ai",
+        "filters"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e059e1da868d1d25",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "summary": "An Apollo economist states that despite massive investments and hype, artificial intelligence has yielded \"zero financial payoff\" for most companies outside the tech sector. This challenges the widespread belief in immediate financial benefits from AI adoption.",
+      "tags": [
+        "ai",
+        "economy",
+        "investment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "243ff315587be6a6",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
+      "url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
+      "summary": "This is an introductory statement for TechCrunch Mobility, highlighting its focus on the future of transportation and the increasing role of AI within it.",
+      "tags": [
+        "mobility",
+        "ai",
+        "transportation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d3d4792a4fd2a7a5",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "A running list, dubbed \"The AI graveyard,\" chronicles AI projects and startups that have failed or fallen short of expectations, including Apple's Siri and OpenAI's \"super app\" launch. It serves as a record of AI initiatives that did not succeed.",
+      "tags": [
+        "ai",
+        "startups",
+        "failure"
+      ],
+      "priority": false
+    },
+    {
+      "id": "593f82ce535a66b6",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "summary": "A list of prominent AI wearables and gadgets, such as Muse Charm, Bee, Friend, and Plaud, has been compiled. These devices represent the latest in AI-powered technology for everyday use.",
+      "tags": [
+        "ai",
+        "wearables",
+        "gadgets"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f06a4399ad9e6262",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "summary": "This article questions whether the rapid advancements and demands of AI will expose the inherent fragility and \"rickety infrastructure\" of the internet. It suggests that the internet, often described as \"held together by glue and dreams,\" might be strained by AI's requirements.",
+      "tags": [
+        "ai",
+        "internet",
+        "infrastructure"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f6b12275745dfd9d",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "20 Favorite Books from 20 Years of The Marginalian",
+      "url": "https://www.themarginalian.org/2026/10/24/20-books/",
+      "summary": "The Marginalian celebrates its 20th anniversary by listing 20 influential books that have served as enduring signposts for living. The platform, which is ad-free and relies on reader donations, distills a lifetime of reading into essential works.",
+      "tags": [
+        "books",
+        "literature",
+        "anniversary"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2039240365c6b880",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "summary": "BBC's Blue Planet III is deliberately including less-than-perfect footage, like plankton or distant boats, to emphasize authenticity in an age where overly polished visuals might suggest AI generation. This approach aims to counter the \"too seamless\" look often associated with AI.",
+      "tags": [
+        "ai",
+        "documentary",
+        "authenticity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f181ca0b2ef776a4",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Google’s AI search changes upended online publishing",
+      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "summary": "Google's AI search changes have significantly disrupted the online publishing industry, which has long relied on Google for traffic and spent resources on search engine optimization. The shift has altered the reciprocal relationship between Google and publishers.",
+      "tags": [
+        "ai",
+        "publishing",
+        "google search"
+      ],
+      "priority": false
+    },
+    {
+      "id": "54b08aa04554e950",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Now you can watch Instagram Reels on your Apple TV",
+      "url": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
+      "summary": "Instagram has expanded its video-focused \"Instagram for TV\" app to Apple TV, allowing users to watch Reels and live streams on a bigger screen. This follows earlier tests and launches on other smart TV platforms like Amazon Fire TV, Samsung Smart TVs, and Google TV.",
+      "tags": [
+        "social media",
+        "streaming",
+        "apple tv"
+      ],
+      "priority": false
+    },
+    {
+      "id": "35bcd4ceeeb6af8a",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "summary": "Pennsylvania has enacted the Artificial Intelligence Deceptive Advertising Act, requiring labels on any ad significantly modified or generated by AI, regardless of its format or the company size. This makes Pennsylvania one of the first states to mandate such disclosures for AI content.",
+      "tags": [
+        "ai",
+        "advertising",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a7c046cd991bec8e",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "summary": "The r/opensource subreddit has implemented new rules banning projects that use, are made by, or are intended for AI, citing AI's incongruence with the open-source community. This decision has sparked controversy and led to the creation of a rival subreddit, r/trueopensource.",
+      "tags": [
+        "ai",
+        "open source",
+        "reddit"
+      ],
+      "priority": false
+    },
+    {
+      "id": "07a63db96d92fbe5",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "This Switch 2 sequel accessory was a few millimeters away from being good",
+      "url": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
+      "summary": "The Crkd Nitro Deck 2, an accessory for the Nintendo Switch and Switch 2, improves on the original by offering better sticks, but its button placement is problematic, making face buttons difficult to use without hitting the right stick. It is a slide-on accessory that previously offered Hall effect sticks for drift-plagued consoles.",
+      "tags": [
+        "gaming",
+        "accessories",
+        "nintendo switch"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 54,
+    "summarized": 48,
+    "skipped_promos": 1,
+    "filtered_by_rules": 5,
+    "sources": 6,
+    "email_items_omitted": 0
+  }
+}
