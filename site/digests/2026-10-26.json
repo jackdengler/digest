@@ -1,0 +1,1183 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T19:41:28+00:00",
+  "hot_topics": [
+    {
+      "topic": "iPhone Duo Display Flaws Surface Post-Launch",
+      "synthesis": "Apple's newly launched iPhone Duo is facing significant screen issues, with many early buyers reporting hardware flaws like bright lines and cracking on the internal display. Apple has acknowledged an \"issue impacting the inner display\" on a \"small number of units,\" advising affected users to seek replacements. These reports from various tech outlets highlight potential durability concerns for Apple's first foldable phone.",
+      "item_ids": [
+        "6ae44fd4c20f448b",
+        "5d4c0d0eebd8a101",
+        "200ac4a625fd7143"
+      ]
+    },
+    {
+      "topic": "Apple Unveils Significantly Updated iPad mini",
+      "synthesis": "Apple has announced its 8th-generation iPad mini, marking its most substantial update with a new OLED screen and A20 Pro chip. The device features a thinner design, IP67 rating, and an 8.5-inch Super Retina XDR display, bringing its visual experience closer to Apple's Pro-level devices.",
+      "item_ids": [
+        "feb2f0af65ecb5e6",
+        "cf82894872b4eeb4"
+      ]
+    },
+    {
+      "topic": "AI Giant Anthropic Files for Public Debut Amidst Risk Warnings",
+      "synthesis": "AI company Anthropic has officially filed for its initial public offering, revealing soaring revenue, mounting losses, and a unique governance structure aimed at preserving founder control and its AI safety mission. The company, known for its Claude chatbot, also warned of \"catastrophic risk\" to humankind, positioning itself as the first true AI firm to go public.",
+      "item_ids": [
+        "be156af5092064d8",
+        "da28d9fba8af3a9a",
+        "ae80c76280ebb7d0",
+        "c980e6ae305052c5",
+        "39b57f6186910316",
+        "89a2b1d1c2581953"
+      ]
+    },
+    {
+      "topic": "Microsoft Offers Voluntary Buyouts to Tens of Thousands of Employees",
+      "synthesis": "Microsoft is implementing a new strategy to reduce its workforce by offering voluntary buyouts to approximately 60,000 employees across various departments and global regions. This move is part of the company's broader efforts to manage costs and restructure without resorting to further mandatory layoffs.",
+      "item_ids": [
+        "5817d3532713896f",
+        "2e7248105ad9d9db"
+      ]
+    },
+    {
+      "topic": "Lula Secures Fourth Presidential Term in Brazil",
+      "synthesis": "Luiz Inácio Lula da Silva has achieved a dramatic political comeback, winning his fourth term as Brazil's president after narrowly defeating his right-wing challenger. His campaign benefited from significant real-world mobilization, partly driven by social media channels like \"Lula's Army.\"",
+      "item_ids": [
+        "e5e179397bdbe5a0",
+        "d5260429b93a1619",
+        "8e99847b1b1e64c4",
+        "52e7906289a3640a",
+        "073840e4774864bb"
+      ]
+    },
+    {
+      "topic": "Legal Rulings Challenge Trump Administration Actions",
+      "synthesis": "Recent legal decisions have found fault with actions taken during the Trump administration, including a judge ruling that the Department of Justice illegally fired James Comey's daughter, Maurene Comey, from her federal prosecutor role. Separately, the administration is pushing for enhanced food assistance card security to combat fraud.",
+      "item_ids": [
+        "369d3800f14eefbc",
+        "68e220c0eae7efaf",
+        "ba16c4216cff96ef"
+      ]
+    },
+    {
+      "topic": "China's Plenum Focuses on Xi Jinping's Tightening Party Discipline",
+      "synthesis": "China's secretive four-day Plenum has commenced in Beijing, with expectations that President Xi Jinping will further consolidate his power by \"tightening discipline\" within the Communist Party. This key political meeting is anticipated to involve personnel changes and reinforce Xi's leadership ahead of his projected fourth term.",
+      "item_ids": [
+        "ac43a12779c168b3",
+        "a1562729ccc24514"
+      ]
+    },
+    {
+      "topic": "Challenges for Parties in US Election Campaigns and Fundraising",
+      "synthesis": "The current US election cycle presents significant challenges, with Republicans struggling to secure expected wins despite gerrymandered districts, necessitating expensive campaigns. Meanwhile, Democrats are making late pushes into red-leaning House territories, which historically have a low success rate, and face criticism for \"scammy\" fundraising practices targeting small-dollar donors.",
+      "item_ids": [
+        "1bd17020df68029a",
+        "108ada09920e252f",
+        "e79ab81afd647054",
+        "6a6e4fa998bd6aa6"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "5e3057e2d8fa7b61",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Great art explained: Tamara in the green Bugatti",
+      "url": "https://aeon.co/videos/the-bisexual-artist-who-reimagined-womanhood-for-the-jazz-age",
+      "summary": "Tamara de Lempicka's Jazz Age paintings present a modern vision of womanhood, depicting bold, free, and stylish women. Her art redefined feminine representation for her era.",
+      "tags": [
+        "art",
+        "history",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5adb5a4024067883",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "How to build real peace",
+      "url": "https://aeon.co/essays/what-cooperatives-for-an-anticapitalist-peace-look-like",
+      "summary": "Cooperatives offer a viable path to building lasting peace in post-war countries, unlike capitalist logic, which has proven ineffective. This perspective suggests a new economic model for reconstruction and stability.",
+      "tags": [
+        "peace",
+        "economics",
+        "cooperatives"
+      ],
+      "priority": false
+    },
+    {
+      "id": "feb2f0af65ecb5e6",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
+      "url": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
+      "summary": "Apple has released the 8th-gen iPad mini, featuring its most significant update ever with an OLED screen and A20 Pro chip. The new device is thinner, lighter, IP67 rated, and boasts an 8.5-inch Super Retina XDR OLED display.",
+      "tags": [
+        "apple",
+        "ipad",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d8665fcffcbaf75a",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "F1 in Texas: The American race that fans love to attend",
+      "url": "https://arstechnica.com/cars/2026/10/f1-in-texas-one-more-race-and-well-have-a-new-champion/",
+      "summary": "Formula 1 returned to Austin, Texas, for the US Grand Prix at the Circuit of the Americas, a permanent track designed by Kevin Schwanz. COTA has become one of F1's most popular venues, favored by \"real fans\" over temporary street circuits.",
+      "tags": [
+        "formula 1",
+        "sports",
+        "texas"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e2776fe5f6d9bd57",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "From impulse purchase to pocket studio: The M-Vave FM-1",
+      "url": "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/",
+      "summary": "The M-Vave FM-1, a $59 frequency-modulation synthesizer, has seen its capabilities expanded by a community of tinkerers reverse-engineering its firmware. Originally a basic pocket device, it now supports numerous custom firmware projects.",
+      "tags": [
+        "music tech",
+        "synthesizer",
+        "community"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e777f9febc71797d",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
+      "url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
+      "summary": "Highway thieves are using sophisticated GPS spoofing and account hacking to steal over $100 million in data center equipment since June. They exploit freight broker accounts to arrange fake shipments or hire unwitting drivers, eventually rerouting cargo for resale.",
+      "tags": [
+        "crime",
+        "cybersecurity",
+        "logistics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6ae44fd4c20f448b",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Some iPhone Duo screens are already failing",
+      "url": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
+      "summary": "Some early iPhone Duo buyers are reporting hardware flaws causing internal display failure, with bright lines appearing near the crease. Apple's first foldable phone, costing $2,000, may require a screen replacement that costs half the device's price.",
+      "tags": [
+        "apple",
+        "iphone",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0cf6986c83dc901f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'Maxxing' selected as Dictionary.com word of the year",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The term \"maxxing,\" used by Gen Z and Gen Alpha to describe an emphasis on optimization, has been selected as Dictionary.com's word of the year. It functions as an adjective, adverb, noun, and verb across various contexts.",
+      "tags": [
+        "language",
+        "culture",
+        "gen z"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7c4f5eb8c714a591",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
+      "summary": "Algeria plans to deploy troops to Niger for the first time since 1973, with the mission focused on protecting energy facilities in northern Niger near the Libyan border. This marks a significant shift in Algeria's foreign policy.",
+      "tags": [
+        "algeria",
+        "niger",
+        "geopolitics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "39b57f6186910316",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+      "summary": "AI company Anthropic has warned of \"catastrophic risk\" to humankind ahead of its highly anticipated share listing, emphasizing its commitment to AI safety. The company is set to be the first pure AI firm to go public.",
+      "tags": [
+        "ai",
+        "ethics",
+        "anthropic"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dc6efdfcb3d86b20",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Catholic bishops apologise for 'exploited' Trump meeting",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Catholic bishops have apologized for a meeting with former President Trump that they believed was private, stating it was \"exploited\" when images of them praying with him surfaced. The incident caused controversy within the church.",
+      "tags": [
+        "politics",
+        "religion",
+        "us news"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3ba5516ae080b3c1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Serbia is celebrating after its veteran populist right-wing ruler of 12 years, Vučić, lost the election to a student-led protest movement. His party's defeat is seen as a referendum on the country's future.",
+      "tags": [
+        "serbia",
+        "politics",
+        "election"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ac43a12779c168b3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "China's big political meeting could see Xi 'tighten discipline' in party",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss",
+      "summary": "China's highly secretive four-day Plenum began in Beijing, a significant political meeting that could see President Xi Jinping further \"tighten discipline\" within the Communist Party. The gathering is expected to reinforce his power.",
+      "tags": [
+        "china",
+        "politics",
+        "xi jinping"
+      ],
+      "priority": false
+    },
+    {
+      "id": "50a67807237c4bfd",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
+      "url": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
+      "summary": "R&B star Chris Brown has been given a suspended eight-month prison sentence after pleading guilty to affray for attacking a music producer with a glass bottle. The incident occurred at a nightclub.",
+      "tags": [
+        "celebrity",
+        "crime",
+        "music"
+      ],
+      "priority": false
+    },
+    {
+      "id": "90d81c7dc6617b12",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Crowds welcome Venezuela's María Machado after months in exile",
+      "url": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Crowds welcomed Venezuelan opposition leader María Machado upon her return after spending over 10 months in exile, having escaped the country by speedboat. Her return signifies a notable development in Venezuelan politics.",
+      "tags": [
+        "venezuela",
+        "politics",
+        "opposition"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0e4db1568fecae5e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
+      "url": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Eric Bauza, known for voicing iconic characters like Bugs Bunny and Daffy Duck, has died at the age of 46. He also lent his voice to several characters in the animated film \"Coyote vs. Acme.\"",
+      "tags": [
+        "obituary",
+        "entertainment",
+        "voice acting"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f04e13f3025a8501",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Five ways Trump has changed immigration in the US",
+      "url": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo?at_medium=RSS&at_campaign=rss",
+      "summary": "This article outlines five ways Donald Trump has reshaped US immigration policy during his time in office. His signature policies, including promises of closed borders and mass deportations, have had a significant impact.",
+      "tags": [
+        "trump",
+        "immigration",
+        "us policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8e99847b1b1e64c4",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The \"Lula's Army\" WhatsApp channel played a crucial role in transforming online enthusiasm into real-world mobilization, helping President Lula secure his fourth term in Brazil. Millions joined the channel, contributing to his election comeback.",
+      "tags": [
+        "brazil",
+        "politics",
+        "social media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e5e179397bdbe5a0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Lula wins fourth term in dramatic Brazil election comeback",
+      "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Luiz Inácio Lula da Silva has secured a dramatic fourth term as Brazil's president, having overcome a first-round loss to right-wing challenger Flávio Bolsonaro. His victory marks a significant political comeback.",
+      "tags": [
+        "brazil",
+        "politics",
+        "election"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5bbaa073b17f4356",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "More than 60 Christians killed in Ethiopia 'massacre', church official says",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g175dgdx2o?at_medium=RSS&at_campaign=rss",
+      "summary": "A church official reports that over 60 Christians were killed in an ambush, described as a \"massacre,\" in Ethiopia. A resident recounted their 75-year-old father being killed in the incident.",
+      "tags": [
+        "ethiopia",
+        "conflict",
+        "human rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0056bfd18c8f4bd9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Police arrest teenager after shooting that injured 12, including children, in Florida",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg8vnv171o?at_medium=RSS&at_campaign=rss",
+      "summary": "Police have arrested a teenager following a shooting in Florida that injured 12 people, including children, near an American football stadium. The incident happened on a Saturday night after a game.",
+      "tags": [
+        "crime",
+        "florida",
+        "us news"
+      ],
+      "priority": false
+    },
+    {
+      "id": "83d5d6ce89716d6a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Stunning photos capture October's Hunter's Moon around the world",
+      "url": "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o?at_medium=RSS&at_campaign=rss",
+      "summary": "October's full Moon, known as the Hunter's Moon, illuminated the night sky this weekend, captured in stunning photos from around the world. The celestial event offered beautiful views.",
+      "tags": [
+        "astronomy",
+        "photography",
+        "nature"
+      ],
+      "priority": false
+    },
+    {
+      "id": "072f1f5bacfc02cf",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Sydney's new $5bn airport has one big problem: Getting there is tough",
+      "url": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sydney's new $5 billion airport faces a major challenge because it will lack direct public transportation for a year after opening. This omission raises concerns among locals about accessibility.",
+      "tags": [
+        "sydney",
+        "infrastructure",
+        "transportation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "369d3800f14eefbc",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+      "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+      "summary": "A judge ruled that the Trump administration illegally fired Maurene Comey, daughter of former FBI director James Comey, from her federal prosecutor job. She believes her dismissal was politically motivated due to her father's public profile.",
+      "tags": [
+        "politics",
+        "legal",
+        "us government"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b34f863ab50a31db",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US Marine indicted for murder and robbery of woman in Japan",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
+      "summary": "A US Marine has been indicted for the murder and robbery of a woman in Japan, an incident that has sparked outrage in the country. Prosecutors have formally charged Devin Jacob Ballard with the crimes.",
+      "tags": [
+        "crime",
+        "japan",
+        "us military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d5260429b93a1619",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: How President Lula turned it around to beat Flávio Bolsonaro",
+      "url": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Brazil's left-wing President Lula secured his fourth term by narrowly defeating Flávio Bolsonaro, marking a dramatic comeback. This video explains how Lula managed to turn the election around.",
+      "tags": [
+        "brazil",
+        "politics",
+        "election"
+      ],
+      "priority": false
+    },
+    {
+      "id": "52e7906289a3640a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Who is Lula? From ex-worker and prisoner to Brazil's president again",
+      "url": "https://www.bbc.co.uk/news/articles/c35yn2ye1x85o?at_medium=RSS&at_campaign=rss",
+      "summary": "Luiz Inácio Lula da Silva, a firebrand left-winger who was previously imprisoned, has once again won a fourth term as Brazil's president. His career trajectory spans from ex-worker to national leader.",
+      "tags": [
+        "brazil",
+        "politics",
+        "biography"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f69aace0490cf322",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Who should win the men's Ballon d'Or? BBC Sport pundits have their say",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqjdmn0ndxjxo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Sport pundits are debating who should win the men's Ballon d'Or, with the winner scheduled to be announced in London. The article shares their predictions for the prestigious football award.",
+      "tags": [
+        "football",
+        "sports",
+        "awards"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c980e6ae305052c5",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Anthropic S-1",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "summary": "Anthropic has filed its S-1 document with the SEC, providing public details about its business ahead of its IPO. The filing is an extensive disclosure for potential investors.",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "finance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6694de6695ab63b9",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "CSS-Tricks has a new owner",
+      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "summary": "CSS-Tricks, a popular web development resource, has announced a new owner. This marks a significant change for the long-standing publication in the web design community.",
+      "tags": [
+        "web development",
+        "design",
+        "acquisition"
+      ],
+      "priority": false
+    },
+    {
+      "id": "023cc13c981c4872",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "GPT-6.1 Terra",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+      "summary": "OpenAI has introduced GPT-6.1 Terra, a new iteration of its large language model. This release signifies continued advancements in AI technology by the company.",
+      "tags": [
+        "openai",
+        "ai",
+        "gpt"
+      ],
+      "priority": false
+    },
+    {
+      "id": "53f0d4b82c460ad6",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Pharo 14",
+      "url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+      "summary": "Pharo 14, a new version of the dynamic object-oriented programming environment, has been released. This update offers new features and improvements for its users.",
+      "tags": [
+        "programming",
+        "software",
+        "pharo"
+      ],
+      "priority": false
+    },
+    {
+      "id": "758d99a78c2230fb",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "summary": "Sebastian Raschka has launched a video course on building reasoning models from scratch. The course aims to educate individuals on the fundamental principles of constructing such AI models.",
+      "tags": [
+        "ai",
+        "education",
+        "machine learning"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5f426b8289d0488d",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Show HN: TitleArt – Make text like it's 1997",
+      "url": "https://titleart.dvy.io/",
+      "summary": "\"TitleArt – Make text like it's 1997\" is a new tool that allows users to create text with a nostalgic aesthetic. This application caters to those interested in retro digital design.",
+      "tags": [
+        "design",
+        "software",
+        "nostalgia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c2beb5cc51f20f69",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Switzerland. Block by block. At 1:1 scale",
+      "url": "https://blocks.manifold3d.ch/",
+      "summary": "A project titled \"Switzerland. Block by block. At 1:1 scale\" has been unveiled, seemingly a digital or physical recreation of Switzerland. This initiative offers a unique, detailed representation of the country.",
+      "tags": [
+        "project",
+        "mapping",
+        "visualization"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6407be1e8747190c",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Websites Should Be Printable",
+      "url": "https://brennenputh.me/blog/printable-websites/",
+      "summary": "An article argues that websites should prioritize printability, highlighting the importance of making online content easily accessible in physical format. This perspective emphasizes a practical aspect of web design and accessibility.",
+      "tags": [
+        "web design",
+        "accessibility",
+        "ux"
+      ],
+      "priority": false
+    },
+    {
+      "id": "89a2b1d1c2581953",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "AI giant Anthropic files for an IPO that could break records",
+      "url": "https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records",
+      "summary": "AI company Anthropic, creator of the Claude chatbot, has filed for an initial public offering that is projected to be one of the largest ever. This move marks a significant milestone for the AI industry.",
+      "tags": [
+        "anthropic",
+        "ai",
+        "ipo"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1b629ff9a7f19cb4",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Australian judge rejects prisoner's human rights challenge to Vegemite ban",
+      "url": "https://www.npr.org/2026/10/26/g-s1-149923/australian-judge-rejects-prisoners-human-rights-challenge-to-vegemite-ban",
+      "summary": "An Australian judge rejected a prisoner's human rights challenge to a ban on Vegemite, which Andre McKechnie argued breached his rights. McKechnie, serving a life sentence, sought to overturn the ban on the popular spread.",
+      "tags": [
+        "australia",
+        "legal",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6fe9d9d23b32f7df",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Court ruling fails to end wait for thousands of immigrants stuck abroad without visas",
+      "url": "https://www.npr.org/2026/10/26/nx-s1-5991896/court-ruling-fails-to-end-wait-for-thousands-of-immigrants-stuck-abroad-without-visas",
+      "summary": "A federal judge struck down a Trump administration ban on issuing immigrant visas to people from 75 countries, but thousands of immigrants remain stuck abroad without their visas. The court ruling has not yet resolved the backlog for these individuals.",
+      "tags": [
+        "immigration",
+        "us policy",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ba16c4216cff96ef",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Judge says DOJ illegally fired the daughter of former FBI director Comey",
+      "url": "https://www.npr.org/2026/10/26/g-s1-149960/judge-maurene-comey-illegal-dismissal",
+      "summary": "A judge has ruled that the DOJ illegally dismissed Maurene Comey, daughter of former FBI director James Comey, from her role as a federal prosecutor. This finding raises concerns about politically motivated firings within the Department of Justice.",
+      "tags": [
+        "us politics",
+        "legal",
+        "doj"
+      ],
+      "priority": false
+    },
+    {
+      "id": "073840e4774864bb",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Redistricting isn't playing out how the GOP hoped. And, Brazil's Lula wins 4th term",
+      "url": "https://www.npr.org/2026/10/26/g-s1-149917/up-first-newsletter-republican-redistricting-france-serbia-protests-brazil-luiz-inacio-lula-da-silva",
+      "summary": "Republican redistricting efforts are not yielding the expected results, with the party facing competitive and expensive races in districts designed to favor them. Meanwhile, Brazil's Luiz Inácio Lula da Silva has secured a fourth presidential term.",
+      "tags": [
+        "us elections",
+        "politics",
+        "brazil"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1bd17020df68029a",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Republicans are spending millions and still may not win districts drawn to favor them",
+      "url": "https://www.npr.org/2026/10/26/nx-s1-6008167/republican-redistricting-midterms-competitive-map",
+      "summary": "Republicans are spending millions on midterm elections in congressional districts they redrew to their advantage, yet they still face competitive and costly races. These redistricting efforts are not guaranteeing expected wins.",
+      "tags": [
+        "us elections",
+        "politics",
+        "redistricting"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4a5195bfc1c1d9eb",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Special ed diaries: Teachers tell NPR about their most joyous, most difficult moments",
+      "url": "https://www.npr.org/2026/10/26/nx-s1-6000653/special-education-teacher-shortage",
+      "summary": "Teachers share their experiences in special education, highlighting the joys and difficulties of a role that is challenging to fill. NPR investigated why special education teaching jobs are in short supply by speaking with over a dozen educators.",
+      "tags": [
+        "education",
+        "teachers",
+        "social issues"
+      ],
+      "priority": false
+    },
+    {
+      "id": "68e220c0eae7efaf",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump administration pushes for food assistance card upgrade to fight fraud",
+      "url": "https://www.npr.org/2026/10/26/nx-s1-6017810/snap-benefits-ebt-card-chip-usda-rule",
+      "summary": "The Trump administration is advocating for an upgrade to food assistance (SNAP) EBT cards with microchips to combat fraud that has cost recipients millions. This proposed rule aims to enhance security and protect benefits.",
+      "tags": [
+        "snap",
+        "us policy",
+        "fraud"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a1562729ccc24514",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "What to know about China's plenum as Xi seeks stronger party discipline",
+      "url": "https://www.npr.org/2026/10/26/g-s1-149918/what-to-know-about-chinas-plenum-as-xi-seeks-stronger-party-discipline",
+      "summary": "China's closed-door plenum, which began Monday, is expected to see President Xi Jinping strengthen party discipline, a year before he seeks a fourth term. The meeting will likely include personnel changes in key leadership bodies.",
+      "tags": [
+        "china",
+        "politics",
+        "xi jinping"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42107c90ccbc9a76",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "AI has a language gap. That could be a problem for some voters.",
+      "url": "https://www.politico.com/news/2026/10/25/ai-non-english-language-voters-01132772",
+      "summary": "AI chatbots are providing non-native English speakers with inaccurate election information due to a language gap, potentially disenfranchising these voters. Organizations are working to bridge this divide by creating specialized AI assistants and integrating official data sources.",
+      "tags": [
+        "ai",
+        "elections",
+        "language barriers"
+      ],
+      "priority": false
+    },
+    {
+      "id": "520b73fc110ba690",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "The Epstein election?",
+      "url": "https://www.politico.com/video/2026/10/26/the-epstein-election-2211771",
+      "summary": "A news piece titled \"The Epstein election?\" raises questions or discussions related to the influence of Jeffrey Epstein in the current election cycle.",
+      "tags": [
+        "politics",
+        "epstein",
+        "us elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "108ada09920e252f",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Why Dems’ late House reaches don’t usually pan out",
+      "url": "https://www.politico.com/news/2026/10/26/democrats-house-candidates-support-dccc-01134945",
+      "summary": "Democrats are pushing into Republican-leaning territories in late House races, but historical data shows that such last-minute pushes rarely succeed. Despite this, the party uses these additions to project momentum and encourage fundraising.",
+      "tags": [
+        "us elections",
+        "democrats",
+        "campaigns"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0fe73fe53c64bc85",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "How Voting Is Like a Klein Bottle",
+      "url": "https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/",
+      "summary": "Mathematically, democracy presents a stubborn problem: translating individual preferences into a single group choice, akin to the paradoxical nature of a Klein bottle. This insight highlights the inherent difficulties in collective decision-making.",
+      "tags": [
+        "mathematics",
+        "democracy",
+        "philosophy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8a303f9c378d5a67",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Jason Koebler",
+      "url": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
+      "summary": "ChatGPT is reportedly advising users with common tech support problems to contact 404 Media, incorrectly suggesting a journalistic outlet can solve their issues. This highlights an AI misuse where lack of human customer support pushes users to generate inappropriate solutions.",
+      "tags": [
+        "ai",
+        "chatgpt",
+        "journalism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e79ab81afd647054",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Scammy fundraising is a big problem",
+      "url": "https://www.slowboring.com/p/scammy-fundraising-is-a-big-problem",
+      "summary": "Political fundraising tactics have become a \"scammy\" problem for Democrats, who are inundating small-dollar donors with appeals for races that aren't genuinely competitive. This raises concerns about maintaining donor trust and effective resource allocation.",
+      "tags": [
+        "us politics",
+        "fundraising",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ae80c76280ebb7d0",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic officially files for its public debut",
+      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "summary": "Anthropic has officially filed for its initial public offering, disclosing substantial revenue, increasing losses, significant enterprise adoption, and a unique governance structure. This structure is designed to maintain founder control and its AI safety mission.",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "da28d9fba8af3a9a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "summary": "Anthropic's S-1 IPO filing reveals a strategy for customer retention, with over half of its large enterprise clients using both the Claude Platform and a first-party app. This cross-selling approach, similar to Amazon's, is making enterprise customers \"stickier.\"",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cf82894872b4eeb4",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
+      "url": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
+      "summary": "Apple has unveiled a new iPad mini featuring an OLED display and the faster A20 Pro chip, along with a thinner and lighter design. This update marks a significant upgrade for the compact tablet.",
+      "tags": [
+        "apple",
+        "ipad",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1db3e231e00ceece",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
+      "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
+      "summary": "Fusion startups are facing a new dilemma: whether to grant the government shares in exchange for funding awards or pursue independent financing. This challenge adds a business complexity to their scientific endeavors.",
+      "tags": [
+        "fusion",
+        "startups",
+        "energy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e36c81c2c1e01fec",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "summary": "Grok has released the first seven minutes of its AI-generated \"Odyssey,\" which is described as acceptable if artistry, inspiration, or human interest are not primary concerns. The footage showcases the current capabilities of AI in content creation.",
+      "tags": [
+        "ai",
+        "entertainment",
+        "grok"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2e7248105ad9d9db",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Microsoft offers buyouts to around 60,000 employees",
+      "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
+      "summary": "Reports indicate that Microsoft is offering voluntary buyouts to approximately 60,000 employees. This move is part of the company's latest efforts to manage costs and restructure its workforce.",
+      "tags": [
+        "microsoft",
+        "employment",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3474eb81c9162a3d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
+      "url": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/",
+      "summary": "Tesla is collaborating with Turo to boost adoption of its Full Self-Driving (Supervised) software, offering eligible Turo hosts a one-month free trial. This initiative aims to increase exposure and usage of Tesla's autonomous driving features.",
+      "tags": [
+        "tesla",
+        "self-driving",
+        "automotive"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0ba376a7fea402db",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The best apps for tracking your reading and discovering new books",
+      "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+      "summary": "Numerous apps are available to help users track their reading and discover new books. This guide compiles a list of the best options to assist individuals in choosing the right app for their reading habits.",
+      "tags": [
+        "apps",
+        "reading",
+        "lifestyle"
+      ],
+      "priority": false
+    },
+    {
+      "id": "342966caae94fede",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "This startup’s self-driving excavators help dig up $600M in new funding",
+      "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+      "summary": "Bedrock Robotics, now valued at $4.1 billion, has secured $600 million in new funding for its self-driving excavators, addressing a shortage of skilled operators. The startup is particularly focused on autonomous solutions for the construction industry.",
+      "tags": [
+        "robotics",
+        "construction",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "200ac4a625fd7143",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Uh oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
+      "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
+      "summary": "Early adopters of Apple's new iPhone Duo are reportedly experiencing issues with cracking screens. These complaints suggest a potential hardware defect in the highly anticipated foldable phone.",
+      "tags": [
+        "apple",
+        "iphone",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5c936d79bd4e7d36",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+      "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+      "summary": "The author of \"Cyberselfish\" is re-examining techno-libertarianism as her book is re-released. She critiques the ideology, suggesting that some views from twelve years ago are outdated in the current tech landscape.",
+      "tags": [
+        "books",
+        "technology",
+        "philosophy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9ffcede555d01455",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Bernard-Henri Lévy: The Riots in France and the Return of a Dangerous Idea",
+      "url": "https://www.thefp.com/p/bernard-henri-levy-the-riots-in-france-protest-maga-israel",
+      "summary": "Bernard-Henri Lévy criticizes the re-emergence of the idea that systemic violence in democratic societies justifies retaliatory riot violence in France. He argues that such \"counterviolence\" harms vulnerable individuals rather than the intended regime.",
+      "tags": [
+        "france",
+        "politics",
+        "philosophy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ea3b0808ff621bbb",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "His Son Was Killed in Gaza. Now He Could Be Israel's Next Leader.",
+      "url": "https://www.thefp.com/p/his-son-was-killed-in-gaza-eisenkot-israel-election",
+      "summary": "Gadi Eisenkot, whose son was killed in Gaza, has emerged as a formidable political rival to Benjamin Netanyahu and a potential next leader of Israel. His decision to run for prime minister was influenced by his personal loss in the conflict.",
+      "tags": [
+        "israel",
+        "politics",
+        "gaza"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6a6e4fa998bd6aa6",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Who’s Really Trying to Rig the Alaska Senate Race?",
+      "url": "https://www.thefp.com/p/whos-really-trying-to-rig-the-alaska",
+      "summary": "A controversy surrounds the Alaska Senate race where a second candidate named Dan Sullivan, potentially a spoiler, is on the ballot against incumbent Republican Dan Sullivan. The situation raises questions of election rigging and good faith candidacy.",
+      "tags": [
+        "us elections",
+        "alaska",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "eaecf1791f7dcd4b",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Why Mom Gets Her Medicine in Germany",
+      "url": "https://www.thefp.com/p/why-mom-gets-her-medicine-in-germany-healthcare-medicine-disease",
+      "summary": "A personal account details a mother's struggle to get diagnosed with Addison's disease in the US, requiring a near-fatal adrenal crisis to identify the condition after seeing 12 specialists. The narrative contrasts her experience with better treatment accessibility in Germany.",
+      "tags": [
+        "healthcare",
+        "personal story",
+        "disease"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9e7b253631589ede",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "20 Favorite Children’s Books from 20 Years of The Marginalian",
+      "url": "https://www.themarginalian.org/2026/10/25/20-childrens-books/",
+      "summary": "This curated list compiles 20 favorite children's books from 20 years of The Marginalian, highlighting works that offer philosophical insights into the human condition. The author views children's literature as profoundly insightful and not a separate category.",
+      "tags": [
+        "books",
+        "children's literature",
+        "philosophy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5bb3af77fc58f87c",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "Bob Dylan on the Unconscious Mind and the Ideal Conditions for Creative Work",
+      "url": "https://www.themarginalian.org/2026/10/26/bob-dylan-songwriters-on-songwriting-interview/",
+      "summary": "Bob Dylan emphasizes the importance of the unconscious mind and ideal conditions for creative work, preferring songs written quickly in a contemplative environment. He believes true creativity stems from sorting thoughts and having a pure heart.",
+      "tags": [
+        "bob dylan",
+        "creativity",
+        "music"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7d95718506f2958a",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "The Dark Wood of the Golden Birds: Margaret Wise Brown’s Lost Masterpiece about Mortality and the Meaning of Life, Newly Illustrated",
+      "url": "https://www.themarginalian.org/2026/10/25/dark-wood-margaret-wise-brown-ofra-amit/",
+      "summary": "Margaret Wise Brown's \"The Dark Wood of the Golden Birds\" is a newly illustrated lost masterpiece about mortality, written as a love letter to her dying partner, Michael Strange. The book explores profound themes with elegiac prose.",
+      "tags": [
+        "books",
+        "literature",
+        "biography"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5d4c0d0eebd8a101",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Apple acknowledges iPhone Duo display &#8216;issue&#8217; after reports of cracked screens",
+      "url": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack",
+      "summary": "Apple has acknowledged an \"issue impacting the inner display\" on a \"small number of iPhone Duo units\" after reports of cracked screens. Affected users are advised to contact AppleCare for a replacement.",
+      "tags": [
+        "apple",
+        "iphone",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5e020d9d712433e9",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Everything old is new again with the Fitbit Edge",
+      "url": "https://www.theverge.com/tech/1018621/fitbit-edge-review-fitness-tracker-wearables-health",
+      "summary": "The Fitbit Edge, a modernized version of older fitness bands, offers a familiar experience for $179.99, despite its \"flat circle\" design resembling past models. It aims to revitalize the classic fitness tracker concept for a new generation.",
+      "tags": [
+        "fitbit",
+        "wearables",
+        "health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "be156af5092064d8",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Five weird details from Anthropic’s IPO filing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+      "summary": "Anthropic's S-1 IPO filing reveals insights into its business, including the high compensation of its sibling co-founders and plans for its IPO billions. The 300-page document offers a look at the AI company's operations and risks.",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "31daff61bf1a1e4f",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
+      "url": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
+      "summary": "Apple has released iOS 27.2, adding Apple Pencil support to the iPhone Duo and introducing an \"Edge Light\" feature for video calls. This update fulfills a previous promise to bring Pencil compatibility to the foldable device.",
+      "tags": [
+        "apple",
+        "ios",
+        "iphone"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5817d3532713896f",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Microsoft offers buyouts to 60,000 employees",
+      "url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
+      "summary": "Microsoft is offering voluntary buyouts to up to 60,000 employees across multiple countries and departments, including AI experiences, Windows, and Xbox. This initiative aims to reduce staff without resorting to layoffs.",
+      "tags": [
+        "microsoft",
+        "employment",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "625b8f6c1a11e546",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Nothing&#8217;s eye-catching Ear 3A earbuds are matching their best price to date",
+      "url": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale",
+      "summary": "Nothing’s Ear 3A noise-canceling earbuds are available for $79, matching their lowest price, offering good performance for the cost. These earbuds feature extensive EQ options, decent ANC for low drones, and come in various colors.",
+      "tags": [
+        "earbuds",
+        "audio",
+        "deal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d7ae90f32e714b41",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The NBA’s response to gambling scandals is to add more gambling partnerships",
+      "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+      "summary": "The NBA has expanded its partnerships with prediction market platforms Kalshi and Polymarket, along with DraftKings, despite recent gambling scandals. This move comes after a player pleaded guilty to conspiracy charges related to gambling.",
+      "tags": [
+        "nba",
+        "gambling",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7d61834bc7078be4",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The RealReal won’t let AI agents hog designer clothing",
+      "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+      "summary": "Luxury fashion retailer The RealReal is updating its bot defense systems to prevent AI agents from monopolizing designer clothing listings. This follows a report where an AI agent could continuously hold items in a shopping cart, blocking other customers.",
+      "tags": [
+        "retail",
+        "ai",
+        "e-commerce"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ca1bc85a47513bf6",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The Sony WH-1000XM4C bring back a beloved headphone design",
+      "url": "https://www.theverge.com/tech/1018115/sony-wh-1000xm4c-headphones-review",
+      "summary": "Sony has re-released the WH-1000XM4C headphones, largely identical to the 2020 XM4 model with only minor tweaks. Despite not being cutting-edge, they remain great headphones utilizing the same active noise cancellation processor.",
+      "tags": [
+        "sony",
+        "headphones",
+        "audio"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 102,
+    "summarized": 78,
+    "skipped_promos": 0,
+    "filtered_by_rules": 24,
+    "sources": 13,
+    "email_items_omitted": 0
+  }
+}
