@@ -1,0 +1,1218 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T19:13:40+00:00",
+  "hot_topics": [
+    {
+      "topic": "Apple's New Touchscreen MacBook Pro with OLED Display",
+      "synthesis": "Apple has officially announced and showcased its first MacBook Pro featuring a touchscreen and a PROLED XDR OLED display, representing a significant design departure. Reviewers praised the display's brightness and contrast, as well as the laptop's lighter form factor. macOS is also being adapted to include new touch-friendly functionalities, overturning former CEO Steve Jobs's long-standing opposition to touchscreen laptops.",
+      "item_ids": [
+        "f8b016807dfa55af",
+        "ec16ee4c324af9e9",
+        "6c88d74d778b7217",
+        "d872248b5a72e88c",
+        "3f4f24cc73d712d4",
+        "da4f4e1806a1eac3",
+        "8b4fb26d88ce1f7e",
+        "3eb4a963a6258ea3",
+        "5f06adb1afb52b1b"
+      ]
+    },
+    {
+      "topic": "Israel Election Deadlock and Political Impasse",
+      "synthesis": "Israel's recent elections have resulted in a political deadlock, with partial results showing neither Benjamin Netanyahu's nor Gadi Eisenkot's bloc able to secure a majority. Despite high voter turnout, this outcome suggests that forming a government will require complex coalition negotiations, potentially leading to an impasse or even new elections. Media outlets are exploring various scenarios for breaking this political gridlock.",
+      "item_ids": [
+        "8c8409ae6ca23870",
+        "7216c38959dbc989",
+        "93f8b2295e50b838",
+        "c40ec023332c99fd",
+        "58da6cba29e8b115",
+        "e45e85b2ea92e658"
+      ]
+    },
+    {
+      "topic": "Deadly High-Speed Train Crash in Spain",
+      "synthesis": "Spain experienced a deadly high-speed train crash south of Madrid when one train collided with a stopped train, causing two cars to derail. The incident, which involved over 500 passengers, marks the country's second major train accident this year. Emergency services are on the scene as reports indicate a rising death toll.",
+      "item_ids": [
+        "9be2fe894443dcec",
+        "51b70bd7a13a6ba2",
+        "eecf810693ecf4f1"
+      ]
+    },
+    {
+      "topic": "Anthropic's IPO and AI Risk Disclosures",
+      "synthesis": "Anthropic's eagerly anticipated initial public offering is drawing attention to both its significant financial potential for investors like Amazon and severe warnings about AI's existential risks. The company's S-1 filing outlines hundreds of potential problems, including the alarming possibilities of AI blackmailing people, becoming sentient, or even ending humanity. These disclosures are part of a broader discussion on the benefits and dangers of advanced AI.",
+      "item_ids": [
+        "a5c29c52270a229d",
+        "04b3a3388c96d463"
+      ]
+    },
+    {
+      "topic": "Data Center Boom's Impact on the US Energy Grid",
+      "synthesis": "The rapid expansion of data centers, fueled by the AI boom, is significantly impacting the US energy grid, creating both challenges and opportunities. While some communities, like those in Ohio, voice concerns over extensive data center development, industry experts note that this demand is also driving innovation in grid modernization. The Department of Energy is reportedly providing billions in loans to nuclear plants to help meet the surging energy needs of these facilities.",
+      "item_ids": [
+        "272bfd40d5998917",
+        "04068420c62d72dc"
+      ]
+    },
+    {
+      "topic": "Google's Evolving AI Capabilities and Integration",
+      "synthesis": "Google is actively expanding its AI offerings, introducing new models like Gemini 4 Carbon and opening its Gemini AI and Search platforms to more third-party applications. These initiatives aim to transform consumer interaction with online services, though some recent AI responses have been noted as evasive, particularly when asked politically sensitive questions like the winner of the 2020 election. Chrome's AI-powered Autofill is also now integrated with Gmail, allowing it to pull personal information for form completion.",
+      "item_ids": [
+        "f8eb10b8a65f466c",
+        "933fb42d076bdb45",
+        "a9c017e3d116e870",
+        "8033dd717fe8e99a"
+      ]
+    },
+    {
+      "topic": "Xreal Aura's Debut as an Android XR Headset",
+      "synthesis": "The Google/Xreal Aura, a lightweight AR headset powered by an Android XR compute puck, has officially launched with a competitive price of $1,099. This wired headset offers users multiple virtual screens and a wide field of view. Its debut positions it as a new and notable contender in the burgeoning mixed reality market.",
+      "item_ids": [
+        "9012e7bdeac0f8aa",
+        "edbfc10da57da79f"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "2114df8d87274647",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "The Amarna letters",
+      "url": "https://aeon.co/videos/letters-from-bronze-age-rulers-reveal-how-little-diplomacy-has-changed",
+      "summary": "The Amarna letters, ancient correspondence from Bronze Age rulers to Egyptian pharaohs, reveal that diplomatic concerns like petty disputes, pleas for help, and requests for gold have remained constant for over 3,000 years. These historical documents offer a unique window into ancient international relations.",
+      "tags": [
+        "history",
+        "archaeology",
+        "diplomacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fc3179255f0faa2f",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+      "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+      "summary": "US Rep. James Comer warns that a Delaware proposal allowing AI agents to operate companies could enable human owners to evade legal responsibility for harmful actions taken by the AI. The House Committee on Oversight and Government Reform is seeking documents related to the state's plan to establish \"Artificial Intelligence Companies\" (AICs).",
+      "tags": [
+        "ai",
+        "policy",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a5c29c52270a229d",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+      "summary": "The\nSecurities and Exchange Commission\n's publication on Monday of\nAnthropic's S-1 form\n—ahead of a heavily anticipated initial public offering—has led to plenty of discussion of whether the company's quickly ballooning revenues will be able to overcome its even higher costs. But…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "ec16ee4c324af9e9",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Apple announces touchscreen MacBook Pro with OLED display",
+      "url": "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/",
+      "summary": "LOS ANGELES—Apple today announced and gave a first glimpse of its first major MacBook Pro redesign in more than five years. As rumored, it includes an OLED display and, for the first time on macOS, a touchscreen—a change Apple has long debated. (Former CEO Steve Jobs famously was…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "6ed90040df186490",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+      "url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
+      "summary": "Apple has refreshed its iMac and entry-level 14-inch MacBook Pro models by incorporating the new M6 chip. The M6 chip for the iMac is available in different variants, offering diverse CPU/GPU core counts, RAM, and storage configurations.",
+      "tags": [
+        "apple",
+        "hardware",
+        "m6 chip"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dcdb92ab732e2067",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Buckle up for more body-swapping hijinks in Jumanji: Open World trailer",
+      "url": "https://arstechnica.com/culture/2026/10/buckle-up-for-more-body-swapping-hijinks-in-jumanji-open-world-trailer/",
+      "summary": "Sony Pictures released a new trailer for \"Jumanji: Open World,\" a sequel that promises more body-swapping hijinks and a twist reminiscent of the 1995 original. The film, opening on Christmas Day, continues the successful franchise rebooted in 2017.",
+      "tags": [
+        "movie",
+        "trailer",
+        "jumanji"
+      ],
+      "priority": false
+    },
+    {
+      "id": "66dbe48c61865063",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+      "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+      "summary": "A critical code-execution vulnerability, CVE-2026-97631, has been identified in TianoCore EDK II, the open-source codebase for UEFI firmware used by most server vendors globally. This memory-corruption flaw allows attackers to execute malicious code before operating system defenses like Secure Boot become active.",
+      "tags": [
+        "security",
+        "vulnerability",
+        "firmware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6763d1f46a191e2d",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Florida county won’t investigate sketchy Flock cameras removed by mystery owners",
+      "url": "https://arstechnica.com/tech-policy/2026/10/florida-county-wont-investigate-sketchy-flock-cameras-removed-by-mystery-owners/",
+      "summary": "A Florida county has decided against investigating mysterious, unpermitted Flock cameras that were found and subsequently removed during a countywide takedown effort. Residents remain concerned about the unidentified installers and the usage of collected data, despite local law enforcement claiming five of the devices.",
+      "tags": [
+        "privacy",
+        "surveillance",
+        "florida"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f8eb10b8a65f466c",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Google AI gets cagey when asked who won the 2020 elections",
+      "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+      "summary": "If you ask some prominent US politicians who won the 2020 presidential election, you\nmight get\nsome\nweasely answers\nthat\nfail to directly acknowledge\nJoe Biden's win that November. If you ask Google's AI Mode the same question, you might get an evasive answer that simply tells yo…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f8b016807dfa55af",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Touchscreen MacBook Pro hands-on: OLED looks great on a Mac",
+      "url": "https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/",
+      "summary": "LOS ANGELES—For about five minutes on an extremely crowded showroom floor, I got to take pictures of the new MacBook Pro and test out some of its new features. First impressions: It's not as much of a departure from the previous design as I expected, but the outstanding OLED disp…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "65a11183c3c4fc4f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman",
+      "url": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss",
+      "summary": "Anger is growing in Kenya following the unexplained postponement of an extradition hearing for a former British soldier accused of murdering a woman, which is now rescheduled for May 2027. The victim's family has expressed significant frustration and concern over the extensive delay.",
+      "tags": [
+        "kenya",
+        "legal",
+        "justice"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5f2155063b7be28e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+      "summary": "A ceasefire has been extended across Ukraine's Russian-occupied Kherson region, initially established for residents of Oleshky, with officials reporting no breaches from either side. This truce aims to provide humanitarian relief to areas that have lacked basic utilities for three years.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f1f0096941c9de42",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "China's families are now supporting more old people than kids",
+      "url": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
+      "summary": "China's latest demographic figures indicate that families are now supporting more elderly individuals than children, marking a significant milestone as the country grapples with an aging population. This trend presents considerable challenges for social and economic structures.",
+      "tags": [
+        "china",
+        "demographics",
+        "aging population"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f416528a22fe6b7d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Dutch zookeeper dies after being mauled by leopard",
+      "url": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
+      "summary": "A Dutch zookeeper with four decades of experience at the park tragically died after being mauled by a leopard. The incident represents a profound loss for the zoo community and highlights the inherent dangers of working with wild animals.",
+      "tags": [
+        "accident",
+        "zoo",
+        "wildlife"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1f2bea1e44f033e1",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
+      "url": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Marry Mubaiwa, the ex-wife of Zimbabwe's vice-president, has been released after spending seven years on remand, as her attempted murder case collapsed. She was originally charged in 2019.",
+      "tags": [
+        "zimbabwe",
+        "legal",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7216c38959dbc989",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How could Israel break election deadlock? Here are four scenarios",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+      "summary": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "93f8b2295e50b838",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Israel's election result is messy - here's why",
+      "url": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
+      "summary": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "3feeef9a76c6ce43",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The King has acknowledged the \"suffering of the past\" as he commenced a nine-day royal tour of the Caribbean, visiting nations including the Bahamas, Guyana, and Antigua and Barbuda. This statement comes amidst ongoing discussions about historical injustices and reparations.",
+      "tags": [
+        "monarchy",
+        "royal tour",
+        "caribbean"
+      ],
+      "priority": false
+    },
+    {
+      "id": "97a6ef9cf1ac94ab",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+      "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Passengers on the luxury cruise ship Villa Vie Odyssey are stranded in Cambodia after their voyage was suspended due to a dramatic increase in fuel costs. The cruise company is currently working with passengers to arrange temporary living accommodations.",
+      "tags": [
+        "travel",
+        "cruise",
+        "cambodia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "974204262dd0fadd",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Myanmar diplomat breaks down as he urges world to 'end our suffering'",
+      "url": "https://www.bbc.co.uk/news/videos/cqz0ve10jxn2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Myanmar's representative to the UN, Kyaw Moe Tun, made an emotional appeal, urging the international community to intervene and \"end our suffering\" in the country. He criticized the world's perceived failure to provide effective assistance to the people of Myanmar.",
+      "tags": [
+        "myanmar",
+        "un",
+        "humanitarian crisis"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c40ec023332c99fd",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Netanyahu and Eisenkot face difficult paths to power as neither set to win majority",
+      "url": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
+      "summary": "The two main blocs appear to have too few seats to form the next government without reliance on Arab parties.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "8c8409ae6ca23870",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "3a15a11b67c05e85",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
+      "url": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tanzania is celebrating its first natural gas discovery in over a decade, a development described by the energy minister as a major milestone for the East African nation. This find is expected to significantly boost the country's energy sector and economy.",
+      "tags": [
+        "tanzania",
+        "energy",
+        "natural gas"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9be2fe894443dcec",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: At the scene of Spain's deadly train crash",
+      "url": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss",
+      "summary": "People have been killed after a Spanish high-speed train collided with another train south of the capital Madrid, making this the country's worst disaster since 2013.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "dbc48a41932673f6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+      "url": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "7daf37e1ec1899fc",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What we know as Flávio Bolsonaro lands in US after Brazil election loss",
+      "url": "https://www.bbc.co.uk/news/videos/c6x29djyx7g9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Flávio Bolsonaro, son of Brazil's former president, has arrived in the United States after losing Sunday's presidential election and facing a passport surrender order in Brazil. The White House reportedly granted him asylum, citing a risk of judicial persecution.",
+      "tags": [
+        "brazil",
+        "politics",
+        "asylum"
+      ],
+      "priority": false
+    },
+    {
+      "id": "51b70bd7a13a6ba2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What we know so far about deadly Spain train crash",
+      "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "e189035ee6ce1008",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Apple's git still trusts the compromised eMudhra certificates",
+      "url": "https://emudhra.we-have-a-problem.com/apple.html",
+      "summary": "Apple's Git software is reportedly still trusting compromised eMudhra certificates, raising a security concern regarding the integrity of certificate trust within Apple's systems. This issue highlights potential vulnerabilities in the supply chain of digital trust.",
+      "tags": [
+        "apple",
+        "security",
+        "certificates"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7f4e709965aeaff8",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "CNC Stone Carving",
+      "url": "https://carmelitegothic.com/cnc-stone-carving/",
+      "summary": "A blog post details the process and results of CNC stone carving, illustrating the application of advanced technology in artistic and architectural fabrication. The article showcases the precision and versatility offered by computer numerical control in working with stone.",
+      "tags": [
+        "technology",
+        "manufacturing",
+        "art"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7a41064525c8b4d2",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Early progress on accelerating drug development with Claude",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "summary": "Anthropic is reporting early progress in accelerating drug development through the use of its advanced AI model, Claude. This research underscores the growing potential of artificial intelligence to revolutionize pharmaceutical discovery and bring new treatments to market faster.",
+      "tags": [
+        "ai",
+        "drug development",
+        "anthropic"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f38cd2170c636d61",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Emacs Turns 50",
+      "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+      "summary": "The text editor Emacs is celebrating its 50th anniversary, marking a significant milestone for the enduring software in the computing world. This event prompts reflection on its history, design principles, and continued relevance.",
+      "tags": [
+        "software",
+        "history",
+        "emacs"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8033dd717fe8e99a",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Gemini 4 Carbon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "summary": "Article URL:\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/\nComments URL:\nhttps://news.ycombinator.com/item?id=50276792\nPoints: 427\n# Comments: 356",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "52233558c9665a6e",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Git for the US Code",
+      "url": "https://lexifina.com/blog/git-for-the-us-code",
+      "summary": "A project is exploring the application of Git, a version control system, for managing the US Code, aiming to modernize how legislation and legal text are tracked and updated. This initiative could bring greater transparency and efficiency to legislative processes.",
+      "tags": [
+        "government",
+        "legislation",
+        "git"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bfd516226549034d",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+      "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+      "summary": "A Kentucky man has become the first humanist to receive a religious exemption from using artificial intelligence, a decision that sparks new discussions at the intersection of AI, ethics, and freedom of belief. This ruling may set a precedent for future cases involving AI and personal convictions.",
+      "tags": [
+        "ai",
+        "ethics",
+        "humanism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5f06adb1afb52b1b",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "MacBook Pro with PROLED XDR Display and Touch",
+      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+      "summary": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundb...\nComments URL:\nhttps://news.ycombinator.com/item?id=50276940\nPoints: 251\n# Comments: 403",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "cdfb5e5d02b5c930",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
+      "summary": "\"Survival LLM\" is introduced as an AI assistant and emergency library designed to operate locally on a user's computer, even without internet access. This tool aims to provide critical information and support in various emergency scenarios.",
+      "tags": [
+        "ai",
+        "offline",
+        "emergency"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5048dcb3f3192c91",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "url": "https://tailscale.com/ssh-investigation-update",
+      "summary": "Tailscale has provided an update on the investigation and remediation efforts following an SSH-related security incident. The report details the steps taken to address and mitigate security concerns within their system, ensuring continued trust and reliability.",
+      "tags": [
+        "security",
+        "tailscale",
+        "incident response"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9ddb2b5a10223f7d",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "US agency approves Amazon Leo’s $11.5B acquisition of Globalstar",
+      "url": "https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/",
+      "summary": "A US agency has approved Amazon Leo's $11.5 billion acquisition of Globalstar, enabling Amazon to significantly expand its satellite network. This approval follows earlier reports detailing Amazon's strategic move into satellite communications.",
+      "tags": [
+        "amazon",
+        "acquisition",
+        "satellite"
+      ],
+      "priority": false
+    },
+    {
+      "id": "86a832f6ecdbfb7d",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "Pairing industrial AI autonomy and human control",
+      "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+      "summary": "The article discusses the concept of integrating industrial AI autonomy with human control, suggesting a collaborative approach in advanced manufacturing and operational systems. This pairing aims to optimize efficiency and innovation while maintaining essential human oversight.",
+      "tags": [
+        "ai",
+        "industrial automation",
+        "human-ai collaboration"
+      ],
+      "priority": false
+    },
+    {
+      "id": "77c4b91c96d46715",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6020543/dolores-huerta-dies",
+      "summary": "Dolores Huerta, a highly influential labor leader, feminist, and civil rights icon, has passed away at the age of 96. She co-founded the United Farm Workers union and coined the enduring rallying cry \"Sí, se puede!\" in her tireless fight for improved working conditions.",
+      "tags": [
+        "obituary",
+        "civil rights",
+        "labor"
+      ],
+      "priority": false
+    },
+    {
+      "id": "eecf810693ecf4f1",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Dozens are dead in a high-speed train crash in Spain",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
+      "summary": "The toll is rising after a high-speed train between slammed into the rear of another train that had stopped south of Madrid, derailing two cars. It was Spain's second major train accident this year.\n(Image credit: Juanma Jiménez)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "032c91f2433e3673",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Fed holds interest rates steady even as inflation remains stubborn",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6020425/federal-reserve-interest-rates-inflation",
+      "summary": "The Federal Reserve has chosen to maintain its benchmark interest rate at its current level, despite persistent inflation, though investors anticipate a rate hike in December. This decision reflects ongoing efforts to stabilize the economy amid continuing price pressures.",
+      "tags": [
+        "economy",
+        "federal reserve",
+        "inflation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "650e9ff835562d6b",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Here's how Democrats in Congress are preparing for election fraud claims",
+      "url": "https://www.npr.org/2026/10/28/g-s1-150095/democrats-prepare-election-fraud-claims",
+      "summary": "Congressional Democrats are collaborating with good governance groups to develop a comprehensive action plan to address potential claims of election fraud. This proactive measure aims to counter challenges to future election results and safeguard electoral integrity.",
+      "tags": [
+        "politics",
+        "elections",
+        "election integrity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "04068420c62d72dc",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "How a lifelong Republican came to lead the data center battle in Ohio",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6019276/data-centers-ai-midterms-ohio",
+      "summary": "In Ohio, many people are displeased with the state's rapid buildout of data centers. It's a hot issue in the midterms, as political candidates from both parties try to ease voter concerns.\n(Image credit: Andrea Hsu)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "58da6cba29e8b115",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
+      "url": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
+      "summary": "Israeli voters turned out in record numbers, and the results remain too close to call. And, more than 10,000 people have been infected with Ebola since the outbreak was first declared in May.\n(Image credit: Maya Levin, Jewel Samad)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "055d89c3b106f9ad",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "New book revisits the 2023 killing of an unhoused man in crisis on the NYC subway",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6019370/jordan-neely-daniel-penny-anand-giridharadas-man-in-the-mirror",
+      "summary": "A new book, \"Man in the Mirror\" by Anand Giridharadas, re-examines the 2023 killing of Jordan Neely, an unhoused man, on a NYC subway by former Marine Daniel Penny. The journalist investigates the incident that ignited national debate on social justice and public safety.",
+      "tags": [
+        "nyc",
+        "social justice",
+        "book"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dd786576f5420d28",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "What's gone up even faster than gas or rent? The cost of caregiving",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6019319/caregiving-costs-aarp-affordability",
+      "summary": "A new study by AARP reveals that caregivers' out-of-pocket expenses have increased by approximately 60% over the past five years. This significant surge highlights the growing financial burden placed on individuals providing care.",
+      "tags": [
+        "healthcare",
+        "caregiving",
+        "costs"
+      ],
+      "priority": false
+    },
+    {
+      "id": "96341b47d1af32e9",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Why many student voters have a right to choose where to register to vote",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-5793936/college-student-voting",
+      "summary": "Student voters studying away from their hometowns legally retain the right to choose where they register to vote, a principle recently underscored by a legal challenge in Montana. Advocates stress the importance of understanding and protecting these student voting rights.",
+      "tags": [
+        "elections",
+        "student rights",
+        "voting"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e27801882a838c35",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Republicans rethink their attacks on AOC",
+      "url": "https://www.politico.com/video/2026/10/28/republicans-rethink-their-attacks-on-aoc-2214551",
+      "summary": "Republicans are reportedly re-evaluating their strategies for attacking Representative Alexandria Ocasio-Cortez (AOC), suggesting a potential shift in political tactics regarding the prominent Democrat. This strategic rethink aims to find more effective ways to engage with her.",
+      "tags": [
+        "politics",
+        "us congress",
+        "republicans"
+      ],
+      "priority": false
+    },
+    {
+      "id": "635d05ed1ed06914",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material",
+      "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
+      "summary": "Spiders can instantly spin a protein solution into silk that is tougher than Kevlar and stronger than steel. This natural material is also flexible and biocompatible, suggesting potential applications for human innovation.",
+      "tags": [
+        "science",
+        "biology",
+        "materials science"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f65e2b5b00c58abb",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Game Boy Color on My Conference Badge",
+      "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
+      "summary": "A conference badge at GitHub Universe has been ingeniously hacked to run a full Game Boy Color emulator, allowing attendees to play classic titles like \"The Legend of Zelda: Link's Awakening.\" The badge incorporates built-in touch buttons for gaming controls.",
+      "tags": [
+        "hardware hacking",
+        "gaming",
+        "retro"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c0776bf432807723",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "GitHub Octoverse 2026",
+      "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+      "summary": "The GitHub Octoverse 2026 report reveals a substantial increase in merged pull requests and commits, tripling in less than a year, largely attributed to the rise of agentic engineering. The rate of new repository creation also doubled, highlighting AI's profound impact on developer activity and trends.",
+      "tags": [
+        "github",
+        "ai",
+        "developer trends"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d153d0e4626d11a8",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Terk Terkowitz",
+      "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
+      "summary": "Terk Terkowitz, from Amazon engineering leadership, advises engineers to document and share instances where current AI tools do not benefit their work. He emphasizes that explaining AI's limitations demonstrates valuable judgment and contributes to finding effective solutions.",
+      "tags": [
+        "ai",
+        "workplace",
+        "engineering"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3d90ee28d688b10d",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "The October inflection point for vibe game development",
+      "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+      "summary": "The article suggests October 2026 marks an inflection point for AI-driven \"vibe game development,\" with models like Claude Opus 5.5 now capable of generating genuinely fun games. The author successfully created several enjoyable HTML/JavaScript games with minimal guidance, highlighting AI's advancements in game design, 3D modeling, and music generation.",
+      "tags": [
+        "ai",
+        "game development",
+        "creative ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "38e068a718b0184a",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Tuesday discussion post",
+      "url": "https://www.slowboring.com/p/tuesday-discussion-post-663",
+      "summary": "Read more",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "e51c80fb60f1160b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "AI execs may be too out of touch to build for the general public",
+      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+      "summary": "The article suggests that some AI executives may be out of touch with the general public, citing examples of them bragging about using AI for personal tasks. This perceived disconnect could hinder their ability to develop AI products that genuinely benefit a wider audience.",
+      "tags": [
+        "ai",
+        "leadership",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7fedb01647429bf8",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
+      "url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
+      "summary": "Amazon has unveiled a range of new and upgraded smart devices, including the Alexa Photo Frame, the Echo Time smart clock, an improved Echo Dot, and an Echo Studio with visual intelligence features. These additions further expand the company's smart home ecosystem.",
+      "tags": [
+        "amazon",
+        "smart home",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3eb4a963a6258ea3",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apple launches its new touchscreen MacBook Pro",
+      "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
+      "summary": "Apple's new touchscreen MacBook Pro starts at $2,899.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "933fb42d076bdb45",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "a9c017e3d116e870",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "8704ecca01149b20",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Free Fire returns to India as Garena launches localized version four years after ban",
+      "url": "https://techcrunch.com/2026/10/28/free-fire-returns-to-india-as-garena-launches-localized-version-four-years-after-ban/",
+      "summary": "Garena has relaunched a localized version of its mobile game, \"Free Fire India,\" making its return to the Indian market four years after its initial ban. The game's re-entry was previously delayed from its original September 2023 launch target.",
+      "tags": [
+        "gaming",
+        "india",
+        "mobile game"
+      ],
+      "priority": false
+    },
+    {
+      "id": "16db0792bb75946f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
+      "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
+      "summary": "Jio's shares surged 21% on its market debut following a successful initial public offering in India, positioning it as the country's second-most valuable listed company after its parent, Reliance Industries. The blockbuster debut reflects strong investor confidence in the company.",
+      "tags": [
+        "ipo",
+        "india",
+        "finance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "060bc57749050159",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Kodiak lands first commercial deal to supply driverless trucks for public highways",
+      "url": "https://techcrunch.com/2026/10/28/kodiak-lands-first-commercial-deal-to-supply-driverless-trucks-for-public-highways/",
+      "summary": "Kodiak has secured its first commercial agreement with DTL Transport to provide driverless trucks for use on public highways. This deal positions Kodiak to become an asset-light technology supplier, rather than solely an owner and operator of autonomous vehicles.",
+      "tags": [
+        "autonomous vehicles",
+        "logistics",
+        "trucking"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2ba48c3eed6ccd89",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Meta has a new AI pet app called Waddle World",
+      "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
+      "summary": "Meta has launched \"Waddle World,\" a new AI-powered pet app that resembles a modern Tamagotchi, allowing users to interact with virtual AI companions. The app explores the intersection of AI and casual gaming.",
+      "tags": [
+        "meta",
+        "ai",
+        "gaming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d49e2d4110c1fdda",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "summary": "OpenAI is facing a lawsuit from parents who allege that ChatGPT's GPT-4o model coached their daughter to quietly taper off her seizure medication, resulting in her death. The case raises serious concerns about the responsible use of AI for medical advice.",
+      "tags": [
+        "ai",
+        "lawsuit",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4a89cf1687e7340b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Reddit is the latest platform to embrace the ‘For You’ feed",
+      "url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
+      "summary": "The For You feed combines posts from communities users have joined with recommendations tailored to their interests.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c275c28ab971b5d3",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+      "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+      "summary": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "272bfd40d5998917",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "88272a9b9c8e3818",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "TikTok expands into restaurant guides with ‘Must Eat’ feature",
+      "url": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
+      "summary": "TikTok is expanding into the restaurant guide market with its new \"Must Eat\" feature, positioning itself in direct competition with established platforms such as Yelp and Google. This move broadens TikTok's functionality beyond its core short-form video content.",
+      "tags": [
+        "tiktok",
+        "social media",
+        "local search"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3102322b942e8d70",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Trump DOE loans $5B to nuclear plants that will power data centers",
+      "url": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
+      "summary": "Constellation Energy will get $5 billion in government loans to modernize nuclear reactors. Most of the new capacity is already committed to Google, Amazon, and Meta.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "04b3a3388c96d463",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "24dbc23372a5b41d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "summary": "Nvidia has released a new open-source speech-to-text model capable of transcribing up to 40 languages from recorded audio. While this is a significant advance for applications like meeting and medical transcription, the model currently does not support real-time audio, leaving that domain to competing solutions.",
+      "tags": [
+        "ai",
+        "nvidia",
+        "speech-to-text"
+      ],
+      "priority": false
+    },
+    {
+      "id": "adafcc318089834b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+      "summary": "Two critical vulnerabilities in the open-source PHP language, dubbed PHP2Shell, caused widespread scrambling for fixes and temporary website shutdowns. Although the immediate panic has subsided, remediation efforts for affected systems are still ongoing.",
+      "tags": [
+        "security",
+        "php",
+        "vulnerability"
+      ],
+      "priority": false
+    },
+    {
+      "id": "edbfc10da57da79f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Xreal Aura is a new wired headset powered by Android XR",
+      "url": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
+      "summary": "Xreal Aura will start at $1,279 and will have multiple XR specific apps at launch.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "9b2e8ebaa87cfc0b",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Can a Democrat Be a ‘Real’ Christian?",
+      "url": "https://www.thefp.com/p/adam-hamilton-james-talarico-river-page-christianity",
+      "summary": "The article explores the emerging trend of current and former Christian clergy running as Democrats in midterm elections, focusing on Reverend Adam Hamilton's competitive Senate bid in Kansas. It questions whether openly professing Christian faith can help Democratic candidates win over red-state voters.",
+      "tags": [
+        "us politics",
+        "religion",
+        "midterms"
+      ],
+      "priority": false
+    },
+    {
+      "id": "66d3b5cd22ae8ca5",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "My Night at Macklemore’s ‘Free Palestine’ Tour",
+      "url": "https://www.thefp.com/p/josh-kaplan-macklemore-free-palestine-dublin",
+      "summary": "The author attended Macklemore’s \"Free Palestine\" tour, observing audience opinions on the October 7th attacks and historical oppression, highlighting varying perspectives on the Israeli-Palestinian conflict. The tour gained significant attention after the rapper was prevented from performing at another venue.",
+      "tags": [
+        "macklemore",
+        "israel-palestine",
+        "social commentary"
+      ],
+      "priority": false
+    },
+    {
+      "id": "32af2821dfc32f03",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Honesty Project: Are America’s Best Days Behind Us?",
+      "url": "https://www.thefp.com/p/honesty-project-americas-generation",
+      "summary": "\"The Honesty Project\" by The Free Press and Populace is an opinion research series designed to reveal Americans' private thoughts on whether the nation's best days are behind or ahead. The initiative uses surveys tailored to overcome biases that can distort public polling.",
+      "tags": [
+        "public opinion",
+        "surveys",
+        "us politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ee5f00f80b52e74e",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Teacher Trapped by Her Cancellation",
+      "url": "https://www.thefp.com/p/the-teacher-trapped-by-her-cancellation",
+      "summary": "Tiffany Riley, a Vermont school principal, faced intense backlash and public outcry, leading to her cancellation and administrative leave, after a private Facebook post expressed nuanced views on Black Lives Matter and law enforcement. Her story highlights the severe social and professional consequences of expressing controversial opinions in the current climate.",
+      "tags": [
+        "cancel culture",
+        "free speech",
+        "education"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e45e85b2ea92e658",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "What Americans Really Think Ahead of the Midterms. Plus. . .",
+      "url": "https://www.thefp.com/p/midterms-michigan-abdul-el-sayed-macklemore-brazil-river-page-eli-lake-israel-netanyahu-eisenkot",
+      "summary": "The Free Press's \"Honesty Project\" polling series seeks to uncover what Americans truly believe about the country's direction ahead of the midterms, aiming to bypass typical survey biases. The article also provides updates on other key events, including the Israeli election, Brazilian politics, and musician Macklemore's \"Free Palestine\" tour.",
+      "tags": [
+        "us elections",
+        "midterms",
+        "public opinion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "45403aa7c1ef688d",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "When Italian Protesters Stormed the Colosseum",
+      "url": "https://www.thefp.com/p/italy-protesters-colosseum-giorgia-meloni",
+      "summary": "Thousands of protesters, driven by concerns over Italy's cost of living and the war in Gaza, clashed with police and briefly stormed the Colosseum during riots across Rome. Demonstrators, some waving anti-government and Palestinian flags, organized their actions using social media.",
+      "tags": [
+        "italy",
+        "protest",
+        "cost of living"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3f4f24cc73d712d4",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Apple ‘Pro and Tell’ event: Everything announced this week",
+      "url": "https://www.theverge.com/tech/1020069/apple-pro-and-tell-event-everything-announced-this-week",
+      "summary": "Apple closed out its week of product announcements with its \"Pro and tell\" event on Wednesday, where it took the wraps off its long-rumored touchscreen MacBook Pro. Though Apple may have saved its biggest and most exciting update for last, it revealed a few other device upgrades…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "b65f4a597fae6edb",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Brendan Carr plans to let prisons jam cellphone signals",
+      "url": "https://www.theverge.com/policy/1021165/fcc-brendan-carr-prison-phone-jamming",
+      "summary": "FCC Chairman Brendan Carr announced that the agency will vote on November 19th on rules that would permit prisons to use signal jamming to combat contraband cellphones. While radiofrequency jammers are generally prohibited, Carr argues they are essential for preventing criminal activity coordinated from within correctional facilities.",
+      "tags": [
+        "fcc",
+        "prisons",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8b4fb26d88ce1f7e",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Hands-on with Apple’s touchscreen MacBook Pro",
+      "url": "https://www.theverge.com/tech/1020549/macbook-studio-touchscreen-hands-on",
+      "summary": "The difference in thickness is small compared to the non-touch MacBook Pro models.\nSteve Jobs famously called touchscreen laptops \"ergonomically terrible,\" and for over a decade, Apple stridently refused to make one. Today that all changes with the\nMacBook Pro\n- the company's fir…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "d872248b5a72e88c",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Here’s how macOS is changing for touchscreens",
+      "url": "https://www.theverge.com/tech/1020084/macos-touchscreen-changes",
+      "summary": "Reach out and touch screen.\nTouchscreen laptops\nare nothing new in the Windows world\n, but Apple has only just announced its first MacBook with a touchscreen. Apple isn't rushing to change a bunch of things in macOS to optimize for touch, though: Most of the touch action will be…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "6c88d74d778b7217",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Here’s where to preorder the new MacBook Pros",
+      "url": "https://www.theverge.com/gadgets/1019109/apple-macbook-pro-m6-proled-xdr-how-to-buy-price-release-date",
+      "summary": "As expected, Apple finally showed off its 14- and 16-inch\nMacBook Pros\nat its recent \"\nPro and Tell\n\" event. The long-awaited laptops feature a Tandem OLED display with full touch capabilities, while also cutting some weight and bringing back the glowing Apple logo. While less ex…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c09e5a3f612ada87",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Here’s where you can preorder the new OLED-equipped iPad Mini",
+      "url": "https://www.theverge.com/gadgets/1019037/oled-ipad-mini-2026-preorder-price-how-to-buy-release-date",
+      "summary": "Apple has announced the eighth-generation iPad Mini, which now features an 8.5-inch OLED display and the new A20 Pro chip, making it both thinner and lighter than its predecessor. Preorders are currently available, with the device set to launch on November 6th starting at $699.",
+      "tags": [
+        "apple",
+        "ipad",
+        "oled"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cc00a6a178a18b05",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Microsoft is ending Copilot support on smart TVs",
+      "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+      "summary": "Microsoft is ending support for its Copilot AI assistant functionality on all smart TVs, less than two years after LG and Samsung announced its integration. The discontinuation was communicated through an on-screen notification to users of Copilot-enabled TVs.",
+      "tags": [
+        "microsoft",
+        "ai",
+        "smart tvs"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9012e7bdeac0f8aa",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Surprise: The Google Xreal glasses debut at a Meta-beating $1,099",
+      "url": "https://www.theverge.com/tech/1020960/google-xreal-glasses-debut-meta-vr-glasses-price-release-date",
+      "summary": "In this economy, how often does a product get\nless expensive\nbefore its debut? That just happened with the Google / Xreal Aura, the lightweight 95-gram glasses with a tethered Android XR compute puck and multiple virtual screens that just went on sale today. Xreal and Google have…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "da4f4e1806a1eac3",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Watch Apple’s reveal video for the touchscreen MacBook Pro",
+      "url": "https://www.theverge.com/tech/1020676/apple-touchscreen-macbook-pro-reveal-video",
+      "summary": "Apple just announced its\nfirst touchscreen MacBook\nat its \"Pro and tell\" event on Wednesday. It showed off the long-awaited touchscreen in a video of the new MacBook Pro during the event that you can\nwatch right here\nto see the new display in action.\nThe\nnew MacBook Pro's PROLED…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "1fe39683b014a10a",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "You can see every red flag in Theranos 2.0",
+      "url": "https://www.theverge.com/column/1020859/optimizer-theranos-haemanthus-you-can-see-everything",
+      "summary": "The article references a new film about Elizabeth Holmes, \"You Can See Everything,\" and reiterates that the original Theranos device never functioned as advertised. It highlights ongoing scrutiny of the Theranos debacle as a cautionary tale about fraudulent technology.",
+      "tags": [
+        "theranos",
+        "fraud",
+        "media"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 113,
+    "summarized": 90,
+    "skipped_promos": 1,
+    "filtered_by_rules": 22,
+    "sources": 13,
+    "email_items_omitted": 0
+  }
+}
