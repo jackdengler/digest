@@ -1,0 +1,1028 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T18:05:53+00:00",
+  "hot_topics": [
+    {
+      "topic": "AI Industry Dynamics and Ethical Concerns",
+      "synthesis": "The AI industry is experiencing significant investment but also facing emerging challenges related to financial stability and the sustainability of massive infrastructure spending. While major tech companies like Apple are expanding AI features and Nvidia supports data center growth, some AI startups struggle, and the practical adoption of AI agents for simple consumer tasks remains low. Ethical issues persist, including academic AI disclosure failures, concerns over unreliable AI detection tools, and the alarming use of AI in cybercrime, alongside security vulnerabilities found in AI platforms.",
+      "item_ids": [
+        "497b77b60b4209fa",
+        "72a528b6fb779454",
+        "729e0c5c3324262e",
+        "b36ce4fc5051e7eb",
+        "4223d0f8c75ac0d6",
+        "284c94bb753e0cfa",
+        "cd4fe28585a4330c",
+        "590f90a7889166fb",
+        "d32bd9c6d67493ff",
+        "15537452722178f6",
+        "19795445c55dd12b",
+        "661348139f4d53df",
+        "544aca0eba02ce01",
+        "1ec902b1e11f9980",
+        "08657d6b66a9e34f",
+        "ddef94024724d0a3"
+      ]
+    },
+    {
+      "topic": "US Midterm Elections and Campaign Practices",
+      "synthesis": "As the US midterm elections approach, voters are being inundated with a variety of political text messages, from urgent fundraising appeals to partisan attacks. Campaign strategies also involve candidates carefully crafting their public image, such as by eschewing traditional attire to connect with voters. Key concerns for the election process include the security of mail-in ballots and a Justice Department criminal probe regarding alleged spoiler candidates, while the public's trust in election polls remains a significant point of discussion.",
+      "item_ids": [
+        "c9dce36abe968713",
+        "d960f89ed6f7befe",
+        "111711435009052c",
+        "68b33f6e49ba5dbc",
+        "66861fec4bd8ff60"
+      ]
+    },
+    {
+      "topic": "Halloween: Cultural Perceptions and Preparations",
+      "synthesis": "Halloween celebrations are being viewed from contrasting perspectives, encompassing lighthearted activities like themed blood drives and tech-inspired costume ideas, as well as more profound discussions about its cultural and religious significance. Some individuals, influenced by exorcists, express concerns about the holiday potentially normalizing evil or serving as a significant occasion for Satanists. Conversely, others criticize modern parental anxieties surrounding Halloween, advocating for allowing children more freedom in their trick-or-treating experiences.",
+      "item_ids": [
+        "5c5e642b45aaac6d",
+        "3b9411c1713af730",
+        "571ae6fbd62fd202",
+        "48fc78cb90bcb147"
+      ]
+    },
+    {
+      "topic": "Apple Product Updates and Ecosystem Expansion",
+      "synthesis": "Apple is introducing new touch-enabled MacBook Pros with PROLED XDR screens, with retailers offering incentives like gift cards to encourage preorders. Concurrently, the company is expanding its 'Apple Intelligence' features to China through an iOS update, though it notably excludes the new Siri AI. Separately, the iPhone Duo is gaining traction among some users who find its engaging experience preferable to other models, despite potential initial frustrations.",
+      "item_ids": [
+        "cb45be39b4b8f09a",
+        "b36ce4fc5051e7eb"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "72a528b6fb779454",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Basically no one is using AI agents for their DoorDash orders",
+      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "summary": "DoorDash co-founder and CEO Tony Xu reported that outside AI agents have generated only \"several hundred orders\" for the food delivery service, a \"very low use case\" compared to nearly a billion total orders in Q3 2026. Xu believes AI agents are better suited for \"long consideration purchases\" rather than simple food ordering.",
+      "tags": [
+        "ai",
+        "e-commerce",
+        "consumer tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "497b77b60b4209fa",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+      "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+      "summary": "Dartmouth College provost Santiago Schnell resigned after an advisory committee found he failed to disclose significant AI use in an academic paper and an op-ed. Schnell had used a Claude enterprise account for revising papers, debugging code, and generating figures, despite disclosure requirements.",
+      "tags": [
+        "ai",
+        "academia",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bb824656c014f4d9",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Flesh-eating screwworms spread to third state and are attacking pets",
+      "url": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
+      "summary": "Flesh-eating New World Screwworms have spread to Arizona, joining New Mexico and Texas, with 74 animal cases identified since June. These voracious maggots lay hundreds of eggs in wounds and moist orifices, feasting on living flesh and causing severe, often fatal, injuries to pets.",
+      "tags": [
+        "parasites",
+        "animal health",
+        "public health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7778a5576496e6c6",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
+      "url": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
+      "summary": "Sir Patrick Stewart, renowned for his roles as Captain Jean-Luc Picard and Professor Charles Xavier, died at age 86 after a battle with Alzheimer’s Disease and Lewy Body Dementia. His family has requested memorial contributions be made to Alzheimer's research centers in lieu of flowers.",
+      "tags": [
+        "obituary",
+        "entertainment",
+        "health"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0e54cceb9212a06a",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Over 25% of people lie to get antibiotics—and their lies aren't even good",
+      "url": "https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good/",
+      "summary": "Over a quarter of US patients lie to clinicians to obtain antibiotic prescriptions, often by exaggerating or inventing symptoms for viral infections like colds. Despite the ineffectiveness of antibiotics for viruses, these \"bad lies\" are frequently successful.",
+      "tags": [
+        "healthcare",
+        "public health",
+        "antibiotics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "74b57013fc4df1f4",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+      "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+      "summary": "Boom Supersonic's plans for a supersonic airliner by 2029 are in doubt, with United Airlines CEO Scott Kirby expressing skepticism about the timeline. The company recently unveiled a factory for gas turbines to power AI data centers, raising questions about its focus and delivery capabilities.",
+      "tags": [
+        "aerospace",
+        "ai",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6b40ba3c8a1f4021",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
+      "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
+      "summary": "The FDA faces challenges in withdrawing approval for a vasculitis drug, despite concerns about its study design and whether it offered meaningful improvements over existing therapies. While an advisory committee questioned the drug's efficacy, some patients and physicians saw potential benefits in reducing reliance on steroids.",
+      "tags": [
+        "fda",
+        "drug approval",
+        "healthcare"
+      ],
+      "priority": false
+    },
+    {
+      "id": "111711435009052c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'The necktie is dead': How US midterm candidates are dressing for votes",
+      "url": "https://www.bbc.co.uk/news/articles/ckq6nz4286r4o?at_medium=RSS&at_campaign=rss",
+      "summary": "US midterm candidates are strategically using their personal style, such as abandoning neckties, to stand out and connect with voters across the country.",
+      "tags": [
+        "us politics",
+        "elections",
+        "fashion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d960f89ed6f7befe",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
+      "url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Verify provided a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed, emphasizing security measures like CCTV and zip ties.",
+      "tags": [
+        "elections",
+        "us politics",
+        "security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "aaed27db310ecb06",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "summary": "Crypto firm Binance covered 90% of losses stemming from a $6.3 billion hack, which analytics firms attribute to a North Korean state-backed group.",
+      "tags": [
+        "cryptocurrency",
+        "cybersecurity",
+        "north korea"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a057a278d822836d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ethiopian PM puts ministers through military training",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ethiopia's Prime Minister has put ministers through military training, underscoring his government's emphasis on military preparedness as a central ambition.",
+      "tags": [
+        "ethiopia",
+        "politics",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "86415646e939676b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Global nature talks reach deal but money remains an issue",
+      "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Global nature talks concluded with a deal to halt nature decline, but significant issues remain regarding funding. Countries are working to implement a global agreement to protect biodiversity.",
+      "tags": [
+        "environment",
+        "conservation",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "668ff9fbe588a1c6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
+      "url": "https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o?at_medium=RSS&at_campaign=rss",
+      "summary": "A man in Thailand has been jailed for 34 years under the lèse majesté law after questioning the monarchy while dressed as Harry Potter, highlighting the severity of the country's laws, which have prosecuted 294 people since 2020.",
+      "tags": [
+        "thailand",
+        "human rights",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ca6c7449dcc9045d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
+      "url": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine correspondent Dan Johnson explained the unfolding of a temporary ceasefire in the devastated, Russian-occupied town of Oleshky.",
+      "tags": [
+        "ukraine",
+        "conflict",
+        "ceasefire"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5c887983d611c990",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Over 5,000 people have died from Ebola in the Democratic Republic of Congo's deadliest outbreak, with government data showing more than 10,000 contracted the rare virus.",
+      "tags": [
+        "health crisis",
+        "dr congo",
+        "epidemic"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f173b6fcba437e48",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "summary": "Police were deployed during a stand-off over control of Poland's top court after the government suspended two senior justices and moved to bring criminal charges against them. This escalation highlights a significant dispute within the Polish legal system.",
+      "tags": [
+        "poland",
+        "politics",
+        "judiciary"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8e57a6ffa86ec0a6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Responsible or panicked? Meet the people around the world already preparing for crisis",
+      "url": "https://www.bbc.co.uk/news/articles/ckreypn92w49o?at_medium=RSS&at_campaign=rss",
+      "summary": "People around the world, including in the US, Japan, Sweden, and the Netherlands, are actively preparing for potential crises by assembling emergency stashes with items like filter straws and disposable toilets.",
+      "tags": [
+        "preparedness",
+        "disaster",
+        "lifestyle"
+      ],
+      "priority": false
+    },
+    {
+      "id": "df56ab67f9f0d4c3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Spain train disaster clouds Sánchez chances of re-election",
+      "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+      "summary": "A train disaster in Spain has clouded Prime Minister Sánchez's re-election chances, as he faces a succession of crises just weeks before a snap general election.",
+      "tags": [
+        "spain",
+        "politics",
+        "disaster"
+      ],
+      "priority": false
+    },
+    {
+      "id": "66c28c3a720906d9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Suited and booted: How Joseph Kabila went from president to rebel leader",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Joseph Kabila, former president of DR Congo, has reportedly launched a new rebel movement, raising questions about its implications for the country's political stability.",
+      "tags": [
+        "dr congo",
+        "politics",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "465f78a294585f7f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "The fight to save Canadian town threatened by Trump's tariffs",
+      "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
+      "summary": "A century-old paper mill in Témiscaming, Quebec, has closed indefinitely, putting hundreds out of work after the US imposed 50% tariffs on its products. This closure highlights the severe economic impact of trade disputes on Canadian towns.",
+      "tags": [
+        "canada",
+        "trade",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ed8733ebb98a2bcc",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "The Indian chef who brought curry to America - then vanished",
+      "url": "https://www.bbc.co.uk/news/articles/crm941n0413o?at_medium=RSS&at_campaign=rss",
+      "summary": "Indian chef Ranji Smile, who opened America's first Indian restaurant in 1901, mysteriously vanished after establishing himself as a \"fake prince.\"",
+      "tags": [
+        "history",
+        "food",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8b1337bacafa6f08",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+      "summary": "The founder of Novaya Gazeta, a prominent independent Russian newspaper, announced its closure due to pressure from authorities, lamenting that they were \"strangled.\" The newspaper had been a key independent voice in Russia for three decades.",
+      "tags": [
+        "russia",
+        "press freedom",
+        "censorship"
+      ],
+      "priority": false
+    },
+    {
+      "id": "aaef53af1bc93bee",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukrainian evacuees have been reunited with their families after being trapped for years in Oleshky, a Russian-occupied city where residents faced severe shortages of food, water, and electricity. Many had to resort to cooking garden weeds to survive.",
+      "tags": [
+        "ukraine",
+        "conflict",
+        "humanitarian"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bb710f3886aeab75",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US has approved the sale of 500 Patriot missiles to Ukraine, providing a critical defense against Russia's ballistic missiles. These American-made interceptors are considered the only effective weapon for downing such threats.",
+      "tags": [
+        "ukraine",
+        "defense",
+        "international relations"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5c5e642b45aaac6d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Blood donors get a Halloween fright in Thailand",
+      "url": "https://www.bbc.co.uk/news/videos/cmze42el49d9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Thai Red Cross organized a Halloween-themed blood drive in Bangkok, with workers dressed in costumes to encourage donations.",
+      "tags": [
+        "halloween",
+        "thailand",
+        "community"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3d8d537a66c1350c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+      "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+      "summary": "North Korea's \"elite\" hackers are the prime suspects in the major $6.3 billion Binance hack, with the record-making heist demonstrating their growing power and sophistication.",
+      "tags": [
+        "north korea",
+        "cybersecurity",
+        "cryptocurrency"
+      ],
+      "priority": false
+    },
+    {
+      "id": "36d71cd5519290ed",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Digital minimalism",
+      "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+      "summary": "This article explores the concept of digital minimalism, advocating for a more intentional and less overwhelming use of digital technologies.",
+      "tags": [
+        "digital wellbeing",
+        "lifestyle",
+        "philosophy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "544aca0eba02ce01",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Malware uses LLMs to rank victims by how much they're worth",
+      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+      "summary": "New malware called Volta infostealer is utilizing Large Language Models (LLMs) to assess and prioritize victims based on their perceived financial worth. This sophisticated approach allows cybercriminals to target high-value individuals more effectively.",
+      "tags": [
+        "malware",
+        "ai",
+        "cybersecurity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "068ed755efcb8c30",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+      "url": "https://piefed.world/post/1503394",
+      "summary": "Molly, a fork of the Signal messaging app, has not been updated in three months and is currently vulnerable to security exploits. This lack of updates poses a risk to its users' privacy and data security.",
+      "tags": [
+        "security",
+        "apps",
+        "privacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e226257baa938cab",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "summary": "The author describes how their favorite PowerMac is surprisingly a Nintendo Wii, highlighting the console's unique capabilities and versatility beyond its intended gaming purpose.",
+      "tags": [
+        "retro computing",
+        "gaming",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "56aa57e739d5ec7b",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Switch Lowering in GCC",
+      "url": "https://xoranth.net/gcc-switch/",
+      "summary": "The article discusses the process of \"Switch Lowering\" in the GCC compiler, a technique used to optimize switch statements in code.",
+      "tags": [
+        "programming",
+        "compilers",
+        "optimization"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1ec902b1e11f9980",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "We Took over ChatGPT Accounts",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "summary": "Researchers have identified a vulnerability that allowed them to take over ChatGPT accounts, revealing a significant security gap at OpenAI. This incident highlights potential risks in AI platform security.",
+      "tags": [
+        "chatgpt",
+        "security",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1ef3505883108368",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "100 years later, Harry Houdini's death still haunts Detroit",
+      "url": "https://www.npr.org/2026/10/31/nx-s1-6008110/100-years-harry-houdinis-death-haunts-detroit",
+      "summary": "The legacy of magician Harry Houdini continues to captivate Detroit 100 years after his death, with some marking the anniversary by attempting to contact his spirit.",
+      "tags": [
+        "history",
+        "culture",
+        "mystery"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8562d65074d5ae6c",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "After last year's storm, this remote Alaska town is still picking up the pieces",
+      "url": "https://www.npr.org/2026/10/31/nx-s1-6021471/ex-typhoon-halong-damages-western-alaska-native-villages-kipnuk",
+      "summary": "A remote Alaska town is still struggling to recover a year after a typhoon's remnants caused serious damage to Alaska Native villages in the state's far western region.",
+      "tags": [
+        "disaster recovery",
+        "alaska",
+        "community"
+      ],
+      "priority": false
+    },
+    {
+      "id": "66861fec4bd8ff60",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Can I trust the polls? And other questions from listeners about the 2026 midterms",
+      "url": "https://www.npr.org/2026/10/31/g-s1-149981/listener-questions-npr-midterms-2026-election",
+      "summary": "Ahead of Election Day, listeners have submitted questions regarding the reliability of polls, the relevance of debates, and potential bipartisan cooperation between Trump and Democrats in the 2026 midterms.",
+      "tags": [
+        "us politics",
+        "elections",
+        "media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "552d83ae8478be12",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Do you have seasonal affective disorder? How to tell — and what to do about it",
+      "url": "https://www.npr.org/2026/10/31/nx-s1-6023200/do-you-have-seasonal-affective-disorder-how-to-tell-and-what-to-do-about-it",
+      "summary": "Dr. Norman Rosenthal, who first researched Seasonal Affective Disorder (SAD), explains how to identify its \"hibernating bear\" symptoms and offers advice on coping strategies.",
+      "tags": [
+        "mental health",
+        "health",
+        "wellness"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ef4c8692079a3c28",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!",
+      "url": "https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners",
+      "summary": "The Siena Drone Photo Awards 2026 showcase breathtaking bird's-eye views, revealing unique landscapes, livelihoods, and human stories globally.",
+      "tags": [
+        "photography",
+        "awards",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "68b33f6e49ba5dbc",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
+      "url": "https://www.npr.org/2026/10/31/nx-s1-6024423/criminal-probe-alaska-senate-candidate",
+      "summary": "The Justice Department is seeking to isolate Alaska ballots due to a criminal probe concerning allegations that Democrats recruited a spoiler candidate in a competitive U.S. Senate race.",
+      "tags": [
+        "us politics",
+        "elections",
+        "investigation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "37faeab8f0c04604",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Oyster stocks have plunged in the Chesapeake. This resident wants to bring them back",
+      "url": "https://www.npr.org/2026/10/31/nx-s1-6011228/oyster-farming-conservation-chesapeake-bay",
+      "summary": "Researchers and local residents are finding innovative ways to restore oyster populations in the Chesapeake Bay, which have plummeted due to overharvesting. Restoring oyster reefs is crucial for improving water quality and providing habitat for other species.",
+      "tags": [
+        "conservation",
+        "environment",
+        "ecosystem"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2696ad69ef17d2e6",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Perspective: Forget the ballroom, we're headed to Cheesecake Factory!",
+      "url": "https://www.npr.org/2026/10/31/nx-s1-6015466/perspective-forget-the-ballroom-were-headed-to-cheesecake-factory",
+      "summary": "Former President Obama's comments on President Trump's White House interior decorating sparked a discussion, with some suggesting state dinners could even happen at The Cheesecake Factory for a different approach.",
+      "tags": [
+        "us politics",
+        "culture",
+        "humor"
+      ],
+      "priority": false
+    },
+    {
+      "id": "08657d6b66a9e34f",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Plans for a data center threaten scenic wilderness and dark skies in West Virginia",
+      "url": "https://www.npr.org/2026/10/31/nx-s1-5992790/data-centers-west-virginia-skiing-dark-skies",
+      "summary": "Residents in West Virginia are opposing plans for a large data center project that threatens scenic wilderness, popular outdoor recreation areas, ski sites, and dark sky locations near the Monongahela National Forest.",
+      "tags": [
+        "environment",
+        "data centers",
+        "local politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ddef94024724d0a3",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Your writing was flagged as AI. What does that actually mean?",
+      "url": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram",
+      "summary": "Writers falsely accused of using AI due to imperfect AI detection tools are left wondering what triggered the positive results. The article questions the reliability of these tools, which editors use to filter machine-generated submissions.",
+      "tags": [
+        "ai",
+        "education",
+        "writing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9cd9ee924aa1a53a",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Friday discussion post",
+      "url": "https://www.slowboring.com/p/friday-discussion-post-ef3",
+      "summary": "This is a Friday discussion post, inviting readers to engage with various topics.",
+      "tags": [
+        "discussion",
+        "community"
+      ],
+      "priority": false
+    },
+    {
+      "id": "34b2c9d15ba4ada4",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Supernatural NIMBYs",
+      "url": "https://www.slowboring.com/p/supernatural-nimbys",
+      "summary": "The article uses the example of Dobby the house elf's memorial location from Harry Potter to introduce the concept of \"Supernatural NIMBYs.\"",
+      "tags": [
+        "culture",
+        "analysis",
+        "books"
+      ],
+      "priority": false
+    },
+    {
+      "id": "661348139f4d53df",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+      "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+      "summary": "An AI law firm named Crosby is reportedly bidding on the \"disintegrating\" Weil, Gotshal & Manges, a famed Wall Street law firm. This development brings an AI entity into the high-stakes world of legal industry acquisitions.",
+      "tags": [
+        "ai",
+        "legal tech",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "15537452722178f6",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "summary": "Anthropic, an AI company, is predicted by Blackstone to receive a high 'junk' rating from credit agencies following its IPO, which could complicate future fundraising efforts. This rating would make it more difficult and costly for Anthropic to secure the funds needed for its significant operational expenses.",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "finance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "19795445c55dd12b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Cracks are emerging in the AI spending boom",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "summary": "Cracks are appearing in the AI spending boom, as growing debt, negative cash flow, and increasing investor skepticism raise questions about the long-term sustainability of the massive investments Big Tech is pouring into AI infrastructure.",
+      "tags": [
+        "ai",
+        "investing",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1dd927815d9d6fbd",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+      "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
+      "summary": "TikTok is reportedly developing into a \"super app,\" expanding beyond its core video function to include features like restaurant guides and payment services. This strategy aims to encompass a wider range of digital activities for users.",
+      "tags": [
+        "tiktok",
+        "apps",
+        "strategy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8955f2c7aa808d2f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "I took two iPhones on vacation. The Duo won me over.",
+      "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+      "summary": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "1edb271c3e8aa1c0",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "summary": "Intel's stock has crashed, resulting in a $12 billion loss from the government's stake, as the company faces pressures from declining PC sales. The AI industry's demand for memory and components is contributing to rising PC prices, further impacting Intel.",
+      "tags": [
+        "intel",
+        "stocks",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3b9411c1713af730",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "summary": "For last-minute Halloween costumes, tech enthusiasts can consider dressing as a deceptively cute AI agent icon, a PHP vulnerability, or even sleepy time Bryan Johnson.",
+      "tags": [
+        "halloween",
+        "tech",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cd4fe28585a4330c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "summary": "Nvidia is reportedly considering co-signing a loan for Nscale’s AI data center project in West Virginia, offering support amid investor concerns about AI spending. This move could ease financing for large-scale AI infrastructure.",
+      "tags": [
+        "nvidia",
+        "ai",
+        "data centers"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d32bd9c6d67493ff",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "summary": "Ollie, an AI assistant focused on user privacy, is set to shut down within a week, highlighting challenges in a market increasingly saturated with AI assistant options.",
+      "tags": [
+        "ai",
+        "privacy",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "284c94bb753e0cfa",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "summary": "OpenAI is reportedly lowering its funding target for a new investment round, indicating that the latest fundraising efforts may not be meeting initial expectations.",
+      "tags": [
+        "openai",
+        "funding",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "6a55121cecda8c62",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+      "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+      "summary": "Investors funding venture capitalists (VCs) are largely pleased with their returns, despite market dynamics like pile-ins and pacing pressures. The \"money behind the money\" is mostly thriving in the current financial climate.",
+      "tags": [
+        "venture capital",
+        "finance",
+        "investing"
+      ],
+      "priority": false
+    },
+    {
+      "id": "590f90a7889166fb",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+      "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+      "summary": "Salesforce is continuing its acquisition strategy with a reported $375 million deal for Rune, a defense tech startup specializing in AI logistics. This acquisition is expected to enhance Salesforce's Missionforce defense platform.",
+      "tags": [
+        "salesforce",
+        "acquisitions",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e06ae034cb9dd098",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Casey Neistat: Why I Run the New York City Marathon Every Year",
+      "url": "https://www.thefp.com/p/casey-neistat-why-i-run-the-new-york-marathon",
+      "summary": "Casey Neistat, motivated by a severe motorcycle accident that doctors said would prevent him from running again, is preparing to run his 30th marathon and 10th New York City Marathon. He views running as a personal challenge and celebrates the collective pursuit of impossible achievements by amateur runners.",
+      "tags": [
+        "running",
+        "sports",
+        "personal story"
+      ],
+      "priority": false
+    },
+    {
+      "id": "48fc78cb90bcb147",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Exorcists Warned Me About Halloween",
+      "url": "https://www.thefp.com/p/the-exorcists-warned-me-about-halloween-ghosts-demons-religion",
+      "summary": "A journalist recounts his experiences with exorcists who advised him against celebrating Halloween, sharing stories from his early career covering police beats in Baton Rouge that revealed a darker side to the holiday.",
+      "tags": [
+        "halloween",
+        "religion",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "571ae6fbd62fd202",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "What My Exorcist Friends Tell Me About Halloween. Plus. . .",
+      "url": "https://www.thefp.com/p/why-i-dont-celebrate-halloween-plus-glee-wicker-nicki-minaj",
+      "summary": "Rod Dreher discusses his decision not to celebrate Halloween after conversations with exorcists who describe it as a significant holiday for Satanists and a night where evil is normalized. Lenore Skenazy critiques parental anxieties surrounding Halloween, arguing that overprotection deprives children of crucial freedom.",
+      "tags": [
+        "halloween",
+        "culture",
+        "religion"
+      ],
+      "priority": false
+    },
+    {
+      "id": "91da8a6640e70f12",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "‘Glee’ Was Better When It Was Mean",
+      "url": "https://www.thefp.com/p/glee-was-better-when-it-was-mean",
+      "summary": "The article argues that \"Glee\" was more compelling in its pilot episode due to its \"unhinged\" and spikier humor, before it transitioned into a more feel-good musical dramedy. With a reboot in the works, the author hopes the show will recapture its original offbeat charm.",
+      "tags": [
+        "tv shows",
+        "entertainment",
+        "review"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43eae27af2a56f94",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "Meteor of Joy: The Young People’s Chorus of New York City Sings Bird Divinations",
+      "url": "https://www.themarginalian.org/2026/10/31/meteor-of-joy-paola-prestini/",
+      "summary": "The Young People’s Chorus of New York City performed Paola Prestini's \"Meteor of Joy,\" a musical setting of bird divinations, celebrating 20 years of The Marginalian. The piece captures the \"secret wisdom of the heart\" through the innocent and powerful voices of children.",
+      "tags": [
+        "music",
+        "art",
+        "culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b36ce4fc5051e7eb",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "summary": "Apple Intelligence will launch in China with the iOS 27.3 update, introducing features like notification summaries, real-time translation, and visual intelligence. While this rollout excludes the new Siri AI, it includes integration with Alibaba's Q services.",
+      "tags": [
+        "apple",
+        "ai",
+        "china"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cb45be39b4b8f09a",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
+      "url": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
+      "summary": "Best Buy is offering a $100 gift card with preorders of Apple's new touch-enabled MacBook Pro featuring a PROLED XDR screen, available in 14- or 16-inch configurations. The updated laptops offer improved brightness and contrast, are slightly thinner and lighter, and feature a glowing Apple logo, though the overall changes are considered minor.",
+      "tags": [
+        "apple",
+        "laptops",
+        "deals"
+      ],
+      "priority": false
+    },
+    {
+      "id": "41111169dba96ae7",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Exclusive details about Akai’s MPC Sample Key",
+      "url": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
+      "summary": "Akai is teasing its new MPC Sample Key, designed for pitched sample playback and promising open-source software for modding. Exclusive images reveal shared controls with the MPC Sample but a distinct focus, without the \"chop\" button.",
+      "tags": [
+        "music tech",
+        "hardware",
+        "open source"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c9dce36abe968713",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Here’s why you can&#8217;t shake those unhinged political texts",
+      "url": "https://www.theverge.com/policy/1023899/political-texts-midterm-elections",
+      "summary": "Ahead of the US midterm elections, phones are being flooded with \"unhinged political texts\" that range from urgent pleas for donations to partisan attacks and voter reminders. These messages are part of a massive stream aiming to influence voters before Tuesday.",
+      "tags": [
+        "politics",
+        "elections",
+        "messaging"
+      ],
+      "priority": false
+    },
+    {
+      "id": "729e0c5c3324262e",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "I built an AI Tamagotchi before Meta could",
+      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "summary": "A tech enthusiast built a $50 AI Tamagotchi-like device using an ESP32, Muse Charm, and Claude, preempting Meta's planned product. This DIY version offers a conversational AI and avatars without cameras or 5G, theoretically capable of smart home control.",
+      "tags": [
+        "ai",
+        "diy",
+        "gadgets"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4223d0f8c75ac0d6",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "summary": "OpenAI CEO Sam Altman stated it is \"terrible\" to have RAM in personal PCs, advocating for its placement in data centers for global resource allocation. He argues that while some desire local AI inference, centralizing resources in data centers is more efficient.",
+      "tags": [
+        "ai",
+        "cloud computing",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b596ac4dc033aa25",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Touchscreens everywhere!",
+      "url": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer",
+      "summary": "This \"Installer\" newsletter explores the prevalence of touchscreens in modern tech and personal devices, while also offering brief updates on job hunting, crypto detectives, new browser tests, and a Pixar short. The author shares experiences from a family vacation and mentions new tech like the Pebble Index.",
+      "tags": [
+        "tech",
+        "gadgets",
+        "newsletter"
+      ],
+      "priority": false
+    },
+    {
+      "id": "efbd41bde14f76c4",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Vic Mensa can’t live without the Voice Memos app",
+      "url": "https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview",
+      "summary": "Vic Mensa, a prolific artist known for his music, acting, and activism, relies on the Voice Memos app to manage his diverse creative and professional pursuits. The article highlights his wide-ranging career, from mixtapes to TV roles and social media presence.",
+      "tags": [
+        "music",
+        "celebrity",
+        "apps"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 84,
+    "summarized": 69,
+    "skipped_promos": 0,
+    "filtered_by_rules": 15,
+    "sources": 9,
+    "email_items_omitted": 0
+  }
+}
