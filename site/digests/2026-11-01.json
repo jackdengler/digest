@@ -1,0 +1,792 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T18:42:54+00:00",
+  "hot_topics": [
+    {
+      "topic": "Binance Crypto Heist and Recovery",
+      "synthesis": "North Korea has been identified by the FBI as responsible for the massive $6.3 billion crypto heist from Binance. Following the breach, Binance's CEO announced that 90-95% of the stolen funds have been replenished, with plans to cover the remainder, allowing withdrawals to resume. The recovery efforts aim to mitigate the financial impact on customers.",
+      "item_ids": [
+        "bc06db0992a609de",
+        "82ee5a4de41b3a68",
+        "8c1bc367c8ec75a4"
+      ]
+    },
+    {
+      "topic": "Data Centers, AI Economy, and Policy",
+      "synthesis": "Data centers are emerging as a significant policy concern, with environmental advocates warning that California's Proposition 45 could allow them to bypass scrutiny, while the topic has entered mainstream political discourse in places like Brooklyn. Concerns are also rising about the economic stability of the AI sector, as unfamiliar firms and the substantial debt carried by data centers suggest a potential burst of the AI bubble.",
+      "item_ids": [
+        "1562dbc6ea223c4c",
+        "3b024dfe4f3d8e8a",
+        "a9b570a994cc5285"
+      ]
+    },
+    {
+      "topic": "Michigan Senate Race and Democratic Party Divisions",
+      "synthesis": "The Michigan Senate race has become a focal point for deep divisions within the Democratic Party, highlighted by Democratic Rep. Haley Stevens' endorsement of Republican Mike Rogers following a public dispute with nominee Abdul El-Sayed. This contentious race is seen as a key indicator that could influence the Democratic Party's future strategy, with the outcome determining whether the party moves towards more progressive or moderate candidates in subsequent elections.",
+      "item_ids": [
+        "f93bc01ca30bf79f",
+        "3eead05c99a2edd8"
+      ]
+    },
+    {
+      "topic": "Cost-of-Living Protests Across Europe",
+      "synthesis": "Thousands across Europe, including Germany and France, have taken to the streets to protest the escalating cost of living and inadequate public services. These demonstrations have sometimes turned violent, involving clashes with police and looting of shops in German cities. The widespread protests reflect growing economic discontent.",
+      "item_ids": [
+        "b592f6074c8e68e9",
+        "d22f834153b59172"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "be98ded8a42f4d5a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukrainian evacuees from the Russia-occupied city of Oleshky described their experience as \"coming back from hell,\" with some having crossed minefields for food.",
+      "tags": [
+        "ukraine",
+        "conflict",
+        "humanitarian"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f93bc01ca30bf79f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+      "summary": "Democratic Rep. Haley Stevens endorsed Republican Mike Rogers in Michigan's Senate race, a surprising move after a public dispute with Democratic nominee Abdul El-Sayed over his criticism of Israel.",
+      "tags": [
+        "michigan",
+        "election",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0c560d8967f17fd5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss",
+      "summary": "Texas's $500 million Senate race, featuring candidate James Talarico, is one of the most closely watched U.S. midterm contests, with implications beyond congressional control.",
+      "tags": [
+        "texas",
+        "election",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "19c284ab4d537abc",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Emotional reunions with loved ones for Oleshky evacuees",
+      "url": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Residents evacuated from Oleshky had emotional reunions with loved ones at the Ukrainian border with Belarus, arriving by bus and ambulance after a temporary ceasefire.",
+      "tags": [
+        "ukraine",
+        "conflict",
+        "evacuation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cf5a370d1157e57a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+      "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
+      "summary": "The defeat of Serbia's Aleksandar Vučiċ in a recent election is compared to the political downfall of Hungary's Viktor Orbán. This suggests parallel political trajectories in the region.",
+      "tags": [
+        "serbia",
+        "hungary",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a0e64be2e764b72a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ruchira Ranasingha, a 50-year-old from Sri Lanka, has been stranded in the Cook Islands since 2023, unable to obtain a transit visa to return home.",
+      "tags": [
+        "travel",
+        "visa",
+        "humanitarian"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a975ebae82bf9fae",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands gathered in Delhi for a major opposition rally demanding the resignation of India's chief election commissioner.",
+      "tags": [
+        "india",
+        "politics",
+        "election"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b156c6e2c684ab9d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Israeli strikes in Gaza killed eight people, including a child, according to hospital officials. Five Hamas-run police officers died in Khan Younis, and three, including a child, in Gaza City.",
+      "tags": [
+        "israel",
+        "gaza",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e0f3468ff88d2687",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
+      "summary": "A judge dismissed Donald Trump's lawsuit against the Wall Street Journal regarding a letter to Jeffrey Epstein, purportedly written by Trump and published by the outlet.",
+      "tags": [
+        "trump",
+        "lawsuit",
+        "media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "05138ce6777ba267",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Judge orders Trump administration to stop threatening US election officials",
+      "url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
+      "summary": "A judge ordered the Trump administration to stop threatening U.S. election officials, following reports of letters demanding ballots from potential non-citizen voters be set aside.",
+      "tags": [
+        "trump",
+        "election",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c524fefec9eeed18",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Lindsay Clancy is back in court - where will her case go next?",
+      "url": "https://www.bbc.co.uk/news/articles/ck3r5z3pw928o?at_medium=RSS&at_campaign=rss",
+      "summary": "Massachusetts mother Lindsay Clancy, accused of murdering her three children, is back in court awaiting a decision on whether her case will proceed to a retrial.",
+      "tags": [
+        "legal",
+        "crime",
+        "massachusetts"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b592f6074c8e68e9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Shops looted as German cost-of-living protests turn violent",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "summary": "Cost-of-living protests in German cities, including Berlin and Hamburg, escalated into violence and looting, occurring simultaneously with large demonstrations in France.",
+      "tags": [
+        "germany",
+        "protest",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a9b570a994cc5285",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+      "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Unfamiliar firms are contributing to fears of an AI bubble burst, especially given that data centers, crucial for AI, are carrying tens of billions of pounds in debt.",
+      "tags": [
+        "ai",
+        "business",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d22f834153b59172",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Thousands demonstrate in Paris as protests spread across Europe",
+      "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+      "summary": "Over 320,000 people protested across France, including Paris, against the rising cost of living and poor public services, leading to clashes with police.",
+      "tags": [
+        "france",
+        "protest",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9e62c895eba4cde9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "University of Cambridge scientist among those who died in Spanish train crash",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Marta Shahbazi, a University of Cambridge scientist, died in a Spanish train crash, and was remembered as an \"inspiring, talented and passionate scientist.\"",
+      "tags": [
+        "accident",
+        "science",
+        "cambridge"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ced032cfebec7f09",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
+      "url": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Supermodel Heidi Klum surprised attendees at her New York Halloween party by dressing as a giant severed hand.",
+      "tags": [
+        "entertainment",
+        "halloween",
+        "celebrity"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2e4a688ab1b5336d",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "summary": "HackerTube provides a YouTube-style interface for 6,454 videos that have been recommended in 39,834 Hacker News comments since 2007. It offers a community-curated video discovery experience.",
+      "tags": [
+        "community",
+        "video",
+        "curation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "41fb897360a8732d",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+      "url": "https://arxiv.org/abs/2409.02292",
+      "summary": "New 2024 research reveals a method to leak secrets from air-gapped computers by converting radio signals emitted from RAM into data. This side-channel attack poses a significant threat to high-security systems.",
+      "tags": [
+        "cybersecurity",
+        "research",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "338eeb3f5f69a185",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+      "summary": "A Lenovo USB drive advertised as \"encrypted\" with a fingerprint reader was found to be an unencrypted SD card encased in plastic. This discovery exposes a critical security flaw and deceptive marketing.",
+      "tags": [
+        "security",
+        "hardware",
+        "consumer tech"
+      ],
+      "priority": false
+    },
+    {
+      "id": "687ef6186702eebc",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "summary": "Memdoor, a system using five Qwen3.8-27B AI models, has surpassed Fable 5's performance on the LiveCodeBench Hard challenge. This achievement demonstrates advancements in cooperative AI model capabilities for coding.",
+      "tags": [
+        "ai",
+        "programming",
+        "benchmark"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2d6c1c915003d77c",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+      "summary": "A police chief physically disconnected Flock cameras after the company ignored the city's contract cancellation, which occurred amid privacy controversies. The city took direct action when the company failed to comply with the termination.",
+      "tags": [
+        "privacy",
+        "policing",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c81f8da864c9e2de",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Restrooms along the Norwegian Scenic Routes",
+      "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+      "summary": "This article showcases the distinctive and well-designed restrooms located along Norway's Scenic Routes, dubbing them among the \"world's best toilets.\" These facilities are presented as an integral part of the travel experience.",
+      "tags": [
+        "travel",
+        "design",
+        "norway"
+      ],
+      "priority": false
+    },
+    {
+      "id": "360d2ca0ad7682a5",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "url": "https://hackerbooks.org",
+      "summary": "HackerBooks is a new AI-built website that curates over 16,500 books mentioned by at least two Hacker News commenters since 2007. The platform provides links back to the original discussions, similar to the HackerTube concept for videos.",
+      "tags": [
+        "ai",
+        "development",
+        "books"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dafa54896980d4d6",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "summary": "A critical TCP Use-After-Free vulnerability, identified as CVE-2026-98432 with a CVSS score of 9.8, has been discovered in Linux IPv4. This high-severity flaw represents a significant security risk.",
+      "tags": [
+        "cybersecurity",
+        "linux",
+        "vulnerability"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5d9840a29b8e49e6",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The AI cost of JavaScript frameworks",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "summary": "This article delves into the \"AI cost\" associated with JavaScript frameworks, examining their impact on resources required for artificial intelligence development or tasks.",
+      "tags": [
+        "javascript",
+        "frameworks",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "074ba70b996deab6",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Here's how to watch election night as the polls close, hour-by-hour",
+      "url": "https://www.npr.org/2026/11/01/g-s1-149978/midterms-election-night",
+      "summary": "This guide outlines an hour-by-hour breakdown of what to expect on election night as polls close. It highlights key midterm races that will determine control of Congress.",
+      "tags": [
+        "election",
+        "midterms",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ef056e218a75225a",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "How Gen Z Republicans running for Congress are thinking about the future of the party",
+      "url": "https://www.npr.org/2026/11/01/nx-s1-5946869/midterm-elections-gen-z-republicans",
+      "summary": "Gen Z Republicans running for Congress are aiming to shape the future direction of the party, particularly in anticipation of a challenging election for the GOP.",
+      "tags": [
+        "politics",
+        "gen z",
+        "republicans"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fe5f3901b9765540",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "How to think about the midterms — and the political moment the country is in",
+      "url": "https://www.npr.org/2026/11/01/g-s1-151146/how-to-think-about-the-midterms-and-the-political-moment-the-country-is-in",
+      "summary": "Polls indicate a Democratic advantage in the midterm election, but the article cautions that results may be delayed and limitations exist.",
+      "tags": [
+        "election",
+        "midterms",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "220b2eff23e01de7",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
+      "url": "https://www.npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan",
+      "summary": "A federal judge dismissed a Trump administration lawsuit that sought to block the certification of Alaska's U.S. Senate race results if the Republican incumbent lost.",
+      "tags": [
+        "trump",
+        "election",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "416dc95b215d6d0a",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Living with high prices in Virginia's 1st Congressional District",
+      "url": "https://www.npr.org/2026/11/01/nx-s1-5945628/living-with-high-prices-in-virginias-1st-congressional-district",
+      "summary": "High prices are causing economic strain for a small business owner and a single mother in Virginia's 1st Congressional District. They are navigating budgetary challenges due to current economic conditions.",
+      "tags": [
+        "economy",
+        "cost of living",
+        "virginia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e9a6b50826f9396d",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "New York marathon: Sweden's Almgren and Kenya's Chepkirui win as 60,000 take part",
+      "url": "https://www.npr.org/2026/11/01/nx-s1-6025437/new-york-marathon-almgren-chepkirui-win",
+      "summary": "Andreas Almgren of Sweden and Sheila Chepkirui of Kenya won the New York City Marathon men's and women's races, respectively, among 60,000 participants.",
+      "tags": [
+        "sports",
+        "marathon",
+        "new york"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0072812bfabdb624",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump thanks supporters for the memories in final campaign stops for 2026 midterms",
+      "url": "https://www.npr.org/2026/11/01/nx-s1-6022128/trump-rally-2026-midterms-republicans",
+      "summary": "President Trump concluded his campaigning for the 2026 midterms with near-daily rallies in red states, delivering his signature speeches to loyal crowds.",
+      "tags": [
+        "trump",
+        "campaign",
+        "midterms"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fddc790546ae76ee",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "What's it like to run for Congress when the odds are stacked heavily against you?",
+      "url": "https://www.npr.org/2026/11/01/nx-s1-5995461/midterm-elections-noncompetitive-districts",
+      "summary": "The article examines the difficulties faced by congressional candidates running in districts heavily skewed towards an opposing party. Such candidates often confront nearly insurmountable odds.",
+      "tags": [
+        "election",
+        "politics",
+        "campaigning"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3eead05c99a2edd8",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Democratic Rep. Haley Stevens endorses Republican Mike Rogers for Michigan Senate",
+      "url": "https://www.politico.com/news/2026/11/01/haley-stevens-endorses-mike-rogers-michigan-senate-01144698",
+      "summary": "Democratic Rep. Haley Stevens publicly endorsed Republican Mike Rogers in the Michigan Senate race after a public dispute with Democratic nominee Abdul El-Sayed. Stevens cited El-Sayed's declaration that she was unwelcome in his campaign as a reason for her unexpected endorsement.",
+      "tags": [
+        "michigan",
+        "election",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5df0025e764bc2ea",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Raphael Warnock is 'nauseously optimistic' about Dem's midterm chances",
+      "url": "https://www.politico.com/video/2026/11/01/raphael-warnock-is-nauseously-optimistic-about-dems-midterm-chances-2216473",
+      "summary": "Senator Raphael Warnock expressed \"nauseous optimism\" regarding the Democratic Party's prospects in the upcoming midterm elections.",
+      "tags": [
+        "politics",
+        "midterms",
+        "democrats"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b0cd0da58d9348ab",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "The size of Democrats’ victory Tuesday could help determine their future",
+      "url": "https://www.politico.com/news/2026/11/01/poll-democratic-party-future-midterms-01141119",
+      "summary": "The scale of the Democratic victory in upcoming elections will be crucial in defining the party's future strategy. A POLITICO Poll shows that a larger win could strengthen calls for more progressive candidates, particularly influencing key races like Abdul El-Sayed's Michigan Senate campaign.",
+      "tags": [
+        "democrats",
+        "election",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8aa6bf72212e3b6e",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "datasette-llm 0.1a9",
+      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
+      "summary": "Datasette-llm 0.1a9 introduces an enhancement allowing Datasette Agent to automatically use the default LLM model without requiring explicit configuration. This update simplifies the user experience for integrating LLMs with Datasette Agent.",
+      "tags": [
+        "datasette",
+        "llm",
+        "plugin"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e65a8749397054cf",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Kyle Kingsbury",
+      "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+      "summary": "Kyle Kingsbury argues that LLMs erode trust in software and documentation, making it difficult for engineers to verify system maturity. He questions how maintainers can ensure and demonstrate quality in an LLM-influenced environment.",
+      "tags": [
+        "llm",
+        "ai",
+        "trust"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e02b61c4ae0269f9",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "Sunday Thread",
+      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-d12",
+      "summary": "The usual Sunday mailbag for Slow Boring will be postponed until after the midterms, with questions to be solicited once the elections are complete.",
+      "tags": [
+        "politics",
+        "midterms",
+        "commentary"
+      ],
+      "priority": false
+    },
+    {
+      "id": "27c7befe7452d94b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "summary": "Apple's CEO affirmed the company's stance against integrating artificial intelligence simply for the sake of it, emphasizing a deliberate approach.",
+      "tags": [
+        "apple",
+        "ai",
+        "business strategy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8c1bc367c8ec75a4",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Binance resumes withdrawals following $6.3 billion breach",
+      "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+      "summary": "Binance has resumed withdrawals after a $6.3 billion breach, confirming it has covered 95% of the stolen assets.",
+      "tags": [
+        "cryptocurrency",
+        "hack",
+        "binance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3b024dfe4f3d8e8a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+      "summary": "Data centers and artificial intelligence have become unexpected but significant midterm election issues, even sparking discussions at a Brooklyn political event.",
+      "tags": [
+        "data centers",
+        "ai",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4b0e868363837203",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
+      "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+      "summary": "Startup Everbloom has launched \"renoa,\" the first new fiber in 25 years, which reportedly offers a very familiar tactile experience.",
+      "tags": [
+        "materials",
+        "innovation",
+        "textile"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5d3b498d259c7009",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
+      "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
+      "summary": "Google's new Pixel 11 Pro Fold is described as a sturdy device, entering a competitive and expanding market for foldable phones.",
+      "tags": [
+        "google",
+        "smartphone",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dde21466dcbbf2eb",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "TechCrunch Mobility: A new, bigger AV boom is here",
+      "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
+      "summary": "This is an introductory piece for TechCrunch Mobility, emphasizing the increasing influence of AI in the future of transportation.",
+      "tags": [
+        "mobility",
+        "ai",
+        "transportation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f90d78b81f7128e3",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "A fully playable version of Portal prequel F-Stop leaked",
+      "url": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
+      "summary": "Leakers have assembled a playable version of the canceled Portal prequel, F-Stop, using assets from a large August leak and recently acquired source code. This game dramatically differs from mainline Portal titles by featuring a camera mechanic that allows players to capture and place items.",
+      "tags": [
+        "games",
+        "leak",
+        "valve"
+      ],
+      "priority": false
+    },
+    {
+      "id": "82ee5a4de41b3a68",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+      "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+      "summary": "Following a $6.3 billion crypto heist, Binance's CEO stated that 90% of the stolen funds have been replaced, with the remaining 10% of less liquid tokens also to be covered. Withdrawals are expected to be enabled soon.",
+      "tags": [
+        "cryptocurrency",
+        "hack",
+        "binance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "da78fc06569c3cbb",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Get in the spooky spirit with these horrors from YouTube",
+      "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+      "summary": "This article recommends a selection of creepy, disturbing, and weird YouTube videos to help readers get into the Halloween spirit. The list includes surreal art house shorts, cosmic horror, and viral clips like the 1983 film \"Possibly in Michigan.\"",
+      "tags": [
+        "entertainment",
+        "halloween",
+        "youtube"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2dcca1e3bebaf951",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
+      "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
+      "summary": "Apple's second-generation HomePod Mini, priced at $149, offers upgrades like a chip bump and better AirPlay but not an improved sound system. Despite initial disappointment, the reviewer found the Mini 2 significantly faster in playing music and responding to smart home commands.",
+      "tags": [
+        "apple",
+        "smart speaker",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "04c4563d2f991ec4",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Keyboards of The Verge",
+      "url": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
+      "summary": "The Verge staff utilizes a diverse range of keyboards, from ergonomic models to customized setups, underscoring the keyboard's role as a primary interface. These personal preferences reflect varying priorities in functionality, feel, sound, and aesthetics.",
+      "tags": [
+        "hardware",
+        "tech",
+        "peripherals"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ae1e2cf974e91f62",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "New Zelda and GTA represent a games industry that no longer exists",
+      "url": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
+      "summary": "Upcoming major game releases like Grand Theft Auto VI and the next Zelda title symbolize an outdated games industry model. GTA V alone has sold 230 million copies since 2013, illustrating the immense scale of these long-awaited sequels.",
+      "tags": [
+        "games",
+        "industry",
+        "analysis"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bc06db0992a609de",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "North Korea linked to massive Binance crypto heist",
+      "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+      "summary": "The FBI announced that North Korea was responsible for the massive $6.3 billion crypto heist from Binance on October 29th, identifying the activity as \"TraderTraitor.\" The agency observed the hackers converting tokens to Ethereum and preparing for further laundering of the funds.",
+      "tags": [
+        "cryptocurrency",
+        "hack",
+        "north korea"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1562dbc6ea223c4c",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Prop 45 in California could be hiding a loophole for data centers",
+      "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+      "summary": "Environmental advocates are concerned that California's Proposition 45, designed to expedite \"essential\" infrastructure, could allow data center developers to bypass public scrutiny. The measure would shorten environmental assessment timelines and make legal challenges more difficult.",
+      "tags": [
+        "california",
+        "policy",
+        "data centers"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 65,
+    "summarized": 53,
+    "skipped_promos": 2,
+    "filtered_by_rules": 10,
+    "sources": 8,
+    "email_items_omitted": 0
+  }
+}
