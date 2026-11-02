@@ -1,0 +1,1189 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T22:33:15+00:00",
+  "hot_topics": [
+    {
+      "topic": "Apple's Home Robot Faces Potential Delay Amid Software Challenges",
+      "synthesis": "Apple is reportedly developing an AI-driven home robot, code-named J595 and potentially named HomeView Ultra, initially aimed for a 2027 launch with a $1,000+ price tag. However, the launch may be delayed until 2028 because the software development is not yet complete, even though the hardware has been ready for two years. The team is focusing on core features such as FaceTime and automating basic home tasks.",
+      "item_ids": [
+        "5aed47da68cbc6e0",
+        "f623ae6616608a92"
+      ]
+    },
+    {
+      "topic": "Major Publishers Sue Brave Browser Over Alleged AI Content Scraping and Paywall Evasion",
+      "synthesis": "The New York Times and other publishers have filed lawsuits against Brave Software, accusing the web browser of unlawfully scraping copyrighted content. They allege Brave monetizes this content by providing AI companies, including Anthropic and Perplexity, with access to its real-time index to train models and respond to user queries, as well as allowing users to bypass paywalls.",
+      "item_ids": [
+        "4ab39c75a767725a",
+        "9330aff874af9017"
+      ]
+    },
+    {
+      "topic": "Cyberattacks on European Supermarket Freezers Cause Widespread Food Spoilage",
+      "synthesis": "A wave of cyberattacks has targeted supermarket refrigerators and freezers across seven European countries, causing temperatures to rise significantly and resulting in massive food spoilage and waste. This incident, the second of its kind within a month, has disrupted food supply chains and raised concerns about the broader vulnerability of interconnected technology and critical infrastructure to cyber threats.",
+      "item_ids": [
+        "5b1c08f32a2fbd06",
+        "acf795209b607f9c",
+        "1fbeb92432fcce79",
+        "cd303b220cc03dd9"
+      ]
+    },
+    {
+      "topic": "OpenAI Explores Rebranding Data Centers Amid Community Opposition and Grid Protection Efforts",
+      "synthesis": "OpenAI is considering rebranding its data centers as \"AI compute campuses\" in an effort to improve public perception, as these facilities often face local opposition. Simultaneously, the company announced a \"Grid Protectors Program\" at an upcoming Georgia data center, pledging to provide up to 1,000 megawatts of power to local communities during emergencies, aiming to offer community benefits while addressing energy concerns.",
+      "item_ids": [
+        "a7820e0d0b9c8dd1",
+        "79a49057520480ec"
+      ]
+    },
+    {
+      "topic": "Ford Pledges Not to Sell Customer Driving Data to Third-Party Brokers",
+      "synthesis": "Ford has introduced a new \"privacy promise,\" explicitly committing to customers that it will not sell their driving data to third-party data brokers. This move aims to differentiate Ford from other automakers that have faced legal scrutiny for sharing telematics without authorization, emphasizing the company's dedication to protecting customer information through aggregation and anonymization.",
+      "item_ids": [
+        "c4a9a26e6c7c62d4",
+        "56cf806029d3277c"
+      ]
+    },
+    {
+      "topic": "US Midterm Elections See Record Spending, High Stakes, and Concerns Over Poll Accuracy",
+      "synthesis": "The 2026 US midterm elections are projected to be the most expensive ever, with campaign spending nearing $12 billion, highlighting the high stakes for control of Congress and state supreme courts. Democrats are hopeful for a surge, but concerns persist about polling accuracy due to last-minute deciders and sampling issues. Republicans are privately blaming President Trump for potential losses, while AI chatbots are emerging as unreliable political advisors, potentially misleading voters.",
+      "item_ids": [
+        "48fe10c7a7c73d79",
+        "67ebcb3e7e72065d",
+        "9d3687929495f6f4",
+        "a7142a6f7bbfd80e",
+        "0f9c335b2edb2d21",
+        "b5e98c3b943894f5",
+        "a629d81c61528a95",
+        "98c8715c895e7db2",
+        "75be30a81b0d8a33",
+        "062917511518de33"
+      ]
+    },
+    {
+      "topic": "Michigan Democrat Haley Stevens Sparks Controversy with Republican Senate Endorsement",
+      "synthesis": "Michigan Congresswoman Haley Stevens, a Democrat, has drawn significant attention and internal party criticism by endorsing Republican Senate candidate Mike Rogers over her party's nominee, Abdul El-Sayed. Stevens cited personal discomfort and a lack of honesty with herself regarding El-Sayed after he won the primary. This decision has been highlighted as a notable event in a \"bizarre midterm cycle\" and has sparked debate over \"Country over Party\" principles.",
+      "item_ids": [
+        "20ae50be8d65ee34",
+        "70f6d5e05b494243",
+        "088073c25edd1af7",
+        "15267b4b789917c4"
+      ]
+    },
+    {
+      "topic": "Geopolitical Tensions, Especially Iran War, Impact US Midterms and European Economy",
+      "synthesis": "Geopolitical tensions, particularly the ongoing US-Israel war with Iran, are having far-reaching impacts on both US domestic politics and the European economy. Republicans are privately blaming President Trump for anticipated midterm losses, citing the unpopular Iran war as a factor increasing fuel and fertilizer costs. Meanwhile, Ryanair has warned it may freeze workers' pay and raise airfares, projecting a €2 billion rise in fuel costs by 2028 if the conflict continues.",
+      "item_ids": [
+        "20ae50be8d65ee34",
+        "75be30a81b0d8a33",
+        "63e01b82a1dd9bcc"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "ebaa43d5f48ec923",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "The self-making world",
+      "url": "https://aeon.co/essays/the-self-making-world-of-jean-baptiste-lamarck",
+      "summary": "Lamarck's once-mocked radical idea that organisms shape themselves and their environment is experiencing a resurgence in scientific thought. This re-evaluation suggests a potential shift in understanding evolutionary processes.",
+      "tags": [
+        "science",
+        "evolution",
+        "philosophy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b6b2d49c13406d18",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+      "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+      "summary": "Anthropic introduced a new system prompt for its Claude models to prevent the re-creation of specific existing video games, aiming to mitigate liability. However, this measure is unlikely to significantly slow the broader trend of AI-assisted game porting and copying.",
+      "tags": [
+        "ai",
+        "gaming",
+        "copyright"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5aed47da68cbc6e0",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+      "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+      "summary": "Apple’s new CEO, John Ternus, is apparently pushing the tech company’s development of household robots—and the first to debut may be a home robot designed to autonomously roam around while supporting FaceTime calls and switching lights on whenever a person enters the room.\nPeople…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "7122d855caf67b16",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "F1 in Mexico City: Yet another Ferrari fiasco, but that’s not all",
+      "url": "https://arstechnica.com/cars/2026/11/f1-in-mexico-city-we-have-a-new-world-champion/",
+      "summary": "Kimi Antonelli became F1's youngest-ever World Drivers' Champion in Mexico City, a race marked by Ferrari losing a potential win to Red Bull. The high-altitude circuit presented unique challenges, leading to drama across the grid with various team incidents.",
+      "tags": [
+        "f1",
+        "racing",
+        "sports"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c54d81bb1a9be5eb",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Googling \"Zelda\" today offers a glimpse of how search worked in 1998",
+      "url": "https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/",
+      "summary": "Google is celebrating the upcoming remaster of \"The Legend of Zelda: Ocarina of Time\" with an Easter egg that transforms its search page to resemble its 1998 appearance. Searching for \"Zelda\" or \"Ocarina of Time\" reveals an animated Master Sword that, when clicked, displays retro Google branding and a simple list of blue links.",
+      "tags": [
+        "google",
+        "gaming",
+        "easter egg"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9555f2c89720d7f8",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Most of our measures of a key cognitive process don't agree",
+      "url": "https://arstechnica.com/science/2026/11/most-of-our-measures-of-a-key-cognitive-process-dont-agree/",
+      "summary": "A Nature study reveals that various methods used to measure cognitive reappraisal, a key emotional ability in CBT, do not align. This inconsistency suggests a lack of a reliable way to quantify the impact of a process linked to emotional resilience.",
+      "tags": [
+        "science",
+        "psychology",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4ae9ad3fe4cba6f1",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "The world has a new plan to save nature, but it still needs the money",
+      "url": "https://arstechnica.com/science/2026/11/the-world-has-a-new-plan-to-save-nature-but-it-still-needs-the-money/",
+      "summary": "A UN biodiversity summit in Armenia concluded with leaders acknowledging the world is off-track to meet 2030 conservation goals due to insufficient finance and action. Efforts will be stepped up to protect about a third of the world’s land and seas by 2030, as outlined in the 2022 Kunming-Montreal Global Biodiversity Framework.",
+      "tags": [
+        "environment",
+        "conservation",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f20940d99afb95f5",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "This $48 e-paper display can be whatever you want it to be",
+      "url": "https://arstechnica.com/gadgets/2026/11/this-48-e-paper-display-can-be-whatever-you-want-it-to-be/",
+      "summary": "A $48 DIY e-paper display kit from Seeed Studio, developed with TRMNL, offers a customizable screen solution for various uses. It addresses limitations found in modded devices by providing a flexible and user-preferred software ecosystem.",
+      "tags": [
+        "gadgets",
+        "diy",
+        "e-paper"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1fbeb92432fcce79",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+      "url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "dd758ade7c8e10fa",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "'I couldn't be silent': Iranian teen's mother seeking justice after daughter shot dead",
+      "url": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
+      "summary": "A grieving Iranian mother, Samira, is seeking justice after her 16-year-old daughter, Sevda, was shot dead during mass protests in January, as documented by BBC Panorama. Her story highlights the human cost and ongoing struggle against the Tehran regime.",
+      "tags": [
+        "iran",
+        "protests",
+        "human rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a7142a6f7bbfd80e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "A Paralympian vs a former TV news anchor - and other US Senate races to watch",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7ljkprvjko?at_medium=RSS&at_campaign=rss",
+      "summary": "All eyes are on a handful of Senate races that will decide control of the prized upper chamber. Here's a quick guide.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "114ecb3557aeb24e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+      "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Binance users withdrew $3.6 billion following the largest-ever crypto hack, an incident linked to a North Korean group that prompted the exchange to freeze transactions. The mass withdrawals reflect significant concerns over security after the breach.",
+      "tags": [
+        "cryptocurrency",
+        "cybersecurity",
+        "binance"
+      ],
+      "priority": false
+    },
+    {
+      "id": "553894300695ae42",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "China state broadcaster pulls La Liga matches following Mbappé joke",
+      "url": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss",
+      "summary": "China Media Group pulled La Liga matches from broadcast after a joke involving Mbappé, despite acknowledging his apology. The duration of the blackout has not been specified.",
+      "tags": [
+        "china",
+        "sports",
+        "media"
+      ],
+      "priority": false
+    },
+    {
+      "id": "059d273def0ed87d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
+      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+      "summary": "The co-pilot in a deadly Florida jet crash has been identified as a 20-year-old, with air traffic audio capturing a crew member shouting, \"We are going to crash into the ground!\" The crash killed all nine people on board.",
+      "tags": [
+        "aviation",
+        "accident",
+        "florida"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9d3687929495f6f4",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Democrats have high hopes for midterms - but are the polls right?",
+      "url": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
+      "summary": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "44e58089ca92f99f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Dutch police offer record €2m reward in hunt for drug lord",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Dutch police have offered a record €2 million reward for information leading to the capture of Jos Leijdekkers, a drug lord found guilty in absentia of cocaine smuggling. He is believed to be in Sierra Leone.",
+      "tags": [
+        "crime",
+        "netherlands",
+        "drugs"
+      ],
+      "priority": false
+    },
+    {
+      "id": "803e2a0c3ecb5ae3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
+      "summary": "A hacked app issued a fake nuclear warning in Ukraine, causing unease but not panic among a populace accustomed to Russian attacks. Many Ukrainians doubted the message's authenticity due to years of conflict.",
+      "tags": [
+        "ukraine",
+        "cybersecurity",
+        "misinformation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9a72cb4a2bad422c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Fighting has resumed in Ukraine's Kherson region after an unprecedented six-day ceasefire, which did little to alter the overall trajectory of the ongoing war. The conflict continues to grind on despite the temporary truce.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "be897cde87d0f99b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Five arrested after South African farmer shot and tortured",
+      "url": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Five people have been arrested in connection with the shooting and torture of South African farmer Donovan Marx, amid claims by right-wing groups of a \"white genocide,\" a claim widely discredited. The incident highlights ongoing tensions and crime issues in the region.",
+      "tags": [
+        "south africa",
+        "crime",
+        "social issues"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ada46dec8d36cbb7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+      "summary": "France has launched an attempted murder investigation after a petrol bomb was thrown at police during widespread protests across French cities. Hundreds of arrests were made during the third consecutive weekend of demonstrations.",
+      "tags": [
+        "france",
+        "protests",
+        "police"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cd303b220cc03dd9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
+      "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+      "summary": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "10f474bf7d449f38",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Iran killed her teenage daughter - now she is facing up to the regime",
+      "url": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Samira, an Iranian mother, is confronting the Tehran regime after her 16-year-old daughter, Sevda, was fatally shot during January's mass protests. She highlights the personal tragedy and ongoing struggle for justice in Iran.",
+      "tags": [
+        "iran",
+        "protests",
+        "human rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b56fd9590dabb9c8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Legal challenge to Australia's social media ban to start in High Court",
+      "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Australia's High Court will hear a legal challenge against a world-leading policy banning social media for under-16s, with a rights group arguing it infringes on minors' right to free communication. The policy aims to protect children online but faces scrutiny over its legality and impact on freedom of expression.",
+      "tags": [
+        "australia",
+        "social media",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "11d0598206dd6cd3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Man guilty of stealing cash from farm owned by South African president",
+      "url": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
+      "summary": "A man has been found guilty of stealing cash from a farm belonging to South African President Cyril Ramaphosa, a case linked to the \"Farmgate\" scandal that has entangled the president in an impeachment saga. The verdict adds to the ongoing political controversy.",
+      "tags": [
+        "south africa",
+        "politics",
+        "crime"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1fb7e9a4afdea64b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Popular Australian children's author jailed over child exploitation offences",
+      "url": "https://www.bbc.co.uk/news/articles/cmjwe9nggp60o?at_medium=RSS&at_campaign=rss",
+      "summary": "A popular Australian children's author, known for works like Jasper Jones, has been jailed after pleading guilty to child exploitation offenses following a police raid. The conviction highlights a serious case of child abuse by a public figure.",
+      "tags": [
+        "australia",
+        "crime",
+        "justice"
+      ],
+      "priority": false
+    },
+    {
+      "id": "77970cab2c1db636",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukrainian officials reported that Russian bombing killed 26 people at an aid center in a southern Ukrainian village, calling it an \"utterly horrific\" attack. At least nine 3,000kg aerial bombs struck the village.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "conflict"
+      ],
+      "priority": false
+    },
+    {
+      "id": "63e01b82a1dd9bcc",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Ryanair says it may freeze workers' pay and raise airfares",
+      "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+      "summary": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "acf795209b607f9c",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Shop freezers in seven European countries hit by cyber-attack",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "980e65e8d00c08ce",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump plans to remove Rwanda and South Africa from a US trade deal, following recent US Treasury sanctions against Rwanda's defense ministry. This move signifies a shift in trade relations with these African nations.",
+      "tags": [
+        "us politics",
+        "trade",
+        "rwanda"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b067fb42ffbb6f80",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Uganda begins withdrawing troops from Somalia after 20 years",
+      "url": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss",
+      "summary": "Uganda has started withdrawing its troops from Somalia after a 20-year deployment, where they assisted in combating the al-Shabab militant group since 2007. This marks a significant shift in the regional security landscape.",
+      "tags": [
+        "uganda",
+        "somalia",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "67ebcb3e7e72065d",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US midterms campaign 'shattering' spending records to be most expensive ever",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&at_campaign=rss",
+      "summary": "The 2026 campaign is projected to cost nearly $12bn - BBC Verify looks into where all that money has come from.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "48fe10c7a7c73d79",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What are Americans voting for in this election?",
+      "url": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Maddie Gerber explains what's on the ballot in the 2026 midterm elections in the United States.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "8a17f91a72069643",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What Florida jet audio and flight data tells us about its final moments",
+      "url": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
+      "summary": "Flight data and audio from a private jet that crashed in Florida on Sunday reveal details about its final moments, with all nine people on board confirmed dead. The investigation will use this information to determine the cause of the accident.",
+      "tags": [
+        "aviation",
+        "accident",
+        "florida"
+      ],
+      "priority": false
+    },
+    {
+      "id": "33bcd77ed805fbea",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "What we know about the alert app hack in Ukraine and Russia",
+      "url": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
+      "summary": "Joe Tidy explains the details of cyber-attacks that targeted air raid alert apps in both Ukraine and Russia. The incident involved the dissemination of fake warnings, though many Ukrainians remained unalarmed.",
+      "tags": [
+        "cybersecurity",
+        "ukraine",
+        "russia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ecc3c64e67d5b430",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
+      "url": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
+      "summary": "A Wizz Air flight from Luton made an emergency landing in Budapest after a bomb threat was received mid-air. A Hungarian fighter jet escorted the aircraft to its destination.",
+      "tags": [
+        "aviation",
+        "security",
+        "emergency"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8bb3a56557dff384",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+      "summary": "Anthropic's internal AI usage costs, if calculated at retail prices, have surpassed the company's employee payroll. This highlights the substantial computational and financial resources required for advanced AI development, even for internal operations.",
+      "tags": [
+        "anthropic",
+        "ai",
+        "costs"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bba90b3573ae85bc",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "If you love a website, back it up",
+      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+      "summary": "This article advises users to back up websites they value, underscoring the impermanence of online content. It encourages individuals to take proactive steps to preserve digital information.",
+      "tags": [
+        "web",
+        "data preservation",
+        "internet"
+      ],
+      "priority": false
+    },
+    {
+      "id": "10f405623be344e6",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Show HN: I've updated my Linux System Call website and API",
+      "url": "https://syscall.sh/",
+      "summary": "A developer has updated their Linux System Call website and API, now featuring support for more architectures, a kernel selector, and syscall descriptions. The improvements also enhance mobile device compatibility.",
+      "tags": [
+        "linux",
+        "programming",
+        "api"
+      ],
+      "priority": false
+    },
+    {
+      "id": "23608e8a50edb434",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "url": "https://news.ycombinator.com/item?id=50340088",
+      "summary": "The Subvocal Company has developed smart glasses that enable users to communicate with computers silently by decoding internal or lip-closed mouthing into text using RF waves. This technology, refined through extensive data collection and engineering, aims to provide discreet voice dictation for public and quiet environments.",
+      "tags": [
+        "ai",
+        "wearable tech",
+        "startup"
+      ],
+      "priority": false
+    },
+    {
+      "id": "269543144b08a9e1",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
+      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
+      "summary": "An interactive 3D voxel map of central Warsaw allows users to explore the city, change environmental conditions, and control pedestrians. Built from open datasets like OpenStreetMap and LiDAR, the project is open-source and offers a unique way to visualize urban areas.",
+      "tags": [
+        "mapping",
+        "3d",
+        "open source"
+      ],
+      "priority": false
+    },
+    {
+      "id": "815c9000f2181c30",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+      "summary": "Ubuntu has yet to release a patch for a critical Linux 0day Remote Code Execution (RCE) vulnerability after nearly three weeks. The delay in addressing CVE-2026-98432 in Ubuntu LTS kernels raises concerns about system security.",
+      "tags": [
+        "ubuntu",
+        "linux",
+        "security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9c8012c2bfb416cd",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "US boy names that became girl names and vice versa",
+      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+      "summary": "This article explores the phenomenon of US names transitioning in gender association, with examples of boy names becoming girl names and vice versa. It delves into cultural shifts and naming trends over time.",
+      "tags": [
+        "culture",
+        "names",
+        "trends"
+      ],
+      "priority": false
+    },
+    {
+      "id": "503e38f08b8a4de2",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "WTF Ubuntu?",
+      "url": "https://chalmovsky.com/posts/wtf-ubuntu",
+      "summary": "An article titled \"WTF Ubuntu?\" discusses a problematic or frustrating aspect related to the Ubuntu operating system. The linked content is implied to highlight significant issues encountered by users.",
+      "tags": [
+        "ubuntu",
+        "linux",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "529df348d08a209d",
+      "source": "MIT Technology Review",
+      "source_type": "rss",
+      "title": "Raising the quality of insights in agentic analytics",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "summary": "While generative AI has made analytics more accessible, agentic AI's current insights often lack quality, with fewer than half leading to business improvement. Insufficient business context and fragmented data are primary causes, prompting organizations to focus on strengthening AI governance and adding semantic layers to data architectures to improve agent effectiveness.",
+      "tags": [
+        "ai",
+        "analytics",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "98c8715c895e7db2",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "6 things to watch for on election night",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-6025451/midterms-what-to-watch-election-night",
+      "summary": "Some of the key storylines to watch will center around various voters groups that have soured on President Trump during his second turn out.\n(Image credit: Spencer Platt)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "0f9c335b2edb2d21",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice",
+      "summary": "Millions of Americans are turning to AI for election information, but chatbots are getting voting facts wrong and recommending candidates, raising concerns they could influence voters' decisions.\n(Image credit: Jon Cherry)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f10cdee6ff659553",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "DOJ asks for Supreme Court to intervene on California ballot demands",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump",
+      "summary": "The Trump administration has asked the Supreme Court to overturn lower court decisions that rejected its demand for California to set aside ballots from thousands of \"likely\" noncitizens. This urgent request comes on the eve of the election, aiming to influence voting integrity.",
+      "tags": [
+        "doj",
+        "supreme court",
+        "elections"
+      ],
+      "priority": false
+    },
+    {
+      "id": "20ae50be8d65ee34",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
+      "url": "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
+      "summary": "Democrats in Michigan are considering their options after Haley Stevens endorsed GOP candidate Mike Rogers for Senate. And the Gulf states are bracing for a possible U.S. attack on Iran after the midterms.\n(Image credit: Finn Gomez)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "b5e98c3b943894f5",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Is America really that polarized? The answer might be a surprise",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-6003534/us-political-polarization-research-trump",
+      "summary": "The U.S. has become more politically polarized, but research shows people overestimate their differences and there is 'messy middle' majority of Americans who share overlapping political views.\n(Image credit: Stephen Maturen/Getty Images)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "4139ceeb2d628f7e",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials",
+      "url": "https://www.npr.org/2026/11/02/g-s1-151242/judge-tosses-case-fbi-officials-hunter-biden",
+      "summary": "A judge dismissed a case against former FBI officials involved in Hunter Biden probes, accusing the DOJ of \"weaponization\" and being \"deeply troubled\" by mistakes and the rushed nature of the politically charged actions. This ruling raises significant questions about judicial oversight and prosecutorial conduct.",
+      "tags": [
+        "doj",
+        "justice system",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7ed3bd6c26adfbdb",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Two economists studied California's billionaire tax. They reached wildly different conclusions",
+      "url": "https://www.npr.org/sections/planet-money/2026/11/02/g-s1-151009/two-economists-studied-californias-billionaire-tax-they-reached-wildly-different-conclusions",
+      "summary": "Two economists studying California's proposed billionaire tax reached divergent conclusions on whether it would boost state coffers or lead to wealth flight. Their differing analyses highlight the contentious debate over taxing the super-rich and its potential economic impact.",
+      "tags": [
+        "california",
+        "taxation",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a629d81c61528a95",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "When it comes to election pressure, this year's Georgia or Michigan could be anywhere",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-5989648/midterm-voting-election-pressure",
+      "summary": "The districts that will decide control of the House and Senate next year are spread across the country. Voting officials in those places may face scrutiny and pressure they've never experienced.\n(Image credit: Scott Olson)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "fb7d1a689d13acd2",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "With students scarce, college admissions offices get friendlier, less intimidating",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-6007855/college-admissions-change-fewer-students",
+      "summary": "Facing a scarcity of students, college admissions offices are shifting towards a friendlier and less intimidating process. This aims to transform the historically daunting and secretive experience into one that is more open and accessible for applicants.",
+      "tags": [
+        "education",
+        "admissions",
+        "universities"
+      ],
+      "priority": false
+    },
+    {
+      "id": "062917511518de33",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Democrats eye state supreme court races — this year and beyond",
+      "url": "https://www.politico.com/news/2026/11/01/state-supreme-court-midterm-elections-01144147",
+      "summary": "Liberal groups have spent millions in a handful of battleground state supreme court races ahead of Tuesday’s elections, looking to lay the groundwork for Democrats to win control of more courts ahead of a crucial redistricting cycle.\nAt the center of the fight are races for Repub…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "70f6d5e05b494243",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "Haley Stevens caps a bizarre midterm cycle",
+      "url": "https://www.politico.com/video/2026/11/02/haley-stevens-caps-a-bizarre-midterm-cycle-2217279",
+      "summary": "Haley Stevens caps a bizarre midterm cycle\nlead image",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "75be30a81b0d8a33",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "‘A lot of Republicans have held their tongues’: Anger at Trump is growing",
+      "url": "https://www.politico.com/news/2026/11/02/republicans-blame-trump-midterms-2026-01143980",
+      "summary": "Republicans are already privately blaming President Donald Trump as they brace for losses on Tuesday.\nEven as they race to distance themselves from his actions on tariffs, the unpopular Iran war and his mass deportation agenda, few have been willing to criticize him publicly — a…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f0d661ac6866c3f7",
+      "source": "Quanta Magazine",
+      "source_type": "rss",
+      "title": "Is There Anything Left in the Dream of Cold Fusion?",
+      "url": "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/",
+      "summary": "The concept of cold fusion has re-entered discussions, with a philosopher citing a paper suggesting scientists may have been overly risk-averse in their attitudes towards its potential. The article re-examines the long-debated idea of cold fusion.",
+      "tags": [
+        "science",
+        "physics",
+        "research"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2a7a8676e0af9f7b",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "If in doubt, delete the uv.lock file",
+      "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+      "summary": "When encountering Python dependency errors after switching to Python 3.15, particularly concerning `uv.lock` files, deleting the `uv.lock` file often resolves the issue. This is because these files can pin dependency versions incompatible with newer Python versions, especially for libraries.",
+      "tags": [
+        "python",
+        "development",
+        "debugging"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0803e0e2c687e809",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "The U.S. Census Bureau and “Super Intelligence”",
+      "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+      "summary": "The U.S. Census Bureau's Business Trends and Outlook Survey (BTOS) changed its AI adoption question in November 2025 to include \"any business functions\" and then again in October 2026 to \"Super Intelligence (SI)\". This shift, influenced by Executive Order 14434, makes historical comparisons difficult and raises questions about its impact on survey results.",
+      "tags": [
+        "ai",
+        "census",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dfb014f9df347596",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "summary": "42AI has emerged from stealth with $62.5 million in funding, announcing a \"world model\" AI capable of predicting human behavior, even in novel situations. This technology poses questions straight out of science fiction regarding AI's predictive capabilities.",
+      "tags": [
+        "ai",
+        "startups",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5b1c08f32a2fbd06",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "A fresh wave of cyberattacks has hit Europe’s supermarket refrigerators, destroying food across countries",
+      "url": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/",
+      "summary": "This is the second wave of cyberattacks to hit supermarket refrigerators in a month, spoiling food and disrupting supplies.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f33da80b174c2065",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "summary": "The article discusses how AI can simplify tasks for tech CEOs but raises questions about its broader impact on other people, particularly regarding perceived disconnects in tech leaders' statements. This highlights concerns about AI's benefits distribution beyond the executive level.",
+      "tags": [
+        "ai",
+        "business",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "321b05dcb762825c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "summary": "Anthropic warns that its AI models are nearing \"Recursive Self-Improvement\" (RSI) capability, where AI can significantly accelerate its own development. This milestone is considered by some to be a critical point for the rapid advancement of AI.",
+      "tags": [
+        "ai",
+        "anthropic",
+        "agi"
+      ],
+      "priority": false
+    },
+    {
+      "id": "753c6a2dd9fb25f7",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+      "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+      "summary": "Elon Musk has reduced Grok Bot usage limits, citing unsustainably high operational costs despite the product's rapid growth. This adjustment aims to manage expenses associated with the AI bot's expanding user base.",
+      "tags": [
+        "elon musk",
+        "ai",
+        "grok"
+      ],
+      "priority": false
+    },
+    {
+      "id": "56cf806029d3277c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Ford launches a ‘privacy promise’ and explains how and why it uses customer data",
+      "url": "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/",
+      "summary": "Ford said it's making an \"explicit commitment\" to its customers that \"their vehicle data is safe\" with the company.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "c4c64647e4683731",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
+      "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
+      "summary": "German lawmakers and a filmmaker received Apple notifications indicating their iPhones might have been compromised with spyware. This suggests a potential state-sponsored hacking attempt targeting prominent individuals.",
+      "tags": [
+        "security",
+        "iphone",
+        "spyware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1158336af39d4528",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
+      "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
+      "summary": "Marvell is set to acquire Lumentum for $115 billion, marking one of the largest acquisitions in tech history. Both companies share Nvidia as a strategic investor.",
+      "tags": [
+        "tech",
+        "acquisitions",
+        "semiconductors"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9330aff874af9017",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "93fc4599bf10a069",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Ninja’s first-ever microwave just replaced two of my kitchen appliances at once",
+      "url": "https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/",
+      "summary": "Ninja has released its first microwave, the Crispi Microwave, which features FusionCrisp technology to combine microwave speed with air fryer crispiness. This innovation aims to replace multiple kitchen appliances, offering versatile cooking capabilities.",
+      "tags": [
+        "appliances",
+        "kitchen",
+        "innovation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3b060f789176a6d0",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "summary": "Omen AI has acquired Aquatic Labs for $16 million, integrating its expertise in liquid cooling to address data center water management challenges. This merger aims to combine their efforts in tackling the environmental impact of data centers.",
+      "tags": [
+        "ai",
+        "data centers",
+        "acquisition"
+      ],
+      "priority": false
+    },
+    {
+      "id": "92256bd127de8382",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "summary": "OpenAI is merging ChatGPT’s Chat and Work tabs, allowing both ChatGPT and Codex to draw usage from the same allocation pool. This change streamlines the interface and resource management for users.",
+      "tags": [
+        "openai",
+        "chatgpt",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "79a49057520480ec",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f5ef933ce9605f75",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
+      "url": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
+      "summary": "Readwise Books has launched a new app designed to compete with Amazon's Kindle and Goodreads by combining an e-book store, reading tracker, detailed stats, and AI features. This integrated platform aims to offer a comprehensive experience for book lovers.",
+      "tags": [
+        "apps",
+        "reading",
+        "ebooks"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2a0c1ceb20b988d1",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
+      "url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
+      "summary": "Snap has settled a lawsuit alleging its social media platform contributed to teen depression and eating disorders, with plaintiffs claiming compulsive usage habits due to features like autoplay and infinite scrolling. The lawsuit highlighted concerns about the impact of platform design on young users' mental health.",
+      "tags": [
+        "social media",
+        "snapchat",
+        "lawsuit"
+      ],
+      "priority": false
+    },
+    {
+      "id": "105f46a63973849e",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Arthur Brooks: How to Raise a Reader",
+      "url": "https://www.thefp.com/p/how-to-raise-a-reader",
+      "summary": "This article explores the evolving nature of reading for children, noting that while traditional family reading aimed to foster happiness and intelligence, today's digital reading habits, often involving social media and texts, may have negative impacts. It prompts a re-evaluation of what children read and its effects.",
+      "tags": [
+        "parenting",
+        "reading",
+        "digital literacy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "088073c25edd1af7",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "I Interviewed Haley Stevens at 11 PM on Her Fiancé’s Couch. Here’s Why She Broke with Abdul El-Sayed.",
+      "url": "https://www.thefp.com/p/exclusive-haley-stevens-says-i-wasnt-honest-with-myself-michigan-election-midterms-democrats-republicans",
+      "summary": "HUNTINGTON WOODS, Michigan — “I was like, wait a moment, what am I doing?”\nThat is how Congresswoman Haley Stevens described her epiphany less than 24 hours earlier, when she realized she could no longer back Abdul El-Sayed—the Democratic darling favored to win Michigan’s open Se…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "6c31de522b2b736c",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Mark Manson: Self-Help for People Who Hate Self-Help",
+      "url": "https://www.thefp.com/p/mark-manson-self-help-anxiety-happiness",
+      "summary": "The article discusses Mark Manson, author of \"The Subtle Art of Not Giving a F*ck,\" and his unconventional approach to self-help that emerged from his experience as a dating coach. Manson suggests that many relationship issues stem from personal problems, advocating for a perspective where happiness is not overly pursued.",
+      "tags": [
+        "self-help",
+        "philosophy",
+        "relationships"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ce6cd6c7eda9b661",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Tax Fight Splitting the Right in Florida",
+      "url": "https://www.thefp.com/p/florida-frannie-block-grady-judd-tax-police",
+      "summary": "Polk County Sheriff Grady Judd is a prominent voice against a proposed constitutional amendment in Florida that seeks to significantly lower property taxes. Opponents argue the cuts would severely impact local services, while proponents advocate for tax relief amid rising living costs.",
+      "tags": [
+        "florida",
+        "politics",
+        "taxation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "15267b4b789917c4",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "When ‘Country over Party’ Goes Only One Way",
+      "url": "https://www.thefp.com/p/haley-stevens-abdul-el-sayed-michigan-senate",
+      "summary": "Running for Senate two years ago, Michigan Democratic congresswoman Elissa Slotkin proudly accepted an endorsement from her former Republican colleague Liz Cheney. “It is a privilege to be here in Grand Rapids, the hometown of former President Gerald Ford,”\nSlotkin said\nto a room…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f623ae6616608a92",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Apple&#8217;s ‘Ultra’ smart home robot might have to wait until 2028",
+      "url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
+      "summary": "Apple has reportedly delayed the launch of its rumored smart home robot until next year at the earliest or possibly even 2028, according to\nThe Information\n. It says the robot's hardware \"has been finished for around two years,\" but that the software isn't ready. The device's sof…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "3aa481b17be610d4",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
+      "url": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
+      "summary": "BMW plans to introduce navigation-guided, partially automated driving capabilities for urban environments starting in 2027, launching first in Germany. This Level 2 driver assist system will help with steering, speed control, lane changes, turns, and roundabouts on both highways and city streets, though drivers must remain attentive.",
+      "tags": [
+        "automotive",
+        "self-driving",
+        "bmw"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c4a9a26e6c7c62d4",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Ford promises not to sell your driving habits to data brokers",
+      "url": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers",
+      "summary": "Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at\nsetting the automaker apart from competitors\nthat have faced legal and regulatory blowback for sharing telematics with data brokers without authorization.\nAs part…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "5b596a9ff78cc1a7",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "One of Google&#8217;s Android partners turned 1.3 million set-top boxes into a botnet",
+      "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+      "summary": "Google has cut ties with Videostrong Technology Co., an Android manufacturing partner, after discovering it embedded a backdoor in 1.3 million devices, turning them into a botnet. These infected devices were used for malicious activities such as ad fraud and data exfiltration, prompting Google to dismantle the backdoor and ban the company.",
+      "tags": [
+        "android",
+        "security",
+        "botnet"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a7820e0d0b9c8dd1",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "summary": "In\nan announcement on Monday\n, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioner…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "4ab39c75a767725a",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "summary": "The New York Times\nand a group of other publications have\nfiled lawsuits\nagainst the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls,\nas reported by\nReuters\n.\nAccording to\na complaint\nfiled by the\nNe…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "066da335c34011ae",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Xbox&#8217;s former COO has ‘serious concerns’ about her abrupt departure",
+      "url": "https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments",
+      "summary": "Helen Chiang, Xbox's former chief operating officer, expressed \"serious concerns\" about her abrupt departure from Microsoft less than two weeks after a promotion. While not disputing being fired, she did not disclose the reason for her leaving after 21 years with the company.",
+      "tags": [
+        "xbox",
+        "microsoft",
+        "leadership"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 112,
+    "summarized": 86,
+    "skipped_promos": 3,
+    "filtered_by_rules": 23,
+    "sources": 12,
+    "email_items_omitted": 0
+  }
+}
