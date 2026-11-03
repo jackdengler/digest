@@ -1,0 +1,1243 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T20:22:54+00:00",
+  "hot_topics": [
+    {
+      "topic": "Google's AI policy for schools and Search",
+      "synthesis": "Google is offering K-12 schools the option to opt out of its AI tools, but this choice comes with a significant caveat: schools will also lose access to Google Search, as AI features are deeply integrated into the search engine. This \"all or nothing\" policy is forcing educators to make a difficult decision regarding the integration of AI in classrooms.",
+      "item_ids": [
+        "5552c2cb09acf2de",
+        "91db4275bf3a3cc8",
+        "0d4bb9c647e5e7e2"
+      ]
+    },
+    {
+      "topic": "Netflix's AI-powered recommendations",
+      "synthesis": "Netflix is introducing an \"AI Discover\" tab to its TV app, rolling out experimental AI-powered features designed to help users find new shows and movies. The initial feature provides personalized content recommendations based on themes and user mood, learning from real-time feedback.",
+      "item_ids": [
+        "f12d70a6868fcd57",
+        "4426e879df4bbafa"
+      ]
+    },
+    {
+      "topic": "Reddit tests ads in search results",
+      "synthesis": "Reddit is expanding its advertising efforts by testing new ad placements directly within search results, which will be contextually relevant to user queries. This move aims to boost revenue amidst reports of declining traffic and mounting growth concerns.",
+      "item_ids": [
+        "5f33e4b7ae32b6d9",
+        "9aa9f7815d523641"
+      ]
+    },
+    {
+      "topic": "US Midterm Elections and political landscape",
+      "synthesis": "Voters are heading to the polls for the US midterm elections, with key issues like affordability, immigration, and the political future of Donald Trump dominating the conversation. Reports highlight unprecedented campaign spending, a fracturing of Trump's voter coalition, and the significant stakes for control of Congress, while media outlets prepare for election night coverage and warn against common analytical errors.",
+      "item_ids": [
+        "71dfdf15db79bef3",
+        "122e597dc6e076af",
+        "e9cff7d93760171e",
+        "42a266346c1ee199",
+        "e0f7ea9ae3295892",
+        "2544de54b4cfb21e",
+        "b6f9c960e6643d21",
+        "10b7f6bbefc28679",
+        "5eddb7a2de54e708",
+        "307fd941aade9f18",
+        "87359a4b13ea2787",
+        "b178daf0df635b6f",
+        "d46d2541b0aab63a",
+        "036c07027aa2b38f"
+      ]
+    },
+    {
+      "topic": "Russian attacks in Ukraine",
+      "synthesis": "Russia has intensified attacks in Ukraine, with multiple reports detailing rising death tolls after strikes on civilian infrastructure, including aid centers, hospices, and hospitals. While one report noted a brief ceasefire offered temporary respite in Kherson, President Zelensky condemned a recent barrage of drones and missiles as \"utterly horrific,\" observing its timing coincided with US elections.",
+      "item_ids": [
+        "657d57788941003e",
+        "81d127e725de73b3",
+        "ac5c02295c770385",
+        "531f46f5b4e6f4df"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "41283bd27d0b6c17",
+      "source": "Aeon | a world of ideas",
+      "source_type": "rss",
+      "title": "Believing and thinking",
+      "url": "https://aeon.co/essays/the-psychology-of-separating-church-and-state",
+      "summary": "The essay explores the psychological basis of separating church and state, arguing that we choose what we believe but not what we think. This distinction underpins the societal and political concept.",
+      "tags": [
+        "philosophy",
+        "psychology",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "240c0462160a6491",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Beyond screens: Mercedes-Benz's new holographic heads-up display",
+      "url": "https://arstechnica.com/cars/2026/11/beyond-screens-mercedes-benzs-new-holographic-heads-up-display/",
+      "summary": "Mercedes-Benz is developing a new holographic display as an advanced form of heads-up display (HUD), aiming to offer an alternative to increasingly large and numerous screens in luxury car interiors. This innovation seeks to answer what comes next in automotive display technology beyond current screen trends.",
+      "tags": [
+        "automotive",
+        "display technology",
+        "luxury cars"
+      ],
+      "priority": false
+    },
+    {
+      "id": "26b77b6ba9bbe18c",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Buttons are back and storage is king when it comes to car interiors",
+      "url": "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/",
+      "summary": "Car interior design is shifting away from minimalist, screen-heavy interfaces and back towards physical buttons and increased storage, as drivers complained about distraction and lack of intuition. This change addresses earlier design trends that prioritized software integration and cost savings over user experience.",
+      "tags": [
+        "automotive",
+        "design",
+        "user experience"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f0e742eabe07ffc0",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "EPA throws in the towel on policing air pollution from factory farms",
+      "url": "https://arstechnica.com/tech-policy/2026/11/epa-throws-in-the-towel-on-policing-air-pollution-from-factory-farms/",
+      "summary": "The EPA announced it would end its 20-year effort to monitor and regulate air pollution from factory farms under the Clean Air Act, a move seen as a reprieve for farmers. Emissions from livestock operations, including fine particulate matter and ammonia, contribute to significant air pollution and are linked to nearly 12,700 deaths annually in the US.",
+      "tags": [
+        "environment",
+        "policy",
+        "agriculture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "73bf5e8c1211bcca",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Google dismantles botnet secretly running on 1.3 million Android TV boxes",
+      "url": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/",
+      "summary": "Google has shut down the x.cpe botnet, which infected over 1.3 million Google-certified Android TV devices from Videostrong Technology due to obfuscated malware. The malware evaded detection during certification by installing remotely post-setup and disabling Play Protect.",
+      "tags": [
+        "cybersecurity",
+        "botnet",
+        "android"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5552c2cb09acf2de",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Google will let schools skip AI tools, but they have to give up search, too",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+      "summary": "Google is giving K-12 schools the option to opt out of its AI tools, but doing so will also disable access to Google Search, presenting educators with a difficult choice. This all-or-nothing approach affects products like Gemini and Google Search, requiring administrators to manually enable AI if desired.",
+      "tags": [
+        "google",
+        "education",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c887204b79acd796",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+      "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+      "summary": "The New York Times and other publishers are suing Brave Software, alleging the browser illegally bypasses paywalls and sells copyrighted news content to AI companies without consent. The lawsuit claims Brave has earned over $100 million by reselling publishers' work, which AI companies then use to train models and respond to user queries.",
+      "tags": [
+        "copyright",
+        "ai",
+        "lawsuit"
+      ],
+      "priority": false
+    },
+    {
+      "id": "71dfdf15db79bef3",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-wanted-to-give-no-kings-no-air-then-meta-suspended-its-instagram/",
+      "summary": "Meta temporarily suspended the No Kings Coalition's pro-democracy Instagram account, which was later attributed to an automated system mistakenly flagging Claude AI tool usage as bot activity. The group rejected Meta's apology and demanded a meeting with senior leadership to address concerns about potential suppression of voting content ahead of elections.",
+      "tags": [
+        "social media",
+        "ai",
+        "election"
+      ],
+      "priority": false
+    },
+    {
+      "id": "daf8ed023a3662c5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Asian Cup postponed in wake of attacks on Saudi Arabia",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
+      "summary": "The 2027 Asian Cup, scheduled to be held in Saudi Arabia, has been postponed following a series of deadly attacks on the host country. This decision prioritizes security concerns.",
+      "tags": [
+        "sports",
+        "saudi arabia",
+        "security"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7cecef6a204b1abc",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+      "summary": "Binance reported that fake job interviews were used as part of a $6.3 billion crypto hack, where an engineer was contacted through a legitimate platform by fake company representatives. This highlights a sophisticated social engineering tactic used in large-scale cybercrime.",
+      "tags": [
+        "cybersecurity",
+        "crypto",
+        "hack"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f7024d0e67626da6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Bollywood film star Ranbir Kapoor on AI, movies and fatherhood",
+      "url": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
+      "summary": "Bollywood film star Ranbir Kapoor discusses AI, movies, and fatherhood, as he takes on a leading role in a new adaptation of the Indian epic Ramayana. The video features his perspectives on these topics.",
+      "tags": [
+        "bollywood",
+        "ai",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "657d57788941003e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+      "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
+      "summary": "The death toll in Ukraine has risen to at least 38 people in 24 hours after Russia attacked an aid center, hospice, and hospital, with dozens more potentially trapped under rubble. President Zelensky warned of the devastating impact of these attacks.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "war"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0a9851d41ddb8ea5",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Supermarkets across 10 European countries, from Estonia to Italy, have reported cyber-attacks targeting their freezers, leading to widespread food spoilage. This coordinated attack has forced retailers to discard significant amounts of food.",
+      "tags": [
+        "cybersecurity",
+        "europe",
+        "supply chain"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4e779e389156573a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Indian tourist killed after two helicopters collide near Everest base camp",
+      "url": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
+      "summary": "An Indian tourist died after two helicopters collided just meters from the ground near Everest base camp while attempting to land at the same spot. This tragic incident occurred during a dangerous maneuver.",
+      "tags": [
+        "nepal",
+        "accident",
+        "aviation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c06523279a5f4b42",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Indonesia's toxic haze is giving its neighbours a political headache",
+      "url": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Indonesia's toxic haze is causing political tensions with neighboring Singapore and Malaysia, as their governments face pressure from anxious citizens. This environmental issue creates diplomatic challenges.",
+      "tags": [
+        "environment",
+        "indonesia",
+        "pollution"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fab18b570a42e49a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Irish Olympian Ciara Mageean was a 'talented and inspirational human being'",
+      "url": "https://www.bbc.co.uk/news/articles/cw62ye1030njo?at_medium=RSS&at_campaign=rss",
+      "summary": "Former European champion and two-time Olympic runner Ciara Mageean passed away after being diagnosed with stage four bowel cancer. She is remembered as a talented and inspirational figure.",
+      "tags": [
+        "obituary",
+        "sports",
+        "ireland"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fd348afb8da280d2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Jet may have broken apart before Florida crash, officials say, as family named among victims",
+      "url": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials suspect a jet may have broken apart before crashing in Florida, killing Adam Robinson, Helen Sharp, and their two young children. The investigation is ongoing into the cause of the tragic incident.",
+      "tags": [
+        "aviation",
+        "accident",
+        "florida"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ccd928c4d7545152",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Libya's top religious authority rules against wearing Nike clothes",
+      "url": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
+      "summary": "Libya's Dar al-Ifta, the top religious authority, has issued a ruling against wearing Nike clothes because the company is named after the Greek goddess of victory, making its logo un-Islamic. This decision reflects religious interpretations influencing consumer choices.",
+      "tags": [
+        "libya",
+        "religion",
+        "nike"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ee3c0c729ca87e6a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Major test for Australia's social media ban begins in High Court",
+      "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Australia's High Court is beginning a major test of the country's social media ban, with lawyers for Reddit and a digital rights group arguing it violates children's right to free communication. This case challenges a world-leading policy.",
+      "tags": [
+        "australia",
+        "social media",
+        "censorship"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2c2837341d8df1ba",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Mining giant joins fight to stop killer toad march across Australia",
+      "url": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
+      "summary": "Mining giant Rio Tinto is co-funding a A$28 million \"toad containment zone\" to protect Australia's Pilbara region from the advancing invasion of killer toads. This significant investment aims to halt the environmental threat posed by the invasive species.",
+      "tags": [
+        "environment",
+        "australia",
+        "conservation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42a266346c1ee199",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Musk pumps $446m into US midterms, as campaign spending set to 'shatter' records",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&at_campaign=rss",
+      "summary": "Elon Musk has contributed $446 million to the US midterm elections, with overall campaign spending projected to reach nearly $12 billion, setting new records. This highlights the unprecedented financial investment in the election cycle.",
+      "tags": [
+        "elon musk",
+        "us politics",
+        "election"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9c142879c90f47b4",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "summary": "North Korea has denied accusations from US government agencies and cyber analysts that it was responsible for the record-breaking $6.3 billion Binance crypto hack. The denial follows widespread blame directed at Pyongyang.",
+      "tags": [
+        "north korea",
+        "cybersecurity",
+        "crypto"
+      ],
+      "priority": false
+    },
+    {
+      "id": "81d127e725de73b3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Kyiv reports that Russian bombing killed 31 people at a southern Ukrainian aid center, describing the attack with nine 3,000kg aerial bombs as \"utterly horrific.\" President Zelensky noted the barrage coincided with US elections.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "war crimes"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8ab1b05350555313",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Seven flights across Europe targeted by suspected bomb threats",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Multiple planes in Poland, Spain, Bulgaria, and Italy were subjected to explosives checks following separate suspected bomb threats. This indicates a coordinated series of security incidents across Europe.",
+      "tags": [
+        "security",
+        "europe",
+        "aviation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e9cff7d93760171e",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
+      "summary": "The Supreme Court rejected former President Trump's request to prevent California from counting disputed votes, effectively ending his administration's attempt to disqualify ballots in the state. This ruling came just before the midterm elections.",
+      "tags": [
+        "us politics",
+        "supreme court",
+        "election"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c858ff3d240b7cf2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Tenerife striker De Miguel dies after on-field collision",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tenerife forward Jesus de Miguel, aged 30, died following an on-field collision during a Spanish second-division football match. His death marks a tragic loss in the sport.",
+      "tags": [
+        "football",
+        "sports",
+        "accident"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1f309482c5fccfe3",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of European troops will rehearse a deployment to Ukraine, but Western officials stress that any such force would only take part in offensive operations if peace is achieved. This drill prepares for post-conflict stabilization rather than direct combat.",
+      "tags": [
+        "europe",
+        "ukraine",
+        "military exercise"
+      ],
+      "priority": false
+    },
+    {
+      "id": "25b3d172ef44d872",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US strikes Iranian island ahead of midterm elections",
+      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US conducted \"limited and defensive\" strikes on Qeshm Island in Iran, according to US officials, ahead of the midterm elections. This action, reported by CBS, represents a military engagement in the region.",
+      "tags": [
+        "us politics",
+        "iran",
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cb9ab73802a1e224",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "US urges Venezuela to release remaining political prisoners",
+      "url": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Secretary of State urged Venezuela to release its remaining political prisoners and discussed laying the groundwork for \"free, fair, and credible elections.\" This emphasizes US pressure for democratic reforms.",
+      "tags": [
+        "us foreign policy",
+        "venezuela",
+        "human rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9e6b2a60b56f5aee",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why a US-Russia showdown left Morocco celebrating",
+      "url": "https://www.bbc.co.uk/news/articles/cqp8genleg2ro?at_medium=RSS&at_campaign=rss",
+      "summary": "An impasse between the US and Russia at the UN led to the end of its 35-year peacekeeping mission in Western Sahara, resulting in Morocco celebrating. This outcome reflects geopolitical shifts impacting regional conflicts.",
+      "tags": [
+        "geopolitics",
+        "un",
+        "morocco"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a01a1b5b907571da",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+      "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+      "summary": "The article explores whether a modern chess engine running on a 1996-era Pentium processor could have defeated Garry Kasparov. It delves into the impact of algorithmic improvements in chess AI.",
+      "tags": [
+        "ai",
+        "chess",
+        "history"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0d4bb9c647e5e7e2",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Google will turn off search for schools that reject AI",
+      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "summary": "Google plans to disable access to its search engine for schools that choose to reject its AI tools. This policy change forces educators to either accept AI integration or lose core Google services.",
+      "tags": [
+        "google",
+        "education",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bcd6109a31abbf47",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+      "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+      "summary": "Kalshi and its co-founders are facing felony charges for allegedly violating Utah gambling laws. The article's link suggests a prior context of the Trump administration suing Utah to protect Kalshi from a state-wide gambling ban.",
+      "tags": [
+        "lawsuit",
+        "gambling",
+        "regulation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "40eb056ea9f4f79b",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "url": "https://news.ycombinator.com/item?id=50352757",
+      "summary": "OpenAI appears to be silently re-enabling model training on Codex chats, despite users previously disabling data sharing, leading to concerns about intellectual property leakage. Users are advised to check their data controls.",
+      "tags": [
+        "openai",
+        "privacy",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b3e224daffbb166a",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "summary": "Postman is accused of silently auto-installing AI plugins and attempting to share all API data, raising privacy and data security concerns among users. Users found that data sharing settings in similar AI tools were unexpectedly re-enabled.",
+      "tags": [
+        "privacy",
+        "api",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e4986baaf516be84",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "summary": "The article discusses the Qwen 3.8 27B model's capability to interpret model weights, even when run on a laptop. This highlights advancements in accessible AI model understanding.",
+      "tags": [
+        "ai",
+        "llm",
+        "machine learning"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c5df8e8fc48e7061",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "summary": "A blog post argues that the claim \"Astra can read and write weights to improve Qwen\" is misleading. This suggests a debate regarding the capabilities and descriptions of AI models.",
+      "tags": [
+        "ai",
+        "machine learning",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b6f9c960e6643d21",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "'Messy,' 'divided' and 'scary': swing voters rate the country ahead of Election Day",
+      "url": "https://www.npr.org/2026/11/03/nx-s1-6014577/swing-voters-midterm-elections-voting-trump",
+      "summary": "Swing voters who supported Trump in 2024 describe the country as \"messy,\" \"divided,\" and \"scary\" ahead of Election Day, reflecting their evolving perspectives on his presidency and current political choices. Their sentiments highlight key concerns influencing midterm voting decisions.",
+      "tags": [
+        "us politics",
+        "election",
+        "voters"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e0f7ea9ae3295892",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Control of Congress is at stake today. And, judge to consider motion in Clancy case",
+      "url": "https://www.npr.org/2026/11/03/g-s1-151445/up-first-newsletter-midterms-election-day-iran-war-lindsay-clancy",
+      "summary": "On Election Day, voters are heading to the polls to determine control of Congress, while a judge is also considering a motion in the Lindsay Clancy murder case. This highlights key political and legal events of the day.",
+      "tags": [
+        "election",
+        "us politics",
+        "congress"
+      ],
+      "priority": false
+    },
+    {
+      "id": "531f46f5b4e6f4df",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing",
+      "url": "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war",
+      "summary": "A Russian strike on a southern Ukrainian aid site resulted in 29 deaths and 48 people still missing, with President Zelensky reporting 289 attack drones and numerous missiles used across nine regions. The attack coincided with U.S. elections, an observation by the president.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "war"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ac5c02295c770385",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life",
+      "url": "https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson",
+      "summary": "A short ceasefire in Ukraine's Kherson city allowed residents to experience a temporary return to normal life, with people meeting at cafes and shopping. This brief respite provided a stark contrast to the usual threat of Russian drones.",
+      "tags": [
+        "ukraine",
+        "ceasefire",
+        "daily life"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2544de54b4cfb21e",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Four types of House races to watch on election night to know how it might go",
+      "url": "https://www.npr.org/2026/11/03/g-s1-151305/2026-midterms-house-races-to-watch",
+      "summary": "As Election Day polls close, voters should monitor four types of House races to understand the unfolding midterm election results. These specific races will provide indicators of national trends.",
+      "tags": [
+        "election",
+        "us politics",
+        "house races"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a444386fd42d263c",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "From 'model minority' to target, anti-Indian hate on the rise",
+      "url": "https://www.npr.org/2026/11/03/nx-s1-6026418/from-model-minority-to-target-anti-indian-hate-on-the-rise",
+      "summary": "Researchers report a growing and increasingly mainstream rise in anti-Indian hate in the U.S., with a recent massacre targeting Hindu Americans having been thwarted. This shift highlights a troubling trend for South Asian communities.",
+      "tags": [
+        "hate crime",
+        "social issues",
+        "racism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "10b7f6bbefc28679",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "How NPR makes race calls in the 2026 election",
+      "url": "https://www.npr.org/2026/11/03/g-s1-151311/how-npr-calls-races-2026",
+      "summary": "NPR partners with the Associated Press to make race calls on election night, explaining their process as a critical part of election coverage. This details the methodology behind announcing election results.",
+      "tags": [
+        "election",
+        "journalism",
+        "npr"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d0c7ec2c304977fc",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia",
+      "url": "https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia",
+      "summary": "The Indian navy rescued 20 crew members from an Iranian fishing boat hijacked off Somalia, involving a warship, surveillance aircraft, and marine commandos. This operation follows a resurgence of Somali piracy in the Gulf of Aden and western Indian Ocean.",
+      "tags": [
+        "india",
+        "navy",
+        "piracy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1fe414d46a2d0e5e",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "New restrictions at Texas Tech are changing what professors can teach",
+      "url": "https://www.npr.org/2026/11/03/nx-s1-5963883/texas-tech-academic-sb17-odyssey",
+      "summary": "New restrictions at Texas Tech are altering course materials and faculty autonomy, leading to accusations of censorship, faculty departures, and student protests. The policy has sparked a federal lawsuit and concerns about academic freedom.",
+      "tags": [
+        "education",
+        "academic freedom",
+        "texas"
+      ],
+      "priority": false
+    },
+    {
+      "id": "be57fd1f646a6399",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "When caring for aging family members becomes cost prohibitive",
+      "url": "https://www.npr.org/2026/11/03/nx-s1-6026479/when-caring-for-aging-family-members-becomes-cost-prohibitive",
+      "summary": "AARP reports that family caregivers are now spending 60% more than five years ago to care for aging family members. This article discusses the rising costs of caregiving and senior living options.",
+      "tags": [
+        "healthcare",
+        "aging",
+        "family care"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5eddb7a2de54e708",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "The affordability election that teaches Democrats nothing",
+      "url": "https://www.politico.com/news/2026/11/03/democrats-affordability-2026-midterms-cost-living-01145086",
+      "summary": "Democrats may perform well in the midterms due to voter focus on affordability and dislike of Trump, but this outcome might offer few clear lessons for future platforms or governing strategies. The party faces a potential conflict between lowering living costs and opposing the Trump administration.",
+      "tags": [
+        "us politics",
+        "election",
+        "democrats"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a4a32d0a9c5e4549",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "The ‘Armageddon’ election",
+      "url": "https://www.politico.com/video/2026/11/03/the-armageddon-election-2218009",
+      "summary": "The ‘Armageddon’ election\nlead image",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "307fd941aade9f18",
+      "source": "Politics",
+      "source_type": "rss",
+      "title": "‘We forgot what it's like to be populist’: Republicans see Trump’s 2024 crumbling",
+      "url": "https://www.politico.com/news/2026/11/03/poll-trump-gop-coalition-fractures-elections-01145084",
+      "summary": "Republicans are observing a fracturing of Trump’s 2024 coalition, with young voters and Americans of color moving away amid an unpopular Iran war and lagging approval ratings. This shift poses an alarming sign for the party's performance in the current election.",
+      "tags": [
+        "us politics",
+        "trump",
+        "republicans"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9d60b9b2d495c046",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+      "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
+      "summary": "A researcher demonstrated how near-imperceptible background aircraft noise in video soundtracks can be analyzed for Doppler curves, then cross-referenced with ADS-B data to pinpoint the video's exact location. This reveals a novel method of OSINT for location tracking.",
+      "tags": [
+        "privacy",
+        "osint",
+        "audio analysis"
+      ],
+      "priority": false
+    },
+    {
+      "id": "93d7edae15b7b55a",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "llm 0.37",
+      "url": "https://simonwillison.net/2026/Nov/2/llm/",
+      "summary": "The LLM CLI tool and Python library released version 0.37, adding new models like gpt-6.1-sol and gpt-6.1-terra, an easier command for OpenAI-compatible endpoints, and improved embeddings support. The maintainer notes that AI-assisted pull requests have not been a problem, often serving as bug reports.",
+      "tags": [
+        "open source",
+        "llm",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1de93cd91f332983",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "What did the right win with Malfoid?",
+      "url": "https://www.slowboring.com/p/what-did-the-right-win-with-malfoid",
+      "summary": "This piece refers to a significant body of Harry Potter fan fiction involving romance between Harry Potter and Draco Malfoy, exploring how this phenomenon is prevalent on fan fiction sites. It specifically notes the existence of both gay and gender-swapped versions of the romance.",
+      "tags": [
+        "fan fiction",
+        "harry potter",
+        "internet culture"
+      ],
+      "priority": false
+    },
+    {
+      "id": "036c07027aa2b38f",
+      "source": "Slow Boring",
+      "source_type": "substack",
+      "title": "What not to watch tonight",
+      "url": "https://www.slowboring.com/p/what-not-to-watch-tonight",
+      "summary": "The article provides guidance on common analytic errors pundits make on election night, advising against demographic analysis based on exit polls and interpreting early Kentucky House race results as national indicators. It suggests that while such races matter for party building, their immediate national significance is often overstated.",
+      "tags": [
+        "election",
+        "analysis",
+        "media bias"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5800ef23a6b7db49",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "summary": "AI inference startup Fal has doubled its valuation to $16 billion after raising a $1.3 billion funding round led by Bessemer. This surge in valuation reflects strong demand for its services.",
+      "tags": [
+        "ai",
+        "startup",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "8c21616aa3c4ca32",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Anthropic is still grappling with the economics of compute",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "summary": "Anthropic is facing worsening compute margins, despite expectations that they should be improving. This suggests ongoing challenges with the economic costs of large-scale AI computation.",
+      "tags": [
+        "ai",
+        "business",
+        "startups"
+      ],
+      "priority": false
+    },
+    {
+      "id": "dcafc12ec28adef6",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "summary": "Apple hinted at exploring \"opportunities\" to increase revenue through third-party AI apps during its recent earnings call. This suggests potential new monetization strategies related to AI integrations.",
+      "tags": [
+        "apple",
+        "ai",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d3c95f9bd15519cd",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apple restricts dating apps and AI companions to users 18 and up",
+      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+      "summary": "Apple's updated App Store rules now require dating apps and AI companions offering sexual or romantic content to have an 18+ rating. This change aims to regulate content access for younger users.",
+      "tags": [
+        "apple",
+        "app store",
+        "policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f988ce1f2e87267f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "summary": "Apple Watch is beginning beta testing for new Audio Intelligence AI features designed to help users remember what was said in conversations or take notes. These features aim to enhance productivity and recall.",
+      "tags": [
+        "apple",
+        "apple watch",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "21eaa5b34d47250f",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Ferrari’s controversial Luce EV is sold out for 2027",
+      "url": "https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/",
+      "summary": "Ferrari's first electric car, the controversial Luce EV, is completely sold out through 2027, according to CEO Benedetto Vigna. This indicates high demand despite its polarizing reception.",
+      "tags": [
+        "automotive",
+        "ev",
+        "ferrari"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b9ea9f9bfc21ec20",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "summary": "Google is expanding its AI experiment, Dreambeans, to India with support for 13 Indian languages, aiming to bring AI-generated personal stories to a wider audience. This initiative focuses on localizing AI content.",
+      "tags": [
+        "google",
+        "ai",
+        "india"
+      ],
+      "priority": false
+    },
+    {
+      "id": "91db4275bf3a3cc8",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+      "summary": "Google's new policy for K-12 schools allows administrators to disable AI tools, but this also means losing access to Google Search, as AI features are integrated into the search engine. This presents a difficult choice for schools concerned about AI usage.",
+      "tags": [
+        "google",
+        "education",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4426e879df4bbafa",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "summary": "Netflix is launching an \"AI Discover\" tab in its TV app featuring experimental, AI-powered tools to help users find content based on their mood or specific themes. This initial feature provides recommendations like \"Family Movie Night\" and learns from user feedback.",
+      "tags": [
+        "netflix",
+        "ai",
+        "streaming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9aa9f7815d523641",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
+      "url": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
+      "summary": "Reddit is testing new ad placements within its search results to generate more revenue, especially as traffic declines and growth concerns emerge. These ads will be contextually relevant to user search queries.",
+      "tags": [
+        "reddit",
+        "advertising",
+        "search"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4d941bea048b4925",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
+      "url": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/",
+      "summary": "Rivian spinout Also abandoned its e-moto project in Kenya to prioritize autonomous vehicles, according to co-founder Chris Yu. This decision reflects a strategic shift in the company's focus.",
+      "tags": [
+        "automotive",
+        "startup",
+        "electric vehicles"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f7f7b44f798409ee",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Ten years later, ‘Pokémon Go to the polls’ still haunts the internet",
+      "url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+      "summary": "Hillary Clinton's 2016 political gaffe, \"Pokémon Go to the polls,\" has become a rallying cry for jaded young voters seeking change. The phrase remains a notable cultural reference on the internet.",
+      "tags": [
+        "politics",
+        "internet culture",
+        "election"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d4961208656af104",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+      "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+      "summary": "A Kyiv startup has developed a pocket-sized gadget that allows Ukrainian troops to watch the video feeds of Russian drones. This technology provides tactical advantage, though its effectiveness could be limited by Russian shifts to digital video and AI-guided drones that emit no signals.",
+      "tags": [
+        "ukraine",
+        "military",
+        "drones"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2e0b917739eecb9b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "summary": "Y Combinator's Garry Tan reportedly spends up to $200,000 annually on AI tokens due to his extensive use of AI agents. He has humorously described his intense engagement with AI as \"cyber psychosis.\"",
+      "tags": [
+        "ai",
+        "y combinator",
+        "entrepreneurship"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5d281d332a1f71f2",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
+      "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+      "summary": "Evertrue Capital, led by Yvonne Bajela, has announced a $17 million debut fund aimed at backing early-stage AI and fintech startups in Europe. This initiative injects significant new capital into the European startup ecosystem.",
+      "tags": [
+        "venture capital",
+        "startups",
+        "europe"
+      ],
+      "priority": false
+    },
+    {
+      "id": "87359a4b13ea2787",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Four Issues Explain the Election: Affordability, Immigration, Wokeness, and War",
+      "url": "https://www.thefp.com/p/four-issues-explain-the-election-polling-elections-midterms",
+      "summary": "Opinion surveys from The Free Press identify affordability, immigration, wokeness, and war as the four most consequential issues for American voters in the current election. These \"private\" opinions reveal what truly matters to people as they decide how to vote.",
+      "tags": [
+        "us politics",
+        "election",
+        "voters"
+      ],
+      "priority": false
+    },
+    {
+      "id": "2f3373b92d62089c",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "ICE Is Set to Deport Dozens of Afghans. They Fear ‘Certain Death.’",
+      "url": "https://www.thefp.com/p/ice-is-set-to-deport-dozens-of-afghans",
+      "summary": "ICE is reportedly preparing to deport as many as 80 Afghans back to Afghanistan, where they fear \"certain death\" from the Taliban due to their past assistance to the U.S. military. A bipartisan group of lawmakers has urged the Secretary of State to cancel these deportation flights, citing moral obligations.",
+      "tags": [
+        "immigration",
+        "afghanistan",
+        "deportation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "516d2485e12370a8",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Israel’s Fight in the North",
+      "url": "https://www.thefp.com/p/israels-fight-in-the-north",
+      "summary": "This article reports from northern Israel, discussing threats facing the country's northern frontier, including drones, and exploring the plight of Syria's Druze community. Conversations with Israeli army officers and a Druze leader reveal the profound impact of war on daily life.",
+      "tags": [
+        "israel",
+        "military",
+        "drones"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b178daf0df635b6f",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Democratic Tent Is Too Big",
+      "url": "https://www.thefp.com/p/the-democratic-tent-is-too-big-michigan-midterms",
+      "summary": "The article expresses concern that the Democratic Party's \"big tent\" includes \"Jew-hating 'socialist' left\" elements, leading to a refusal to support certain candidates despite general Democratic alignment. The author considers Donald Trump a danger but would not empower academic extremists.",
+      "tags": [
+        "us politics",
+        "democrats",
+        "antisemitism"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d46d2541b0aab63a",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Purging of Haley Stevens",
+      "url": "https://www.thefp.com/p/the-purging-of-haley-stevens-midterms-michigan-democrats",
+      "summary": "Michigan Congresswoman Haley Stevens withdrew her endorsement of Democratic Senate candidate Abdul El-Sayed and urged Democrats to vote for his Republican opponent, Mike Rogers, stating El-Sayed \"just didn’t care about Jewish voters.\" This highlights a significant ideological division within the Democratic party.",
+      "tags": [
+        "us politics",
+        "democrats",
+        "election"
+      ],
+      "priority": false
+    },
+    {
+      "id": "97afac3ee619552a",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "This Week in Canada: Welcome Aboard ‘The Lolita Line’",
+      "url": "https://www.thefp.com/p/this-week-in-canada-welcome-aboard-the-lolita-line",
+      "summary": "Canada is pursuing a strategy of enduring a trade war with the US until 2029 rather than accepting an unfavorable deal, with the Prime Minister asserting that Canada is growing stronger economically. However, economic numbers indicate the trade war, involving 50% tariffs on Canadian goods, is causing significant costs and delayed investments.",
+      "tags": [
+        "canada",
+        "trade",
+        "us relations"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a3e86af8bf1fcd46",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "The Art of Advancing with Age: Bertrand Russell on What Makes a Fulfilling Life",
+      "url": "https://www.themarginalian.org/2026/11/03/how-to-grow-old-bertrand-russell/",
+      "summary": "Bertrand Russell's essay \"How to Grow Old\" suggests that a fulfilling life involves expanding one's interests beyond the personal ego, gradually merging into a universal life. This approach, akin to a river flowing into the sea, can alleviate the fear of death by ensuring that one's cares continue.",
+      "tags": [
+        "philosophy",
+        "aging",
+        "life wisdom"
+      ],
+      "priority": false
+    },
+    {
+      "id": "707bb94080191665",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Apple starts giving Siri AI access to third-party apps",
+      "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "summary": "Apple is rolling out an iOS 27.3 update that allows Siri AI to access and perform actions across third-party apps, integrating new features like personal context and natural language processing. Developers can create \"app skills\" to combine multiple tasks into a single Siri action without requiring users to name specific apps.",
+      "tags": [
+        "apple",
+        "siri",
+        "ai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d7f62a33bb67db6e",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Indie games are missing launch dates because Steam is backed up",
+      "url": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
+      "summary": "Many indie game developers are reporting significant delays in their game approval process on Steam, causing them to miss planned launch dates. This backlog indicates unexpected challenges in Valve's submission system.",
+      "tags": [
+        "gaming",
+        "steam",
+        "indie games"
+      ],
+      "priority": false
+    },
+    {
+      "id": "075057c953d8ec95",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "iPhone 18 rumors suggest a bigger battery, higher price next year",
+      "url": "https://www.theverge.com/tech/1025748/apple-iphone-18-rumors-price-hike-battery",
+      "summary": "Rumors suggest the base iPhone 18 will launch next year with a higher price, including upgrades such as a larger battery and a new 2-nanometer A20 chip. However, it reportedly will not feature the smaller Dynamic Island expected on the Pro models.",
+      "tags": [
+        "apple",
+        "iphone",
+        "mobile"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f12d70a6868fcd57",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
+      "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
+      "summary": "Netflix is introducing an \"AI Discover\" tab in its TV app to provide experimental, AI-powered features for finding new content. The first feature offers themed recommendations based on user mood and preferences, learning from real-time feedback.",
+      "tags": [
+        "netflix",
+        "ai",
+        "streaming"
+      ],
+      "priority": false
+    },
+    {
+      "id": "80ab62faa5320610",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "OpenAI says ChatGPT is catching up to Google in search",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "summary": "OpenAI announced that ChatGPT's search query volume now equals 20 percent of Google's, defining a search as any user input resulting in a web search. This indicates ChatGPT is making significant inroads into the traditional search market.",
+      "tags": [
+        "ai",
+        "search",
+        "openai"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5f33e4b7ae32b6d9",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Reddit is adding more ads",
+      "url": "https://www.theverge.com/tech/1025602/reddit-search-ads-test",
+      "summary": "Reddit is expanding its advertising strategy by testing ads within search results, which will be displayed based on contextual relevance to user queries. This move aims to generate more revenue by integrating ads into another area of the platform, supplementing existing ad formats in feeds and threads.",
+      "tags": [
+        "reddit",
+        "advertising",
+        "search"
+      ],
+      "priority": false
+    },
+    {
+      "id": "122e597dc6e076af",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "This Election Day, remember which party ran against EVs and tethered us all to the gas pump",
+      "url": "https://www.theverge.com/transportation/1025318/trump-gop-ev-war-record-gas-prices-midterms",
+      "summary": "On Election Day, national average gas prices are at a record high for the date, with the Strategic Petroleum Reserve at a 44-year low. This article frames the election partly around gas prices and which political party's policies are perceived to have contributed to the current energy situation.",
+      "tags": [
+        "election",
+        "energy",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9469bd43140ac11e",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "You can’t hit a wrong note when playing along with songs on Casio’s new keyboard",
+      "url": "https://www.theverge.com/tech/1025673/casio-digital-piano-keyboard-ct-fs1-feel-sync-technology",
+      "summary": "Casio's new Casiotone CT-FS1 portable electronic keyboard features technology that prevents users from hitting wrong notes when playing along with songs. This innovation aims to help aspiring musicians practice rhythm and timing without discouragement, offering a monochromatic design and portable power options.",
+      "tags": [
+        "music",
+        "technology",
+        "casio"
+      ],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 111,
+    "summarized": 84,
+    "skipped_promos": 3,
+    "filtered_by_rules": 24,
+    "sources": 12,
+    "email_items_omitted": 0
+  }
+}
