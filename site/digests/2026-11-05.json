@@ -1,0 +1,939 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T20:54:40+00:00",
+  "hot_topics": [
+    {
+      "topic": "AI and Data Center Regulation Backlash",
+      "synthesis": "Recent election results show a strong public backlash against the expansion of AI infrastructure, particularly data centers, with voters supporting restrictive measures and candidates advocating for stricter regulations. This 'blue wave' signals a potential slowdown in the AI industry's growth, impacting future investments, as acknowledged by companies like Meta. The sentiment suggests a shift towards greater accountability for AI companies.",
+      "item_ids": [
+        "0bd8d58dcd15b244",
+        "622c9af6d7751f00",
+        "f1837a95191ea9c1"
+      ]
+    },
+    {
+      "topic": "AI for Personal Finance Management",
+      "synthesis": "AI chatbots are increasingly integrating with personal finance tools, allowing users to connect their bank and card accounts for automated spending analysis. Anthropic's Claude, for instance, now offers a Personal Finance feature via Plaid, providing read-only insights into spending patterns, upcoming bills, and saving potential. This development aims to offer more accessible financial guidance through AI.",
+      "item_ids": [
+        "1ec4029bf6bdd1a4",
+        "693361c6f450b52c"
+      ]
+    },
+    {
+      "topic": "Meta's Muse AI Avatar Enhancements",
+      "synthesis": "Meta is expanding the interactive capabilities of its Muse AI agent, now enabling real-time voice conversations and video chats with customizable animated avatars for US users. This enhancement allows for more dynamic engagement with the AI, and precedes the planned launch of a Tamagotchi-like wearable device designed to bring Muse further into daily life.",
+      "item_ids": [
+        "c40512c8fbecfee1",
+        "4ca2cf3288a7f246"
+      ]
+    },
+    {
+      "topic": "Motorola Signature 27 Flagship Smartphone",
+      "synthesis": "Motorola has launched its new Signature 27, a $1,600 non-folding flagship smartphone featuring top-of-the-line specifications, including Qualcomm's most powerful mobile chip and 512GB of storage. This device aims to fill a gap in Motorola's US lineup and is also noted for its potential compatibility with privacy-focused operating systems like GrapheneOS.",
+      "item_ids": [
+        "efd6a12e4302e893",
+        "fd7955dc59483c58"
+      ]
+    },
+    {
+      "topic": "TikTok Launches Standalone Shopping App",
+      "synthesis": "TikTok has introduced a standalone TikTok Shop app in select countries, creating a dedicated e-commerce platform separate from its main social media application. The app offers personalized product recommendations, shopping through livestreams and short-form videos, exclusive deals, secure payments, and comprehensive customer support, signaling TikTok's growing ambitions in online retail.",
+      "item_ids": [
+        "ff68f1cf5c3fa0c0",
+        "c577d17a6bbe4b1e"
+      ]
+    },
+    {
+      "topic": "Russell Brand's Rape Conviction and New Investigations",
+      "synthesis": "Comedian Russell Brand has been convicted of rape and is set to receive a prison sentence, following a trial where he was described as a 'sexual predator' despite his denials. Police have since announced new investigations into two additional rape complaints, hoping the recent verdicts will encourage more potential victims to come forward.",
+      "item_ids": [
+        "a2f903af23b8f3ee",
+        "96d289d325d2fcf0",
+        "0800c886b93bd18e"
+      ]
+    },
+    {
+      "topic": "Paraguayan President's Resignation and Impeachment After Bank Collapse",
+      "synthesis": "Paraguay's President Santiago Peña resigned and was subsequently impeached by lawmakers within minutes, following the collapse of a digital bank linked to his government. This financial crisis froze millions of people's savings and led to rapid political fallout, highlighting severe instability in the country.",
+      "item_ids": [
+        "def0137ad318e42b",
+        "7507cd6cb0875277"
+      ]
+    },
+    {
+      "topic": "Republican Midterm Losses and Blame Game",
+      "synthesis": "Following significant midterm election losses, the Republican Party is grappling with internal divisions and a blame game, with many leaders stunned by the Democratic 'blue tsunami.' Vice President J.D. Vance sharply criticized the Iran war as a political catastrophe for the GOP, while others, like Rod Dreher, suggest the party must distance itself from Donald Trump's influence to rebuild for future elections.",
+      "item_ids": [
+        "063359787fdd3379",
+        "5225b9dab936332a",
+        "57f5df3495dcb1cc",
+        "344284ca16aa230e",
+        "bfe00b3665649930"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "aa53edb406fbb6ec",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "2026 iPad mini review: Maximizing the mini",
+      "url": "https://arstechnica.com/gadgets/2026/11/ipad-mini-2026-review-maximizing-the-mini/",
+      "summary": "The 2026 iPad mini offers improved competitiveness with a current chip, better speakers, and an 8.5-inch OLED screen, making it a quality portable tablet. Despite these upgrades, its high price, only $50 less than the larger iPad Air, makes its market case challenging.",
+      "tags": [
+        "tablets",
+        "apple",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9194f0e59f21ecb9",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+      "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+      "summary": "Agility Robotics, the first dedicated humanoid robot developer to go public in the US, debuted on Nasdaq, acknowledging that humanoid robots are still unproven at scale. The company plans to build its business by renting or selling robots for manual labor, aiming for clear ROI for customers by offering rates comparable to human labor.",
+      "tags": [
+        "robotics",
+        "ai",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "0bd8d58dcd15b244",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+      "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
+      "summary": "Donald Trump’s big, rapid American AI buildout now faces a major slowdown as voters in yesterday’s elections overwhelmingly supported candidates and measures that favored increasing restrictions on AI and data centers nationwide.\nOne resource from a polling firm, called Redbud Co…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "5605471c850e0e4c",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "BMW bumps battery for the better: The 2027 i7 60 xDrive, driven",
+      "url": "https://arstechnica.com/cars/2026/11/bmw-bumps-battery-for-the-better-the-2027-i7-60-xdrive-driven/",
+      "summary": "BMW's 2027 i7 60 xDrive, a luxury electric sedan, features a new sixth-generation powertrain with more energy-dense cylindrical cells and advanced silicon carbide inverters. This model integrates its electric powertrain as an option within the 7 Series, unlike Mercedes, and utilizes powerful domain controllers for enhanced capabilities and easier updates.",
+      "tags": [
+        "electric vehicles",
+        "automotive",
+        "technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7ef42496d27daa96",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Gamers go to ridiculous lengths to \"improve\" GTA VI with Nvidia's DLSS 5",
+      "url": "https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/",
+      "summary": "Gamers are devising elaborate setups to apply Nvidia's DLSS 5 technology to the console-exclusive Grand Theft Auto VI, despite its PC unavailability. This involves routing a PlayStation 5's video through a PC with open-source software to enhance graphics and increase frame rates, showing some visual improvements but also potential artifacts.",
+      "tags": [
+        "gaming",
+        "pc gaming",
+        "graphics technology"
+      ],
+      "priority": false
+    },
+    {
+      "id": "d930ef95af914a57",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Hackers exploited iOS and Android flaws to infect phones",
+      "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
+      "summary": "Hackers, possibly linked to Russia's Foreign Intelligence Service, exploited previously patched iOS and Android flaws to infect phones of visitors to various websites, including one impersonating the america250.org anniversary site. The attacks used malicious JavaScript to profile devices and steal browser cookies, Wi-Fi passwords, and mobile data.",
+      "tags": [
+        "cybersecurity",
+        "hacking",
+        "malware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7dfbb832d08f120d",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Kalshi court losses pile up as judges refuse to block state gambling laws",
+      "url": "https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/",
+      "summary": "Prediction market Kalshi suffered multiple federal court losses in its bid to block state gambling laws, with Arkansas also filing a new lawsuit. The core issue is whether Kalshi's platform offers \"swaps\" regulated by the CFTC or constitutes gambling under state law.",
+      "tags": [
+        "legal",
+        "gambling",
+        "regulation"
+      ],
+      "priority": false
+    },
+    {
+      "id": "efd6a12e4302e893",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag",
+      "url": "https://arstechnica.com/gadgets/2026/11/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag/",
+      "summary": "Motorola is patching a hole in its US lineup with a non-folding flagship phone, but the pricing puts this device dangerously close to the company's expensive\ntablet-style foldable\n. The long-rumored Motorola Signature 27 is real, featuring top-of-the-line specs, a super-bright OL…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "5d3ef1f5fa0a91fc",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
+      "url": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
+      "summary": "Researchers developed new software to improve exoplanet imaging from the Webb Telescope by optimizing a physical model to reduce noise from telescope variations. This software helps to better account for the point spread function, allowing clearer views of distant planets despite blinding stars.",
+      "tags": [
+        "astronomy",
+        "space",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7813342ffd4c428d",
+      "source": "Ars Technica",
+      "source_type": "rss",
+      "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
+      "url": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
+      "summary": "Broadcom's VMware has released vSphere Express, a new lower-end virtualization offering aimed at small to medium-sized businesses (SMBs) seeking cost-effective solutions. This move comes after many SMB customers felt alienated by VMware's previous push towards its more expensive, feature-rich VMware Cloud Foundation.",
+      "tags": [
+        "virtualization",
+        "software",
+        "business"
+      ],
+      "priority": false
+    },
+    {
+      "id": "861bd746f4caed6a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Cristiano Ronaldo has retired from international football, marking a bitter end for the iconic player who transformed Portuguese football. Guillem Balague reviews his career and considers his future steps.",
+      "tags": [
+        "sports",
+        "football",
+        "biography"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9f079d3383e681b8",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "California governor commutes death sentences for all 548 people on death row",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+      "summary": "California's governor has commuted the death sentences for all 548 individuals on death row, impacting the state with historically the largest death row population in the US. This executive action effectively ends capital punishment in the state.",
+      "tags": [
+        "justice system",
+        "california",
+        "politics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7ecb6f961113af9f",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Eight killed in series of shootings in western Turkey",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Eight people were killed in a series of shootings across multiple locations in western Turkey, with victims found in three separate vehicles. Local reports confirm these incidents are under investigation.",
+      "tags": [
+        "crime",
+        "turkey",
+        "violence"
+      ],
+      "priority": false
+    },
+    {
+      "id": "25dc7df57d018649",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "French protests see numbers surge as unions join strikes over high cost of living",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Protests across France saw a surge in participation, with the interior ministry estimating 600,000 people joining strikes organized by unions over the high cost of living. Unions claim the actual number of participants was significantly higher.",
+      "tags": [
+        "protest",
+        "france",
+        "economy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ac5a50f0814113f7",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Hoax bomb threats target European airlines and airports for second time in a week",
+      "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hoax bomb threats have again targeted European airlines and airports, affecting at least 21 flights across the continent. The UK government has labeled these incidents as a \"malicious hoax threat.\"",
+      "tags": [
+        "aviation",
+        "security",
+        "europe"
+      ],
+      "priority": false
+    },
+    {
+      "id": "910e307cf4b10680",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+      "summary": "Melania Trump hosted Russian and Ukrainian officials and called for a lasting truce in Ukraine, with all parties crediting her for a key, though unspecified, role in the ceasefire. This event highlights her diplomatic involvement in international conflict resolution.",
+      "tags": [
+        "geopolitics",
+        "ukraine",
+        "russia"
+      ],
+      "priority": false
+    },
+    {
+      "id": "def0137ad318e42b",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Paraguay President Santiago Peña resigns after bank collapse",
+      "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "3499f4b8311d9178",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+      "url": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pope Leo hosted Bob Dylan at his official residence in Rome, having previously quoted Dylan's work in a book preface warning against nuclear rearmament. This meeting highlights a shared concern for global issues between the religious leader and the music icon.",
+      "tags": [
+        "culture",
+        "religion",
+        "music"
+      ],
+      "priority": false
+    },
+    {
+      "id": "a2f903af23b8f3ee",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Russell Brand is being investigated over two new rape complaints, police say",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" from the guilty verdicts.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "89fcdbd0a5ce76c6",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1r42jx00o?at_medium=RSS&at_campaign=rss",
+      "summary": "A judge ruled that the television series \"The Pitt\" is sufficiently similar to \"ER,\" allowing a lawsuit by ER creator Michael Crichton's widow to proceed. The lawsuit alleges \"The Pitt\" is an unauthorized reboot of the 1990s medical drama.",
+      "tags": [
+        "entertainment",
+        "legal",
+        "television"
+      ],
+      "priority": false
+    },
+    {
+      "id": "5225b9dab936332a",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "96d289d325d2fcf0",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Watch: How rapist Brand was never far from controversy",
+      "url": "https://www.bbc.co.uk/news/videos/c9dr8713zjgyo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC correspondent Sima Kotecha explains how the trial unfolded.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "5dfbc3004407b692",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Who could be behind hoax bomb threats to European air travel?",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Investigations into the recent hoax bomb threats targeting European air travel have not yet yielded hard evidence linking them to Russia, Iran, or any proxy groups. This indicates ongoing uncertainty regarding the perpetrators.",
+      "tags": [
+        "aviation",
+        "security",
+        "geopolitics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1848c1ea52ccf7d9",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Why a US-funded vaccine trial on babies was cancelled in Guinea-Bissau",
+      "url": "https://www.bbc.co.uk/news/articles/cm0rlxq08ejko?at_medium=RSS&at_campaign=rss",
+      "summary": "A US-funded vaccine trial on babies in Guinea-Bissau was canceled after being condemned as \"unethical\" and \"neocolonial\" because half of the participants would not receive the vaccine. This raised concerns about equitable medical research practices.",
+      "tags": [
+        "health",
+        "ethics",
+        "vaccines"
+      ],
+      "priority": false
+    },
+    {
+      "id": "3ca60d6c80d74ee2",
+      "source": "BBC News",
+      "source_type": "rss",
+      "title": "Would you take a test to see if your life will be cut short? I did - and it changed me",
+      "url": "https://www.bbc.co.uk/news/articles/cw62yq9vp7yyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Laura Sides recounts taking a test to determine if she would inherit her father's life-shortening condition, an experience that profoundly changed her perspective. The article explores the personal dilemma and impact of facing such health information.",
+      "tags": [
+        "health",
+        "personal story",
+        "genetics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "b94183dfd94ac62a",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Discord is ditching Electron and its new app uses less RAM",
+      "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+      "summary": "Discord is reportedly moving away from Electron for its new application, which is expected to result in significantly reduced RAM usage. This shift aims to improve performance and efficiency for its users.",
+      "tags": [
+        "software development",
+        "apps",
+        "discord"
+      ],
+      "priority": false
+    },
+    {
+      "id": "fd7955dc59483c58",
+      "source": "Hacker News: Front Page",
+      "source_type": "rss",
+      "title": "Motorola Signature 27 with GrapheneOS support",
+      "url": "https://motorolanews.com/motorola-signature-27-2/",
+      "summary": "Article URL:\nhttps://motorolanews.com/motorola-signature-27-2/\nComments URL:\nhttps://news.ycombinator.com/item?id=50380810\nPoints: 289\n# Comments: 197",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "4a1d4b5877d587b9",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "After sweeping midterm wins, here's what Democrats hope to get done in the majority",
+      "url": "https://www.npr.org/2026/11/05/nx-s1-6029331/democrats-have-a-long-to-do-list-when-they-take-over-congress-next-year",
+      "summary": "Following sweeping midterm wins, Democrats plan to unite their caucus to fulfill pledges on lowering costs and stamping out corruption. Party leaders face the challenge of unifying a sometimes fractious group to achieve their legislative priorities.",
+      "tags": [
+        "politics",
+        "elections",
+        "democratic party"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f1dd737bdef3d985",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "First-time homebuyers remain scarce, but a record share of them pay all cash",
+      "url": "https://www.npr.org/2026/11/05/nx-s1-6022491/real-estate-all-cash-offer",
+      "summary": "First-time homebuyers are increasingly scarce, with a record number paying all cash, a trend widening the divide between those who can afford homes and those priced out. A new report also shows the median age of first-time buyers remains at a record high.",
+      "tags": [
+        "real estate",
+        "economy",
+        "housing market"
+      ],
+      "priority": false
+    },
+    {
+      "id": "9fa0e4d40a23ae26",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Head of Justice Department office on Civil Rights resigns",
+      "url": "https://www.npr.org/2026/11/05/g-s1-152080/head-of-justice-department-office-on-civil-rights-resigns",
+      "summary": "Harmeet Dhillon, head of the Justice Department's Civil Rights Division, resigned after 18 turbulent months in the position. Her departure concludes a period marked by significant challenges and scrutiny.",
+      "tags": [
+        "politics",
+        "justice department",
+        "civil rights"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7507cd6cb0875277",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
+      "url": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse",
+      "summary": "Paraguayan lawmakers voted to impeach President Santiago Peña minutes after his resignation, as the collapse of a digital bank tied to his government froze millions of people's savings.\n(Image credit: Jorge Saenz)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "0800c886b93bd18e",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Russell Brand is convicted of rape, and judge says he'll get a prison term",
+      "url": "https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison",
+      "summary": "A prosecutor described Brand as a ruthless, calculating, manipulative \"sexual predator.\" Brand, 51, denied the charges, saying he had never forced anyone to do something against their will.\n(Image credit: Alberto Pezzali)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "1eff81f29b5aa9a6",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Sen. Gillibrand says Democrats must end Iran war, hold Trump accountable. But how?",
+      "url": "https://www.npr.org/2026/11/05/nx-s1-6028837/kirsten-gillibrand-democrats-congress-priorities",
+      "summary": "Senator Kirsten Gillibrand outlined Democratic priorities, including ending the Iran war and holding Trump accountable, but questions remain about how these pledges will be delivered. She discussed these aims with Morning Edition, focusing on lowering costs and foreign policy.",
+      "tags": [
+        "politics",
+        "democratic party",
+        "foreign policy"
+      ],
+      "priority": false
+    },
+    {
+      "id": "cdf7b513cbcc9d65",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Teens worldwide aren't getting enough exercise -- especially girls",
+      "url": "https://www.npr.org/2026/11/05/nx-s1-6027635/exercise-workout-teenagers-adolescents-gender-gap",
+      "summary": "A new study reveals that teenagers worldwide, particularly girls, are not meeting the recommended daily amount of exercise. This highlights a global public health concern regarding adolescent physical activity levels.",
+      "tags": [
+        "health",
+        "youth",
+        "wellness"
+      ],
+      "priority": false
+    },
+    {
+      "id": "63c9419e3771ddca",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "Trump's arch is on the verge of federal approval. But a judge could block construction",
+      "url": "https://www.npr.org/2026/11/05/nx-s1-6027301/trump-arch-federal-approval-judge-construction",
+      "summary": "A federal panel is set to consider final approval for \"Trump's arch,\" with construction potentially beginning soon after, but critics hope a judge will intervene. This project faces last-minute legal challenges despite being on the verge of federal endorsement.",
+      "tags": [
+        "politics",
+        "infrastructure",
+        "legal"
+      ],
+      "priority": false
+    },
+    {
+      "id": "063359787fdd3379",
+      "source": "NPR Topics: News",
+      "source_type": "rss",
+      "title": "What's next for Democrats after the midterms. And, a look at the outstanding races",
+      "url": "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction",
+      "summary": "Democrats have regained control of Congress. They have a long list of investigations into Trump planned. And, not all races have been called. Here's a look at how they could affect the Dems' majority.\n(Image credit: Kevin Dietsch)",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "a440391e0c49eb67",
+      "source": "Simon Willison's Weblog",
+      "source_type": "rss",
+      "title": "Quoting Paul Ford",
+      "url": "https://simonwillison.net/2026/Nov/5/paul-ford/",
+      "summary": "Paul Ford is quoted emphasizing the increasing power and decreasing cost of leveraging web browsers for applications. This highlights the growing accessibility of advanced functionalities within web development.",
+      "tags": [
+        "web development",
+        "browsers",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "091b554231fbfff7",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+      "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+      "summary": "Aina's new smart ring features a screen, joystick, and microphone, enabling users to interact with AI agents, make calls, and dictate notes on their Mac. This innovative wearable aims to provide multi-functional AI access from a compact device.",
+      "tags": [
+        "wearable technology",
+        "ai",
+        "gadgets"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bd42799ca5346cd4",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "summary": "Axiom Math, a startup, is focusing on verification to prevent \"AI slop\" from contaminating mathematical proofs, betting on accuracy in the field. Its AI agents recently formally verified the Stacks Project, one of the largest mathematics libraries, highlighting their commitment to rigorous validation.",
+      "tags": [
+        "ai",
+        "mathematics",
+        "software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "733baba838525a18",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Bluesky hit peak usage for the year on election night",
+      "url": "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/",
+      "summary": "Bluesky experienced its peak usage for the year on election night, with posts and likes doubling during the US midterm elections. This surge indicates increased engagement on the platform during significant political events.",
+      "tags": [
+        "social media",
+        "elections",
+        "engagement"
+      ],
+      "priority": false
+    },
+    {
+      "id": "f11c0ed085003eca",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+      "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+      "summary": "Box is utilizing Nvidia's Nemotron for a new agent-first content retrieval system, designed to significantly enhance query speed and accuracy. The system is expected to answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
+      "tags": [
+        "ai",
+        "cloud storage",
+        "enterprise software"
+      ],
+      "priority": false
+    },
+    {
+      "id": "693361c6f450b52c",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "374c507a43ec868d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "summary": "Dropbox acquired Tigris Data for $350 million to strengthen its AI infrastructure and support the development of DBX Agent Cloud. This new storage platform is designed for developers creating AI models and agents, signaling Dropbox's strategic focus on AI capabilities.",
+      "tags": [
+        "ai",
+        "cloud storage",
+        "acquisitions"
+      ],
+      "priority": false
+    },
+    {
+      "id": "011e8eccf9dab61a",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
+      "url": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
+      "summary": "ElevenLabs now enables users to publish AI-generated music directly to SoundCloud, indicating a significant integration for AI music creation platforms. Over 25 million tracks have already been generated using ElevenLabs' music models.",
+      "tags": [
+        "ai",
+        "music",
+        "audio"
+      ],
+      "priority": false
+    },
+    {
+      "id": "500ec169e64832f6",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
+      "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
+      "summary": "Food delivery startup Wonder has filed for an IPO, exploring public trading after years of fundraising, acquisitions, and expansion. This move positions the company closer to becoming a publicly traded entity in the competitive food delivery market.",
+      "tags": [
+        "food delivery",
+        "business",
+        "ipo"
+      ],
+      "priority": false
+    },
+    {
+      "id": "110d6ec8448e7d0d",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Harbinger raises $240M after expanding into defense",
+      "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
+      "summary": "Harbinger, an LA-based startup, raised $240 million, bringing its total funding to over $650 million, following its expansion into the defense sector. The company is developing electric trucks, emergency vehicles, and a driverless platform specifically for military applications.",
+      "tags": [
+        "electric vehicles",
+        "defense",
+        "funding"
+      ],
+      "priority": false
+    },
+    {
+      "id": "7b5d91b842c42d2b",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Instagram brings Edits to desktop to take on CapCut",
+      "url": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
+      "summary": "Instagram has launched its \"Edits\" video editing features on desktop, aiming to compete more directly with ByteDance's CapCut. This expansion to desktop provides users with more robust video editing capabilities outside of the mobile app.",
+      "tags": [
+        "social media",
+        "video editing",
+        "apps"
+      ],
+      "priority": false
+    },
+    {
+      "id": "4ca2cf3288a7f246",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f1837a95191ea9c1",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "5920751a297ae0c1",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "summary": "OpenAI President Greg Brockman indicated that the company might be ready for an Initial Public Offering (IPO) by 2027, citing accelerating enterprise revenue and business turnaround. This signals a potential shift towards public ownership for the leading AI firm.",
+      "tags": [
+        "ai",
+        "business",
+        "ipo"
+      ],
+      "priority": false
+    },
+    {
+      "id": "daadaeeaa0699234",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "RadianX promises solar-powered devices that never need charging",
+      "url": "https://techcrunch.com/2026/11/05/radianx-promises-solar-powered-devices-that-never-need-charging/",
+      "summary": "RadianX claims its perovskite solar cells can power portable devices indefinitely, potentially eliminating the need for traditional charging. This technology promises to overcome the limitations of conventional solar panels for energy-hungry gadgets.",
+      "tags": [
+        "solar power",
+        "sustainable technology",
+        "gadgets"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c577d17a6bbe4b1e",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "TikTok quietly launches a stand-alone TikTok Shop app",
+      "url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
+      "summary": "The app will offer personalized product recommendations, shopping through livestreams and short-form videos, app-exclusive deals, in-app checkout, order tracking, and customer support.",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "77b007850835c837",
+      "source": "TechCrunch",
+      "source_type": "rss",
+      "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
+      "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
+      "summary": "Zipline achieved a $21.5 billion valuation after raising $1.5 billion and deepening its partnership with Walmart for drone delivery services. This significant investment and collaboration underscore the growing confidence in drone logistics for commercial use.",
+      "tags": [
+        "drones",
+        "logistics",
+        "e-commerce"
+      ],
+      "priority": false
+    },
+    {
+      "id": "bfe00b3665649930",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Angry, Divided, and Dejected: The GOP Blame Game Has Begun",
+      "url": "https://www.thefp.com/p/angry-divided-and-dejected-the-gop",
+      "summary": "Just two years ago, Donald Trump romped to victory\nin a sweep\nof the popular vote and seven battleground states that left Republicans confident—even arrogant—that their grip on power was impregnable, at least through the president’s second term. That confidence has been shattered…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "57f5df3495dcb1cc",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "Rod Dreher: To Win Again, Republicans Must Make Enemies on the Right",
+      "url": "https://www.thefp.com/p/rod-dreher-to-win-again-republicans",
+      "summary": "MAGA may be dead but Donald Trump is very much still with us, which means the GOP must try to rebuild for 2028 in a crossfire hurricane.\nOn one side will be the energized Democrats, who will spend the next two years dragging administration officials before Congress. But surviving…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "344284ca16aa230e",
+      "source": "The Free Press",
+      "source_type": "substack",
+      "title": "The Interstate Where the Midterms Were Won",
+      "url": "https://www.thefp.com/p/the-interstate-where-the-midterms-were-won",
+      "summary": "I-35 is a great American highway. It starts at the southern border in Laredo, Texas, then moseys its way through Kansas, Iowa, and Minnesota, straight up through the gut of the country. It is where the election of 2026 took place, spiritually and politically. It is where the gove…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "f38ee595dace0092",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "The Generosity of Selfishness: C.S. Lewis on How to Be Interesting",
+      "url": "https://www.themarginalian.org/2026/11/05/interesting/",
+      "summary": "C.S. Lewis offers a counterintuitive perspective on generosity, suggesting that a truly interesting and happy life is intensely \"selfish\" in its outward focus on a thousand things rather than self-centeredness. He argues that self-forgetfulness, rather than self-pity or self-concern, is key to creative breakthroughs and genuine giving.",
+      "tags": [
+        "philosophy",
+        "self-improvement",
+        "literature"
+      ],
+      "priority": false
+    },
+    {
+      "id": "214f4931fdc28b48",
+      "source": "The Marginalian",
+      "source_type": "rss",
+      "title": "The Souls of Animals",
+      "url": "https://www.themarginalian.org/2026/11/04/the-souls-of-animals/",
+      "summary": "Gary Kowalski's \"The Souls of Animals\" explores whether animals possess souls, defining spirituality as a natural byproduct of the biological order shared by all life. He argues that by investigating animals' inner lives, we deepen our understanding of ourselves, revealing soul in outward manifestations like courage, generosity, and intimacy.",
+      "tags": [
+        "philosophy",
+        "animals",
+        "ethics"
+      ],
+      "priority": false
+    },
+    {
+      "id": "1ec4029bf6bdd1a4",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Claude AI can plug directly into your bank account",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+      "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for examp…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "da5d102ee9414ab5",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "EA is bringing 25 classic PC games to Steam",
+      "url": "https://www.theverge.com/games/1023553/ea-classic-pc-games-steam-anniversary-edition",
+      "summary": "Electronic Arts is releasing 25 classic PC games on Steam, including \"Anniversary Editions\" of Road Rash and six Wing Commander titles. These editions aim to preserve original aesthetics while adding quality-of-life updates for modern systems, leveraging newly recovered and re-edited master FMV sequences.",
+      "tags": [
+        "gaming",
+        "pc gaming",
+        "classic games"
+      ],
+      "priority": false
+    },
+    {
+      "id": "09b67baa09c63edf",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Ember’s smallest self-heating mug is on sale for just $33",
+      "url": "https://www.theverge.com/gadgets/1027689/ember-cup-6-ounce-woot-kitchen-sale-deal",
+      "summary": "The Ember Cup, a six-ounce self-heating mug, is on sale for $32.99, offering a more affordable entry into Ember's temperature-controlled products. It maintains drinks at a user-set temperature between 120-145°F for up to 95 minutes on battery or all day on its charging dock.",
+      "tags": [
+        "gadgets",
+        "deals",
+        "smart home"
+      ],
+      "priority": false
+    },
+    {
+      "id": "e9ea109f9af280cc",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Grimes is going to star in an AI movie that’s coming to theaters",
+      "url": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
+      "summary": "The AI-generated sci-fi film \"Gods Don't Give Gifts\" will feature pop star Grimes, lending her likeness and vocal performance, as it prepares for a December 4th theatrical release. This project serves as a significant test case for the commercial viability of AI-created films, with the studio claiming actor likeness and vocal performance casting will become common.",
+      "tags": [
+        "ai",
+        "film",
+        "entertainment"
+      ],
+      "priority": false
+    },
+    {
+      "id": "c40512c8fbecfee1",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Muse has a voice mode now",
+      "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+      "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg\nannounced today\n.\nThe feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "da2d43e24ddbe9ad",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Nintendo says it’s not planning another Switch 2 price hike",
+      "url": "https://www.theverge.com/games/1027757/nintendo-switch-2-price-hike-plans-ram",
+      "summary": "Nintendo President Shuntaro Furukawa stated the company is not planning further price hikes for the Switch 2, which already saw a $50 increase this year. Despite a 37.4% year-over-year drop in Switch 2 sales, Nintendo confirmed it has secured sufficient RAM quantities.",
+      "tags": [
+        "gaming",
+        "nintendo",
+        "hardware"
+      ],
+      "priority": false
+    },
+    {
+      "id": "29bb9caf81d8c54c",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "Samsung’s Galaxy Z Fold 8 is $300 off ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1027659/samsung-galaxy-z-fold-8-beats-pill-deal-sale",
+      "summary": "The Samsung Galaxy Z Fold 8 is currently discounted by $300 to $1,599.99 at Amazon and Best Buy, offering significant savings on the unlocked device. Despite lacking a telephoto lens and having an IP48 rating, the foldable features a comfortable design, long battery life, and an iPad-like screen ratio ideal for reading.",
+      "tags": [
+        "smartphones",
+        "deals",
+        "samsung"
+      ],
+      "priority": false
+    },
+    {
+      "id": "ff68f1cf5c3fa0c0",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "TikTok launched a dedicated TikTok Shop app",
+      "url": "https://www.theverge.com/tech/1027772/tiktok-shop-app",
+      "summary": "TikTok has released a standalone app for TikTok Shop in a few countries, as spotted\nby social media consultant Matt Navarra\n. According to\nits App Store listing\n, the TikTok Shop app offers:\n- Personalized picks inspired by your interests\n- LIVE streams & short videos to see prod…",
+      "tags": [],
+      "priority": false
+    },
+    {
+      "id": "622c9af6d7751f00",
+      "source": "The Verge",
+      "source_type": "rss",
+      "title": "‘Total repudiation’: The blue wave is about to hit AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+      "summary": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native American woman governor electe…",
+      "tags": [],
+      "priority": false
+    }
+  ],
+  "counts": {
+    "new_items": 108,
+    "summarized": 67,
+    "skipped_promos": 14,
+    "filtered_by_rules": 27,
+    "sources": 9,
+    "email_items_omitted": 0
+  }
+}
